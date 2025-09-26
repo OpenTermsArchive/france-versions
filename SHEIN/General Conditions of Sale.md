@@ -14,9 +14,9 @@ Les Cartes-cadeaux sont livrées, après acceptation du paiement, à l'adresse �
 
 La Carte-cadeau achetée sera envoyée à l'adresse électronique fournie au moment de la commande. La non-réception de la Carte-cadeau par le Client ou le bénéficiaire choisi par le Client ( **»Bénéficiaire»** ) peut être due à l'une des causes suivantes :
 
-* Une adresse e-mail incorrecte ou erronée introduite au moment de l'achat de la Carte-cadeau. Le Client est alors invité à contacter sans délai le [Service Client](javascript:;) pour confirmer et modifier l'adresse e-mail.
-* La boîte de réception du Client ou du Bénéficiaire est pleine. Si, après s'être assuré qu'il y a suffisamment de place dans la boîte de réception, le Client n'a toujours pas reçu la Carte-cadeau, il est invité à contacter sans délai le [Service Client](javascript:;) pour une nouvelle livraison.
-* Les emails de SHEIN ont été bloqués par la boîte email du Client ou du Bénéficiaire. Ce dernier est alors invité à vérifier ses courriers indésirables et à ajouter [https://fr.shein.com/](javascript:;) à la liste des expéditeurs autorisés, puis à contacter, sans délai, le Service Client pour un nouvel envoi.
+* Une adresse e-mail incorrecte ou erronée introduite au moment de l'achat de la Carte-cadeau. Le Client est alors invité à contacter sans délai le [Service Client](https://fr.shein.com/robot) pour confirmer et modifier l'adresse e-mail.
+* La boîte de réception du Client ou du Bénéficiaire est pleine. Si, après s'être assuré qu'il y a suffisamment de place dans la boîte de réception, le Client n'a toujours pas reçu la Carte-cadeau, il est invité à contacter sans délai le [Service Client](https://fr.shein.com/robot) pour une nouvelle livraison.
+* Les emails de SHEIN ont été bloqués par la boîte email du Client ou du Bénéficiaire. Ce dernier est alors invité à vérifier ses courriers indésirables et à ajouter [https://fr.shein.com/](https://fr.shein.com/) à la liste des expéditeurs autorisés, puis à contacter, sans délai, le Service Client pour un nouvel envoi.
 
 **(2) Cartes-cadeaux promotionnelles**
 
@@ -52,7 +52,7 @@ CONDITIONS GÉNÉRALES DE VENTE
 
 Bienvenue sur le marché en ligne de Shein France.
 
-Infinite Styles Services Co., Ltd (adresse : 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, Dublin, D04 XN32, Ireland, numéro de la société : 732881) exploite le site web [https://fr.shein.com/](javascript:;) et/ou sur l'application mobile correspondante (la **»Marketplace»** ) ( **»Shein»** ou **»l'Opérateur»** ).
+Infinite Styles Services Co., Ltd (adresse : 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, Dublin, D04 XN32, Ireland, numéro de la société : 732881) exploite le site web [https://fr.shein.com/](https://fr.shein.com/) et/ou sur l'application mobile correspondante (la **»Marketplace»** ) ( **»Shein»** ou **»l'Opérateur»** ).
 
 Votre utilisation de la Marketplace et des services de facilitation de la Marketplace fournis par l'Opérateur ( **»Services»** ) est régie par nos [conditions générales d'utilisation](javascript:;) . Veuillez-vous assurer que vous les avez lues et acceptées avant d'utiliser ou de continuer à utiliser la Marketplace.
 
@@ -79,17 +79,17 @@ Avant d'effectuer un achat, le Client sera invité à lire attentivement les pr�
 
 Le Client comprend et accepte que les conditions suivantes de la Marketplace font partie intégrale des présentes :
 
-\- [Politique concernant les coupons](javascript:;)
+\- [Politique concernant les coupons](https://fr.shein.com/Coupon-Policy-a-1302.html)
 
-\- [Politique concernant les points bonus](javascript:;)
+\- [Politique concernant les points bonus](https://fr.shein.com/bonus-point-program-a-371.html)
 
-\- [Politique concernant la livraison](javascript:;)
+\- [Politique concernant la livraison](https://fr.shein.com/Shipping-Info-a-280.html)
 
-\- [Politique concernant les retours](javascript:;)
+\- [Politique concernant les retours](https://fr.shein.com/Return-Policy-a-281.html)
 
-\- [Politique concernant les avis clients](javascript:;)
+\- [Politique concernant les avis clients](https://fr.shein.com/Review-Guidance-a-478.html)
 
-\- [Politique concernant le classement des offres](javascript:;)
+\- [Politique concernant le classement des offres](https://fr.shein.com/ranking-policy-a-1979.html)
 
 LE FAIT DE PASSER COMMANDE IMPLIQUE L'ACCEPTATION EXPRESSE DES PRÉSENTES CONDITIONS GÉNÉRALES DE VENTE. EN L'ABSENCE D'UNE TELLE ACCEPTATION, LE CLIENT NE DOIT PAS PASSER DE COMMANDE.
 
@@ -153,7 +153,7 @@ L'Opérateur facilite le processus de retour et effectue les remboursements pour
 
 3.1 Dans la mesure où la loi le permet, le Client déclare avoir eu connaissance des caractéristiques essentielles des Produits qui figurent sur le Marketplace. Ces caractéristiques comprennent les mentions d'information présentées sur le Site.
 
-3.2 Les photographies, qui ne sont pas contractuelles, ont vocation à éclairer au mieux le Client. Ce dernier reconnait toutefois qu'il peut exister, du fait de la qualité couleur des photographies, des différences sensibles entre la présentation du Produit qui est faite sur la Marketplace et le Produit livré notamment, de la calibration du moniteur utilisé. Une fois que le Produit est reçu par le Client et qu'il n'est pas satisfait du Produit, le Client peut procéder au retour du Produit conformément à la [politique concernant le retour](javascript:;) .Pour éviter toute ambiguïté, les différences de couleurs ou de présentation du Produit n'impliquent pas un défaut ou une non-conformité.
+3.2 Les photographies, qui ne sont pas contractuelles, ont vocation à éclairer au mieux le Client. Ce dernier reconnait toutefois qu'il peut exister, du fait de la qualité couleur des photographies, des différences sensibles entre la présentation du Produit qui est faite sur la Marketplace et le Produit livré notamment, de la calibration du moniteur utilisé. Une fois que le Produit est reçu par le Client et qu'il n'est pas satisfait du Produit, le Client peut procéder au retour du Produit conformément à la [politique concernant le retour](https://fr.shein.com/Return-Policy-a-281.html) .Pour éviter toute ambiguïté, les différences de couleurs ou de présentation du Produit n'impliquent pas un défaut ou une non-conformité.
 
 **3.3 Risque et titre de propriété.**  Sous réserve de la section 6.2 ci-dessous, les Produits achetés sont aux risques du Client à partir du moment de la livraison.Le titre de propriété des produits achetés en dehors du territoire est transféré du vendeur au client une fois que les articles ont franchi les « eaux internationales » (c'est-à-dire qu'ils ne relèvent pas de la compétence territoriale d'un pays). Le titre de propriété de tout article acheté réalisé sur le Territoire est transféré du Vendeur respectif au Client lors du chargement des Produits achetés dans des véhicules ou des appareils au lieu de départ, le cas échéant.  Veuillez noter qu’en commandant sur ce Site, les Clients sont considérés comme l’importateur officiel et doivent se conformer à toutes les lois et réglementations du pays dans lequel le Client reçoit les Produits.
 
@@ -217,7 +217,7 @@ b) Ensuite, le Client valide définitivement la commande en cliquant sur le bout
 
 (11) En tout état de cause, la commande ne sera définitivement validée qu'après paiement de la commande et confirmation par email à l'adresse électronique associée au compte utilisateur.
 
-(12) Le Client est tenu de s'assurer que toutes les informations fournies au cours du processus de commande sont correctes. Si le Client détecte une erreur dans sa commande après la fin du processus de paiement, il doit immédiatement contacter le [service clientèle](javascript:;) pour corriger l cette erreur.
+(12) Le Client est tenu de s'assurer que toutes les informations fournies au cours du processus de commande sont correctes. Si le Client détecte une erreur dans sa commande après la fin du processus de paiement, il doit immédiatement contacter le [service clientèle](https://fr.shein.com/robot) pour corriger l cette erreur.
 
 (13) La langue du contrat est le français.
 
@@ -227,7 +227,7 @@ b) Ensuite, le Client valide définitivement la commande en cliquant sur le bout
 
 (1) Options de livraison : en fonction des Produits commandés et, si disponible, de l'option de livraison choisie par le Client, la livraison sera organisée sur une base locale ( **« Quickship »** ) ou internationale, selon le lieu où se trouvent les Produits lors de la commande passer par le Client.
 
-(a) Mode de livraison : le Client choisit l'un des modes de livraison proposés sur la Marketplace (voir la [politique concernant la livraison](javascript:;) ) lorsqu'il passe sa commande. Le service de livraison à domicile est disponible en France.
+(a) Mode de livraison : le Client choisit l'un des modes de livraison proposés sur la Marketplace (voir la [politique concernant la livraison](https://fr.shein.com/Shipping-Info-a-280.html) ) lorsqu'il passe sa commande. Le service de livraison à domicile est disponible en France.
 
 (b) Adresse de livraison : Le Client choisit une adresse de livraison. Le Client est seul responsable de tout défaut de livraison dû à une erreur d'adresse lors de la commande.
 
@@ -261,13 +261,13 @@ Le Client est tenu de vérifier l'état des Produits à réception de la livrais
 
 (1) Tout risque de perte ou d'endommagement des Produits est transféré au Client au moment où celui-ci prend physiquement possession des Produits.
 
-(2) Il appartient au Client de refuser le colis s'il est manifestement endommagé ou d'émettre les réserves et réclamations sur l'endommagement du colis jugées nécessaires dans les 24 heures de la réception des Produits, sans que cela n'affecte ses droits statutaires. Lesdites réserves et réclamations doivent être adressées par écrit au transporteur sélectionné par le Client lors du choix du mode de livraison. Le transporteur choisi sera également indiqué sur le récapitulatif de commande envoyé au Client une fois la commande passée. Le Client doit également envoyer une copie de cette lettre ou de ce document au [service clientèle](javascript:;) ( **« Service clientèle»** ).
+(2) Il appartient au Client de refuser le colis s'il est manifestement endommagé ou d'émettre les réserves et réclamations sur l'endommagement du colis jugées nécessaires dans les 24 heures de la réception des Produits, sans que cela n'affecte ses droits statutaires. Lesdites réserves et réclamations doivent être adressées par écrit au transporteur sélectionné par le Client lors du choix du mode de livraison. Le transporteur choisi sera également indiqué sur le récapitulatif de commande envoyé au Client une fois la commande passée. Le Client doit également envoyer une copie de cette lettre ou de ce document au [service clientèle](https://fr.shein.com/robot) ( **« Service clientèle»** ).
 
 7.3 Articles non-conformes à la commande.
 
-(1) Le Client doit s'assurer que les Produits qui lui ont été livrés correspondent à la commande passée. En cas de réception de produits erronés (différents de ceux achetés par le Client) ou d'erreur sur les quantités, le Client doit informer le [service clientèle](javascript:;) conformément au présent article.
+(1) Le Client doit s'assurer que les Produits qui lui ont été livrés correspondent à la commande passée. En cas de réception de produits erronés (différents de ceux achetés par le Client) ou d'erreur sur les quantités, le Client doit informer le [service clientèle](https://fr.shein.com/robot) conformément au présent article.
 
-(2) Le Client devra formuler auprès du Vendeur, via le [Service Client](javascript:;) , dans les 48 jours après réception du colis, toute réclamation d'erreur de livraison et/ou d'erreur et/ou de non-conformité des Produits en nature ou en qualité par rapport à la commande, ceci n'affectant pas les droits statutaires du Client.
+(2) Le Client devra formuler auprès du Vendeur, via le [Service Client](https://fr.shein.com/robot) , dans les 48 jours après réception du colis, toute réclamation d'erreur de livraison et/ou d'erreur et/ou de non-conformité des Produits en nature ou en qualité par rapport à la commande, ceci n'affectant pas les droits statutaires du Client.
 
 (3) Les frais de renvoi des Produits sont à la charge du Vendeur, qui remboursera le Client dans les quatorze (14) jours suivant la réception des Produits renvoyés.
 
@@ -464,7 +464,7 @@ Les obligations du Vendeur au titre des CGV sont suspendues pendant la durée de
 
 12\. DONNÉES PERSONNELLES
 
-Le Client confirme qu'il a lu et compris la [politique de confidentialité de Marketplaces](javascript:;) qui explique comment ses données personnelles sont collectées et traitées.
+Le Client confirme qu'il a lu et compris la [politique de confidentialité de Marketplaces](https://fr.shein.com/Privacy-Security-Policy-a-282.html) qui explique comment ses données personnelles sont collectées et traitées.
 
 13\. CONTACT
 
@@ -476,15 +476,15 @@ Courriel : frcsteam@shein.com
 
 Numéro d'entreprise : 732881
 
-13.3 Pour tout problème lié aux Services, le Client peut contacter SHEIN à tout moment par email notre centre de confidentialité à [Privacy Center](javascript:;) ou par le biais de notre [plateforme de Service Client](javascript:;) .
+13.3 Pour tout problème lié aux Services, le Client peut contacter SHEIN à tout moment par email notre centre de confidentialité à [Privacy Center](https://fr.shein.com/Privacy-Center-a-1045.html) ou par le biais de notre [plateforme de Service Client](https://fr.shein.com/robot) .
 
-13.4 Pour tout problème concernant les Produits, le Client peut à tout moment contacter le Vendeur via SHEIN par le biais de la [plateforme du Service Client](javascript:;) .
+13.4 Pour tout problème concernant les Produits, le Client peut à tout moment contacter le Vendeur via SHEIN par le biais de la [plateforme du Service Client](https://fr.shein.com/robot) .
 
 14\. RÈGLEMENT DES LITIGES
 
 14.1 **Réclamations**
 
-En cas de litige, le Client doit d'abord contacter le Service Clientèle de SHEIN via le site web en cliquant sur la [rubrique Service Clientèle](javascript:;) .
+En cas de litige, le Client doit d'abord contacter le Service Clientèle de SHEIN via le site web en cliquant sur la [rubrique Service Clientèle](https://fr.shein.com/robot) .
 
 La réclamation sera analysée et fera l'objet d'une réponse dans un délai raisonnable à compter de la date de dépôt de la réclamation.
 
