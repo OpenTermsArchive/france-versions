@@ -18,7 +18,7 @@ Numéro de vol commençant par HV : votre billet sera émis et votre vol sera op
 Numéro de vol commençant par TO : votre billet sera émis et votre vol sera opéré par Transavia France S.A.S.  
 Dans certains cas, une condition ne s’applique qu’à un vol opéré par Transavia Airlines C.V. ou par Transavia France S.A.S.. Dans les cas sus-mentionnés, l’applicabilité limitée de cette condition sera stipulée.
 
-[Télécharger les conditions de transport au format PDF](https://www.transavia.com/fr/-/media/Files/Terms-and-conditions-2025/Les_conditions_generales_de_transport_Transavia_FR_20052025.pdf)  
+[Télécharger les conditions de transport au format PDF](https://www.transavia.com/fr/-/media/Files/Terms-and-conditions-2025/Les_conditions_generales_de_transport_Transavia_FR_26092025.pdf)  
 
 Conditions tarifaires Transavia (applicables à tous les vols Transavia)
 -----------------------------------------------------------------------
@@ -36,8 +36,8 @@ Voyager avec un siège attribué: pour attribuer un siège à un bébé, il est 
 Voyager sur les genoux d’un adulte accompagnant: le bébé ne peut voyager qu’avec un adulte accompagnant et ne disposera pas de son propre siège. Pour des raisons administratives, il est nécessaire d’ajouter les informations du bébé à la réservation de l’adulte accompagnant, et les conditions suivantes s’appliquent:  
   
 Concernant les vols dont le numéro commence par HV?  
-Il n’est pas nécessaire d’acheter un billet séparé, mais des frais administratifs s’appliqueront. Ceux-ci sont consultables sur [le site internet](http://www.transavia.com/aide/fr-fr/enfants-animaux-groupes/voyager-en-avion-avec-un-bebe/siege-auto-exigences).  
-  
+Il n’est pas nécessaire d’acheter un billet séparé, mais des frais administratifs s’appliqueront. Ceux-ci sont consultables sur [le site internet](http://www.transavia.com/aide/fr-fr/enfants-animaux-groupes/voyager-en-avion-avec-un-bebe/siege-auto-exigences).
+
 Concernant les vols dont le numéro commence par TO?  
 Un tarif variable de 10 € à 103 € par vol aller simple avec Transavia France S.A.S, selon la destination et le prix hors taxes du billet adulte, sera appliqué.   
   
@@ -202,7 +202,7 @@ Nous facturons les modifications de l’itinéraire, la date ou l’heure de vot
 
 Vous pouvez toujours effectuer gratuitement une modification par passager concernant le nom, le prénom, la date de naissance, le sexe et/ou les informations de passeport.
 
-Si vous souhaitez effectuer plus d’une modification, des frais seront facturés. Les frais de modification, indiqués sur le site web [du transporteur](https://www.transavia.com/aide/fr-fr/modification-annulation-vol/modifier-les-details-passager/modifier-donnees-passagers), s’appliquent par aller simple. Le prix du nouveau billet est actuellement plus élevé que celui du billet d’origine ? Alors, vous paierez aussi la différence du prix du billet.
+Si vous souhaitez effectuer plus d’une modification, des frais seront facturés. Les frais de modification, indiqués sur le site web [du transporteur](https://www.transavia.com/aide/fr-fr/modification-annulation-vol/modifier-les-details-passager/modifier-donnees-passagers), s’appliquent par aller simple. Le prix du nouveau billet est actuellement plus élevé que celui du billet d’origine ? Alors, vous paierez aussi la différence du prix du billet. Les fautes d’orthographe seront toujours corrigées gratuitement.
 
 **Dans les cas suivants, il n’est pas possible de modifier les données de passagers :**
 
@@ -214,9 +214,13 @@ Si vous souhaitez effectuer plus d’une modification, des frais seront facturé
 
 **Annulation**
 
-Vous pouvez annuler en contactant notre Centre de Services par téléphone, via les réseaux sociaux,par courrier électronique ou via [Mon Transavia](https://customerlogin.transavia.com/379fb04b-964b-4985-965c-2d9097eef215/b2c_1a_customer_signuporsignin/oauth2/v2.0/authorize?client_id=ed9a43b5-64fb-47b1-abac-bc510a1802e5&redirect_uri=https%3a%2f%2fwww.transavia.com%2fapi%2fpersonalaccountauth%2fcallback&response_mode=form_post&response_type=code&scope=openid&state=OpenIdConnect.AuthenticationProperties%3d9w1mPRyOkizvOAFTuPDSvEHelQs3l41DEWI__ELvqCQn_A7Z0Be8jt9bdp2qTHcfeDqoRs6Ewjed9kr3TEvSk8qZXFdN1WCk0JiHYW2uz5aFE4guvi5ObudZc3XOgnWUfdSpFbjzTzJiU7fc9DfK-2xF1tFhkVNOAQRTAYYKheQ6alrKxF6zgjOMcLkgbXfgj7dDDH-ir1Tq2CgEt9agGLbFq9H9EgGSjj-0SbKihYyzicyviw6WJ3A6VkAiOCm74FXwXpiTSWbLOp6wL8iFuC2MaEXEMaZ8gxZGTCaugGe6QbKUxeVD-NQ4GeTASU6ck8UZTJ3c62YC30J3QNT68lm1kDj1VJ1Oj2jli0uAQcST2xQ4asyiEUkfPn2WkX9pywDbw3hiNllLUtm2h619gDsxMYAszS6b6EPPd5n1mnQIGTKr0hNi2q8uODt5VEfeToBAsxezmC9l_XeRmzkBdxUOo9JEVckb0TdzoRhvzT0&ui_locales=fr-fr&locale=fr-fr&x-client-SKU=ID_NET&x-client-ver=1.0.40306.1554). Dans certains cas, vous pouvez également annuler via le site Web de Transavia. Les frais d’annulation s’élèvent à 100 % du montant dû pour la réservation (y compris toute demande spéciale). Aucun remboursement ne sera donc accordé, à l’exception des taxes imposées au passager par l’aéroport et les autorités gouvernementales et que vous avez versées à Transavia. Celles-ci pourront vous être remboursées sur demande.
-
-La demande de remboursement de ces taxes peut être soumise via ce formulaire en ligne ([www.transavia.com](http://www.transavia.com/)).
+Vous pouvez annuler votre réservation en contactant notre Centre de service par téléphone, sur les réseaux sociaux, par e-mail ou par [Mon Transavia](https://customerlogin.transavia.com/379fb04b-964b-4985-965c-2d9097eef215/b2c_1a_customer_signuporsignin/oauth2/v2.0/authorize?client_id=ed9a43b5-64fb-47b1-abac-bc510a1802e5&redirect_uri=https%3a%2f%2fwww.transavia.com%2fapi%2fpersonalaccountauth%2fcallback&response_mode=form_post&response_type=code&scope=openid&state=OpenIdConnect.AuthenticationProperties%3d9w1mPRyOkizvOAFTuPDSvEHelQs3l41DEWI__ELvqCQn_A7Z0Be8jt9bdp2qTHcfeDqoRs6Ewjed9kr3TEvSk8qZXFdN1WCk0JiHYW2uz5aFE4guvi5ObudZc3XOgnWUfdSpFbjzTzJiU7fc9DfK-2xF1tFhkVNOAQRTAYYKheQ6alrKxF6zgjOMcLkgbXfgj7dDDH-ir1Tq2CgEt9agGLbFq9H9EgGSjj-0SbKihYyzicyviw6WJ3A6VkAiOCm74FXwXpiTSWbLOp6wL8iFuC2MaEXEMaZ8gxZGTCaugGe6QbKUxeVD-NQ4GeTASU6ck8UZTJ3c62YC30J3QNT68lm1kDj1VJ1Oj2jli0uAQcST2xQ4asyiEUkfPn2WkX9pywDbw3hiNllLUtm2h619gDsxMYAszS6b6EPPd5n1mnQIGTKr0hNi2q8uODt5VEfeToBAsxezmC9l_XeRmzkBdxUOo9JEVckb0TdzoRhvzT0&ui_locales=fr-fr&locale=fr-fr&x-client-SKU=ID_NET&x-client-ver=1.0.40306.1554). Dans certains cas, cela peut également se faire via le site Web de Transavia. Les frais d’annulation s’élèvent à 100 % du montant dû pour la réservation (éventuelles demandes spéciales comprises).   
+  
+Si le vol réservé est opéré par Transavia Airlines C.V. (HV), aucun remboursement n’est accordé, à l’exception de toutes les taxes relatives aux passagers imposées par l’aéroport et les gouvernements que vous avez payées à Transavia, qui peuvent être remboursées à votre demande jusqu’à un maximum du prix du billet payé.   
+  
+Si le vol réservé est opéré par Transavia France S.A.S. (TO), aucun remboursement n’est accordé, sauf dans la mesure prévue par la loi pour toutes les taxes relatives aux passagers imposées par l’aéroport et les gouvernements que vous avez payées à Transavia, qui peuvent être remboursées à votre demande.  
+  
+La demande de remboursement de ces taxes peut être soumise via ce formulaire en ligne ([www.transavia.com](http://www.transavia.com/)).  
 
 **Bagages**
 
@@ -644,7 +648,7 @@ Les tarifs applicables sont les tarifs publiés par ou pour le compte du transpo
 
 3.     Charges, taxes et suppléments
 
-Le transporteur sera en droit de facturer séparément au passager tous les frais, taxes et suppléments imprévus prélevés par le gouvernement, les autorités nationales ou autres, par l’aéroport ou par le transporteur (après réception de la confirmation de réservation) En cas d’augmentation applicable après l’achat mais avant le jour du départ, le passager doit payer la différence par rapport aux montants d’origine. En cas d’augmentation substantielle, alternativement, il peut demander un remboursement dans un délai de une semaine à partir du moment où la compagnie aérienne ou son agence de voyage communique la demande de paiement. De même, si des taxes ou des frais diminuent ou disparaissent, le passager sera habilité à demander le remboursement du montant correspondant.
+Le Transporteur est en droit de facturer au Passager séparément, ou d’appliquer un supplément (même après la Confirmation de Réservation), pour tous les prélèvements, taxes, coûts ou suppléments imprévus imposés par les gouvernements, les autorités nationales ou autres, les aéroports ou le Transporteur, y compris ceux découlant de modifications réglementaires ou de mesures de tiers échappant au contrôle du Transporteur. Si ces frais augmentent après l’achat mais avant la date de départ, le passager devra payer la différence par rapport aux montants initiaux. Toutefois, si l’augmentation est substantielle, le Passager aura le droit de résilier le contrat et de recevoir un remboursement intégral de tous les montants versés, à condition que la résiliation soit communiquée dans les sept (7) jours ouvrables à compter de la notification de l’obligation de paiement. De même, si ces prélèvements, taxes ou redevances diminuent ou sont éliminés, le Passager est en droit de réclamer le remboursement du montant correspondant.
 
 4.     Devise
 
@@ -882,7 +886,7 @@ d.      Le transporteur peut toujours imposer, à sa seule discrétion, des
 
 ****Article 9.****                        **Horaires et remplacement**
 
-1.     Sauf en cas de faute ou de négligence volontaire de la part du transporteur, il ne saurait être tenu responsable des erreurs et omissions dans les horaires ou toute autre publication, ni des communications erronées des employés, agents ou représentants du transporteur ou d’un aéroport, concernant la date, l’heure de départ ou d’arrivée ou l’exécution d’un vol. Les heures de départ et d’arrivée communiquées ne le sont qu’à titre informatif pour le passager et n’impliquent aucun droit subséquent.
+1.     Le Transporteur ne saurait être tenu responsable des erreurs ou omissions dans l’horaire des vols ou dans d’autres horaires publiés fournis par des tiers échappant au contrôle du Transporteur, notamment en ce qui concerne les dates de vol, les heures de départ ou d’arrivée, ou les opérations aériennes.
 
 2.     Les horaires du vol applicable sont les horaires et la date de départ prévues. Ces horaires peuvent faire l’objet de modifications après l’émission de la Confirmation de Réservation. Dans ce cas, le Passager sera averti au moyen des informations de contact fournies au moment de la réservation, dont le Passager demeure responsable. Ce qui précède s’entend sans préjudice de tout droit du Passager en vertu du Règlement (CE) n°261/2004.
 
@@ -1162,4 +1166,4 @@ Immeuble Bélaïa- Cœur d’Orly
 94310 Orly  
 France
 
-20 Mai 2025
+Septembre 2025
