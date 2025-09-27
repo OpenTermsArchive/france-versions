@@ -1842,19 +1842,30 @@ Lorsque nous collectons des données à caractère personnel directement auprès
 * Les services habilités des prestataires techniques et des prestataires financiers du Groupe Printemps
 * Notre service de routage dans le cadre de Printemps Listes pour l'envoi de carte Printemps listes aux bénéficiaires de listes cadeaux
 
+5\. QUI SONT LES DESTINATAIRES DE VOS DONNÉES ?
+
+  
+
 Nos prestataires sont sélectionnés par nos soins en fonction de leurs compétences en termes de sécurité et de confidentialité des données, et se doivent de respecter la règlementation relative aux données à caractère personnel applicable aux sous-traitants. A ce titre, nous concluons avec l'ensemble de ces destinataires des contrats permettant de nous assurer que ces derniers présentent un niveau de sécurité adéquat pour la protection de vos données, et nous transmettons à chacun d'entre eux des instructions de traitement précises. Par ailleurs, nous ne leur fournissons que les informations dont ils ont besoin pour réaliser le service.
 
 * Nous pouvons communiquer **à des tiers** des données à caractère personnel (par exemple : votre adresse email) ou certaines de vos données non identifiantes (par exemple : données sociodémographiques et profil d'achat, cookies ou identifiants techniques) sans qu'il leur soit possible de vous identifier de façon nominative, à des fins de ciblage publicitaire sur des sites de tiers. La base légale de ce traitement de données est l'intérêt légitime des sociétés Printemps. Dans ce cadre, vos données sont traitées par le tiers en question, qui agit en qualité de Responsable de Traitement, et sont soumises à ses conditions générales et sa politique de protection des données à caractère personnel. Le tiers en question doit s'assurer d'avoir recueilli préalablement votre consentement pour vous adresser lesdites communications commerciales. Nous vous recommandons de prendre connaissance des politiques de protection des données personnelles de ces tiers avant de consentir à la communication de vos données au profit de ces derniers. Vous avez la possibilité de refuser ces ciblages publicitaires en paramétrant directement votre compte sur le site desdits tiers.
 * Nous pouvons communiquer **à des réseaux sociaux** des données à caractère personnel (par exemple : adresse email, pays) ou certaines de vos données non identifiantes (cookies) sans qu'il leur soit possible de vous identifier de façon nominative, afin de vous envoyer des publicités personnalisées sur les réseaux sociaux (plus d'informations dans la rubrique « réseaux sociaux »). Ces données servent notamment à établir une correspondance (matching) afin de vous reconnaître en tant que client des sociétés Printemps et de vous adresser de la publicité personnalisée des sociétés Printemps, ou à vous adresser de la publicité ciblée des sociétés Printemps en fonction de vos centres d'intérêt sur les réseaux sociaux. La base légale de ce traitement de données est l'intérêt légitime des sociétés Printemps. Vous avez la possibilité de refuser ces ciblages publicitaires depuis le centre de paramétrage de votre compte utilisateur du réseau social.
 * Nous pouvons communiquer à **notre partenaire Criteo** certaines de vos données à caractère personnel pour nous permettre de relier vos différents terminaux (ordinateurs, téléphone portable ...) et vous fournir une expérience harmonisée sur les différents appareils que vous utilisez pour consulter notre site Internet. Pour en savoir plus sur le dispositif de rapprochement des différents appareils ou vous y opposer vous pouvez vous rendre sur [www.criteo.com/fr/privacy/](http://www.criteo.com/fr/privacy/)
 
+  
+
+5\. QUI SONT LES DESTINATAIRES DE VOS DONNÉES ?
+
+  
+
 Par ailleurs, d'autres destinataires peuvent avoir accès à tout ou partie de vos données à caractère personnel selon leur degré d'habilitation et la finalité, à savoir :
 
 * les services de police et les autorités judiciaires notamment en cas de réquisition judiciaire
 * si nous cédons ou transférons tout ou partie de notre entreprise ou de nos actifs, par exemple dans le cadre d'une fusion ou d'une vente, nous pourrons transférer vos données à caractère personnel à l'acquéreur potentiel de cette activité ou de ces actifs. Par conséquent, l'acquéreur agira comme le nouveau Responsable de Traitement, et sa politique de protection des données à caractère personnel régira le traitement de vos données à caractère personnel. Par ailleurs, nous vous informons que les opérations de cette nature peuvent légitimement impliquer la réalisation d'audits préalables par des professionnels et moyennant des garanties et des mesures de sécurité appropriées afin d'assurer le respect de la confidentialité des données auxquelles ils accèdent. En cas de réalisation effective d'une opération de transmission ou de cession de nos actifs contenant vos données à caractère personnel, nous mettrons en ?uvre des procédures d'information permettant de garantir l'exercice des droits dont vous disposez sur vos données à caractère personnel.
 * Lorsque vous donnez votre consentement sur notre site, certains partenaires, tels que Google, peuvent traiter vos données personnelles (ex. : adresse IP, identifiants de navigation) pour des finalités comme la publicité personnalisée ou la mesure d’audience.
+* Pour comprendre comment Google utilise vos données, veuillez consulter : [**https://business.safety.google/privacy/**](https://business.safety.google/privacy/)
 
-Pour comprendre comment Google utilise vos données, veuillez consulter : [**https://business.safety.google/privacy/**](https://business.safety.google/privacy/)
+  
 
 6\. PRISE DE DÉCISION INDIVIDUELLE AUTOMATISÉE
 
@@ -1988,6 +1999,8 @@ Vous avez le droit de récupérer une partie de vos données à caractère perso
 **_Droit de formuler des directives sur les traitements des données après la mort_**
 
 Vous disposez du droit de formuler des directives générales (auprès d'un tiers de confiance numérique certifié par la CNIL qui formulera des directives sur l'ensemble des données du défunt) ou particulières (auprès du responsable de traitement pour des directives concernant uniquement certains traitements de données spécifiques) relatives à la conservation, l'effacement et à la communication de vos données à caractère personnel après votre décès.
+
+10\. QUELS SONT VOS DROITS ET COMMENT LES EXERCER ?
 
   
 
