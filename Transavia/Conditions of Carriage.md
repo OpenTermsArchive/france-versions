@@ -1,13 +1,5 @@
 Conditions générales de transport
-
-Conditions
-
-générales de
-
-transport
-
-
-==========================================================================
+=================================
 
 Transavia
 
