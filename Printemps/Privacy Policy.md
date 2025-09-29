@@ -263,8 +263,6 @@
     * [BOSS](https://www.printemps.com/fr/fr/hugo-boss-homme)
 *  [![](https://media-cdn.printemps.com/image/35/3/8436353.png) LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=vignette_lacoste)
     
-* [![](https://media-cdn.printemps.com/image/03/2/8436032.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
-    
 
 * [French Days : -20% au panier](https://www.printemps.com/fr/fr/selection-french-days-printemps-beaute)
     
