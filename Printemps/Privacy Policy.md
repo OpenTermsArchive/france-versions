@@ -261,6 +261,8 @@
     * [Autry](https://www.printemps.com/fr/fr/autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
     * [BOSS](https://www.printemps.com/fr/fr/hugo-boss-homme)
+*  [![](https://media-cdn.printemps.com/image/35/3/8436353.png) LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=vignette_lacoste)
+    
 * [![](https://media-cdn.printemps.com/image/03/2/8436032.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
     
 
@@ -333,7 +335,7 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-*  [![](https://media-cdn.printemps.com/image/93/8/8415938.jpeg) VOYAGES IMAGINAIRES](https://www.printemps.com/fr/fr/voyages-imaginaires-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-voyages-imaginaires)
+*  [![](https://media-cdn.printemps.com/image/75/5/8481755.jpg) PATYKA](https://www.printemps.com/fr/fr/patyka-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-patyka)
     
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
