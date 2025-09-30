@@ -1,6 +1,6 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
-* [\-20% découvrir la sélection](https://www.printemps.com/fr/fr/selection-french-days-printemps)
+* [\-20% sur TOUT\*](https://www.printemps.com/fr/fr/selection-french-days-printemps)
     
 * [Luxe](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
     
@@ -71,7 +71,7 @@
     
 
 * [MARQUES](#)
-    * [Prada](https://www.printemps.com/fr/fr/nouveautes/mrk/PRADA)
+    * [Topshop](https://www.printemps.com/fr/fr/topshop-femme)
     * [Marc Jacobs](https://www.printemps.com/fr/fr/nouveautes/mrk/MARC+JACOBS)
     * [Coach](https://www.printemps.com/fr/fr/coach)
     * [Essentiel Antwerp](https://www.printemps.com/fr/fr/essentiel-antwerp-femme)
@@ -177,7 +177,7 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
-* [![](https://media-cdn.printemps.com/image/03/2/8436032.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme)
+* [![](https://media-cdn.printemps.com/image/53/7/8490537.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme)
     
 
 * [French Days : -20% au panier](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
