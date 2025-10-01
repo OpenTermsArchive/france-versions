@@ -1,5 +1,5 @@
 Introduction à la sécurité sur Twitch
-=====================================
+-------------------------------------
 
 La communauté est au cœur de Twitch. Des communautés créées par les streamers et leurs spectateurs à la communauté Twitch dans sa globalité, la magie de Twitch opère quand nous nous rassemblons pour faire ce que nous aimons. Mais avant que vous puissiez faire ce que vous faites le mieux, une condition préalable essentielle doit être remplie : la sécurité. 
 
@@ -10,19 +10,16 @@ Ces lignes de conduite définissent les règles à suivre concernant les comport
 Nous considérons les Lignes de conduite de la communauté comme un document en constante évolution, et nous collaborons avec des streamers, des modérateurs et des experts en sécurité et règlement externes pour les examiner et les mettre à jour régulièrement. En plus de ces lignes de conduite, les streamers et les modérateurs peuvent également utiliser des [outils de sécurité Twitch](https://safety.twitch.tv/s/article/Chat-Tools) personnalisables pour adapter les normes de leur chaîne à leurs besoins. Les viewers, les modérateurs et les streamers jouent un rôle crucial en signalant les contenus ou les comportements qui enfreignent les Lignes de conduite de la communauté. Les signalements sont examinés par notre équipe internationale de sécurité qui travaille 24 h/24, 7 j/7, 365 jours par an pour y répondre le plus rapidement possible. C'est ainsi que nous collaborons tous ensemble pour promouvoir un environnement live sûr et accueillant.
 
 Notes de sanction
-=================
+-----------------
 
 Pour certaines de nos Lignes de conduite de la communauté ci-dessous, vous trouverez une section « Notes et clarifications concernant les sanctions ». Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les notes de sanction ne sont ni de nouvelles politiques ni de nouvelles règles. Nous rédigeons ces notes pour partager plus d'informations sur nos Lignes de conduite de la communauté existantes et pour répondre aux questions fréquemment posées.
 
 Sécurité
-========
+--------
 
-Comportement auto-destructeur
------------------------------
+### Comportement auto-destructeur
 
 Vous blesser ou évoquer l'automutilation peut se révéler dangereux, non seulement pour vous, mais aussi pour vos viewers et vos proches. Nous comprenons que les streamers et viewers doivent pouvoir discuter de sujets sensibles comme l'automutilation ou la santé mentale, et nous voulons que Twitch reste un espace sûr pour les aborder. Chacun doit être libre d'aborder les difficultés qu'il rencontre s'il le souhaite**.** Toutefois, **Twitch n'autorise pas les contenus qui glorifient, valorisent ou encouragent l'automutilation. De plus, nous n'autorisons pas les activités pouvant mettre votre vie en danger, vous blesser ou encourager d'autres personnes à adopter un comportement physiquement dangereux.** Nous ne faisons aucune exception pour les comportements autodestructeurs visant à plaisanter ou divertir, si ces comportements sont susceptibles d'occasionner des blessures physiques à quiconque sur notre service.
-
-[](#)
 
   Par exemple, les comportements suivants (ou leur apologie) sont interdits \[avertissement relatif au contenu\] :
 
@@ -40,8 +37,6 @@ Vous blesser ou évoquer l'automutilation peut se révéler dangereux, non seule
 Si vous traversez une période difficile, ou si vous avez des raisons de croire qu’une personne risque de se faire du mal (ou faire du mal à autrui) ou présente un risque immédiat de suicide, veuillez contacter une personne de confiance, un professionnel de santé, une ligne d’assistance téléphonique en santé mentale ou les autorités locales compétentes pour obtenir un soutien immédiat. Nous proposons également des ressources et des lignes d’assistance ([en savoir plus](https://safety.twitch.tv/s/article/Crisis-Prevention)).   
  
 
-[](#)
-
   Notes et clarifications concernant les sanctions :
 
 _Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
@@ -56,12 +51,9 @@ _Les notes de sanction sont des exemples supplémentaires de ce qui est autoris�
     * Exemple autorisé : écouter des messages de chat par synthèse vocale et répondre verbalement à voix haute.
     * Exemple interdit : lire des messages de chat ou toucher physiquement votre caméra ou votre appareil de streaming pendant de longues périodes ou fréquemment au volant.
 
-Violence et menaces
--------------------
+### Violence et menaces
 
 Les actes et menaces de violence vont à l'encontre du développement d'une communauté sûre, inclusive et accueillante. **La violence sur Twitch est prise au sérieux et sera traitée avec une tolérance zéro : tous les comptes associés à de telles activités sur Twitch seront suspendus pour une durée indéterminée.**
-
-[](#)
 
   Par exemple, les comportements suivants (ou leur apologie) sont interdits \[avertissement relatif au contenu\] :
 
@@ -76,23 +68,17 @@ Dans des circonstances exceptionnelles, nous pouvons suspendre des comptes de ma
 
 Les contenus et activités qui menacent ou incitent à la violence sexuelle sont strictement interdits et peuvent être signalés aux forces de l'ordre. Pour en savoir plus, consultez [Violence sexuelle chez les adultes](https://safety.twitch.tv/s/article/Community-Guidelines#6AdultSexualViolence).
 
-Terrorisme et extrémisme
-------------------------
+### Terrorisme et extrémisme
 
 Le terrorisme et l'extrémisme incitent à la violence et à la diffusion de messages d'intolérance. **Twitch interdit tout contenu qui représente, glorifie, encourage ou soutient le terrorisme, ou les individus ou actes extrémistes et violents.** Cela inclut les menaces et incitations à commettre des actes qui entraîneraient des dommages corporels graves ou une destruction importante de biens. 
-
-[](#)
 
   Par exemple, vous ne pouvez pas \[avertissement relatif au contenu\] : 
 
 * Afficher de la propagande terroriste ou extrémiste (ou partager des liens vers ce type de contenu), y compris des images ou des séquences graphiques de violence terroriste ou extrémiste, même dans le but de dénoncer un tel contenu
 
-Violence sexuelle chez les adultes
-----------------------------------
+### Violence sexuelle chez les adultes
 
 Les actes de violence sexuelle sont des infractions graves. Les contenus et activités qui menacent ou incitent à la violence sexuelle peuvent être signalés aux forces de l'ordre. **La violence sexuelle n'est pas tolérée sur Twitch et entraînera une suspension immédiate de votre compte.** 
-
-[](#)
 
   Par exemple, les comportements suivants (ou leur apologie) sont interdits \[avertissement relatif au contenu\] :
 
@@ -100,12 +86,9 @@ Les actes de violence sexuelle sont des infractions graves. Les contenus et acti
 * Les actes impliquant d'obliger une personne à commettre un acte sexuel en la menaçant
 * Les attouchements intimes non consentis
 
-Protection des mineurs
-----------------------
+### Protection des mineurs
 
 **Twitch interdit tout contenu ou activité mettant en danger des mineurs. Il s'agit notamment de contenu comprenant ou faisant l'apologie de matériel pédopornographique, et l’exploitation sexuelle, le grooming ou tout autre acte sexuel répréhensible à l'égard des mineurs.**Nous signalons tous les contenus illégaux ou activités de ce type au [National Center for Missing and Exploited Children (NCMEC)](https://www.missingkids.org/HOME), qui travaille avec différentes autorités internationales, et la pratique des ces activités ou le partage de ces contenus entraînent une suspension immédiate et définitive.
-
-[](#)
 
   Par exemple, les comportements suivants (ou leur apologie) sont interdits \[avertissement relatif au contenu\] :
 
@@ -117,8 +100,6 @@ Protection des mineurs
 * Le contenu représentant la nudité de mineurs
 * L'identification de victimes présumées de matériel pédopornographie par nom ou image
 
-[](#)
-
   Notes et clarifications concernant les sanctions \[avertissement relatif au contenu\] :
 
 _Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
@@ -128,12 +109,9 @@ _Les notes de sanction sont des exemples supplémentaires de ce qui est autoris�
 * Déclarer que vous avez moins de 13 ans sur Twitch, même si c’est dans un but humoristique, entraînera la désactivation permanente de votre compte conformément aux lois en vigueur.
     * Exemples de comportements interdits : écrire dans le chat « haHAA j’ai 12 ans au fait » ou « j’utilise le compte de mon père parce que j’ai 11 ans ».
 
-Comportements en dehors de nos services
----------------------------------------
+### Comportements en dehors de nos services
 
 Pour que les streamers et leurs viewers parviennent à créer des communautés dynamiques, chacun doit se sentir en sécurité. Nous pensons que certaines infractions commises en dehors de Twitch par des utilisateurs Twitch peuvent créer un risque important pour la sécurité de la communauté Twitch. Par conséquent, **Twitch prend des mesures face à certaines infractions graves qui se produisent en dehors de Twitch lorsqu'elles sont commises par des membres de la communauté de Twitch.**
-
-[](#)
 
   Par exemple, nous n'acceptons pas les individus ou les organisations responsables des actions suivantes en dehors de Twitch \[avertissement relatif au contenu\] :
 
@@ -160,8 +138,6 @@ Les utilisateurs peuvent contacter l'[équipe d'enquêtes externe de Twitch](mai
 **Preuve pour les signalements en dehors du service**
 
 **Puisque nous disposons de moins de contexte concernant les comportements en dehors de Twitch, nous demandons à ce que la preuve de ces activités soit vérifiable avant d’agir.** Il s'agit notamment de contenu directement mis en ligne par l'utilisateur en infraction ou de signalements directs que les victimes ont elles-mêmes envoyés à notre équipe d’enquêtes externe avec des preuves appropriées. Les captures d’écran et autres éléments fournis par des groupes qui ne sont pas directement impliqués, susceptibles d’avoir été modifiés, truqués ou falsifiés, ne constituent en règle générale pas une preuve recevable, à moins d’être étayés par d’autres données probantes vérifiables, pertinentes et non dénaturées, ou de voir leur authenticité confirmée par notre enquêteur extérieur. Nous envisagerons en outre d'avoir recours aux forces de l'ordre en vue d’évaluer le bien-fondé des accusations et des preuves.
-
-[](#)
 
   **FAQ sur les comportements en dehors de nos services**
 
@@ -191,12 +167,9 @@ La communauté est le cœur de Twitch et notre objectif est de favoriser une com
 
 Nous avons conscience que les comportements toxiques et abusifs à l'extérieur de nos services peuvent se répandre sur Twitch d'une façon préjudiciable pour notre communauté. Afin d'atténuer ces effets néfastes, nous prenons désormais en compte des éléments signalés qui se sont produits en dehors de nos services lorsque nous analysons les infractions à nos Lignes de conduite de la communauté ayant eu lieu sur Twitch. Si nous sommes en mesure de vérifier l'exactitude des signalements portant sur des éléments survenus en dehors de nos services et ayant un rapport avec un incident survenu sur Twitch, nous nous servirons de ces éléments pour étayer notre processus de décision. Si le comportement en dehors de Twitch n'implique pas d'incident sur Twitch, nous n'enquêterons pas, à moins qu'il ne s'agisse d'une des infractions graves listées ci-dessus. 
 
-Partage non-autorisé d’informations privées
--------------------------------------------
+### Partage non-autorisé d’informations privées
 
 Partager les données sensibles d'une autre personne sans sa permission peut être une expérience éprouvante et potentiellement dangereuse. Par conséquent, **Twitch n'autorise pas les utilisateurs à révéler les informations personnelles d'autrui sur notre service.**
-
-[](#)
 
   Par exemple, vous ne pouvez pas :
 
@@ -205,8 +178,6 @@ Partager les données sensibles d'une autre personne sans sa permission peut êt
 * Partager du contenu qui porte atteinte aux attentes raisonnables d’une autre personne en matière de vie privée (ex. : streamer depuis un espace privé sans autorisation)
 * Streamer une intrusion non désirée dans une visioconférence privée
     
-
-[](#)
 
   Notes et clarifications concernant les sanctions :
 
@@ -217,16 +188,13 @@ _Les notes de sanction sont des exemples supplémentaires de ce qui est autoris�
     * Exemple interdit : un streamer demande à son chat : « Partagez vos coordonnées bancaires pour un cadeau ! »
 
 Courtoisie et respect
-=====================
+---------------------
 
-Comportement haineux
---------------------
+### Comportement haineux
 
 Twitch vise à être un espace de rassemblement pour tous autour d'expériences communautaires partagées. Cette vision est menacée lorsque des utilisateurs sont victimes de discours nuisibles et d'abus sur Twitch. **Twitch n'autorise pas les comportements motivés par la haine, la discrimination ou l'intolérance, notamment tout comportement qui promeut ou encourage la discrimination, le dénigrement, le harcèlement ou la violence sur la base des caractéristiques protégées suivantes : _origine ethnique, couleur de peau, caste, origine nationale, statut d'immigration, religion, sexe, genre, identité de genre, orientation sexuelle, handicap, état de santé grave_ et _statut d'ancien combattant_.** Nous garantissons également certaines protections pour _l'âge,_ qui sont expressément décrites dans les exemples. 
 
 Nous définissons les « groupes protégés » comme un sous-ensemble de la population ayant une caractéristique protégée commune. Chaque utilisateur Twitch fait partie de plusieurs de ces groupes protégés. Twitch offre à tous utilisateurs du monde entier les mêmes protections dans le cadre de cette politique.
-
-[](#)
 
   Par exemple, quelle que soit votre intention, vous ne pouvez pas \[avertissement relatif au contenu\] :
 
@@ -289,8 +257,6 @@ Nous définissons les « groupes protégés » comme un sous-ensemble de la po
 * Soutenir, promouvoir ou appartenir à un groupe haineux, y compris en partageant le contenu de propagande d’un groupe haineux.
 * Créer des comptes dédiés à la haine, par exemple en utilisant des identifiants insultants.
 
-[](#)
-
   Notes et clarifications concernant les sanctions \[avertissement relatif au contenu\] :
 
 _Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
@@ -305,14 +271,11 @@ _Les notes de sanction sont des exemples supplémentaires de ce qui est autoris�
     * Exemple autorisé : les colons sionistes continuent d'empiéter sur les frontières palestiniennes.
     * Exemple interdit : \[nom d'animal\] de sioniste.
 
-Harcèlement
------------
+### Harcèlement
 
 Le harcèlement entrave le développement de communautés dynamiques et diverses, empêche les gens de se sentir en sécurité sur Twitch et ouvre la voie à des formes plus graves d'abus et de préjudices. Le harcèlement peut prendre de nombreuses formes : des attaques personnelles, des menaces physiques, des attaques concertées… **Tout acte de harcèlement entraînera une sanction envers les comptes concernés.**
 
 Nous attendons des streamers qu'ils prennent les mesures nécessaires pour atténuer le contenu relatif à du harcèlement dans leur stream ou leur chat. Nous ne suspendrons pas les streamers qui, selon nous, agissent en toute bonne foi (par exemple, en utilisant des outils comme AutoMod, les exclusions temporaires et les bannissements) pour éviter tout harcèlement provenant de tiers et de sources externes.
-
-[](#)
 
   Par exemple, vous ne pouvez pas \[avertissement relatif au contenu\] :
 
@@ -344,12 +307,9 @@ Les streamers doivent toujours penser aux conséquences de leurs propos et de le
 
 Bien que le harcèlement ne soit jamais autorisé sur Twitch, nous voulons que les utilisateurs puissent s'exprimer naturellement avec leurs amis et leurs communautés sans craindre que ces interactions puissent être faussement identifiées comme du harcèlement. Avant d'intervenir, pour pouvoir comprendre pleinement le contexte des incidents qui semblent a priori ambigus, il se peut que nous demandions à la personne qui se sent visée de confirmer qu'il ne s'agissait pas de plaisanteries consensuelles. Pour ce faire, elle peut signaler un utilisateur ou prendre des mesures de modération sur sa chaîne.
 
-Harcèlement sexuel
-------------------
+### Harcèlement sexuel
 
 Twitch s’oppose fermement au harcèlement sexuel. Le harcèlement sexuel n'est jamais acceptable, qu'il soit dirigé vers une personne sur Twitch ou en dehors. Le harcèlement sexuel englobe les comportements non physiques à caractère sexuel qui suscitent chez des utilisateur·rice·s un sentiment de malaise, d'humiliation ou d'insécurité, ou qui les poussent à se mettre en retrait. **Tout commentaire indésirable (y compris à base d'emojis/émoticônes) concernant l'apparence ou le corps de quelqu'un, ou qui constitue des demandes ou avances sexuelles, une objectivation sexuelle, ou encore des déclarations ou attaques négatives liées aux activités ou comportements sexuels perçus d'une personne, quel que soit son genre, est interdit. Nous ne tolérons pas non plus l'enregistrement ni le partage d'images ou de vidéos intimes non consensuelles, quelles que soient les circonstances, et nous nous réservons le droit de signaler ce type de contenu aux forces** **de l'ordre.**
-
-[](#)
 
   Par exemple, les comportements suivants sont considérés comme du harcèlement sexuel et sont interdits sur Twitch \[avertissement relatif au contenu\] :
 
@@ -393,10 +353,7 @@ Les streamers et streameuses sont les leaders de leurs communautés. Ils doivent
 
 Nous attendons des streamers et streameuses qu'ils prennent les mesures nécessaires pour atténuer le contenu relatif à du harcèlement apparaissant dans leur stream. Nous ne suspendrons pas les chaînes qui, selon nous, agissent en toute bonne foi (par exemple, en utilisant des outils comme AutoMod, les exclusions temporaires et les bannissements) pour éviter tout harcèlement provenant de tiers et de sources externes.
 
-[](#)
-
-  FAQ sur la courtoisie et le respect
-----------------------------------------------
+###   FAQ sur la courtoisie et le respect
 
 **Quelle est la frontière entre comportement haineux et harcèlement ?**
 
@@ -443,14 +400,11 @@ Nous prendrons des mesures pour tous les cas de comportements haineux et de harc
 Nous encourageons les utilisateurs à signaler les comportements haineux et le harcèlement dirigés contre eux. Si vous pensez que ces comportements relèvent du crime, nous vous encourageons à également demander l’aide d’un avocat ou des forces de l’ordre de votre pays. Si le comportement d’une personne vous a fait craindre pour votre propre sécurité ou celle de vos proches, nous vous encourageons à le signaler aux forces de l’ordre de votre pays. Lorsque Twitch est contacté par les forces de l’ordre dans le cadre de la procédure juridique en vigueur, nous fournirons les informations pertinentes, comme détaillé dans nos [Conditions d’utilisation](https://www.twitch.tv/p/legal/terms-of-service/). 
 
 Activité illégale
-=================
+-----------------
 
-Infraction à la loi
--------------------
+### Infraction à la loi
 
 Pour la sécurité de notre communauté, **les utilisateurs doivent respecter toutes les lois locales, nationales et internationales qui s'appliquent lorsqu'ils accèdent à nos services**. Tout contenu ou activité mettant en avant, encourageant, proposant ou sollicitant une activité illégale est interdit et peut être signalé aux autorités.
-
-[](#)
 
   Par exemple, vous ne pouvez pas \[avertissement relatif au contenu\] :
 
@@ -458,12 +412,9 @@ Pour la sécurité de notre communauté, **les utilisateurs doivent respecter to
 * Acheter ou vendre des substances illicites, des armes à feu ou des produits de contrefaçon sur Twitch
 * Participer à un acte de destruction, à la dégradation ou au vol de biens publics ou privés sans autorisation sur Twitch
 
-Droits de propriété intellectuelle
-----------------------------------
+### Droits de propriété intellectuelle
 
 Afin de protéger les droits de propriété intellectuelle d'autrui et de respecter les lois sur la propriété intellectuelle, **nous n'autorisons pas les utilisateurs à partager sur leurs chaînes Twitch du contenu qu'ils ne possèdent pas ou ne sont pas autorisés à partager**. 
-
-[](#)
 
   Par exemple, sauf indication contraire dans la loi ou en cas d'autorisation fournie par les ayants droit, vous ne devez pas partager :
 
@@ -477,8 +428,6 @@ Afin de protéger les droits de propriété intellectuelle d'autrui et de respec
 
 [En savoir plus](https://legal.twitch.com/legal/music/) sur nos règles concernant l’utilisation de musique sur votre chaîne Twitch.
 
-[](#)
-
   Tout contenu non autorisé que des utilisateurs partagent sur Twitch constitue une infraction à nos Conditions d'utilisation et est susceptible d'être supprimé. Des infractions répétées à nos règlements peuvent mener à une suspension permanente du compte concerné. Les ayants droit peuvent exiger que Twitch supprime les contenus non autorisés et/ou impose les sanctions suivantes :
 
 * Pour les œuvres protégées par le droit d'auteur, le processus de notification et de retrait décrit dans nos [règles relatives au respect des copyrights (DMCA)](https://www.twitch.tv/p/legal/dmca-guidelines/).
@@ -486,22 +435,17 @@ Afin de protéger les droits de propriété intellectuelle d'autrui et de respec
 * Pour les œuvres protégées par le droit d'auteur dont les ayants droit ont signé des accords avec Twitch, nous sommes susceptibles d'appliquer un processus de signalement et de traitement spécifique, comme le [Processus de signalement de musique](https://www.twitch.tv/p/en/legal/dmca-guidelines/music-reporting-process).
 
 Contenu sensible
-================
+----------------
 
-Violence extrême, gore et autres comportements obscènes
--------------------------------------------------------
+### Violence extrême, gore et autres comportements obscènes
 
 Bien que nous autorisions la diffusion de différents contenus sur Twitch, tout contenu présentant une violence extrême ou du gore peut être dérangeant et choquant, surtout si le contenu implique une mort, de la mutilation ou du sang. **Tout contenu exclusivement centré sur des scènes sanglantes ou de violence gratuite ou extrême est interdit.** De plus, les sites qui présentent du contenu pour adultes en abondance, comme du contenu à caractère sexuel explicite, du contenu illégal ou impliquant une mort ou du gore sont interdits. 
-
-[](#)
 
   Par exemple, vous ne pouvez pas \[avertissement relatif au contenu\] :
 
 * Montrer du contenu impliquant une mort ou une blessure grave
 * Parcourir 4chan, le dark web ou du contenu pornographique sur Twitch
 * Utiliser des services de chat vidéo aléatoire
-
-[](#)
 
   Notes et clarifications concernant les sanctions :
 
@@ -510,12 +454,9 @@ _Les notes de sanction sont des exemples supplémentaires de ce qui est autoris�
 * Le contenu vidéo aléatoire que vous ne pouvez pas contrôler n’est en aucun cas autorisé en raison des risques qu’il présente pour les viewers du stream.
     * Exemple de comportement interdit : streamer des interactions Ome.tv.
 
-Contenu à caractère sexuel
---------------------------
+### Contenu à caractère sexuel
 
 Pour que le contenu sur Twitch soit adapté à divers publics, certains contenus à caractère sexuel sont interdits, quel que soit le support utilisé pour les créer (numérique ou non). Il est **interdit aux utilisateurs de streamer, télécharger, solliciter, promouvoir, offrir ou partager des liens vers des contenus pornographiques**.
-
-[](#)
 
   Par exemple, vous ne pouvez pas montrer, proposer ni promouvoir les contenus suivants \[avertissement – langage explicite\] :
 
@@ -535,8 +476,6 @@ La liste qui précède n’est pas exhaustive, et Twitch se réserve le droit de
 Les utilisateurs ne peuvent pas partager de lien direct, promouvoir ni faire de la publicité pour du contenu pornographique ou à caractère sexuel explicite dans leurs streams, leur profil ou leur chat. Si les utilisateurs ne peuvent pas partager de lien direct vers du contenu pornographique ou à caractère sexuel explicite dans leurs streams, leur profil ou leur chat, ils ne seront pas sanctionnés pour avoir partagé un lien vers leurs sites Web personnels ou leurs pages de réseaux sociaux susceptibles de contenir de tels liens.  
   
 Pour en savoir plus sur les contenus relatifs à la sexualité et aux thèmes sexuels qui sont autorisés avec un descripteur de classification du contenu, consultez notre [Politique sur les thèmes sexuels](https://safety.twitch.tv/s/article/Content-Classification-Guidelines#2II:SexualThemes).
-
-[](#)
 
   Notes et clarifications concernant les sanctions \[avertissement relatif au contenu\] :
 
@@ -560,12 +499,9 @@ _Les notes de sanction sont des exemples supplémentaires de ce qui est autoris�
     * Exemple de comportement interdit : simuler un acte sexuel sur VRChat.
 * Tant que les exigences en matière de tenue vestimentaire sont respectées, la peinture corporelle sur les seins et les fesses est autorisée avec un descripteur de classification du contenu « Thèmes sexuels ». 
 
-Nudité
-------
+### Nudité
 
 **Il est interdit aux utilisateurs de streamer ou de télécharger du contenu dans lequel figurent des représentations de** **nudité réelle ou fictive**, quel que soit le support utilisé pour les créer**.** Une censure incomplète, telle que la pixellisation, les mosaïques, les effets de flou, les vêtements transparents ou partiellement transparents ne font pas exception à cette politique. 
-
-[](#)
 
   Par exemple, les comportements suivants (ou leur apologie) sont interdits \[avertissement relatif au contenu\] :
 
@@ -575,14 +511,11 @@ Nudité
 
 Le contenu éducatif d'histoire de l'art ou l'art public qui pourrait présenter des personnages nus est exempté de cette politique. 
 
-Tenue
------
+### Tenue
 
 Afin de définir des normes cohérentes permettant aux créateurs de s'exprimer sans exposer notre communauté à du contenu inapproprié, **nous disposons d'une politique vestimentaire, avec des exemples détaillés ci-dessous**. Nous tenons à être transparents concernant nos règles et nos attentes afin de laisser libre cours à l'expression créative de nos créateurs et de renforcer leur confiance grâce à une compréhension claire de nos lignes de conduite. 
 
 La liste des exceptions contextuelles, indiquée ci-dessous, n'est pas exhaustive. Si vous vous trouvez dans une situation qui n'est pas décrite par une exception, vous devez suivre les lignes de conduite standards.
-
-[](#)
 
   ****Lignes de conduite standards**** 
 
@@ -593,8 +526,6 @@ Pour les personnes se présentant comme des femmes, nous vous demandons de couvr
 Tous les streamers doivent couvrir la zone s’étendant de la taille au bas du bassin et des fesses. 
 
 Pour les zones du corps devant être couvertes, la couverture doit être intégralement opaque ; les vêtements extra-fins ou transparents ne représentent pas une couverture adéquate.
-
-[](#)
 
   ****Exceptions contextuelles****
 
@@ -622,8 +553,6 @@ Les streamers disposent d’une certaine marge de manœuvre pour transiter entre
 
 Les normes de couverture de la poitrine détaillées ci-dessus ne s’appliquent pas aux personnes allaitant un bébé pendant un stream. 
 
-[](#)
-
   Notes et clarifications concernant les sanctions \[avertissement relatif au contenu\] :
 
 _Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
@@ -639,12 +568,9 @@ _Les notes de sanction sont des exemples supplémentaires de ce qui est autoris�
     * Votre contenu doit toujours figurer dans la bonne catégorie et afficher les descripteurs de classification du contenu appropriés.
 * Si nous ne pouvons pas déterminer si vous êtes vêtu·e ou non, ou si vous laissez entendre que vous n’êtes pas vêtu·e, en utilisant des méthodes telles que des vêtements moulants de la couleur de votre peau, des barres noires ou des zones floues, en vous cachant derrière des accessoires ou hors champ, vous risquez de faire l’objet de sanctions dans le cadre de nos politiques sur les tenues vestimentaires et, éventuellement, sur les contenus à caractère sexuel. 
 
-Identifiants et pseudos
------------------------
+### Identifiants et pseudos
 
 Afin de garantir la sécurité et l'inclusivité de notre communauté, **les noms de compte inappropriés qui enfreignent les Lignes de conduite de la communauté sont interdits**. Nous reconnaissons également que les identifiants ont davantage d'impact sur nos services que de nombreux autres types de contenus, car ils sont permanents, multifonctions et, dans la plupart des cas, beaucoup plus visibles. Dans le but de minimiser d'éventuels préjudices sur nos services, nous avons donc défini des règles supplémentaires plus strictes.
-
-[](#)
 
    Par exemple, les identifiants et pseudos créés sur Twitch ne peuvent pas être liés aux sujets suivants \[avertissement relatif au contenu\] :
 
@@ -658,8 +584,6 @@ Afin de garantir la sécurité et l'inclusivité de notre communauté, **les nom
 * Les comportements autodestructeurs
 * Références à des drogues douces ou dures et à leur consommation abusive (à l'exception de l'alcool, du tabac et du cannabis)
 * Références à des actes ou fluides sexuels, et aux organes génitaux
-
-[](#)
 
   Les comptes dont les identifiants ou pseudos constituent une infraction évidente aux Lignes de conduite de la communauté ou sont symptomatiques d'un comportement malveillant et de mauvaise foi seront suspendus définitivement. Par exemple, vous ne pouvez pas créer un identifiant qui comporte \[avertissement relatif au contenu\] :
 
@@ -697,8 +621,6 @@ Afin de garantir la sécurité et l'inclusivité de notre communauté, **les nom
     * La glorification d'individus directement responsables de meurtre ou de la mort d'autres personnes (ex. : les tueurs en série)
     * La glorification de la mort d'individus due à la violence, y compris les suicides et les actes policiers ou gouvernementaux mortels (pour en savoir plus sur nos règles concernant la glorification de la violence sur la base d'un groupe protégé, consultez la section « Comportement haineux »)
 
-[](#)
-
   Dans les situations où nous pensons qu’un utilisateur n’est pas mal intentionné, nous procéderons à une réinitialisation de son identifiant ou pseudo au lieu de suspendre définitivement son compte. Par exemple, votre identifiant peut être réinitialisé s’il comporte \[avertissement relatif au contenu\] :
 
 * Les références à des drogues douces ou dures et à leur consommation abusive (à l'exception de l'alcool, du tabac et du cannabis)
@@ -716,8 +638,6 @@ Afin de garantir la sécurité et l'inclusivité de notre communauté, **les nom
     * L'emploi de termes liés à l'orientation sexuelle (ex. : "gay") de façon négative ou insultante
 
 Nous procédons à une réinitialisation d'identifiant dans ces situations si nous estimons que les infractions détectées sont involontaires ou accidentelles. Toutefois, si vous renommez un compte à plusieurs reprises en enfreignant notre Politique sur les identifiants, des sanctions supplémentaires seront appliquées, pouvant aller jusqu'à la suspension définitive de votre compte.
-
-[](#)
 
   **FAQ sur les identifiants**
 
@@ -737,12 +657,9 @@ Nos données nous indiquent que la grande majorité des utilisateurs qui créent
 
 Nous avons des systèmes en place nous permettant d'inspecter les identifiants au moment de l'inscription et de refuser automatiquement ceux qui semblent enfreindre nos politiques. Toutefois, il n'est pas rare que des individus malveillants trouvent des stratégies pour contourner ces systèmes. Bien que notre système de détection automatique intercepte de nombreux abus, nous avons également recours aux suspensions de comptes et aux réinitialisations pour gérer les noms antérieurs à notre système de filtrage ou qui parviennent à le contourner.
 
-Tags
-----
+### Tags
 
 Ne créez que des tags qui respectent les autres Conditions d’utilisation et les Lignes de conduite de la communauté de Twitch. 
-
-[](#)
 
   Vous trouverez ci-dessous une liste non exhaustive d’exemples des contenus interdits par les Lignes de conduite de la communauté \[avertissement relatif au contenu\] :
 
@@ -761,8 +678,7 @@ En plus des contenus interdits par les Lignes de conduite de la communauté, nou
 
 Les mauvaises utilisations sérieuses des propositions de tags, y compris les infractions graves aux règles et les propositions répétées de contenus déjà rejetés ou supprimés, peuvent engendrer la suspension de votre compte.
 
-Jeux interdits
---------------
+### Jeux interdits
 
 Afin de garantir que le contenu diffusé sur Twitch respecte les Lignes de conduite de la communauté et convient à différents publics, **nous interdisons les jeux qui contiennent du contenu clairement en infraction, ainsi que les jeux de plateformes sociales fréquemment utilisés pour des abus non modérés**. La diffusion ou la mise en avant de contenu provenant de ces jeux entraînera des sanctions envers votre compte. 
 
@@ -778,8 +694,6 @@ Les versions alternatives de jeux Adultes seulement qui reçoivent une classific
 Les évaluations des jeux sont menées à la suite de signalements effectués par la communauté. Si le jeu n’est pas classé par l’ESRB et qu’il n’existe pas de jeu classé comparable, c’est à l’équipe de modération qu’il revient de déterminer si le jeu est en accord ou non avec les Lignes de conduite de la communauté. Certains jeux peuvent être interdits si un seul de leurs aspects est suffisamment outrancier (par exemple, contenu sexuel, violence, intention) ou plusieurs de ces aspects cumulés sont en violation de nos lignes de conduite.
 
 Les comptes d’utilisateurs qui diffusent ou mettent en ligne du contenu relevant de ces jeux peuvent être signalés par l’intermédiaire de l’outil de signalement d’utilisateur en utilisant l’option « Jeu interdit ».  Les utilisateurs signalés s’exposent à une suspension temporaire de leur compte. Afin de décourager ceux qui souhaiteraient partager ce type de contenu, tous les jeux de cette liste ont été retirés du sélecteur de jeux présent sur le tableau de bord des créateurs.
-
-[](#)
 
   Exemples de jeux interdits \[avertissement relatif au contenu\]
 
@@ -824,12 +738,9 @@ Cette liste n’est pas exhaustive. Elle est régulièrement mise à jour, et ce
 * Witch Trainer
 * Yandere Simulator
 
-Contenu interdit : jeux d'argent et de hasard
----------------------------------------------
+### Contenu interdit : jeux d'argent et de hasard
 
 **Nous n'autorisons pas les utilisateurs à partager des liens ou des codes de parrainage de sites faisant la promotion de machines à sous, de jeux de dés ou de roulette.**
-
-[](#)
 
   Par exemple, les comportements suivants sont interdits sur Twitch :
 
@@ -838,8 +749,6 @@ Contenu interdit : jeux d'argent et de hasard
 * Recommander lors de votre stream un site comportant des jeux de dés
 
 De plus, à l'instar de notre [règlement sur les jeux interdits](https://safety.twitch.tv/s/article/Prohibited-Games), **Twitch n'autorise pas le streaming des sites ci-dessous ou le partage de liens vers ceux-ci dans le chat.** Nous prenons en compte de nombreux facteurs afin de déterminer si un site est autorisé ou non, y compris si le site présente les mesures de protection adéquates relatives à la limite de dépôt, la période d'attente ou encore au système de vérification d'âge. Nous vérifions également si les streamers utilisent ou encouragent l'utilisation d'un VPN pour contourner le géoblocage et si le site est agréé aux États-Unis ou dans d'autres juridictions qui fournissent une protection suffisante pour les consommateurs.
-
-[](#)
 
   Nous n'autorisons pas les sites suivants ou domaines associés :
 
@@ -851,8 +760,6 @@ De plus, à l'instar de notre [règlement sur les jeux interdits](https://safety
 * gamdom.com
 
 Nous mettrons cette liste à jour à l'avenir.
-
-[](#)
 
   Notes et clarifications concernant les sanctions :
 
@@ -867,14 +774,11 @@ _Les notes de sanction sont des exemples supplémentaires de ce qui est autoris�
     * Exemple interdit : regarder ou rediffuser le jeu sur l'un des sites de jeux interdits listés ci-dessus. 
 
 Authenticité
-============
+------------
 
-Usurpation d’identité
----------------------
+### Usurpation d’identité
 
 L'usurpation d'identité est une pratique malveillante qui mine la confiance dans notre service et peut nuire à la victime. **Tout contenu ou toute activité visant à usurper l'identité d'une personne ou entité est interdit**, y compris l'usurpation d'identité d'un employé de Twitch, d'une célébrité, d'une entreprise ou d'un ami.
-
-[](#)
 
   Par exemple, vous ne pouvez pas :
 
@@ -883,8 +787,6 @@ L'usurpation d'identité est une pratique malveillante qui mine la confiance dan
 * Créer une « salle d’attente », c’est-à-dire un stream avec un titre, un tag ou une description le présentant comme une « salle d’attente » pour le stream de quelqu’un d’autre ou du contenu de chaîne ne contenant aucune réaction ni contenu original créé par le ou la propriétaire de la chaîne  
      
 
-[](#)
-
   Notes et clarifications concernant les sanctions :
 
 _Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
@@ -892,12 +794,9 @@ _Les notes de sanction sont des exemples supplémentaires de ce qui est autoris�
 * Si vous êtes victime d’une usurpation d’identité en tant que streamer sur Twitch et que le contenu ne remplit pas les conditions requises pour faire l’objet d’une mesure dans le cadre de la [procédure DMCA](https://www.twitch.tv/p/legal/dmca-guidelines/) (comme une marque commerciale), veuillez signaler le stream dans « Usurpation d’identité ». Veuillez fournir des informations complètes dans le rapport.
     * Nous tenons compte d’un certain nombre de facteurs, tels que les identifiants et les bios, ainsi que du fait que la personne dont l’identité est usurpée envoie ou non le signalement, pour déterminer s’il y a lieu de procéder à des sanctions.
 
-Courriers indésirables, arnaques par e-mail et autres activités malveillantes
------------------------------------------------------------------------------
+### Courriers indésirables, arnaques par e-mail et autres activités malveillantes
 
 Les messages indésirables et autres pratiques trompeuses nuisent à l'expérience des utilisateurs, minent la confiance dans notre service et trompent les spectateurs, les créateurs et les annonceurs. **Tout contenu ou toute activité qui gêne, interrompt, bafoue ou nuit d’une quelconque manière à l’intégrité des services Twitch ou à l’expérience ou les appareils d’un autre utilisateur est interdit.** 
-
-[](#)
 
   Par exemple, vous ne pouvez pas :
 
@@ -912,8 +811,6 @@ Les messages indésirables et autres pratiques trompeuses nuisent à l'expérien
 
 Nous comprenons que les streamers sont parfois victimes d’usurpation de compte, d’arnaque ou de bots spectateurs orchestrés par un tiers malveillant. Nous disposons de méthodes pour détecter la partie responsable et nous ne pénalisons pas les streamers de bonne foi dans ces circonstances.  
  
-
-[](#)
 
   Notes et clarifications concernant les sanctions :
 
@@ -932,14 +829,11 @@ _Les notes de sanction sont des exemples supplémentaires de ce qui est autoris�
     * Exemple interdit : deux streamers streament en live avec l'audience partagée, mais sans aucune collaboration active (aucun partage audio ou vidéo). Au lieu de cela, ils « s'hébergent » simplement mutuellement via le chat partagé pour augmenter leur nombre de vues partagées.
     * Exemple interdit : utiliser le nombre de viewers pour mettre en avant un compte alternatif appartenant au streamer.
 
-Contournement d’une suspension
-------------------------------
+### Contournement d’une suspension
 
 Le contournement de nos sanctions porte atteinte à l'intégrité de notre service. **Pour les utilisateurs suspendus,** **toute tentative de contourner une suspension de compte ou un bannissement du chat grâce à d’autres comptes ou identités conduira également à une sanction supplémentaire contre vos comptes, pouvant aller jusqu’à une suspension définitive.** Pour les streamers Twitch non suspendus, vous pouvez réagir à une vidéo à la demande ou à un stream live d’un utilisateur suspendu que celui-ci diffuse sur un autre service, mais vous ne pouvez pas le faire participer à votre stream en tant qu’invité (par exemple, en streamant dans la même pièce ou en utilisant un logiciel de collaboration pour inclure un utilisateur suspendu en tant qu’invité, même dans un groupe).
 
 Dans le contexte de cette infraction, « faire participer » est défini comme 1) le fait de streamer avec un utilisateur suspendu, 2) les streams d’un groupe dans lequel l’utilisateur suspendu est présent.
-
-[](#)
 
   Les streamers suspendus ne peuvent pas :
 
@@ -953,14 +847,11 @@ Les streamers autorisés sur Twitch ne peuvent pas :
 
 Il peut arriver que les utilisateurs suspendus apparaissent sur votre stream, en raison de circonstances qui échappent à votre contrôle, telles que des tournois de jeux tiers, ou des interactions limitées dans le cadre de streams IRL. Cependant, nous attendons un effort de votre part pour ne pas les promouvoir activement d’une manière destinée à contourner leur suspension Twitch. **N’oubliez pas que vous êtes responsable de tout le contenu de vos streams, y compris des infractions à nos règles commises par des tiers**.
 
-Utilisateurs propageant de la désinformation préjudiciable
-----------------------------------------------------------
+### Utilisateurs propageant de la désinformation préjudiciable
 
 Afin de réduire les préjudices causés à notre communauté et au public sans nuire au dialogue ouvert entre nos streamers et leurs communautés, nous luttons contre les utilisateurs propageant de la désinformation préjudiciable sur Twitch ou en dehors. **Nous écartons les utilisateurs dont la présence en ligne est dédiée au (1) partage continu (2) de sujets de désinformation préjudiciable (3) largement discrédités et partagés en masse.** 
 
 Cette politique est axée sur les utilisateurs Twitch qui partagent de façon répétée de la désinformation préjudiciable. Elle ne s'applique pas sur la base de discussions ou de déclarations individuelles sur la chaîne. Pour déterminer si un utilisateur enfreint notre politique, nous examinons son comportement sur la plateforme et en dehors de celle-ci. Pour signaler ces individus, envoyez un e-mail à [notre équipe interne d’enquêtes](mailto:OSIT@twitch.tv) avec le nom du compte ainsi que toute preuve en votre possession.
-
-[](#)
 
   Conformément à cette politique, nous traitons les sujets suivants et continuerons à mettre à jour cette liste à mesure que de nouvelles tendances apparaîtront : 
 
@@ -975,7 +866,6 @@ Cette politique est axée sur les utilisateurs Twitch qui partagent de façon r�
 
 \*Remarque : afin d'évaluer les allégations de désinformation civique, nous travaillons régulièrement avec des spécialistes et nous consultons les informations des commissions électorales, de la certification du Congrès et d'autres sources pertinentes.
 
-Identification de contenu
--------------------------
+### Identification de contenu
 
 **Vous devez autant que possible identifier de façon précise votre contenu.** Lorsque vous choisissez une catégorie ou un tag, veuillez sélectionner ceux qui décrivent le mieux votre contenu.
