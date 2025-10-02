@@ -112,7 +112,7 @@ Conformément à la loi du 13 mars 2000 sur la signature électronique, la trans
 
 Dans le cas d'une utilisation frauduleuse de votre carte, vous êtes invité à contacter immédiatement après le constat de cette utilisation, le Service Client au 03.20.760.760 (prix d’un appel local depuis un poste fixe), de 9h à 18h du lundi au vendredi (sauf jours fériés) et le samedi de 9h à 16h
 
-#### Paiement en 3 fois sans frais avec Klarna (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET pour les commandes en dessous à 1500€) :
+#### 4.2 Paiement dans les 30 jours ou en 3 fois sans frais avec Klarna (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET pour les commandes en dessous de 1500€) :
 
 Pour en savoir plus sur Klarna et le fonctionnement de cette modalité de paiement : [cliquez ici](https://www.vertbaudet.fr/page/a-propos-de-klarna.htm).
 
@@ -289,6 +289,8 @@ Si vous souhaitez remplacer l’article, il vous suffit de repasser commande con
 Si vous avez adhéré au Club Vertbaudet via le paiement d’une cotisation, vous disposez d’un délai de 14 jours à compter de la souscription pour nous notifier votre souhait de rétractation de votre adhésion en contactant le service client au 03.20.760.760 (coût d’un appel local depuis un poste fixe).  
 Plus d’informations sur [le club vertbaudet](https://www.vertbaudet.fr/page/club-vertbaudet.htm).
 
+A NOTER : Les conditions générales d’utilisation du programme de fidélité sont disponibles et consultables [ici](https://www.vertbaudet.fr/page/conditions_vente_liste_club.htm). L’acceptation des présentes CGV implique l’acceptation pleine et entière de ces CGU Club.
+
 7\. Spécificités à l'égard des Produits personnalisés
 -----------------------------------------------------
 
@@ -424,7 +426,7 @@ Pour toute question relative à la norme Européenne REACH, veuillez nous contac
 
 ### 10.3 Consignes de tri
 
-![https://media.vertbaudet.fr/medias/44/0/46168/1965805415/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/46168/1965805415/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. La consigne de tri peut figurer sur les Produits ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
+![https://media.vertbaudet.fr/medias/44/0/46168/1098908144/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/46168/1098908144/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. La consigne de tri peut figurer sur les Produits ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
 
 ### 10.4 Identifiants uniques
 
@@ -495,9 +497,7 @@ Médiateur de la consommation FEVAD - BP 20015 - 75362 PARIS CEDEX 8 - [https://
 
 Après démarche préalable écrite des consommateurs vis-à-vis de Vertbaudet, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici](https://www.mediateurfevad.fr/index.php/espace-consommateur).
 
-Vous pouvez également présenter votre réclamation sur la plateforme de résolution des litiges mise en ligne par la Commission Européenne à l'adresse suivante : [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/). La Commission Européenne transférera votre réclamation aux médiateurs nationaux compétents.
-
-Vous pouvez recourir au service de médiation du e-commerce pour les litiges de consommation liés à un achat effectué aussi si bien sur [www.vertbaudet.fr](https://www.vertbaudet.fr/) qu’en magasin.
+Vous pouvez recourir au service de médiation pour les litiges de consommation liés à un achat effectué aussi bien sur [www.vertbaudet.fr](https://www.vertbaudet.fr/) qu’en magasin.
 
 Concernant les autres produits achetés via la Marketplace, merci de contacter le vendeur concerné.
 
@@ -510,3 +510,5 @@ Les présentes Conditions Générales de Vente, qui régissent tout achat par un
 Par ailleurs, Vertbaudet adhère au Code de Déontologie de la FEVAD (Fédération du e-commerce et de la Vente à distance).
 
 Le Site est conforme à la législation française, et en aucun cas, Vertbaudet ne donne de garantie de conformité à la législation locale qui vous serait applicable, dès lors que vous accédez au Site à partir d'autres pays.
+
+Voir les [conditions générales d'utilisation du club vertbaudet](https://www.vertbaudet.fr/page/conditions_vente_liste_club.htm).
