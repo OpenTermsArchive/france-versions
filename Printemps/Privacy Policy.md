@@ -1,4 +1,4 @@
-[Jacquemus](https://www.printemps.com/fr/fr) [Sandro](https://www.printemps.com/fr/fr) [Polo Ralph Lauren](https://www.printemps.com/fr/fr) [Marc Jacobs](https://www.printemps.com/fr/fr) [Yves Saint Laurent](https://www.printemps.com/fr/fr)
+[Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
 * [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
@@ -96,7 +96,11 @@
     * [Tongs Et Claquettes](https://www.printemps.com/fr/fr/tongs-et-claquettes-femme)
 
 * [BIJOUX](https://www.printemps.com/fr/fr/bijoux-femme)
-    
+    * [Voir tout](https://www.printemps.com/fr/fr/bijoux-femme)
+    * [Boucles D'oreille](https://www.printemps.com/fr/fr/boucles-d-oreille)
+    * [Colliers](https://www.printemps.com/fr/fr/colliers)
+    * [Bagues](https://www.printemps.com/fr/fr/bagues)
+    * [Bracelets](https://www.printemps.com/fr/fr/bracelets)
 * [ACCESSOIRES](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
     * [Écharpes Et Foulards](https://www.printemps.com/fr/fr/echarpes-femme)
