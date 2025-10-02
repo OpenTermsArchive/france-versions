@@ -7,7 +7,7 @@
     * [Robes](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Robes)
     * [Accessoires](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Accessoires)
     * [Baskets](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Baskets)
-    * [Cabas](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Cabas)
+    * [Cabas](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Sacs+cabas)
 
 * [HOMME](https://www.printemps.com/fr/fr/nouveautes-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-homme)
@@ -96,11 +96,7 @@
     * [Tongs Et Claquettes](https://www.printemps.com/fr/fr/tongs-et-claquettes-femme)
 
 * [BIJOUX](https://www.printemps.com/fr/fr/bijoux-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/bijoux-femme)
-    * [Boucles D'oreille](https://www.printemps.com/fr/fr/boucles-d-oreille)
-    * [Colliers](https://www.printemps.com/fr/fr/colliers)
-    * [Bagues](https://www.printemps.com/fr/fr/bagues)
-    * [Bracelets](https://www.printemps.com/fr/fr/bracelets)
+    
 * [ACCESSOIRES](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
     * [Écharpes Et Foulards](https://www.printemps.com/fr/fr/echarpes-femme)
@@ -229,7 +225,7 @@ LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme?ap_source=anico&ap_medium
     * [Ongles](https://www.printemps.com/fr/fr/ongles)
     * [Palettes](https://www.printemps.com/fr/fr/palettes)
 
-* SOINS
+* [SOINS](https://www.printemps.com/fr/fr/soin)
     * [Voir tout](https://www.printemps.com/fr/fr/soins)
     * [Soins visage](https://www.printemps.com/fr/fr/soins-visage)
     * [Soins solaires](https://www.printemps.com/fr/fr/soins-solaires)
@@ -248,7 +244,7 @@ LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme?ap_source=anico&ap_medium
     
 * [BOUGIES ET PARFUMS D'INTÉRIEUR](https://www.printemps.com/fr/fr/bougie-parfum-d-interieur)
     
-* [ACCESSOIRES BEAUTÉ](https://www.printemps.com/fr/fr/bougie-parfum-d-interieur)
+* [ACCESSOIRES BEAUTÉ](https://www.printemps.com/fr/fr/accessoires-beaute)
     
 * [COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
     
@@ -270,7 +266,7 @@ LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme?ap_source=anico&ap_medium
     * [Soins anti-âge](https://www.printemps.com/fr/fr/soins-visage/sct/Anti-%C3%A2ge+%26+Anti-ride)
 
 * [TOP MARQUES](https://www.printemps.com/fr/fr/marques-beaute)
-    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
+    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/univers-maison-francis-kurkdjian)
     * [Victoria Beckham](https://www.printemps.com/fr/fr/victoria-beckham-beaute)
     * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque-beaute)
     * [Dyson](https://www.printemps.com/fr/fr/univers-dyson)
