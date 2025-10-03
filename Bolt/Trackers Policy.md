@@ -5,7 +5,7 @@ Ce site web utilise des cookies.. Nous utilisons des cookies pour le fonctionnem
 
 Consultez notre  [Déclaration relative aux cookies](https://bolt.eu/en/cookie-declaration/)  pour plus d'informations et de préférences.
 
-Votre consentement s'applique aux domaines suivants : mm-web.bolt.eu, dcp.bolt.eu, dcp.cf.boltsvc.net, littlebigthinktank.com, city.bolt.eu, foodpartner.bolt.eu, makecitiesforpeople.com, bestbreakups.com, couriers.bolt.eu, business.bolt.eu, signup.bolt.eu, fleets.bolt.eu, partners.bolt.eu, food.bolt.eu, partners.food.bolt.eu, bolt.eu
+Votre consentement s'applique aux domaines suivants : chauffeur.bolt.eu, mm-web.bolt.eu, dcp.bolt.eu, dcp.cf.boltsvc.net, littlebigthinktank.com, city.bolt.eu, foodpartner.bolt.eu, makecitiesforpeople.com, bestbreakups.com, couriers.bolt.eu, business.bolt.eu, signup.bolt.eu, fleets.bolt.eu, partners.bolt.eu, food.bolt.eu, partners.food.bolt.eu, bolt.eu
 
 Votre état ​​actuel: Refuser. 
 
@@ -34,7 +34,7 @@ Les cookies nécessaires contribuent à rendre notre site web utilisable en acti
 | --- | --- | --- | --- | --- |
 | \_\_cf\_bm \[x5\] | bolt.eu  <br>[Twitter Inc.](https://twitter.com/en/privacy "la politique de confidentialité de Twitter Inc.")  <br>partners.bolt.eu  <br>[Vimeo](https://vimeo.com/privacy "la politique de confidentialité de Vimeo") | Ce cookie est utilisé pour distinguer les humains des robots. Ceci est bénéfique pour le site web afin de créer des rapports valides sur l'utilisation du leur site. | Session | Cookie HTTP |
 | \_\_mp\_opt\_in\_out\_# | bolt.eu | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | Session | Cookie HTTP |
-| \_\_mpq\_#\_# \[x5\] | bolt.eu  <br>cdn.mxpnl.com  <br>fleets.bolt.eu  <br>city.bolt.eu  <br>foodpartner.bolt.eu | Collecte des données sur le comportement et l'interaction des internautes, pour optimiser le site web et rendre la publicité sur le site plus pertinente. | Persistant | Stockage local HTML |
+| \_\_mpq\_#\_# \[x6\] | bolt.eu  <br>cdn.mxpnl.com  <br>fleets.bolt.eu  <br>city.bolt.eu  <br>food.bolt.eu  <br>foodpartner.bolt.eu | Collecte des données sur le comportement et l'interaction des internautes, pour optimiser le site web et rendre la publicité sur le site plus pertinente. | Persistant | Stockage local HTML |
 | \_cfuvid | [Vimeo](https://vimeo.com/privacy "la politique de confidentialité de Vimeo") | Ce cookie fait partie des services fournis par Cloudflare - notamment l’équilibrage de la charge, la fourniture du contenu du site web et la connexion DNS au service des exploitants de sites web. | Session | Cookie HTTP |
 | 1.gif | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "la politique de confidentialité de Cookiebot") | Utilisé pour compter le nombre de sessions sur le site web, nécessaire pour optimiser la livraison des produits CMP. | Session | Pixel de suivi |
 | ar\_debug | [Pinterest](https://policy.pinterest.com/en/privacy-policy "la politique de confidentialité de Pinterest") | Vérifie si un cookie de débogage technique est présent. | 1 année | Cookie HTTP |
@@ -42,7 +42,7 @@ Les cookies nécessaires contribuent à rendre notre site web utilisable en acti
 | Bolt\_courier\_portal\_device\_id \[x2\] | dcp.cf.boltsvc.net  <br>dcp.bolt.eu | En attente | Persistant | Stockage local HTML |
 | Bolt\_driver\_portal\_device\_id | signup.bolt.eu | En attente | Persistant | Stockage local HTML |
 | Bolt\_driver\_portal\_visitor\_id | signup.bolt.eu | En attente | Persistant | Stockage local HTML |
-| bugsnag-anonymous-id \[x2\] | food.bolt.eu  <br>foodpartner.bolt.eu | Ce cookie est utilisé pour détecter les erreurs sur le site ; ces informations sont envoyées au personnel technique du site pour pouvoir optimiser l'expérience du visiteur sur le site. | Persistant | Stockage local HTML |
+| bugsnag-anonymous-id | foodpartner.bolt.eu | Ce cookie est utilisé pour détecter les erreurs sur le site ; ces informations sont envoyées au personnel technique du site pour pouvoir optimiser l'expérience du visiteur sur le site. | Persistant | Stockage local HTML |
 | CookieConsent \[x17\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "la politique de confidentialité de Cookiebot")  <br>mm-web.bolt.eu  <br>partners.bolt.eu  <br>partners.food.bolt.eu  <br>tracking.bolt.eu | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | 1 année | Cookie HTTP |
 | deviceId \[x2\] | static.bolt.eu  <br>public-documents.bolt.eu | Identifie l'utilisateur connecté. Un identifiant unique de session est lié à l'utilisateur afin de pouvoir l’identifier lors de la navigation du site. L'utilisateur est déconnecté lorsque le cookie expire. | Persistant | Stockage local HTML |
 | fleet-visitor-id | bolt.eu | En attente | Session | Cookie HTTP |
@@ -56,8 +56,8 @@ Les cookies nécessaires contribuent à rendre notre site web utilisable en acti
 | mp\_#\_mixpanel \[x6\] | fleets.bolt.eu  <br>cdn.mxpnl.com  <br>bolt.eu  <br>city.bolt.eu  <br>food.bolt.eu  <br>foodpartner.bolt.eu | En attente | 1 année | Cookie HTTP |
 | persist:root \[x2\] | dcp.bolt.eu  <br>dcp.cf.boltsvc.net | Ce cookie enregistre les références visiteur dans un cookie codé afin de permettre au visiteur de rester connecté lorsqu'il revient, à condition qu'il ait cliqué sur le bouton « Rester connecté ». | Persistant | Stockage local HTML |
 | persist:session \[x2\] | city.bolt.eu  <br>foodpartner.bolt.eu | En attente | Persistant | Stockage local HTML |
-| rc::a | [Google](https://business.safety.google/privacy/ "la politique de confidentialité de Google") | Ce cookie est utilisé pour distinguer les humains des robots. Ceci est bénéfique pour le site web afin de créer des rapports valides sur l'utilisation du leur site. | Persistant | Stockage local HTML |
-| rc::c | [Google](https://business.safety.google/privacy/ "la politique de confidentialité de Google") | Ce cookie est utilisé pour distinguer les humains des robots. | Session | Stockage local HTML |
+| rc::a | support-portal.bolt.eu | Ce cookie est utilisé pour distinguer les humains des robots. Ceci est bénéfique pour le site web afin de créer des rapports valides sur l'utilisation du leur site. | Persistant | Stockage local HTML |
+| rc::c | support-portal.bolt.eu | Ce cookie est utilisé pour distinguer les humains des robots. | Session | Stockage local HTML |
 | sessionIdFoodPartner | bolt.eu | En attente | Session | Stockage local HTML |
 | sessionId-partner | bolt.eu | En attente | Session | Stockage local HTML |
 | taxifyDriverPortal\_uuid | partners.bolt.eu | En attente | Persistant | Stockage local HTML |
@@ -85,7 +85,7 @@ Les cookies de préférences permettent à notre site web de retenir des informa
 | persist:support-selected-case | foodpartner.bolt.eu | En attente | Persistant | Stockage local HTML |
 | taxifyDriverPortal\_locale | partners.bolt.eu | En attente | Persistant | Stockage local HTML |
 
-Statistiques (41)
+Statistiques (37)
 
 Les cookies statistiques nous aident à comprendre comment les visiteurs interagissent avec notre site web par la collecte et la communication d'informations de manière anonyme. [En savoir plus](https://bolt.eu/en/cookie-declaration/)
 
@@ -109,8 +109,6 @@ Les cookies statistiques nous aident à comprendre comment les visiteurs interag
 | FPAU \[x2\] | bolt.eu  <br>boltsvc.net | Attribue un identifiant spécifique au visiteur - Cela permet au site Web de déterminer le nombre de visites d'utilisateurs spécifiques à des fins d'analyse et de statistique. | 3 mois | Cookie HTTP |
 | FPID \[x2\] | bolt.eu  <br>boltsvc.net | Enregistre des données statistiques sur le comportement des internautes sur le site web. Utilisé pour les analyses internes par l'opérateur du site web. | 400 jours | Cookie HTTP |
 | FPLC \[x2\] | bolt.eu  <br>boltsvc.net | Enregistre un identifiant unique utilisé pour générer des données statistiques sur la façon dont le visiteur utilise le site. | 1 jour | Cookie HTTP |
-| mixpanelBrowserDb#mixpanelRecordingEvents \[x2\] | food.bolt.eu  <br>fleets.bolt.eu | En attente | Persistant | IndexedDB |
-| mixpanelBrowserDb#mixpanelRecordingRegistry \[x2\] | food.bolt.eu  <br>fleets.bolt.eu | En attente | Persistant | IndexedDB |
 | mmkv\_9$a\_store\_9$a\_impressionEvents | food.bolt.eu | En attente | Persistant | Stockage local HTML |
 | mp\_optout | food.bolt.eu | En attente | Session | Cookie HTTP |
 | personalization\_id | [Twitter Inc.](https://twitter.com/en/privacy "la politique de confidentialité de Twitter Inc.") | Ce cookie est défini par Twitter - Le cookie permet a l'internaute de partager le contenu du site web sur son profil Twitter. | 400 jours | Cookie HTTP |
@@ -184,7 +182,7 @@ Les cookies marketing sont utilisés pour effectuer le suivi des visiteurs à tr
 | yt-remote-session-app | assets.blog-frontend.bolt.eu | Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées | Session | Stockage local HTML |
 | yt-remote-session-name | assets.blog-frontend.bolt.eu | Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées | Session | Stockage local HTML |
 
-Non classés (7)
+Non classés (9)
 
 Les cookies non classés sont les cookies qui sont en cours de classification, ainsi que les fournisseurs de cookies individuels. [En savoir plus](https://bolt.eu/en/cookie-declaration/)
 
@@ -193,6 +191,8 @@ Les cookies non classés sont les cookies qui sont en cours de classification, a
 | --- | --- | --- | --- | --- |
 | @developer-settings/state | food.bolt.eu | En attente | Persistant | Stockage local HTML |
 | cf.turnstile.u | [Cloudflare](https://www.cloudflare.com/privacypolicy/ "la politique de confidentialité de Cloudflare") | En attente | Persistant | Stockage local HTML |
+| mixpanelBrowserDb#mixpanelRecordingEvents | fleets.bolt.eu | En attente | Persistant | IndexedDB |
+| mixpanelBrowserDb#mixpanelRecordingRegistry | fleets.bolt.eu | En attente | Persistant | IndexedDB |
 | mp\_gen\_new\_tab\_id\_mixpanel\_1a3f21ca8018375e914288d06af0cb79 | fleets.bolt.eu | En attente | Session | Stockage local HTML |
 | mp\_gen\_new\_tab\_id\_mixpanel\_d34cbdea4b58a3b884e4b999930076ef | food.bolt.eu | En attente | Session | Stockage local HTML |
 | mp\_tab\_id\_mixpanel\_1a3f21ca8018375e914288d06af0cb79 | fleets.bolt.eu | En attente | Session | Stockage local HTML |
