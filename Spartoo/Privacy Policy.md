@@ -35,7 +35,7 @@ Nous collectons et enregistrons toutes les informations que vous nous communique
 Lors de votre navigation sur le site SPARTOO, nous collectons automatiquement certaines informations, notamment relatives à votre utilisation, votre interaction avec le contenu du site SPARTOO. Cette collecte intervient principalement via des "cookies".  
   
 \- Informations issues d'autres sources  
-Nos partenariats marketing nous permettent également de collecter des données personnelles vous concernant, cette collecte étant conditionnée à votre consentement exprès préalable exprimé à l’attention desdits partenaires.  
+Nos partenariats marketing nous permettent également de collecter des données personnelles vous concernant, cette collecte étant conditionnée à votre consentement exprès préalable exprimé à l’attention desdits partenaires, . (par exemple Google : https://business.safety.google/privacy/)  
   
 Le traitement des données personnelles concerne notamment :  
   
