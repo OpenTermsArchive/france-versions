@@ -1,5 +1,7 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
+* [NOUVELLE COLLECTION](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
+
 * [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
@@ -43,12 +45,11 @@
     * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/nouveautes/mrk/J%C3%89R%C3%94ME+DREYFUSS)
 
 * DANS LA TENDANCE
-    * [Nouvelle collection](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
     * [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
     * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865)
-    * [les tendances de la rentrée](https://www.printemps.com/fr/fr/edito-style-tendance-rentree-2025)
-    * [Nos looks Back to work](https://www.printemps.com/fr/fr/edito-style-back-to-work-looks)
+    * [Les tendances automne-hiver](https://www.printemps.com/fr/fr/edito-magazine-style-tendances-automne-hiver)
+    * [Mocassins : comment les porter avec style ?](https://www.printemps.com/fr/fr/edito-magazine-style-mocassins)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
@@ -274,6 +275,8 @@
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
     * 
+
+* [HOME PARTY](https://www.printemps.com/fr/fr/offre-club-maison)
 
 * [LINGE DE MAISON](https://www.printemps.com/fr/fr/linge-de-maison)
 
