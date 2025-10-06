@@ -110,6 +110,8 @@
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
     * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
 
+* [LUXE ET CRÉATEURS](https://www.printemps.com/fr/fr/luxe-et-createurs-femme)
+    
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme)
     
 * TENDANCES
