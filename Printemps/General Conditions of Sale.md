@@ -1,7 +1,5 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
-* [NOUVELLE COLLECTION](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
-
 * [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
@@ -28,13 +26,15 @@
     * [Accessoires](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Accessoires)
 * [MAISON](https://www.printemps.com/fr/fr/nouveautes-maison)
     
+* [NOUVELLE COLLECTION](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
+    
 * [Souvenir shop](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
     
 
 * MARQUES
     * [Topshop](https://www.printemps.com/fr/fr/topshop-femme)
     * [Our legacy](https://www.printemps.com/fr/fr/ourlegacy)
-    * [Bagda Butrym](https://www.printemps.com/fr/fr/magda-butrym-femme)
+    * [Magda Butrym](https://www.printemps.com/fr/fr/magda-butrym-femme)
     * [Essentiel Antwerp](https://www.printemps.com/fr/fr/essentiel-antwerp-femme)
     * [Lancel](https://www.printemps.com/fr/fr/lancel-femme)
     * [Boss](https://www.printemps.com/fr/fr/hugo-boss)
@@ -53,7 +53,6 @@
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
-    * [Luxe et créateurs](https://www.printemps.com/fr/fr/luxe-et-createurs)
     * [Robes](https://www.printemps.com/fr/fr/robes-femme)
     * [Robes de soirée](https://www.printemps.com/fr/fr/robes-de-soiree)
     * [Tops et t-shirts](https://www.printemps.com/fr/fr/tops-t-shirts-femme)
@@ -277,8 +276,6 @@
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
     * 
-
-* [HOME PARTY](https://www.printemps.com/fr/fr/offre-club-maison)
 
 * [LINGE DE MAISON](https://www.printemps.com/fr/fr/linge-de-maison)
 
