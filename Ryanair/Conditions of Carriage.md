@@ -2058,7 +2058,7 @@ Priorité & 2 bagages de cabine
 
 Prix entre
 
-€/£12 - €/£36
+€/£6 - €/£36
 
 €/£20 - €/£60
 
