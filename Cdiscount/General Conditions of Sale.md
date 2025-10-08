@@ -119,8 +119,8 @@ Toute commande passée sur le Site suppose l’acceptation entière, sans réser
 
 [](https://i1.cdscdn.com/ImagesOK/CGV/CLeMarche.pdf) 
 
-_CONDITIONS ASSURANCE FLOA BANK ACHAT ET MOYEN DE PAIEMENT (uniquement pour la France métropolitaine) Notice d'information_
----------------------------------------------------------------------------------------------------------------------------
+_Article 2 :  Information sur les prix_
+---------------------------------------
 
 **2.1 Prix des produits et des services**  
   
@@ -934,7 +934,7 @@ A cet effet, Cdiscount met à disposition une "Aide au Choix Responsable" dispon
 
 Dans cette même volonté Cdiscount propose depuis 2021 la reprise des produits d’ameublement devançant ses obligations en tant que distributeur dans le cadre de la Responsabilité Elargie des Producteurs (REP).
 
-La Responsabilité Elargie des Producteurs amène les producteurs ainsi que les distributeurs au respect de différentes obligations afin de pourvoir et contribuer à la gestion des déchets qui se d’gagent de leur activité.  
+La Responsabilité Elargie des Producteurs amène les producteurs ainsi que les distributeurs au respect de différentes obligations afin de pourvoir et contribuer à la gestion des déchets qui se dégagent de leur activité.  
 Ces obligations sont de deux ordres :  
     - L’éco-participation ;   
     - Et la reprise des produits usagés.
