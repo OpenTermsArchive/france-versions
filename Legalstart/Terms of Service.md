@@ -4,10 +4,9 @@
 
 Fermer la bannière
 
-Promo de rentrée : **199€ offerts sur votre création d’entreprise** ! Appelez-nous au [01 76 41 08 93](tel:+33176410893)
+**199€ offerts sur votre création d’entreprise** ! Appelez-nous au [01 76 41 08 93](tel:+33176410893)
 
-Promo de rentrée : **199€ offerts sur votre création d’entreprise** !  
-Appelez-nous au [01 76 41 08 93](tel:+33176410893)
+**199€ offerts sur votre création d’entreprise** ! Appelez-nous au [01 76 41 08 93](tel:+33176410893)
 
 Nos conditions Générales
 ========================
