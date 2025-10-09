@@ -177,6 +177,7 @@ Les principaux cookies/traceurs analytiques et de performance que nous utilisons
 | Tous les Sites | \_pcid | Boursorama | Mesure d'audience avec  <br>remontée de visiteur unique(1) | 13 mois |
 | Tous les Sites | \_pprv | Boursorama | Mesure d'audience avec  <br>remontée de visiteur unique(1) | 13 mois |
 | Tous les Sites | \_pctx | Boursorama | Mesure d'audience avec  <br>remontée de visiteur unique(1) | 13 mois |
+| Tous les Sites | snid | Boursorama | Identifiant de session | session |
 
 (1) Boursorama utilise ce même cookie pour la finalité de mesure d'audience strictement nécessaire au bon fonctionnement des Sites (cf. Section 2 de la présente Politique) et pour la finalité d'analyse et de performance. Si Vous donnez Votre consentement pour cette dernière finalité, des données supplémentaires seront collectées pour un suivi personnalisé de Votre navigation sur les Sites.
 
