@@ -56,7 +56,7 @@
     * [Robes](https://www.printemps.com/fr/fr/robes-femme)
     * [Robes de soirée](https://www.printemps.com/fr/fr/robes-de-soiree)
     * [Tops et t-shirts](https://www.printemps.com/fr/fr/tops-t-shirts-femme)
-    * [Blouses Et Chemises](https://www.printemps.com/fr/fr/chemises-femme)
+    * [Blouses et chemises](https://www.printemps.com/fr/fr/chemises-femme)
     * [Vestes](https://www.printemps.com/fr/fr/vestes-femme)
     * [Manteaux](https://www.printemps.com/fr/fr/manteaux-femme)
     * [Jeans](https://www.printemps.com/fr/fr/jeans-femme)
