@@ -1,13 +1,5 @@
 Conditions générales de transport
-
-Conditions
-
-générales de
-
-transport
-
-
-==========================================================================
+=================================
 
 Transavia
 
@@ -234,7 +226,7 @@ Pour tout excédant de bagage(s) cabine et/ou de bagage(s) à main, ou de pièce
 
 **Bagages en soute**
 
-Il y a un supplément à payer pour tous les bagages en soute. Lors de la réservation de votre vol, vous devez indiquer combien de bagages vous emporterez avec vous et quel en sera le poids maximum. Un maximum de 5 bagages en soute est autorisé par passager (70 x 60 x 30 cm maximum) et le poids maximum des bagages enregistrés (autres que les bagages spéciaux) par passager est de 50 kilos. Pour certains itinéraires, un poids maximal autorisé différent pour les bagages en soute (hors bagages spéciaux) peut s'appliquer. Les informations relatives à un poids maximal autorisé différent pour les bagages en soute par passager sont indiquées sur le site Internet de Transavia. Le poids maximal autorisé par pièce de bagage est de 32 kg. Pour tout excédent de bagage en soute ou pour tout bagage en soute ne respectant pas ces conditions, des frais supplémentaires peuvent s'appliquer. Les conditions relatives à cette surcharge sont disponibles sur le site internet de Transavia.
+Il y a un supplément à payer pour tous les bagages en soute. Lors de la réservation de votre vol, vous devez indiquer combien de bagages vous emporterez avec vous et quel en sera le poids maximum. Un maximum de 5 bagages en soute est autorisé par passager. Dimensions maximales par pièce (roues et poignées comprises) : 165 cm (longueur + largeur + hauteur) et le poids maximum des bagages enregistrés (autres que les bagages spéciaux) par passager est de 50 kilos. Les équipements sportifs (sacs de golf, matériel de plongée, planches de surf, matériel de kitesurf, deltaplanes, skis, etc.) sont toujours considérés comme des bagages spéciaux, quelles que soient leurs dimensions. Pour certains itinéraires, un poids maximal autorisé différent pour les bagages en soute (hors bagages spéciaux) peut s'appliquer. Les informations relatives à un poids maximal autorisé différent pour les bagages en soute par passager sont indiquées sur le site Internet de Transavia. Le poids maximal autorisé par pièce de bagage est de 32 kg. Pour tout excédent de bagage en soute ou pour tout bagage en soute ne respectant pas ces conditions, des frais supplémentaires peuvent s'appliquer. Les conditions relatives à cette surcharge sont disponibles sur le site internet de Transavia.
 
 **Bagages spéciaux**
 
