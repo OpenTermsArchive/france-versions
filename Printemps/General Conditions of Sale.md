@@ -111,6 +111,8 @@
 
 * [LUXE ET CRÉATEURS](https://www.printemps.com/fr/fr/luxe-et-createurs-femme)
     
+* [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-femme)
+    
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme)
     
 * TENDANCES
@@ -185,6 +187,8 @@
     * [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
+* [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-homme)
+    
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme)
     
 * [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme)
