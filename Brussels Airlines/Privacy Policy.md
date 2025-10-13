@@ -87,7 +87,7 @@ Autorité de protection des données
 Gegevensbeschermingsautoriteit  
 Rue de la presse 35, 1000 Bruxelles  
 [​contact@apd-gba.be](mailto:contact@apd-gba.be)  
-[​www.dataprotectionauthority.beLe lien s’ouvrira dans un nouvel onglet de navigateur](https://www.dataprotectionauthority.be/)
+[​www.dataprotectionauthority.beLe lien s’ouvrira dans un nouvel onglet de navigateur.](https://www.dataprotectionauthority.be/)
 
 3\. Traitement des données à caractère personnel
 ------------------------------------------------
@@ -272,7 +272,7 @@ Nous ne transmettons pas vos données à caractère personnel à des tiers, sauf
 * Des personnes qui répondent aux chats et qui travaillent dans les centres d’appels
 * Des agences et autorités gouvernementales, par exemple en rapport avec les données APIS (Advance Passenger Information System) à transmettre aux autorités responsables des pays de vol respectifs ou TSA (Transportation Security Administration) pour échanger les données que vous avez fournies avec les autorités d’application de la loi concernées, les services de renseignement et d’autres organisations afin de remplir nos obligations légales
 
-Conformément à la loi belge relative à l’utilisation des données des passagers, nous sommes tenus de transmettre certaines données des passagers au gouvernement belge. Vous trouverez de plus amples informations ici : [​https://crisiscenter.be/de/privacy-statementLe lien s’ouvrira dans un nouvel onglet de navigateur](https://crisiscenter.be/en/privacy-statement)
+Conformément à la loi belge relative à l’utilisation des données des passagers, nous sommes tenus de transmettre certaines données des passagers au gouvernement belge. Vous trouverez de plus amples informations ici : [​https://crisiscenter.be/de/privacy-statementLe lien s’ouvrira dans un nouvel onglet de navigateur.](https://crisiscenter.be/en/privacy-statement)
 
 * Des transporteurs ne faisant pas partie de Lufthansa Group lorsque nous ou un tiers avons un intérêt légitime Nous ne partagerons vos données à caractère personnel avec d’autres transporteurs que si vos intérêts ou vos droits et libertés fondamentaux ne l’emportent pas sur cet intérêt. Dans ce cas, vous serez toujours parfaitement informé (sauf exception juridique).
 
