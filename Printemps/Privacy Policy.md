@@ -214,14 +214,7 @@
     * [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
     * [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/35/3/8436353.png)
-        
-        LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=vignette_lacoste)
-        
-
- [![Image d'illustration](https://media-cdn.printemps.com/image/35/3/8436353.png)
-
-LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=vignette_lacoste)
+    * 
 
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir tout](https://www.printemps.com/fr/fr/parfum)
@@ -287,14 +280,14 @@ LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme?ap_source=anico&ap_medium
     * [Parfums de marly](https://www.printemps.com/fr/fr/parfum-parfums-de-marly)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/75/5/8481755.jpg)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/55/2/8545552.jpg)
         
-        PATYKA](https://www.printemps.com/fr/fr/univers-patyka?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-patyka)
+        HELLENIST](https://www.printemps.com/fr/fr/hellenist-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-hellenist)
         
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/75/5/8481755.jpg)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/55/2/8545552.jpg)
 
-PATYKA](https://www.printemps.com/fr/fr/univers-patyka?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-patyka)
+HELLENIST](https://www.printemps.com/fr/fr/hellenist-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-hellenist)
 
 * [LINGE DE MAISON](https://www.printemps.com/fr/fr/linge-de-maison)
 
