@@ -1914,7 +1914,7 @@ Frais de réémission de carte d’embarquement
 
 n/a
 
-20 €/£ avant le 3 novembre 2025 0 €/£ à partir du 3 novembre 2025
+20 €/£ avant le 12 novembre 2025 0 €/£ à partir du 12 novembre 2025
 
 Frais d’enregistrement à l’aéroport
 
