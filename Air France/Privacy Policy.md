@@ -106,10 +106,10 @@ This version is applicable as from July 15th,  2025. We reserve the right to ch
 Customer service
 
 * [Contact us](https://wwws.airfrance.fr/contact)
-* [Refund](https://wwws.airfrance.fr/contact/refund-compensation)
+* [Refund](https://wwws.airfrance.fr/contact/topic/refund-compensation)
 * [Claims](https://wwws.airfrance.fr/information/legal/reclamation)
-* [Request an invoice](https://wwws.airfrance.fr/contact/trip-checkin/invoice)
-* [Passengers with disabilities](https://wwws.airfrance.fr/contact/special-assistance)
+* [Request an invoice](https://wwws.airfrance.fr/contact/topic/trip-checkin/subtopic/invoice)
+* [Passengers with disabilities](https://wwws.airfrance.fr/contact/topic/special-assistance)
 
 #### Online purchase
 
