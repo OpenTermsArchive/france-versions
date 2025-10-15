@@ -1,5 +1,45 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
+* [JACKPOT ! AU PRINTEMPS : Jusqu'à -40%](https://www.printemps.com/fr/fr/jackpot-au-printemps)
+    
+* [LUXE](https://www.printemps.com/fr/fr/jackpot-luxe)
+    
+* [FEMME](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
+    * [Voir tout](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
+    * [Luxe](https://www.printemps.com/fr/fr/jackpot-luxe-femme)
+    * [Sacs](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/esp/Sacs)
+    * [Chaussures](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/esp/Chaussures)
+    * [Vêtements](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/esp/V%C3%AAtements)
+    * [Accessoires](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/esp/Accessoires)
+
+* [HOMME](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme)
+    * [Voir tout](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme)
+    * [Luxe](https://www.printemps.com/fr/fr/jackpot-luxe-homme)
+    * [Chaussures](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/esp/Chaussures)
+    * [Vêtements](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/esp/V%C3%AAtements)
+    * [Accessoires](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/esp/Accessoires)
+    * [Sacs](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/esp/Sacs)
+
+* [BEAUTÉ](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute)
+    * [Parfums](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute/esp/Parfum)
+    * [Soins](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute/esp/Soin)
+    * [Maquillage](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute/esp/Maquillage)
+    * [Coffrets](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute/esp/Coffret+%26+Palette)
+
+* [REMISES](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-10%25/-20%25/-25%25/-30%25/-35%25/-40%25/-45%25/-50%25/-60%25/-75%25)
+    * [\-30%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-30%25)
+    * [\-40%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-40%25)
+    * [\-50%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-50%25)
+
+* TOP CATÉGORIES
+    * [Bottes et bottines](https://www.printemps.com/fr/fr/jackpot-au-printemps/cat0/Bottes/Bottines)
+    * [Baskets](https://www.printemps.com/fr/fr/jackpot-au-printemps/cat0/Baskets)
+    * [Sacs](https://www.printemps.com/fr/fr/jackpot-au-printemps/cat0/Sacs+bandouli%C3%A8re/Sacs+bourse/Sacs+cabas/Sacs+%C3%A0+dos/Sacs+%C3%A0+main)
+    * [Mailles et pulls](https://www.printemps.com/fr/fr/jackpot-au-printemps/cat0/Mailles+et+pulls)
+    * [Chemises](https://www.printemps.com/fr/fr/jackpot-au-printemps/cat0/Chemises)
+    * [Manteaux](https://www.printemps.com/fr/fr/jackpot-au-printemps/cat0/Manteaux)
+    * 
+
 * [NOUVELLE COLLECTION](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
 
 * [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
@@ -109,6 +149,8 @@
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
     * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
 
+* [JACKPOT ! AU PRINTEMPS : Jusqu'à -40%](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
+    
 * [LUXE ET CRÉATEURS](https://www.printemps.com/fr/fr/luxe-et-createurs-femme)
     
 * [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-femme)
@@ -136,7 +178,10 @@
     * [Prada](https://www.printemps.com/fr/fr/prada-femme)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Guess](https://www.printemps.com/fr/fr/guess-femme)
-    * 
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/17/2/8544172.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
+        
+
+ [![Image d'illustration](https://media-cdn.printemps.com/image/17/2/8544172.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -188,6 +233,8 @@
     * [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
+* [JACKPOT ! AU PRINTEMPS : Jusqu'à -40%](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme)
+    
 * [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-homme)
     
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme)
@@ -214,7 +261,14 @@
     * [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
     * [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    * 
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/32/3/8544323.jpg)
+        
+        LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme)
+        
+
+ [![Image d'illustration](https://media-cdn.printemps.com/image/32/3/8544323.jpg)
+
+LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme)
 
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir tout](https://www.printemps.com/fr/fr/parfum)
@@ -242,6 +296,8 @@
     * [Produits de coiffage](https://www.printemps.com/fr/fr/produits-de-coiffage)
     * [Appareils électroniques](https://www.printemps.com/fr/fr/fers-lisser)
 
+* [JACKPOT ! AU PRINTEMPS : Jusqu'à -40%](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute)
+    
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-beaute)
     
 * [HOMME](https://www.printemps.com/fr/fr/beaute-homme)
@@ -455,6 +511,8 @@ HELLENIST](https://www.printemps.com/fr/fr/hellenist-beaute?ap_source=anico&ap_m
 * [Conférences et ateliers](https://evenements.printemps.com/)
 
 * [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
+
+ [![Image d'illustration](https://media-cdn.printemps.com/image/17/2/8544172.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps)
 
   
 
