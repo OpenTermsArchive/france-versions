@@ -25,6 +25,7 @@
     * [Soins](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute/esp/Soin)
     * [Maquillage](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute/esp/Maquillage)
     * [Coffrets](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute/esp/Coffret+%26+Palette)
+    * [Voir tout](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute)
 
 * [REMISES](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-10%25/-20%25/-25%25/-30%25/-35%25/-40%25/-45%25/-50%25/-60%25/-75%25)
     * [\-30%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-30%25)
@@ -38,7 +39,10 @@
     * [Mailles et pulls](https://www.printemps.com/fr/fr/jackpot-au-printemps/cat0/Mailles+et+pulls)
     * [Chemises](https://www.printemps.com/fr/fr/jackpot-au-printemps/cat0/Chemises)
     * [Manteaux](https://www.printemps.com/fr/fr/jackpot-au-printemps/cat0/Manteaux)
-    * 
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/54/3/8545543.jpg)](https://www.printemps.com/fr/fr/jeu-jackpot)
+        
+
+ [![Image d'illustration](https://media-cdn.printemps.com/image/54/3/8545543.jpg)](https://www.printemps.com/fr/fr/jeu-jackpot)
 
 * [NOUVELLE COLLECTION](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
 
@@ -289,6 +293,12 @@ LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme)
     * [Soins solaires](https://www.printemps.com/fr/fr/soins-solaires)
     * [Soins de la barbe](https://www.printemps.com/fr/fr/soins-barbe)
     * [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
+    * [Soins solaires](https://www.printemps.com/fr/fr/soins-solaires)
+    * [Soins cheveux](https://www.printemps.com/fr/fr/soins-cheveux)
+    * [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
+    * [Soins de la barbe](https://www.printemps.com/fr/fr/soins-barbe)
+    * [Soins du corps](https://www.printemps.com/fr/fr/soins-corps)
+    * [Soins du visage](https://www.printemps.com/fr/fr/soins-visage)
 * [SOINS CHEVEUX](https://www.printemps.com/fr/fr/soins-cheveux)
     * [Voir tout](https://www.printemps.com/fr/fr/soins-cheveux)
     * [Shampoing & après-shampoing](https://www.printemps.com/fr/fr/shampoing-apres-shampoing)
