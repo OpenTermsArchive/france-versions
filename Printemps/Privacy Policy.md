@@ -2,6 +2,8 @@
 
 * [JACKPOT ! AU PRINTEMPS : Jusqu'à -40%](https://www.printemps.com/fr/fr/jackpot-au-printemps)
     
+* [LUXE](https://www.printemps.com/fr/fr/jackpot-luxe)
+    
 * [FEMME](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
     * [Luxe](https://www.printemps.com/fr/fr/jackpot-luxe-femme)
@@ -19,11 +21,11 @@
     * [Sacs](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/esp/Sacs)
 
 * [BEAUTÉ](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute)
+    * [Voir tout](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute)
     * [Parfums](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute/esp/Parfum)
     * [Soins](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute/esp/Soin)
     * [Maquillage](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute/esp/Maquillage)
     * [Coffrets](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute/esp/Coffret+%26+Palette)
-    * [Voir tout](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute)
 
 * [REMISES](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-10%25/-20%25/-25%25/-30%25/-35%25/-40%25/-45%25/-50%25/-60%25/-75%25)
     * [\-30%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-30%25)
