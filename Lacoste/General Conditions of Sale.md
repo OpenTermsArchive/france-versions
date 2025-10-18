@@ -116,27 +116,23 @@ Nos frais d'expédition sont les suivants :
 
 Paiement et défaut de paiement
 
-1\. Le paiement de vos produits devra être effectué en une fois par carte bancaire (Visa, Matercard, American Express) ou Paypal, ou en plusieurs fois via la solution Klarna, ou en carte cadeau Lacoste, en suivant les indications figurant sur la page concernant le paiement. Pour plus de détail sur le paiement de votre commande en plusieurs fois, nous vous invitons à consulter nos FAQ.
+1\. Le paiement de vos produits devra être effectué en une fois par carte de paiement (Carte Bancaire, Visa, Matercard, American Express) ou Paypal, ou en plusieurs fois via la solution Klarna, ou en carte cadeau Lacoste, en suivant les indications figurant sur la page concernant le paiement. Pour plus de détail sur le paiement de votre commande en plusieurs fois, nous vous invitons à consulter nos FAQ.
 
   
 
-2\. Le paiement complet du prix, y compris les frais d'expédition et tous frais supplémentaires pour des services que vous aurez commandés, sera débité de votre carte bancaire ou de votre compte Paypal, après vérification de la disponibilité des produits commandés, au moment ou peu de temps avant l'expédition des produits chez vous. Nous ne vous livrerons les produits que si votre paiement est effectif.
+2\. Le paiement complet du prix, y compris les frais d'expédition et tous frais supplémentaires pour des services que vous aurez commandés, sera débité de votre carte de paiement, de votre compte Paypal ou votre compte Klarna et après vérification de la disponibilité des produits commandés, au moment ou peu de temps avant l'expédition des produits chez vous. Nous ne vous livrerons les produits que si votre paiement est effectif.
 
   
 
-3\. En cas de commande «Retrait 1H en Boutique Lacoste» passée via le Site Web ou en cas de commande « Livraison par coursier» passée par téléphone ou visioconférence, votre carte bancaire ou votre compte Paypal sera débité(e) au profit de Lacoste France (SAS au capital de 328.575 euros, n° RCS 307 258 301, sise 31-37 boulevard de Montmorency, 75016 Paris) à compter du moment où vous prendrez possession du/des produit(s) commandé(s), au sein de la Boutique Lacoste que vous aurez sélectionnée ou du lieu de livraison que vous aurez indiqué.
+3\. Vous confirmez que le moyen de paiement utilisé est le vôtre. Tous les détenteurs de cartes de paiement, compte PayPal ou Klarna sont soumis à des contrôles d'authentification, de validation et à d'autorisation par l'émetteur du moyen de paiement. Si l'émetteur du moyen de paiement refuse d'autoriser le paiement, nous serons en droit de refuser de procéder à la livraison de votre commande et ne serons pas responsables de tout retard ou de toute absence de livraison. Nous vous enverrons un courriel pour vous informer du refus.
 
   
 
-4\. Vous confirmez que la carte bancaire utilisée est la vôtre. Tous les détenteurs de cartes bancaires sont soumis à des contrôles de validation et à l'autorisation par l'émetteur de la carte. Si l'émetteur de votre carte refuse d'autoriser le paiement, nous serons en droit de refuser de procéder à la livraison de votre commande et ne serons pas responsables de tout retard ou de toute absence de livraison. Nous vous enverrons un courriel pour vous informer du refus.
+4\. Vos données de paiement seront traitées de manière sécurisée, conformément à notre Déclaration de Protection de la Vie Privée, que vous pouvez consulter en cliquant ici.
 
   
 
-5\. Vos données bancaires seront traitées de manière sécurisée, conformément à notre Déclaration de Protection de la Vie Privée, que vous pouvez consulter en cliquant [ici](https://www.lacoste.com/fr/privacy.html).
-
-  
-
-6\. Les coordonnées de la carte de crédit utilisée pour le paiement de votre commande sont susceptibles d'être sauvegardées de manière sécurisée. Le cryptogramme visuel au dos de la carte est systématiquement requis pour pouvoir utiliser la carte lors d'un achat ultérieur et vous conservez la possibilité de supprimer la carte de crédit sauvegardée de la liste proposée lors de l'étape de paiement.
+5\. Les coordonnées de la carte de paiement utilisées pour le paiement de votre commande sont susceptibles d'être sauvegardées de manière sécurisée. Le cryptogramme visuel au dos de la carte est systématiquement requis pour pouvoir utiliser la carte lors d'un achat ultérieur et vous conservez la possibilité de supprimer la carte de crédit sauvegardée de la liste proposée lors de l'étape de paiement.
 
 Conditions générales d'utilisation des cartes cadeau
 
