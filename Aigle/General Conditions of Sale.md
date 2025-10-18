@@ -47,9 +47,9 @@ Aigle se réserve le droit de modifier ses prix à tout moment mais s’engage �
 Les frais de livraison sont indiqués au Client avant validation de la commande et sont exprimés toutes taxes comprises. Ces frais sont à la charge du Client et facturés en supplément du prix des Produits.
 
 * **Retrait en boutique Aigle** (remise contre signature) : offert
-* **Livraison en Relais Colis** : 3,95€ — offerte dès 30€ d’achat pour la catégorie enfant et dès 150€ pour la catégorie adulte
-* **Livraison à domicile** : 5,95€ — offerte dès 150€ d’achat
-* **Livraison express 24H** (remise contre signature) : 13€
+* **Livraison en point relais Chronopost Shop2Shop** - entre 48h et 96h : 3,95€ — offerte dès 30€ d’achat pour la catégorie enfant et dès 140€ pour la catégorie adulte
+* **Livraison à domicile Colissimo** - entre 48h et 72h : 5,95€ — offerte dès 150€ d’achat
+* **Livraison express Chronopost 24h** (remise contre signature) : 13€
 
 **Le transfert des risques de perte et de détérioration des Produits est réalisé après livraison et réception des Produits par le Client ou tout tiers désigné par lui.**
 
@@ -191,3 +191,71 @@ Aigle ne pourra être tenue responsable des dommages résultant de l’utilisati
 Les Produits proposés sont conformes à la législation française en vigueur. La responsabilité d’Aigle ne saurait être engagée en cas de non-respect de la législation du pays où le Produit est livré, qu’il appartient au Client de vérifier.
 
 En tout état de cause, la responsabilité d’Aigle est limitée au montant de la commande du Client.
+
+ARTICLE 12. PROPRIÉTÉ INTELLECTUELLE
+------------------------------------
+
+Tous les éléments du Site, qu’ils soient visuels ou sonores, y compris la technologie sous-jacente, sont protégés par le droit d’auteur, le droit des marques ou des brevets. Ils sont la propriété exclusive d’Aigle ou de ses partenaires.
+
+Toute reproduction totale ou partielle, modification ou utilisation de ces éléments pour quelque motif et sur quelque support que ce soit, sans l’autorisation expresse et écrite d’Aigle, est strictement interdite et constitutive de contrefaçon.
+
+Le Client s’engage à ne pas utiliser le Site ni son contenu à des fins autres que celles prévues par les présentes CGV, et notamment à des fins commerciales.
+
+ARTICLE 13. DONNÉES PERSONNELLES
+--------------------------------
+
+Aigle, responsable de traitement, collecte et traite les données personnelles du Client dans le cadre de la gestion des commandes et de la relation commerciale. Ces informations sont nécessaires à la bonne exécution du contrat et au respect des obligations légales.
+
+Conformément au Règlement (UE) 2016/679 du 27 avril 2016 (RGPD) et à la loi « Informatique et Libertés » du 6 janvier 1978 modifiée, le Client dispose d’un droit d’accès, de rectification, d’effacement, de limitation du traitement, d’opposition et de portabilité de ses données.
+
+Ces droits peuvent être exercés par courrier électronique à l’adresse [contact@aigle.com](mailto:contact@aigle.com) ou par courrier postal à l’adresse suivante :
+
+Aigle – Service Juridique / Données personnelles  
+23-25 rue de Provence  
+75009 Paris – France
+
+Les données du Client sont conservées pendant la durée nécessaire à la gestion de la relation commerciale et pendant trois (3) ans à compter du dernier contact ou de la dernière commande.
+
+Pour plus d’informations, le Client est invité à consulter la [**Politique de Confidentialité**](https://www.aigle.com/politique-confidentialite) du Site.
+
+ARTICLE 14. COOKIES
+-------------------
+
+Le Site utilise des cookies afin d’améliorer la navigation, mesurer l’audience et personnaliser les offres. Le Client peut configurer son navigateur pour refuser les cookies ; dans ce cas, certaines fonctionnalités du Site peuvent être limitées.
+
+ARTICLE 15. MÉDIATION ET RÉCLAMATIONS
+-------------------------------------
+
+Pour toute réclamation relative à une commande, le Client peut contacter le service client Aigle par e-mail à [contact@aigle.com](mailto:contact@aigle.com) ou par téléphone au +33 (0)5 49 02 38 98 (du lundi au vendredi, 10h à 19h, et le samedi de 10h à 18h).
+
+Conformément à l’article L.612-1 du Code de la consommation, le Client peut, après démarche préalable écrite auprès d’Aigle, recourir gratuitement au médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) :
+
+Médiateur du e-commerce de la FEVAD  
+60 Rue La Boétie – 75008 Paris  
+[www.mediateurfevad.fr](https://www.mediateurfevad.fr/)
+
+ARTICLE 16. MODIFICATION DES CGV
+--------------------------------
+
+Aigle se réserve le droit de modifier à tout moment les présentes CGV. Les nouvelles versions seront applicables à toute commande passée après leur mise en ligne.
+
+ARTICLE 17. NON-RENONCIATION
+----------------------------
+
+Le fait pour Aigle de ne pas se prévaloir à un moment donné de l’une quelconque des clauses des présentes CGV ne saurait être interprété comme valant renonciation à s’en prévaloir ultérieurement.
+
+ARTICLE 18. DROIT APPLICABLE ET JURIDICTION COMPÉTENTE
+------------------------------------------------------
+
+Les présentes CGV sont soumises au droit français. En cas de litige relatif à l’interprétation, la validité ou l’exécution des CGV, les tribunaux français seront seuls compétents.
+
+Le Client peut également recourir à la plateforme européenne de règlement en ligne des litiges accessible à l’adresse suivante : [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).
+
+ARTICLE 19. INFORMATIONS LÉGALES
+--------------------------------
+
+Le Site est édité par Aigle International, société anonyme au capital de 34 004 000 euros, immatriculée au R.C.S. de Nanterre sous le numéro 314 397 712, dont le siège social est situé au 17/23 rue Saint-Denis – 92100 Boulogne-Billancourt.
+
+Le Site est hébergé par Salesforce Commerce Cloud.
+
+Le Service Client est joignable à l’adresse [contact@aigle.com](mailto:contact@aigle.com) ou par téléphone au +33 (0)5 49 02 38 98 (du lundi au vendredi de 10h à 19h, et le samedi de 10h à 18h).
