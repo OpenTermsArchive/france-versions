@@ -253,7 +253,7 @@
     * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren-homme)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
-    * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
+    * [AMI Paris](https://www.printemps.com/fr/fr/amiparis-homme)
     * [Prada](https://www.printemps.com/fr/fr/prada-homme)
     * [Eden Park](https://www.printemps.com/fr/fr/eden-park-homme)
     * [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
