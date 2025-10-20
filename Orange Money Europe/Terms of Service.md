@@ -1,6 +1,6 @@
 Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 18 février 2025
+Version du 22 décembre 2025
 
 
 
@@ -30,11 +30,11 @@ Ce Service Orange Money Europe sera réservé aux Utilisateurs titulaires ou aya
 
 numéro de ligne mobile souscrite auprès d’un opérateur de communications électroniques établi en
 
-Italie, Espagne, Allemagne, Pays-Bas, Belgique, Portugal, Irlande, Luxembourg ou en France (hors
+Italie, Espagne, Allemagne, Pays-Bas, Belgique, Portugal, Irlande, Luxembourg, Autriche ou en France
 
-Polynésie française, Saint-Pierre-et-Miquelon et Wallis-et-Futuna), pour leurs besoins personnels non
+(hors Polynésie française, Saint-Pierre-et-Miquelon et Wallis-et-Futuna), pour leurs besoins personnels
 
-professionnels. Il sera accessible à partir du Site ou de l’Application Orange Money Europe et sous
+non professionnels. Il sera accessible à partir du Site ou de l’Application Orange Money Europe et sous
 
 réserve d’être titulaire d’une offre mobile et d’un terminal mobile compatible.
 
@@ -62,7 +62,7 @@ Utilisateur d’accéder aux fonctionnalités du Service Orange Money Europe, co
 
 conditions d'utilisation de l’application. Cette application est disponible uniquement avec un terminal
 
-équipé de la version Android ou IOS compatible (liste évolutive disponible sur https://orangemoney.fr/).
+équipé de la version Android ou iOS compatible (liste évolutive disponible sur https://orangemoney.fr/).
 
 
 
@@ -122,7 +122,7 @@ Conditions d’utilisation : désignent les présentes conditions d’utilisatio
 
 Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 18 février 2025
+Version du 22 décembre 2025
 
 
 
@@ -170,9 +170,9 @@ associée à ce dernier. Son agrément lui permet d’exercer ses activités en 
 
 l’Espace Economique Européen – dont la Belgique, l’Espagne, l’Allemagne, l’Italie, le Portugal, l’Irlande,
 
-Luxembourg et les Pays-Bas font partie – par voie de Libre Prestation de Services (liste publiée par
+Luxembourg, l’Autriche et les Pays-Bas font partie – par voie de Libre Prestation de Services (liste
 
-l’ACPR sur le site Internet https://www.regafi.fr).
+publiée par l’ACPR sur le site Internet https://www.regafi.fr).
 
 
 
@@ -210,9 +210,9 @@ qui permet l’accès aux Utilisateurs au Service Orange Money Europe à partir 
 
 de leur ligne mobile grâce à l’Application Orange Money ou au Site pour les Utilisateurs résidant en
 
-Italie, Espagne, Allemagne, Pays-Bas, Belgique, Portugal, Luxembourg ou en France (hors Polynésie
+Italie, Espagne, Allemagne, Pays-Bas, Belgique, Portugal, Luxembourg, Irlande, Autriche ou en France
 
-française, Saint-Pierre-et-Miquelon et Wallis-et-Futuna).
+(hors Polynésie française, Saint-Pierre-et-Miquelon et Wallis-et-Futuna).
 
 
 
@@ -234,11 +234,25 @@ Parties : désignent collectivement l’EME et l’Utilisateur.
 
 
 
-PDV : désigne(nt) le ou les point(s) de vente physique (s) des Distributeurs Orange Money Europe qui
+PDV : désigne(nt) le ou les point(s) de vente physique(s) des Distributeurs Orange Money Europe qui
 
 se situe(nt) en France uniquement et effectue(nt) selon le cas des opérations d’enrôlement et/ ou de
 
 retrait et de dépôt demandés par les Utilisateurs ayant ouvert leur compte en France.
+
+
+
+Réseau de PDV : désigne le cas échéant l’ensemble des PDV qui ont pour point commun de travailler
+
+pour le même Distributeur.
+
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 22 décembre 2025
+
+
+
+3
 
 
 
@@ -247,14 +261,6 @@ Réseau mobile : désigne l’ensemble des réseaux publics de télécommunicati
 EDGE, 3G (UMTS), HSDPA et H+, 5G, Wifi ou toute autre technologie à venir et/ou normes de
 
 télécommunications exploitées par les Opérateurs de communications électroniques.
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 18 février 2025
-
-
-
-3
 
 
 
@@ -300,11 +306,11 @@ réalisée en utilisant le Service Orange Money Europe.
 
 Utilisateur : désigne toute personne physique majeure capable résidant en Italie, Espagne, Allemagne,
 
-Pays-Bas, Belgique, Portugal, Irlande, Luxembourg ou en France (hors Polynésie française, Saint-
+Pays-Bas, Belgique, Portugal, Irlande, Luxembourg, Autriche ou en France (hors Polynésie française,
 
-Pierre-et-Miquelon et Wallis-et-Futuna), titulaire ou ayant la jouissance d’une ligne mobile avec un forfait
+Saint-Pierre-et-Miquelon et Wallis-et-Futuna), titulaire ou ayant la jouissance d’une ligne mobile avec
 
-post-payé, bloqué, prépayé compatible souscrite auprès d’un Opérateur de communications
+un forfait post-payé, bloqué, prépayé compatible souscrite auprès d’un Opérateur de communications
 
 électroniques établi dans le pays de résidence de l’Utilisateur , titulaire d’un terminal mobile compatible,
 
@@ -346,9 +352,9 @@ et pendant toute la durée du Service Orange Money Europe :
 
 - être âgé d’au moins dix-huit (18) ans ;
 
-- résider en Italie, Espagne, Allemagne, Pays-Bas, Belgique, Portugal, Irlande, Luxembourg ou en
+- résider en Italie, Espagne, Allemagne, Pays-Bas, Belgique, Portugal, Irlande, Luxembourg,
 
-France (hors Polynésie française, Saint-Pierre-et-Miquelon et Wallis-et-Futuna) ;
+Autriche ou en France (hors Polynésie française, Saint-Pierre-et-Miquelon et Wallis-et-Futuna) ;
 
 - être titulaire ou avoir la jouissance d’une ligne mobile avec forfait post-payé, bloqué ou prépayé
 
@@ -368,11 +374,9 @@ réglementaires relatives à la lutte contre le blanchiment de capitaux et le fi
 
 terrorisme, en ce compris les listes européennes et nationales de gel des avoirs ;
 
-- et ne pas déjà être titulaire d’un Compte Orange Money Europe.
-
 Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 18 février 2025
+Version du 22 décembre 2025
 
 
 
@@ -380,9 +384,13 @@ Version du 18 février 2025
 
 
 
+- et ne pas déjà être titulaire d’un Compte Orange Money Europe.
+
+
+
 Le Service Orange Money Europe est accessible par tout Utilisateur à partir de l’Application Orange
 
-Money Europe depuis un terminal mobile équipé d’une version Android ou IOS compatible (liste
+Money Europe depuis un terminal mobile équipé d’une version Android ou iOS compatible (liste
 
 évolutive) ou pour les Utilisateurs de France du Site disponible sur orangemoney.fr.
 
@@ -400,13 +408,13 @@ l’Utilisateur.
 
 4.2 Le Service Orange Money Europe est proposé aux Utilisateurs résidant en Italie, Espagne,
 
-Allemagne, Pays-Bas, Belgique, Portugal, Irlande, Luxembourg ou en France (hors Polynésie française,
+Allemagne, Pays-Bas, Belgique, Portugal, Irlande, Luxembourg, Autriche ou en France (hors Polynésie
 
-Saint-Pierre-et-Miquelon et Wallis-et-Futuna), à partir de l’Application ou, pour les Utilisateurs de France
+française, Saint-Pierre-et-Miquelon et Wallis-et-Futuna), à partir de l’Application ou, pour les Utilisateurs
 
-uniquement, à partir du Site https://orangemoney.fr/. Les PDV ne sont disponibles qu’aux Utilisateurs
+de France uniquement, à partir du Site https://orangemoney.fr/. Les PDV ne sont disponibles qu’aux
 
-ayant ouvert leur Compte Orange Money Europe en France.
+Utilisateurs ayant ouvert leur Compte Orange Money Europe en France.
 
 
 
@@ -496,13 +504,9 @@ d’utilisation durant le parcours de souscription ou ultérieurement sur l’Ap
 
 (menu « Mon compte ») ou sur le Site https ://orangemoney.fr/ (rubrique « Conditions Générales
 
-d’Utilisation »). A défaut d’acceptation des Conditions d’utilisation par l’Utilisateur, l’inscription au
-
-Service Orange Money Europe sera annulée.
-
 Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 18 février 2025
+Version du 22 décembre 2025
 
 
 
@@ -510,7 +514,15 @@ Version du 18 février 2025
 
 
 
-L’Utilisateur pourra enregistrer une ou deux Carte(s) Bancaire(s) sur le compte Orange Money Europe.
+d’Utilisation »). A défaut d’acceptation des Conditions d’utilisation par l’Utilisateur, l’inscription au
+
+Service Orange Money Europe sera annulée.
+
+
+
+L’Utilisateur pourra enregistrer une ou plusieurs Carte(s) Bancaire(s) sur le compte Orange Money
+
+Europe.
 
 
 
@@ -568,7 +580,9 @@ Service Orange Money Europe sera annulée.
 
 
 
-L’Utilisateur pourra enregistrer une ou deux Carte(s) Bancaire(s) sur le compte Orange Money Europe.
+L’Utilisateur pourra enregistrer une ou plusieurs Carte(s) Bancaire(s) sur le compte Orange Money
+
+Europe.
 
 
 
@@ -616,6 +630,14 @@ demande (en cas de changement dans ses réponses aux questions ou d’évolution
 
 d’usages).
 
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 22 décembre 2025
+
+
+
+6
+
 
 
 5.3.4 L’EME vérifiera l’exactitude et la véracité de l’ensemble des informations fournies par l’Utilisateur
@@ -627,16 +649,6 @@ de demander à l’Utilisateur tout document supplémentaire attestant de son no
 ce, à tout moment si les documents remis ne sont pas jugés satisfaisants. L’EME se réserve également
 
 la possibilité de refuser l’inscription définitive de l’Utilisateur au Service Orange Money Europe dans le
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 18 février 2025
-
-
-
-6
-
-
 
 cas où les informations et/ou documents requis ne lui sont pas transmis sous un délai de quinze (15)
 
@@ -748,6 +760,16 @@ Europe, le numéro de mobile de contact, et/ou l’adresse courrier électroniqu
 
 pour l’informer en tant que de besoin sur le suivi et la gestion du Service Orange Money Europe. Il est
 
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 22 décembre 2025
+
+
+
+7
+
+
+
 précisé que le numéro de ligne mobile associé au Service Orange Money Europe et/ou l’adresse de
 
 courrier électronique de contact seront utilisés en particulier pour les informations relatives à l’utilisation
@@ -755,16 +777,6 @@ courrier électronique de contact seront utilisés en particulier pour les infor
 du Service Orange Money Europe et la vie du contrat. Par conséquent, l’Utilisateur s’engage à consulter
 
 régulièrement la messagerie interne de l’Application Orange Money Europe ou les messages reçus sur
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 18 février 2025
-
-
-
-7
-
-
 
 son numéro de ligne mobile, et à tenir à jour les coordonnées de contact communiquées. L’Utilisateur
 
@@ -818,9 +830,9 @@ Article 8 – Dépôt de sommes d’argent sur un Compte Orange Money Europe
 
 conditions fixées à l’Annexe 1. Pour les PDV (disponibles pour les Utilisateurs de France uniquement),
 
-l’Utilisateur est informé en outre que les dépôts pourront être effectués dans la limite des contraintes de
+l’Utilisateur est informé en outre que les dépôts pourront être effectués dans les limites fixées par chaque
 
-caisse de chaque PDV.
+Distributeur et dans la limite des contraintes de caisse de chaque PDV.
 
 
 
@@ -878,6 +890,14 @@ le compte de l’Utilisateur de plein droit et sans délai, sans que l’Utilisa
 
 indemnité de quelque nature que ce soit.
 
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 22 décembre 2025
+
+
+
+8
+
 
 
 8.4 L’EME est susceptible de proposer ultérieurement à l’Utilisateur des méthodes de chargement
@@ -885,14 +905,6 @@ indemnité de quelque nature que ce soit.
 supplémentaires. Ces méthodes seront présentées et détaillées par le biais des canaux de
 
 communication habituels.
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 18 février 2025
-
-
-
-8
 
 
 
@@ -904,9 +916,9 @@ l’Utilisateur dès lors que la validité de la Transaction aura été contrôl
 
 L’Utilisateur devra prendre soin de conserver la contremarque remise par le PDV sur laquelle figurera
 
-notamment le numéro de la Transaction, et le numéro de ligne mobile (masqué pour partie) auquel est
+notamment le numéro de la Transaction, et le cas échéant, le numéro de ligne mobile (masqué pour
 
-associé le Compte Orange Money Europe pour cette opération.
+partie) auquel est associé le Compte Orange Money Europe pour cette opération.
 
 
 
@@ -956,27 +968,29 @@ Article 9 – Retrait de sommes d’argent du Compte Orange Money Europe
 
 9.1 Utilisateurs de France uniquement Les retraits d’argent en PDV sont plafonnés et donnent lieu à
 
-facturation dans les conditions fixées à l’Annexe 1. L’Utilisateur est informé en outre que les retraits
+facturation dans les conditions fixées à l’Annexe 1. L’Utilisateur est informé en outre que les retraits ne
 
 pourront être effectués que dans la limite des contraintes de caisse de chaque PDV, notamment, des
 
-sommes détenues en caisse par le PDV.
+sommes détenues en caisse par le PDV et dans les limites fixées par chaque Distributeur.
 
 
 
 Lorsque l’Utilisateur initie une demande de retrait via l’Application Orange Money Europe ou sur le Site,
 
-un code valable pendant quinze (15) minutes lui est transmis. L’Utilisateur devra se rendre pendant ce
+un code (numérique ou QR code) valable pendant une durée limitée variable suivant les Distributeurs
 
-laps de temps dans un PDV afin de communiquer ledit code.
+lui est transmis. L’Utilisateur devra se rendre pendant ce laps de temps dans un PDV afin de
+
+communiquer ledit code.
 
 
 
 Dès lors que le PDV aura effectué tout contrôle nécessaire notamment en matière de réglementation
 
-relative à la lutte contre le blanchiment et le financement du terrorisme, et que la validité de la
+relative à la lutte contre le blanchiment de capitaux et le financement du terrorisme, et que la validité de
 
-Transaction aura été contrôlée par l’EME, l’historique des transactions sera mis à jour avec cette
+la Transaction aura été contrôlée par l’EME, l’historique des transactions sera mis à jour avec cette
 
 opération en débit et les sommes retirées par l’Utilisateur lui seront remises en espèce.
 
@@ -984,9 +998,9 @@ opération en débit et les sommes retirées par l’Utilisateur lui seront remi
 
 L’Utilisateur devra prendre soin de conserver la contremarque remise par le PDV sur laquelle figurera
 
-notamment le numéro de la Transaction, et le numéro de ligne mobile (masqué pour partie) auquel est
+notamment le numéro de la Transaction, et le cas échéant, le numéro de ligne mobile (masqué pour
 
-associé le Compte Orange Money Europe pour cette opération.
+partie) auquel est associé le Compte Orange Money Europe pour cette opération.
 
 
 
@@ -1000,9 +1014,17 @@ préalablement enregistré.
 
 
 
-9.3 Le solde du Compte Orange Money Europe devra être créditeur à minima du montant que
+9.3 Le solde du Compte Orange Money Europe devra être créditeur a minima du montant que
 
 l’Utilisateur souhaite retirer et des frais qui lui seront facturés au titre de l’opération de retrait.
+
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 22 décembre 2025
+
+
+
+9
 
 
 
@@ -1011,14 +1033,6 @@ l’Utilisateur souhaite retirer et des frais qui lui seront facturés au titre 
 supplémentaires. Ces méthodes lui seront présentées et détaillées par le biais des canaux de
 
 communication habituels.
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 18 février 2025
-
-
-
-9
 
 
 
@@ -1092,7 +1106,7 @@ taux de conversion est porté à la connaissance de l’Utilisateur au moment de
 
 
 
-10.5 Le solde du Compte Orange Money Europe de l’Utilisateur envoyeur devra être créditeur à minima
+10.5 Le solde du Compte Orange Money Europe de l’Utilisateur envoyeur devra être créditeur a minima
 
 du montant que l’Utilisateur souhaite transférer au Bénéficiaire et des frais qui lui seront facturés au titre
 
@@ -1132,21 +1146,21 @@ l’Utilisateur vers tout Bénéficiaire ou sur son numéro de ligne mobile, que
 
 incomplète ait ou non pour conséquence un échec dans la réalisation du Transfert.
 
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 22 décembre 2025
+
+
+
+10
+
 
 
 L’EME ne saurait être tenu responsable dans le cadre d'un transfert vis-à-vis du Bénéficiaire pour toute
 
 erreur concernant le montant du transfert. Dans un tel cas, le Bénéficiaire devra se rapprocher
 
-exclusivement de l’Utilisateur expéditeur du Transfert.
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 18 février 2025
-
-
-
-10
+exclusivement de l’Utilisateur expéditeur du transfert.
 
 
 
@@ -1254,6 +1268,14 @@ pas autorisée par l’EME.
 
 depuis l’Application Orange Money Europe ou depuis le Site.
 
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 22 décembre 2025
+
+
+
+11
+
 
 
 12.4 L’Utilisateur s’engage à payer toute somme due à l’EME dans le cadre des présentes, et autorise
@@ -1265,14 +1287,6 @@ l’EME à débiter automatiquement son Compte Orange Money Europe afin de recou
 A défaut de fonds suffisants sur son Compte Orange Money Europe pour couvrir la totalité de la somme
 
 due au titre d’une Transaction, la Transaction ne pourra pas être opérée.
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 18 février 2025
-
-
-
-11
 
 
 
@@ -1366,7 +1380,7 @@ en ce compris les listes européennes et nationales de gel des avoirs.
 
 
 
-15.2 Le cas échéant et si nécessaire, l’EME pourra, se rapprocher directement de l’Utilisateur, en
+15.2 Le cas échéant et si nécessaire, l’EME pourra se rapprocher directement de l’Utilisateur, en
 
 particulier dans le cadre de la réglementation applicable notamment à la lutte contre le blanchiment de
 
@@ -1384,6 +1398,14 @@ est habilité à suspendre et/ou résilier de plein droit l’exécution des pr�
 
 ne puisse donner droit à indemnité ou compensation de l’Utilisateur par l’EME.
 
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 22 décembre 2025
+
+
+
+12
+
 
 
 Article 16 – Perte, vol et Transaction non autorisée ou mal exécutée
@@ -1395,16 +1417,6 @@ Article 16 – Perte, vol et Transaction non autorisée ou mal exécutée
 accès au Service Orange Money Europe ou de son Code Confidentiel, de l’utilisation frauduleuse ou du
 
 détournement du Service Orange Money Europe, l’Utilisateur doit en informer sans tarder le Service
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 18 février 2025
-
-
-
-12
-
-
 
 Clients Orange Money Europe aux fins de blocage du Service Orange Money Europe. L’Utilisateur devra
 
@@ -1514,6 +1526,14 @@ débités pour formuler sa demande. Il devra fournir tous les éléments demand�
 
 remboursement demandé.
 
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 22 décembre 2025
+
+
+
+13
+
 
 
 16.10 L’EME remboursera l’Utilisateur dans un délai de dix (10) jours ouvrables maximum suivant la
@@ -1524,14 +1544,6 @@ complémentaire pouvant avoir été demandée pour confirmer le droit à un remb
 
 l’Utilisateur.
 
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 18 février 2025
-
-
-
-13
-
 
 
 Article 17 – Responsabilité de l’EME
@@ -1540,15 +1552,13 @@ Article 17 – Responsabilité de l’EME
 
 17.1 L’EME ne pourra être tenu responsable de toute perte et de tout préjudice résultant :
 
-- de tout cas de force majeure telle que définie à l’article 1218 du Code civil soit les lorsqu'un
+- de tout cas de force majeure telle que définie à l’article 1218 du Code civil soit lorsqu'un événement
 
-événement échappe au contrôle de l’EME, cet évènement ne pouvant être raisonnablement prévu
+échappe au contrôle de l’EME, cet évènement ne pouvant être raisonnablement prévu lors de la
 
-lors de la souscription de l’Utilisateur au Service Orange Money Europe et dont les effets ne
+souscription de l’Utilisateur au Service Orange Money Europe et dont les effets ne peuvent être
 
-peuvent être évités par des mesures appropriées, empêchant l'exécution du Service Orange
-
-Money Europe ;
+évités par des mesures appropriées, empêchant l'exécution du Service Orange Money Europe ;
 
 - du blocage, restriction ou annulation du Service Orange Money Europe effectués dans les
 
@@ -1624,13 +1634,13 @@ tout autre moyen adapté avec l’Utilisateur dans les cas suivants :
 
 Orange Money Europe ;
 
-- pour communiquer les promotions et les informations des Tiers Partenaire Orange Money Europe
+- pour communiquer les promotions et les informations des Tiers Partenaires Orange Money Europe
 
 auprès de l’Utilisateur lorsque ce dernier a accepté de recevoir ces informations ;
 
 - en cas de demande d’information et/ou de justificatif complémentaire requis dans le cadre de la
 
-réglementation relative à la lutte contre le blanchiment et le financement du terrorisme ;
+réglementation relative à la lutte contre le blanchiment de capitaux et le financement du terrorisme ;
 
 - dans le cadre des échanges de l’Utilisateur avec le Service Clients Orange Money Europe,
 
@@ -1639,6 +1649,14 @@ conformément aux stipulations de l’article 24 ci-après.
 
 
 Article 18 – Blocage du Service Orange Money Europe et refus de Transaction
+
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 22 décembre 2025
+
+
+
+14
 
 
 
@@ -1649,16 +1667,6 @@ souscription complète au niveau d’une souscription partielle), bloquer ou ré
 Service Orange Money Europe de l’Utilisateur pour l’une des raisons suivantes :
 
 - s’il n’y avait pas de corrélation entre d’une part les besoins et finalités déclarés initialement par
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 18 février 2025
-
-
-
-14
-
-
 
 l’Utilisateur lors de sa souscription initiale ou lors de son éventuelle demande de souscription
 
@@ -1696,7 +1704,7 @@ compromettait des mesures de sécurité légitimes ou serait illégal.
 
 18.3 L’EME débloquera le Service Orange Money Europe dès que possible lorsque les raisons ayant
 
-conduit à l’arrêt de son utilisation auront disparu, et qu’elle en aura eu connaissance.
+conduit à l’arrêt de son utilisation auront disparu, et qu’il en aura eu connaissance.
 
 
 
@@ -1764,9 +1772,17 @@ l’Application Orange Money Europe.
 
 
 
-Les fonds encore disponibles sur on compte Orange Money Europe seront remboursés selon les
+Les fonds encore disponibles sur son compte Orange Money Europe seront remboursés selon les
 
 modalités détaillées à l’article 21 ci-après.
+
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 22 décembre 2025
+
+
+
+15
 
 
 
@@ -1777,16 +1793,6 @@ sans que ce dernier ne puisse prétendre à une indemnité de quelque nature que
 suivants :
 
 - manquement de l’Utilisateur aux présentes notamment en cas de non-respect de la réglementation
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 18 février 2025
-
-
-
-15
-
-
 
 applicable à la lutte contre le blanchiment de capitaux et à la lutte contre le financement du
 
@@ -1846,7 +1852,7 @@ réclamation de la part de l’Utilisateur ou de ses ayants droits, les sommes d
 
 l’État à l’issue d’un délai de 20 (vingt) ans à compter de la date de leur dépôt à la Caisse des Dépôts et
 
-Consignations pour un compte inactif dont le titulaire est en vie.. Ce délai est ramené à 27 (vingt-sept)
+Consignations pour un compte inactif dont le titulaire est en vie. Ce délai est ramené à 27 (vingt-sept)
 
 ans quand le titulaire est décédé. Jusqu’à l’expiration de l’un de ces délais, les sommes déposées à la
 
@@ -1898,6 +1904,16 @@ succession. Toutefois, si à l'issue d'une période de douze (12) mois suivant l
 
 ayants droit n'a informé l’EME de sa volonté de faire valoir ses droits sur le Compte Orange Money
 
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 22 décembre 2025
+
+
+
+16
+
+
+
 Europe, l’EME pourra appliquer des frais de tenue de compte dont le montant est fixé en Annexe 1. Ces
 
 frais seront alors prélevés, au début de chaque mois civil, sur l’encours de Monnaie Electronique
@@ -1905,14 +1921,6 @@ frais seront alors prélevés, au début de chaque mois civil, sur l’encours d
 correspondant au solde résiduel du Compte Orange Money Europe inactif, jusqu'à ce que ce solde soit
 
 nul.
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 18 février 2025
-
-
-
-16
 
 
 
@@ -1950,7 +1958,7 @@ compte sera refusée.
 
 du Compte Orange Money Europe selon les modalités détaillées aux articles 21.5 et suivants, étant
 
-entendu qu’aucun frais de demande de remboursement et frais inhérents au mandat postal ne seront
+entendu qu’aucuns frais de demande de remboursement et frais inhérents au mandat postal ne seront
 
 alors facturés.
 
@@ -2008,11 +2016,11 @@ virement bancaire ou mandat postal. En cas de demande de remboursement par virem
 
 BIC/IBAN (relevé d’identité bancaire) d’un compte bancaire au nom de l’Utilisateur et sur lequel
 
-celui-ci souhaite recevoir le versement. Ce virement ne pourra être effectué que vers un compte
+celui-ci souhaite recevoir le versement devra être fourni par l’utilisateur. Ce virement ne pourra
 
-ouvert auprès d’un établissement de crédit situé dans la zone de paiement européenne. Toute
+être effectué que vers un compte ouvert auprès d’un établissement de crédit situé dans la zone de
 
-demande de remboursement vers un autre compte sera refusée.
+paiement européenne. Toute demande de remboursement vers un autre compte sera refusée.
 
 
 
@@ -2020,7 +2028,17 @@ demande de remboursement vers un autre compte sera refusée.
 
 complémentaire et utile au regard de la demande de remboursement de l’Utilisateur, conformément à
 
-la réglementation applicable en matière de lutte contre le blanchiment et le financement du terrorisme.
+la réglementation applicable en matière de lutte contre le blanchiment de capitaux et le financement du
+
+terrorisme.
+
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 22 décembre 2025
+
+
+
+17
 
 
 
@@ -2031,16 +2049,6 @@ remboursement au nom de l’Utilisateur. La prise en charge de ce dossier entra�
 frais de demande de remboursement dont le montant est fixé en Annexe 1 :
 
 - si la demande de remboursement et sa prise d’effet sont antérieures au terme des présentes le
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 18 février 2025
-
-
-
-17
-
-
 
 cas échéant tel que renouvelé ;
 
@@ -2114,7 +2122,7 @@ sera dès lors immédiatement résilié et l’Utilisateur pourra demander le re
 
 disponible sur son Compte Orange Money Europe dans les conditions prévues à l’article 21 des
 
-présentes Conditions d’Utilisation sans qu’aucun frais de remboursement ne puisse lui être facturé.
+présentes Conditions d’Utilisation sans qu’aucuns frais de remboursement ne puisse lui être facturé.
 
 Dans l’hypothèse où l’Utilisateur ne notifie pas au Service Clients Orange Money Europe son refus des
 
@@ -2148,17 +2156,19 @@ Les Parties conviennent de considérer les messages reçus par communication él
 
 accordée à l’original, au sens des dispositions de la loi locale applicable à l’Utilisateur. Les Parties
 
-conviennent de conserver les communications électroniques de telle manière qu’ils puissent constituer
-
-des copies fidèles et durables au sens des dispositions de la loi locale applicable à l’Utilisateur.
-
 Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 18 février 2025
+Version du 22 décembre 2025
 
 
 
 18
+
+
+
+conviennent de conserver les communications électroniques de telle manière qu’ils puissent constituer
+
+des copies fidèles et durables au sens des dispositions de la loi locale applicable à l’Utilisateur.
 
 
 
@@ -2258,6 +2268,16 @@ précisées sur les sites http://www.afepame.fr/mediation et https://mediateur-c
 
 Monnaie Electronique, 36 rue Taitbout, 75009 Paris, FRANCE. Le médiateur est chargé de
 
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 22 décembre 2025
+
+
+
+19
+
+
+
 recommander des solutions au litige. Les constatations et les déclarations que le médiateur recueillent
 
 ne peuvent être ni produites, ni invoquées dans la suite de la procédure sans l’accord des Parties.
@@ -2265,14 +2285,6 @@ ne peuvent être ni produites, ni invoquées dans la suite de la procédure sans
 
 
 Article 26 – Droit applicable et compétence
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 18 février 2025
-
-
-
-19
 
 
 
@@ -2366,7 +2378,7 @@ compétence des juridictions irlandaises compétentes.
 
 Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 18 février 2025
+Version du 22 décembre 2025
 
 
 
@@ -2378,7 +2390,7 @@ Annexe 1 : Limites, plafonds et frais applicables au Service Orange Money Europe
 
 
 
-1.1 Limites et plafonds
+1.1 Limites et plafonds du Service Orange Money Europe
 
 
 
@@ -2562,7 +2574,7 @@ opération
 
 
 
-600 €\*\* 600€ 600€ 600€ 600€ 600€
+450 €\*\* 450€ 450€ 450€ 450€ 450€
 
 
 
@@ -2574,7 +2586,7 @@ par jour
 
 
 
-600 €\*\*
+450 €\*\*
 
 (dans la limite
 
@@ -2586,7 +2598,7 @@ par jour)
 
 
 
-600€ 600€ 600€ 600€
+450€ 450€ 450€ 450€
 
 
 
@@ -2600,13 +2612,13 @@ calendaire
 
 
 
-600 €\*\* 600€ 600€ 600€ 600€
+450 €\*\* 450€ 450€ 450€ 450€
 
 
 
-\*Selon disponibilité en PDV : un PDV peut limiter le montant des opérations en fonction des
+\*Selon disponibilité en PDV (un PDV peut limiter le montant des opérations en fonction des
 
-espèces dont il dispose en caisse
+espèces dont il dispose en caisse) et les limites fixées par chaque Distributeur.
 
 \*\*Montant excluant les frais appliqués à l’utilisateur au titre de l’opération tels que détaillés et
 
@@ -2632,7 +2644,7 @@ https://orangemoney.fr/tarifs/et aussi dans l’application Orange Money Europe.
 
 Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 18 février 2025
+Version du 22 décembre 2025
 
 
 
@@ -2650,7 +2662,7 @@ fonds
 
 Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 18 février 2025
+Version du 22 décembre 2025
 
 
 
@@ -2672,7 +2684,7 @@ La politique des données personnelles est disponible ici : https://www.w-ha.com
 
 Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 18 février 2025
+Version du 22 décembre 2025
 
 
 
@@ -2790,7 +2802,7 @@ l’accès à l’Application.
 
 Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 18 février 2025
+Version du 22 décembre 2025
 
 
 
@@ -2916,7 +2928,7 @@ les présentes conditions générales ne confèrent à l’Utilisateur aucun dro
 
 Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 18 février 2025
+Version du 22 décembre 2025
 
 
 
