@@ -124,7 +124,7 @@ Online purchase
 
 Loyalty program and partners
 
-* [FlyingBlue](https://www.flyingblue.com/index.html)
+* [FlyingBlue](https://www.flyingblue.com/fr/home?country=gb)
 * [Transavia](https://www.transavia.com/)
 * [KLM](http://www.klm.com/)
 * [SkyTeam](https://www.skyteam.com/)
