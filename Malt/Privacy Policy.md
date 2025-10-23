@@ -1,307 +1,161 @@
-Charte de protection des données personnelles
----------------------------------------------
+**Politique de protection des données personnelles**
+====================================================
 
-Date d’effet: 25 mai 2018
+### **1\. Introduction** 
 
-**La protection de vos données à caractère personnel est une priorité pour Malt.**
+La protection de vos Données Personnelles est une priorité chez Malt. 
 
-La présente Charte de protection des données personnelles décrit la manière dont Malt traite les données personnelles des Utilisateurs et des visiteurs du Site. Particulièrement, l’objectif est de vous expliquer :
+Malt est une place de marché qui met en relation des entreprises (« **Utilisateurs** ») par le biais d'une plateforme (« **Marketplace** »). Plus précisément, Malt fonctionne comme une plate-forme où les entreprises (« **Utilisateur-client** ») peuvent sélectionner et travailler avec des professionnels indépendants (« **Utilisateur-freelance** ») pour divers projets. 
 
-#### **1\. Les données que nous traitons, pour quelles finalités et sur quels fondements**
+  
+Chez Malt, nous nous engageons à collecter les Données Personnelles dans le respect des lois sur la protection des données qui nous sont applicables, telles que le Règlement sur la protection des données de l'Union européenne 2016/679 (« **RGPD** »), afin de vous fournir le meilleur service possible, et d'en assurer la confidentialité et la sécurité.
 
-#### **2\. L'utilisation de l'IA chez Malt**
+### 2\. **Objet et champ d'application**
 
-#### **3\. Notre politique sur les cookies**
+Cette Politique définit des informations importantes sur la manière dont la Société gère vos Données Personnelles dans le cadre de l'utilisation de notre Marketplace, et de notre site internet où Malt agit en tant que responsable de traitement, ainsi que vos droits en ce qui concerne le traitement de vos informations personnelles.
 
-#### **4\. Les destinataires des données et les éventuels transferts**
+La présente Politique s'applique aux personnes qui ont créé un compte Malt (« **Compte Utilisateur** ») sur la Marketplace dans le but d'utiliser la Marketplace, aux personnes qui ont visité la Marketplace sans créer de Compte Utilisateur (« **Visiteurs** ») et à nos sous-traitants, consultants externes, clients, prospects (« **Partenaires Tiers** ») que nous traitons des Données Personnelles dans le cadre de nos activités. 
 
-#### **5\. La sécurité des données**
+Si vous êtes candidat à un poste chez Malt, nous vous invitons à vous référer à la politique de protection des données des candidats Malt disponible **ICI**. 
 
-#### **6\. Vos droits**
+### 3\. **Stipulations générales**
 
-Nous nous engageons à ne collecter que les données dont nous avons besoin pour vous assurer un service optimal, à en assurer la confidentialité et la sécurité, y compris lorsque nous faisons appel à des prestataires et à faciliter l’exercice de vos droits sur vos données.
+« Malt », « nous » ou « notre » désignent Malt Groupe qui comprend Malt Community, SA immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro 791 354 871, dont le siège social est situé 18 rue Godot de Mauroy, 75009 Paris, et ses filiales, à savoir les sociétés suivantes : Malt Community SL (Espagne), Malt Community GmbH (Allemagne), Malt Community BV (Pays-Bas),  Malt Community Belgium (Belgique), Malt Community Ltd (Royaume-Uni), M a l t Software Design LLC (Émirats arabes unis) (« **Sociétés Affiliées** »). « Personne concernée » ou « vous » fait référence aux personnes auxquelles la présente Politique s'applique. 
 
-Nous nous engageons à ne collecter que les données dont nous avons besoin pour vous assurer un service optimal, à en assurer la confidentialité et la sécurité, y compris lorsque nous faisons appel à des prestataires et à faciliter l’exercice de vos droits sur vos données, dans le respect des lois en vigueur en matière de protection des données dans tous les pays où nous opérons, y compris, mais sans s'y limiter ; le Règlement de l'Union européenne sur la protection des données 2016/679 (le “RGPD”), la loi du Royaume-Uni relative à la protection des données (The Data Protection Act 2018, “UK RGPD”), la loi fédérale Suisse sur la protection des données du 25 septembre 2020 (“nLPD”), la loi relative à la protection des données de l’Arabie Saoudite du 24 septembre 2021 (“PDLP”), la loi fédérale concernant la protection des données personnelles aux Émirats Arabes Unis du 2 janvier 2022 (“FDPL”).
+Nous nous réservons le droit de modifier, de mettre à jour cette politique à tout moment pour prendre en considération tout changement juridique ou technique. En cas de modification substantielle de la présente politique, vous en serez informé via l'adresse e-mail fournie lors de votre inscription. Si vous continuez à utiliser la Marketplace ou à visiter la Marketplace après que ces modifications ont été apportées, vous serez réputé avoir accepté ces modifications, et la Politique la plus récente est la seule Politique applicable. La version la plus récente de la Politique régit votre utilisation de vos Données personnelles et sera disponible à l'adresse suivante : [https://www.malt.fr/about/privacy/policy](https://www.malt.fr/about/privacy/policy).
 
-Les termes commençant par une majuscule ont la signification prévue par les Conditions Générales d’Utilisation et de Vente (CGUV) de Malt, accessibles en suivant ce lien : [https://www.malt.fr/legal](https://www.malt.fr/legal). 
+Les termes commençant par une majuscule sont définis dans la présente Politique, dans les Conditions générales de la Marketplace disponibles [**ICI**](https://www.malt.fr/legal), ou dans le RGPD. 
 
-#### **Responsable du traitement des données : Malt Community**
+Nous nous efforçons de rendre nos politiques compréhensibles pour tous les utilisateurs, si vous avez besoin d'une version de cette politique dans une langue autre que le français, veuillez nous contacter à l'adresse [privacy@malt.com](mailto:privacy@malt.com). Nous vous fournirons une traduction ou l'assistance nécessaire dans un délai raisonnable. Veuillez noter qu'en cas de divergence ou de conflit entre la version française et toute version traduite, la version française prévaudra.
 
-Les termes “Malt” ou “nous” font référence à la société Malt Community, SA immatriculée au RCS de Paris sous le n° 791 354 871, dont le siège social est situé 18 rue Godot de Mauroy, 75009 Paris, et ses filiales telles qu’identifiées au sein des CGUV, toutes ces entités étant soumises au même niveau de protection des données.
+### 4\. **Comment collectons-nous les Données Personnelles ?**
 
-Malt est responsable des traitements décrits au sein de cette Charte.
+Nous pouvons collecter des données personnelles directement ou indirectement. Nous collectons des Données Personnelles notamment lorsque : vous accédez à notre Marketplace pour visiter celle-ci ou créer un Compte Utilisateur ; vous entrez en contact avec nous ou êtes mis en contact avec nous par l'intermédiaire d'un tiers ; vous utilisez notre Marketplace ; nos partenaires – dûment autorisés par vous – nous transfèrent vos Données Personnelles. 
 
-#### **Coordonnées de notre DPO**
+### 5\. **Quelles Données Personnelles collectons-nous, quels sont l'objectif et la base légale de la collecte de données personnelles, et combien de temps conservons-nous les informations ?**
 
-Vous pouvez adresser toute question relative à la protection des données personnelles chez Malt ou adresser une demande d’exercice de vos droits à notre délégué à la protection des données:
+Vous trouverez ci-dessous une liste des données que nous sommes susceptibles de collecter: 
 
-* par mail adressé à : [privacy@malt.com](mailto:privacy@malt.com)
-    
-
-* par courrier adressé à: Malt Community, DPO, Malt Community, 18 rue Godot de Mauroy, 75009 Paris
-    
-
-#### **Entrée en vigueur et modification**
-
-La présente Charte de protection des données prend automatiquement effet pour tous les Utilisateurs à compter du 25 mai 2018.
-
-Nous nous réservons le droit de modifier la présente Charte de protection des données à tout moment. La version la plus actuelle de la Charte régit votre utilisation de vos données et sera disponible à l’adresse : [https://www.malt.fr/about/privacy/policy](https://www.malt.fr/about/privacy/policy)
-
-En cas de modification substantielle apportée à la présente Charte, vous serez notifié via l’adresse email renseignée lors de votre inscription.
-
-Si vous continuez à utiliser la Marketplace, ou visiter le Site, une fois ces modifications apportées, vous serez réputé avoir accepté ces modifications.
-
-### 1\. Les données que nous traitons, pour quelles finalités et sur quels fondements
-
-De façon générale, nous utilisons vos données pour vous fournir nos services tels qu’ils sont définis au sein des CGUV. Nous sommes susceptibles de traiter certaines données sur la base de votre consentement, en raison de notre intérêt légitime, ou afin de répondre à une obligation légale.
-
-#### **Catégorie de personnes concernées : Freelances**
-
-Nous sommes amenés à traiter différentes catégories de données personnelles vous concernant : 
-
-* **Informations personnelles** : nom, prénom, lieu et date de naissance, nationalité et le cas échéant numéro d’identification national officiel, numéro de téléphone, adresse email, localisation, photo de profil, langue ;
-    
-* **Informations professionnelles** : structure et forme juridique, documents légaux, numéro TVA, identité du représentant légal de la société, expériences professionnelles passées et CV, portfolio, préférences de mission, formations, réseaux sociaux ;
-    
-* **Informations bancaires** : RIB ;
-    
-* **Informations générées par votre utilisation de la Marketplace** : emails et appels téléphoniques échangés avec nos équipes, cookies et données de navigation, détail des transactions, recommandations, échanges sur la messagerie intégrée, informations relatives aux missions réalisées.
-    
-
-| Finalité(s) | Type de collecte | Catégories de données traitées | Base(s) légale(s) | Durée de conservation |
+|     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| Vérification des documents légaux de la société<br><br>Faciliter le contact entre les Freelances et les Clients en présentant au Client la structure juridique du Freelance déjà vérifiée<br><br>Accélérer le paiement des missions en ayant transmis en amont, à notre prestataire MangoPay, les informations de vérification de la structure juridique du Freelance | Communiqué par le Freelance | Informations personnelles  <br><br>Information professionnelles  <br><br>\*Sauf obligation légale le permettant, telle que l’obligation de vigilance en droit français dont est tenu le donneur d’ordre (le Client), les Clients n’ont pas accès à ces documents.<br><br>Informations bancaires | Exécution du contrat de service & intérêt légitime | Jusqu’à la suppression du compte et au delà pour respect des obligations légales  <br>par Mangopay + de nos autres partenaires financiers (10 ans ou 5 ans en fonction)<br><br>  <br>Les documents d’identités sont uniquement collectés par Malt et immédiatement transférés à MangoPay, Malt ne stocke pas ces documents. |
-| Conformité aux obligations de transparence fiscale en vertu de la directive européenne 2021/514 | Communiqué par le Freelance | Informations personnelles : <br><br>(nom et prénom<br><br>adresse principale<br><br>numéro de TVA<br><br>date de naissance<br><br>résidence)<br><br>Informations relatives aux missions réalisées | Obligation légale | Jusqu’à la suppression du compte, et au delà dans le respect de la durée de la prescription fiscale, soit 10 ans |
-| Optimisation du référencement des profils dans le moteur de recherche | Communiqué par le Freelance & <br><br>Généré par l’utilisation de la Marketplace | Informations personnelles   <br><br>Informations professionnelles<br><br>Informations relatives aux missions réalisées | Exécution du contrat de service | Jusqu’à la suppression du compte ou pendant 5 ans à partir du moment où votre compte devient inactif |
-| Permettre la possibilité d'être contacté pour des missions pouvant se réaliser dans tous les pays où Malt dispose d'une entité (voir la liste des entités telle que présentée à l'article 4.2 de la présente Charte). | Communiqué par le Freelance & <br><br>Généré par l’utilisation de la Marketplace | Informations personnelles<br><br>Informations professionnelles | Exécution du contrat de service | Jusqu’à la suppression du compte ou pendant 5 ans à partir du moment où votre compte devient inactif |
-| Présenter votre profil, à des clients ou clients potentiels, dont les besoins correspondent à vos compétences professionnelles, afin d’une part de promouvoir votre profil, et d’autre part de promouvoir les Services tels que définis dans les CGUV, sous réserve que le profil ne soit pas renseigné comme indisponible.<br><br>Collecte du CV dans le cas où le Client en fait la demande en fonction de ses procédés internes. | Communiqué par le Freelance & <br><br>Généré par l’utilisation de la Marketplace | Informations personnelles  <br><br>Informations professionnelles | Exécution du contrat de service | Jusqu’à la suppression du compte ou pendant 5 ans à partir du moment où votre compte devient inactif |
-| Recommandation d’un autre profil Freelance pour la réalisation d’une Mission | Communiqué par le Freelance | Informations personnelles (données de contact)  <br><br>Informations professionnelles | Exécution du contrat de service | Jusqu’à la suppression du compte ou pendant 5 ans à partir du moment où votre compte devient inactif |
-| Visibilité configurée par défaut : taux de réponse de 100% en 1 heure, afin de promouvoir le profil dès sa création.  <br><br>Adaptation du taux et temps de réponse en fonction de l’utilisation réelle de la Marketplace  <br><br>Permettre la mise à jour de votre disponibilité dès l’inscription et tout au long de l’utilisation de la Marketplace | Généré par l’utilisation de la Marketplace | Données de navigation (cookie et adresse IP) <br><br>Disponibilité<br><br>Données relatives à l'utilisation de la messagerie sécurisée | Exécution du contrat de service et consentement le cas échéant (cookie) | Jusqu’à la suppression du compte ou pendant 5 ans à partir du moment où votre compte devient inactif |
+| Traitement | Finalité | Données personnelles | Base juridique | Durée de conservation |
+| Données traitées en dehors de la Marketplace (par exemple par e-mail) |     |     |     |     |
+| Visiteur de la Marketplace | Amélioration de notre Marketplace | Adresse IP, type et version du navigateur Web, système d'exploitation, URL du site de référence, activité sur Marketplace et site de sortie | Intérêt légitime | Voir notre politique en matière de cookies [ICI](https://www.malt.fr/about/privacy/cookies) |
+| Utilisateurs potentiels, Partenaires Tiers potentiels | Vous tenir informé des fonctionnalités de notre Marketplace | Nom et prénom, société représentée et fonction, email professionnel, téléphone et adresse, correspondances, enregistrements vidéo de la réunion de démonstration | Intérêt légitime | 3 ans depuis le dernier contact que nous avons eu |
+| Partenaires tiers | Administration de notre relation commerciale | Nom et prénom, société représentée et fonction, email professionnel, téléphone, et adresse, correspondances | Contrat | Aussi longtemps que nécessaire |
+| Données traitées par le biais de la Marketplace |     |     |     |     |
+| Données Utilisateur | Pour l'inscription à la Marketplace ; l'envoi de communications et de notifications pertinentes adaptées à l'utilisation de la Marketplace ; l'envoi de communications sur l'actualité et les événements de Malt ; le support client ; l'entraînement de l'algorithme de matching ; la recherche ; mettre en avant des profils/projets auprès des autres Utilisateurs | Nom et prénom, e-mail et mot de passe du Compte Utilisateur, informations professionnelles telles que l'entreprise, le poste, la durée, la description, la formation, la certification, le statut professionnel actuel tel que débutant, peu de projets en cours, ou plusieurs clients réguliers, l'intitulé du poste et la catégorie d'expertise, les compétences clés, la langue parlée professionnellement, le niveau (années) d'expertise, la description professionnelle, la localisation, le portfolio, le tarif journalier, le lieu de travail et/ou la préférence pour le télétravail,  disponibilité, photo de profil, numéro de portable, recommandations de tiers, évaluations des utilisateurs, secteur d'activité préféré, taille de l'entreprise préférée, durée de la mission souhaitée | Contrat | 5 ans à compter de la date de la dernière connexion ; ou jusqu'à la demande de suppression du Compte Utilisateur |
+| Données de communication | Correspondre et contracter avec un autre Utilisateur | Messages envoyés, messages reçus, devis, conditions spécifiques au client | Contrat | 5 ans à compter de la date de la dernière connexion ; ou jusqu'à la demande de suppression du Compte Utilisateur |
+| Données de transaction | Gestion des affectations pour les fonctionnalités de la Marketplace ; l'optimisation des profils pour le moteur de recherche ; entraînement de l'algorithme de matching | Liste des projets en cours avec les détails du projet (titre, statut, client, entreprise, chiffre d'affaires total prévu, date de début, date de fin), pourcentage d'achèvement du profil et points collectés, nombre de commentaires reçus, statistiques de réponse, heures d'apparition dans les résultats de recherche, vues de profil, chiffre d'affaires réalisé ou en cours, position moyenne de classement de recherche, historique des actions sur la Marketplace | Contrat | 5 ans à compter de la date de la dernière connexion ; ou jusqu'à la demande de suppression du Compte Utilisateur |
+| Données analytiques | Pour promouvoir la sécurité, l'intégrité et la sûreté; pour améliorer notre Marketplace et notre service ; pour lutter contre la fraude et les spams; ainsi que l’entraînement de l'algorithme de correspondance de Malt | Informations relatives à la date et à l'heure de connexion ; adresse IP; navigateur; localisation; historique des actions; statut de modération de l'Utilisateur | Intérêt légitime | Aussi longtemps que nécessaire |
+| Données juridiques et financières | Identifiant; facturation; vérification de la lutte contre le blanchiment d'argent ; obtention de paiements de la part des PSP et/ou des partenaires financiers ; les exigences de transparence fiscale (« Dac7 ») | Factures, paiements, récapitulatif des revenus, IBAN ; citoyenneté, pays de résidence ; date, lieu, pays de naissance ; le nom de l'entreprise, l'adresse de l'entreprise, le type d'entreprise ; coordonnées de l'entreprise en fonction de la forme de la société (pour les SAS : capital social, SIRET, RCS, NAF/APE, numéro de TVA) ; le statut TVA ; les documents d'entreprise tels que le formulaire d'inscription, l'attestation de cotisations sociales, les statuts de la société, le bénéficiaire effectif, la copie de la carte d'identité | Obligation légale | Durée du contrat et 10 ans par la suite. Par exception, les vérifications "Know Your Customer" : 5 ans à compter de la date de vérification; la carte d'identité est supprimée 3 mois après la vérification; et l’IBAN est supprimé à la résiliation du contrat |
 
-#### **Catégorie de personnes concernés : Client**
+### 6\. **Qu'en est-il de nos Cookies ?**
 
-Nous sommes amenés à traiter différentes catégories de données personnelles vous concernant : 
+Nous utilisons des cookies d'authentification, des cookies de sécurité et des cookies relatifs à l'intégrité du site, des cookies de localisation, des cookies liés à la fonctionnalité du site et des services, des cookies d'analyse et de recherche et des cookies pour diffuser des messages publicitaires.
 
-* **Informations personnelles** : nom, prénom, date de naissance, adresse email, photo de profil ;
+  
+Vous pouvez accepter, refuser ou définir vos choix de cookies lors de votre première connexion à la Marketplace et modifier vos choix à tout moment en visitant la section des cookies de notre Centre de protection des données disponible [ICI](https://www.malt.fr/about/privacy/cookies). Vous y trouverez également une description plus détaillée des cookies que nous définissons.
+
+### 6\. **À qui transférons-nous vos Données Personnelles ?**
+
+Nous sommes le Responsable de Traitement des données personnelles collectées par le biais de la Marketplace et ne les utilisons qu'aux fins détaillées ci-dessus. 
+
+Malt est une Marketplace mondiale avec des utilisateurs du monde entier. Nous pouvons être amenés à partager des informations relatives aux Utilisateurs afin de faciliter leur interaction, de leur proposer des opportunités d'affaires pouvant correspondre aux compétences professionnelles de l'Utilisateur-freelance et aux besoins commerciaux de l'Utilisateur-client, et de permettre la passation de contrats de missions.
+
+Pour faire fonctionner la Marketplace, Malt s'appuie sur des Partenaires Tiers agréés qui agissent en tant que sous-traitants tels que des fournisseurs de logiciels, des fournisseurs d'hébergement, des services de vérification de documents, des comptables, des avocats dont la liste détaillée se trouve en Annexe 1. 
+
+Nous pouvons divulguer vos informations si cela est raisonnablement nécessaire pour nous conformer à une obligation légale ou réglementaire, à une procédure judiciaire ou à une demande gouvernementale d'une administration publique (« **Tiers autorisés** »), pour protéger la sécurité de toute personne, pour résoudre tout problème frauduleux, de sécurité ou technique, ou pour protéger les droits des Utilisateurs.
+
+Nous pouvons être amenés à partager des informations relatives aux Utilisateurs pour répondre aux demandes d'informations de nos investisseurs (y compris des acquéreurs), comptables et commissaires aux comptes, dans le cadre d'une éventuelle levée de fonds ou d'une vérification de l'utilisation des fonds levés, dans le respect de la réglementation en vigueur.
+
+Nous partageons des Données Personnelles au sein des Sociétés Affiliées du Groupe Malt sur une base « si nécessaire ».
+
+### 8\. **Transférons-nous vos Données Personnelles à l'international ?**
+
+Certains Utilisateurs peuvent être établis en dehors de l'Union européenne, par exemple dans des pays faisant l'objet d'une décision d'adéquation de la Commission européenne. Pour les pays tiers qui ne sont pas situés dans l'Espace économique européen (« **EEE** ») et qui ne bénéficient pas d'une décision d'adéquation (« **Pays tiers** »), les Utilisateurs situés dans ces pays accédant aux Données à caractère personnel des Utilisateurs résidant dans l'Union européenne, pour lesquels le RGPD est applicable, acceptent d'être liés par les clauses contractuelles types pour le transfert de Données à caractère personnel vers des pays tiers conformément à la  [DÉCISION (UE) 2021/914 du 4 juin 2021,  module 1](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021D0914). 
+
+Pour faciliter nos opérations mondiales, nous pouvons transférer des informations qui peuvent inclure des Données personnelles à d'autres Sociétés Affiliées de Malt ou à nos Partenaires Tiers, lorsque nous avons des opérations aux fins décrites dans la présente Politique. Cette politique s'applique même si nous transférons des données personnelles vers d'autres pays. Nous avons pris des mesures de protection appropriées pour exiger que vos Données Personnelles restent protégées quel que soit l'endroit où elles sont transférées. Nous pouvons nous appuyer sur les clauses contractuelles types (approuvées par la Commission européenne), l'addendum sur le transfert international de données du Royaume-Uni (approuvé par les autorités britanniques), les décisions d'adéquation de la Commission européenne, le cas échéant.  Nous avons également mis en place des mesures de protection supplémentaires, le cas échéant, telles que des évaluations d'impact des transferts, ainsi que des mesures techniques et organisationnelles.
+
+### 9\. **Comment assurons-nous la sécurité de vos Données Personnelles ?**
+
+Nous attachons une grande importance à la sécurité et à la confidentialité des Données Personnelles de nos Utilisateurs. Nous mettons donc en œuvre des mesures techniques et organisationnelles appropriées pour assurer la sécurité, la confidentialité, l'intégrité, la disponibilité et la résilience constantes de notre système d'information et de vos Données Personnelles afin de protéger les Données Personnelles que nous traitons, contre la destruction, la perte, l'altération, la divulgation ou l'accès non autorisé à ces Données Personnelles. 
+
+En particulier:
+
+* Nous chiffrons la plupart de nos services à l'aide de la technologie SSL ;
     
-* **Informations sur l’entreprise** : logo de l’entreprise, secteur d’activité, nombre d’employés, coordonnées de facturation et contact, RIB ;
+* Nous vérifions votre adresse e-mail lorsque vous créez votre Compte Utilisateur ;
     
-* **Informations générées par votre utilisation de la Marketplace** : emails et appels téléphoniques échangés avec nos équipes, cookies et données de navigation, détail des transactions, informations relatives aux missions réalisées, avis et recommandations, données relatives à l'utilisation de la messagerie sécurisée (contenu de la conversation)
+* Nous effectuons des audits internes sur la collecte, le stockage et le traitement des données personnelles, y compris des mesures de sécurité physiques, afin d'empêcher tout accès non autorisé à nos systèmes ;
     
-
-| Finalité(s) | Type de collecte | Catégories de données traitées | Base(s) légale(s) | Durée de conservation |
-| --- | --- | --- | --- | --- |
-| Gestion des remboursements et factures impayés | Généré par l’utilisation de la Marketplace et communiqué par le Client | Informations professionnelles<br><br>Informations relatives aux missions réalisées | Exécution du contrat de service | Jusqu’à la suppression du compte et ultérieurement en cas de litige |
-
-#### **Catégorie de personnes concernées : Utilisateurs** 
-
-_\*Pour rappel, les Utilisateurs désignent les Freelances et Clients inscrits sur la Marketplace;  le tableau ci-dessous présente ainsi les traitements qui concernent à la fois les Freelances et les Clients._ 
-
-| Finalité(s) | Type de collecte | Catégories de données traitées | Base(s) légale(s) | Durée de conservation |
-| --- | --- | --- | --- | --- |
-| De façon générale, permettre la mise en place des Services proposées par Malt | Communiqué par l’Utilisateur et généré par l’utilisation de la Marketplace | Informations personnelles<br><br>Informations professionnelles<br><br>Informations relatives aux missions réalisées | Exécution du contrat de service | Jusqu’à la suppression du compte ou pendant 5 ans à partir du moment où votre compte devient inactif |
-| Mise à disposition des documents relatifs à la mission : facture, devis, documents légaux du Freelance le cas échéant | Généré par l’utilisation de la Marketplace | Informations professionnelles  <br><br>Informations relatives aux missions réalisées | Exécution du contrat de service et obligation légale | Jusqu’à la suppression du compte + 10 ans en respect des délais légaux (documents comptables - article Article L123-22 du code de commerce) |
-| Paiement des missions directement par le biais de la Marketplace et de notre partenaire Mangopay.<br><br>Assurer la gestion des flux financiers intervenant via la Marketplace et notamment, la facturation des missions et des paiements. | Communiqué par l’Utilisateur et généré par l’utilisation de la Marketplace | Informations personnelles<br><br>Informations professionnelles<br><br>Informations relatives aux missions réalisées | Exécution du contrat de service et obligation légale | Jusqu’à la suppression du compte <br><br>+5 ans par Defacto si un prêt a été contracté |
-| Permettre de laisser un avis / commentaire en fin de mission | Communiqué par l’Utilisateur | Informations relatives aux missions réalisées | Exécution du contrat de service | Jusqu’à la suppression du compte ou pendant 5 ans à partir du moment où votre compte devient inactif.<br><br>Dès lors, nous conservons uniquement l'évaluation et supprimons toute donnée identifiante de son auteur. |
-| Envoi de communications pertinentes et notifications adaptées à l’utilisation faite de la Marketplace | Communiqué par l’Utilisateur et généré par l’utilisation de la Marketplace | Informations personnelles<br><br>Données de navigation  <br><br>Information relatives aux missions réalisées | Intérêt légitime | Jusqu’à la suppression du compte, pendant 5 ans à partir du moment où votre compte devient inactif ou jusqu’à opposition au traitement. <br><br>L’opposition n’affecte pas la légalité de la collecte et de l’utilisation précédemment mises en œuvre. |
-| Envoi de communications relatives aux actualités et évènements de Malt | Communiqué par l’Utilisateur | Informations personnelles | Intérêt légitime | Jusqu’à la suppression du compte, pendant 5 ans à partir du moment où votre compte devient inactif ou jusqu’à opposition au traitement. <br><br>L’opposition n’affecte pas la légalité de la collecte et de l’utilisation précédemment mises en œuvre. |
-| Sécurisation du site et de ses différents domaines | Généré par l’utilisation de la Marketplace | Données de navigation<br><br>Information relatives aux missions réalisées | Intérêt légitime et consentement le cas échéant (cookie) | Jusqu’à la suppression du compte ou pendant 5 ans à partir du moment où votre compte devient inactif |
-| Modération aux fins de lutte contre la fraude et les spams | Généré par l’utilisation de la Marketplace | Données de navigation<br><br>Données relatives à l'utilisation de la messagerie sécurisée <br><br>Informations relatives aux transactions | Intérêt légitime et consentement le cas échéant (cookie) | Jusqu’à la suppression du compte ou pendant 5 ans à partir du moment où votre compte devient inactif |
-| Assistance et médiation par le service client | Communiqué par l’Utilisateur & <br><br>Généré par l’utilisation de la Marketplace | Informations personnelles et professionnelles<br><br>Données relatives à l'utilisation de la messagerie sécurisée<br><br>Informations relatives aux transactions | Intérêt légitime | 2 ans |
-| Mise à disposition d’une messagerie instantanée sécurisée  <br><br>Lecture des échanges si nécessaire pour la lutte contre la fraude et l’assistance aux Utilisateurs | Généré par l’utilisation de la Marketplace | Données relatives à l'utilisation de la messagerie sécurisée | Intérêt légitime | Jusqu’à la suppression du compte ou pendant 5 ans à partir du moment où votre compte devient inactif |
-| Evolution des services et fonctionnalités <br><br>Réalisation de statistiques d’utilisation des services et de suivi de l’audience des pages du site internet et de suivi des activités commerciales et du comportement des utilisateurs sur la Marketplace | Généré par l’utilisation de la Marketplace | Informations personnelles<br><br>Informations professionnelles<br><br>Données de navigation - anonymisation aussi souvent que possible | Intérêt légitime et consentement | Jusqu’à la suppression du compte ou pendant 5 ans à partir du moment où votre compte devient inactif |
-| Proposition de participer à des enquêtes de satisfaction ou sur le monde du freelancing et à un panel de testeurs | Communiqué par l’Utilisateur | Informations personnelles | Intérêt légitime et consentement | Durée de l’étude ou jusqu'à opposition au traitement |
-| Enregistrement des rendez-vous en visioconférence avec notre équipe commerciale | Communiqué par l’Utilisateur | Informations personnelles<br><br>Informations professionnelles | Intérêt légitime | 1 an |
-| Réutilisation de la photo de profil, ou photo prise durant des évènements sur des supports commerciaux en interne et en externe | Communiqué par l’Utilisateur | Informations personnelles | Consentement | 5 ans ou jusqu’au retrait du consentement.<br><br>Le retrait du consentement n’affecte pas la légalité de la collecte et de l’utilisation précédemment mises en œuvre. |
-| Enregistrement des webinars dans le cadre des Malt Academy afin de les mettre à disposition en rediffusion sur notre compte Youtube professionnelle | Communiqué par l’Utilisateur | Informations personnelles | Intérêt légitime | 5 ans ou jusqu’au retrait du consentement.<br><br>Le retrait du consentement n’affecte pas la légalité de la collecte et de l’utilisation précédemment mises en œuvre. |
-| Répondre à  vos demandes d’exercices de droit | Communiqué par l’Utilisateur & <br><br>Généré par l’utilisation de la Marketplace | Toutes informations traitées par Malt en fonction de la demande soumise | Obligation légale | Jusqu'à la suppression du compte |
-
-#### **Catégorie de personnes concernées : Prospects et visiteurs du site**
-
-| Finalité(s) | Type de collecte | Catégories de données traitées | Base(s) légale(s) | Durée de conservation |
-| --- | --- | --- | --- | --- |
-| Envoi de communications relatives aux actualités et évènements de Malt | Communiqué par le prospect ou le visiteur du site | Prospects | Consentement | Jusqu’au retrait du consentement. <br><br>Le retrait du consentement n’affecte pas la légalité de la collecte et de l’utilisation précédemment mises en œuvre. |
-
-### 2\. L'utilisation de l'IA chez Malt
-
-L’algorithme de Malt, basé sur un système d’intelligence artificielle (IA), analyse les informations collectées auprès des Utilisateurs et celles générées par leur utilisation de la Marketplace, telles que décrites ci-dessus, afin de permettre de présenter des profils de Freelances aux Clients, des missions aux Freelances et d’améliorer leur visibilité.
-
-Également, nous sommes susceptibles d’utiliser des systèmes d’intelligence artificielle afin de garantir la sûreté et la sécurité de la Marketplace (par exemple : détection des robots, lutte contre la fraude et les spams).   
-
-Afin d’en savoir plus, nous vous invitons à consulter les articles suivants :
-
-* Comment fonctionne l’algorithme de Malt : [https://www.malt.fr/resources/article/comment-fonctionne-lalgorithme-de-malt](https://www.malt.fr/resources/article/comment-fonctionne-lalgorithme-de-malt) 
-    
-* Transparence des procédures de référencement et de modération chez Malt : [https://www.malt.fr/c/transparency](https://www.malt.fr/c/transparency)
+* L'accès aux Données Personnelles est strictement limité aux employés et Sous-Traitants de Malt qui ont besoin d'y accéder en vertu du principe de minimisation pour les traiter en notre nom. Ces personnes sont soumises à des obligations strictes de confidentialité et s'exposent à des sanctions disciplinaires pouvant aller jusqu'au licenciement en cas de non-respect.
     
 
-### 3\. Notre politique sur les cookies
+### 10\. **Quels sont vos droits ?**
 
-Nous utilisons des cookies d’authentification, des cookies de sécurité et cookies relatifs à l’intégrité du site, des cookies de localisation, des cookies liés à la fonctionnalité du site et services, des cookies d’analyses et de recherche et des cookies pour diffuser des messages publicitaires. 
+Vous disposez des droits suivants :
 
-Vous pouvez accepter, refuser ou paramétrer vos choix en matière de cookies lors de votre première connexion sur la Marketplace et modifier vos choix à tout moment en consultant la rubrique cookies de notre centre de protection des données disponible ici: [**www.malt.fr/about/privacy/cookies**](https://www.malt.fr/about/privacy/cookies). Vous y trouverez également une description plus détaillée des cookies que nous déposons.
-
-### 4\. Les destinataires des données et les éventuels transferts
-
-Nous sommes destinataires des données à caractère personnel recueillies par l'intermédiaire de la Marketplace, et ne les utilisons que pour les finalités telles qu’expliquées ci-dessus. En aucun cas nous ne revendons ces informations à des tiers.
-
-#### **4.1 Partage entre Utilisateurs**
-
-Nous sommes susceptibles de partager des informations relatives aux Utilisateurs afin de faciliter leur interaction, de leur faire bénéficier d’opportunités commerciales pouvant correspondre aux compétences professionnelles du Freelance et aux besoins commerciaux des Clients, et de permettre la contractualisation de mission. 
-
-Certains Clients peuvent être établis en dehors de l'Union européenne; certains sont établis au sein de pays soumis à une décision d'adéquation de la Commission européenne, pour d'autres pays, des mesures ont été prises avec les Clients conformément à la législation applicable en matière de protection des données pour garantir le transfert des données, telles que les clauses contractuelles types adoptées par la Commission européenne.
-
-#### 4.2 Entre les entités de Malt
-
-Malt est composé de Malt Community (maison mère), et de ses filiales, à savoir les sociétés suivantes : Malt Community SL (Espagne), Malt Community GmbH (Allemagne), Malt Community BV (Pays-Bas), Malt Community Belgium (Belgique), Malt Community Ltd (Royaume-Uni), M a l t Software Design LLC (Emirats Arabes-Unis). Nous partageons des données au sein du groupe Malt.
-
-À l’occasion du rachat de la société Comatch GmbH en 2022, Malt et Comatch ont rapproché leurs bases de données respectives, dont les données que les Freelances et préposés des Clients ont renseignés sur leur profil. 
-
-Nous sommes susceptibles de présenter des profils de Freelances, ou de recommander une mission d’un Client, établis ou pas dans les différents pays où Malt est incorporé.
-
-#### **4.3 Avec nos investisseurs, comptables et auditeurs**
-
-Nous sommes susceptibles de partager des informations relatives aux Utilisateurs afin de répondre à des demandes d’informations de nos investisseurs, comptables et auditeurs, notamment dans le cadre d’éventuelles levées de fonds ou vérification de l’utilisation de fonds levés, en respect de la réglementation en vigueur.
-
-#### **4.4 Avec des tiers autorisés**
-
-Nous sommes susceptibles de vos informations si cela est raisonnablement nécessaire pour satisfaire à une obligation légale ou réglementaire, à une procédure judiciaire ou demande administrative, pour protéger la sécurité d’une personne, pour traiter tout problème de nature frauduleuse, sécuritaire ou technique, ou pour protéger les droits des Utilisateurs.
-
-#### 4.5 Avec des prestataires de service de confiance
-
-Tous nos serveurs sur lesquels vos données sont conservées sont localisés en Europe. 
-
-Très exceptionnellement, certains de nos prestataires dont l’établissement principal se situe dans un État tiers à l’Union européenne peuvent devoir transférer vos données dans cet État. Dans ce cas, nous vérifions préalablement qu’ils respectent leurs obligations en matière de protection des données personnelles et mettons en place un « outil de transfert » tel que les clauses contractuelles types afin de garantir une protection de vos données personnelles équivalente à celle proposée au sein de l’Union européenne.
-
-Vous trouverez ci-dessous la liste des prestataires de Malt, la finalité pour laquelle ils interviennent, leur localisation et les garanties appropriées adoptées le cas échéant. 
-
-| Nom du prestataire | Finalité(s) | Personnes concernées | Localisation des données |
-| --- | --- | --- | --- |
-| **MangoPay SA**   <br>[Mangopay's Privacy Statement](https://mangopay.com/privacy-statement?_gl=1*1mlpg0i*_up*MQ..*_ga*MjAwMzUxNzY0My4xNzMzNzUyMjEw*_ga_VZLQHP6CFB*MTczMzc1MjIwOS4xLjAuMTczMzc1MjIwOS4wLjAuMA..) | Ouverture d’un compte de paiement permettant de recevoir ou exécuter un paiement pour les missions effectuées via la Marketplace.<br><br>Verification que les flux financiers qui transitent par la Marketplace ne proviennent pas d’un blanchiment d’argent ou ne servent pas à financer le terrorisme. | Freelances et Clients | Luxembourg (UE) |
-| **Defacto SAS  <br>**[https://fr.getdefacto.com/](https://fr.getdefacto.com/) | Service de financement à destination des freelances, par la fourniture de prêts participatifs | Freelances et Clients | France (UE) |
-| **Billie GmbH**  <br>[https://www.billie.io/en](https://www.billie.io/en) | Rachat des factures des freelances émises via la Marketplace | Freelances et Clients | Allemagne (UE) |
-| **Aria**   <br>[https://helloaria.eu/](https://helloaria.eu/) | Système de paiement immédiat du Freelance grâce à un service de rachat de la créance échue auprès du Freelance.  <br>  <br>Recouvrement des factures avancées. | Freelances et Clients | France (UE) |
-| **Stripe**  <br>[https://stripe.com/fr/privacy](https://stripe.com/fr/privacy) | Paiement par prélèvement automatique sur compte bancaire | Clients | Irlande (UE) |
-| **Upflow  <br>**[https://help.upflow.io/en/articles/5451434-upflow-inc-privacy-policy](https://help.upflow.io/en/articles/5451434-upflow-inc-privacy-policy) | Gestion de relance des factures des clients. | Clients | France (UE) |
-| **Typeform**<br><br>[https://admin.typeform.com/to/dwk6gt/?typeform-source=www.typeform.com](https://admin.typeform.com/to/dwk6gt/?typeform-source=www.typeform.com) | Sondage en ligne | Freelances, Clients et prospects | Espagne (UE) |
-| **Salesforce**<br><br>[https://www.salesforce.com/fr/company/privacy](https://www.salesforce.com/fr/company/privacy) | Gestion de la relation client | Freelances, Clients et prospects | France (UE)  <br>Certifié [Data Privacy Framework](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt0000000KzLyAAK&status=Active) |
-| **Jira**<br><br>[https://www.atlassian.com/legal/privacy-policy#what-this-policy-covers](https://www.atlassian.com/legal/privacy-policy#what-this-policy-covers) | Gestion du support des Utilisateurs | Freelances et Clients | États-Unis, clauses contractuelles types signées et certifié [Data Privacy Framework](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt00000008RdQAAU&status=Active) |
-| **Front App**<br><br>[https://front.com/legal/privacy-notice](https://front.com/legal/privacy-notice) | Gestion du support des Utilisateurs ayant contactés l'équipe Customer Experience | Freelances et Clients | États-Unis, clauses contractuelles types signées et certifié [Data Privacy Framework](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt0000000TOmXAAW&status=Active) |
-| **Modjo**<br><br>[https://en.modjo.ai/legals/privacy](https://en.modjo.ai/legals/privacy) | Enregistrement des réunions en visioconférences | Freelances, Clients et prospects | France (UE) |
-| **Salesloft**<br><br>[https://www.salesloft.com/gdpr-overview/](https://www.salesloft.com/gdpr-overview/) | Campagnes marketing email | Freelances, Clients et prospects | États-Unis, clauses contractuelles types signées |
-| **Hubspot**  <br>[https://www.vaadata.com/fr/confidentialite/](https://legal.hubspot.com/privacy-policy) | Campagnes marketing email | Freelances, Clients et prospects | États-Unis, clauses contractuelles types signées et certifié [Data Privacy Framework](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt0000000TN8pAAG&status=Active) |
-| **Customer.io**<br><br>[https://customer.io/legal/dpa/](https://customer.io/legal/dpa/) | Campagnes marketing email | Freelances, Clients et prospects | États-Unis, clauses contractuelles types signées |
-| **Mailchimp**<br><br>[https://mailchimp.com/about/security/#Investing\_in\_Your\_Privacy](https://mailchimp.com/about/security/#Investing_in_Your_Privacy) | Campagnes marketing email | Freelances, Clients et prospects | États-Unis, clauses contractuelles types signées |
-| **Studycall** | Service de réactivation et de traitement des prospects | Prospects | Irlande (UE) |
-| **Lusha**<br><br>[https://www.lusha.com/privacy-articles/you-are-in-control-of-your-information/](https://www.lusha.com/privacy-articles/you-are-in-control-of-your-information/) | Enrichissement CRM | Prospects | États-Unis, clauses contractuelles types signées |
-| **Kaspr**<br><br>[https://www.kaspr.io/privacy-policy](https://www.kaspr.io/privacy-policy) | Enrichissement CRM | Prospects | France (UE) |
-| **Aircall**<br><br>[https://aircall.io/privacy/](https://aircall.io/privacy/) | Outil d’appels téléphoniques | Freelances, Clients et prospects | États-Unis, clauses contractuelles types signées et certifié [Data Privacy Framework](https://www.privacyshield.gov/ps/participant?id=a2zt000000001L5AAI) |
-| **Calendly**<br><br>[https://calendly.com/fr/pages/privacy](https://calendly.com/fr/pages/privacy) | Prise de rendez-vous avec les équipes de Malt | Freelances, Clients et prospects | France (UE) |
-| **Crispchat**  <br>[https://crisp.chat/fr/privacy/](https://crisp.chat/fr/privacy/) | Chat en ligne | Freelances, Clients et prospects | États-Unis, clauses contractuelles types signées |
-| **Looker**<br><br>[https://looker.com/trust-center/privacy/policy/](https://looker.com/trust-center/privacy/policy/) | Analyse de données | Freelances, Clients et prospects | Pays-Bas (UE)<br><br>Certifié [Data Privacy Framework](https://www.privacyshield.gov/ps/participant?id=a2zt000000001L5AAI) |
-| **Chartio Inc, et Google LLC** | Réalisation de statistiques | Freelances et Clients | États-Unis, clauses contractuelles types signées et certifié [Data Privacy Framework](https://www.privacyshield.gov/ps/participant?id=a2zt000000001L5AAI) |
-| **Trustpilot**<br><br>[https://fr.legal.trustpilot.com/for-businesses/business-privacy-policy](https://fr.legal.trustpilot.com/for-businesses/business-privacy-policy) | Recueil des avis des utilisateurs de la Marketplace | Freelances, Clients et prospects | Transferts de données vers les Etats-Unis - clauses contractuelles types et mise en place de garanties complémentaires |
-| **Google Cloud Platform** | Hébergement des données | Freelances, Clients et prospects | Belgique (UE)<br><br>Certifié [Data Privacy Framework](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt000000001L5AAI&status=Active) |
-| **Google Workspace** | Gestion des documents (Drive)<br><br>Gestion de la messagerie électroniques | Freelances, Clients et prospects | Beglique (UE)<br><br>Certifié [Data Privacy Framework](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt000000001L5AAI&status=Active) |
-| **MongoDB**<br><br>[https://www.mongodb.com/legal/privacy-policy](https://www.mongodb.com/legal/privacy-policy) | Sauvegarde de la base de données | Freelances et Clients | Belgique (UE)<br><br>Certifié [Data Privacy Framework](https://www.dataprivacyframework.gov/s/participant-search/participant-detail?id=a2zt0000000GnxPAAS&status=Active) |
-| **Datadog**<br><br>[https://www.datadoghq.com/privacy/](https://www.datadoghq.com/privacy/) | Gestion des logs de connexion aux fins de sécurisation de la Marketplace | Freelances et Clients | Allemagne (UE) |
-| **Vaadata**<br><br>[https://www.vaadata.com/fr/confidentialite](https://www.vaadata.com/fr/confidentialite) | Sécurisation de la Marketplace en réalisant des tests d'intrusion | Freelances et Clients | France (UE) |
-| **Ashtone** | Recouvrement des créances impayées | Clients | France (UE) |
-| **Onetrust**  <br>[https://cdn.onetrust.com/legal/SCCAmendmentUSv20200716.pdf](https://cdn.onetrust.com/legal/SCCAmendmentUSv20200716.pdf) | Outil de consentement cookies | Freelances, Clients et prospects | États-Unis, clauses contractuelles types signées |
-| **LinkedIn - Sales Navigator**  <br>[https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy) | Réseau social et outil de prospection commerciale | Freelances, Clients et prospects | États-Unis, clauses contractuelles types signées |
-
-### 5\. La sécurité des données
-
-Nous accordons une grande importance à la sécurité et à la confidentialité des données de nos Utilisateurs. 
-
-Nous mettons ainsi en œuvre les mesures techniques et organisationnelles appropriées afin de garantir la sécurité, la confidentialité, l'intégrité, la disponibilité et la résilience constantes de notre système d’information et de vos données afin de protéger les données que nous traitons, contre la destruction, la perte, l'altération, la divulgation ou l’accès non autorisée à ces données.
-
-En particulier : 
-
-* Nous chiffrons la plupart de nos services à l’aide de la technologie SSL ;
+* Droits d'accès : vous avez le droit d'accéder à vos Données Personnelles traitées par Malt. Vous pouvez accéder à ces données personnelles directement à partir de votre Compte Utilisateur, nous nous réservons le droit de facturer des frais raisonnables pour les demandes excessives. 
+    
+* Droits de rectification : vous pouvez demander à Malt de rectifier les Données Personnelles vous concernant qui seraient inexactes, périmées ou incomplètes. Si vous avez besoin de mettre à jour votre Compte Utilisateur, nous vous invitons à effectuer ces modifications et ajouts directement depuis votre Compte Utilisateur. Si vous estimez que des Données Personnelles générées par Malt vous concernant ont besoin d'être modifiées ou complétées et que vous n'êtes pas en mesure d'effectuer ce changement par vous-même, nous vous invitons à en faire la demande en nous écrivant à l'adresse [privacy@malt.com](mailto:privacy@malt.com).
+    
+* Droits à l'effacement : vous avez le droit d'obtenir de notre part l'effacement, dans les meilleurs délais, des Données à caractère personnel vous concernant sous réserve de notre intérêt légitime ou de toute obligation légale nous obligeant à les conserver. Pour des raisons de sécurité, et pour éviter une suppression intempestive du compte, nous vous invitons à le faire par vous-même une fois connecté à votre Compte Utilisateur en suivant ce lien : [www.malt.fr/account/cancellation](https://www.malt.fr/account/cancellation). Les moteurs de recherche peuvent conserver des copies des informations de votre profil public jusqu'à un mois après que vous ayez supprimé vos données personnelles de la Marketplace. Malt n'est pas responsable d'un tel traitement de vos Données Personnelles par des tiers.
+    
+* Droit à la limitation du traitement : vous pouvez demander à Malt de restreindre le traitement de vos Données Personnelles (par exemple en rendant temporairement votre profil indisponible sur le site), lorsque l'une des situations suivantes s'applique : vous contestez l'exactitude des Données Personnelles vous concernant (dans ce cas, nous masquerons vos Données Personnelles pendant une durée qui nous permet de vérifier leur exactitude) ; vous considérez que le traitement de vos Données à caractère personnel est illicite et vous vous opposez à leur suppression et exigez à la place la limitation de leur utilisation ; nous n'avons plus besoin des Données à caractère personnel vous concernant pour les finalités du traitement, mais elles restent nécessaires pour vous permettre d'établir, d'exercer ou de défendre des droits en justice ; vous avez exercé votre droit d'opposition (nous limiterons le traitement de vos données personnelles, pendant que nous vérifions si les motifs légitimes que nous poursuivons l'emportent sur votre droit). Si nous décidons de lever la restriction du traitement de vos données personnelles, nous vous en informerons.
+    
+* Droit d'opposition : vous pouvez vous opposer à l'utilisation de vos informations si les deux conditions suivantes sont remplies : (i) vous pouvez justifier de raisons liées à votre situation et (ii) la base juridique de notre utilisation est la poursuite d'un intérêt légitime. Malt cessera alors le traitement sauf s'il existe des motifs légitimes impérieux justifiant la poursuite du traitement, ou pour la constatation, l'exercice ou la défense de droits en justice.
+    
+* Droit à la portabilité : vous pouvez demander, sous certaines conditions, la portabilité de vos Données Personnelles à tout moment. En exerçant ce droit, nous nous engageons à vous transmettre, dans un délai raisonnable et dans un format lisible par machine, les Données Personnelles que vous nous avez fournies, qu'elles soient déclarées par vous ou générées par votre activité sur la Marketplace.
+    
+* Droit de retirer votre consentement : dans la mesure où le traitement de vos Données à caractère personnel est basé sur votre consentement, vous avez le droit de retirer votre consentement à tout moment. Cependant, cela n'affecte pas la validité de votre consentement pour le passé.
+    
+* Le droit d'introduire une réclamation auprès d'une autorité de contrôle : le cas échéant et si un éventuel litige n'aboutit pas à une résolution amiable, vous avez toujours la possibilité de contacter l'autorité compétente en matière de protection des données personnelles pour introduire une réclamation. L'autorité de contrôle compétente pour connaître de toute demande nous concernant, y compris, le cas échéant, une réclamation d'un utilisateur, est la Commission Nationale de l'Informatique et des Libertés (CNIL). Site internet : [https://www.cnil.fr/fr](https://www.cnil.fr/fr) Vous pouvez toujours saisir toute autorité de protection des données, de votre pays de résidence, du pays où vous travaillez, ou du pays dont vous êtes ressortissant, cette dernière se chargeant de transmettre votre demande à la CNIL.
     
 
-* Nous vérifions votre adresse email lors de la création de votre compte ;
+### 11\. **Comment nous contacter ?**
+
+Vous pouvez adresser toute question relative à la protection des Données Personnelles chez Malt, ou adresser une demande d'exercice de vos droits d'accès, de rectification, d'opposition, d'effacement, de limitation, de transport à notre Délégué à la Protection des Données :
+
+* par courriel à l'adresse suivante : [privacy@malt.com](mailto:privacy@malt.com)
+    
+* par courrier, adressé à : DPO, Malt Community, 18 rue Godot de Mauroy, 75009 Paris
     
 
-* Nous menons des audits internes sur la collecte, le stockage et le traitement des données, y compris les mesures de sécurité physiques, afin d’empêcher tout accès non autorisé à nos systèmes ;
-    
+### 12\. Annexe 1: Liste des Partenaires Tiers
 
-* L’accès aux données personnelles est strictement réservé aux salariés et prestataires de Malt qui ont besoin d’y accéder en vertu du principe de minimisation afin de les traiter en notre nom. Ces personnes sont soumises à de strictes obligations de confidentialité et sont susceptibles de faire l’objet de sanctions disciplinaires pouvant aller jusqu’au licenciement en cas de manquement.
-    
+|     |     |
+| --- | --- |
+| Sous-traitant | Objet(s) |
+| MangoPay | Ouverture d'un compte de paiement pour recevoir ou exécuter le paiement de missions réalisées via la Marketplace |
+| Stripe | Ouverture d'un compte de paiement pour recevoir ou exécuter le paiement de missions réalisées via la Marketplace |
+| Defacto | Service de financement pour le paiement anticipé des freelances |
+| Billie GmbH | Service de financement pour le paiement anticipé des freelances |
+| Aria | Service de financement pour le paiement anticipé des freelances |
+| BNP Paribas Facteur | Service de financement pour le paiement anticipé des freelances |
+| Atlassian, Jira | Gestion du support client |
+| Zendesk Inc. | Gestion du support client |
+| Calendly | Prise de rendez-vous avec les équipes de Malt |
+| Modjo | Outil d'IA pour la transcription de réunion |
+| Aircall | Outil d'appel téléphonique |
+| Upflow | Gestion des relances de factures clients |
+| Salesforce | Gestion de la relation client |
+| Google Ireland Ltd. | Organisation de l'espace de travail, plateforme cloud, analyse de données, traduction des profils Utilisateurs, agent IA |
+| MongoDB | Sauvegarde de la base de données |
+| Datadog | Gestion des logs de connexion |
+| Amplitude | Analyse du produit |
+| Salesloft | Campagnes de marketing par e-mail |
+| Cloudflare | Gestion des informations de connexion |
+| Hubspot | Campagnes de marketing par e-mail |
+| Customer.io | Campagnes de marketing par e-mail |
+| Mailchimp | Campagnes de marketing par e-mail |
+| Trustpilot | Collecte d'avis d'utilisateurs de la Marketplace |
+| Axceptio | Outil de consentement aux cookies |
+| LinkedIn Sales Navigator | Outil de réseau social et de prospection commerciale |
+| Ondorse | Vérification de l'identité et autres vérifications nécessaires “Know Your Customer” |
+| Veriff | Vérification de l'identité et autres vérifications nécessaires “Know Your Customer” |
+| Yousign | Signature électronique des contrats |
+| Pivot | Gestion des factures des Partenaires Tiers |
+| Dust | Agent IA |
 
-### 6\. Vos droits
-
-Vous pouvez retrouver les descriptifs de chacun de vos droits, et les moyens de les exercer dans la rubrique “**Vos droits**” au sein du présent Centre de protection des données. 
-
-Ainsi, en vertu de la réglementation relative à la protection des données, vous disposez des droits suivants :
-
-\*Pour toute question concernant la protection des données personnelles par **Mangopay**, et toute demande d’exercice de droit, nous vous invitons à contacter [**dpo.mangopay@mangopay.com**](mailto:dpo.mangopay@mangopay.com)**.**
-
-#### 6.1 Droits d’accès - article 15 du RGPD
-
-Vous disposez d’un droit d’accès aux données vous concernant traitées par Malt. Il vous permet de prendre connaissance des données dont nous disposons sur vous et, si vous le souhaitez, d’en demander une copie, dans la limite du respect du droit des tiers dont les données à caractère personnel sont susceptibles de figurer dans les données vous concernant.
-
-#### 6.2 Droits à la rectification - article 16 du RGPD
-
-Vous pouvez solliciter de Malt la rectification des données à caractère personnel vous concernant qui sont inexactes, obsolètes ou incomplètes. Cette demande doit être justifiée. 
-
-Afin de vous permettre d’exercer le plus facilement possible ce droit, nous vous invitons à procéder directement à ces modifications et compléments depuis votre Compte. 
-
-Si vous estimez que d’autres données vous concernant doivent être modifiées ou complétées et que vous ne parvenez pas à effectuer ce changement par vous-même, nous vous invitons à en faire la demande en nous écrivant à [**privacy@malt.com**](mailto:privacy@malt.com).
-
-#### 6.3 Droits à l’effacement
-
-Vous disposez du droit d'obtenir de notre part l'effacement, dans les meilleurs délais, de données à caractère personnel vous concernant sous réserve de notre intérêt légitime ou de toute obligation légale nous en imposant la conservation.
-
-Pour des raisons de sécurité et pour éviter une suppression non souhaitée du compte, nous vous invitons à effectuer cette démarche par vous-même une fois connecté à votre compte en suivant ce lien : [www.malt.fr/account/cancellation](https://www.malt.fr/account/cancellation)
-
-les moteurs de recherche et autres tierces parties peuvent encore conserver pour un certain temps des copies de vos informations de profil publiques lorsque vous en aviez accepté le référencement, même après avoir supprimé les informations du site Malt ou désactivé votre compte. Malt n’est pas le responsable pour de tels traitements de vos données par des tiers. 
-
-#### 6.4 Droit à la limitation du traitement - article 18 du RGPD
-
-Vous pouvez solliciter de Malt la limitation du traitement de vos données (par exemple, le fait de rendre temporairement votre profil indisponible sur le site), lorsque l'un des éléments suivants s'applique :
-
-* Vous contestez l'exactitude des données à caractère personnel vous concernant. Dans ce cas, nous masquerons les données vous concernant, pendant une durée nous permettant d’en vérifier l'exactitude ;
-    
-
-* Vous estimez que le traitement de vos données est mis en oeuvre de manière illicite et vous opposez à leur effacement et exigez à la place la limitation de leur utilisation ;
-    
-
-* Nous n’avons plus besoin des données à caractère personnel vous concernant aux fins du traitement mais celles-ci sont encore nécessaires pour vous permettre de faire constater, d’exercer ou de défendre un droit en justice ;
-    
-* Vous avez exercé votre droit d’opposition. Nous procéderons à la limitation du traitement de vos données, pendant la vérification portant sur le point de savoir si les motifs légitimes que nous poursuivons prévalent sur votre droit.
-    
-
-Si nous décidons de lever la limitation du traitement de vos données personnelles, nous vous en tiendrons informé.
-
-#### 6.5 Droit d’opposition - article 21 du RGPD
-
-Vous pouvez vous opposer à l'utilisation de vos informations si les deux conditions suivantes sont réunies : (i) vous justifiez de raisons tenant à votre situation particulière et (ii) la base légale de notre utilisation est la poursuite d'un intérêt légitime.
-
-Malt interrompra alors le traitement à moins que des motifs légitimes et impérieux n’existent pour justifier la poursuite du traitement, ou pour la constatation, l'exercice ou la défense de droits en justice.
-
-Par exemple, vous pouvez vous opposer à l’envoi de communications, notamment commerciales, par Malt. Nous mettons à cette fin à votre disposition un lien de désinscription dans tous les courriels que nous vous adressons et vous pouvez gérer vos préférences de notification directement dans notre centre de protection des données, dans l’onglet, vos droits [www.malt.fr/about/privacy/rights](https://www.malt.fr/about/privacy/rights).
-
-#### 6.6 Droit à la portabilité - article 20 du RGPD
-
-Vous pouvez à tout moment demander la portabilité de vos données. En exerçant ce droit, nous nous engageons à vous transmettre dans un délai raisonnable et dans un format lisible par machine les données que vous nous aurez fournies qu’elles aient été déclarées par vous-même ou générées par votre activité sur la Marketplace.
-
-#### 6.7 Droit de retrait du consentement - article 7 du RGPD
-
-Dans la mesure où le traitement de vos données à caractère personnel est basé sur votre consentement, vous avez le droit à tout moment de retirer votre consentement. Cela n’affecte toutefois pas la validité de votre consentement pour le passé.
-
-**6.8 Le droit d’organiser le sort de vos données en cas de décès - Article  85 Loi informatique et libertés**
-
-Vous pouvez nous indiquer des directives concernant les modalités de conservation, d'effacement et de communication des informations vous concernant à intervenir après votre décès.
-
-#### 6.9 Le droit d'introduire une réclamation auprès d'une autorité de contrôle
-
-En cas de besoin et si un éventuel litige n'aboutissait pas à une résolution amiable, vous disposez toujours de la faculté de vous rapprocher de l'autorité de protection des données à caractère personnel compétente pour introduire une réclamation.
-
-L’autorité de contrôle compétente pour connaître de toute demande nous concernant, y compris, le cas échéant, de la plainte d’un utilisateur, est la Commission Nationale de l'Informatique et des Libertés (CNIL).  
-Site internet : [https://www.cnil.fr/fr](https://www.cnil.fr/fr)
-
-Vous pouvez toujours saisir toute autorité de protection des données, notamment dans votre pays de résidence, le pays où vous travaillez, ou dans le pays dont vous êtes citoyen et cette dernière se chargera de transmettre votre demande à la CNIL.
-
-Annuaire des autorités au sein de l’UE : [https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index\_en.htm](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm)
+Date de dernière mise à jour: 22/10/2025
