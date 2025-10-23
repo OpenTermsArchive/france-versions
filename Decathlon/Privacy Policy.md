@@ -579,23 +579,23 @@ Ce traitement permet à Decathlon de vous notifier dans le cas où vous auriez a
 
 Responsable du traitement
 
-Les données que vous nous confiez sont traitées par DECATHLON France SAS, 4 boulevard de Mons à Villeneuve d'Ascq, 59650.
+Les données que vous nous confiez sont traitées par DECATHLON France SAS, 4 boulevard de Mons, 59650 Villeneuve-d’Ascq.
 
 Données personnelles traitées
 
-Nous traitons les données qui nous permettent de gérer la publication de vos avis, mais également ceux nécessaires pour vous recontacter le cas échéant : votre nom, votre prénom et votre email.
+Nous traitons les données nécessaires à la gestion de vos avis, ainsi qu’à leur modération et leur publication : votre prénom et votre nom, votre adresse e-mail, votre numéro de client, votre historique d’achats et d’activités sportives, ainsi que vos commentaires laissés sur nos produits et/ou votre expérience chez Decathlon.
 
 Durées de conservation
 
-Vos avis sont publiés pour une durée de 12 mois, anonymisés au bout de 3 ans et sont supprimés au bout de 10 ans.
+Vos avis sont publiés pendant 3 ans sur notre site internet. Vos données personnelles relatives à l’avis (votre numéro de client, etc.) sont supprimées au bout de 3 ans à compter de la publication de votre avis (anonymisation des avis). Après 5 ans, tous les avis anonymisés sont supprimés.
 
 Base légale
 
-Les demandes d'avis sur vos expériences avec Decathlon (Achat/Livraison etc...) reposent sur l'intérêt légitime du responsable de traitement (DECATHLON).
+La demande d’avis sur vos expériences avec Decathlon (achats, livraison, etc.) repose sur l’intérêt légitime du responsable de traitement (DECATHLON). La publication de votre avis est fondée sur votre consentement.
 
 Finalités
 
-Ce traitement vous permet de donner votre avis en ligne sur les produits et services Decathlon que vous avez achetés.
+Ce traitement vous permet de donner votre avis en ligne sur les produits et services de Decathlon et d’autoriser leur publication si vous y consentez.
 
 ##### PRENEZ RDV AVEC VOTRE MAGASIN AFIN D'ÊTRE CONSEILLÉ SUR UN PRODUIT, UN SERVICE OU POUVOIR FAIRE RÉPARER-ENTRETENIR VOTRE PRODUIT PAR NOS EXPERTS
 
@@ -623,23 +623,27 @@ Ce traitement vous permet de prendre rendez-vous en magasin avec nos experts afi
 
 Responsable du traitement
 
-Les données que vous nous confiez sont traitées par DECATHLON France SAS, 4 boulevard de Mons à Villeneuve d'Ascq, 59650.
+Les données que vous nous confiez sont traitées par Decathlon France SAS, 4 boulevard de Mons, 59650 Villeneuve-d’Ascq.
+
+Vos questions et demandes adressées à notre agent conversationnel (chatbot)
+
+Dans le but d’améliorer en continu votre expérience client et de vous offrir un service disponible 24h/24 et 7j/7, nous avons intégré à notre service clientèle un agent conversationnel (chatbot) basé sur l’intelligence artificielle générative (« gen-AI »). Cet outil, conçu pour répondre de manière fluide et naturelle, s’appuie sur une base de données fermée et prédéfinie afin de traiter les questions les plus fréquentes. Il ne vous sera jamais demandé de données personnelles, à l’exception de votre numéro de commande si vous souhaitez obtenir des informations sur votre livraison. L’utilisation du chatbot est entièrement facultative : vous pouvez à tout moment choisir d’échanger avec un conseiller clientèle.
 
 Données personnelles traitées
 
-Nous traitons les données nécessaires à la gestion de votre demande : votre nom, prénom, email, adresse postale, enregistrement vocal, le produit concerné, vos commentaires, votre géolocalisation. Lorsque cela est impératif et justifié par la nature de votre demande, les données relatives à votre état de santé.
+Nous traitons uniquement les données nécessaires à la gestion de votre demande : vos nom et prénom, votre adresse e-mail, adresse postale et numéro de téléphone, vos données de connexion, vos données bancaires en cas de remboursement manuel, une copie de votre pièce d’identité en cas de contestation de livraison, vos commentaires, ainsi que le numéro de votre commande.
 
 Durées de conservation
 
-Vos données seront supprimées 2 ans après la date de votre RDV.
+Selon la nature de votre demande, les délais de conservation peuvent être différents. Les données traitées dans le cadre d’une demande contractuelle (commande, livraison) sont conservées 5 ans maximum après la clôture de la demande. Les données liées à une demande hors contrat (par exemple : demande d’information, question d’un client ou d’un prospect) sont conservées 2 ans à compter du dernier contact. Vos échanges avec notre agent conversationnel (chatbot) sont conservés pendant deux ans à partir de votre interaction avec notre chatbot , puis anonymisés. Les données personnelles traitées dans le cadre de l’exercice des droits des personnes sont conservées 5 ans à compter de la clôture de la demande. Lorsque la vérification de l’identité est requise (par justificatif d’identité), celle-ci est conservée uniquement le temps nécessaire à la vérification. En cas de litige avéré, une copie peut être conservée pendant 5 ans à des fins de preuve.
 
 Base légale
 
-Le traitement de vos données personnelles est mis en œuvre uniquement après le recueil de votre consentement.
+Le traitement de vos données personnelles, lorsqu’il est lié à une commande (informations sur la commande, livraison, etc.), repose sur l’exécution du contrat. Lorsque vos données sont utilisées pour répondre à vos demandes ou questions adressées à notre centre de relation client, la base légale est l’intérêt légitime de Decathlon à gérer les demandes de ses clients. Enfin, le traitement de vos données personnelles dans le cadre de l’exercice de vos droits repose sur les obligations légales auxquelles Decathlon est soumis.
 
 Finalités
 
-Ce traitement permet à Decathlon de répondre à vos demandes faites à nos équipes en magasin et/ou à notre centre de relation client.
+Ce traitement permet à Decathlon de répondre efficacement à vos demandes, qu’elles soient adressées à nos équipes en magasin ou à notre centre de relation client.
 
 ##### VOS DEVIS ET COMMANDES PASSÉES AUPRÈS D'UN COÉQUIPIER EN MAGASIN
 
