@@ -1,5 +1,3 @@
-### Conditions Générales de Vente L-COMMERCE
-
 **Conditions Générales de Vente LCOMMERCE**
 -------------------------------------------
 
@@ -789,3 +787,5 @@ La loi française est seule applicable aux présentes conditions générales de 
 Tout litige, quelle qu’en soit la nature, peut être soumis à la juridiction du lieu de résidence de l’acheteur.
 
 Historique des Conditions générales de vente
+
+* [(Ancienne version) - CGV 25 05 2023](https://media.e.leclerc/LEN/document/2023%2005%2025%20-%20CGV%20Lcommerce?vh=5169e1&func=proxy)
