@@ -1,7 +1,7 @@
 **Conditions Générales de Vente LCOMMERCE**
 -------------------------------------------
 
-**Mis à jour : 27 Octobre 2025**
+**Mis à jour : 21 Octobre 2025**
 
 ### **PARTIE 1**
 
