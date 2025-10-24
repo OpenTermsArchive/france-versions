@@ -2,6 +2,8 @@
 
 * [JACKPOT ! AU PRINTEMPS : Jusqu'à -40%](https://www.printemps.com/fr/fr/jackpot-au-printemps)
     
+* [\-10% SUPP. au panier dès 2 produits](https://www.printemps.com/fr/fr/booster-10)
+    
 * [LUXE](https://www.printemps.com/fr/fr/jackpot-luxe)
     
 * [FEMME](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
@@ -805,6 +807,10 @@ Un e-mail sera envoyé au Client lorsque son colis sera expédié depuis l'entre
 
   
 
+Certaines commandes peuvent être livrées contre scan d'un QR code lors de la livraison. Le QR code est alors envoyé par mail en amont de la livraison par Colissimo.
+
+  
+
 **EXPRESS CHRONOPOST** - 9,90 euros (en 24 heures)
 
   
@@ -822,6 +828,14 @@ Toutes les commandes passées après 13 h sont expédiées le jour ouvrable suiv
   
 
 Dès que le colis est récupéré par Chronopost, il peut être suivi sur [www.chronopost.fr](https://www.printemps.com/fr/fr/www.chronopost.fr) en utilisant le numéro de colis envoyé par e-mail lors de son expédition, ou via le lien de suivi de commande depuis le compte du Client sur le Site.
+
+  
+
+Certaines commandes peuvent être livrées contre scan d'un QR code / code sécurisé à 6 chiffres lors de la livraison.
+
+  
+
+Pour que le colis soit remis, le livreur devra obligatoirement saisir le code sécurisé à 6 chiffres ou scanner le QR code reçu au préalable par e-mail et/ou SMS de la part de CHRONOPOST
 
   
 
