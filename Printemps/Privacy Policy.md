@@ -117,7 +117,7 @@
 * [SACS](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
     * [Maroquinerie de luxe](https://www.printemps.com/fr/fr/maroquinerie-de-luxe-femme)
-    * [Nouveautés sacs](https://www.printemps.com/fr/fr/nouveautes-femme)
+    * [Nouveautés sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
     * [Sacs iconiques](https://www.printemps.com/fr/fr/sacs-iconiques)
     * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-femme)
     * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
@@ -164,10 +164,8 @@
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme)
     
 * TENDANCES
-    * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865)
-    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
-    * [Les tendances de la rentrée](https://www.printemps.com/fr/fr/edito-style-tendance-rentree-2025)
-    * [Nos looks Back to work](https://www.printemps.com/fr/fr/edito-style-back-to-work-looks)
+    * [Pièces de défilés](https://www.printemps.com/fr/fr/defile-femme)
+    * [Tons Chocolat](https://www.printemps.com/fr/fr/chaud-le-marron)
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
     
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
@@ -246,10 +244,9 @@
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme)
     
 * [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme)
-    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur-homme)
-    * [Indie rock](https://www.printemps.com/fr/fr/indie-sleaze-homme)
-    * [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
+    * [Pièces de défilés](https://www.printemps.com/fr/fr/defile-homme)
     * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison-1865-tout-homme)
+    * [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
     
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
