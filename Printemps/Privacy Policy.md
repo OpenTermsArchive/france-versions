@@ -2,6 +2,8 @@
 
 * [JACKPOT ! AU PRINTEMPS : Jusqu'à -40%](https://www.printemps.com/fr/fr/jackpot-au-printemps)
     
+* [\-10% SUPP. au panier dès 2 produits](https://www.printemps.com/fr/fr/booster-10)
+    
 * [LUXE](https://www.printemps.com/fr/fr/jackpot-luxe)
     
 * [FEMME](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
@@ -182,10 +184,10 @@
     * [Prada](https://www.printemps.com/fr/fr/prada-femme)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Guess](https://www.printemps.com/fr/fr/guess-femme)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/17/2/8544172.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/81/0/8580810.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
         
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/17/2/8544172.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/81/0/8580810.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -520,7 +522,7 @@ HELLENIST](https://www.printemps.com/fr/fr/hellenist-beaute?ap_source=anico&ap_m
 
 * [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/17/2/8544172.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/81/0/8580810.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps)
 
   
 
