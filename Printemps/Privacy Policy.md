@@ -2,8 +2,6 @@
 
 * [JACKPOT ! AU PRINTEMPS : Jusqu'à -40%](https://www.printemps.com/fr/fr/jackpot-au-printemps)
     
-* [\-10% SUPP. au panier dès 2 produits](https://www.printemps.com/fr/fr/booster-10)
-    
 * [LUXE](https://www.printemps.com/fr/fr/jackpot-luxe)
     
 * [FEMME](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
@@ -182,7 +180,10 @@
     * [Prada](https://www.printemps.com/fr/fr/prada-femme)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Guess](https://www.printemps.com/fr/fr/guess-femme)
-    * 
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/17/2/8544172.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
+        
+
+ [![Image d'illustration](https://media-cdn.printemps.com/image/17/2/8544172.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -257,7 +258,7 @@
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
     * [AMI Paris](https://www.printemps.com/fr/fr/amiparis-homme)
     * [Prada](https://www.printemps.com/fr/fr/prada-homme)
-    * [Eden Park](https://www.printemps.com/fr/fr/eden-park-homme)
+    * [Moncler](https://www.printemps.com/fr/fr/moncler-homme)
     * [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
     * [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
@@ -340,7 +341,14 @@ LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme)
     * [Parfums de marly](https://www.printemps.com/fr/fr/parfum-parfums-de-marly)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-    * 
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/59/7/8591597.jpg)
+        
+        CARON](https://www.printemps.com/fr/fr/univers-caron?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-caron)
+        
+
+ [![Image d'illustration](https://media-cdn.printemps.com/image/59/7/8591597.jpg)
+
+CARON](https://www.printemps.com/fr/fr/univers-caron?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-caron)
 
 * [LINGE DE MAISON](https://www.printemps.com/fr/fr/linge-de-maison)
 
@@ -508,6 +516,8 @@ LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme)
 * [Conférences et ateliers](https://evenements.printemps.com/)
 
 * [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
+
+ [![Image d'illustration](https://media-cdn.printemps.com/image/17/2/8544172.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps)
 
   
 
