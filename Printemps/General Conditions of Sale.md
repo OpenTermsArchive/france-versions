@@ -2,8 +2,6 @@
 
 * [JACKPOT ! AU PRINTEMPS : Jusqu'à -40%](https://www.printemps.com/fr/fr/jackpot-au-printemps)
     
-* [\-10% SUPP. au panier dès 2 produits](https://www.printemps.com/fr/fr/booster-10)
-    
 * [LUXE](https://www.printemps.com/fr/fr/jackpot-luxe)
     
 * [FEMME](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
@@ -254,7 +252,7 @@
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
     * [AMI Paris](https://www.printemps.com/fr/fr/amiparis-homme)
     * [Prada](https://www.printemps.com/fr/fr/prada-homme)
-    * [Eden Park](https://www.printemps.com/fr/fr/eden-park-homme)
+    * [Moncler](https://www.printemps.com/fr/fr/moncler-homme)
     * [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
     * [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
