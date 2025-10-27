@@ -182,10 +182,7 @@
     * [Prada](https://www.printemps.com/fr/fr/prada-femme)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Guess](https://www.printemps.com/fr/fr/guess-femme)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/81/0/8580810.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
-        
-
- [![Image d'illustration](https://media-cdn.printemps.com/image/81/0/8580810.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme)
+    * 
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -343,14 +340,7 @@ LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme)
     * [Parfums de marly](https://www.printemps.com/fr/fr/parfum-parfums-de-marly)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/55/2/8545552.jpg)
-        
-        HELLENIST](https://www.printemps.com/fr/fr/hellenist-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-hellenist)
-        
-
- [![Image d'illustration](https://media-cdn.printemps.com/image/55/2/8545552.jpg)
-
-HELLENIST](https://www.printemps.com/fr/fr/hellenist-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-hellenist)
+    * 
 
 * [LINGE DE MAISON](https://www.printemps.com/fr/fr/linge-de-maison)
 
@@ -518,8 +508,6 @@ HELLENIST](https://www.printemps.com/fr/fr/hellenist-beaute?ap_source=anico&ap_m
 * [Conférences et ateliers](https://evenements.printemps.com/)
 
 * [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
-
- [![Image d'illustration](https://media-cdn.printemps.com/image/81/0/8580810.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps)
 
   
 
