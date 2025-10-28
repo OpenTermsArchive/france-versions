@@ -1518,7 +1518,7 @@ Elle a pour objet de rendre le don accessible à tous et de développer, en coll
 
 Dans cette optique, URCT a noué un partenariat avec Cdiscount afin de proposer aux clients de Cdiscount d’effectuer, lors de leurs achats en ligne sur le site [www.cdiscount.com](https://www.cdiscount.com/) (ci-après le « **Site** »), des dons d’un montant minimum de 1 euro en faveur d’Associations Partenaires (le « **Partenariat** »).
 
-Pour le Partenariat, quatre Associations Partenaires portant des projets spécifiques et budgétisés dans chacune des causes URCT (les « **Projets** ») sont sélectionnées pour recevoir les dons des clients de Cdiscount.
+Pour le Partenariat, quatre Associations Partenaires portant des projets spécifiques et budg��tisés dans chacune des causes URCT (les « **Projets** ») sont sélectionnées pour recevoir les dons des clients de Cdiscount.
 
 Les présentes Conditions Générales d’Utilisation ont pour objet de définir les modalités et conditions dans lesquelles les clients de Cdiscount (ci-après les « **Clients** ») peuvent utiliser le service de micro-don proposé par Un Rien C’est Tout et Cdiscount sur le Site au moment de la validation de leur commande pour faire un don en faveur de l’un des quatre Projets portés par une Association Partenaire et sélectionnés pour le Partenariat (ci-après le « **Service** »).
 
