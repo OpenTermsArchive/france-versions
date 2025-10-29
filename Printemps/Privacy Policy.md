@@ -262,14 +262,10 @@
     * [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
     * [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/32/3/8544323.jpg)
-        
-        LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/17/2/8544172.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme)
         
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/32/3/8544323.jpg)
-
-LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/17/2/8544172.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme)
 
 * [L’ESPACE BEAUTÉ](https://www.printemps.com/fr/fr/espace-beaute)
     
