@@ -41,7 +41,12 @@
     * [Manteaux](https://www.printemps.com/fr/fr/jackpot-au-printemps/cat0/Manteaux)
     * 
 
-* [NOUVELLE COLLECTION](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
+* [COLLECTION AUTOMNE-HIVER](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
+    
+* [COLLECTION PRINTEMPS-ÉTÉ](https://www.printemps.com/fr/fr/collection-printemps-ete)
+    
+* [DERNIÈRES NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes)
+    
 
 * [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
@@ -329,6 +334,8 @@
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
     * 
+
+* [JACKPOT ! AU PRINTEMPS : Jusqu'à -40%](https://www.printemps.com/fr/fr/jackpot-au-printemps-maison)
 
 * [LINGE DE MAISON](https://www.printemps.com/fr/fr/linge-de-maison)
 
