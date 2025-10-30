@@ -672,7 +672,9 @@ Article XVI - délais de protestation et d'action en responsabilité
 
 Toute réclamation doit être faite immédiatement et par écrit à l’adresse suivante :
 
-Air Austral Service Client Zone aéroportuaire de Roland Garros BP 611 97472 Saint Denis Cedex.
+Air Austral Service Client Zone Aéroportuaire de Roland Garros - Gillot - 97438 Sainte Marie.  
+  
+ou par email : bagages@air-austral.com
 
 **c)**Le droit à obtenir une indemnisation est prescrit si aucune action n’est intentée dans les deux ans à compter du jour d’arrivée à destination, ou du jour où l’aéronef devait arriver ou de l’arrêt du transport.
 
