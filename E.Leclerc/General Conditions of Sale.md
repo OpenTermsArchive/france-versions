@@ -1,7 +1,7 @@
 **Conditions Générales de Vente LCOMMERCE**
 -------------------------------------------
 
-**Mis à jour : 21 Octobre 2025**
+**Mis à jour : 30 Octobre 2025**
 
 ### **PARTIE 1**
 
@@ -738,7 +738,7 @@ Tout refus par LCOMMERCE ou le Vendeur Tiers de procéder selon le choix du Clie
 
 **20.1 Pour les offres LCOMMERCE**
 
-Les dispositions du présent article ne sont pas valables pour les produits proposés dans le cadre de l'Offre Marketplace.
+Les dispositions du présent article ne sont pas valables pour les produits proposés dans le cadre de l'Offre Marketplace et du Click&Collect.
 
 Le Client pourra obtenir les informations concernant la politique de médiation des Vendeurs Tiers concernés dans les Conditions Particulières Vendeurs.
 
@@ -754,9 +754,7 @@ En cas de réclamation, le Client pourra s'adresser en premier recours au servic
 
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, LCOMMERCE adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – [http://www.mediateurfevad.fr](https://www.mediateurfevad.fr/). Après démarche préalable écrite des consommateurs vis-à-vis de LCOMMERCE, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici.](https://www.mediateurfevad.fr/index.php/espace-consommateur/)
 
-La Commission européenne met à disposition une plateforme en ligne de résolution des
-
-différends à laquelle vous pouvez accéder ici: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/).
+La Commission européenne met à disposition une plateforme en ligne de résolution des différends à laquelle vous pouvez accéder ici: [**https://consumer-redress.ec.europa.eu/index\_fr**](https://ec.europa.eu/consumers/odr/).
 
 **20.2 Pour les Offres Marketplace**
 
@@ -780,12 +778,28 @@ Le Vendeur Tiers réglera par lui-même le litige l'opposant à son Client, LCOM
 
 Dans l’hypothèse où le Vendeur Tiers et son Client ne parviendraient pas à trouver une solution amiable ou si le Vendeur Tiers ne répond pas à la demande de son Client dans un délai de huit (8) jours, LCOMMERCE interviendra, à la demande expresse du Client par le biais de son service client (commande@serviceclients.leclerc), afin de rappeler au Vendeur Tiers ses obligations et en recherchant une solution au litige.
 
-**ARTICLE 21. LOI APPLICABLE ET JURIDICTIONS COMPETENTES**
+**20.3 Pour les Offres Click&Collect**
+
+En cas de réclamation, le Client pourra utiliser les différents modes de contact suivants :
+
+* Par son compte client dans la rubrique "Mon compte/Mes Commandes/Retour ou réclamation".
+    
+* Par la page magasin dans la rubrique “Contacter le magasin / Remonter un problème” 
+    
+* Par le numéro de téléphone précisé sur la page du Magasin.
+    
+
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Le Magasin adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – [http://www.mediateurfevad.fr](http://www.mediateurfevad.fr/). Après démarche préalable écrite des consommateurs vis-à-vis du Magasin, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/).
+
+La Commission européenne met à disposition une plateforme en ligne de résolution des différends à laquelle vous pouvez accéder ici:  https://consumer-redress.ec.europa.eu/index\_fr . 
+
+**ARTICLE 21. LOI APPLICABLE ET JURIDICTIONS COMPETENTES** 
 
 La loi française est seule applicable aux présentes conditions générales de vente à l’exception des cas ou un tribunal d’un autre pays serait compétent en raison des règles de droit international privé.
 
 Tout litige, quelle qu’en soit la nature, peut être soumis à la juridiction du lieu de résidence de l’acheteur.
 
-Historique des Conditions générales de vente
+Historique des Conditions générales de vente : 
 
+* [(Ancienne Version) - CGV 21 10 2025](https://media.e.leclerc/LEN/document/2025%2010%2021%20-%20CGV%20Lcommerce.docx?vh=5793e5&func=proxy)
 * [(Ancienne version) - CGV 25 05 2023](https://media.e.leclerc/LEN/document/2023%2005%2025%20-%20CGV%20Lcommerce?vh=5169e1&func=proxy)
