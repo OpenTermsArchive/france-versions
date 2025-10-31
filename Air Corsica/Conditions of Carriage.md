@@ -349,6 +349,8 @@ Air Corsica propose des tarifs promotionnels spécifiques selon la destination, 
 
 Des services complémentaires sont proposés au passager lors de l’achat de son Billet en ligne. Ces services sont soumis à leurs propres conditions générales disponibles et accessibles sur les pages correspondantes.
 
+_Le tarif applicable au transport des bagages enregistrés ou à tout autre service optionnel peut varier selon la date d’achat et/ou du canal de vente. Le prix en vigueur est celui affiché ou communiqué au moment de l’achat du service. Pour plus d’informations sur les conditions et les tarifs en vigueur, nous vous invitons à consulter notre page dédiée :_ [_Bagages cabine / soute | Air Corsica_](https://www.aircorsica.com/bagages/bagage-cabine-en-soute.html)
+
 **5.7. Frais d'émission ou de dossier**
 
 Des frais d’émission sont facturés lors de chaque achat d'un billet Air Corsica pour la gestion de l'émission du billet. Les frais d’émission sont d'un montant différent selon le type de voyage, le tarif et le point de vente du billet. Il est précisé que les agences de voyage appliquent de manière indépendante les frais de service de leur choix. 
