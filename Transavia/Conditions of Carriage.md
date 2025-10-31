@@ -12,7 +12,7 @@ Numéro de vol commençant par HV : votre billet sera émis et votre vol sera op
 Numéro de vol commençant par TO : votre billet sera émis et votre vol sera opéré par Transavia France S.A.S.  
 Dans certains cas, une condition ne s’applique qu’à un vol opéré par Transavia Airlines C.V. ou par Transavia France S.A.S.. Dans les cas sus-mentionnés, l’applicabilité limitée de cette condition sera stipulée.
 
-[Télécharger les conditions de transport au format PDF](https://www.transavia.com/fr/-/media/Files/Terms-and-conditions-2025/Les_conditions_generales_de_transport_Transavia_FR_26092025.pdf)  
+[Télécharger les conditions de transport au format PDF](https://www.transavia.com/fr/-/media/Files/Terms-and-conditions-2025/Les_conditions_generales_de_transport_Transavia_FR_31102025.pdf)  
 
 Conditions tarifaires Transavia (applicables à tous les vols Transavia)
 -----------------------------------------------------------------------
@@ -206,15 +206,32 @@ Si vous souhaitez effectuer plus d’une modification, des frais seront facturé
 
 \-       Vous êtes déjà enregistré(e). Vous ne pouvez alors plus rien modifier sur votre réservation.
 
-**Annulation**
+**Annulation Transavia Airlines C.V. (HV)**
 
-Vous pouvez annuler votre réservation en contactant notre Centre de service par téléphone, sur les réseaux sociaux, par e-mail ou par [Mon Transavia](https://customerlogin.transavia.com/379fb04b-964b-4985-965c-2d9097eef215/b2c_1a_customer_signuporsignin/oauth2/v2.0/authorize?client_id=ed9a43b5-64fb-47b1-abac-bc510a1802e5&redirect_uri=https%3a%2f%2fwww.transavia.com%2fapi%2fpersonalaccountauth%2fcallback&response_mode=form_post&response_type=code&scope=openid&state=OpenIdConnect.AuthenticationProperties%3d9w1mPRyOkizvOAFTuPDSvEHelQs3l41DEWI__ELvqCQn_A7Z0Be8jt9bdp2qTHcfeDqoRs6Ewjed9kr3TEvSk8qZXFdN1WCk0JiHYW2uz5aFE4guvi5ObudZc3XOgnWUfdSpFbjzTzJiU7fc9DfK-2xF1tFhkVNOAQRTAYYKheQ6alrKxF6zgjOMcLkgbXfgj7dDDH-ir1Tq2CgEt9agGLbFq9H9EgGSjj-0SbKihYyzicyviw6WJ3A6VkAiOCm74FXwXpiTSWbLOp6wL8iFuC2MaEXEMaZ8gxZGTCaugGe6QbKUxeVD-NQ4GeTASU6ck8UZTJ3c62YC30J3QNT68lm1kDj1VJ1Oj2jli0uAQcST2xQ4asyiEUkfPn2WkX9pywDbw3hiNllLUtm2h619gDsxMYAszS6b6EPPd5n1mnQIGTKr0hNi2q8uODt5VEfeToBAsxezmC9l_XeRmzkBdxUOo9JEVckb0TdzoRhvzT0&ui_locales=fr-fr&locale=fr-fr&x-client-SKU=ID_NET&x-client-ver=1.0.40306.1554). Dans certains cas, cela peut également se faire via le site Web de Transavia. Les frais d’annulation s’élèvent à 100 % du montant dû pour la réservation (éventuelles demandes spéciales comprises).   
+Vous pouvez annuler votre réservation en contactant notre Centre de service par téléphone, sur les réseaux sociaux, par e-mail ou par [Mon Transavia](https://customerlogin.transavia.com/379fb04b-964b-4985-965c-2d9097eef215/b2c_1a_customer_signuporsignin/oauth2/v2.0/authorize?client_id=ed9a43b5-64fb-47b1-abac-bc510a1802e5&redirect_uri=https%3a%2f%2fwww.transavia.com%2fapi%2fpersonalaccountauth%2fcallback&response_mode=form_post&response_type=code&scope=openid&state=OpenIdConnect.AuthenticationProperties%3d9w1mPRyOkizvOAFTuPDSvEHelQs3l41DEWI__ELvqCQn_A7Z0Be8jt9bdp2qTHcfeDqoRs6Ewjed9kr3TEvSk8qZXFdN1WCk0JiHYW2uz5aFE4guvi5ObudZc3XOgnWUfdSpFbjzTzJiU7fc9DfK-2xF1tFhkVNOAQRTAYYKheQ6alrKxF6zgjOMcLkgbXfgj7dDDH-ir1Tq2CgEt9agGLbFq9H9EgGSjj-0SbKihYyzicyviw6WJ3A6VkAiOCm74FXwXpiTSWbLOp6wL8iFuC2MaEXEMaZ8gxZGTCaugGe6QbKUxeVD-NQ4GeTASU6ck8UZTJ3c62YC30J3QNT68lm1kDj1VJ1Oj2jli0uAQcST2xQ4asyiEUkfPn2WkX9pywDbw3hiNllLUtm2h619gDsxMYAszS6b6EPPd5n1mnQIGTKr0hNi2q8uODt5VEfeToBAsxezmC9l_XeRmzkBdxUOo9JEVckb0TdzoRhvzT0&ui_locales=fr-fr&locale=fr-fr&x-client-SKU=ID_NET&x-client-ver=1.0.40306.1554). Dans certains cas, cela peut également se faire via le site Web de Transavia. Les frais d’annulation s’élèvent à 100 % du montant dû pour la réservation (éventuelles demandes spéciales comprises).   
   
 Si le vol réservé est opéré par Transavia Airlines C.V. (HV), aucun remboursement n’est accordé, à l’exception de toutes les taxes relatives aux passagers imposées par l’aéroport et les gouvernements que vous avez payées à Transavia, qui peuvent être remboursées à votre demande jusqu’à un maximum du prix du billet payé.   
   
-Si le vol réservé est opéré par Transavia France S.A.S. (TO), aucun remboursement n’est accordé, sauf dans la mesure prévue par la loi pour toutes les taxes relatives aux passagers imposées par l’aéroport et les gouvernements que vous avez payées à Transavia, qui peuvent être remboursées à votre demande.  
+La demande de remboursement de ces taxes peut être soumise via ce formulaire en ligne ([www.transavia.com](http://www.transavia.com/)).
+
+**Offres spéciales Transavia France S.A.S. (TO)  
+**Transavia France S.A.S. (TO) peut proposer des offres spéciales de manière temporaire et sur un nombre limité de sièges. Ces offres spéciales seront indiquées comme « offre spéciale » dans la description du prix du billet affiché sur le site internet. Ces offres se présentent sous la forme de bons immédiatement déductibles du prix du billet, toutes taxes, prélèvements et suppléments inclus.  
+  
+Le bon est valable uniquement si (i) le billet est utilisé par le passager et si (ii) le passager voyage effectivement. Il sera automatiquement annulé dans le cas où (i) le passager renonce lui-même au transport ou (ii) dans les cas définis à l'article 18.2 des Conditions de transport.  
+
+**Annulations Transavia France S.A.S. (TO)**
+
+Vous pouvez annuler votre réservation en contactant notre Service Client par téléphone, sur les réseaux sociaux, par email ou via [Mon Transavia](https://customerlogin.transavia.com/379fb04b-964b-4985-965c-2d9097eef215/b2c_1a_customer_signuporsignin/oauth2/v2.0/authorize?client_id=ed9a43b5-64fb-47b1-abac-bc510a1802e5&redirect_uri=https%3a%2f%2fwww.transavia.com%2fapi%2fpersonalaccountauth%2fcallback&response_mode=form_post&response_type=code&scope=openid&state=OpenIdConnect.AuthenticationProperties%3d9w1mPRyOkizvOAFTuPDSvEHelQs3l41DEWI__ELvqCQn_A7Z0Be8jt9bdp2qTHcfeDqoRs6Ewjed9kr3TEvSk8qZXFdN1WCk0JiHYW2uz5aFE4guvi5ObudZc3XOgnWUfdSpFbjzTzJiU7fc9DfK-2xF1tFhkVNOAQRTAYYKheQ6alrKxF6zgjOMcLkgbXfgj7dDDH-ir1Tq2CgEt9agGLbFq9H9EgGSjj-0SbKihYyzicyviw6WJ3A6VkAiOCm74FXwXpiTSWbLOp6wL8iFuC2MaEXEMaZ8gxZGTCaugGe6QbKUxeVD-NQ4GeTASU6ck8UZTJ3c62YC30J3QNT68lm1kDj1VJ1Oj2jli0uAQcST2xQ4asyiEUkfPn2WkX9pywDbw3hiNllLUtm2h619gDsxMYAszS6b6EPPd5n1mnQIGTKr0hNi2q8uODt5VEfeToBAsxezmC9l_XeRmzkBdxUOo9JEVckb0TdzoRhvzT0&ui_locales=fr-fr&locale=fr-fr&x-client-SKU=ID_NET&x-client-ver=1.0.40306.1554). Dans certains cas, cela peut également être fait sur le site internet de Transavia. Les frais d'annulation s'élèvent à 100% du montant dû pour la réservation (y compris toute demande spéciale). L'annulation peut avoir des conséquences sur les offres spéciales selon les conditions définies dans les Conditions tarifaires de Transavia.  
+  
+Aucun remboursement n'est accordé en conséquence, sauf dans la mesure prévue par la loi pour les taxes liées aux passagers imposées par les aéroports et les gouvernements que vous avez payées à Transavia, lesquelles peuvent être remboursées sur votre demande.  
+  
+Pour plus de clarté, conformément à l'article 1347 et suivants du Code civil, Transavia se réserve le droit de compenser au prorata le montant des taxes à rembourser tel que précisé ci-dessus avec tout montant dû par le Passager à Transavia.  
   
 La demande de remboursement de ces taxes peut être soumise via ce formulaire en ligne ([www.transavia.com](http://www.transavia.com/)).  
+  
+Si le vol réservé est opéré par Transavia France S.A.S., une option de mise en revente du billet auprès d’un prestataire tiers indépendant (Fairlyne) peut être proposée pour certains billets. Cette option permet au passager, en cas d’annulation volontaire, de solliciter la revente de son billet et de recevoir un remboursement partiel de celui-ci.  
+L’accès à ce service dépend notamment de la classe tarifaire du billet à revendre, de la flexibilité du billet et du vol concerné. La revente et tout remboursement ne sont cependant pas garantis. En cas d’échec de la revente, le passager conserve son billet et peut demander le remboursement des taxes imposées par l’aéroport et les gouvernements payées à Transavia.  
+Transavia n’assume aucune obligation de résultat et ne fournit aucune information après la revente.
 
 **Bagages**
 
@@ -1160,4 +1177,4 @@ Immeuble Bélaïa- Cœur d’Orly
 94310 Orly  
 France
 
-Septembre 2025
+Octobre 2025
