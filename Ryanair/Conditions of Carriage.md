@@ -1387,10 +1387,10 @@ Si les sièges standards au tarif de €6 des rangées 18 à 33 sont indisponibl
 
 Si aucun siège côte à côte n’est disponible, un vol différent peut être sélectionné.   
 
-REGULAR, PLUS, FAMILY PLUS & FLEXI PLUS
+REGULAR, PLUS, FAMILY PLUS, TIME SAVER & FLEXI PLUS
 
 
-=========================================
+=====================================================
 
 **Tarifs Regular**
 
@@ -1475,6 +1475,30 @@ Lorsque vous changez de vol, les services inclus dans le tarif Flexi Plus sont t
 Flexi Plus – Changements de nom
 
 Le règlement 13 s’applique toujours aux changements de nom et vous devrez payer les frais appropriés.
+
+**Time Saver**
+
+Les tarifs Time Saver sont uniquement disponibles lorsque vous effectuez votre propre réservation et ne peuvent pas être achetés par le biais de centres d’appel/à l’aéroport. Vous ne pouvez pas passer à l’option Time Saver ultérieurement.
+
+L’option Time Saver doit être réglée pour tous les passagers et vols de votre réservation.
+
+Tous les tarifs Time Saver sont non remboursables, à l’exception des cas pour lesquels l’une des clauses 4.2, 10.2, 10.3 ou 10.4 de nos conditions générales de transport s’applique.
+
+Les services suivants sont inclus dans les tarifs Time Saver :
+
+* Un siège réservé à l’avant\*
+* Priorité et 2 bagages cabine
+* Service de sécurité Fast Track dans les aéroports indiqués ci-dessous
+
+\* Les sièges des rangées 1 à 5 sont sujets à disponibilité. Une fois ces sièges entièrement réservés, tous les autres sièges de l’avion seront proposés.
+
+Les tarifs Time Saver ne peuvent pas être réservés avec la réduction Erasmus.
+
+Les tarifs Time Saver ne sont pas disponibles sur les itinéraires intérieurs en Espagne.
+
+Aéroports avec le service Fast Track
+
+Aéroport international d’Aberdeen, aéroport international d’Athènes « Eleftherios Venizelos », Brindisi – Salento, aéroport international de Belfast, aéroport international de Milan Bergame (Orio al Serio), Birmingham, Bologne Guglielmo Marconi, Bournemouth, Bari Karol Wojtyła, Bruxelles, Budapest Ferenc Liszt International, Paris Beauvais-Tillé, Cologne Bonn, aéroport international de Rome Ciampino – G. B. Pastine, Copenhague (Kastrup), Bruxelles Sud Charleroi, Catane–Fontanarossa, Dublin, Édimbourg, Eindhoven, East Midlands, Faro, aéroport international de Rome–Fiumicino « Leonardo da Vinci », Francfort, Glasgow, Hambourg (Helmut Schmidt), Francfort-Hahn, Leeds Bradford, Londres Gatwick, Humberto Delgado (Lisbonne), Liverpool John Lennon, Manchester, aéroport international de Malte, Marseille Provence, Munich, Milan Malpensa, aéroport international de Naples, aéroport international de Newcastle, Weeze (Niederrhein), Stockholm Skavsta, Francisco Sá Carneiro (Porto), Oslo Gardermoen, Palerme (Falcone–Borsellino), Poznań–Ławica Henryk Wieniawski, Londres Stansted, Stuttgart, Turin (Turin-Caselle), Trévise (Tréviso-Sant’Angelo), Vilnius, Varsovie Modlin, Wrocław–Copernicus, César Manrique–Lanzarote, Malaga–Costa del Sol, Alicante–Elche Miguel Hernández, Amsterdam Schiphol, Barcelone-El Prat Josep Tarradellas, aéroport international Jean-Paul II de Cracovie (Cracovie-Balice), Grande Canarie, Palma de Majorque, Thessalonique « Makedonia », Tenerife Sud (Reina Sofía), et Valence.
 
 TRANSPORT DES PERSONNES HANDICAPÉES ET DES PERSONNES À MOBILITÉ RÉDUITE
 
@@ -1658,32 +1682,42 @@ PASSAGERS SOURDS OU MALENTENDANTS
 
 Les passagers sourds ou malentendants autonomes (conformément aux instructions ci-dessus) peuvent voyager sans accompagnateur.
 
-FAUTEUILS/SCOOTERS ÉLECTRIQUES ET AUTRES ÉQUIPEMENTS DE MOBILITÉ
+FAUTEUILS ROULANTS ÉLECTRIQUES ET SCOOTERS DE MOBILITÉ
 
 
-==================================================================
+========================================================
 
-Les passagers à mobilité réduite qui voyagent avec un fauteuil roulant électrique/scooter de mobilité sont tenus de nous aviser au moins 48 heures avant leur voyage de la marque, du modèle, du poids et de la hauteur du fauteuil roulant quand il est replié. Les passagers sont également invités à apporter le mode d’emploi du dispositif utilisé à l’aéroport.
+Si vous voyagez avec une chaise roulante électrique ou un scooter pour personne à mobilité réduite, vous devez nous en informer au moins 48 heures avant votre vol et nous fournir :
 
-Les fauteuils roulants électriques/scooters de mobilité doivent respecter les conditions suivantes pour être admis au transport:  
+* La marque et le modèle de la chaise roulante ou du scooter
+* Son poids
+* Sa hauteur lorsqu’il ou elle est plié(e)
+* Vous devez également apporter le mode d’emploi avec vous à l’aéroport.
 
-* La batterie du fauteuil roulant électrique/scooter de mobilité doit être à piles sèches/à électrolyte gélifié ou au lithium-ion (fauteuil roulant) – les batteries au lithium-ion ne pouvant pas dépasser un total de 300 Wh. Pour un appareil alimenté par deux batteries, aucune des deux ne doit pas dépasser 160 Wh.
+Conditions générales
 
-* Les dimensions du fauteuil roulant électrique/scooter de mobilité quand il est plié ne doit pas dépasser 81 cm de hauteur, 119 cm de largeur et 119 cm de longueur.
+Si la batterie au lithium, au gel ou sèche est conçue pour rester intégrée à la chaise roulante ou au scooter pour personne à mobilité réduite, qu’elle est correctement installée dans l’appareil et que l’alimentation est isolée, aucune limite de wattheures (Wh) ne s’applique lorsqu’elle est transportée en soute.
 
-* La batterie doit être isolée et les bornes exposées doivent être protégées contre les courts-circuits. Afin d’éviter toute activation accidentelle du fauteuil ou de l’équipement de mobilité, veuillez retirer la clé de contact, éteindre le moteur à l’aide de la manette, de l’interrupteur ou de tout autre bouton ou mécanisme de mise hors réseau (connecteur Anderson ou prise Airsafe).
+* La chaise roulante ou le scooter doit être sécurisé selon l’une des méthodes suivantes :  
+    \- Retrait de la clé  
+    \- Désactivation à l’aide du joystick, d’un interrupteur ou d’un bouton d’isolement  - Utilisation d’un autre mécanisme d’isolement (par ex., connecteur Anderson, prise Airsafe)
 
-**Remarque :**  
+* Une fois plié, la chaise roulante ou le scooter ne doit pas dépasser les dimensions suivantes :  
+    \- Hauteur : 81 cm  
+    \- Largeur : 119 cm  
+    \- Profondeur : 119 cm
 
-La limite de 32 kg pour chaque bagage ne s’applique pas aux équipements de mobilité.
+* Si la ou les batteries au lithium sont conçues pour être retirées et transportées en cabine, leur capacité ne doit pas dépasser 1 batterie de 300 Wh ou 2 batteries de 160 Wh.
 
-Les fauteuils roulants ne sont pas autorisés en cabine et les transporteurs de type Segway ne peuvent pas être embarqués.  
+* Batteries au lithium de rechange en cabine  
+    \- 1 batterie de rechange de 300 Wh ou  
+    \- 2 batteries de rechange de 160 Wh chacune.  
+    \- Veuillez noter que si la batterie d’alimentation a été retirée et transportée en cabine, elle est alors comptabilisée dans votre quota de batteries de rechange autorisées.
 
-Vous recommande de choisir une assurance voyage pour vos équipements de mobilité, la responsabilité de la compagnie aérienne étant limitée par la Convention de Montréal de 1999.  
-
-**Fauteuil roulant de couloir à bord**  
-
-Tous nos avions sont équipés de fauteuils roulant de couloir et notre personnel a été formé pour aider les passagers à mobilité réduite à se déplacer de leur siège aux toilettes (et inversement). Pour des raisons de santé et de sécurité, le personnel ne peut pas aider au transfert des passagers de leur siège au fauteuil roulant ou du fauteuil roulant aux toilettes (et inversement), ni à la prise de médicaments.
+* Batteries sèches ou au gel de rechange : aucune limite de wattheures (Wh) ne s’applique lorsqu’elles sont transportées en cabine.
+* La batterie doit être déconnectée et les bornes exposées doivent être protégées contre les courts-circuits.  
+* Les chaises roulantes et les scooters pour personnes à mobilité réduite ne peuvent pas être transportés en cabine. Cependant, des chaises roulantes adaptées aux couloirs sont disponibles sur tous les vols, et l’équipage est formé pour aider les passagers à mobilité réduite à se rendre jusqu’à la porte des toilettes et à en revenir.
+* Il est fortement recommandé aux passagers de souscrire une assurance voyage couvrant les aides à la mobilité, la responsabilité des compagnies aériennes étant limitée en vertu de la Convention de Montréal de 1999.
 
 OXYGÈNE
 
