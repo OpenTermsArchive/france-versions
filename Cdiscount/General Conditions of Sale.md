@@ -470,7 +470,7 @@ Lorsque vous sélectionnez ce mode de livraison, vous êtes informé du fait que
 
 Votre colis vous sera alors remis en main propre. Pour le retirer, pensez à vous munir d’une pièce d’identité. En cas d’empêchement, une personne de votre choix pourra retirer votre colis sous réserve de présenter votre pièce d’identité ainsi que la sienne.
 
-Pour faciliter le chargement dans votre véhicule, un matériel de manutention pourra être mis à votre disposition (selon disponibilit��). Nous vous invitons à bien vérifier que votre véhicule peut accueillir votre colis. Vous trouverez les caractéristiques de votre colis sur la fiche produit.
+Pour faciliter le chargement dans votre véhicule, un matériel de manutention pourra être mis à votre disposition (selon disponibilité). Nous vous invitons à bien vérifier que votre véhicule peut accueillir votre colis. Vous trouverez les caractéristiques de votre colis sur la fiche produit.
 
 Nous vous invitons à vérifier l’état de l’emballage de votre colis avant de l’accepter en apposant votre signature sur le bordereau de livraison papier ou électronique. Vous n’êtes pas autorisé à déballer le produit sur le point retrait. Si vous constatez des avaries sur l’emballage, mais que vous souhaitez malgré tout récupérer le colis, nous vous invitons à formuler des réserves précises sur le bordereau de livraison.
 
