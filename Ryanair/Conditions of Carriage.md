@@ -489,16 +489,32 @@ Il vous sera demandé de payer une contrepartie pour le transport de bagages enr
 
 **8.3.5** Les sacs Duty Free contenant des articles hors-taxes sont autorisés en cabine avec vos bagages en cabine.
 
-8.4 Appareils électroniques en cabine
+8.4 Appareils électroniques et batteries en cabine
 
 
-=======================================
+====================================================
 
-**8.4.1** Vous pouvez emporter des cigarettes électroniques dans l’avion, mais vous ne pouvez pas les utiliser.
+**8.4.1** Cigarettes électroniques (cigarettes électroniques et vapoteuses – 100 Wh maximum).
 
-**8.4.2** Vous pouvez emporter un « sac intelligent » (un sac contenant une batterie au lithium et permettant de recharger des appareils à l’aide d’un port USB) dans l’avion en tant que bagage à main. Toutefois, vous devez retirer la batterie au lithium avant de placer le bagage dans le compartiment supérieur. La batterie doit rester avec vous à tout moment.
+Vous pouvez transporter des cigarettes électroniques ou des dispositifs de vapotage à bord, mais leur utilisation est strictement interdite à tout moment pendant le vol.
 
-**8.4.3** Vous pouvez emporter dans l’avion jusqu’à 15 appareils électroniques et jusqu’à 20 batteries au lithium.
+**8.4.2** Bagages intelligents (avec batteries au lithium intégrées – 100 Wh maximum)
+
+Vous pouvez emporter un bagage intelligent (bagage cabine équipé d’une batterie au lithium intégrée et d’un port de chargement) en guise de bagage à main. Mais:
+
+**8.4.3** Appareils électroniques et batteries de rechange en cabine (100 Wh maximum)   
+ 
+
+* Vous pouvez transporter jusqu’à 15 appareils électroniques personnels (y compris, mais sans s’y limiter : smartphones, tablettes, ordinateurs portables, appareils photo, consoles de jeux portables, écouteurs, batteries externes).    
+      
+    
+* Vous pouvez également transporter jusqu’à 20 batteries au lithium de rechange, à condition qu’elles ne dépassent pas 100 Wh chacune.    
+      
+    
+* Les batteries de rechange et les batteries externes doivent être conservées dans votre bagage à main uniquement (elles ne sont pas autorisées dans les bagages enregistrés).    
+      
+    
+* Les dispositifs ou les batteries de plus de 100 Wh ne sont pas autorisés en cabine ou en soute (à l’exception des batteries de chaise roulante électrique).
 
 8.5 Objets interdits en cabine
 
@@ -578,7 +594,13 @@ Tout objet tranchant se trouvant dans vos bagages enregistrés doit être solide
 * l’appareil est protégé de tout dommage accidentel par un emballage ou un boîtier approprié, ou en étant placé dans un bagage rigide et protégé par un rembourrage adéquat ; et que
 * l’appareil ne se trouve pas dans le même bagage qu’une matière inflammable (p. ex., un parfum ou un aérosol).
 
-**8.6.8** Un « sac intelligent » (un sac contenant une batterie au lithium et permettant de recharger des appareils à l’aide d’un port USB) peut être transporté en soute en tant que bagage enregistré, à condition que vous retiriez la batterie au lithium avant de remettre le sac au comptoir de dépose-bagages ou à la porte d’embarquement. Vous devez prendre la batterie avec vous dans l’avion. 
+**8.6.8** Bagages intelligents en soute (100 Wh maximum)
+
+Un bagage intelligent (un bagage avec une batterie au lithium intégrée et un port de chargement) peut être enregistré comme bagage en soute uniquement si la batterie au lithium est retirée avant l'enregistrement du bagage au comptoir dépose-bagages ou à la porte d'embarquement.
+
+* La batterie ne doit en aucun cas être mise en soute.
+* Une fois retirée, la batterie doit être transportée en cabine.
+* Seules les batteries au lithium d'une puissance maximale de 100 Wh sont autorisées.   
 
 **8.6.9** Les détails sur notre service de dépose-bagage express sont disponibles dans nos règlements concernant les bagages enregistrés.
 
@@ -589,23 +611,38 @@ Tout objet tranchant se trouvant dans vos bagages enregistrés doit être solide
 
 **8.7.1** Vous ne devez avoir aucun des objets énumérés au point 8.11 (objets interdits) dans vos bagages enregistrés ou dans vos bagages à main. 
 
-**8.7.2** Les objets suivants ne doivent pas être transportés dans vos bagages enregistrés, mais dans la cabine passager dans vos bagages à main :
+**8.7.2  Articles non autorisés dans les bagages enregistrés  
+  
+**Les articles personnels suivants ne doivent pas être placés dans des bagages enregistrés. Ils doivent être transportés avec vous en cabine (dans votre bagage à main ou sur vous) :  
+ 
 
-* argent, titres négociables (documents garantissant le paiement d’une certaine somme d’argent) ou valeurs ;
-* bijoux, métaux précieux ou autres objets de valeur ;
-* clés ;
-* appareils photo ;
-* cigarettes électroniques ;
-* montres ;
-* médicaments ;
-* lunettes, lunettes de soleil ou lentilles de contact ;
-* cigarettes, tabac ou produits dérivés du tabac ;
-* documents commerciaux ;
-* passeports et autres documents d’identité ;
-* appareils électroniques personnels tels que les ordinateurs portables, les téléphones mobiles, les tablettes et les batteries au lithium de rechange ;
-* allumettes de sûreté ou briquets dont le combustible/fluide est entièrement absorbé dans un solide, qui sont destinés à être utilisés par une personne et ne doivent être portés que sur la personne.
+* argent, titres négociables (documents garantissant le paiement d'une certaine somme d'argent) ou valeurs ;
+* bijoux, métaux précieux ou autres objets de valeur ;
+    
+* clés ;
+    
+* appareils photo ;
+    
+* montres ;
+    
+* médicaments (sur ordonnance ou en vente libre) ;
+    
+* lunettes, lunettes de soleil ou lentilles de contact ;
+    
+* cigarettes, tabac ou produits dérivés du tabac ;
+    
+* documents commerciaux ou juridiques ;
+    
+* passeports et autres documents d'identité/de voyage.
+    
 
-Si, bien qu’interdit, un objet mentionné ci-dessus se trouve dans vos bagages enregistrés, nous ne serons pas responsables de la perte ou des dommages subis par cet objet.
+Pour des raisons de sécurité, les articles suivants ne doivent pas être placés dans les bagages enregistrés. Ils doivent être transportés avec vous en  
+cabine (dans votre bagage à main ou sur vous) :  
+
+* appareils électroniques personnels, tels que les ordinateurs portables, les tablettes et les téléphones portables ;
+* batteries au lithium et batteries externes de rechange (elles ne doivent pas dépasser 100 Wh chacune et ne sont autorisées qu'en bagage cabine) ;
+* allumettes de sûreté ou briquets dont le combustible/fluide est entièrement absorbé dans un solide, destinés à être utilisés par une personne. Ils ne doivent être portés que sur la personne 
+* cigarettes électroniques (cigarettes électroniques/vapoteuses).
 
 **8.7.3** Les objets qui ne conviennent pas au transport en soute (tels que les instruments de musique délicats mais de petite taille, les robes de mariée et les boîtes à chapeaux) peuvent être transportés en cabine s’ils peuvent être placés convenablement et en toute sécurité sur un siège en plus que vous avez payé. Pour réserver un siège en plus pour un objet, indiquez sur le formulaire de réservation « Article en supplément » comme nom de famille et « Siège » comme prénom. La mention « Siège Article en supplément » apparaîtra alors dans la réservation et sur la carte d’embarquement. Vous devrez saisir les détails de votre document de voyage pour le siège en plus lors du processus d’enregistrement en ligne. Il n’y a pas de franchise bagage pour le siège en plus. 
 
@@ -649,46 +686,68 @@ Les sièges des rangées 1, 16 et 17 ne peuvent pas servir de sièges en plus po
 
 Vous ne devez transporter aucun des objets suivants dans les zones de sécurité à accès réglementé et à bord d’un avion, que ce soit dans votre bagage à main ou dans votre bagage enregistré :
 
-**8.11.1** Tout objet susceptible de présenter un danger pour l’avion, les personnes ou les biens, y compris les objets suivants :
+**8.11.1  Articles dangereux**
 
-* _revolvers, armes à feu et autres équipements émettant des projectiles_ **–** équipements susceptibles, ou apparaissant comme susceptibles, d’être utilisés pour occasionner des dommages sévères par l’émission d’un projectile, notamment :
-    * armes à feu de tous types, telles que pistolets, revolvers, carabines et fusils ;
-    * jouets (y compris les armes de loisir telles que les pistolets de paint ball), copies et imitations d’armes à feu susceptibles d’être confondues avec des armes réelles ;
-    * pièces détachées d’armes à feu, à l’exception des lunettes télescopiques ;
-    * pistolets et fusils à air comprimé et à CO2 , tels que pistolets, fusils, carabines à plombs et pistolets et fusils à barillet,
-    * pistolets de détresse et pistolets de départ ;
-    * arcs, arbalètes et flèches ;
-    * harpons, fusils sous-marin et pistolets à clous ;
-    * frondes et lance-pierres ;
-    * pistolets paralysants, tasers, aiguillons à bétail et lasers.
-* _appareils à effet paralysant –_ appareils conçus spécialement pour étourdir ou pour immobiliser, notamment :
-    * engins neutralisants, tels que pistolets paralysants, tasers et matraques électriques ;
-    * étourdisseurs pour animaux et pistolets d’abattage des animaux ;
-    * substances chimiques, gaz et aérosols neutralisants et incapacitants, tels qu’aérosols à chloroacétophénone, aérosols poivrés, gaz lacrymogène, vaporisateurs d’acide et de répulsif pour animaux.
-* _substances et engins explosifs ou incendiaires –_  substances et engins explosifs ou incendiaires susceptibles, ou paraissant susceptibles, d’être utilisés pour occasionner des blessures graves ou pour menacer la sécurité d’un avion, notamment :
-    * munitions ;
-    * amorces ;
-    * détonateurs et cordeaux détonants ;
-    * copies ou imitations d’engins explosifs ;
-    * mines, grenades et autres explosifs militaires ;
-    * feux d’artifice et autres articles pyrotechniques ;
-    * bombes fumigènes et cartouches fumigènes ;
-    * dynamite, poudre et explosif plastique ;
-    * liquides inflammables, solides inflammables et substances provoquant une réaction chimique ;
-    * peinture, térébenthine, white spirit et diluant pour peinture ;
-    * alcool ayant un titre alcoométrique de plus de 70 % (« 140 % proof ») ;
-    * substances toxiques ou infectieuses (p. ex. : acides et alcalis, batteries « humides », eau de Javel, poisons, sang infecté, bactéries et virus) ;
-    * matières radioactives, y compris les isotopes médicaux ou commerciaux ;
-    * corrosifs, y compris le mercure, les batteries de véhicules et les pièces ayant contenu du carburant ;
-    * plus d’un litre au total d’huile alimentaire (p. ex. : d’huile d’olive) ;
-    * véhicules alimentés par des batteries au lithium-ion (y compris les segways et les hoverboards) autres que tout fauteuil roulant ou équipement de mobilité conforme à nos réglementations ;
-    * sacs intelligents dont la batterie au lithium n’a pas été retirée ;
-    * extincteurs d’incendie (à l’exception des extincteurs autorisés par les procédures d’incendie et faisant partie de l’équipement d’urgence à bord de l’avion) ;
-    * briquets et allume-feu avec un réservoir de liquide inflammable contenant un combustible liquide non absorbé (autre qu’un gaz liquéfié), combustible pour briquets et recharges pour briquets ;
-    * allumettes qui s’allument sur n’importe quelle surface ;
-    * crackers de Noël ;
-    * ampoules à économie d’énergie ;
-    * objets équipés d’un moteur à combustion interne.
+Pour des raisons de sécurité, vous ne devez pas transporter dans vos bagages (enregistrés ou en cabine) d'articles susceptibles de mettre en danger l'avion, les passagers, l'équipage ou les biens. Ces articles incluent, mais ne se limitent pas à :  
+  
+**Armes à feu et autres armes  
+  
+**Armes à feu et autres dispositifs qui lancent des projectiles tels que :  
+  
+
+* Pistolets, revolvers, fusils et carabinesPistolets de jeu, pistolets de paintball, répliques et imitations pouvant être confondus avec de vraies armes
+* Pièces détachées d'armes à feu (à l'exception des lunettes télescopiques)
+* Pistolets à air comprimé et à CO₂ (par ex. : pistolets à billes, fusils, pistolets à billes)
+* Pistolets de détresse et pistolets de départ
+* Arcs, arbalètes, harpons, fusils sous-marins, pistolets à clous
+* Frondes et lance-pierres
+* Pistolets paralysants, tasers, aiguillons à bétail et lasers
+
+**Dispositifs paralysants**
+
+Dispositifs conçus pour immobiliser, notamment :  
+ 
+
+* Matraques paralysantes, tasers, dispositifs à décharge électrique
+* Appareils d'étourdissement pour animaux et pistolets d'abattage des animaux
+* Sprays chimiques, tels que les gaz lacrymogène, les gaz incapacitants, les pulvérisateurs de poivre, de capsicum ou d'acide, et les répulsifs pour animaux
+
+**Substances et engins incendiaires**
+
+Explosifs et substances susceptibles de provoquer un incendie, notamment :  
+ 
+
+* Munitions, amorces à percussion, détonateurs, amorces
+* Copies ou imitations d'engins explosifs
+* Mines, grenades, explosifs militaires
+* Feux d'artifice, articles pyrotechniques, bombes et cartouches fumigènes
+* Dynamite, poudre à canon, explosif plastique
+
+**Substances inflammables, toxiques ou dangereuses**
+
+Liquides et solides inflammables, substances provoquant des réactions chimiques dangereuses :  
+ 
+
+* Peintures, diluants, térébenthine, white spirit
+* Alcool d'une teneur supérieure à 70 % vol.
+* Substances toxiques ou infectieuses (acides, alcalis, eau de Javel, poisons, matières infectées, virus)
+* Matière radioactive (par ex. : isotopes à usage médical ou commercial)
+* Corrosifs (par ex. : mercure, batteries de véhicule, pièces contenant du carburant)
+* Plus d'un litre d'huile comestible (par ex. : huile d'olive)
+
+**Articles interdits alimentés par batterie**
+
+Véhicules alimentés par batterie lithium-ion, y compris les hoverboards, trottinettes électriques, segways et dispositifs similaires. Seuls les fauteuils roulants électriques et aides à la mobilité conformes à nos réglementations sont acceptés. (Ajouter le lien)  
+Valises intelligentes dont la batterie lithium n’a pas été retirée. Si retirée, la batterie (max 100Wh) doit être transportée en cabine.
+
+**Autres articles interdits** 
+
+* Extincteurs (sauf équipement d'urgence autorisé à bord)
+* Briquets/allume-feu avec réservoirs de carburant liquide contenant du carburant non absorbé (à l’exception des types à gaz liquéfié), carburant pour briquet, recharges de briquet
+* Allumettes « strike anywhere »
+* Pétards de Noël
+* Ampoules basse consommation
+* Articles alimentés par moteur à combustion interne
 
 **8.11.2** Les objets interdits par une loi, une réglementation ou une ordonnance d’un pays ou d’un état vers lequel ou à partir duquel votre avion vole.
 
