@@ -267,10 +267,14 @@
     * [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
     * [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/17/2/8544172.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/35/3/8436353.png)
+        
+        LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=vignette_lacoste)
         
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/17/2/8544172.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/35/3/8436353.png)
+
+LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=vignette_lacoste)
 
 * [L’ESPACE BEAUTÉ](https://www.printemps.com/fr/fr/espace-beaute)
     
@@ -441,8 +445,8 @@ CARON](https://www.printemps.com/fr/fr/univers-caron?ap_source=anico&ap_medium=n
 * [NOS MAGASINS](https://www.printemps.com/fr/fr/magasins)
     * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
     * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
-    * [Printemps Deauville](https://www.printemps.com/fr/fr/printemps-deauville)
     * [Printemps Haussmann](https://www.printemps.com/fr/fr/printemps-paris-haussmann)
+    * [Printemps Deauville](https://www.printemps.com/fr/fr/printemps-deauville)
     * [Printemps Grand Var](https://www.printemps.com/fr/fr/printemps-toulon)
     * [Printemps La Valentine](https://www.printemps.com/fr/fr/printemps-marseille-la-valentine)
     * [Printemps Les Terrasses du Port](https://www.printemps.com/fr/fr/printemps-marseille-terrasses-port)
