@@ -84,8 +84,8 @@ Depuis le Portugal au 0800 60 00 45 (numéro gratuit) du lundi au vendredi de 9
   
 Afin d'optimiser le traitement de vos demandes, pensez à indiquer dans toutes vos correspondances, quel que soit le canal utilisé : vos nom, prénom, email avec lequel vous avez passé votre commande et le numéro de la commande concernée.                    
 
-_Article 1 : CHAMP D'APPLICATION_
----------------------------------
+_ARTICLE 15 :  Litige, médiation et droit applicable_
+-----------------------------------------------------
 
 **1.1 Champ d’application**
 
@@ -248,8 +248,8 @@ A ce titre, CDISCOUNT se réserve le droit de ne pas valider la commande, d’en
 
 Nonobstant ce qui précède, CDISCOUNT se réserve le droit d’engager toute action de recouvrement à l’encontre du client ayant bénéficié à tort et/ou via des manœuvres frauduleuses, de remises promotionnelles, afin de recouvrer les sommes indument perçues sur le fondement de l’article 1302-1 du code civil. 
 
-_ARTICLE 9 : GARANTIES_ 
-------------------------
+_ARTICLE 15 :  Litige, médiation et droit applicable_
+-----------------------------------------------------
 
  **4.1. Modes de paiement**  Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :  
    
@@ -344,8 +344,8 @@ Vous êtes informé de la collecte de ces informations dès votre première conn
   
 Vous pouvez retirer votre consentement à la collecte de cet identifiant à tout moment en cliquant sur l'onglet "Gérer mes cookies" présent sur la page d'information "Protection de la vie privée et cookies" et en désactivant les cookies "Analytique et Personnalisation". Pour en savoir +, [cliquez ici](https://www.cdiscount.com/vie-privee-et-cookies.html). 
 
-_ARTICLE 9 : GARANTIES_ 
-------------------------
+_ARTICLE 15 :  Litige, médiation et droit applicable_
+-----------------------------------------------------
 
 **CDISCOUNT peut vous proposer, au moment de la passation de votre commande, différents modes de livraison en fonction notamment de la taille de votre colis et de votre adresse de livraison.** CDISCOUNT n'assure pas de livraison à destination : des bases militaires, des armées, des casernes.  
   
@@ -470,7 +470,7 @@ Lorsque vous sélectionnez ce mode de livraison, vous êtes informé du fait que
 
 Votre colis vous sera alors remis en main propre. Pour le retirer, pensez à vous munir d’une pièce d’identité. En cas d’empêchement, une personne de votre choix pourra retirer votre colis sous réserve de présenter votre pièce d’identité ainsi que la sienne.
 
-Pour faciliter le chargement dans votre véhicule, un matériel de manutention pourra être mis à votre disposition (selon disponibilit��). Nous vous invitons à bien vérifier que votre véhicule peut accueillir votre colis. Vous trouverez les caractéristiques de votre colis sur la fiche produit.
+Pour faciliter le chargement dans votre véhicule, un matériel de manutention pourra être mis à votre disposition (selon disponibilité). Nous vous invitons à bien vérifier que votre véhicule peut accueillir votre colis. Vous trouverez les caractéristiques de votre colis sur la fiche produit.
 
 Nous vous invitons à vérifier l’état de l’emballage de votre colis avant de l’accepter en apposant votre signature sur le bordereau de livraison papier ou électronique. Vous n’êtes pas autorisé à déballer le produit sur le point retrait. Si vous constatez des avaries sur l’emballage, mais que vous souhaitez malgré tout récupérer le colis, nous vous invitons à formuler des réserves précises sur le bordereau de livraison.
 
@@ -730,8 +730,8 @@ CDISCOUNT procédera à votre remboursement via le même moyen de paiement que c
 
 Ainsi, si vous avez payé votre commande à l’aide d’une carte bancaire (au comptant ou en 4x) CDISCOUNT procédera à votre remboursement par recrédit sur votre carte bancaire.
 
-_ARTICLE 9 : GARANTIES_ 
-------------------------
+_ARTICLE 15 :  Litige, médiation et droit applicable_
+-----------------------------------------------------
 
 **9.1 Les Garanties Légales**
 
@@ -1007,8 +1007,8 @@ _Article 14 : CODE DE BONNE CONDUITE_
 CDISCOUNT adhère au Code Déontologique de la Fevad (Fédération du e-commerce et de la vente à distance).  
 Pour en savoir plus, rendez-vous sur le site de la FEVAD en [cliquant ici.](https://www.fevad.com/)
 
-_ARTICLE 9 : GARANTIES_ 
-------------------------
+_ARTICLE 15 :  Litige, médiation et droit applicable_
+-----------------------------------------------------
 
 15.1 Pour toute réclamation, notre Service Client est à votre disposition.  
   
