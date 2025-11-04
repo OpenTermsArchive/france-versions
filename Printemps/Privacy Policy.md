@@ -255,8 +255,6 @@ LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme?ap_source=anico&ap_medium
     * [Produits de coiffage](https://www.printemps.com/fr/fr/produits-de-coiffage)
     * [Appareils électroniques](https://www.printemps.com/fr/fr/fers-lisser)
 
-* [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
-    
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-beaute)
     
 * [HOMME](https://www.printemps.com/fr/fr/beaute-homme)
