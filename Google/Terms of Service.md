@@ -631,3 +631,5 @@ Lorsque vous n'êtes pas connecté à votre compte, la version spécifique au pa
 * E-mails que vous envoyez via Gmail
 * Photos que vous partagez avec vos proches via Photos
 * Voyages que vous partagez avec Google
+
+_close_
