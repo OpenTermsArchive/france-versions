@@ -264,7 +264,7 @@ Par ailleurs, il est interdit de publier une Annonce de Covoiturage pour un Cond
 
 BlaBlaCar vous encourage à laisser un avis sur un Conducteur (si vous êtes Passager) ou un Passager (si vous êtes Conducteur) avec lequel vous avez partagé un Trajet ou avec lequel vous étiez censé partager un Trajet (c’est-à-dire, si vous avez réservé un Trajet). En revanche, vous n’êtes pas autorisé à laisser un avis sur un autre Passager, si vous étiez vous-même Passager, ni sur un Membre avec lequel vous n’avez pas voyagé ou avec lequel vous n’étiez pas censé voyager.
 
-Votre avis, ainsi que celui laissé par un autre Membre à votre égard, le cas échéant, ne sont visibles et publiés sur la Plateforme qu’après le plus court des délais suivants : (i) immédiatement après que vous avez, tous les deux, laissé un avis ou (ii) passé un délai de 14 jours après le premier avis laissé.
+Votre avis, ainsi que celui laissé par un autre Membre à votre égard, le cas échéant, ne sont visibles et publiés sur la Plateforme qu’après le plus court des délais suivants : (i) immédiatement après que vous ayez, tous les deux, laissé un avis ou (ii) passé un délai de 14 jours après le premier avis laissé.
 
 Vous avez la possibilité de répondre à un avis qu’un autre Membre a laissé sur votre profil dans un délai maximum de 14 jours suivant la publication de l’avis laissé à votre égard. L’avis et votre réponse, le cas échéant, seront publiés sur votre profil.
 
