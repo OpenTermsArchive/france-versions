@@ -9,7 +9,7 @@
 
 * [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
-    * [Sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
+    * Sacs
     * [Chaussures](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Chaussures)
     * [Robes](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Robes)
     * [Accessoires](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Accessoires)
