@@ -181,7 +181,7 @@ L’application d’une quelconque garantie est exclue en cas d’utilisation ou
 
 ### ARTICLE 8 – MODALITES DE LIVRAISON
 
-Le Vendeur acceptera seulement les commandes avec livraison sur le territoire italien ou sur ceux des Etats indiqués sur le Site. La livraison des produits sera assurée par livreur express à l’adresse indiquée par le Client au moment de la commande. L’expédition aura lieu en moyenne en 3/4 jours ouvrés étant entendu que le délai maximal prévu par la loi est de 30 jours à la date de réception de la part du Client de l’e-mail de confirmation d’expédition de la commande.
+Le Vendeur acceptera seulement les commandes avec livraison sur le territoire italien ou sur ceux des Etats indiqués sur le Site. La livraison des produits sera assurée par livreur express à l’adresse indiquée par le Client au moment de la commande. L’expédition aura lieu en moyenne en 2/5 jours ouvrés étant entendu que le délai maximal prévu par la loi est de 30 jours à la date de réception de la part du Client de l’e-mail de confirmation d’expédition de la commande.
 
 ### ARTICLE 9 – RESPONSABILITES
 
