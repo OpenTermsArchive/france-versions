@@ -1,5 +1,31 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
+* [NOS IDEES CADEAUX](https://www.printemps.com/fr/fr/idees-cadeaux-noel)
+    * [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
+    * [Pour lui](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
+    * [Beauté](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
+* PAR PRIX
+    * [Moins de 100€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/0/100)
+    * [Entre 100€ et 200€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/100/200)
+    * [Entre 200€ et 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/200/300)
+    * [Plus de 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/300/1000)
+* [La carte cadeau](https://cartescadeaux.printemps.com/)
+    
+
+* [TENUES DE FÊTES](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
+    * [Femme](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
+    * [Homme](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
+    * [Mise en beauté](https://www.printemps.com/fr/fr/maquillage)
+* [LES CALENDRIER DE L'AVENT](https://www.printemps.com/fr/fr/calendrier-noel)
+    
+* [LES COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
+    
+
+*  [![Image d'illustration](https://media-cdn.printemps.com/image/68/5/8629685.jpg)](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
+    
+
+ [![Image d'illustration](https://media-cdn.printemps.com/image/68/5/8629685.jpg)](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
+
 * [COLLECTION AUTOMNE-HIVER](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
     
 * [COLLECTION PRINTEMPS-ÉTÉ](https://www.printemps.com/fr/fr/collection-printemps-ete)
@@ -114,6 +140,8 @@
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
     * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
 
+* [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
+    
 * [LUXE ET CRÉATEURS](https://www.printemps.com/fr/fr/luxe-et-createurs-femme)
     
 * [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-femme)
@@ -139,7 +167,10 @@
     * [Prada](https://www.printemps.com/fr/fr/prada-femme)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Guess](https://www.printemps.com/fr/fr/guess-femme)
-    * 
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/68/5/8629685.jpg)](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
+        
+
+ [![Image d'illustration](https://media-cdn.printemps.com/image/68/5/8629685.jpg)](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -191,6 +222,8 @@
     * [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
+* [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
+    
 * [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-homme)
     
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme)
@@ -255,6 +288,8 @@ LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme?ap_source=anico&ap_medium
     * [Produits de coiffage](https://www.printemps.com/fr/fr/produits-de-coiffage)
     * [Appareils électroniques](https://www.printemps.com/fr/fr/fers-lisser)
 
+* [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
+    
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-beaute)
     
 * [HOMME](https://www.printemps.com/fr/fr/beaute-homme)
