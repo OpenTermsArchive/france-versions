@@ -218,55 +218,41 @@ Article 3. Billets
 
 **1.** **Dispositions générales**
 
-(a) Air Europa ne transportera que le passager dont le nom figure sur le billet, auquel il peut être demandé de présenter l'identification correspondante (carte nationale d'identité, passeport ou équivalent).
-
-(b) Le billet est non cessible.
-
-(c) Certains billets sont vendus à des prix avec des remises, qui peuvent être partiellement ou totalement non remboursables. De même, certains billets n'incluent pas de franchise pour le transport de bagages enregistrés.
-
-d) Si, par un cas de force majeure, dans les termes visés à l'Article 1, un passager ayant un billet répondant aux caractéristiques décrites dans la section (c) et n'ayant pas été utilisé ni totalement ni partiellement se retrouve dans l'impossibilité d'effectuer son voyage, Air Europa devra le transporter à bord de l'un de ses futurs vols, à condition que le passager prévienne immédiatement Air Europa et fournisse les preuves justifiant cette force majeure.
-
-(e) Le billet demeure à tout moment la propriété du transporteur qui l'émet.
-
-(f) Sauf dans le cas d'un billet électronique, les passagers ont le droit d'être transportés sur un vol uniquement s'ils présentent un billet valable comprenant le coupon de vol pour ce vol et les autres coupons de vol et le coupon passager non utilisés. En outre, les passagers n'ont pas le droit d'être transportés si le billet est détérioré ou modifié par une personne autre qu'Air Europa ou un agent agréé. Dans le cas d'un billet électronique, les passagers ont le droit d'être transportés sur un vol uniquement s'ils présentent une identification fiable et si un billet électronique valable a été dûment délivré en leur nom.
-
-g) En cas de perte ou de détérioration d'un billet (ou d'une partie de celui-ci) par le passager ou de défaut de présentation d'un billet contenant le coupon passager et tous les coupons de vol non utilisés, Air Europa, à la demande du passager, remplacera ce billet (ou une partie de celui-ci) en émettant un nouveau billet, à condition qu'il existe des preuves, présentées en temps voulu, qu'un billet valable pour le ou les vols concernés a été dûment émis et à condition que le passager signe un accord par lequel il s'engage à rembourser à Air Europa tous les coûts et pertes supportés par Air Europa ou un transporteur à hauteur de la valeur du billet original en raison de la mauvaise utilisation du billet. Si ces pertes sont causées par une négligence imputable à Air Europa, celle-ci n'a pas le droit de réclamer aux passagers un remboursement à ce titre. Le transporteur qui émet le billet peut percevoir une commission raisonnable pour ce service au titre des frais administratifs, sauf si la perte ou la détérioration est due à une négligence de sa part ou de son agent.
-
-(h) Lorsque ces preuves ne sont pas disponibles ou que le passager ne signe pas un tel accord, pour procéder au remplacement du billet le transporteur qui l'émet peut demander au passager de payer le prix total du billet, le droit de remboursement de ce paiement pouvant être invoqué une fois que le transporteur qui a émis le billet original obtient la preuve que le billet perdu ou détérioré n'a pas été utilisé avant l'expiration de sa validité ou si le passager retrouve le billet original avant l'expiration de sa validité.
-
-(i) Un billet est un objet de valeur et le passager doit prendre les mesures appropriées pour le conserver et s'assurer qu'il ne sera pas perdu ou volé.
-
-(j) Si le passager bénéficie d'un tarif réduit ou de conditions spéciales pour son voyage, il doit être en mesure de démontrer ces conditions ou les motifs de l'attribution de cette remise à tout moment du voyage.
+**(a)** Air Europa ne transportera que le passager dont le nom figure sur le billet, lequel pourra être tenu de présenter une pièce d’identité correspondante (carte nationale d’identité, passeport ou équivalent).  
+  
+**(b)** Le billet est intransmissible.  
+  
+**(c)** Certains billets sont vendus à des tarifs réduits, pouvant être partiellement ou totalement non remboursables. De même, certains billets n’incluent pas de franchise de bagages enregistrés.  
+  
+**(d)** Le billet demeure en tout temps la propriété du transporteur qui l’a émis.  
+  
+**(e)** Sauf en cas de billet électronique, le passager n’a pas droit au transport s’il ne présente pas un billet valide comportant le coupon de vol correspondant et tous les autres coupons de vol non utilisés ainsi que le coupon passager. De plus, le passager n’a pas droit au transport si le billet est endommagé ou a été modifié par une personne autre qu’Air Europa ou un agent autorisé. Dans le cas d’un billet électronique, le passager doit présenter une pièce d’identité valide, et un billet électronique dûment émis à son nom.  
+  
+**(f)** En cas de perte ou de détérioration du billet (ou d’une partie de celui-ci), Air Europa remplacera le billet à la demande du passager, à condition qu’une preuve suffisante soit fournie dans un délai raisonnable et que le passager signe un accord de remboursement des coûts ou pertes raisonnables subis en raison d’une mauvaise utilisation du billet d’origine. Si ces pertes résultent d’une négligence d’Air Europa, aucun remboursement ne sera exigé. Le transporteur peut facturer des frais administratifs raisonnables, sauf si la perte ou la détérioration résulte de sa propre négligence ou de celle de son agent.  
+  
+**(g)** En l’absence de preuve ou si le passager refuse de signer l’accord, le transporteur peut exiger le paiement intégral du billet avant d’émettre un duplicata, avec possibilité de remboursement si le billet original n’a pas été utilisé avant la fin de sa validité ou s’il est retrouvé avant cette date.  
+  
+**(h)** Un billet est un document de valeur et le passager doit le conserver soigneusement pour éviter toute perte ou vol.  
+  
+**(i)** Si le passager voyage à un tarif réduit ou dans des conditions spéciales, il doit pouvoir en justifier à tout moment du voyage.  
+ 
 
 **2.** **Durée de validité**
 
-a) À l'exception du cas où, le billet, dans ces conditions de transport ou dans les tarifs, tel que défini à l'Article 1, inclut une clause qui peut limiter la validité d'un billet (auquel cas la limitation doit figurer sur le billet), un billet est valable pendant :
-
-  (i) Un an à compter de la date d'émission, ou
-
-  (II) Si le premier voyage survient dans un délai d'un an à compter de la date d'émission, un an à compter de la date du premier voyage indiqué sur le billet.
-
-b) Lorsque le passager se trouve empêché de voyager pendant la durée de validité de son billet parce qu'Air Europa, au moment de la réservation, n'est pas en mesure de la confirmer, la durée de validité de ce billet sera prolongée ou le passager aura le droit de demander le remboursement conformément à l'Article 10.
-
-(c) Une fois le voyage souscrit, si le passager se trouve empêché de le commencer ou de le poursuivre pendant la durée de validité du billet à la suite d'une hospitalisation ou d'une maladie qui implique une impossibilité de voyager en avion, nous pouvons prolonger la durée de validité du billet jusqu'à la date à laquelle le passager est en mesure de voyager, ou jusqu'à notre premier vol après de cette date, depuis le point où le passager reprend le voyage à la place disponible dans la classe ou le service qu'il a payé. Le passager doit présenter un certificat d'hospitalisation ou un certificat médical attestant l'impossibilité de voler à la date du vol avec une marge de 3 jours maximums avant ou après le vol. La validité de ce billet peut être prolongée jusqu'à 45 jours à compter de la date du vol initial, permettant un nouveau délai de 45 jours à condition qu'un nouveau certificat mis à jour soit présenté. 
-
-Ce changement est effectué dans la même classe souscrite ; si elle n'est pas disponible, la différence correspondante doit être versée. Dans ces circonstances, nous étendrons également la durée de validité des billets des autres membres de la famille directe qui accompagnent le voyageur.  
-
-(d) En cas de décès d'un passager pendant le trajet, les billets des personnes accompagnant le voyageur décédé peuvent être modifiés en cessant d'appliquer la clause de séjour minimal ou en étendant sa validité. En cas de décès d'un membre de la famille directe d'un passager qui a commencé le voyage, la validité du billet du passager et des proches directs qui l'accompagnent peut également être modifiée. En cas de décès, le délai est porté à 20 jours maximum entre le décès et le jour du vol. 
-
-(e) Pour bénéficier des modifications visées aux points (c) et (d) ci-dessus, il est nécessaire de présenter un certificat d'hospitalisation, un certificat médical ou un certificat de décès valables et l'extension de la validité du billet ne doit pas dépasser quarante-cinq (45) jours à compter de la date du vol initial. 
+**(a)** Sauf si le billet, les présentes conditions de transport ou les tarifs tels que définis à l’article 1 contiennent une clause limitant la validité d’un billet (dans ce cas, cette limitation doit être indiquée sur le billet), un billet est valable pendant :  
+   (i) Un an à compter de la date d’émission, ou  
+   (ii) Sous réserve que le premier voyage ait lieu dans l’année suivant la date d’émission, un an à    compter de la date du premier voyage indiquée sur le billet.  
+ 
 
 **3.** **Séquence et utilisation du coupon**
 
-(a) Le billet que vous avez acheté n'est valable que pour le trajet qui y est indiqué, avec le même point de départ et de destination finale, et y compris les possibles escales qui peuvent avoir été définies. Le montant payé est basé sur le tarif d'Air Europa et couvre le trajet indiqué sur le billet. Le billet fait partie du Contrat de Transport passé entre Air Europa et le passager.
+**(a)** Le billet que vous avez acheté n’est valable que pour le transport qui y est indiqué, du lieu de départ jusqu’à la destination finale, avec les escales intermédiaires éventuellement convenues. Le montant payé est basé sur le tarif d’Air Europa et couvre uniquement le transport spécifié sur le billet. Le billet fait partie du Contrat de transport entre Air Europa et le passager.
 
-(b) Si le passager souhaite modifier un aspect du transport, il doit préalablement contacter Air Europa. Le tarif pour le nouveau transport sera ainsi calculé et le passager aura la possibilité d'accepter le nouveau montant ou de maintenir le transport initial tel qu'il figure sur le billet.
+**(b)** Le passager doit savoir que, si certains types de modifications n’entraînent pas de changement de tarif, d’autres, comme la modification du point de départ (par exemple, si le premier segment/coupon n’est pas utilisé) ou l’inversion du sens du voyage, peuvent entraîner une augmentation du prix. De nombreux tarifs ne sont valables qu’aux dates et pour les vols indiqués sur le billet et ne peuvent en aucun cas être modifiés ; si des modifications sont effectuées, un supplément devra être payé.
 
-(c) Le passager doit être conscient que, alors que certains taux de modification ne se traduiront pas par un changement de tarif, d'autres, comme le changement du point de départ (par exemple, si le premier segment/coupon n'a pas été utilisé) ou l'inversion de la direction du voyage peuvent se traduire par une hausse du prix. De nombreux tarifs ne sont valables que pour les dates et les vols indiqués sur le billet et ne peuvent en aucun cas être modifiés ; en cas de modification, un montant supplémentaire est dû.
+**(c)** Chaque coupon de vol inclus dans le billet du passager sera accepté pour le transport dans la classe de service, à la date et sur le vol pour lequel la réservation a été effectuée. Lorsqu’un billet a été émis sans réservation spécifique, une place peut être réservée selon notre tarif et sous réserve de disponibilité sur le vol demandé.
 
-(d) Chaque coupon de vol inclus dans le billet du passager est accepté pour le transport dans la classe de service, à la date et au vol pour lequel la place a été réservée. Lorsqu'un billet a été émis à l'origine sans spécifier la réservation, la place peut être réservée selon notre tarif et en fonction de la disponibilité des places sur le vol demandé.
-
-(e) Si le passager ne prend pas le vol aller, Air Europa lui serait reconnaissant de l'informer de son intention ou non de prendre le vol retour, ou autres réservations à venir, afin d'assurer la meilleure gestion possible des sièges. Si le passager ne communique pas ces informations, cela n'aura pas de conséquences sur sa réservation.
+**(d)** Si le passager n’utilise pas le vol aller, Air Europa apprécierait d’être informée quant à l’utilisation ou non du vol retour ou des réservations ultérieures, afin de mieux gérer la disponibilité des sièges. L’absence d’information n’aura aucune conséquence sur la réservation du passager.
 
 **4.** **Nom et adresse**
 
@@ -278,9 +264,10 @@ Article 4. Tarifs, frais, redevances et taxes
 
 **1.** **Prix du billet**
 
-Le prix ne s'applique qu'au transport de l'aéroport au point d'origine à l'aéroport au point de destination, sauf indication contraire. Le prix inclut le transport de bagages enregistrés uniquement si le tarif inclut la franchise, auquel cas les conditions de celle-ci s'appliquent. Le prix ne comprend pas le service de transport au sol entre aéroports et terminaux dans la ville. Le prix est calculé sur la base des tarifs en vigueur à la date de paiement du billet pour voyager aux dates et selon l'itinéraire indiqué sur le billet. Si le passager change l'itinéraire ou les dates du voyage, cela peut avoir une incidence sur le prix à payer pour le billet.
+Le prix ne s'applique qu'au transport de l'aéroport au point d'origine à l'aéroport au point de destination, sauf indication contraire. Le prix inclut le transport de bagages enregistrés uniquement si le tarif inclut la franchise, auquel cas les conditions de celle-ci s'appliquent. Le prix ne comprend pas le service de transport au sol entre aéroports et terminaux dans la ville. Le prix est calculé sur la base des tarifs en vigueur à la date de paiement du billet pour voyager aux dates et selon l'itinéraire indiqué sur le billet. **Si le passager change l'itinéraire ou les dates du voyage, cela peut avoir une incidence sur le prix à payer pour le billet.**  
+ 
 
-**2.** **Itinéraire**
+**2. Itinéraire**
 
 Sauf disposition contraire de notre Contrat de Transport ou d'un autre accord contractuel, le prix du billet ne s'applique qu'aux itinéraires connus qui lui sont liés. S'il existe plusieurs itinéraires au même prix, le passager peut préciser lequel il préfère avant l'émission du billet. Si aucun itinéraire n'est spécifié, Air Europa est chargée de le déterminer.
 
@@ -296,11 +283,9 @@ Le prix du billet, les frais, les redevances et les taxes sont payés dans la mo
 
 Article 5. Réservations
 
-**1.** **Exigences concernant la réservation**
-
-(a) Air Europa ou notre Agent Autorisé enregistrent vos réservations. Si vous le demandez, nous vous fournirons une confirmation écrite de votre réservation.
-
-(b) Certains tarifs peuvent avoir des conditions qui limitent ou excluent votre droit de changer ou d'annuler la réservation.
+**1.** **Exigences concernant la réservation**  
+  
+Air Europa ou notre Agent Autorisé enregistrent vos réservations. Si vous le demandez, nous vous fournirons une confirmation écrite de votre réservation.
 
 **2.** **Durée limite d'émission de billet**
 
@@ -504,27 +489,22 @@ Article 9. Horaires, retards et annulation de vols
 
 **1.** **Horaires**
 
-Avant qu'Air Europa n'accepte la réservation à l'avance du passager, celui-ci sera informé des horaires prévus du vol en vigueur au moment de la réservation, et ce sont ces horaires qui figureront sur le billet. Il se peut que la compagnie Air Europa doive, pour des raisons indépendantes de sa volonté, modifier l’horaire de vol prévu après l’émission du billet. Dans ce cas, la compagnie aérienne sera responsable d’informer de ces changements la personne de contact renseignée sur la réservation. Si ce changement est significatif dans l'heure de vol programmée, Air Europa offrira les options suivantes au choix du passager :
-
-i) un vol de remplacement acceptable ; ou
-
-ii) le remboursement du billet, sans préjudice d'autres droits pouvant s'appliquer, le cas échéant, conformément à la législation applicable.
+Avant qu'Air Europa n'accepte la réservation à l'avance du passager, celui-ci sera informé des horaires prévus du vol en vigueur au moment de la réservation, et ce sont ces horaires qui figureront sur le billet. Il se peut que la compagnie Air Europa doive, pour des raisons indépendantes de sa volonté, modifier l’horaire de vol prévu après l’émission du billet. Dans ce cas, la compagnie aérienne sera responsable d’informer de ces changements la personne de contact renseignée sur la réservation.
 
 **2.** **Annulation, changement d'itinéraire, retards**
 
-Si le transport est effectué selon un accord d'affrètement, les présentes Conditions de Transport s'appliquent selon les termes indiqués, par référence ou de toute autre manière, dans l'accord d'affrètement ou sur le billet.
+Si le transport est effectué selon un contrat de charter, les présentes Conditions de Transport s’appliquent selon les termes indiqués, par référence ou autrement, dans le contrat de charter ou sur le billet.
 
-(a) Air Europa prend toutes les mesures nécessaires pour éviter les retards dans le transport des passagers et des bagages. Dans l'application de ces mesures et afin d'empêcher l'annulation d'un vol, Air Europa peut, dans des circonstances exceptionnelles, prévoir qu'un vol soit exploité en son nom par un transporteur, conformément aux dispositions de l'Article 1, ou fournir d'autres moyens de transport.
+   (a) Air Europa prendra toutes les mesures nécessaires pour éviter les retards dans le transport des passagers et des bagages. Dans la mise en œuvre de ces mesures et afin d’éviter l’annulation d’un vol, dans des circonstances exceptionnelles, Air Europa peut prévoir qu’un vol soit opéré en son nom par un transporteur, conformément aux termes de l’Article 1, ou fournir d’autres moyens de transport.  
+  
+    (b) Sans préjudice des dispositions de la législation applicable, si Air Europa annule un vol, laisse des passagers aux escales ou à destination, ou est responsable du fait que des passagers manquent un vol de correspondance pour lequel ils avaient une réservation confirmée dans le cadre d’un seul Contrat de Transport, Air Europa, au choix des passagers :  
+  
+   (i) transportera les passagers dès que possible sur un autre vol régulier d’Air Europa disposant de places libres, sans frais supplémentaires et, si nécessaire, en prolongeant la validité du billet ; ou  
+   (ii) dans un délai raisonnable, modifiera l’itinéraire des passagers jusqu’à la destination indiquée sur leur billet par transport aérien d’Air Europa ou d’un transporteur tel que défini à l’Article 1, ou par un autre moyen et classe de transport convenus mutuellement, sans frais supplémentaires. Si le prix du billet et les taxes de l’itinéraire modifié sont inférieurs à la valeur de remboursement du billet ou de la partie applicable, la différence sera remboursée ; ou 
 
-(b) Sans préjudice de la loi applicable, si Air Europa annule un vol, n'effectue pas le vol raisonnablement selon l'horaire, ne laisse pas les passagers aux lieux d'escale ou de destination, ou est responsable de la perte d'un vol de correspondance pour lequel ils avaient une réservation confirmée par un contrat unique de transport, Air Europa, au choix des passagers, sera tenue de :
-
-(i) transporter les passagers, à la première occasion, sur un autre vol programmé d'Air Europa, où des places sont disponibles, sans frais supplémentaires et, si nécessaire, en étendant la validité du billet ; ou
-
-(ii) dans un délai raisonnable, modifier l'itinéraire des passagers jusqu'à la destination indiquée sur leur billet par transport aérien d'Air Europa ou d'un transporteur, tel que défini à l'Article 1, ou par d'autres moyens et types de transport mutuellement convenus, sans frais supplémentaires. Si le prix du billet et les frais de voyage modifiés sont inférieurs à la valeur de remboursement du billet ou à la partie du billet applicable, nous rembourserons la différence ; ou
-
-(iii) nous procéderons au remboursement conformément à l'Article 10/2.
-
-(c) Conformément à la législation applicable, en particulier au Règlement 261/2004, en cas d'annulation ou de retard de son vol supérieur à deux heures, le passager peut demander au comptoir d'enregistrement ou à la porte d'embarquement le texte indiquant ses droits.
+   (iii) procédera au remboursement conformément à l’Article 10.  
+  
+   (c) Conformément à la législation applicable, en particulier le règlement 261/2004, en cas d’annulation ou de retard de votre vol supérieur à deux heures, le passager peut demander au comptoir d’enregistrement ou à la porte d’embarquement le document indiquant ses droits.
 
 **3.** **Refus d'embarquement**
 
@@ -536,41 +516,85 @@ Article 10. Remboursements
 
 **1.** **Conditions générales**
 
-Air Europa rembourse tout billet ou partie de billet non utilisé conformément aux règles de prix ou aux tarifs applicables, comme suit :
+Sauf disposition expresse figurant dans les conditions particulières du Tarif, reconnaissance de ce droit par la Loi applicable ou existence de l’un des cas détaillés dans cet article, le Billet n’est pas remboursable.  
+  
+a. Si Air Europa annule un vol ou est responsable de ce qu’un passager manque un vol de correspondance pour lequel il avait une réservation dans le cadre d’un Contrat de Transport unique, un remboursement pourra être demandé pour la ou les parties inutilisées du Billet.  
+  
+b. Dans le cas où Air Europa reconnaît qu’un remboursement du Billet est dû, ce remboursement s’effectuera selon les conditions suivantes :  
+  
+   i. Le remboursement ne pourra être effectué que s’il existe préalablement une demande de remboursement de la part du Passager, d’un membre direct de la famille du Passager en cas de décès ou de l’Agent autorisé.  
+  
+   ii. Le remboursement sera effectué par le même moyen de paiement utilisé pour l’achat du Billet. Cela implique que le remboursement sera effectué à la personne qui a effectué le paiement, même si ce n’est pas le Passager. Si le Passager souhaite que le paiement soit effectué par un moyen de paiement différent de celui utilisé pour l’achat du Billet, et que cela implique que le bénéficiaire du remboursement soit une personne différente de l’acheteur, une autorisation formelle devra être fournie.
 
-(a) Sauf dans les cas prévus dans le présent Article, Air Europa doit rembourser la personne dont le nom figure sur le billet ou la personne qui l'a payé contre la présentation d'une preuve satisfaisante de ce paiement ;
+  
+   iii. Si le Billet a été acquis par l’intermédiaire d’un Agent autorisé, le remboursement sera effectué à cet Agent autorisé.  
+  
+   iv. Si au moment de la demande de remboursement aucune partie du Billet n’a été utilisée, le remboursement sera d’un montant égal au prix d’achat du Billet. Si une partie du Billet a été utilisée, le remboursement sera d’un montant égal au prix des parties du Billet non utilisées.  
+  
+   v. Une fois que la demande de remboursement est acceptée par le Transporteur, le passager perdra le droit d’être transporté et le Transporteur pourra lui refuser l’embarquement.  
+  
+   vi. Le remboursement sera effectué dans la même devise utilisée pour le paiement du Billet. Si des circonstances justifiées empêchent le paiement dans la même devise, ce remboursement sera effectué au(x) taux de change et selon les conditions établies par Air Europa.  
+  
+   vii. Une fois le remboursement effectué dans les conditions spécifiées aux paragraphes précédents, le Transporteur sera exonéré de toute responsabilité relative au remboursement.  
+  
+c. Les passagers ont droit au remboursement des taxes aéroportuaires correspondantes à la partie du Billet non utilisée. Toutefois, ce droit pourra être refusé si les taxes imposées par les gouvernements, les autorités aéroportuaires ou les exploitants ont été payées avant la demande de remboursement ou que le Transporteur est dans l’obligation de les payer.  
+  
+d. Sous réserve de la Loi applicable dans chaque territoire, Air Europa pourra offrir au Passager, en alternative au remboursement, un changement de date pour la réalisation du Vol ou l’émission d’un Bon.  
+  
+e. Le frais d’émission du Billet n’est pas remboursable, même si le tarif du billet permet le remboursement. Ce frais n’est remboursable que dans le cas où c’est le Transporteur qui effectue des modifications ou annulations du vol.  
+  
+f. Tout remboursement, y compris celui des taxes aéroportuaires visées au point c), sauf s’il s’agit d’un remboursement involontaire ou de tout autre remboursement auquel le Transporteur est obligé en vertu de causes expressément établies par la législation en vigueur, fera l’objet d’un frais de remboursement, dont le montant sera communiqué au passager par Air Europa ou ses Agents Autorisés.  
+  
+g. Les services additionnels, tels que la réservation de siège, les bagages, etc., ne sont pas remboursables s’ils ne sont pas utilisés, sauf s’il s’agit d’un remboursement involontaire dû à un changement ou à une annulation de vol par le Transporteur.  
+ 
 
-(b) Si un billet a été payé par une personne autre que celle dont le nom figure sur le billet et si le billet indique qu'il existe une limitation pour le remboursement, nous ne rembourserons que la personne qui a payé le billet ou à l'ordre de cette personne ;
+**2\. Remboursement en cas de Décès, Hospitalisation ou Maladie**  
+  
+**a. Hospitalisation ou Maladie**
 
-(c) Sauf en cas de perte du billet, les remboursements sont soumis à la présentation à Air Europa du coupon passager et de tous les coupons de vol non utilisés ;
+Si, après la réservation du voyage, le Passager est dans l’impossibilité de commencer le voyage ou de le poursuivre pendant la période de validité du Billet en raison d’une hospitalisation ou d’une maladie rendant le voyage en avion impossible, Air Europa pourra prolonger la validité du Billet.  
+L’hospitalisation d’un membre de la famille du passager ou d’un tiers **ne sera pas acceptée** comme motif d’empêchement de voyager.
 
-(d) Si un remboursement est effectué à une personne présentant un coupon passager et tous les coupons de vol non utilisés conformément aux dispositions des paragraphes a) ou b) ci-dessus, le remboursement est considéré comme un approprié et Air Europa sera exonérée de toute responsabilité et de toute réclamation ultérieure de remboursement.
+Dans ce cas, le Passager disposera d’un délai de 45 jours à compter de la date du vol concerné pour utiliser le nouveau vol, ce délai pouvant être prolongé d’une nouvelle période de 45 jours si l’hospitalisation ou la maladie persistent.
 
-(e) Les passagers auront droit au remboursement des taxes imposées par les gouvernements ou autres autorités ou exploitants de l'aéroport correspondant à la partie du billet non utilisé , sauf si celles-ci ont déjà été réglées ou doivent être réglées, malgré la non-utilisation ou usage, auxdits gouvernements, autorités ou exploitants de l'aéroport. Les remboursements ne seront effectués qu'à la demande des passagers par le transporteur qui a initialement émis le billet ou par son agent, s'il est autorisé à le faire.
+Si, après l’extension de la validité du Billet, il n’existe plus de places disponibles dans la même Classe Tarifaire que celle du Billet original, le Passager devra régler la différence entre les deux tarifs.
 
-(f) Tout remboursement, y compris celui des taxes visées au paragraphe e), sauf en cas de remboursement involontaire ou de tout autre remboursement pour des causes expressément prévues dans la législation en vigueur, sera soumis au règlement de frais dont le montant sera mis à la disposition du passager par Air Europa ou ses Agents Autorisés.
+Cette prolongation de la validité du Billet s’applique également aux autres Passagers inclus dans la même Réservation confirmée que le Passager malade ou hospitalisé.
 
-(g) Air Europa, sous réserve de la législation applicable sur chaque territoire, peut proposer au passager, en remplacement du remboursement, le changement de réservation du billet ou l'émission d'un bon ou d'un avoir, notamment lorsque le droit à remboursement résulte de circonstances exceptionnelles indépendantes du contrôle de la compagnie telles qu'un cas fortuit ou de force majeure.
+Pour pouvoir prolonger la validité du Billet, le Passager doit signaler ces circonstances **avant le départ du vol** et présenter un certificat d’hospitalisation ou un certificat médical indiquant uniquement l’impossibilité de voyager en avion, sans mentionner la nature de la maladie.
 
-**2.** **Remboursements involontaires**
+En aucun cas le remboursement du prix du Billet ne sera autorisé en cas d’hospitalisation ou de maladie. Toutefois, pour les vols ayant pour origine ou destination les États-Unis, le Transporteur pourra offrir au Passager un **bon non remboursable**.
 
-Si Air Europa annule un vol, n'effectue pas le vol raisonnablement selon l'horaire programmé, ne laisse pas les passagers dans les lieux d'escale ou de destination, ou est responsable de la perte d'un vol de correspondance pour lequel il avait une réservation confirmée par un contrat unique de transport, le montant du remboursement est :
+Les services additionnels éventuellement réservés ne seront également remboursables en aucun cas. Cependant, en cas de changement de date du vol, il sera possible, sous réserve de disponibilité, d’adapter la date du service additionnel à la nouvelle réservation.  
+ 
 
-(a) Si aucune partie du billet n'a été utilisée, un montant égal au prix du billet payé ;
+**b. Décès**  
+  
+En cas de décès du Passager ou de l’un des membres de sa famille suivants : conjoint, parents, enfants et/ou frères et sœurs, dans les 15 jours précédant le vol, le Transporteur pourra prolonger la validité du Billet de 45 jours à compter de la date du vol concerné afin de choisir une nouvelle date de voyage, émettre un **bon non remboursable** ou rembourser le prix du Billet selon les conditions prévues dans cet article.
 
-(b) Si une partie du billet a été utilisée, un montant au moins égale à la différence entre le prix du billet payé et le prix applicable pour le voyage entre les points pour lesquels le billet a été utilisé. Sauf si le vol n'a plus de raison d'être dans le cadre du plan de voyage, auquel cas le montant du prix de billet payé est remboursé.
+Il sera nécessaire de fournir un certificat de décès dans le délai compris entre les 15 jours précédant le vol et les 30 jours suivant la date du vol non utilisé. En cas de décès d’un membre de la famille mentionné ci-dessus, le lien de parenté devra être justifié.
 
-(c) Une fois le voyage souscrit, si le passager se trouve empêché de le commencer ou de le poursuivre à la suite d'un décès, d'une hospitalisation ou d'une maladie qui implique une impossibilité de voyager en avion à la date du vol avec une marge de 3 jours maximums avant ou après le vol (délai porté à 20 jours en cas de décès), il sera possible de rembourser le prix du billet, d'en changer la date conformément aux paragraphes (c) et (d) de l'article 3.2. 
+Si le remboursement du Billet d’un Passager décédé est demandé par une personne n’appartenant pas à la même Réservation confirmée, le Transporteur pourra demander des informations supplémentaires avant de procéder au remboursement et annuler la Réservation confirmée. Sauf preuve d’un droit successoral conformément à la Loi applicable, tout remboursement sera effectué via le même moyen de paiement utilisé pour régler le Billet.
 
-**3.** **Remboursement volontaire**
+**3.** **Droit de refuser le remboursement**
 
-(a) Si les passagers ont droit à un remboursement pour des raisons autres que celles prévues au point 2 du présent Article, le montant du remboursement est :
+Air Europa peut refuser de procéder à un remboursement :
 
-(i) Si aucune partie du billet n'a été utilisée, un montant égal au prix du billet payé, déduction faite de tous les frais de service ou redevances d'annulation raisonnables ;
-
-(ii) Si une partie du billet a été utilisée, un montant égal à la différence entre le prix du billet payé et le prix applicable pour le voyage entre les points pour lesquels le billet a été utilisé, déduction faite de tous les frais de service ou redevances d'annulation raisonnables ;
-
-(b) Les remboursements prévus dans le présent point 3 ne sont pas applicables lorsque des exigences gouvernementales ou des réglementations d'Air Europa les excluent, en connaissance de cause pour les passagers, lorsque le tarif du billet indique qu'il n'est pas possible d'annuler ou de rembourser, ou que le billet indique « NON REMBOURSABLE » ou « NON REFUNDABLE ».
+a. Lorsque la demande est effectuée après l’expiration de la validité du Billet ;  
+  
+b. Pour un Billet présenté à Air Europa ou aux autorités gouvernementales d’un pays comme preuve de l’intention de quitter le territoire de ce pays, sauf si le Passager démontre, à la satisfaction pleine et entière du Transporteur, qu’il est autorisé à rester dans le pays ou qu’il le quittera par le vol d’un Transporteur ou tout autre moyen de transport ;  
+  
+c. Si le Passager n’a pas été admis par les autorités locales à sa destination ou à un point intermédiaire et, par conséquent, a été renvoyé à son point d’embarquement ou à un autre endroit ;  
+  
+d. En cas de Billet contrefait ou si Air Europa constate que le Passager a été usurpé en utilisant son code de réservation ;  
+  
+e. Si le Passager demande un remboursement dans une devise autre que la devise de paiement ;  
+  
+f. Si le Tarif du Billet indique qu’il n’est pas annulable ou remboursable, ou comporte la mention « Non Remboursable » ou « Non Refundable » ;  
+  
+g. Dans les cas prévus aux Articles 11.1 et 11.2 ;  
+  
+h. Si le Passager ne respecte pas les dispositions de l’Art. 13.2.
 
 **4.** **Remboursement de billets perdus ou volés**
 
