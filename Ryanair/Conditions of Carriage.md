@@ -1,4 +1,4 @@
-### Date d’entrée en vigueur : 15 septembre 2025
+### Date d’entrée en vigueur : 7 novembre 2025
 
 Conditions générales de transport
 =================================
@@ -66,7 +66,7 @@ ARTICLE 1 - DÉFINITIONS
 
 **Irlande**
 
-**Date d’entrée en vigueur : 15 septembre 2025**
+**Date d’entrée en vigueur : 7 novembre 2025**
 
 « **Nous** », « **notre** » **et** « **nous-mêmes** » désignent Ryanair DAC, Airside Business Park, Swords, Co Dublin, Ireland.
 
@@ -249,10 +249,9 @@ ARTICLE 6 ENREGISTREMENT ET EMBARQUEMENT
 
 **6.2.1** Pour les vols partant avant le 12 novembre 2025, vous devez effectuer l’enregistrement en ligne sur www.ryanair.com ou dans l’application Ryanair au plus tard 2 heures avant le départ prévu de chaque vol réservé et imprimer une carte d’embarquement sur une seule page A4 ou télécharger une carte d’embarquement numérique sur votre téléphone portable via l’application Ryanair. Les passagers munis d’un billet Plus ou Flexi Plus ayant réservé avant le 14 août 2025 peuvent s’enregistrer gratuitement à l’aéroport. Sauf avis contraire, tous les passagers au départ du Maroc ou de la Turquie doivent présenter une version imprimée de leur carte d’embarquement, car une carte d’embarquement numérique ne sera pas acceptée.
 
-**6.2.2** Pour les vols partant le 12 novembre 2025 ou à une date ultérieure, vous devez effectuer l’enregistrement en ligne sur  www.ryanair.com ou dans l’application Ryanair au plus tard 2 heures avant le départ prévu de chaque vol réservé. Votre carte d’embarquement numérique sera disponible sur votre téléphone portable via l’application Ryanair. Les cartes d’embarquement imprimées ne seront pas acceptées à l’aéroport à partir du 3 novembre 2025. Pour tous les vols au départ du Maroc, vous devez effectuer l’enregistrement en ligne pour recevoir la confirmation d’enregistrement sur votre téléphone portable via l’application Ryanair. Vous devez ensuite présenter cette confirmation et retirer une carte d’embarquement imprimée au comptoir d’enregistrement.
+**6.2.2** Pour les vols partant le 12 novembre 2025 ou à une date ultérieure, vous devez effectuer l'enregistrement en ligne sur www.ryanair.com ou dans l'application Ryanair au plus tard 2 heures avant le départ prévu de chaque vol réservé. Votre carte d'embarquement numérique sera disponible sur votre téléphone portable via l'application Ryanair. Les cartes d'embarquement imprimées ne seront pas acceptées à l'aéroport à partir du 12 novembre 2025. Pour tous les vols au départ du Maroc, vous devez effectuer l'enregistrement en ligne pour recevoir la confirmation d'enregistrement sur votre téléphone portable via l'application Ryanair. Vous devez ensuite présenter cette confirmation et retirer une carte d'embarquement imprimée au comptoir d'enregistrement.
 
-**  
-6.2.3** Si vous avez acheté un siège attribué, l’enregistrement en ligne est ouvert 60 jours avant l’heure de départ prévue. Les clients peuvent se voir attribuer un siège gratuitement s’ils s’enregistrent en ligne entre 24 et 2 heures avant chaque vol réservé. Vous ne pouvez pas vous enregistrer en ligne durant les 2 heures précédant l’heure de départ prévue de votre vol.
+**6.2.3** Si vous avez acheté un siège attribué, l’enregistrement en ligne est ouvert 60 jours avant l’heure de départ prévue. Les clients peuvent se voir attribuer un siège gratuitement s’ils s’enregistrent en ligne entre 24 et 2 heures avant chaque vol réservé. Vous ne pouvez pas vous enregistrer en ligne durant les 2 heures précédant l’heure de départ prévue de votre vol.
 
 **6.2.4** Si vous ne vous enregistrez pas en ligne plus de 2 heures avant l’heure de départ prévue, vous devrez vous acquitter des frais d’enregistrement à l’aéroport figurant dans notre tableau des frais. Si vous avez réservé un billet Plus ou Flexi Plus avant le 14 août 2025, vous pouvez vous enregistrer gratuitement à l’aéroport. Les comptoirs d’enregistrement ferment strictement 40 minutes avant l’heure de départ prévue, sauf avis contraire avant le départ du vol. Si vous ne vous enregistrez pas avant cette heure, l’embarquement peut vous être refusé, et sans remboursement.
 
@@ -298,7 +297,9 @@ iv. fournir votre adresse e-mail personnelle.
 
 **6.2.11** Afin que nous puissions vous joindre directement en cas de besoin, l’adresse e-mail que vous fournirez pendant la vérification remplacera l’adresse e-mail fournie à l’origine par l’Intermédiaire tiers.  
 
-**6.3** Si vous vous êtes enregistré en ligne conformément aux exigences énoncées dans la section 6.2 ci-dessus, mais que vous ne présentez pas de carte d’embarquement valide (voir les sections 6.2.1 et 6.2.2 ci-dessus pour savoir ce qui constitue une carte d’embarquement valide avant et à partir du 3 novembre 2025) au contrôle de sécurité de l’aéroport ou à la porte d’embarquement, et si nous avons le temps de vous délivrer une autre carte d’embarquement, vous devrez vous acquitter des frais de réémission de carte d’embarquement figurant dans notre tableau des frais.
+**6.3** Pour les vols partant le 12 novembre 2025 ou à une date ultérieure, si vous avez effectué l'enregistrement en ligne conformément aux exigences énoncées à la section 6.2 et que vous n'êtes pas en mesure de présenter une carte d'embarquement numérique valide à l'aéroport, nous vous aiderons à réémettre une carte d'embarquement alternative sans frais supplémentaires, sous réserve qu'il reste suffisamment de temps avant votre départ prévu.
+
+Les passagers n'ayant pas effectué leur enregistrement ou nécessitant une vérification manuelle en raison d'une réservation via un tiers ou de problèmes liés à leurs documents sont susceptibles d'être toujours soumis aux frais applicables.
 
 **6.4**
 
