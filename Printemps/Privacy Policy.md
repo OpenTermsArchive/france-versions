@@ -481,9 +481,9 @@ CARON](https://www.printemps.com/fr/fr/univers-caron?ap_source=anico&ap_medium=n
     * [Printemps Vélizy 2](https://www.printemps.com/fr/fr/printemps-paris-velizy-2)
 
 * [ACTUALITÉS MAGASINS](https://www.printemps.com/fr/fr/edito-magasins)
-    * [Journée du Patrimoine : le Printemps ouvre ses coulisses pour ses 60 ans](https://www.printemps.com/fr/fr/edito-magasins-journees-du-patrimoine)
-    * [Sac : l’évènement mode de la rentrée](https://www.printemps.com/fr/fr/edito-magasins-presentation-sac-printemps-haussmann)
-    * [Sac, sac, sac : l'exposition mode au Printemps](https://www.printemps.com/fr/fr/edito-magasins-exposition-sac-printemps-haussmann)
+    * [Le Printemps se met à l'heure New-yorkaise pour Noël](https://www.printemps.com/fr/fr/edito-magasins-noel-a-new-york-printemps)
+    * [Pour Noël plongez dans l'univers de New-York avec Ferrero Rocher®](https://www.printemps.com/fr/fr/edito-magasins-noel-ferrero-rocher-printemps-haussmann)
+    * [Pour Noël, rendez-vous au "Quartier des Jouets"](https://www.printemps.com/fr/fr/edito-magasins-jouets-printemps-haussmann)
 * [LES RESTAURANTS](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
     
 * [Souvenir shop](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
@@ -498,7 +498,7 @@ CARON](https://www.printemps.com/fr/fr/univers-caron?ap_source=anico&ap_medium=n
     * [Offre de parrainage](https://www.printemps.com/fr/fr/offre-parrainage)
     * [Carte Visa Printemps](https://www.printemps.com/fr/fr/carte-visa-printemps)
     * [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
-    * [Conférences et ateliers](https://evenements.printemps.com/)
+    * [Evènements au Printemps](https://evenements.printemps.com/)
 
 * [Nos magasins](https://www.printemps.com/fr/fr/edito-magasins)
     * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
