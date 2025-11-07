@@ -44,7 +44,7 @@ Si vous effectuez des achats dans ou à partir de l'un des pays mentionnés ci-d
 
 \[Voir les conditions générales **pour le [Portugal](#PORTUGAL)**\]
 
-\[Voir les conditions **applicables en [Espagne](#SPAIN)**\]
+\[Voir les conditions applicables **en [Espagne](#SPAIN)**\]
 
 1.5.        CONDITIONS SUPPLEMENTAIRES
 
@@ -410,7 +410,7 @@ Sauf interdiction et sans limitation des droits légaux des consommateurs, vous 
 
 Si vous avez une réclamation, veuillez d'abord nous contacter via la section « Nous contacter » de notre site web.
 
-13.1.     CONDITIONS SPÉCIFIQUES À CERTAINS PAYS
+**14.     CONDITIONS SPÉCIFIQUES À CERTAINS PAYS**
 
 Si vous résidez dans l'un des pays suivants, les conditions supplémentaires ci-dessous s'appliquent et prévalent sur toute condition incompatible énoncée ci-dessus.
 
