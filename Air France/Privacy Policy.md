@@ -133,6 +133,7 @@ Loyalty program and partners
 
 About Air France
 
+* [Newsletter](https://wwws.airfrance.fr/subscription/subscribe)
 * [Air France corporate](http://corporate.airfrance.com/)
 * [Affiliate program](https://wwws.airfrance.fr/information/prepare/services/affiliation)
 * [Travel destinations](https://wwws.airfrance.fr/travel-guide/destinations)
