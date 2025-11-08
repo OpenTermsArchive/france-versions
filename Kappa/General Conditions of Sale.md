@@ -1,7 +1,7 @@
 Conditions générales de vente
 =============================
 
-Kappa a reçu des plaintes de d'utilisateurs concernant la non-livraison de produits achetés en ligne sur des sites prétendants vendre du Kappa.
+Kappa a reçu des plaintes d'utilisateurs concernant la non-livraison de produits achetés en ligne sur des sites prétendants vendre du Kappa.
 
   
 Ces sites web n'ont aucun lien avec Kappa France ni avec aucune entreprise directement ou indirectement liée à Kappa France ou aux propriétaires légitimes de la marque, ils ne sont pas autorisés à utiliser le nom commercial Kappa ou ses marques, son image graphique ou ses logos et, en général, à vendre des produits Kappa. Toute activité d'offre ou de vente de produits Kappa sur et par d'autres sites que [https://www.kappa.fr](https://www.kappa.fr/) est frauduleuse et n'a aucun lien avec Kappa France et ses entreprises associées.  
@@ -119,9 +119,9 @@ La Commande n’est définitive qu’à compter du paiement du prix correspondan
 
 Les moyens de paiement acceptés à ce jour sont : Carte Bleue, Carte VISA, Carte MASTERCARD / EUROCARD, American Express, Paypal ou Apple Pay. Pour les cartes de paiement le Client communique le numéro de sa carte bancaire associé à sa date d’expiration ainsi que les trois derniers chiffres du cryptogramme figurant au verso de sa carte bancaire.
 
-Afin d’assurer la sécurité des paiements effectués en ligne, le Site utilise les services de paiement sécurisé via Stripe. Ces services intègrent la norme de sécurité 3D Secure. Les données confidentielles (le numéro de carte bancaire à 16 chiffres, la date d’expiration et le cryptogramme) sont directement transmises cryptées sur le serveur Stripe.
+Afin d’assurer la sécurité des paiements effectués en ligne, le Site utilise les services de paiement sécurisé via Shopify Payments. Ces services intègrent la norme de sécurité 3D Secure. Les données confidentielles (le numéro de carte bancaire à 16 chiffres, la date d’expiration et le cryptogramme) sont directement transmises cryptées sur le serveur Shopify Payments.
 
-L'interface de paiement Stripe fait appel à la technologie 3D Secure. Il s'agit d'un système élaboré par les deux réseaux de cartes bancaires Visa et MasterCard pour authentifier les porteurs de cartes bancaires et éviter ainsi toute utilisation frauduleuse de ces dernières. En plus du numéro, de la date de validité et du cryptogramme, avec le système 3D Secure, le porteur de la carte doit s'authentifier sur une interface de sa banque vers laquelle il est automatiquement redirigé, en y renseignant un code ou une information personnelle que sa banque lui aura transmis au préalable. Une fois authentifié, le porteur verra sa transaction autorisée ou refusée par sa banque.
+L'interface de paiement Shopify Payments fait appel à la technologie 3D Secure. Il s'agit d'un système élaboré par les deux réseaux de cartes bancaires Visa et MasterCard pour authentifier les porteurs de cartes bancaires et éviter ainsi toute utilisation frauduleuse de ces dernières. En plus du numéro, de la date de validité et du cryptogramme, avec le système 3D Secure, le porteur de la carte doit s'authentifier sur une interface de sa banque vers laquelle il est automatiquement redirigé, en y renseignant un code ou une information personnelle que sa banque lui aura transmis au préalable. Une fois authentifié, le porteur verra sa transaction autorisée ou refusée par sa banque.
 
 Lorsque les coordonnées bancaires sont validées, le gestionnaire de télépaiement sécurisé adresse une demande d’autorisation au réseau carte bancaire. Le gestionnaire de télépaiement délivre un certificat électronique.
 
