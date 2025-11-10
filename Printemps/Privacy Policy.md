@@ -84,9 +84,9 @@
 * DANS LA TENDANCE
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
     * [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
-    * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865)
     * [Les tendances automne-hiver](https://www.printemps.com/fr/fr/edito-magazine-style-tendances-automne-hiver)
-    * [Mocassins : comment les porter avec style ?](https://www.printemps.com/fr/fr/edito-magazine-style-mocassins)
+    * [Tendance cuir : les pièces incontournables](https://www.printemps.com/fr/fr/edito-magazine-style-tendance-cuir)
+    * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
@@ -315,6 +315,8 @@ LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme?ap_source=anico&ap_medium
     * [K-beauty](https://www.printemps.com/fr/fr/edito-beaute-coree-mania)
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur-beaute)
     * [Nos concepts](https://www.printemps.com/fr/fr/nos-concepts)
+    * [Les meilleurs calendriers de l'Avent 2025](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
+    * [Smoky eyes : le guide complet pour un regard intense](https://www.printemps.com/fr/fr/edito-magazine-beaute-smoky-eyes)
 * SÉLECTIONS
     * [Meilleures ventes](https://www.printemps.com/fr/fr/meilleures-ventes-beaute)
     * [Parfums Bestsellers](https://www.printemps.com/fr/fr/parfums-bestsellers)
