@@ -255,14 +255,7 @@
     * [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
     * [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/35/3/8436353.png)
-        
-        LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=vignette_lacoste)
-        
-
- [![Image d'illustration](https://media-cdn.printemps.com/image/35/3/8436353.png)
-
-LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=vignette_lacoste)
+    * 
 
 * [L’ESPACE BEAUTÉ](https://www.printemps.com/fr/fr/espace-beaute)
     
@@ -336,14 +329,10 @@ LACOSTE](https://www.printemps.com/fr/fr/lacoste-homme?ap_source=anico&ap_medium
     * [Parfums de marly](https://www.printemps.com/fr/fr/parfum-parfums-de-marly)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/59/7/8591597.jpg)
-        
-        CARON](https://www.printemps.com/fr/fr/univers-caron?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-caron)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/92/7/8633927.png)](https://www.printemps.com/fr/fr/parfums-de-marly-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-parfums-de-marly)
         
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/59/7/8591597.jpg)
-
-CARON](https://www.printemps.com/fr/fr/univers-caron?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-caron)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/92/7/8633927.png)](https://www.printemps.com/fr/fr/parfums-de-marly-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-parfums-de-marly)
 
 * [LINGE DE MAISON](https://www.printemps.com/fr/fr/linge-de-maison)
 
