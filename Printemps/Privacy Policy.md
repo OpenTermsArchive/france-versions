@@ -255,7 +255,10 @@
     * [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
     * [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    * 
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/68/5/8629685.jpg)](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
+        
+
+ [![Image d'illustration](https://media-cdn.printemps.com/image/68/5/8629685.jpg)](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
 
 * [L’ESPACE BEAUTÉ](https://www.printemps.com/fr/fr/espace-beaute)
     
