@@ -25,12 +25,12 @@ Conformément à nos Conditions Générales d’Utilisation, l’accès à nos S
 
 Lors de votre création d’un compte CITYSCOOT, de votre Inscription, de l’utilisation de nos Services ou de l’achat de coupons effectué sur le site cityscoot.eu.com/for-employees, les données personnelles suivantes sont susceptibles d’être collectées et traitées :
 
-* Des données personnelles d’identification (nom, prénom, date de naissance, selfie, pièce d’identité, permis de conduire, BCR) ;
-* Des données personnelles de contact (e-mail, adresse postale, numéro de téléphone) ;
-* Des données personnelles à fin de paiement (données bancaires) ;
-* Des données de localisation du Scooter (lieu de récupération et restitution, historiques des trajets) ;
-* Des données de navigation (adresses IP, données de connexion, type et version de navigateur, type et version des plugins de votre navigateur, systèmes et plateformes d’exploitation, l’identifiant publicitaire de votre appareil) ;
-* Des données de localisation de votre appareil mobile.
+*   Des données personnelles d’identification (nom, prénom, date de naissance, selfie, pièce d’identité, permis de conduire, BCR) ;
+*   Des données personnelles de contact (e-mail, adresse postale, numéro de téléphone) ;
+*   Des données personnelles à fin de paiement (données bancaires) ;
+*   Des données de localisation du Scooter (lieu de récupération et restitution, historiques des trajets) ;
+*   Des données de navigation (adresses IP, données de connexion, type et version de navigateur, type et version des plugins de votre navigateur, systèmes et plateformes d’exploitation, l’identifiant publicitaire de votre appareil) ;
+*   Des données de localisation de votre appareil mobile.
 
 **À quel moment collectons-nous vos données personnelles ?**
 ------------------------------------------------------------
@@ -48,15 +48,15 @@ Des données peuvent également être collectées lors de la participation à un
 
 Lors de la collecte de vos données, vous êtes notamment informés :
 
-* Des objectifs du recueil de ces données (finalités) ;
-* Si certaines données doivent être obligatoirement renseignées ou si celles-ci sont facultatives et le cas échéant, des conséquences du défaut de renseignement de données obligatoires (à défaut de renseignement de données obligatoires, l’accès aux Services sera impossible) ;
-* De la qualité de responsable de traitement de Cityscoot ;
-* [De vos droits](https://www.cnil.fr/fr/comprendre-vos-droits) et de la façon de les exercer auprès de Cityscoot ;
-* Du fondement juridique justifiant la licéité du traitement (par exemple, si le traitement est fondé sur votre consentement, ou sur la nécessité de respecter une obligation légale, ou sur la nécessité de l’exécution du contrat qui nous lie, sur l’intérêt légitime de Cityscoot ou d’un tiers…) ;
-* Des catégories de personnes habilitées à avoir accès à vos données (c’est-à-dire les destinataires de vos données) ;
-* Si nous envisageons un transfert hors Union Européenne de vos données, nous mettons en place des garanties et vous informons de ces garanties assurant la conformité de ces transferts avec la Règlementation Informatique et Libertés ;
-* Des durées de conservation ou lorsque cela n’est pas possible des critères utilisés pour déterminer cette durée ;
-* Et plus généralement de l’ensemble des mentions imposées par la Règlementation Informatique et Libertés.
+*   Des objectifs du recueil de ces données (finalités) ;
+*   Si certaines données doivent être obligatoirement renseignées ou si celles-ci sont facultatives et le cas échéant, des conséquences du défaut de renseignement de données obligatoires (à défaut de renseignement de données obligatoires, l’accès aux Services sera impossible) ;
+*   De la qualité de responsable de traitement de Cityscoot ;
+*   [De vos droits](https://www.cnil.fr/fr/comprendre-vos-droits) et de la façon de les exercer auprès de Cityscoot ;
+*   Du fondement juridique justifiant la licéité du traitement (par exemple, si le traitement est fondé sur votre consentement, ou sur la nécessité de respecter une obligation légale, ou sur la nécessité de l’exécution du contrat qui nous lie, sur l’intérêt légitime de Cityscoot ou d’un tiers…) ;
+*   Des catégories de personnes habilitées à avoir accès à vos données (c’est-à-dire les destinataires de vos données) ;
+*   Si nous envisageons un transfert hors Union Européenne de vos données, nous mettons en place des garanties et vous informons de ces garanties assurant la conformité de ces transferts avec la Règlementation Informatique et Libertés ;
+*   Des durées de conservation ou lorsque cela n’est pas possible des critères utilisés pour déterminer cette durée ;
+*   Et plus généralement de l’ensemble des mentions imposées par la Règlementation Informatique et Libertés.
 
 Nous conservons vos données personnelles pendant le temps nécessaire aux traitements pour lesquelles elles ont été collectées et dans le respect de la réglementation. Nous effaçons ensuite les données personnelles, à moins que nous en ayons encore besoin (à des fins de preuve, pour des actions de droit civil qui ne saurait excéder 5 ans, ou en raison d’obligations légales de conservation).
 
@@ -115,16 +115,16 @@ Qui sont les destinataires de vos données ?
 
 Sont destinataires des données :
 
-* Cityscoot, ses filiales, sociétés affiliées, les services concernés par le traitement de votre inscription, notre service clientèle ;
-* nos prestataires et sous-traitants, notamment aux fins de traitement de vos paiements ou d’authentification de vos documents ;
-* notre compagnie d’assurance (et/ou notre société de courtage) en cas de sinistres et de vols ;
-* les autorités de police compétentes en cas d’infraction ;
-* les autorités municipales afin d’améliorer les services de transport ;
-* de manière générale, les autorités compétentes, sur requête exclusivement, pour répondre aux obligations légales.
+*   Cityscoot, ses filiales, sociétés affiliées, les services concernés par le traitement de votre inscription, notre service clientèle ;
+*   nos prestataires et sous-traitants, notamment aux fins de traitement de vos paiements ou d’authentification de vos documents ;
+*   notre compagnie d’assurance (et/ou notre société de courtage) en cas de sinistres et de vols ;
+*   les autorités de police compétentes en cas d’infraction ;
+*   les autorités municipales afin d’améliorer les services de transport ;
+*   de manière générale, les autorités compétentes, sur requête exclusivement, pour répondre aux obligations légales.
 
 Si vous accéder à nos Services via votre compte Uber :
 
-* Uber afin qu’il puisse vous facturer pour l’utilisation de nos Services et que vous puissiez consulter l’historique de vos trajets (points de départ / points d’arrivée et durée d’utilisation du service) via votre compte Uber.
+*   Uber afin qu’il puisse vous facturer pour l’utilisation de nos Services et que vous puissiez consulter l’historique de vos trajets (points de départ / points d’arrivée et durée d’utilisation du service) via votre compte Uber.
 
 Les transferts des données hors UE
 ----------------------------------
@@ -142,10 +142,10 @@ Nous nous engageons à prendre toutes les précautions utiles, mesures organisat
 
 Nous avons notamment pris les mesures suivantes :
 
-* Lors de leur transmission, nous utilisons des systèmes de chiffrement afin de garantir la sécurité de vos données personnelles ;
-* L’accès au réseau et aux systèmes d’information est limité au personnel disposant de droits d’accès ;
-* Les Utilisateurs disposent de mots de passe uniques (gestion des mots de passe garantissant des mots de passe forts et double authentification) ;
-* Pares-feux
+*   Lors de leur transmission, nous utilisons des systèmes de chiffrement afin de garantir la sécurité de vos données personnelles ;
+*   L’accès au réseau et aux systèmes d’information est limité au personnel disposant de droits d’accès ;
+*   Les Utilisateurs disposent de mots de passe uniques (gestion des mots de passe garantissant des mots de passe forts et double authentification) ;
+*   Pares-feux
 
 Cependant, nous ne pouvons garantir l’élimination de tout risque d’utilisation abusive des Données. Il importe que vous préserviez la confidentialité de vos identifiants de façon à empêcher une utilisation illicite de votre compte.
 
