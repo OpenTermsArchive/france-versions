@@ -539,6 +539,10 @@
 
 * [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
 
+ [![Image d'illustration](https://media-cdn.printemps.com/image/92/8/8633928.jpg)
+
+AMI PARIS](https://www.printemps.com/fr/fr/amiparis?&sortBy[state.isNew]=asc?ap_source=anico&ap_medium=vignette_nav&ap_campaign=ami-paris)
+
   
 
 _Version en date du 02 octobre 2023_
@@ -1784,55 +1788,6 @@ Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
 * 1 an
-
-NAVIGATION EN LIGNE ET COOKIES SUR PRINTEMPS.COM, PRINTEMPS LISTES
-
-  
-
-Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
-----------------------------------------------------------------------------------------------
-
-Nous utilisons des cookies ou des technologies similaires (ci-après des « Cookies »\*7) lors de votre navigation sur nos Sites pour :
-
-* Faciliter votre navigation
-* Connaître votre façon d'interagir avec nous
-* Vous proposer des publicités adaptées à vos habitudes de navigation
-* Mesurer l'audience sur nos Sites
-
-Pour plus d'informations sur les Cookies et pour gérer les Cookies que nous déposons, veuillez consulter notre centre de gestion des cookies.
-
-\*7 Les cookies sont des petits fichiers textes qui sont enregistrés sur votre appareil (ordinateur, tablette ou mobile) lorsque vous naviguez sur les sites Internet.
-
-Quelles données à caractère personnel pouvons-nous traiter ?
-------------------------------------------------------------
-
-* Cookies de navigation
-* Cookies de performance
-* Cookies de fonctionnalité
-* Cookies pour une publicité ciblée
-
-  
-
-Sur quelle base légale repose le traitement de vos données à caractère personnel ?
-----------------------------------------------------------------------------------
-
-* **Intérêt légitime des sociétés Printemps**(pour les cookies nécessaires à la navigation sur nos Sites)
-* **Consentement**(pour tous les autres cookies)
-
-  
-
-Combien de temps conservons-nous vos données à caractère personnel ?\*4
------------------------------------------------------------------------
-
-* 13 mois après le dépôt des cookies
-
-  
-
-  
-
-\*4 Indépendamment du traitement de vos données à caractère personnel pendant la durée strictement nécessaire pour remplir la finalité correspondante comme indiquée dans le tableau ci-dessus, nous pouvons conserver certaines données à caractère personnel vous concernant pendant une durée plus longue pour satisfaire nos obligations légales (par exemple, nous devons conserver les factures et tickets de caisse pendant 10 ans). Par ailleurs, certaines de vos données à caractère personnel pourront occasionnellement être conservées plus longtemps si lesdites données sont nécessaires pour l'exercice de droits en justice, ou pendant le temps duquel toute responsabilité pourrait être engagée suite au traitement, en exécution de la réglementation en vigueur. Dans ce cas, les données seront sauvegardées et protégées avec un accès restreint. Il sera procédé à la suppression desdites données une fois que les éventuelles actions de chaque cas seront prescrites ou lorsque le délai de conservation légale de certaines données sera épuisé.
-
-\*5 L'activité mail ou sms signifie la non-réponse à une sollicitation par mail ou par sms, c'est-à-dire, le fait de ne pas cliquer sur un lien hypertexte contenu dans un mail ou un sms.
 
 4\. COMMENT COLLECTONS-NOUS OU RECEVONS-NOUS VOS DONNÉES À CARACTÈRE PERSONNEL ?
 
