@@ -3,7 +3,7 @@ Politique de confidentialité
 
 Dernière mise à jour le 30 novembre 2023
 
-Le Site www.cityscoot.eu, l’Application et le service Cityscoot (ci-après « nos Services ») sont proposés par la société CITYSCOOT, société par actions simplifiées, immatriculée au RCS de Paris sous le numéro dont le siège social est situé 8 rue Bayen, 75017 Paris pour la France et CITYSCOOT ITALIA S.R.L. (société en liquidation), domiciliée à Milan (Italie), Via Washington , enregistré sous le N° MI – pour l’Italie (ci-après « Cityscoot » ou « Nous »).
+Le Site www.cityscoot.eu.com, l’Application et le service Cityscoot (ci-après « nos Services ») sont proposés par la société CITYSCOOT, société par actions simplifiées, immatriculée au RCS de Paris sous le numéro dont le siège social est situé 8 rue Bayen, 75017 Paris pour la France et CITYSCOOT ITALIA S.R.L. (société en liquidation), domiciliée à Milan (Italie), Via Washington , enregistré sous le N° MI – pour l’Italie (ci-après « Cityscoot » ou « Nous »).
 
 Cityscoot s’engage à protéger la vie privée de tous les visiteurs, Clients et Utilisateurs de ses Services. Elle s’engage à ce que la collecte et le traitement de vos données soient effectués conformément au Règlement Général sur la Protection des Données (RGPD) et la Loi dite « Informatique et Libertés ».
 
@@ -23,7 +23,7 @@ Conformément à nos Conditions Générales d’Utilisation, l’accès à nos S
 **Quelles sont les données personnelles traitées ?**
 ----------------------------------------------------
 
-Lors de votre création d’un compte CITYSCOOT, de votre Inscription, de l’utilisation de nos Services ou de l’achat de coupons effectué sur le site cityscoot.eu/for-employees, les données personnelles suivantes sont susceptibles d’être collectées et traitées :
+Lors de votre création d’un compte CITYSCOOT, de votre Inscription, de l’utilisation de nos Services ou de l’achat de coupons effectué sur le site cityscoot.eu.com/for-employees, les données personnelles suivantes sont susceptibles d’être collectées et traitées :
 
 * Des données personnelles d’identification (nom, prénom, date de naissance, selfie, pièce d’identité, permis de conduire, BCR) ;
 * Des données personnelles de contact (e-mail, adresse postale, numéro de téléphone) ;
@@ -35,7 +35,7 @@ Lors de votre création d’un compte CITYSCOOT, de votre Inscription, de l’ut
 **À quel moment collectons-nous vos données personnelles ?**
 ------------------------------------------------------------
 
-Les données personnelles sont issues des informations que vous nous communiquez directement lors de votre Inscription à nos Services ou, si vous y accédez via votre compte Uber, celles que ce dernier nous communiquera (nom, adresse e-mail, numéro de téléphone, le numéro du scooter que vous souhaitez réserver, votre date de naissance et adresse postale en cas d’infraction routière), ou à l’occasion d’un achat effectué sur le site cityscoot.eu/for-employees.
+Les données personnelles sont issues des informations que vous nous communiquez directement lors de votre Inscription à nos Services ou, si vous y accédez via votre compte Uber, celles que ce dernier nous communiquera (nom, adresse e-mail, numéro de téléphone, le numéro du scooter que vous souhaitez réserver, votre date de naissance et adresse postale en cas d’infraction routière), ou à l’occasion d’un achat effectué sur le site cityscoot.eu.com/for-employees.
 
 L’historique de vos trajets est collecté lors de l’utilisation de nos Services.
 
@@ -108,7 +108,7 @@ Nous conservons vos données personnelles pendant le temps nécessaire aux trait
 (1) Pour toutes demandes, conservation des données : nom, coordonnées de contact, objet et historique des échanges.  
 (2) Les durées sont mentionnées sous réserve d’obligations légales complémentaires.
 
-Des Données peuvent être collectées pour d’autres finalités pour certains services spécifiques ou temporaires. Le cas échéant, les informations sur lesdits traitements seront précisées dans un document spécifique lors de la collecte de ces Données.  
+Des Données peuvent être collectées pour d’autres finalités pour certains services spécifiques ou temporaires. Le cas échéant, les informations sur lesdits traitements seront précisées dans un document spécifique lors de la collecte de ces Données.
 
 Qui sont les destinataires de vos données ?
 -------------------------------------------
