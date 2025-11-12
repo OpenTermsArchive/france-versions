@@ -122,22 +122,22 @@ Les minutes créditées dans le cadre d’un abonnement sont valables durant la 
 
 Pour utiliser le Service, l’Utilisateur doit remplir l’ensemble des conditions suivantes :
 
-* Être majeur (avoir au moins 18 ans).
+*   Être majeur (avoir au moins 18 ans).
 
-* Transmettre par voie électronique une copie des documents suivants dont il est titulaire :
-* Permis de conduire européen de type AM, A1, A2, A ou B en cours de validité ou un permis de conduire voiture non-européen, quelle que soit la langue, sous réserve qu’il soit libellé en alphabet latin et qu’il comporte une photo d’identité ; ou
-* Brevet de sécurité routière (BSR) ;
-* Si la personne physique a transmis un BSR, ou si elle n’a pas de permis de conduire et qu’elle est née avant le 01/01/1988, ou si le document transmis ne comporte pas de photo, elle devra également transmettre l’un des documents suivants en cours de validité pour avoir accès au Service :
+*   Transmettre par voie électronique une copie des documents suivants dont il est titulaire :
+*   Permis de conduire européen de type AM, A1, A2, A ou B en cours de validité ou un permis de conduire voiture non-européen, quelle que soit la langue, sous réserve qu’il soit libellé en alphabet latin et qu’il comporte une photo d’identité ; ou
+*   Brevet de sécurité routière (BSR) ;
+*   Si la personne physique a transmis un BSR, ou si elle n’a pas de permis de conduire et qu’elle est née avant le 01/01/1988, ou si le document transmis ne comporte pas de photo, elle devra également transmettre l’un des documents suivants en cours de validité pour avoir accès au Service :
 
 (i) carte d’identité si émise dans un pays de l’Espace Économique Européen ou en Suisse ; ou  
 (ii) passeport quelle que soit la langue, sous réserve qu’il soit libellé en alphabet latin ; ou  
 (iii) titre de séjour français (uniquement pour des personnes résidant en France).
 
-* Ne pas être débiteur auprès de CITYSCOOT de sommes dont il ne se serait pas acquitté au titre d’une précédente inscription ou Location auprès de CITYSCOOT.
+*   Ne pas être débiteur auprès de CITYSCOOT de sommes dont il ne se serait pas acquitté au titre d’une précédente inscription ou Location auprès de CITYSCOOT.
 
-* Disposer d’un smartphone fonctionnant sous une version Android ou iOS compatible avec l’Application.
+*   Disposer d’un smartphone fonctionnant sous une version Android ou iOS compatible avec l’Application.
 
-* Transmettre par voie électronique les informations relatives à une ou plusieurs cartes bancaires Visa ou Mastercard en cours de validité.
+*   Transmettre par voie électronique les informations relatives à une ou plusieurs cartes bancaires Visa ou Mastercard en cours de validité.
 
 CITYSCOOT se réserve la possibilité d’effectuer des contrôles périodiques afin de s’assurer du respect des conditions d’accès au Service susvisées.
 
@@ -149,18 +149,18 @@ La détention d’un permis « blanc » ou à validité restreinte, ou d’une d
 
 Pour s’inscrire et acquérir la qualité d’Utilisateur, le Client doit impérativement :
 
-* télétransmettre à l’aide de l’outil intégré dans l’Application les documents visés à l’article 4 et une photo de son visage aux fins d’authentification desdits documents
-* remplir le formulaire d’Inscription dans l’Application, dans lequel l’Utilisateur indique :
-* son nom,
-* son prénom,
-* sa date de naissance,
-* un numéro de téléphone portable valide,
-* une adresse e-mail valide,
-* son adresse de domiciliation complète,
-* un mot de passe respectant les préconisations de sécurité de À ce titre, l’Utilisateur est invité à choisir un mot de passe distinct de celui utilisé pour d’autres comptes ou services et à changer régulièrement de mot de passe (une à deux fois par an), afin de garantir une sécurité optimale et de se prémunir contre tout risque de fraude,
-* avoir consulté et accepté les présentes CGUS ainsi que la [Politique de Confidentialité](https://www.cityscoot.eu/politique-de-confidentialite) de CITYSCOOT accessibles sur l’Application et sur le Site Internet [cityscoot.eu.com](https://www.cityscoot.eu.com/),
-* s’il souhaite recevoir une initiation à la prise en main d’un Scooter,
-* le numéro d’une ou plusieurs de ses cartes bancaires Visa ou Mastercard en cours de validité sur l’interface de paiement sécurisée pour le paiement ultérieur des factures.
+*   télétransmettre à l’aide de l’outil intégré dans l’Application les documents visés à l’article 4 et une photo de son visage aux fins d’authentification desdits documents
+*   remplir le formulaire d’Inscription dans l’Application, dans lequel l’Utilisateur indique :
+*   son nom,
+*   son prénom,
+*   sa date de naissance,
+*   un numéro de téléphone portable valide,
+*   une adresse e-mail valide,
+*   son adresse de domiciliation complète,
+*   un mot de passe respectant les préconisations de sécurité de À ce titre, l’Utilisateur est invité à choisir un mot de passe distinct de celui utilisé pour d’autres comptes ou services et à changer régulièrement de mot de passe (une à deux fois par an), afin de garantir une sécurité optimale et de se prémunir contre tout risque de fraude,
+*   avoir consulté et accepté les présentes CGUS ainsi que la [Politique de Confidentialité](https://www.cityscoot.eu/politique-de-confidentialite) de CITYSCOOT accessibles sur l’Application et sur le Site Internet [cityscoot.eu.com](https://www.cityscoot.eu.com/),
+*   s’il souhaite recevoir une initiation à la prise en main d’un Scooter,
+*   le numéro d’une ou plusieurs de ses cartes bancaires Visa ou Mastercard en cours de validité sur l’interface de paiement sécurisée pour le paiement ultérieur des factures.
 
 Le Client doit s’assurer de la cohérence et de l’exactitude des informations communiquées.
 
@@ -198,8 +198,8 @@ Si l’utilisation du Service n’a pas commencé au moment où l’Utilisateur 
 
 Si l’utilisation du Service a commencé avant l’expiration du délai de rétractation, dans ce cas :
 
-* si l’Utilisateur a consommé l’intégralité des minutes de son « pack minutes », il est facturé de la totalité du « pack minutes » ainsi que des éventuels coûts complémentaires et/ou pénalités relatifs à l’utilisation du Service ;
-* si l’Utilisateur a consommé partiellement les minutes de son « pack minutes », il est remboursé du prix du « pack minutes » et est facturé au prix de la location à la minute pour le nombre de minutes utilisées, ainsi que des éventuels coûts complémentaires et/ou pénalités relatifs à l’utilisation du Service. Dans ce cas, le tarif promotionnel ne bénéficie pas à l’Utilisateur.
+*   si l’Utilisateur a consommé l’intégralité des minutes de son « pack minutes », il est facturé de la totalité du « pack minutes » ainsi que des éventuels coûts complémentaires et/ou pénalités relatifs à l’utilisation du Service ;
+*   si l’Utilisateur a consommé partiellement les minutes de son « pack minutes », il est remboursé du prix du « pack minutes » et est facturé au prix de la location à la minute pour le nombre de minutes utilisées, ainsi que des éventuels coûts complémentaires et/ou pénalités relatifs à l’utilisation du Service. Dans ce cas, le tarif promotionnel ne bénéficie pas à l’Utilisateur.
 
 **ARTICLE 7 – MODALITÉS D’UTILISATION DU SERVICE**
 
@@ -209,21 +209,21 @@ Le Service n’est accessible que _via_ l’Application. Il appartient à l’Ut
 
 L’Utilisateur peut, sur l’Application et sur le Site Internet (à partir de son Espace Personnel) :
 
-* Contacter le Service Client à l’aide du formulaire dédié
-* Consulter les Questions Fréquemment Posées (FAQ)
-* Consulter les CGUS
-* Consulter la [Politique de Confidentialité](https://www.cityscoot.eu/politique-de-confidentialite)
-* Mettre à jour ses données personnelles (adresse, mot de passe, cartes bancaires)
-* Modifier sa ville de préférence
-* Consulter son historique de Réservations et de Locations
-* Consulter et télécharger ses factures
-* Consulter son statut Utilisateur et les éventuels avantages acquis au titre du Programme de Fidélité
-* Définir le niveau d’accélération CityBoost (douce, moyenne ou rapide)
-* Acheter des Packs de minutes prépayées
-* Souscrire à un abonnement
-* Saisir un Code promotionnel
-* Modifier et partager son Code de parrainage
-* Consulter son solde de minutes créditées
+*   Contacter le Service Client à l’aide du formulaire dédié
+*   Consulter les Questions Fréquemment Posées (FAQ)
+*   Consulter les CGUS
+*   Consulter la [Politique de Confidentialité](https://www.cityscoot.eu/politique-de-confidentialite)
+*   Mettre à jour ses données personnelles (adresse, mot de passe, cartes bancaires)
+*   Modifier sa ville de préférence
+*   Consulter son historique de Réservations et de Locations
+*   Consulter et télécharger ses factures
+*   Consulter son statut Utilisateur et les éventuels avantages acquis au titre du Programme de Fidélité
+*   Définir le niveau d’accélération CityBoost (douce, moyenne ou rapide)
+*   Acheter des Packs de minutes prépayées
+*   Souscrire à un abonnement
+*   Saisir un Code promotionnel
+*   Modifier et partager son Code de parrainage
+*   Consulter son solde de minutes créditées
 
 **7.2 Service Client**
 
@@ -237,11 +237,11 @@ Par courrier électronique à pour poser une question liée à son Inscription, 
 
 Sur l’Application, l’Utilisateur peut :
 
-* Visualiser le positionnement et l’autonomie des Scooters disponibles dans les Zones CITYSCOOT
-* Visualiser la présence d’un Citycase et d’un second Casque sur les Scooters
-* Procéder à la Réservation d’un Scooter
-* Annuler sa Réservation dans un délai maximal de dix (10) minutes à compter de sa Réservation
-* Restituer un Scooter loué selon les termes prévus par les présentes CGUS
+*   Visualiser le positionnement et l’autonomie des Scooters disponibles dans les Zones CITYSCOOT
+*   Visualiser la présence d’un Citycase et d’un second Casque sur les Scooters
+*   Procéder à la Réservation d’un Scooter
+*   Annuler sa Réservation dans un délai maximal de dix (10) minutes à compter de sa Réservation
+*   Restituer un Scooter loué selon les termes prévus par les présentes CGUS
 
 **7.4 Location d’un Scooter**
 
@@ -265,14 +265,14 @@ L’Utilisateur s’engage à signaler au Service Client tout dégât qu’il au
 
 Exemples de dégâts que l’Utilisateur doit signaler au Service Client :
 
-* Freins défaillants.
-* Carénages cassés.
-* Pneu crevé.
-* Rétroviseur manquant.
-* Levier de frein cassé ou tordu.
-* Phare cassé ou lumières cassées.
-* Clavier ou compteur cassés.
-* Béquille cassée.
+*   Freins défaillants.
+*   Carénages cassés.
+*   Pneu crevé.
+*   Rétroviseur manquant.
+*   Levier de frein cassé ou tordu.
+*   Phare cassé ou lumières cassées.
+*   Clavier ou compteur cassés.
+*   Béquille cassée.
 
 Dans de telles circonstances, l’Utilisateur s’engage à ne pas utiliser le Scooter endommagé.
 
@@ -282,21 +282,21 @@ En l’absence de signalement de dégâts à la prise du Scooter, l’Utilisateu
 
 Pour démarrer le Scooter après l’avoir déverrouillé, l’Utilisateur doit :
 
-* Lever la selle pour accéder au Casque.
-* Ajuster le Casque à sa taille et l’enfiler.
-* Ajuster les rétroviseurs.
-* Positionner sur « ON » le bouton rouge situé à droite du guidon.
+*   Lever la selle pour accéder au Casque.
+*   Ajuster le Casque à sa taille et l’enfiler.
+*   Ajuster les rétroviseurs.
+*   Positionner sur « ON » le bouton rouge situé à droite du guidon.
 
 7.4.5 Procédure d’arrêt temporaire (Pause)
 
 Pour bénéficier de l’option d’arrêt temporaire du Scooter, l’Utilisateur doit au moins être en possession de la version 3.7.14 de l’Application. Pour stationner temporairement le Scooter, l’Utilisateur doit :
 
-* Béquiller le Scooter sur un emplacement autorisé.
-* Ouvrir la selle en appuyant sur le bouton « Casque » situé à gauche du guidon si l’Utilisateur afin de ranger le Casque.
-* Retirer tous Accessoires de l’Utilisateur du Scooter, CITYSCOOT ne pouvant aucunement être tenue responsable de tout effet oublié ou volé.
-* Fermer la selle et vérifier que celle-ci est verrouillée.
-* Appuyer sur le bouton “Pause” depuis l’Application.
-* Attendre l’extinction du compteur
+*   Béquiller le Scooter sur un emplacement autorisé.
+*   Ouvrir la selle en appuyant sur le bouton « Casque » situé à gauche du guidon si l’Utilisateur afin de ranger le Casque.
+*   Retirer tous Accessoires de l’Utilisateur du Scooter, CITYSCOOT ne pouvant aucunement être tenue responsable de tout effet oublié ou volé.
+*   Fermer la selle et vérifier que celle-ci est verrouillée.
+*   Appuyer sur le bouton “Pause” depuis l’Application.
+*   Attendre l’extinction du compteur
 
 Les minutes de Location continuent à courir pendant la période de Pause.
 
@@ -304,17 +304,17 @@ Les minutes de Location continuent à courir pendant la période de Pause.
 
 Pour restituer le Scooter et mettre fin à sa Location, l’Utilisateur doit :
 
-* S’assurer d’être dans une Zone CITYSCOOT (voyant orange « HORS ZONE » éteint).
-* S’assurer des conditions de stationnement autorisées dans la commune et dans la zone de restitution du Scooter et les respecter.
-* S’assurer d’avoir stationné le Scooter sur une place autorisée.
-* Béquiller le Scooter.
-* Ouvrir la selle en appuyant sur le bouton « Casque » situé à gauche du guidon.
-* Ranger le Casque sous la selle dans la position indiquée par le sticker situé sous la selle.
-* Ranger le second Casque dans le Citycase.
-* Retirer tous Accessoires de l’Utilisateur du Scooter, CITYSCOOT ne pouvant aucunement être tenue responsable de tout effet oublié ou volé.
-* Fermer la selle et le Citycase et vérifier que ceux-ci sont verrouillés.
-* Presser le bouton FIN situé sur le clavier ou cliquer sur « Terminer ma location » dans l’Application.
-* Vérifier que la diode verte « LIBRE » est allumée.
+*   S’assurer d’être dans une Zone CITYSCOOT (voyant orange « HORS ZONE » éteint).
+*   S’assurer des conditions de stationnement autorisées dans la commune et dans la zone de restitution du Scooter et les respecter.
+*   S’assurer d’avoir stationné le Scooter sur une place autorisée.
+*   Béquiller le Scooter.
+*   Ouvrir la selle en appuyant sur le bouton « Casque » situé à gauche du guidon.
+*   Ranger le Casque sous la selle dans la position indiquée par le sticker situé sous la selle.
+*   Ranger le second Casque dans le Citycase.
+*   Retirer tous Accessoires de l’Utilisateur du Scooter, CITYSCOOT ne pouvant aucunement être tenue responsable de tout effet oublié ou volé.
+*   Fermer la selle et le Citycase et vérifier que ceux-ci sont verrouillés.
+*   Presser le bouton FIN situé sur le clavier ou cliquer sur « Terminer ma location » dans l’Application.
+*   Vérifier que la diode verte « LIBRE » est allumée.
 
 Si l’un des voyants orange ou rouge s’allume ou clignote sur le clavier du Scooter, la procédure n’a pas été respectée et l’Utilisateur doit contrôler que toutes les étapes constituant la procédure de restitution ont été effectuées.
 
@@ -328,13 +328,13 @@ L’Utilisateur s’engage à signaler au Service Client tout dégât, même min
 
 CITYSCOOT se réserve le droit de suspendre l’accès au Service sans préavis et d’annuler une Réservation ou de mettre fin à une Location dans les cas suivants, sans qu’aucune indemnité ne soit due à l’Utilisateur :
 
-* Problème technique ou incident de sécurité affectant l’utilisation du Service ou la gestion des Scooters.
-* Fermeture exceptionnelle du Service sur décision d’une autorité compétente ou pour tout motif impérieux.
-* Force majeure.
-* Panne, accident ou détection automatique de choc du Scooter concerné.
-* Suspension ou désactivation du compte de l’Utilisateur ou de son accès au Service conformément à l’article 15 des présentes CGUS.
-* Pause longue du Scooter si CITYSCOOT n’arrive pas à contacter l’Utilisateur.
-* Vol du Scooter pendant une Location.
+*   Problème technique ou incident de sécurité affectant l’utilisation du Service ou la gestion des Scooters.
+*   Fermeture exceptionnelle du Service sur décision d’une autorité compétente ou pour tout motif impérieux.
+*   Force majeure.
+*   Panne, accident ou détection automatique de choc du Scooter concerné.
+*   Suspension ou désactivation du compte de l’Utilisateur ou de son accès au Service conformément à l’article 15 des présentes CGUS.
+*   Pause longue du Scooter si CITYSCOOT n’arrive pas à contacter l’Utilisateur.
+*   Vol du Scooter pendant une Location.
 
    
 **7.5 Procédure d’assistance**
@@ -347,7 +347,7 @@ La procédure d’assistance implique des démarches et diagnostics de CITYSCOOT
 
 7.5.2 Actions et responsabilité de l’Utilisateur et du Service Client
 
-1. a) Accident corporel ou matériel
+1.  a) Accident corporel ou matériel
 
 L’Utilisateur doit obligatoirement contacter par téléphone le Service Client CITYSCOOT au quelle que soit la nature de l’accident, sous réserve qu’il ne soit pas victime d’un accident corporel l’empêchant de satisfaire à cette obligation.
 
@@ -355,25 +355,25 @@ En cas d’accident corporel, l’Utilisateur doit en priorité contacter les se
 
 Dans la mesure où l’Utilisateur est dans la capacité de le faire, il :
 
-* S’équipe du gilet jaune qui est à sa disposition sous la selle.
-* Met tout en œuvre pour limiter la gêne ou le danger éventuel causé par le Scooter accidenté aux autres usagers de la voie publique et/ou véhicules.
-* Reste à proximité du Scooter jusqu’à sa prise en charge par les services de secours.
-* Rédige lisiblement, même en cas de seuls dégâts matériels n’impliquant pas un tiers, un constat amiable (dont un exemplaire vierge est présent sous la selle du Scooter) détaillant les circonstances de l’accident, contresigné le cas échéant par le ou les conducteurs du ou des autres véhicules impliqués dans l’accident.
-* Envoie le constat amiable par courrier postal, dans les plus brefs délais et au maximum dans les 5 jours ouvrés après la survenance du sinistre, à l’adresse suivante : CITYSCOOT, Service Sinistres, 8 rue Bayen, 75017 Paris.
-* Indique au Service Client les circonstances exactes du sinistre, ses causes connues ou présumées, les noms et adresses des personnes lésées et si possible des témoins, par courrier électronique ou par courrier simple à CITYSCOOT, 8 rue Bayen, 75017 Paris.
-* Collabore avec l’assureur de CITYSCOOT par tous moyens requis par l’assureur, en fournissant des informations sincères, justes et précises.
+*   S’équipe du gilet jaune qui est à sa disposition sous la selle.
+*   Met tout en œuvre pour limiter la gêne ou le danger éventuel causé par le Scooter accidenté aux autres usagers de la voie publique et/ou véhicules.
+*   Reste à proximité du Scooter jusqu’à sa prise en charge par les services de secours.
+*   Rédige lisiblement, même en cas de seuls dégâts matériels n’impliquant pas un tiers, un constat amiable (dont un exemplaire vierge est présent sous la selle du Scooter) détaillant les circonstances de l’accident, contresigné le cas échéant par le ou les conducteurs du ou des autres véhicules impliqués dans l’accident.
+*   Envoie le constat amiable par courrier postal, dans les plus brefs délais et au maximum dans les 5 jours ouvrés après la survenance du sinistre, à l’adresse suivante : CITYSCOOT, Service Sinistres, 8 rue Bayen, 75017 Paris.
+*   Indique au Service Client les circonstances exactes du sinistre, ses causes connues ou présumées, les noms et adresses des personnes lésées et si possible des témoins, par courrier électronique ou par courrier simple à CITYSCOOT, 8 rue Bayen, 75017 Paris.
+*   Collabore avec l’assureur de CITYSCOOT par tous moyens requis par l’assureur, en fournissant des informations sincères, justes et précises.
 
-1. b) Panne du Scooter ou crevaison
+1.  b) Panne du Scooter ou crevaison
 
 L’Utilisateur doit obligatoirement contacter immédiatement le Service Client au quelle que soit la nature de la panne.
 
 L’Utilisateur :
 
-* S’équipe du gilet jaune qui est à sa disposition sous la selle.
-* Met tout en œuvre pour limiter la gêne éventuelle causée par le Scooter en panne aux autres usagers de la voie publique et/ou véhicules.
-* Reste à proximité du Scooter jusqu’à l’accord express (appel, courrier électronique, SMS, etc.) du Service Client ; à défaut, les frais de dépannage pourront lui être facturés.
+*   S’équipe du gilet jaune qui est à sa disposition sous la selle.
+*   Met tout en œuvre pour limiter la gêne éventuelle causée par le Scooter en panne aux autres usagers de la voie publique et/ou véhicules.
+*   Reste à proximité du Scooter jusqu’à l’accord express (appel, courrier électronique, SMS, etc.) du Service Client ; à défaut, les frais de dépannage pourront lui être facturés.
 
-1. c) Tentative de vol, vol du Scooter ou vandalisme
+1.  c) Tentative de vol, vol du Scooter ou vandalisme
 
 En cas de vol du Scooter ou de vandalisme survenu pendant la Location, l’Utilisateur doit obligatoirement contacter immédiatement le Service Client au .
 
@@ -381,7 +381,7 @@ Le Service Client indiquera à l’Utilisateur la marche à suivre en fonction d
 
 L’Utilisateur est tenu de déposer plainte auprès du commissariat de police ou de la brigade de gendarmerie compétent(e) et d’envoyer à CITYSCOOT, 8 rue Bayen, 75017 Paris, dans les quarante-huit (48) heures ouvrées suivant l’incident, le récépissé de dépôt de plainte reçu du commissariat de police ou de la brigade de gendarmerie ainsi qu’une déclaration explicitant les circonstances du vol ou de la dégradation du Scooter.
 
-1. d) Détection automatique de choc
+1.  d) Détection automatique de choc
 
 Le Scooter est équipé d’un dispositif électronique permettant à CITYSCOOT de détecter en temps réel toute inclinaison inhabituelle du Scooter. En cas de détection de choc ou de chute, CITYSCOOT se réserve le droit de contacter immédiatement l’Utilisateur pour en diagnostiquer la provenance et prendre les mesures d’assistance nécessaires.
 
@@ -397,10 +397,10 @@ Néanmoins, le Scooter reste sous l’entière responsabilité de l’Utilisateu
 
 L’Utilisateur s’engage à s’acquitter de toutes les sommes dont il serait redevable dans le cadre de l’utilisation du Service, et notamment :
 
-* Le prix d’utilisation du Service CITYSCOOT,
-* Les contraventions et conséquences pécuniaires des éventuelles infractions au Code de la route qu’il aura commises,
-* Les franchises d’assurance en cas de sinistre ; lesquelles sont énumérées à l’ANNEXE 3,
-* Les pénalités énumérées à ANNEXE 2 des présentes CGUS.
+*   Le prix d’utilisation du Service CITYSCOOT,
+*   Les contraventions et conséquences pécuniaires des éventuelles infractions au Code de la route qu’il aura commises,
+*   Les franchises d’assurance en cas de sinistre ; lesquelles sont énumérées à l’ANNEXE 3,
+*   Les pénalités énumérées à ANNEXE 2 des présentes CGUS.
 
 L’Utilisateur s’engage à être à jour de ses obligations financières vis-à-vis de CITYSCOOT pendant toute la durée de la relation contractuelle.
 
@@ -461,19 +461,19 @@ Le Scooter est homologué pour le transport d’un passager.
 
 L’Utilisateur ne pourra utiliser le Scooter ou permettre à quiconque de l’utiliser :
 
-* Pour le transport de marchandises à titre onéreux.
-* Pour remorquer, tracter ou pousser tout véhicule, remorque ou tout autre objet.
-* En dehors des voies carrossables ou adaptées au Scooter.
-* Lorsque le Scooter est en surcharge.
-* Pour le transport d’objets ou de substances (matières inflammables, corrosives, toxiques, explosives, ionisantes ou comburantes…) qui, en raison de leur état ou de leur odeur, peuvent endommager le Scooter et/ou retarder la possibilité de louer le Scooter à nouveau.
-* Pour participer à des compétitions sportives (courses, essais, démonstrations…).
-* En infraction avec le Code de la Route ou autres réglementations.
-* A toutes fins illicites.
-* Pour toute sous-location à titre gratuit ou onéreux.
-* Pour le transport de voyageur à titre onéreux, même de façon occasionnelle.
-* Pour l’apprentissage de la conduite.
-* Pour transporter des animaux ou charger des colis lourds ou effectuer un déménagement.
-* S’il se trouve en violation d’une quelconque obligation mentionnée dans les CGUS.
+*   Pour le transport de marchandises à titre onéreux.
+*   Pour remorquer, tracter ou pousser tout véhicule, remorque ou tout autre objet.
+*   En dehors des voies carrossables ou adaptées au Scooter.
+*   Lorsque le Scooter est en surcharge.
+*   Pour le transport d’objets ou de substances (matières inflammables, corrosives, toxiques, explosives, ionisantes ou comburantes…) qui, en raison de leur état ou de leur odeur, peuvent endommager le Scooter et/ou retarder la possibilité de louer le Scooter à nouveau.
+*   Pour participer à des compétitions sportives (courses, essais, démonstrations…).
+*   En infraction avec le Code de la Route ou autres réglementations.
+*   A toutes fins illicites.
+*   Pour toute sous-location à titre gratuit ou onéreux.
+*   Pour le transport de voyageur à titre onéreux, même de façon occasionnelle.
+*   Pour l’apprentissage de la conduite.
+*   Pour transporter des animaux ou charger des colis lourds ou effectuer un déménagement.
+*   S’il se trouve en violation d’une quelconque obligation mentionnée dans les CGUS.
 
 **9.3 Conducteur autorisé du Scooter**
 
@@ -605,19 +605,19 @@ Désigne le bénéficiaire des garanties d’assurance telles que décrites à l
 
 **10.1.3 Sont exclus de la garantie :**
 
-* **Le fait volontaire.**
-* **Les dommages causés aux marchandises et objets transportés par le Scooter.**
-* **La réparation des dommages subis par les auteurs, coauteurs ou complices d’un vol du Scooter.**
-* **Le paiement des amendes et des indemnités fourrières.**
-* **Les dommages provoqués ou aggravés par le transport avec le Scooter de matières inflammables, explosives, corrosives ou comburantes ;**
-* **Les dommages causés par le Scooter lorsqu’il transporte des sources de rayonnements ionisants destinées à être utilisées hors d’une installation nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le sinistre ;**
-* **Les dommages subis par le détenteur du Scooter en cas de vol, d’abus de confiance ou de conduite sans l´autorisation de CITYSCOOT ;**
-* **Les dommages ou le vol des Accessoires de l’Utilisateur ;**
-* **Les dommages subis par les garagistes, les courtiers, les vendeurs et dépanneurs de véhicules automobiles, les personnes pratiquant le contrôle de leur bon fonctionnement, ainsi que leurs préposés lors des réparations, remorquages, dépannages, contrôles ou vente du Scooter ;**
-* **Les dommages engageant votre responsabilité et survenus au cours d’épreuves, courses, compétitions ou leurs essais, soumis par la réglementation en vigueur à l’autorisation préalable des pouvoirs publics.**
-* **Les rallyes de régularité et les concentrations touristiques ne sont pas concernés par cette exclusion pour autant qu’ils répondent aux conditions ci-dessous :**
-    * **Rallye de régularité : Participation du véhicule assuré à un roulage sur voie de circulation n’excédant pas 50km/h, dans le respect des dispositions du code la route.**
-    * **Concentrations touristiques : Rassemblement de véhicules terrestres à moteur, qui se déroule sur la voie publique ou ouverte à la circulation publique dans le respect du code de la route, qui impose aux participants un ou plusieurs points de rassemblement ou de passage et qui est dépourvu de tout classement ou tout caractère compétitif.**
+*   **Le fait volontaire.**
+*   **Les dommages causés aux marchandises et objets transportés par le Scooter.**
+*   **La réparation des dommages subis par les auteurs, coauteurs ou complices d’un vol du Scooter.**
+*   **Le paiement des amendes et des indemnités fourrières.**
+*   **Les dommages provoqués ou aggravés par le transport avec le Scooter de matières inflammables, explosives, corrosives ou comburantes ;**
+*   **Les dommages causés par le Scooter lorsqu’il transporte des sources de rayonnements ionisants destinées à être utilisées hors d’une installation nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le sinistre ;**
+*   **Les dommages subis par le détenteur du Scooter en cas de vol, d’abus de confiance ou de conduite sans l´autorisation de CITYSCOOT ;**
+*   **Les dommages ou le vol des Accessoires de l’Utilisateur ;**
+*   **Les dommages subis par les garagistes, les courtiers, les vendeurs et dépanneurs de véhicules automobiles, les personnes pratiquant le contrôle de leur bon fonctionnement, ainsi que leurs préposés lors des réparations, remorquages, dépannages, contrôles ou vente du Scooter ;**
+*   **Les dommages engageant votre responsabilité et survenus au cours d’épreuves, courses, compétitions ou leurs essais, soumis par la réglementation en vigueur à l’autorisation préalable des pouvoirs publics.**
+*   **Les rallyes de régularité et les concentrations touristiques ne sont pas concernés par cette exclusion pour autant qu’ils répondent aux conditions ci-dessous :**
+    *   **Rallye de régularité : Participation du véhicule assuré à un roulage sur voie de circulation n’excédant pas 50km/h, dans le respect des dispositions du code la route.**
+    *   **Concentrations touristiques : Rassemblement de véhicules terrestres à moteur, qui se déroule sur la voie publique ou ouverte à la circulation publique dans le respect du code de la route, qui impose aux participants un ou plusieurs points de rassemblement ou de passage et qui est dépourvu de tout classement ou tout caractère compétitif.**
 
 **10.2 Garantie « défense pénale et recours suite à accident »**
 
@@ -635,7 +635,7 @@ ou tout autre organisme qui lui serait substitué et qui vous aura été signal�
 
 Votre interlocuteur Allianz habituel est également à votre entière disposition pour vous apporter toute assistance dans le cadre de cette garantie.
 
-1. Qui bénéficie de la garantie ?
+1.  Qui bénéficie de la garantie ?
 
 On entend par « vous » :
 
@@ -643,15 +643,15 @@ On entend par « vous » :
 
 – toute personne transportée,
 
-2. Quel est le rôle de l’Assureur ?
+2.  Quel est le rôle de l’Assureur ?
 
 En cas d’accident de la circulation impliquant le véhicule loué auprès de Cityscoot, nous vous apportons aide et assistance pour :
 
-1. Assurer votre défense
+1.  Assurer votre défense
 
 Lorsque vous faites l’objet de poursuites pénales devant les tribunaux répressifs alors que le véhicule loué auprès de Cityscoot est utilisé dans les conditions prévues par ce contrat.
 
-1. Exercer votre recours
+1.  Exercer votre recours
 
 Lorsque vous êtes victime de dommages imputables à un tiers.
 
@@ -661,7 +661,7 @@ Nous nous engageons :
 
 – à mettre en œuvre tous les moyens amiables ou judiciaires de nature à obtenir l’indemnisation de votre préjudice.
 
-3. Mise en œuvre de la garantie
+3.  Mise en œuvre de la garantie
 
 A. Modalités d’application
 
@@ -781,8 +781,8 @@ L’Assureur prend néanmoins en charge les litiges dont le fait générateur es
 
 **– Les accidents survenus :**
 
-* **lorsque vous êtes en état d’ivresse ou sous l’emprise d’une drogue ou d’un stupéfiant non prescrit par une autorité médicale compétente, susceptible d’être sanctionné pénalement,**
-* **ou lorsque vous avez refusé de vous soumettre aux vérifications destinées à établir la preuve de ces états, sauf s’il est établi que l’accident est sans relation avec l’un de ces états.**
+*   **lorsque vous êtes en état d’ivresse ou sous l’emprise d’une drogue ou d’un stupéfiant non prescrit par une autorité médicale compétente, susceptible d’être sanctionné pénalement,**
+*   **ou lorsque vous avez refusé de vous soumettre aux vérifications destinées à établir la preuve de ces états, sauf s’il est établi que l’accident est sans relation avec l’un de ces états.**
 
 **– Les sommes de toute nature que vous pouvez être condamné à payer : condamnation au principal, amende, dommages et intérêts, dépens (si vous devez les rembourser à votre adversaire), indemnités allouées en vertu de l’article 700 du Code de Procédure Civile et ses équivalents.**
 
@@ -820,55 +820,55 @@ Une franchise de 15% s’applique sur le seul poste de préjudice « Atteinte pe
 
 **Est exclu le préjudice corporel de l’Utilisateur qui :**
 
-* **N’a pas l’âge requis par les présentes CGUS pour procéder à une Inscription ou ne possède pas les certificats ou permis en état de validité exigés par la règlementation en vigueur pour la conduite du Scooter.**
-* **Au moment du sinistre, conduisait sous l’empire d’un état alcoolique tel que défini par la législation en vigueur, de stupéfiants non prescrits médicalement ou de médicaments interdisant la conduite (médicaments, comportant le pictogramme « niveau 3 : Attention, danger : ne pas conduire »), sauf si le sinistre est sans relation avec cet état.**
-* **Ou a refusé de se soumettre aux vérifications destinées à établir la preuve de ces états.**
-* **Participe en qualité de concurrent à des épreuves, courses ou compétitions (ou à leurs essais) sportives ou automobiles.**
-* **Circule dans un lieu non règlementé par le Code de la Route.**
-* **N’est pas autorisé à conduire le Scooter.**
+*   **N’a pas l’âge requis par les présentes CGUS pour procéder à une Inscription ou ne possède pas les certificats ou permis en état de validité exigés par la règlementation en vigueur pour la conduite du Scooter.**
+*   **Au moment du sinistre, conduisait sous l’empire d’un état alcoolique tel que défini par la législation en vigueur, de stupéfiants non prescrits médicalement ou de médicaments interdisant la conduite (médicaments, comportant le pictogramme « niveau 3 : Attention, danger : ne pas conduire »), sauf si le sinistre est sans relation avec cet état.**
+*   **Ou a refusé de se soumettre aux vérifications destinées à établir la preuve de ces états.**
+*   **Participe en qualité de concurrent à des épreuves, courses ou compétitions (ou à leurs essais) sportives ou automobiles.**
+*   **Circule dans un lieu non règlementé par le Code de la Route.**
+*   **N’est pas autorisé à conduire le Scooter.**
 
 **Ne sont pas couverts :**
 
-* **Les dommages causés par le Scooter lorsqu’il transporte des sources de rayonnements ionisants destinées à être utilisées hors d’une installation nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le sinistre;**
-* **Les dommages provoqués ou aggravés par le transport avec le Scooter de matières inflammables, explosives, corrosives ou comburantes ;**
-* **Les aggravations d’atteinte permanente à l’intégrité physique et psychique dues à la négligence de la part de l´Utilisateur10.2 dans son traitement médical ;**
+*   **Les dommages causés par le Scooter lorsqu’il transporte des sources de rayonnements ionisants destinées à être utilisées hors d’une installation nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le sinistre;**
+*   **Les dommages provoqués ou aggravés par le transport avec le Scooter de matières inflammables, explosives, corrosives ou comburantes ;**
+*   **Les aggravations d’atteinte permanente à l’intégrité physique et psychique dues à la négligence de la part de l´Utilisateur10.2 dans son traitement médical ;**
 
 **10.4 Exclusions générales**
 
 **L’assurance ne couvre pas :**
 
-* **les dommages causés aux accessoires (casque, coffre etc.),**
-* **les dommages et le vol d’effets personnels (y compris les téléphones portables), les crevaisons de pneus dans tous les cas,**
-* **les dommages résultant de la conduite du véhicule dans des conditions contraires aux règles de la circulation et de la sécurité routière, ainsi que ceux résultants de la conduite du véhicule par un tiers autre que l’Utilisateur.**
-* **Les biens et/ou les activités assurés lorsqu’une interdiction de fournir un contrat ou un service d’assurance s’impose à l’assureur du fait de sanction, restriction ou prohibition prévues par les conventions, lois ou règlements, y compris celles décidées par le Conseil de sécurité des Nations Unies, le Conseil de l’Union européenne, ou par tout autre droit national applicable.**
-* **Les biens et/ou les activités assurés lorsqu’ils sont soumis à une quelconque sanction, restriction, embargo total ou partiel ou prohibition prévues par les conventions, lois ou règlements, y compris celles décidées par le Conseil de sécurité des Nations Unies, le Conseil de l’Union européenne, ou par tout autre droit national applicable.**
+*   **les dommages causés aux accessoires (casque, coffre etc.),**
+*   **les dommages et le vol d’effets personnels (y compris les téléphones portables), les crevaisons de pneus dans tous les cas,**
+*   **les dommages résultant de la conduite du véhicule dans des conditions contraires aux règles de la circulation et de la sécurité routière, ainsi que ceux résultants de la conduite du véhicule par un tiers autre que l’Utilisateur.**
+*   **Les biens et/ou les activités assurés lorsqu’une interdiction de fournir un contrat ou un service d’assurance s’impose à l’assureur du fait de sanction, restriction ou prohibition prévues par les conventions, lois ou règlements, y compris celles décidées par le Conseil de sécurité des Nations Unies, le Conseil de l’Union européenne, ou par tout autre droit national applicable.**
+*   **Les biens et/ou les activités assurés lorsqu’ils sont soumis à une quelconque sanction, restriction, embargo total ou partiel ou prohibition prévues par les conventions, lois ou règlements, y compris celles décidées par le Conseil de sécurité des Nations Unies, le Conseil de l’Union européenne, ou par tout autre droit national applicable.**
 
 **Il est entendu que cette disposition ne s’applique que dans le cas où le contrat d’assurance, les biens et/ou activités assurés entrent dans le champ d’application de la décision de sanction restriction, embargo total ou partiel ou prohibition.**
 
-* **Les dommages ou l’aggravation des dommages, les pertes, les réclamations résultant :**
-    * **de la guerre civile ou étrangère,**
-    * **d’un conflit armé international ou non international, tels que définis par les Conventions de Genève et les jugements et décisions des Tribunaux internationaux**
-    * **d’invasion,**
-    * **de l’explosion de munitions de guerre.**
+*   **Les dommages ou l’aggravation des dommages, les pertes, les réclamations résultant :**
+    *   **de la guerre civile ou étrangère,**
+    *   **d’un conflit armé international ou non international, tels que définis par les Conventions de Genève et les jugements et décisions des Tribunaux internationaux**
+    *   **d’invasion,**
+    *   **de l’explosion de munitions de guerre.**
 
 **Sont toutefois garantis les dommages subis sur le territoire national, lorsque l’explosion de munitions de guerre est un acte d’attentat ou un acte de terrorisme tel que défini par le code pénal; la garantie s’applique alors dans les conditions, limites et exclusions prévues au contrat au titre de la garantie Attentat et acte de terrorisme.**
 
 **On entend par :**
 
-* **Conflit armé international : Existe chaque fois qu’il y a recours à la force armée entre deux ou plusieurs États.**
-* **Conflit armé non international : Existe chaque fois qu’il y a recours à la force armée entre États ou un conflit armé prolongé entre les autorités gouvernementales et des groupes armés organisés ou entre de tels groupes au sein d’un État.**
-* **Invasion : Action militaire qui menace directement l’autonomie d’une nation ou territoire.**
-* **Les dommages subis par le véhicule assuré lorsque ce dernier a fait l’objet modification de sa puisance en Kw, qui ne nous a pas été déclaré, par rapport au modèle constructeur**
+*   **Conflit armé international : Existe chaque fois qu’il y a recours à la force armée entre deux ou plusieurs États.**
+*   **Conflit armé non international : Existe chaque fois qu’il y a recours à la force armée entre États ou un conflit armé prolongé entre les autorités gouvernementales et des groupes armés organisés ou entre de tels groupes au sein d’un État.**
+*   **Invasion : Action militaire qui menace directement l’autonomie d’une nation ou territoire.**
+*   **Les dommages subis par le véhicule assuré lorsque ce dernier a fait l’objet modification de sa puisance en Kw, qui ne nous a pas été déclaré, par rapport au modèle constructeur**
 
 **10.5 Vos obligations en cas de sinistre**
 
-* Vous devez déclarer votre sinistre par tous moyens, dès que vous en avez connaissance, dans les 5 jours ouvrés.
+*   Vous devez déclarer votre sinistre par tous moyens, dès que vous en avez connaissance, dans les 5 jours ouvrés.
 
 Si vous ne respectez pas les délais de déclaration et si nous prouvons que ce retard nous a causé un préjudice, vous perdrez votre droit à indemnité (déchéance), sauf si votre retard résulte d’un cas fortuit ou de force majeure.
 
-* Vous devez nous fournir avec la déclaration : le constat amiable, la description exacte de l’événement, tous les renseignements utiles à l’identification des personnes lésées, du conducteur, des victimes, des témoins éventuels, des tiers responsables.
-* Transmettre, dès réception, à l’Assureur tous documents, renseignements, convocations, assignations, actes extrajudiciaires et pièces de procédure, en rapport avec le sinistre, qui vous seraient adressés, remis ou signifiés, ou encore demandés par l’Assureur.
-* Fournir à l’Assureur les pièces utiles à l’appréciation du dommage dans les plus brefs délais
+*   Vous devez nous fournir avec la déclaration : le constat amiable, la description exacte de l’événement, tous les renseignements utiles à l’identification des personnes lésées, du conducteur, des victimes, des témoins éventuels, des tiers responsables.
+*   Transmettre, dès réception, à l’Assureur tous documents, renseignements, convocations, assignations, actes extrajudiciaires et pièces de procédure, en rapport avec le sinistre, qui vous seraient adressés, remis ou signifiés, ou encore demandés par l’Assureur.
+*   Fournir à l’Assureur les pièces utiles à l’appréciation du dommage dans les plus brefs délais
 
 Vous perdrez le bénéfice des garanties du contrat, pour la totalité des conséquences découlant du sinistre si, vous ou le bénéficiaire de la garantie faites intentionnellement de fausses déclarations sur la date, la nature, les causes, les circonstances ou conséquences du sinistre.
 
@@ -884,20 +884,20 @@ L’Assureur a seul le droit de transiger avec les victimes ou leurs ayants droi
 
 Aucune transaction ou reconnaissance de responsabilité n’est opposable à l’Assureur si elle intervient en dehors de lui. N’est cependant pas considéré comme une reconnaissance de responsabilité, l’aveu de la matérialité d’un fait, ni le seul fait d’avoir procuré à la victime un secours urgent, lorsqu’il s’agit d’un acte d’assistance que toute personne est normalement portée à accomplir.
 
-* Sauvegarde des droits des victimes :
+*   Sauvegarde des droits des victimes :
 
 Ne sont pas opposables aux victimes ou à leurs ayants droit :
 
-* la nullité du contrat d’assurances ( article L. 211-7-1 du Code des assurances) ;
-* les franchises prévues au contrat ;
-* les déchéances, à l’exception de la suspension régulière de garantie pour non-paiement de la cotisation ;
-* la réduction de l’indemnité prévue par le Code des assurances en cas de déclaration inexacte ou incomplète du risque, faite de bonne foi ( article L 113-9 du Code des assurances) ;
-* les exclusions de garanties prévues aux articles R. 211-10 et R. 211-11 du code des assurances :
-    * le conducteur n’a pas l’âge requis ou ne possède pas les certificats, en état de validité, exigés par la réglementation en vigueur pour la conduite du véhicule, sauf en cas de vol, de violence ou d’utilisation du véhicule à l’insu de l’assuré ;
-    * inobservation des conditions suffisantes de sécurité fixées par arrêté pour le transport des passagers (Art. A 211.3 du Code des assurances) ;
-    * du fait des dommages causés par le véhicule lorsqu’il transporte des sources de rayonnements ionisants destinés à être utilisées hors d’une installation nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le sinistre ;
-    * du fait des dommages causés par le véhicule, lorsqu’il transporte des matières inflammables, explosives, corrosives ou comburantes et à l’occasion desquels lesdites matières auraient provoqué ou aggravé le sinistre ; toutefois la non-assurance ne saurait être invoquée du chef de transports d’huiles, d’essences minérales ou de produits similaires, ne dépassant pas 500 kilogrammes ou 600 litres, y compris l’approvisionnement de carburant liquide ou gazeux nécessaire au moteur ,
-    * de dommages survenus au cours d’épreuves, courses, compétitions, ou leurs essais, soumis par la réglementation en vigueur à l’autorisation préalable des pouvoirs publics.
+*   la nullité du contrat d’assurances ( article L. 211-7-1 du Code des assurances) ;
+*   les franchises prévues au contrat ;
+*   les déchéances, à l’exception de la suspension régulière de garantie pour non-paiement de la cotisation ;
+*   la réduction de l’indemnité prévue par le Code des assurances en cas de déclaration inexacte ou incomplète du risque, faite de bonne foi ( article L 113-9 du Code des assurances) ;
+*   les exclusions de garanties prévues aux articles R. 211-10 et R. 211-11 du code des assurances :
+    *   le conducteur n’a pas l’âge requis ou ne possède pas les certificats, en état de validité, exigés par la réglementation en vigueur pour la conduite du véhicule, sauf en cas de vol, de violence ou d’utilisation du véhicule à l’insu de l’assuré ;
+    *   inobservation des conditions suffisantes de sécurité fixées par arrêté pour le transport des passagers (Art. A 211.3 du Code des assurances) ;
+    *   du fait des dommages causés par le véhicule lorsqu’il transporte des sources de rayonnements ionisants destinés à être utilisées hors d’une installation nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le sinistre ;
+    *   du fait des dommages causés par le véhicule, lorsqu’il transporte des matières inflammables, explosives, corrosives ou comburantes et à l’occasion desquels lesdites matières auraient provoqué ou aggravé le sinistre ; toutefois la non-assurance ne saurait être invoquée du chef de transports d’huiles, d’essences minérales ou de produits similaires, ne dépassant pas 500 kilogrammes ou 600 litres, y compris l’approvisionnement de carburant liquide ou gazeux nécessaire au moteur ,
+    *   de dommages survenus au cours d’épreuves, courses, compétitions, ou leurs essais, soumis par la réglementation en vigueur à l’autorisation préalable des pouvoirs publics.
 
 **Important**
 
@@ -983,8 +983,8 @@ En cas de difficultés, nous vous invitons à consulter d’abord votre interloc
 
 Si sa réponse ne vous satisfait pas, il vous suffit :
 
-* d’effectuer votre réclamation directement sur le site allianz.fr,
-* ou d’adresser un courrier à Allianz relations Clients – Case Courrier S1803 – 1 cours Michelet – CS 30051 – 92076 Paris La Défense Cedex.
+*   d’effectuer votre réclamation directement sur le site allianz.fr,
+*   ou d’adresser un courrier à Allianz relations Clients – Case Courrier S1803 – 1 cours Michelet – CS 30051 – 92076 Paris La Défense Cedex.
 
 Nous accuserons réception de votre réclamation écrite dans les 10 jours ouvrables à compter de son envoi et nous vous apporterons une réponse écrite dans un délai maximal de 2 mois.
 
@@ -1008,11 +1008,11 @@ Ces dispositions sont applicables à tout consommateur c’est-à-dire à toute 
 
 **10.10 Protection des données personnelles**
 
-1. Qui est responsable de vos données ?
+1.  Qui est responsable de vos données ?
 
 Allianz IARD. Entreprise régie par le Code des assurances. Société anonyme au capital de.
 
-2. Pourquoi recueillons-nous vos données personnelles ?
+2.  Pourquoi recueillons-nous vos données personnelles ?
 
 Nous recueillons et traitons vos données personnelles dans le cadre de l’exécution du contrat d’assurance pour compte dont vous bénéficiez. Pourquoi ? Tout simplement parce qu’elles nous sont nécessaires pour respecter nos obligations légales et réglementaires, gérer le contrat d’assurance et mieux vous connaître.
 
@@ -1043,17 +1043,17 @@ Profilage
 
 Nous pouvons être amenés à mettre en place des actions de profilage, dans le cadre de l’exécution du contrat pour notamment lutter contre la fraude à l’assurance ou vous proposer des garanties plus adaptées. Pour cela, nous pouvons traiter certaines de vos données personnelles liées notamment à vos habitudes de vie, à votre comportement ou à votre localisation.
 
-3. Qui peut consulter ou utiliser vos données personnelles ?
+3.  Qui peut consulter ou utiliser vos données personnelles ?
 
 Prioritairement les entreprises du groupe Allianz, le souscripteur du présent contrat et son intermédiaire en assurance (agent, courtier, mandataire d’assurance), mais aussi les différents organismes publics et partenaires directement impliqués dans la conclusion, la gestion, l’exécution de votre adhésion ou dans un objectif commercial : délégataires de gestion, prestataires, réassureurs, coassureurs, organismes d’assurance.
 
 Ces destinataires se situent parfois en dehors de l’Union européenne. En ce cas, nous mettons en œuvre des garanties spécifiques pour assurer la protection complète de vos données. Si vous souhaitez des informations sur ces garanties, écrivez-nous à l’adresse indiquée au paragraphe « Vos contacts ».
 
-4. Combien de temps sont conservées vos données personnelles ?
+4.  Combien de temps sont conservées vos données personnelles ?
 
 Nous conservons vos données tout au long de la période d’assurance. À son terme, elles sont conservées pendant le délai de prescription.
 
-5. Données personnelles : quels sont vos droits ?
+5.  Données personnelles : quels sont vos droits ?
 
 Consulter, modifier, effacer… Vous disposez de nombreux droits pour l’utilisation qui est faite de vos données :
 
@@ -1079,7 +1079,7 @@ De manière générale, vous pourrez lire toutes les précisions sur les cookies
 
 Enfin, le site de la CNIL vous renseignera en détail sur vos droits et tous les aspects légaux liés à vos données personnelles : www.cnil.fr.
 
-6. Comment exercer vos droits ?
+6.  Comment exercer vos droits ?
 
 Pour exercer vos droits, vous devez vous adresser à l’adresse indiquées à la rubrique « Vos Contacts .
 
@@ -1087,7 +1087,7 @@ Pour envoyer une réclamation concernant le traitement de vos données personnel
 
 En cas de réclamation et si notre réponse ne vous satisfait pas, vous pouvez vous adresser à la CNIL.
 
-7. Vos Contacts
+7.  Vos Contacts
 
 Question, réclamation, demande de modification… Pour toutes ces situations, c’est très simple : il vous suffit d’écrire :
 
@@ -1149,13 +1149,13 @@ Le contrat d’assurance doit préciser si la garantie est déclenchée par le �
 
 Certains contrats, pour lesquels la loi prévoit des Dispositions particulières dérogent cependant à cette disposition ; c’est le cas par exemple en matière d’assurance décennale obligatoire des activités de construction.
 
-1. Comment fonctionne le mode de déclenchement « par le fait dommageable » ?
+1.  Comment fonctionne le mode de déclenchement « par le fait dommageable » ?
 
 L’assureur apporte sa garantie lorsqu’une réclamation consécutive à des dommages causés à autrui est formulée et que votre responsabilité ou celle des autres personnes garanties par le contrat est engagée, dès lors que le fait à l’origine de ces dommages est survenu entre la date de prise d’effet et la date de résiliation ou d’expiration de la garantie.
 
 La déclaration de sinistre doit être adressée à l’assureur dont la garantie est ou était en cours de validité au moment où le fait dommageable s’est produit.
 
-2. Comment fonctionne le mode de déclenchement « par la réclamation » ?
+2.  Comment fonctionne le mode de déclenchement « par la réclamation » ?
 
 Quel que soit le cas, la garantie de l’assureur n’est pas due si l’assuré avait connaissance du fait dommageable au jour de la souscription de celle-ci.
 
@@ -1173,7 +1173,7 @@ Aussi, dès lors qu’il n’y a pas d’interruption entre deux garanties succe
 
 Lorsque la garantie initiale est déclenchée pendant la période subséquente, le plafond de l’indemnisation ne peut être inférieur à celui de la garantie déclenchée pendant l’année précédant la date de sa résiliation ou de son expiration.
 
-3. En cas de changement d’assureur.
+3.  En cas de changement d’assureur.
 
 Si vous avez changé d’assureur et si un sinistre, dont le fait dommageable est intervenu avant la souscription de votre nouveau contrat, n’est l’objet d’une réclamation qu’au cours de votre nouveau contrat, il faut déterminer l’assureur qui vous indemnisera. Selon le type de contrats, l’ancien ou le nouvel assureur pourra être valablement saisi. Reportez-vous aux cas types ci-dessous :
 
@@ -1205,7 +1205,7 @@ Aucune garantie n’est due par votre ancien assureur si la réclamation est adr
 
 Si le fait dommageable s’est produit pendant la période de validité de la nouvelle garantie, c’est bien entendu l’assureur de cette dernière qui doit traiter la réclamation.
 
-4. En cas de réclamations multiples relatives au même fait dommageable.
+4.  En cas de réclamations multiples relatives au même fait dommageable.
 
 Un même fait dommageable peut être à l’origine de dommages multiples qui interviennent ou se révèlent à des moments différents. Plusieurs réclamations ont alors vocation à être successivement adressées par les différents tiers concernés. Dans ce cas, le sinistre est considéré comme unique. En conséquence, c’est le même assureur qui prend en charge l’ensemble des réclamations.
 
@@ -1245,19 +1245,19 @@ La responsabilité de CITYSCOOT est limitée aux préjudices certains, directs e
 
 En outre, lors de l’Inscription, de la Réservation ou de la Location, l’Utilisateur accepte que le Service Client et/ou l’utilisation du Service puisse(nt) être perturbé(s) ou rendu(s) temporairement inopérant(s) et que la responsabilité de CITYSCOOT ne puisse pas être engagée notamment dans les cas suivants :
 
-* Mauvaise utilisation ou dysfonctionnement du réseau Internet.
-* Virus informatique transmis par le réseau Internet.
-* Interruption des services accessibles sur le réseau Internet.
-* Perturbation et/ou indisponibilité totale ou partielle des réseaux GSM/GPRS/3G/4G.
-* Impossibilité de fournir le Service parce que le module de communication présent dans le Scooter est situé dans une zone géographique non couverte par le réseau GSM/GPRS/3G ou dans une zone d’ombre à l’intérieur d’une zone géographique couverte.
-* Perturbations causées par des travaux d’entretien, de renforcement, de réaménagement ou d’extension des installations des réseaux GSM/GPRS/3G par l’opérateur de télécommunication utilisé par CITYSCOOT.
-* Aléas de propagation des ondes électromagnétiques, cessation des licences d’exploitation du service de l’opérateur de télécommunication utilisé par CITYSCOOT sur décision de l’autorité publique ou d’un cas fortuit.
-* Transmission des signaux radioélectriques affectée par les contraintes ou les limites des normes techniques imposées aux opérateurs de radiotéléphonie par les autorités réglementaires ou les groupements normatifs compétents.
-* Impossibilité de fournir le Service en raison d’une panne ou d’un mauvais fonctionnement des satellites GPS ou d’une coupure d’électricité ou d’intempéries.
-* Échec de géolocalisation imputable à une dégradation du signal GSM/GPRS/3G4G ou du signal GPS, due notamment à la couverture nuageuse ou à la canopée.
-* Indisponibilité temporaire du Scooter.
-* Force majeure au sens de l’article 1218 du Code civil.
-* Tout cas mentionné à l’article 7.4.8 des CGUS.
+*   Mauvaise utilisation ou dysfonctionnement du réseau Internet.
+*   Virus informatique transmis par le réseau Internet.
+*   Interruption des services accessibles sur le réseau Internet.
+*   Perturbation et/ou indisponibilité totale ou partielle des réseaux GSM/GPRS/3G/4G.
+*   Impossibilité de fournir le Service parce que le module de communication présent dans le Scooter est situé dans une zone géographique non couverte par le réseau GSM/GPRS/3G ou dans une zone d’ombre à l’intérieur d’une zone géographique couverte.
+*   Perturbations causées par des travaux d’entretien, de renforcement, de réaménagement ou d’extension des installations des réseaux GSM/GPRS/3G par l’opérateur de télécommunication utilisé par CITYSCOOT.
+*   Aléas de propagation des ondes électromagnétiques, cessation des licences d’exploitation du service de l’opérateur de télécommunication utilisé par CITYSCOOT sur décision de l’autorité publique ou d’un cas fortuit.
+*   Transmission des signaux radioélectriques affectée par les contraintes ou les limites des normes techniques imposées aux opérateurs de radiotéléphonie par les autorités réglementaires ou les groupements normatifs compétents.
+*   Impossibilité de fournir le Service en raison d’une panne ou d’un mauvais fonctionnement des satellites GPS ou d’une coupure d’électricité ou d’intempéries.
+*   Échec de géolocalisation imputable à une dégradation du signal GSM/GPRS/3G4G ou du signal GPS, due notamment à la couverture nuageuse ou à la canopée.
+*   Indisponibilité temporaire du Scooter.
+*   Force majeure au sens de l’article 1218 du Code civil.
+*   Tout cas mentionné à l’article 7.4.8 des CGUS.
 
 CITYSCOOT se réserve le droit d’interrompre totalement ou partiellement le Service, sans préavis et pour une durée déterminée ou indéterminée en cas d’événement exceptionnel tel qu’une avarie matérielle, une panne technique, un problème de sécurité, une manifestation sur la voie publique, une modification des règles de circulation ou des conditions climatiques défavorables, sans préavis et sans qu’aucune indemnité ne soit due à l’Utilisateur.
 
@@ -1281,12 +1281,12 @@ CITYSCOOT se réserve le droit de suspendre, modifier ou annuler ces offres prom
 
 En cas de mise à disposition par CITYSCOOT d’un code promotionnel ouvrant droit à un crédit, une réduction du prix ou tout autre avantage, le titulaire reconnaît et accepte que le code promotionnel :
 
-* est utilisable une (1) seule fois et uniquement sur le Site Internet et/ou sur l’Application de CITYSCOOT (sauf indication contraire) ;
-* n’est pas cumulable avec d’autres codes promotionnels ;
-* est valable pendant une durée déterminée qui sera communiquée en même temps que le code promotionnel ;
-* peut expirer avant son utilisation si un délai d’expiration est indiqué lors de l’attribution du code ;
-* ne peut être mis à disposition du public sauf autorisation expresse de CITYSCOOT ;
-* ne peut faire l’objet d’un marchandage, se monnayer ou encore être converti en espèce.
+*   est utilisable une (1) seule fois et uniquement sur le Site Internet et/ou sur l’Application de CITYSCOOT (sauf indication contraire) ;
+*   n’est pas cumulable avec d’autres codes promotionnels ;
+*   est valable pendant une durée déterminée qui sera communiquée en même temps que le code promotionnel ;
+*   peut expirer avant son utilisation si un délai d’expiration est indiqué lors de l’attribution du code ;
+*   ne peut être mis à disposition du public sauf autorisation expresse de CITYSCOOT ;
+*   ne peut faire l’objet d’un marchandage, se monnayer ou encore être converti en espèce.
 
 L’utilisation du code promotionnel peut aussi être soumise à des conditions supplémentaires qui seront communiquées dans le cadre de l’offre.
 
@@ -1362,16 +1362,16 @@ CITYSCOOT se réserve le droit de suspendre temporairement l’accès au Service
 
 CITYSCOOT se réserve le droit de suspendre l’accès de l’Utilisateur au Service et/ou résilier son Inscription et ce, sans qu’aucune indemnité ne soit due à l’Utilisateur, dans les circonstances suivantes :
 
-* Utilisation avérée ou présomption d’utilisation des Identifiants d’un Utilisateur par un tiers. En cas de présomption d’utilisation par un tiers, l’accès sera seulement suspendu jusqu’à ce qu’il ait été déterminé si le compte est utilisé par un tiers ou non ; s’il s’avère que oui, le compte sera résilié ;
-* Utilisation abusive ou frauduleuse du Service ;
-* Falsification, omission ou inexactitude des informations ou documentations transmises par un Utilisateur ou par un tiers agissant pour le compte d’un Utilisateur ;
-* L’absence de mise à jour des informations concernant l’Utilisateur dans son Espace Personnel ;
-* Divulgation ou utilisation illicite des coordonnées du compte de l’Utilisateur ;
-* Mise en œuvre de tout procédé technique ayant pour objet ou effet de contourner les présentes CGUS ou porter préjudice aux intérêts de CITYSCOOT ou ses Utilisateurs ;
-* Incident ou défaut de paiement de l’Utilisateur ou d’invalidité de la carte bancaire de l’Utilisateur non régularisé dans un délai de quinze (15) jours, étant précisé que l’accès au Service pourra être suspendu pendant ce délai de régularisation ;
-* Mauvaise utilisation du Scooter ;
-* Non-respect par l’Utilisateur du Code de la route ou de l’une de ses obligations essentielles, notamment relatives à la sécurité, au titre des présentes CGUS ;
-* En cas d’interruption du Service pour motif impérieux (notamment de mise à jour de l’Application ou de remplacement de la flotte de Scooters), d’interruption involontaire prolongée ou de cessation du Service, notamment dans les conditions précisées à l’article 12 des présentes. En cas d’interruption, l’accès au Service sera simplement suspendu et en cas de cessation, l’Inscription sera résiliée après un préavis de 7 jours.
+*   Utilisation avérée ou présomption d’utilisation des Identifiants d’un Utilisateur par un tiers. En cas de présomption d’utilisation par un tiers, l’accès sera seulement suspendu jusqu’à ce qu’il ait été déterminé si le compte est utilisé par un tiers ou non ; s’il s’avère que oui, le compte sera résilié ;
+*   Utilisation abusive ou frauduleuse du Service ;
+*   Falsification, omission ou inexactitude des informations ou documentations transmises par un Utilisateur ou par un tiers agissant pour le compte d’un Utilisateur ;
+*   L’absence de mise à jour des informations concernant l’Utilisateur dans son Espace Personnel ;
+*   Divulgation ou utilisation illicite des coordonnées du compte de l’Utilisateur ;
+*   Mise en œuvre de tout procédé technique ayant pour objet ou effet de contourner les présentes CGUS ou porter préjudice aux intérêts de CITYSCOOT ou ses Utilisateurs ;
+*   Incident ou défaut de paiement de l’Utilisateur ou d’invalidité de la carte bancaire de l’Utilisateur non régularisé dans un délai de quinze (15) jours, étant précisé que l’accès au Service pourra être suspendu pendant ce délai de régularisation ;
+*   Mauvaise utilisation du Scooter ;
+*   Non-respect par l’Utilisateur du Code de la route ou de l’une de ses obligations essentielles, notamment relatives à la sécurité, au titre des présentes CGUS ;
+*   En cas d’interruption du Service pour motif impérieux (notamment de mise à jour de l’Application ou de remplacement de la flotte de Scooters), d’interruption involontaire prolongée ou de cessation du Service, notamment dans les conditions précisées à l’article 12 des présentes. En cas d’interruption, l’accès au Service sera simplement suspendu et en cas de cessation, l’Inscription sera résiliée après un préavis de 7 jours.
 
 **ARTICLE 16 – DROIT APPLICABLE – RÈGLEMENT DES LITIGES**
 
@@ -1379,11 +1379,11 @@ Les CGUS sont exclusivement régies par le droit français.
 
 Conformément aux dispositions de l’article L.611-1 et suivants du Code de la consommation, pour tout litige de nature contractuelle entre l’Utilisateur et CITYSCOOT, n’ayant pu être résolu dans le cadre d’une réclamation préalablement introduite auprès du Service Client, l’Utilisateur a la possibilité de recourir gratuitement au Médiateur de la consommation qui sera le médiateur du Conseil national des professions de l’automobile (CNPA) :
 
-* en le saisissant directement en ligne sur le site [mediateur-cnpa.fr](http://www.mediateur-cnpa.fr/)
+*   en le saisissant directement en ligne sur le site [mediateur-cnpa.fr](http://www.mediateur-cnpa.fr/)
 
 ou bien
 
-* en téléchargeant [le formulaire de saisine](https://www.mediateur-cnpa.fr/docs/pdf/Formulaire_de_saisine_mediateur_CNPA_NOV2020.pdf) à envoyer :
+*   en téléchargeant [le formulaire de saisine](https://www.mediateur-cnpa.fr/docs/pdf/Formulaire_de_saisine_mediateur_CNPA_NOV2020.pdf) à envoyer :
 
 par courrier à : M. le Médiateur du Conseil national des professions de l’automobile, 43 bis, route de Vaugirard – CS 80016 – 92197 Meudon Cedex ou par courriel à :
 
