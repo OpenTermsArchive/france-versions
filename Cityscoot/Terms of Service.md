@@ -8,7 +8,7 @@ Les présentes Conditions Générales d’Utilisation du Service (ci-après nomm
 
 CITYSCOOT est un service de mobilité électrique proposé par la société CITYSCOOT, société par actions simplifiée au capital de 16 100 903,80 euros, immatriculée au RCS de Paris sous le numéro, dont le siège social est situé 8 rue Bayen, 75017 Paris. Ce service a pour objet de proposer à ses Utilisateurs une offre de déplacement en scooter électrique par le recours à une Location courte durée de scooters électriques en libre-service. Toute utilisation du Service CITYSCOOT implique le respect des CGUS par l’Utilisateur.
 
-Les présentes CGUS sont destinées aux Utilisateurs du Service CITYSCOOT sur le territoire français. Les Utilisateurs souhaitant accéder au Service dans un autre pays sont invités à consulter les CGUS du pays concerné sur le Site Internet [www.cityscoot.eu](https://www.cityscoot.eu/) et à les accepter dans l’Application. Par ailleurs, les Utilisateurs souhaitant accéder au Service CITYSCOOT dans une autre ville seront susceptibles d’être invités dans l’Application à lire et accepter les CGUS applicables dans cette ville.
+Les présentes CGUS sont destinées aux Utilisateurs du Service CITYSCOOT sur le territoire français. Les Utilisateurs souhaitant accéder au Service dans un autre pays sont invités à consulter les CGUS du pays concerné sur le Site Internet [www.cityscoot.eu.com](https://www.cityscoot.eu.com/) et à les accepter dans l’Application. Par ailleurs, les Utilisateurs souhaitant accéder au Service CITYSCOOT dans une autre ville seront susceptibles d’être invités dans l’Application à lire et accepter les CGUS applicables dans cette ville.
 
   **ARTICLE 1 – DÉFINITIONS**
 
@@ -50,7 +50,7 @@ désigne l’ensemble des documents suivants : la copie du certificat d’assura
 
 **« Espace Personnel »**
 
-désigne l’espace de gestion en ligne accessible par l’Utilisateur ayant un compte Cityscoot via une rubrique « Mon compte », accessible sur le Site Internet [www.cityscoot.eu](https://www.cityscoot.eu/) ou depuis l’Application après authentification, depuis lequel l’Utilisateur a notamment la possibilité de gérer ses informations personnelles, de consulter son historique de Locations et ses factures CITYSCOOT, ou d’acheter des minutes de Location prépayées.
+désigne l’espace de gestion en ligne accessible par l’Utilisateur ayant un compte Cityscoot via une rubrique « Mon compte », accessible sur le Site Internet [www.cityscoot.eu.com](https://www.cityscoot.eu.com/)  ou depuis l’Application après authentification, depuis lequel l’Utilisateur a notamment la possibilité de gérer ses informations personnelles, de consulter son historique de Locations et ses factures CITYSCOOT, ou d’acheter des minutes de Location prépayées.
 
 **« Identifiants »**
 
@@ -90,7 +90,7 @@ désigne le centre d’information et d’assistance de CITYSCOOT mis à disposi
 
 **« Site Internet »**
 
-désigne le site web du Service CITYSCOOT disponible à l’adresse [www.cityscoot.eu](https://www.cityscoot.eu/).
+désigne le site web du Service CITYSCOOT disponible à l’adresse [www.cityscoot.eu.com](https://www.cityscoot.eu.com/) .
 
 **« Utilisateur »**
 
@@ -158,7 +158,7 @@ Pour s’inscrire et acquérir la qualité d’Utilisateur, le Client doit impé
 * une adresse e-mail valide,
 * son adresse de domiciliation complète,
 * un mot de passe respectant les préconisations de sécurité de À ce titre, l’Utilisateur est invité à choisir un mot de passe distinct de celui utilisé pour d’autres comptes ou services et à changer régulièrement de mot de passe (une à deux fois par an), afin de garantir une sécurité optimale et de se prémunir contre tout risque de fraude,
-* avoir consulté et accepté les présentes CGUS ainsi que la [Politique de Confidentialité](https://www.cityscoot.eu/politique-de-confidentialite) de CITYSCOOT accessibles sur l’Application et sur le Site Internet [cityscoot.eu](https://www.cityscoot.eu/),
+* avoir consulté et accepté les présentes CGUS ainsi que la [Politique de Confidentialité](https://www.cityscoot.eu/politique-de-confidentialite) de CITYSCOOT accessibles sur l’Application et sur le Site Internet [cityscoot.eu.com](https://www.cityscoot.eu.com/),
 * s’il souhaite recevoir une initiation à la prise en main d’un Scooter,
 * le numéro d’une ou plusieurs de ses cartes bancaires Visa ou Mastercard en cours de validité sur l’interface de paiement sécurisée pour le paiement ultérieur des factures.
 
