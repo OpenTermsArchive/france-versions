@@ -16,7 +16,7 @@ Cette Politique définit des informations importantes sur la manière dont la So
 
 La présente Politique s'applique aux personnes qui ont créé un compte Malt (« **Compte Utilisateur** ») sur la Marketplace dans le but d'utiliser la Marketplace, aux personnes qui ont visité la Marketplace sans créer de Compte Utilisateur (« **Visiteurs** ») et à nos sous-traitants, consultants externes, clients, prospects (« **Partenaires Tiers** ») que nous traitons des Données Personnelles dans le cadre de nos activités. 
 
-Si vous êtes candidat à un poste chez Malt, nous vous invitons à vous référer à la politique de protection des données des candidats Malt disponible **ICI**. 
+Si vous êtes candidat à un poste chez Malt, nous vous invitons à vous référer à la politique de protection des données des candidats Malt disponible [**ICI**](https://malt-cms-marketing.cdn.prismic.io/malt-cms-marketing/aQ4AWbpReVYa4PMR_251107_Candidateprivacypolicy.pdf). 
 
 ### 3\. **Stipulations générales**
 
