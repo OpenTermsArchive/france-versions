@@ -47,8 +47,8 @@ Aigle se réserve le droit de modifier ses prix à tout moment mais s’engage �
 Les frais de livraison sont indiqués au Client avant validation de la commande et sont exprimés toutes taxes comprises. Ces frais sont à la charge du Client et facturés en supplément du prix des Produits.
 
 * **Retrait en boutique Aigle** (remise contre signature) : offert
-* **Livraison en point relais Chronopost Shop2Shop** - entre 48h et 96h : 3,95€ — offerte dès 30€ d’achat pour la catégorie enfant et dès 140€ pour la catégorie adulte
-* **Livraison à domicile Colissimo** - entre 48h et 72h : 5,95€ — offerte dès 150€ d’achat
+* **Livraison en point relais Chronopost Shop2Shop** - entre 48h et 96h : 3,95€
+* **Livraison à domicile Colissimo** - entre 48h et 72h : 5,95€
 * **Livraison express Chronopost 24h** (remise contre signature) : 13€
 
 **Le transfert des risques de perte et de détérioration des Produits est réalisé après livraison et réception des Produits par le Client ou tout tiers désigné par lui.**
