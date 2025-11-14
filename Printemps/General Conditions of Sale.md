@@ -331,6 +331,8 @@
 
 * [DÉCORATION](https://www.printemps.com/fr/fr/decoration)
 
+* [LITERIE](https://www.printemps.com/fr/fr/literie-maison)
+
 * [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance)
     
 * [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
@@ -627,12 +629,7 @@ Le processus de commande comprend les étapes suivantes que le Client est invit�
 
   
 
-* ajout par le Client du ou des Produits sélectionnés dans son panier, l'accès au panier étant possible à tout moment pour modification ou validation ;
-* validation du panier après vérification de son contenu ;
-* accès par le Client à son compte en indiquant son identifiant et le mot de passe associé afin de confirmer, modifier ou compléter les coordonnées nécessaires à la livraison ; dans le cas où le Client ne disposerait pas déjà d'un compte sur le Site : création de son compte-client en remplissant les informations requises au cours du processus. Il est possible également, si le Client le souhaite, de passer sa commande en tant qu'invité, sans création de compte.
-* choix du mode de livraison
-* choix du mode de paiement et acceptation expresse des Conditions du Site ;
-* redirection du Client vers le site sécurisé de paiement en ligne pour validation du paiement.
+  
 
 L'accord définitif du Client est donc matérialisé par la validation de ses coordonnées bancaires, à savoir le numéro de carte bancaire, la date d'expiration et le cryptogramme.
 
@@ -664,7 +661,7 @@ A cet effet, le Client est informé qu'afin d'éviter les usurpations d'identit�
 
 Conformément à l'article L.111-1 du code de la consommation, le Client peut préalablement à sa commande, prendre connaissance sur le Site des caractéristiques essentielles des Produits qu'il souhaite commander présentées dans chacune des fiches Produits.
 
-  
+En cas d’achat de montres, celles-ci sont vendues en taille standard. Aucune mise à taille ne sera proposée sur le Site. Pour toute adaptation de la taille, le Client devra se rendre en boutique ou dans un point de vente agréé.
 
   
 
@@ -1114,10 +1111,7 @@ Les retours doivent remplir les conditions ci-dessous pour être acceptés :
 
   
 
-* Le formulaire de retour doit être inclus dans le colis.
-* Les articles doivent être neufs, non portés et dans leur emballage d'origine.
-* L'étiquette en carton avec le prix, le code à barres et le nom du produit doit également être renvoyée avec l'article dans le même état qu'il a été envoyé.
-* Les articles retournés endommagés, incomplets, usés, salis ou lavés ou qui portent des odeurs de cuisine, de tabac ou de sueur, ne seront ni repris ni remboursés, ni échangés.
+  
 
   
 
@@ -1137,19 +1131,19 @@ Cas particuliers :
 
   
 
-* **Prêt-à-Porter**
+**Prêt-à-porter**
 
 Les articles doivent être retournés non portés, non endommagés, non usés et non lavés, avec leurs étiquettes créateurs intactes.
 
   
 
-* **Sacs & Accessoires**
+**Sacs & Accessoires**
 
 Les articles doivent être retournés comme ils ont été reçus, dans leur emballage d'origine et avec les certificats d'authenticité et étiquettes créateurs intactes.
 
   
 
-* **Chaussures**
+**Chaussures**
 
 Les chaussures ne doivent pas avoir été portées, sauf lorsqu'elles sont essayées. Les semelles doivent être lisses et à l'état neuf, sans rayures indiquant qu'elles ont été portées.
 
@@ -1157,25 +1151,25 @@ La boîte à chaussures doit être en parfait état et ne doit en aucun cas êtr
 
   
 
-* **Lingerie et maillots de bain**
+**Lingerie et maillots de bain**
 
 Les sous-vêtements et bas de maillots de bains doivent être essayés par-dessus des sous vêtement et les protections adhésives ne doivent pas être ôtées.
 
   
 
-* **Joaillerie fine**
+**Joaillerie fine**
 
 Ces pièces d'exception doivent être retournées neuves et non utilisées dans leur boîte d'origine avec la protection plastique et toutes les étiquettes de créateurs intactes.
 
   
 
-* **Montres de luxe**
+**Montres**
 
-Les montres de luxe doivent être retournées neuves et non utilisées dans leur boîte d'origine avec la protection plastique sur le cadran, la garantie, la boîte de présentation et tout autre packaging extérieur. Veuillez également vous assurer que la montre n'a pas été mise à l'heure correcte.
+Les montres doivent être retournées neuves et non utilisées dans leur boîte d'origine avec la protection plastique sur le cadran, la garantie, la boîte de présentation et tout autre packaging extérieur. Veuillez également vous assurer que la montre n'a pas été mise à l'heure correcte et qu'elle n'a pas été ajustée en taille.
 
   
 
-* **Produits de beauté**
+**Produits de beauté**
 
 Les articles de beauté doivent être impérativement retournés dans leur emballage d'origine non descellés avec le film plastique de protection et l'opercule intacts. Les articles ne peuvent être essayés et doivent être à l'état neuf, non ouverts, non utilisés, non abimés, non salis, non testés. Pour retourner un article beauté, veillez à remettre les articles dans le colis d'origine; qui a fait l'objet de nombreux tests concluants. Ce conditionnement, résiste en effet, à tous les chocs, chutes et manutentions possibles durant l'acheminement du colis. Si toutefois le colis après ouverture ne permettait pas le retour dans de bonnes conditions des articles beauté, nous vous invitons vivement à trouver un contenant adéquat et à emballer soigneusement les articles retournés pour assurer le maximum de protection pendant le transport.
 
@@ -1193,7 +1187,7 @@ Sous ce délai, depuis la France, les retours sont gratuits (sous conditions du 
 
 Pour les autres pays, un montant sera déduit du remboursement suivant le mode de retour choisi. 
 
-*   
+1.   
     
 
 Afin de réaliser votre retour, il vous suffit de suivre les étapes suivantes : 
@@ -1274,8 +1268,7 @@ S'agissant des frais de livraison initiaux :
 
   
 
-* Si l'ensemble des Produits de la commande sont retournés au titre du droit de rétractation, la Société rembourse également les frais de livraison standard liés à l'envoi de la commande (à l'exception des frais supplémentaires si le Client a choisi un mode de livraison autre que le mode de livraison standard proposé par la Société, et dont le détail figure à l'article 3.3 ci-dessus ainsi que sous le lien Click and Collect, Livraisons et Retours).
-* En cas de renvoi d'une partie seulement de la commande, le remboursement des frais forfaitaires initiaux d'envoi n'est pas dû.
+  
 
   
 
@@ -1502,14 +1495,21 @@ Dans le cadre de la garantie des vices cachés, la Société s'engage au choix d
 
   
 
-* soit, en cas de restitution dudit Produit par le Client, à rembourser le prix du Produit, ainsi que les éventuels frais de livraison et de retour, si le remplacement s'avérait impossible ;
-* soit, en cas de conservation du Produit par le Client, à rembourser à ce dernier une partie de son prix.
+  
 
   
 
 **10.3 PIECES DETACHEES**
 
 La disponibilité ou la non-disponibilité des pièces détachées indispensables à l'utilisation d'un bien acheté et le cas échéant, leur période de disponibilité sont déterminées par le fabricant du bien ou son importateur. Lorsque cette information n'est pas fournie par le fabricant ou son importateur, les pièces détachées indispensables à l'utilisation des biens sont réputées non disponibles.
+
+  
+
+_9.3 SAV_
+
+_En cas de SAV sur une montre, rendez-vous en boutique ou chez un revendeur agréé par la marque afin d'effectuer une expertise. Veuillez vous munir impérativement de la carte de garantie lorsque votre produit bénéficie encore de la couverture garantie._
+
+  
 
   
 
