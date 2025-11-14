@@ -347,6 +347,8 @@ PARFUMS DE MARLY](https://www.printemps.com/fr/fr/parfums-de-marly-beaute?ap_sou
 
 * [DÉCORATION](https://www.printemps.com/fr/fr/decoration)
 
+* [LITERIE](https://www.printemps.com/fr/fr/literie-maison)
+
 * [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance)
     
 * [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
