@@ -541,7 +541,7 @@ PARFUMS DE MARLY](https://www.printemps.com/fr/fr/parfums-de-marly-beaute?ap_sou
 
 * [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
 
-* [Conférences et ateliers](https://evenements.printemps.com/)
+* [Evénements](https://evenements.printemps.com/)
 
 * [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
 
