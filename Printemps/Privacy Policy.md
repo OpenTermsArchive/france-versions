@@ -132,6 +132,8 @@
     * [Mules](https://www.printemps.com/fr/fr/mules-femme)
     * [Tongs et claquettes](https://www.printemps.com/fr/fr/tongs-et-claquettes-femme)
 
+* [MONTRES](https://www.printemps.com/fr/fr/montres-femme)
+    
 * [BIJOUX](https://www.printemps.com/fr/fr/bijoux-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/bijoux-femme)
     * [Boucles d'oreille](https://www.printemps.com/fr/fr/boucles-d-oreille)
@@ -204,6 +206,8 @@
     * [Bottines](https://www.printemps.com/fr/fr/bottes-bottines-homme)
     * [Sandales et Mules](https://www.printemps.com/fr/fr/sandales-et-mules-homme)
     * [Tongs Et Claquettes](https://www.printemps.com/fr/fr/tongs-et-claquettes-homme)
+* [MONTRES](https://www.printemps.com/fr/fr/montres-homme)
+    
 
 * [ACCESSOIRES](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
