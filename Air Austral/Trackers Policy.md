@@ -19,7 +19,7 @@ Les données recueillies sont conservées par Air Austral pour une durée de 6 m
 **Puis-je m'opposer à l'enregistrement des cookies ?**  
 Vous pouvez vous opposer à l'enregistrement de ces "cookies" de façon globale ou au cas par cas en ajustant les paramètres de votre navigateur. Nous vous invitons à vous reporter à la procédure figurant dans les règles d'utilisation de votre navigateur.
 
-[Gestion des cookies](https://www.air-austral.com/mentions-legales.html?_gl=1%2A5tvj86%2A_gcl_au%2AOTY0OTUyODcxLjE3MzgzMTQ0ODQ.#)
+[Gestion des cookies](https://www.air-austral.com/mentions-legales.html#)
 
 Nous vous informons néanmoins que si vous choisissez de refuser tout type de cookies, certaines fonctionnalités du site pourraient ne pas être accessibles.
 
@@ -34,3 +34,22 @@ Nous sommes susceptibles de communiquer des données personnelles vous concernan
 Nous pouvons également être conduits à partager, sous une forme anonyme ou agrégée, des informations sur les visiteurs du Site avec d'autres entités, avec des tiers, dont des annonceurs, des partenaires et des sponsors, dans le but d'analyser les tendances et les habitudes des consommateurs et d'améliorer notre Site.
 
 Le Site peut contenir des liens vers d'autres sites qui ne sont pas soumis aux présentes règles. Nous invitons les visiteurs à prendre connaissance des règles mises à disposition par les autres sites.
+
+###    
+Transmission des données API-PNR aux autorités publiques
+
+Conformément aux lois et règlements applicables en France et au niveau international, Air Austral est légalement tenue de collecter et de transmettre certaines données d’identification et de voyage de ses passagers aux autorités publiques françaises (douanes, immigration, police, etc.) et étrangères à des fins de :
+
+• Contrôle aux frontières,  
+• Formalités d’immigration,  
+• Prévention et lutte contre le terrorisme,  
+• Prévention et répression des infractions graves.  
+  
+ Pour les vols opérés par Air Austral au départ ou à destination d’un État non-membre de l’Union européenne, les données suivantes peuvent être transmises à l’Unité Information Passagers (UIP) en application de l’article L.232-7 du Code de la sécurité intérieure et du décret n° 2014-1095 du 26 septembre 2014 :  
+  
+• API (Advanced Passenger Information) : données d’identification et informations liées au voyage, collectées au moment de l’enregistrement.  
+• PNR (Passenger Name Record) : données de réservation automatiquement transmises par Air Austral.  
+  
+Ces transmissions sont effectuées conformément au RGPD et à la Loi Informatique et Libertés. Pour plus d’informations, vous pouvez consulter :  
+[https://pnr.gouv.fr/fr/traveler/](https://pnr.gouv.fr/fr/traveler/)  
+[https://eur-lex.europa.eu/legal-content/](https://eur-lex.europa.eu/legal-content/)
