@@ -134,13 +134,13 @@ Paiement et défaut de paiement
 
 5\. Les coordonnées de la carte de paiement utilisées pour le paiement de votre commande sont susceptibles d'être sauvegardées de manière sécurisée. Le cryptogramme visuel au dos de la carte est systématiquement requis pour pouvoir utiliser la carte lors d'un achat ultérieur et vous conservez la possibilité de supprimer la carte de crédit sauvegardée de la liste proposée lors de l'étape de paiement.
 
-Conditions générales d'utilisation des cartes cadeau
+Conditions générales de vente et utilisation de carte cadeau Lacoste
 
-**La carte cadeau Lacoste**, désignée comme **« Carte Cadeau »** est une carte prépayée physique ou digitale émise par nos réseaux de distribution qui contient une valeur monétaire et qui peut être utilisée comme **moyen de paiement** au sein des boutiques Lacoste situées en France métropolitaine et en Corse (ci-après dénommées les « Boutiques ») ainsi que sur le site internet Lacoste.com/fr (ci-après dénommé le « Site »).
+**La carte cadeau Lacoste**, désignée comme **« Carte Cadeau »** est une **carte prépayée physique ou digitale** émise par nos réseaux de distribution qui contient une valeur monétaire et qui peut être **utilisée comme moyen de paiement** au sein des boutiques Lacoste situées en France métropolitaine et en Corse (ci-après dénommées les « Boutiques ») ainsi que sur le site internet Lacoste.com/fr (ci-après dénommé le « Site »).
 
   
 
-Les présentes Conditions Générales de Vente régissent la **vente des Cartes Cadeaux digitales et physiques et leur utilisation**.
+**Les présentes Conditions Générales de Vente régissent la vente ainsi que l'utilisation des Cartes Cadeaux Lacoste digitales et physiques.**
 
   
 
@@ -148,12 +148,20 @@ Lacoste s'autorise à modifier ces Conditions générales à tout moment, afin n
 
   
 
-**DUREE DE VALIDITE DE LA CARTE CADEAU**
+Tous les achats effectués avec une Carte Cadeau sont soumis aux Conditions Générales de Vente en vigueur.
+
+L'achat et l'utilisation de Carte Cadeau sont réservés aux consommateurs non professionnels.
+
+La revente de Cartes Cadeaux est interdite.
+
+  
+
+**DUREE DE VALIDITE DE LA CARTE CADEAU LACOSTE**
 
   
 
 * Carte Cadeau achetée en Boutique : **valable un (1) an à compter de sa date d'achat**.
-* Carte Cadeau digitale : **valable un (1) an à compter de son activation** via le lien dédié transmis par e-mail.
+* Carte Cadeau digitale : **valable un (1) an à compter de sa réception par e-mail.**
 
   
 
@@ -161,58 +169,87 @@ La durée de validité de la Carte Cadeau ne pourra être prolongée, même dans
 
   
 
-**RESEAU DE DISTRIBUTION DES CARTES CADEAU**
+**RESEAU DE DISTRIBUTION DES CARTES CADEAU LACOSTE**
 
   
 
-* En boutique Lacoste en format physique.
-* Sur les sites de distribution partenaires en format digital.
-* L'achat de carte cadeau Lacoste sur le Site n'est pas disponible.
+* Sur le **Site Lacoste** en format digital : https://cartecadeau.lacoste.com.
+* En **Boutiques Lacoste** en format physique.
+* Sur les **sites** de vente à distance **de distribution partenaires** en format digital.
+* Sur le **site internet Seconde Main** lors de la génération de votre crédit (se référer au CGV Seconde Main).
 
   
 
-**UTILISATION D'UNE CARTE CADEAU**
+**ACHAT DE CARTE CADEAU SUR LACOSTE.COM**
 
   
 
-Vous pouvez utiliser votre Carte Cadeau physique ou digitale pour l'achat de tous les articles disponibles à la vente (sauf pour l'achat de Cartes Cadeaux) en ligne sur le Site ainsi qu'au sein des Boutiques Lacoste.
+L'achat d'une Carte Cadeau Lacoste se réalise directement sur : https://cartecadeau.lacoste.com au format digital uniquement.
+
+Ce site est réalisé et hébergé par le partenaire BuyBox (société Oonetic).
+
+La Carte Cadeau digitale est soumise aux présentes Conditions Générales.
+
+La Carte Cadeau réceptionnée via email par le client est à effet d'activation immédiate.
+
+A ce titre, le client accepte que l’exécution commence sans délai à partir de la réception du mail.
+
+**La Carte Cadeau digitale n’est pas nominative**. Elle ne peut donner lieu à un rendu de monnaie, à un échange ou à un remboursement, même partiel, en cas de perte, vol, détérioration ou expiration. Elle ne peut être utilisée pour l’achat d’autres Cartes Cadeaux.
+
+**La Carte Cadeau digitale n’est pas soumise à la TVA**. Aucune annulation d'achat ne pourra être effectué, sauf en cas de fraude avérée. En cas de suspicion de fraude, Lacoste se réserve le droit d’annuler la transaction et de désactiver la Carte Cadeau concernée.
 
   
 
-Trouvez la Boutique la plus proche sur : https://www.lacoste.com/fr/stores
+**Pour procéder à l’achat d’une Carte Cadeau digitale sur le Site, il convient de :**
+
+* Renseigner le nom, prénom et l’adresse e-mail de l’acheteur ainsi que celui du bénéficiaire si le Client souhaite l'envoyer vers un bénéficiaire ;
+* Sélectionner un montant compris entre 25 € et 300 € ;
+* Accepter les Conditions Générales de Vente ;
+* Choisir un moyen de paiement disponible ;
+* Confirmer la commande.
 
   
 
-* La Carte Cadeau peut être créditée d'un montant libre entre **5€ et 500€**.
-* Elle est utilisable en **une ou plusieurs fois jusqu'à épuisement du solde**, dans la limite de sa validité.
-* Un moyen de paiement complémentaire peut être ajouté si le solde ne couvre pas l'achat.
+Lacoste s'autorise à modifier l'ensemble des moyens de paiement disponible pour l'achat d'une Carte Cadeau sur son site.
+
+  
+
+**UTILISATION D'UNE CARTE CADEAU LACOSTE**
+
+  
+
+Vous pouvez **utiliser votre Carte Cadeau physique ou digitale** pour l'achat de tous les articles disponibles à la vente (sauf pour l'achat de Cartes Cadeaux) **en ligne sur le Site ainsi qu'au sein des Boutiques Lacoste de France.**
+
+  
+
+**En Boutique :**
+
+* Trouvez la Boutique la plus proche sur : https://www.lacoste.com/fr/stores.
+* En Boutique, plusieurs Cartes Cadeaux peuvent être cumulées dans la limite de 1000 €.
+* Un moyen de paiement complémentaire peut être ajouté si le solde ne couvre pas la totalité de l'achat.
+
+  
+
+**Sur le Site Lacoste.com :**
+
+* Sur le site, une seule Carte Cadeau peut être utilisée par achat.
+* Elle est utilisable en une ou plusieurs fois jusqu'à épuisement du solde, dans la limite de sa validité.
 * Le paiement se fait automatiquement à hauteur du solde disponible.
+* Un moyen de paiement complémentaire peut être ajouté si le solde ne couvre pas l'achat.
 
   
 
-Sur le site Lacoste.com, **une seule Carte Cadeau** peut être utilisée par achat.
-
-En boutique, plusieurs Cartes Cadeaux peuvent être **cumulées dans la limite de 1000 €**.
+La Carte Cadeau n'est pas acceptée comme moyen de paiement sur https://secondemain.lacoste.com.
 
   
 
-Tous les achats effectués avec une Carte Cadeau sont soumis aux **Conditions Générales de Vente** en vigueur.
+**REMBOURSEMENT DES ACHATS EFFECTUÉS AVEC UNE CARTE CADEAU SUR LE SITE**
 
   
 
-L'achat et l'utilisation de carte cadeau sont réservés aux **consommateurs non professionnels**.
-
-La **revente** de Cartes Cadeaux est **interdite**.
-
-  
-
-**REMBOURSEMENT DES ACHATS EFFECTUÉS AVEC UNE CARTE CADEAU**
-
-  
-
-* Le montant remboursé est recrédité **sous forme d'une nouvelle Carte Cadeau**.
-* Aucun remboursement en liquide, sauf disposition légale.
+* **Le montant remboursé est recrédité sous forme d'une nouvelle Carte Cadeau**.
 * En cas de remboursement partiel, une nouvelle Carte Cadeau est émise pour le montant correspondant.
+* Aucun remboursement en liquide, sauf disposition légale.
 
   
 
@@ -220,19 +257,19 @@ La **revente** de Cartes Cadeaux est **interdite**.
 
   
 
-La propriété de la Carte Cadeau vous est transférée lors de l’achat dans nos réseaux de distribution et les risques liés à la perte de celle-ci vous sont transférés lors de la transmission physique ou digitale de votre Carte Cadeau. Le titulaire de la Carte Cadeau en est responsable
+La propriété de la Carte Cadeau vous est transférée lors de l’achat dans nos réseaux de distribution et les risques liés à la perte de celle-ci vous sont transférés lors de la transmission physique ou digitale de votre Carte Cadeau. Le titulaire de la Carte Cadeau en est responsable.
 
   
 
-Lacoste peut bloquer ou désactiver une Carte Cadeau dans les cas suivants :
+**Lacoste peut bloquer ou désactiver une Carte Cadeau dans les cas suivants :**
 
   
 
-1\. Suspicion d'utilisation frauduleuse ou illicite.
+1\. Non-respect des présentes Conditions Générales.
 
-2\. Non-respect des présentes Conditions Générales.
+2\. Utilisation trompeuse, abusive ou préjudiciable.
 
-3\. Utilisation trompeuse, abusive ou préjudiciable.
+3\. Suspicion d'utilisation frauduleuse ou illicite.
 
   
 
@@ -240,11 +277,10 @@ Vous êtes responsable de la protection des éléments de votre Carte (code-barr
 
   
 
-En cas de **perte ou vol** :
+**En cas de perte ou vol** :
 
-* Lacoste peut bloquer temporairement la Carte Cadeau avec preuve d'achat.
 * Lacoste n'a aucune obligation de remplacement.
-* Seul le solde disponible au moment de la déclaration peut être recrédité sous forme d'une nouvelle Carte.
+* Seul le solde disponible au moment de la déclaration peut être recrédité sous forme d'une nouvelle Carte Cadeau.
 
   
 
@@ -260,7 +296,7 @@ En cas de non-respect des Conditions, ou en cas d'utilisation frauduleuse/trompe
 
   
 
-Les données personnelles collectées sont traitées conformément à la **politique de confidentialité** disponible sur Lacoste.com
+Les données personnelles collectées sont traitées conformément à la **politique de confidentialité** disponible sur Lacoste.com.
 
   
 
@@ -268,7 +304,7 @@ Les données personnelles collectées sont traitées conformément à la **polit
 
   
 
-En cas de réclamation, vous pouvez contacter Lacoste via le formulaire : www.lacoste.com/fr/contactus
+En cas de réclamation, vous pouvez contacter Lacoste via le formulaire : www.lacoste.com/fr/contactus.
 
   
 
@@ -284,10 +320,13 @@ Le fait de ne pas agir au titre des présentes Conditions ne constitue pas une r
 
   
 
-* Ces Conditions Générales sont disponibles uniquement en français.
-* Elles remplacent toute version antérieure à compter du 16/09/2025.
-* Régies par le **droit français**.
-* Si une stipulation est jugée invalide, les autres restent applicables.
+Ces Conditions Générales sont disponibles uniquement en français.
+
+Elles remplacent toute version antérieure à compter du 18/11/2025.
+
+Régies par le droit français.
+
+Si une stipulation est jugée invalide, les autres restent applicables.
 
   
 
@@ -301,7 +340,7 @@ Le fait de ne pas agir au titre des présentes Conditions ne constitue pas une r
 
 Téléphone : (+33) 02 46 94 80 09
 
-Formulaire de contact :www.lacoste.com/fr/contactus
+Formulaire de contact : www.lacoste.com/fr/contactus
 
 Facturation
 
