@@ -845,7 +845,7 @@ La base légale du traitement des données nécessaires à la détection des tra
 Finalités
 
 Afin de détecter toute tentative de fraude, Decathlon utilise, en collaboration avec ses prestataires de services, des outils de détection pouvant inclure un profilage (c’est-à-dire l’analyse d’attributs associés à des comportements frauduleux). En fonction du niveau de risque identifié, ce processus peut impacter le déroulement de votre achat.  
-Si vous souhaitez que votre transaction fasse l’objet d’un réexamen manuel, il vous suffit de contacter notre Service Relation Client en cliquant [ici](https://www.decathlon.fr/help/app/ask/cat_id/920)
+Si vous souhaitez que votre transaction fasse l’objet d’un réexamen manuel, il vous suffit de contacter notre Service Relation Client en cliquant [ici](https://forms-prod3.sprinklr.com/guided-workflows/67eff260c9a6222cee21d688?gwId=68cad9bba6be476aed1eef20)
 
 ##### PROFITEZ DU WIFI GRATUIT EN MAGASIN
 
@@ -969,7 +969,7 @@ Pour exercer vos droits :
 
 Pour supprimer votre compte en toute autonomie, [cliquez ici](https://account.decathlon.com/fr-FR/privacy/account-deletion)
 
-* Envoyez-nous un message : Cliquez [ici](https://www.decathlon.fr/help/app/ask/cat_id/920). Afin que votre demande soit gérée le plus efficacement possible, n’oubliez pas :
+* Envoyez-nous un message : Cliquez [ici](https://forms-prod3.sprinklr.com/guided-workflows/67eff260c9a6222cee21d688?gwId=68cad9bba6be476aed1eef20). Afin que votre demande soit gérée le plus efficacement possible, n’oubliez pas :
 
 * de nous indiquer le(s) traitement(s) concerné(s) par votre demande de nous indiquer le(s) droit(s) que vous souhaitez mettre en œuvre ;
 * de nous communiquer toute information nous permettant de nous assurer que l’auteur de la demande est bien la personne concernée par le traitement (n° de carte Decathlon, N° de dernière commande, Date de naissance renseignée etc...).
@@ -1004,7 +1004,7 @@ Nous vous garantissons que DECATHLON n'enverra aucune donnée à votre réseau s
 
 A qui dois-je m'adresser pour supprimer les données partagées via le Social Login ?
 
-Les Données obtenues via la fonctionnalité Social Login relèvent de la responsabilité de DECATHLON et seront traitées selon notre politique de gestion des données à caractère personnel. En conséquence, les demandes d'accès, de rectification, suppression, etc. devront nous être adressées directement en cliquant [ici](https://www.decathlon.fr/help/app/ask/cat_id/920).  
+Les Données obtenues via la fonctionnalité Social Login relèvent de la responsabilité de DECATHLON et seront traitées selon notre politique de gestion des données à caractère personnel. En conséquence, les demandes d'accès, de rectification, suppression, etc. devront nous être adressées directement en cliquant [ici](https://forms-prod3.sprinklr.com/guided-workflows/67eff260c9a6222cee21d688?gwId=68cad9bba6be476aed1eef20).  
 Attention, toute éventuelle suppression effectuée chez DECATHLON n'aura aucun effet sur les données vous concernant traitées directement par votre réseau social, et vice versa.
 
 #### Notre délégué à la protection des données
@@ -1017,4 +1017,4 @@ Une question, une remarque, une inquiétude...? Je suis à votre disposition !
 
 Grégory, Délégué à la protection des données chez Decathlon.
 
-Pour me contacter, il vous suffit de m’envoyer un message en cliquant juste [ici](https://www.decathlon.fr/help/app/ask/cat_id/920)
+Pour me contacter, il vous suffit de m’envoyer un message en cliquant juste [ici](https://forms-prod3.sprinklr.com/guided-workflows/67eff260c9a6222cee21d688?gwId=68cad9bba6be476aed1eef20)
