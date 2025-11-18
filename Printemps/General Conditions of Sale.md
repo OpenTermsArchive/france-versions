@@ -756,10 +756,12 @@ Sauf en cas de force majeure et à l'exclusion de certaines périodes de fortes 
 
   
 
-* Les commandes seront préparées et expédiées dans les termes et conditions de l'article 3.1 ci-dessus ;
-* Les délais d'expédition et de livraison seront indiqués ceux à l'article 3.4 ci-dessous, dans la limite des stocks disponibles. Ces délais courent :
-* Pour le délai d'expédition : à compter de la date du mail de confirmation de commande;
-* Pour le délai de livraison : à compter de la date du mail d'expédition envoyé par la Société au Client.
+1. Les commandes seront préparées et expédiées dans les termes et conditions de l'article 3.1 ci-dessus ;
+2. Les délais d'expédition et de livraison sont indiqués à l'article 3.4 ci-dessous en fonction du mode de livraison sélectionné, dans la limite des stocks disponibles des articles commandés. Ces délais courent :
+3. Pour le délai d'expédition : à compter de la date du mail de confirmation de commande ;
+4. Pour le délai de livraison : à compter de la date du mail d'expédition envoyé par la Société au Client
+
+  
 
   
 
@@ -767,7 +769,7 @@ La Société s'engage à informer par e-mail le Client de l'évolution du traite
 
   
 
-Par ailleurs, pour suivre son colis, le Client s'identifiera sur son compte client, puis ira dans la rubrique « Mon compte » et cliquera sur « Mes commandes ». Le Client est informé qu'il n'y a pas de suivi de livraison dans un délais de 24 heures suivant la commande, celle-ci faisant l'objet d'un traitement préalable par une plateforme de tri. Passé ce délai, le Client pourra suivre l'acheminement de son colis directement sur le site du transporteur sélectionné lors de la passation de la commande.
+Par ailleurs, pour suivre son colis, le Client s'identifiera sur son compte client, puis ira dans la rubrique « Mon compte » et cliquera sur « Mes commandes ». Le Client est informé qu'il n'y a pas de suivi de livraison dans un délai de 24 heures suivant la commande, celle-ci faisant l'objet d'un traitement préalable par une plateforme de tri. Passé ce délai, le Client pourra suivre l'acheminement de son colis directement sur le site du transporteur sélectionné lors de la passation de la commande.
 
   
 
@@ -785,17 +787,15 @@ La Société propose au Client les modes de livraison aux prix détaillés ci-de
 
   
 
-**CLICK AND COLLECT - GRATUIT**, dans les magasins Printemps\*
+**CLICK AND COLLECT - GRATUIT**, dans les magasins Printemps\* (sous 2 à 3 jours ouvrés)
 
-\* Service non disponible à Printemps Le Havre, Printemps Caen, Printemps Brest, Printemps Tours et Printemps Outlet Miramas.
+\* Service non disponible pour les magasins Printemps Le Havre, Printemps Caen, Printemps Brest, Printemps Tours, Printemps Outlet Giverny et Printemps Outlet Miramas.
 
-  
-
-* Ce service de livraison permet au Client de faire livrer sa commande au magasin Printemps choisi lors de sa commande parmi ceux proposant ce service. Une fois la commande arrivée au Click & Collect, un email contenant un code de retrait sera envoyé. Pour retirer la commande, le Client devra se présenter au Click & Collect muni de ce code ainsi que de sa pièce d'identité. La commande est disponible dans l'espace Click & Collect du magasin Printemps choisi durant 14 jours à compter de la date d'arrivée de la commande dans le magasin sélectionné.
+1. Ce service de livraison permet au Client de faire livrer sa commande dans le magasin Printemps choisi lors de sa commande parmi ceux proposant ce service. Une fois la commande arrivée au Click & Collect, un email contenant un code de retrait sera envoyé. Pour retirer la commande, le Client devra se présenter au Click & Collect muni de ce code ainsi que de sa pièce d'identité. La commande est disponible dans l'espace Click & Collect du magasin Printemps choisi durant 14 jours à compter de la date d'arrivée de la commande dans le magasin sélectionné.
 
   
 
-* Pour tous les magasins Printemps (hors liste ci-dessus), le délai de livraison de Click & Collect est de 24 heures. Toutes les commandes passées avant 13 h seront livrées le lendemain. Toutes les commandes passées après 13 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes. Les commandes passées le vendredi après 13 h et le week-end seront disponibles pour retrait le mardi matin.
+1. Pour tous les magasins Printemps (hors liste ci-dessus), le délai de livraison de Click & Collect est de 24 heures. Toutes les commandes passées avant 13 h seront livrées le lendemain. Toutes les commandes passées après 13 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes. Les commandes passées le vendredi après 13 h et le week-end seront disponibles pour retrait le mardi matin.
 
   
 
@@ -803,15 +803,11 @@ Le retrait de la commande est possible aux jours et heures d'ouverture du magasi
 
   
 
-Pour plus d'informations sur les jours et horaires d'ouverture des magasins Printemps, nous vous invitons à consulter le site [www.printemps.com/fr/fr/magasins](https://www.printemps.com/fr/fr/magasins)
+Pour plus d'informations sur les jours et horaires d'ouverture des magasins Printemps, le Client est invité à consulter le site [www.printemps.com/fr/fr/magasins](https://www.printemps.com/fr/fr/magasins)
 
   
 
-**STANDARD COLISSIMO -** 5,90 euros (48 à 72 heures)
-
-  
-
-Livraisons offertes dès 200 euros d'achat hors produits Braderie
+**STANDARD COLISSIMO -** 6,90 euros (sous 48 à 72 heures)
 
   
 
@@ -837,7 +833,7 @@ Certaines commandes peuvent être livrées contre scan d'un QR code lors de la l
 
   
 
-**EXPRESS CHRONOPOST** - 9,90 euros (en 24 heures)
+**EXPRESS CHRONOPOST** - 8,00 euros (en 24 heures)
 
   
 
@@ -865,27 +861,31 @@ Pour que le colis soit remis, le livreur devra obligatoirement saisir le code s�
 
   
 
-**CHRONOPOST SHOP2SHOP -** 4,90 euros (48h) (hors Corse)
+**CHRONOPOST SHOP2SHOP -** 2,95 euros (48h) (hors Corse)
 
   
 
-Livraisons offertes dès 200 euros d'achat (hors produits Braderie)
+Livraisons offertes dès 150 euros d'achat
 
   
 
-La livraison standard en relais Shop2Shop par Chronopost propose une livraison sous 48 heures dans les points relais partenaires. 
+La livraison standard en relais Shop2Shop par Chronopost propose une livraison sous 48 heures dans les points relais partenaires.
 
   
 
-Le colis restera 7 jours calendaires au point relais, avant de faire retour le 8ème jour.
+Le colis restera disponible 7 jours calendaires à compter de la date de la mise à disposition au sein du point relais. Passé ce délai, il fera l’objet d’un retour le 8ème jour.
 
   
 
-Du lundi au vendredi, toutes les commandes enregistrées avant 13h sont expédiées le jour-même.
+Toutes les commandes passées avant 13 h du lundi au vendredi sont expédiées le jour-même.
 
   
 
-Les commandes sont traitées dans la matinée le jour ouvrable suivant. Les commandes passées entre 13h le vendredi et 13h le lundi sont expédiées le lundi soir.
+Toutes les commandes passées après 13 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes.
+
+Les commandes passées entre 13h le vendredi et 13h le lundi sont expédiées le lundi soir.
+
+Tous les produits sont concernés par la livraison en point relais chrono offerte dès 150€
 
   
 
@@ -893,17 +893,17 @@ Les commandes sont traitées dans la matinée le jour ouvrable suivant. Les comm
 
 **Union Européenne**
 
-Livraisons standard offertes dès 300 euros d'achat (hors produits Braderie)
+Livraisons standard offertes dès 300 euros d'achat
 
   
 
-**CHRONO STANDARD INTERNATIONAL**, 10 euros (sous 2 à 3 jours)
+**CHRONO STANDARD INTERNATIONAL**, 10 euros (sous 2 à 3 jours ouvrés)
 
-Livraison standard à domicile pour les pays suivants : Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas et Portugal.
+Livraison standard à domicile pour les pays suivants : Allemagne, Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas et Portugal.
 
   
 
-Avec le service Predict de Chronopost, vous avez un large choix d'option de livraison :
+Avec le service Predict de Chronopost, le Client dispose d'un large choix d'option de livraison :
 
 \- Reprogrammation de la date de livraison
 
@@ -919,7 +919,7 @@ Avec le service Predict de Chronopost, vous avez un large choix d'option de livr
 
   
 
-Livraisons offertes dès 300 euros d'achat (hors produits Braderie)
+Livraisons offertes dès 300 euros d'achat
 
   
 
@@ -933,15 +933,31 @@ Le délai de livraison est en moyenne de 2 à 3 jours.
 
 Le prix varie selon le pays de destination : 
 
+1. 5,90€ en Belgique, Italie, Luxembourg, Pays-Bas, Portugal
+2. 7,90€ en Espagne
+3. 10€ en Autriche et Irlande
+
   
 
-* 5,90€ en Belgique, Pays-Bas, Luxembourg, Portugal et Italie
-* 7,90€ en Espagne
-* 10€ en Autriche et Irlande
+  
+
+**Royaume-Uni**
+
+  
+
+**CHRONO STANDARD INTERNATIONAL**, 8 GBP (sous 3 à 4 jours ouvrés)
+
+Livraison offerte dès 300 GBP d'achat
+
+Livraison standard à domicile
+
+  
 
   
 
 **DOM-TOM et reste du monde**
+
+  
 
 **COLIS EXPAT**
 
@@ -965,7 +981,7 @@ Tout colis présentant des anomalies apparentes (avarie, produit manquant par ra
 
   
 
-Le Client devra retourner le Produit concerné en suivant impérativement la procédure de retour des Produits décrite à l'article 9.1.
+Le Client devra retourner le Produit concerné en suivant impérativement la procédure de retour des Produits décrite à l'article 8.1.
 
   
 
@@ -973,7 +989,7 @@ Si l'anomalie est avérée et confirmée par la Société, le Client recevra, so
 
   
 
-Le cas échéant, le remboursement du Produit, des frais de livraison et des frais engagés pour le retour interviendront dans un délai de 14 jours à compter de la date à laquelle la Société aura confirmé au Client qu'il a droit audit remboursement conformément aux Garanties décrites à l'article 10.
+Le cas échéant, le remboursement du Produit, des frais de livraison et des frais engagés pour le retour interviendront dans un délai de 14 jours à compter de la date à laquelle la Société aura confirmé au Client qu'il a droit audit remboursement conformément aux Garanties décrites à l'article 9.
 
 Article 4 - Paiement
 --------------------
@@ -1062,11 +1078,11 @@ Article 7 - Droit de rétractation
 
 **7.1 DÉLAI DE RÉTRACTATION**
 
-Conformément à l'article L 221-18 du Code de la Consommation, le Client dispose d'un délai de quatorze (14) jours calendaires à compter de la date de réception de sa commande pour exercer sa faculté de rétractation, sans avoir à motiver sa décision.
+Le Client dispose d'un délai de trente (30) jours calendaires à compter de la date de réception de sa commande pour exercer sa faculté de rétractation, sans avoir à motiver sa décision.
 
   
 
-En cas de livraisons multiples pour une même commande, le délai de rétractation expire quatorze (14) jours calendaires après le jour où le Client prend physiquement possession du dernier Produit.
+En cas de livraisons multiples pour une même commande, le délai de rétractation expire trente (30) jours calendaires après le jour où le Client prend physiquement possession du dernier Produit.
 
   
 
@@ -1074,15 +1090,17 @@ Si le dernier jour tombe un samedi, un dimanche ou un jour férié, le délai es
 
   
 
+  
+
 **7.2 EXERCICE DU DROIT DE RÉTRACTATION**
 
-* Notification de la décision de rétractation :
+  
 
 Pour exercer son droit de rétractation, le Client doit informer la Société de sa décision de rétractation au moyen du [formulaire téléchargeable](https://medias.printemps.com/image/03/8/2528038.pdf) ou présent en annexe ou d'une déclaration dénuée d'ambiguïté, adressé.e soit par courrier postal à l'adresse Printemps.com Service Relation Client 102 rue de Provence 75009 Paris, soit par courrier électronique à l'adresse service-client@printemps.com
 
   
 
-* Retour du Produit après rétractation :
+  
 
 Le Client doit renvoyer le Produit à la Société sans retard excessif, et au plus tard 30 jours calendaires après avoir reçu sa commande à l'adresse suivante :
 
@@ -1100,9 +1118,7 @@ Pour plus d'informations sur les frais et modalités de retour, consultez la pag
 
   
 
-* Exception : il n'existe aucun droit de rétractation pour :
-* Les Produits confectionnés selon les spécifications du consommateur ou nettement personnalisés
-* Les Produits dès lors qu'ils ont été portés, lavés, retouchés ou endommagés de manière définitive.
+  
 
   
 
@@ -1189,28 +1205,36 @@ Le Client dispose de 30 jours pour retourner sa commande à compter de la date d
 
 Sous ce délai, depuis la France, les retours sont gratuits (sous conditions du mode de retour).
 
-Pour les autres pays, un montant sera déduit du remboursement suivant le mode de retour choisi. 
+Pour les autres pays, un montant sera déduit du remboursement suivant le mode de retour choisi.
 
-1.   
-    
+1. Retour via Colissimo :
+2. 15,00€ (quinze euros) seront déduits du remboursement pour les retours en provenance de : Allemagne, Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas, Portugal
 
-Afin de réaliser votre retour, il vous suffit de suivre les étapes suivantes : 
-
-  
-
-1. Connectez vous à votre compte client et accédez à la rubrique "Mes Achats et Retours" puis "Effectuer un retour/échange". Si vous avez passé votre commande en mode Invité, vous trouverez un lien vous permettant d'accéder au retour sur votre email de confirmation de commande.
-2. Effectuez la procédure de retour/échange et imprimez le bon de retour ainsi que l'étiquette de retour. 
-3. Emballez soigneusement votre article pour qu'il soit bien protégé pendant le transport. Si l'état du carton ne vous permet pas de le réutiliser pour votre retour, vous pouvez utiliser un autre emballage approprié. 
-4. Insérez le bon de retour dans votre colis, et collez l'étiquette de retour sur votre emballage.
-5. Déposez votre colis dans un bureau de poste, relais Chrono 2Shop ou dans le magasin Printemps de votre choix. Pensez à l'empreinte carbone ! Le retour en magasin, un petit pas pour vous mais un grand pas pour la planète 
+1. 10 GBP (dix livres sterlings) seront déduits du remboursement pour les retours en provenance du Royaume-Uni
 
   
 
-Si l'état du colis ouvert ne permet pas de le réutiliser pour le retour, le Client doit utiliser un autre emballage approprié et emballer soigneusement les articles pour qu'ils soient bien protégés pendant le transport. 
+1. Retour via point relais Chronopost :
+2. 15,00€ (quinze euros) seront déduits du remboursement pour les retours en provenance de : Autriche, Espagne, Irlande,
+3. 10,00€ (dix euros) seront déduits du remboursement pour les retours en provenance de : Belgique, Espagne, Luxembourg, Pays-Bas, Portugal
+
+Afin de réaliser le retour, le Client doit suivre les étapes suivantes :
 
   
 
-NB : Pour faciliter le suivi de votre retour et assurer un bon traitement, il est nécessaire d'utiliser l'étiquette de transport fournie par la Société et de conserver la preuve de dépôt tamponnée jusqu'au remboursement. Dans le cas contraire, la Société ne pourra garantir le remboursement. 
+1. Se connecter à son compte client et accéder à la rubrique "Mes Achats et Retours" puis "Effectuer un retour/échange". Si la commande a été passée en mode Invité, le Client trouvera un lien lui permettant d'accéder au retour dans l’email de confirmation de sa commande.
+2. Effectuer la procédure de retour/échange et imprimer le bon de retour ainsi que l'étiquette de retour.
+3. Emballer soigneusement l’article pour qu'il soit bien protégé pendant le transport. Si l'état de l’emballage utilisé lors de la livraison ne permet pas au Client de le réutiliser pour son retour, il doit utiliser un autre emballage approprié.
+4. Insérer le bon de retour dans le colis, et coller l'étiquette de retour sur l’emballage.
+5. Déposer le colis dans un bureau de poste, relais Chrono 2Shop ou dans un magasin Printemps acceptant les retours.
+
+  
+
+Si l'état du colis ouvert ne permet pas de le réutiliser pour le retour, le Client doit utiliser un autre emballage approprié et emballer soigneusement les articles pour qu'ils soient bien protégés pendant le transport.
+
+  
+
+NB : Pour faciliter le suivi de votre retour et assurer un bon traitement, il est nécessaire d'utiliser l'étiquette de transport fournie par la Société et de conserver la preuve de dépôt tamponnée jusqu'au remboursement. Dans le cas contraire, la Société ne pourra garantir le remboursement.
 
   
 
@@ -1230,23 +1254,27 @@ Le Client sera contacté si cela s'applique à son compte.
 
   
 
-Pour procéder à un échange :
+Pour procéder à un échange le Client doit :
 
-1\. Identifiez-vous dans la rubrique « Mon compte ».
+1\. s’identifier dans la rubrique « Mon compte ».
 
-2\. Dans la rubrique "MES COMMANDES ET RETOURS" cliquez sur "Effectuer un retour ou échange"
+2\. Dans la rubrique "MES COMMANDES ET RETOURS" cliquer sur "Effectuer un retour ou échange"
 
-3\. Choisissez l'article à échanger ainsi que le produit souhaité en échange. Seul un échange de taille ou de coloris est possible. Dans le cas où vous auriez reçu un produit défectueux, vous pouvez demander le même produit en échange. 
+3\. Choisir l'article à échanger ainsi que le Produit souhaité en échange. Seul un échange de taille ou de coloris est possible. Dans le cas où le Produit reçu serait défectueux, le Client peut demander le même Produit en échange.
 
-4\. Sélectionnez le motif du retour ainsi que le mode de remboursement dans l'hypothèse où l'échange ne serait pas réalisable (re-crédit sur le mode de paiement utilisé ou bon d'achat). Si le produit n'est pas disponible à réception, le remboursement sera émis sur le moyen sélectionné. 
+4\. Sélectionner le motif du retour ainsi que le mode de remboursement dans l'hypothèse où l'échange ne serait pas réalisable (re-crédit sur le mode de paiement utilisé ou bon d'achat). Si le Produit n'est pas disponible à réception, le remboursement sera émis sur le moyen de paiement sélectionné.
 
-5\. Imprimez le bon, et insérez-le dans le colis retour, et collez l'étiquette transporteur sur le colis.
+5\. Imprimer le bon, l’insérer dans le colis retour et collez l'étiquette du transporteur sur le colis.
 
-6\. Déposez le colis chez un [commerçant partenaire Laposte](https://localiser.laposte.fr/) ou directement en bureau de Poste. Pour information, un retour déposé en bureau de poste met moins longtemps à parvenir à la Société qu'un retour déposé chez un commerçant.
+6\. Déposer le colis chez un [commerçant partenaire Laposte](https://localiser.laposte.fr/) ou directement en bureau de Poste. Pour information, un retour déposé en bureau de poste met généralement moins longtemps à parvenir à la Société qu'un retour déposé chez un commerçant.
 
-7\. À réception du colis, la Société procédera à l'échange dans la limite des stocks disponibles au moment de la réception. 
+7\. À réception du colis, la Société procédera à l'échange dans la limite des stocks disponibles au moment de la réception.
 
-Si la taille souhaitée est disponible au même tarif, la Société recommande au Client de faire une demande de remboursement pour la commande initiale et de renouveler la commande avec le produit désiré sans attendre le retour de l'article. 
+Si la taille souhaitée est disponible au même tarif, la Société recommande au Client de faire une demande de remboursement pour la commande initiale et de renouveler la commande avec le Produit désiré sans attendre le retour de l'article.
+
+  
+
+  
 
   
 
@@ -1260,7 +1288,7 @@ Le remboursement est déclenché dès la récupération du Produit par la Socié
 
   
 
-La preuve de l'expédition du Produit sera adressée par le Client par courrier postal à l'adresse suivante :Service Relation Client Printemps.com 102 rue de Provence 75009 Paris .
+La preuve de l'expédition du Produit sera adressée par le Client par courrier postal à l'adresse suivante : Service Relation Client Printemps.com 102 rue de Provence 75009 Paris.
 
   
 
@@ -1272,7 +1300,8 @@ S'agissant des frais de livraison initiaux :
 
   
 
-  
+1. Si l'ensemble des Produits de la commande sont retournés au titre du droit de rétractation, la Société rembourse également les frais de livraison standard liés à l'envoi de la commande (à l'exception des frais supplémentaires si le Client a choisi un mode de livraison autre que le mode de livraison standard proposé par la Société, et dont le détail figure à l'article 3.3 ci-dessus ainsi que sous le lien Click and Collect, Livraisons et Retours).
+2. En cas de renvoi d'une partie seulement de la commande, le remboursement des frais forfaitaires initiaux d'envoi n'est pas dû.
 
   
 
