@@ -206,11 +206,8 @@
     * [Bottines](https://www.printemps.com/fr/fr/bottes-bottines-homme)
     * [Sandales et Mules](https://www.printemps.com/fr/fr/sandales-et-mules-homme)
     * [Tongs Et Claquettes](https://www.printemps.com/fr/fr/tongs-et-claquettes-homme)
-* [MONTRES](https://www.printemps.com/fr/fr/montres-homme)
-    
 
 * [ACCESSOIRES](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
     * [Bijoux](https://www.printemps.com/fr/fr/bijoux-homme)
     * [Bonnets et Casquettes](https://www.printemps.com/fr/fr/chapeaux-homme)
     * [Lunettes De Soleil](https://www.printemps.com/fr/fr/lunettes-homme)
@@ -219,6 +216,8 @@
     * [Gants](https://www.printemps.com/fr/fr/gants-homme)
     * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-homme)
     * [Écharpes](https://www.printemps.com/fr/fr/echarpes-homme)
+* [MONTRES](https://www.printemps.com/fr/fr/montres-homme)
+    
 
 * [SACS](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
