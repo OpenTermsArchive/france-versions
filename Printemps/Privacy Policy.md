@@ -16,7 +16,7 @@
     * [Femme](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
     * [Homme](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
     * [Mise en beauté](https://www.printemps.com/fr/fr/maquillage)
-* [LES CALENDRIER DE L'AVENT](https://www.printemps.com/fr/fr/calendrier-noel)
+* [LES CALENDRIERS DE L'AVENT](https://www.printemps.com/fr/fr/calendrier-noel)
     
 * [LES COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
     
@@ -548,9 +548,7 @@ PARFUMS DE MARLY](https://www.printemps.com/fr/fr/parfums-de-marly-beaute?ap_sou
 
 * [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/92/8/8633928.jpg)
-
-AMI PARIS](https://www.printemps.com/fr/fr/amiparis?&sortBy[state.isNew]=asc?ap_source=anico&ap_medium=vignette_nav&ap_campaign=ami-paris)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/68/5/8629685.jpg)](https://www.printemps.com/fr/fr/idees-cadeaux-noel)
 
   
 
