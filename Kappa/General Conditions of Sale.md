@@ -1,12 +1,14 @@
 Conditions générales de vente
 =============================
 
-Kappa a reçu des plaintes d'utilisateurs concernant la non-livraison de produits achetés en ligne sur des sites prétendants vendre du Kappa.
+**Attention aux sites frauduleux prétendant vendre des produits Kappa**
 
-  
-Ces sites web n'ont aucun lien avec Kappa France ni avec aucune entreprise directement ou indirectement liée à Kappa France ou aux propriétaires légitimes de la marque, ils ne sont pas autorisés à utiliser le nom commercial Kappa ou ses marques, son image graphique ou ses logos et, en général, à vendre des produits Kappa. Toute activité d'offre ou de vente de produits Kappa sur et par d'autres sites que [https://www.kappa.fr](https://www.kappa.fr/) est frauduleuse et n'a aucun lien avec Kappa France et ses entreprises associées.  
-  
-Kappa a procédé au signalement de cette activité d'usurpation d'identité frauduleuse auprès des autorités.  
+Nous vous invitons à faire preuve de vigilance lors de vos achats en ligne. Kappa reçoit des signalements d'utilisateurs concernant la non-livraison de produits commandés sur des sites se faisant passer pour des distributeurs officiels de la marque.
+
+Ces sites n'ont aucun lien avec Kappa France ni avec aucune entreprise affiliée, directement ou indirectement, à la marque Kappa. Ils ne sont pas autorisés à utiliser le nom commercial Kappa, ses marques déposées, son identité visuelle ou ses logos. En conséquence, toute offre ou vente de produits Kappa effectuée en dehors du site officiel [www.kappa.fr](http://www.kappa.fr/ "http://www.kappa.fr/") est frauduleuse et ne relève en aucun cas de la responsabilité de Kappa France ou de ses partenaires.
+
+Soucieuse de préserver la qualité de service et la confiance de ses clients, Kappa signale systématiquement ces pratiques frauduleuses et usurpations d'identité aux autorités compétentes dès qu’elles sont identifiées.
+
 \-----------------------------------------------
 
  Les présentes Conditions Générales définissent les conditions de vente des produits proposés par la société **KAPPA FRANCE**, SARL, au capital de 3 090 000 Euros, immatriculée au Répertoire du Commerce et de l’Industrie de NANTES sous le numéro 423 146 372, située au 41, rue de Bobby Sands, 44800 SAINT-HERBLAIN – numéro de TVA Intracommunautaire FR 31423146372 (ci-après définis et désignés les « Produits ») aux Clients (ci-après définis), sur le site internet accessible à l’adresse suivante : https://www.kappa.fr/ (ci-après le « Site »).
@@ -198,7 +200,7 @@ Les retours de Produits et les remboursements se feront selon les modalités pr�
 
 Le Client doit vérifier que le contenu du colis est conforme à sa Commande.
 
-Si le ou les Produit(s) livré(s) n’est (ne sont) pas conforme(s) à la Commande du fait de KAPPA FRANCE, le Client pourra, conformément aux dispositions ci-dessous (ARTICLE 8) et dans un délai de quatorze (60) jours à compter de la réception de la Commande demander son remboursement. En cas d'impossibilité de remplacer le ou les Produit(s), KAPPA FRANCE procédera au remboursement.
+Si le ou les Produit(s) livré(s) n’est (ne sont) pas conforme(s) à la Commande du fait de KAPPA FRANCE, le Client pourra, conformément aux dispositions ci-dessous (ARTICLE 8) et dans un délai de soixante (60) jours à compter de la date de la commande demander son remboursement. En cas d'impossibilité de remplacer le ou les Produit(s), KAPPA FRANCE procédera au remboursement.
 
 Les remboursements se feront selon les modalités prévues au 8.3.
 
@@ -206,7 +208,7 @@ Les remboursements se feront selon les modalités prévues au 8.3.
 
 **8.1 Rétractation**
 
-Le Client ayant la qualité de consommateur, dispose d'un délai de rétractation de quatorze (60) jours à compter de la réception du ou des Produit(s) commandé(s), sans avoir à justifier de motifs.
+Le Client ayant la qualité de consommateur, dispose d'un délai de rétractation de soixante (60) jours à compter de la commande du ou des Produit(s) commandé(s), sans avoir à justifier de motifs.
 
 Dans ce cas, le Client informe KAPPA FRANCE de sa décision au moyen d'une déclaration écrite dénuée d'ambiguïté, par exemple en renvoyant le formulaire ci-dessous par email (service.clients@kappa.fr) ou par courrier (à l’adresse 41 rue de Bobby Sands, 44800 SAINT-HERBLAIN) :
 
@@ -234,9 +236,9 @@ Le Client est informé que le présent droit de rétractation n'est pas applicab
 
 **8.3 Retour – remboursement**
 
-Tout article qui ne vous conviendrait pas peut vous être remboursé, vous disposez de 60 jours à compter de la réception du colis pour effectuer le retour.
+Tout article qui ne vous conviendrait pas peut vous être remboursé, vous disposez de 60 jours à compter de la date de commande pour effectuer le retour.
 
-Les frais de retour des articles sont à votre charge. Les Produits doivent être renvoyés par le Client dans un délai de quatorze (60) jours suivant la date de notification de la rétractation ou la date de la confirmation par KAPPA FRANCE de l’accord de retour en cas de non-conformité, et dans les conditions suivantes :
+Les frais de retour des articles sont à votre charge. Les Produits doivent être renvoyés par le Client dans un délai de soixante (60) jours suivant la date de notification de la rétractation ou la date de la confirmation par KAPPA FRANCE de l’accord de retour en cas de non-conformité, et dans les conditions suivantes :
 
 * Dans leur emballage d’origine ;
 * Complets (accessoires, notices) ;
@@ -248,7 +250,7 @@ Les Produits qui ne seraient pas retournés dans les délais et dans les conditi
 
 A réception du colis, KAPPA FRANCE jugera du parfait état de la marchandise retournée. Si le retour est refusé par KAPPA FRANCE, les Produits seront alors retournés au Client aux frais de KAPPA FRANCE sans que Le Client puisse exiger une quelconque compensation ou droit à remboursement.
 
-Si les conditions ci-dessus sont remplies, KAPPA FRANCE procèdera au remboursement des paiements reçus du Client au titre de la Commande pour les Produits visés (hors frais de livraison et frais de retours déduits). Ce remboursement sera effectué par crédit sur le compte bancaire du Client correspondant à la carte bancaire ayant servi au paiement dans un délai de quatorze (60) jours à compter de la date de l’exercice du droit de rétractation et sous réserve du bon retour du Produit.
+Si les conditions ci-dessus sont remplies, KAPPA FRANCE procèdera au remboursement des paiements reçus du Client au titre de la Commande pour les Produits visés (hors frais de livraison et frais de retours déduits). Ce remboursement sera effectué par crédit sur le compte bancaire du Client correspondant à la carte bancaire ayant servi au paiement dans un délai de soixante (60) jours à compter de la date de l’exercice du droit de rétractation et sous réserve du bon retour du Produit.
 
 **ARTICLE 9 – DISPONIBILITE DU SITE**
 
