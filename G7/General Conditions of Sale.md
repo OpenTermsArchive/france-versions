@@ -1,12 +1,12 @@
-CONDITIONS GENERALES D’UTILISATION ET DE VENTE
+CONDITIONS GÉNÉRALES D’UTILISATION ET DE VENTE
 ==============================================
 
-En application au 10/12/2024
+En application au 19/11/2025  
 
 1. [Accueil](https://www.g7.fr/)
 2. Conditions générales
 
-**CONDITIONS GENERALES D’UTILISATION ET DE VENTE**
+**CONDITIONS GÉNÉRALES D’UTILISATION ET DE VENTE**  
 
 La société G7, ci-après dénommée « la SOCIETE », société anonyme au capital de 3.836.789 euros, dont le siège social est 22/28, rue Henri Barbusse à CLICHY (92110), immatriculée sous le numéro 324 379 866 RCS NANTERRE – SIRET 324 379 866 00019 – N° TVA intracommunautaire FR 11324379866 – Tel : 01 47 39 09 00, exploite une centrale de réservation de taxis, sous le nom commercial TAXIS G7® et la marque G7®, à laquelle sont affiliés des chauffeurs de taxi parisiens indépendants. La SOCIETE met en relation le client, ci-après dénommé « le CLIENT », avec les chauffeurs de taxi parisiens affiliés, lesquels réalisent, pour leur propre compte et sous leur propre responsabilité, les prestations de transport demandées par le CLIENT.
 
@@ -224,9 +224,9 @@ Dès sa prise en charge, le CLIENT est responsable de toute dégradation/répara
 
 **3.5.2. Cas de non présentation du CLIENT, dit « Non charge » :**
 
-**3.5.2.1. Non charge pour les services G7®, G7® Green, G7® Famille (break), G7® Coffre+**: en cas d'absence du passager, le chauffeur de taxi est réputé être autorisé à partir cinq minutes après l’horaire annoncé, sans avertissement préalable. Il constate alors la « non charge » et arrête la course en facturant: soit un montant forfaitaire dans le cas où l’adresse de la commande se situe dans la zone des Taxis Parisiens (9€ en Demande Immédiate et 12€ en Demande à l’Avance), soit le montant figurant au compteur si l’adresse de prise en charge se situe en dehors de la zone des Taxis Parisiens, dans le respect de la tarification en vigueur.
+**3.5.2.1. Non charge pour les services G7®, G7® Green, G7® Famille (break), G7® Coffre+, G7® Access Standard et G7® Access Coffre+**: en cas d'absence du passager, le chauffeur de taxi est réputé être autorisé à partir cinq minutes après l’horaire annoncé, sans avertissement préalable. Il constate alors la « non charge » et arrête la course en facturant: soit un montant forfaitaire dans le cas où l’adresse de la commande se situe dans la zone des Taxis Parisiens (9€ en Demande Immédiate et 12€ en Demande à l’Avance), soit le montant figurant au compteur si l’adresse de prise en charge se situe en dehors de la zone des Taxis Parisiens, dans le respect de la tarification en vigueur.
 
-**3.5.2.2. Non charge pour les services G7® Van, G7® Van Vip, G7® Vip, G7® Famille (van), G7® Zen, G7® Vélo et G7® Access** : en cas d’absence du passager, le chauffeur de taxi est réputé être autorisé à partir dix minutes après l’horaire annoncé, sans avertissement préalable. Il constate alors la « non charge » et arrête la course en facturant le montant figurant au compteur dans le respect de la tarification préfectorale en vigueur. 
+**3.5.2.2. Non charge pour les services G7® Van, G7® Van Vip, G7® Vip, G7® Famille (van), G7® Zen, G7® Vélo et G7® Access Rampe** : en cas d’absence du passager, le chauffeur de taxi est réputé être autorisé à partir dix minutes après l’horaire annoncé, sans avertissement préalable. Il constate alors la « non charge » et arrête la course en facturant le montant figurant au compteur dans le respect de la tarification préfectorale en vigueur. 
 
 **3.5.2.3. Non charge pour le service « accueil en gare et aéroport »**  
 Le CLIENT a été informé par la SOCIETE par SMS de l’arrivée du taxi et rappel du délai d’attente maximum de ce dernier en fonction de la durée préalablement sélectionnée par le CLIENT. En cas d'absence du passager au point de rencontre à l’issue de ce délai, le chauffeur de taxi est réputé autorisé à partir. Il constate alors la « non charge » et arrête la course en facturant le montant figurant au compteur dans le respect de la tarification en vigueur.
@@ -266,7 +266,7 @@ Par ailleurs, il est rappelé que le CLIENT peut également en cas de commande v
    ➢  **Le service de mise en relation du CLIENT avec un taxi est gratuit pour le niveau de service standard « G7® ».**
 
    ➢  **D’autres niveaux de service sont accessibles sur option**   
-          Il s’agit des services « G7® Green », « G7® Access », « G7® Van », « G7® Van Vip », « G7® Vip », « G7® Famille », « G7®Coffre+ », « G7® Vélo »,«G7® Zen » et « accueil en gare et aéroport » .  
+          Il s’agit des services « G7® Green », « G7® Access Standard », « G7® Access Coffre+ », « G7® Access Rampe », « G7® Van », « G7® Van Vip », « G7® Vip », « G7® Famille », « G7®Coffre+ », « G7® Vélo »,«G7® Zen » et « accueil en gare et aéroport » .  
           Dans le cas où ils seraient payants, le prix du service sélectionné par le CLIENT sera prélevé par la SOCIETE sur la carte de paiement communiquée par ce dernier.  
           Les différents services proposés par la SOCIETE et disponibles sur option du CLIENT, sont soumis au taux de TVA en vigueur pour les prestations de services. 
 
@@ -447,19 +447,30 @@ La SOCIETE, ne saurait être tenue responsable de quelques dommages ou préjudic
 
 La SOCIETE ne sera pas tenue responsable de la non mise en relation du CLIENT avec la centrale de réservation de taxis partenaire en cas d’un empêchement indépendant de sa volonté notamment si l’exécution ou la mauvaise exécution du contrat est imputable soit au CLIENT, soit au fait imprévisible et insurmontable d’un tiers étranger à la fourniture de la prestation, soit à un cas de force majeure, tel que panne informatique et / ou téléphonique, grève, manifestations, intempéries, embouteillage d’une ampleur habituelle ou en cas d'indisponibilité de la centrale de réservation de taxis partenaire ou indisponibilité de taxis.
 
-**Article 8 : Dispositions spécifiques aux commandes de taxi accessible aux personnes à mobilité réduite**
+**Article 8 : Dispositions spécifiques aux commandes de taxi accessible aux personnes à mobilité réduite : Service « G7® ACCESS »**
 
 **8.1. – Véhicules proposés**
 
-La SOCIETE ouvre la possibilité au CLIENT de commander des taxis spécifiquement aménagés pour le transport des personnes handicapées.
+La SOCIETE ouvre la possibilité au CLIENT de commander des taxis adaptés au transport des personnes à mobilité réduite.  
+En fonction des besoins du CLIENT, 3 niveaux de service « G7® ACCESS » sont disponibles.
 
-Ce service dénommé « G7 ACCESS**®**» est assuré par des chauffeurs de taxi dont le véhicule est équipé de rampe d’accès ou de hayon élévateur permettant l’accès de personnes en fauteuil roulant mécanique ou électrique.
+**8.1.1. – Service « G7® ACCESS STANDARD »**
 
-Le poids maximum autorisé pour un fauteuil roulant équipé avec son occupant ne doit pas excéder 250 kg. Les dimensions maximum sont 67 cm de large, 1 m 20 de long et 1m 35 de hauteur maximale avec occupant.
+Ce service est assuré par des chauffeurs de taxi disposant de véhicules à plancher bas pour faciliter l’accès à bord. Cette solution est particulièrement adaptée aux personnes à mobilité réduite ayant des difficultés pour monter ou descendre du véhicule. En réduisant significativement la hauteur de la marche, le plancher bas permet d’accéder au véhicule en limitant l’effort requis.
+
+**8.1.2 – Service « G7® ACCESS COFFRE+ »**
+
+Ce service est assuré par des chauffeurs de taxi disposant de véhicules à plancher bas avec un grand coffre de type break. Ce service est adapté aux utilisateurs de fauteuil roulant manuel pliable de taille standard transférables, et ne nécessitant donc pas de rampe.   
+Ce service convient également aux personnes à mobilité réduite ayant des difficultés pour monter ou descendre du véhicule et voyageant avec des bagages volumineux.
+
+**8.1.3 – Service « G7® ACCESS RAMPE »**
+
+Ce service est assuré par des chauffeurs de taxi dont le véhicule a été spécifiquement aménagé et équipé de rampe d’accès ou de hayon élévateur permettant l’accès de personnes en fauteuil roulant manuel ou électrique, non transférables de leur fauteuil roulant. Les chauffeurs de taxi de ce service reçoivent une formation pratique spécifique dispensée par l’hôpital de Garches afin d’assurer une prise en charge adaptée de leurs passagers en situation de handicap.   
+Le poids maximum autorisé pour un fauteuil roulant équipé avec son occupant ne doit pas excéder 250 kg. Les dimensions maximum sont 67 cm de large, 1m 20 de long et 1m 35 de hauteur maximale avec occupant.
 
 **8.2. – Modalités de commande**
 
-Les commandes « G7 ACCESS® »se font soit par téléphone au 36 07 (service 0,45€/min + prix appel), soit via l’application G7® Taxi, soit sur le site internet [www.g7.fr](https://www.g7.fr/). En complément, la SOCIETE a mis en place une ligne prioritaire dédiée au 01 47 39 00 91. Afin de faciliter la recherche d’un taxi adapté, la SOCIETE définit avec l’aide de l'appelant le profil du passager et ses contraintes particulières lors de sa première commande. Tous les éléments concernant l’identité du passager, la nature de son handicap, les caractéristiques du véhicule à commander et toutes informations complémentaires que l'appelant juge nécessaires de communiquer pour faciliter le transport sont alors mémorisées dans les fichiers constitués par la SOCIETE. Un numéro de référence est communiqué ensuite à l'appelant. Ce numéro de référence doit être communiqué par l'appelant lors de toute commande ultérieure. Le nom, l’adresse et les coordonnées téléphoniques du passager ou de l'appelant sont aussi mémorisés.
+Les commandes « G7 ACCESS® STANDARD », « G7 ACCESS® COFFRE+ » et « G7 ACCESS® RAMPE » se font soit par téléphone au 36 07 (service 0,45€/min + prix appel), soit via l’application G7® Taxi, soit sur le site internet [www.g7.fr](https://www.g7.fr/). En complément, la SOCIETE a mis en place une ligne prioritaire dédiée au 01 47 39 00 91. Afin de faciliter la recherche d’un taxi adapté, la SOCIETE définit avec l’aide de l'appelant le profil du passager et ses contraintes particulières lors de sa première commande. Tous les éléments concernant l’identité du passager, la nature de son handicap, les caractéristiques du véhicule à commander et toutes informations complémentaires que l'appelant juge nécessaires de communiquer pour faciliter le transport sont alors mémorisées dans les fichiers constitués par la SOCIETE. Un numéro de référence est communiqué ensuite à l'appelant. Ce numéro de référence doit être communiqué par l'appelant lors de toute commande ultérieure. Le nom, l’adresse et les coordonnées téléphoniques du passager ou de l'appelant sont aussi mémorisés.
 
 **8.3. – Responsabilité**
 
@@ -573,34 +584,37 @@ A cet effet, le CLIENT en cas de litige sur la prestation de recherche de taxi, 
 
 **Descriptif et tarifs des services G7 disponibles sur option**
 
-**Tarifs en vigueur au 10 décembre 2024\*²**
+**Tarifs en vigueur au 19 novembre 2025\*²**
 
 **La grille tarifaire et descriptive des services G7 disponibles sur option fait partie intégrante des Conditions Générales G7. Elle est applicable à toute prestation de services proposée par la centrale de réservation G7 dans les conditions ci-après précisées, à l’occasion d’une commande et recherche de taxi à Paris et en Région Parisienne\*1, passée par son intermédiaire via différents canaux de réservation (sauf clients ayant conclu avec la société G7 des contrats d’abonnement spécifiques).**
 
 **NIVEAUX DES SERVICES**
 
-**Conformément aux dispositions des articles 3.1 « Choix du niveau de service » et 4 « Conditions tarifaires – facturation » des Conditions Générales, les différents services « G7® Green », « G7® Access », « G7® Van », « G7® Van Vip », « G7® Vip », « G7® Famille », « G7®Coffre+ », « G7® Vélo », « G7® Zen » et « accueil en gare et aéroport » proposés par la SOCIETE, sont disponibles sur option du CLIENT.  
+**Conformément aux dispositions des articles 3.1 « Choix du niveau de service » et 4 « Conditions tarifaires – facturation » des Conditions Générales, les différents services « G7® Green », « G7® Access Standard », « G7® Access Coffre+ », « G7® Access Rampe », « G7® Van », « G7® Van Vip », « G7® Vip », « G7® Famille », « G7®Coffre+ », « G7® Vélo », « G7® Zen » et « accueil en gare et aéroport » proposés par la SOCIETE, sont disponibles sur option du CLIENT.  
 Ces services sont décrits dans la présente grille tarifaire et ils sont soumis au taux de TVA en vigueur pour les prestations de services.**
 
 |     |     |     |
 | --- | --- | --- |
 | **SERVICE PROPOSE  <br>(DISPONIBLE SUR OPTION)** | **DESCRIPTION DU SERVICE ET GAMME DE VEHICULES** | **Prix TTC**<br><br>(TVA 20% applicable) |
-| **Service «G7®»**<br><br>**Standard** | * Tous types de véhicules<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4 <br>* Attente du chauffeur de 5 mn\*³ |
+| **Service «G7®» Standard** | * Tous types de véhicules<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4 <br>* Attente du chauffeur de 5 mn\*³ |
 |     |
-| **Option : Service « G7® Green »** | * Véhicules hybrides ou 100% électriques <br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4 <br>* Attente du chauffeur de 5 mn\*³ | **Gratuit** |
-| **Option : Service « G7® Access »** | * Véhicules équipés pour les personnes à mobilité réduite (rampe d’accès pour fauteuils roulants)<br>* Chauffeurs ayant adhéré à la charte de qualité G7® et formés au transport des personnes à mobilité réduite<br>* Nombre de passagers : jusqu’à 4<br>* Attente du chauffeur de 10 mn\*³ | **Gratuit** |
-| **Option : Service « G7®Van »** | * Véhicules spacieux de type VAN <br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 7\*4 <br>* Attente du chauffeur de 10 mn\*³ | **6€ TTC** |
-| **Option** <br><br>**Service « G7® VIP »** | * Véhicules haut de gamme<br>* Chauffeurs ayant adhéré à une charte de qualité spécifique<br>* Services à bord : WiFi, chargeurs de téléphone<br>* Nombre de passagers : jusqu’à 4<br>* Attente du chauffeur de 10 mn\*³ | **10€ TTC** |
-| **Option :  <br>Service « G7® Van VIP »** | * Véhicules spacieux de type VAN haut de gamme <br>* Chauffeurs ayant adhéré à une charte de qualité spécifique<br>* Services à bord : WiFi, chargeurs de téléphone<br>* Nombre de passagers : jusqu’à 7\*4 <br>* Attente du chauffeur de 10 mn\*³ | **10€ TTC** |
-| **Option :** <br><br>**Service « G7® Famille »**   <br>**dont :** | * Véhicules équipés de sièges bébés pour les enfants  <br>    de 0 à 4 ans et de réhausseurs pour les 4 à 10 ans<br>* Chauffeurs ayant adhéré à la charte de qualité G7**®** | 2 niveaux de service « **_G7® Famille_** » sont disponibles : |
-| **« G7® Famille » (Break) avec** | * Véhicules **standard** <br>* Nombre de passagers : jusqu’à 4<br>* Attente du chauffeur de 5 mn\*³ | **Gratuit** |
-| **« G7® Famille » (Van) avec** | * Véhicules spacieux **de type VAN** <br>* Nombre de passagers : jusqu’à 7\*4<br>* Attente du chauffeur de 10 mn\*³ | **6€  TTC** |
-| **Option :** <br><br>**Service « G7® Coffre+ »** | * Véhicules de type break, dotés d’un espace de chargement accru pour des bagages volumineux<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4<br>* Attente du chauffeur de 5 mn\*³ | **Gratuit** |
-| **Option :**<br><br>**Service « G7® Vélo »**<br><br>Service disponible en demande à l’avance exclusivement | * Tous types de véhicules<br>* Véhicules équipés de porte-vélos : transport possible de 3 vélos classiques (compatibilité avec les vélos électriques non garantie)<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4  <br>    Attente du chauffeur de 10 mn\*³ | **6€  TTC** |
-| **Option :** <br><br>**Service « G7® Zen »**<br><br>Service proposé en période de forte saturation du trafic et sur l’application G7® Taxi exclusivement | * Tous types de véhicules<br>* Dispositif supplémentaire (mobilisation/supervision des équipes du Centre de Relation Clients et moyens techniques spécifiques pour la recherche d’un taxi) mis en œuvre par la SOCIETE en cas de conditions de circulation dégradées ou de facteurs extérieurs perturbant fortement la mobilité ou la disponibilité des taxis (nombre limité de taxis disponibles, conditions de circulation denses, niveau de demande de taxis exceptionnel, intempéries, compétitions sportives, départs en vacances, manifestations, grèves, évènements exceptionnels, etc...). <br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4<br>* Attente du chauffeur de 10 mn\*³ | **6€  TTC** |
-| **Option : Service « Accueil en Gare et Aéroport »**<br><br>Service disponible sur option au départ des gares et aéroports parisiens, en demande à l’avance exclusivement (article 3.2.2.2 des Conditions Générales) | * Tous types de véhicules <br>* Accueil à l’arrivée du train ou/vol par le chauffeur à un point de rencontre dédié (art. 3.2.2.2 Conditions générales). <br>* Disponibilité du chauffeur qui attend le CLIENT au point de rencontre à compter de l’heure de prise en charge demandée pour la durée d’attente sélectionnée par le CLIENT (15 ou 30mn en gare, 30 ou 45 mn en aéroport) en cas de retard du CLIENT   <br>    2 durées sont proposées au CLIENT :<br>    * Accueil Gare avec :  <br>        Attente de 15mn du chauffeur\*³  <br>        Attente de 30 mn du chauffeur\*³<br>    * Accueil Aéroport avec :  <br>        Attente de 30mn du chauffeur\*³  <br>        Attente de 45 mn du chauffeur\*³Durée sélectionnée par le CLIENT non modifiable<br><br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br><br>**Gares et aéroports parisiens éligibles :**<br><br>* Gare d’Austerlitz, Gare de l’Est, Gare de Lyon, Gare de Paris Bercy, Gare du Nord, Gare Montparnasse, Gare Saint Lazare, Gare TGV Marne-la-Vallée Chessy, Gare TGV Massy, Gare TGV Roissy CDG<br>* Orly : aérogares Orly 1&2, Orly 3 et Orly 4<br>* Roissy Charles De Gaulle : aérogares CDG 1, CDG 2A, CDG 2B, CDG 2C, CDG 2D, CDG 2E, CDG 2F, CDG 2G et CDG 3 (ex T9) | **5€ TTC**  <br>(Accueil Gare, si attente 15 mn)<br><br>**8€ TTC**  <br>(Accueil Gare, si attente 30 mn)<br><br>**8€ TTC**  <br>(Accueil Aéroport, si attente 30 mn)<br><br>**11€ TTC**  <br>(Accueil Aéroport, attente 45 mn) |
+| **Option : Service « G7® Green »** | * Véhicules hybrides ou 100% électriques <br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4 <br>* Attente du chauffeur de 5 mn\*³ | **Gratuit** |
+| **Option : Service « G7® Access »**<br><br>(Service décrit à l’article 8 des Conditions Générales) | Véhicules adaptés au transport des personnes à mobilité réduite :   <br>3 niveaux de service « G7® ACCESS » sont disponibles : « G7® Access Standard », « G7® Access Coffre+ » et « G7® Access Rampe » |     |
+| **Option : Service « G7® Access Standard »** | * Véhicules à plancher bas pour faciliter l’accès à bord.<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4 <br>* Attente du chauffeur de 5 mn\*³ | **Gratuit** |
+| **Option : Service « G7® Access Coffre+ »** | * Véhicules à plancher bas dotés d’un espace de chargement accru pour des bagages volumineux ou un fauteuil roulant manuel pliable de faible gabarit<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4 <br>* Attente du chauffeur de 5 mn\*³ | **Gratuit** |
+| **Option : Service « G7® Access Rampe »** | * Véhicules équipés pour les personnes à mobilité réduite non transférables (rampe d’accès pour fauteuils roulants électriques ou manuels)<br>* Chauffeurs ayant adhéré à la charte de qualité G7® et formés au transport des personnes à mobilité réduite<br>* Nombre de passagers : jusqu’à 4 <br>* Attente du chauffeur de 10 mn\*³ | **Gratuit** |
+| **Option : Service « G7® Van »** | * Véhicules spacieux de type VAN <br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 7\*4 <br>* Attente du chauffeur de 10 mn\*³ | **6€ TTC** |
+| **Option : Service « G7® VIP »** | * Véhicules haut de gamme<br>* Chauffeurs ayant adhéré à une charte de qualité spécifique<br>* Services à bord : WiFi, chargeurs de téléphone<br>* Nombre de passagers : jusqu’à 4<br>* Attente du chauffeur de 10 mn\*³ | **10€ TTC** |
+| **Option : Service « G7® Van VIP »** | * Véhicules spacieux de type VAN haut de gamme <br>* Chauffeurs ayant adhéré à une charte de qualité spécifique<br>* Services à bord : WiFi, chargeurs de téléphone<br>* Nombre de passagers : jusqu’à 7\*4 <br>* Attente du chauffeur de 10 mn\*³ | **10€ TTC** |
+| **Option : Service « G7® Famille »**<br><br>**dont :** | * Véhicules équipés de sièges bébés pour les enfants  <br>    de 0 à 4 ans et de réhausseurs pour les 4 à 10 ans<br>* Chauffeurs ayant adhéré à la charte de qualité G7**®** | 2 niveaux de service « **_G7® Famille_** » sont disponibles : |
+| **« G7® Famille » (Break) avec** | * Véhicules **standard** <br>* Nombre de passagers : jusqu’à 4<br>* Attente du chauffeur de 5 mn\*³ | **Gratuit** |
+| **« G7® Famille » (Van) avec** | * Véhicules spacieux **de type VAN** <br>* Nombre de passagers : jusqu’à 7\*4<br>* Attente du chauffeur de 10 mn\*³ | **6€  TTC** |
+| **Option : Service « G7® Coffre+ »** | * Véhicules de type break, dotés d’un espace de chargement accru pour des bagages volumineux<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4<br>* Attente du chauffeur de 5 mn\*³ | **Gratuit** |
+| **Option : Service « G7® Vélo »**<br><br>Service disponible en demande à l’avance exclusivement | * Tous types de véhicules<br>* Véhicules équipés de porte-vélos : transport possible de 3 vélos classiques (compatibilité avec les vélos électriques non garantie)<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4  <br>    Attente du chauffeur de 10 mn\*³ | **6€  TTC** |
+| **Option : Service « G7® Zen »**<br><br>Service proposé en période de forte saturation du trafic et sur l’application G7® Taxi exclusivement | * Tous types de véhicules<br>* Dispositif supplémentaire (mobilisation/supervision des équipes du Centre de Relation Clients et moyens techniques spécifiques pour la recherche d’un taxi) mis en œuvre par la SOCIETE en cas de conditions de circulation dégradées ou de facteurs extérieurs perturbant fortement la mobilité ou la disponibilité des taxis (nombre limité de taxis disponibles, conditions de circulation denses, niveau de demande de taxis exceptionnel, intempéries, compétitions sportives, départs en vacances, manifestations, grèves, évènements exceptionnels, etc...). <br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4<br>* Attente du chauffeur de 10 mn\*³ | **6€  TTC** |
+| **Option : Service « Accueil en Gare et Aéroport »**<br><br>Service disponible sur option au départ des gares et aéroports parisiens, en demande à l’avance exclusivement (article 3.2.2.2 des Conditions Générales) | * Tous types de véhicules <br>* Accueil à l’arrivée du train ou/vol par le chauffeur à un point de rencontre dédié (art. 3.2.2.2 Conditions générales). <br>* Disponibilité du chauffeur qui attend le CLIENT au point de rencontre à compter de l’heure de prise en charge demandée pour la durée d’attente sélectionnée par le CLIENT (15 ou 30mn en gare, 30 ou 45 mn en aéroport) en cas de retard du CLIENT   <br>    2 durées sont proposées au CLIENT :<br>    * Accueil Gare avec :  <br>        Attente de 15mn du chauffeur\*³  <br>        Attente de 30 mn du chauffeur\*³<br>    * Accueil Aéroport avec :  <br>        Attente de 30mn du chauffeur\*³  <br>        Attente de 45 mn du chauffeur\*³Durée sélectionnée par le CLIENT non modifiable<br><br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br><br>**Gares et aéroports parisiens éligibles :**<br><br>* Gare d’Austerlitz, Gare de l’Est, Gare de Lyon, Gare de Paris Bercy, Gare du Nord, Gare Montparnasse, Gare Saint Lazare, Gare TGV Marne-la-Vallée Chessy, Gare TGV Massy, Gare TGV Roissy CDG<br>* Orly : aérogares Orly 1&2, Orly 3 et Orly 4<br>* Roissy Charles De Gaulle : aérogares CDG 1, CDG 2A, CDG 2B, CDG 2C, CDG 2D, CDG 2E, CDG 2F, CDG 2G et CDG 3 (ex T9) | **5€ TTC**  <br>(Accueil Gare, si attente 15 mn)<br><br>**8€ TTC**  <br>(Accueil Gare, si attente 30 mn)<br><br>**8€ TTC**  <br>(Accueil Aéroport, si attente 30 mn)<br><br>**11€ TTC**  <br>(Accueil Aéroport, attente 45 mn) |
 
-**Conditions Générales en application – 10 décembre 2024**
+**Conditions Générales en application – 19 novembre 2025**
 
 \*¹ Concerne toute course réalisée à bord d’un taxi parisien affilié G7® (la liste des communes de rattachement des taxis parisiens est fixée par l’arrêté ministériel du 10 novembre 1972)
 
