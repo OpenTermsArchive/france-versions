@@ -16,7 +16,7 @@
     * [Femme](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
     * [Homme](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
     * [Mise en beauté](https://www.printemps.com/fr/fr/maquillage)
-* [LES CALENDRIER DE L'AVENT](https://www.printemps.com/fr/fr/calendrier-noel)
+* [LES CALENDRIERS DE L'AVENT](https://www.printemps.com/fr/fr/calendrier-noel)
     
 * [LES COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
     
