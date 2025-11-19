@@ -442,7 +442,7 @@ Cette garantie est sans préjudice de toute garantie commerciale.
 
 **La section 8 sur les PRODUITS DÉFECTUEUX ET NON-CONFORMES** est complétée par la disposition suivante :
 
-« 8.2. Mise en œuvre de la garantie contre les vices cachés
+« 8.1. Mise en œuvre de la garantie contre les vices cachés
 
 Nike garantit que les Produits sont exempts de vices cachés au sens des dispositions de l'article 1641 du Code civil français, qui rendent les Produits impropres à l'usage auquel ils sont destinés ou qui diminuent cet usage à tel point que vous ne les auriez pas acquis ou n'auriez donné qu'un prix inférieur pour eux si vous en aviez eu connaissance.
 
