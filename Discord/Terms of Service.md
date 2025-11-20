@@ -9,7 +9,7 @@ Discord's Terms of Service
 
 [1.
 
-Who we are](#)[2.
+Who we are](#1)[2.
 
 Age requirements and responsibility of parents and legal guardians](#2)[3.
 
