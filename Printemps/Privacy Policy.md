@@ -1,6 +1,6 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
-* [BLACK FRIDAY : Jusqu'à -40%](https://www.printemps.com/fr/fr/black-friday)
+* [BLACK FRIDAY : Jusqu'à -50%](https://www.printemps.com/fr/fr/black-friday)
     
 * [LUXE](https://www.printemps.com/fr/fr/black-friday-luxe)
     
@@ -39,10 +39,10 @@
     * [Mailles et pulls](https://www.printemps.com/fr/fr/black-friday/cat0/Mailles+et+pulls)
     * [Chemises](https://www.printemps.com/fr/fr/black-friday/cat0/Chemises)
     * [Manteaux](https://www.printemps.com/fr/fr/black-friday/cat0/Manteaux)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/64/4/8659644.jpg)](https://www.printemps.com/fr/fr/black-friday)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/93/4/8694934.jpg)](https://www.printemps.com/fr/fr/black-friday)
         
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/64/4/8659644.jpg)](https://www.printemps.com/fr/fr/black-friday)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/93/4/8694934.jpg)](https://www.printemps.com/fr/fr/black-friday)
 
 * [NOS IDEES CADEAUX](https://www.printemps.com/fr/fr/idees-cadeaux-noel)
     * [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
@@ -192,7 +192,7 @@
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
     * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
 
-* [BLACK FRIDAY : Jusqu'à -40%](https://www.printemps.com/fr/fr/black-friday-femme)
+* [BLACK FRIDAY : Jusqu'à -50%](https://www.printemps.com/fr/fr/black-friday-femme)
     
 * [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
     
@@ -221,10 +221,10 @@
     * [Prada](https://www.printemps.com/fr/fr/prada-femme)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Guess](https://www.printemps.com/fr/fr/guess-femme)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/64/4/8659644.jpg)](https://www.printemps.com/fr/fr/black-friday-femme)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/93/4/8694934.jpg)](https://www.printemps.com/fr/fr/black-friday-femme)
         
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/64/4/8659644.jpg)](https://www.printemps.com/fr/fr/black-friday-femme)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/93/4/8694934.jpg)](https://www.printemps.com/fr/fr/black-friday-femme)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -277,7 +277,7 @@
     * [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
-* [BLACK FRIDAY : Jusqu'à -40%](https://www.printemps.com/fr/fr/black-friday-homme)
+* [BLACK FRIDAY : Jusqu'à -50%](https://www.printemps.com/fr/fr/black-friday-homme)
     
 * [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
     
@@ -306,10 +306,10 @@
     * [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
     * [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/64/4/8659644.jpg)](https://www.printemps.com/fr/fr/black-friday-homme)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/93/4/8694934.jpg)](https://www.printemps.com/fr/fr/black-friday-homme)
         
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/64/4/8659644.jpg)](https://www.printemps.com/fr/fr/black-friday-homme)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/93/4/8694934.jpg)](https://www.printemps.com/fr/fr/black-friday-homme)
 
 * [L’ESPACE BEAUTÉ](https://www.printemps.com/fr/fr/espace-beaute)
     
@@ -394,7 +394,7 @@
 
 PARFUMS DE MARLY](https://www.printemps.com/fr/fr/parfums-de-marly-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-parfums-de-marly)
 
-* [BLACK FRIDAY : Jusqu'à -40%](https://www.printemps.com/fr/fr/black-friday-maison)
+* [BLACK FRIDAY : Jusqu'à -50%](https://www.printemps.com/fr/fr/black-friday-maison)
 
 * [LINGE DE MAISON](https://www.printemps.com/fr/fr/linge-de-maison)
 
@@ -572,7 +572,7 @@ PARFUMS DE MARLY](https://www.printemps.com/fr/fr/parfums-de-marly-beaute?ap_sou
 
 * [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/64/4/8659644.jpg)](https://www.printemps.com/fr/fr/black-friday)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/93/4/8694934.jpg)](https://www.printemps.com/fr/fr/black-friday)
 
   
 
