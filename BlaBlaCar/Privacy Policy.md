@@ -220,7 +220,7 @@ L’ensemble de ce dispositif est encadré au plan réglementaire par les textes
 
 **8.1** En règle générale, nous conservons vos Données Personnelles au sein de  l’Union Européenne. Cependant, dans la mesure où, par exemple,  certains de nos prestataires de service sont situés dans des pays en dehors de l’Union Européenne (« Pays Tiers »), nous transférons certaines de vos Données Personnelles dans des Pays Tiers. Cela peut notamment être le cas vers des Pays Tiers pour lesquels la Commission Européenne n’a pas pris une décision de « protection adéquate ». Dans un tel cas, nous nous assurons que ce transfert soit effectué en conformité avec la réglementation applicable et garantisse un niveau de protection suffisant de la vie privée et des droits fondamentaux des personnes (notamment par les clauses contractuelles types de la Commission Européenne).
 
-**8.2** Sur simple demande formulée à notre Délégué à la Protection des Données ([dataprotection@blablacar.com](http://dataprotection@blablacar.com/?)), nous pouvons vous fournir davantage d’informations quant à ces garanties (notamment les clauses contractuelles types de la Commission Européenne).
+**8.2** Sur simple demande formulée à notre Délégué à la Protection des Données (dataprotection@blablacar.com), nous pouvons vous fournir davantage d’informations quant à ces garanties (notamment les clauses contractuelles types de la Commission Européenne).
 
 9\. Quels sont vos droits sur vos données personnelles ?
 --------------------------------------------------------
@@ -270,7 +270,7 @@ Nous pouvons être amenés à modifier occasionnellement la présente Politique 
 14\. Contact
 ------------
 
-Pour toute question relative à la présente Politique de Confidentialité ou pour toute demande relative à vos Données Personnelles, vous pouvez nous contacter en adressant un email à notre délégué à la protection des données à l’adresse [dataprotection@blablacar.com](mailto:dataprotection@blablacar.com) ou en nous adressant un courrier à l’adresse mentionnée en tête du présent document.
+Pour toute question relative à la présente Politique de Confidentialité ou pour toute demande relative à vos Données Personnelles, vous pouvez nous contacter en adressant un email à notre délégué à la protection des données à l’adresse dataprotection@blablacar.com ou en nous adressant un courrier à l’adresse mentionnée en tête du présent document.
 
 \------------- 0 ---------------- 0 -------------------
 
@@ -470,7 +470,7 @@ En ce qui concerne la publicité ciblée :
 
 En règle générale, nous conservons vos Données Personnelles au sein de  l’Union Européenne. Cependant, dans la mesure où, par exemple,  certains de nos prestataires de service sont situés dans des pays en dehors de l’Union Européenne (« Pays Tiers »), nous transférons certaines de vos Données Personnelles dans des Pays Tiers. Cela peut notamment être le cas vers des Pays Tiers pour lesquels la Commission Européenne n’a pas pris une décision de « protection adéquate ». Dans un tel cas, nous nous assurons que ce transfert soit effectué en conformité avec la réglementation applicable et garantisse un niveau de protection suffisant de la vie privée et des droits fondamentaux des personnes (notamment par les clauses contractuelles types de la Commission Européenne).
 
-Sur simple demande formulée à notre Délégué à la Protection des Données ([dataprotection@blablacar.com](mailto:https://dataprotection@blablacar.com)), nous pouvons vous fournir davantage d’informations quant à ces garanties (notamment les clauses contractuelles types de la Commission Européenne).
+Sur simple demande formulée à notre Délégué à la Protection des Données (dataprotection@blablacar.com), nous pouvons vous fournir davantage d’informations quant à ces garanties (notamment les clauses contractuelles types de la Commission Européenne).
 
 9\. Quels sont vos droits sur vos données personnelles ?
 --------------------------------------------------------
