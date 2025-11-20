@@ -6,7 +6,7 @@ En application au 19/11/2025
 1. [Accueil](https://www.g7.fr/)
 2. Conditions générales
 
-**CONDITIONS GÉNÉRALES D’UTILISATION ET DE VENTE**  
+**CONDITIONS GÉNÉRALES D’UTILISATION ET DE VENTE**
 
 La société G7, ci-après dénommée « la SOCIETE », société anonyme au capital de 3.836.789 euros, dont le siège social est 22/28, rue Henri Barbusse à CLICHY (92110), immatriculée sous le numéro 324 379 866 RCS NANTERRE – SIRET 324 379 866 00019 – N° TVA intracommunautaire FR 11324379866 – Tel : 01 47 39 09 00, exploite une centrale de réservation de taxis, sous le nom commercial TAXIS G7® et la marque G7®, à laquelle sont affiliés des chauffeurs de taxi parisiens indépendants. La SOCIETE met en relation le client, ci-après dénommé « le CLIENT », avec les chauffeurs de taxi parisiens affiliés, lesquels réalisent, pour leur propre compte et sous leur propre responsabilité, les prestations de transport demandées par le CLIENT.
 
@@ -580,11 +580,17 @@ Elles sont rédigées en langue française. Dans le cas où les présentes condi
 
 A cet effet, le CLIENT en cas de litige sur la prestation de recherche de taxi, peut contacter l’Association des Médiateurs Européens, entité de la médiation de la consommation AME Conso, soit par voie postale: AME Conso – 11 place Dauphine -75001 PARIS, soit en remplissant le formulaire en ligne sur le site [https://www.mediationconso-ame.com](https://www.mediationconso-ame.com/), accompagné des documents étayant sa demande.
 
+\* : Utilisation du site Internet, de l’application G7 ® Taxi et du service téléphonique G7 ® et prestation de mise en relation
+
+  
+
 **Grille Tarifaire applicable aux commandes de taxis à Paris et en Région Parisienne\*¹**
 
 **Descriptif et tarifs des services G7 disponibles sur option**
 
 **Tarifs en vigueur au 19 novembre 2025\*²**
+
+  
 
 **La grille tarifaire et descriptive des services G7 disponibles sur option fait partie intégrante des Conditions Générales G7. Elle est applicable à toute prestation de services proposée par la centrale de réservation G7 dans les conditions ci-après précisées, à l’occasion d’une commande et recherche de taxi à Paris et en Région Parisienne\*1, passée par son intermédiaire via différents canaux de réservation (sauf clients ayant conclu avec la société G7 des contrats d’abonnement spécifiques).**
 
@@ -597,7 +603,6 @@ Ces services sont décrits dans la présente grille tarifaire et ils sont soumis
 | --- | --- | --- |
 | **SERVICE PROPOSE  <br>(DISPONIBLE SUR OPTION)** | **DESCRIPTION DU SERVICE ET GAMME DE VEHICULES** | **Prix TTC**<br><br>(TVA 20% applicable) |
 | **Service «G7®» Standard** | * Tous types de véhicules<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4 <br>* Attente du chauffeur de 5 mn\*³ |
-|     |
 | **Option : Service « G7® Green »** | * Véhicules hybrides ou 100% électriques <br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4 <br>* Attente du chauffeur de 5 mn\*³ | **Gratuit** |
 | **Option : Service « G7® Access »**<br><br>(Service décrit à l’article 8 des Conditions Générales) | Véhicules adaptés au transport des personnes à mobilité réduite :   <br>3 niveaux de service « G7® ACCESS » sont disponibles : « G7® Access Standard », « G7® Access Coffre+ » et « G7® Access Rampe » |     |
 | **Option : Service « G7® Access Standard »** | * Véhicules à plancher bas pour faciliter l’accès à bord.<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4 <br>* Attente du chauffeur de 5 mn\*³ | **Gratuit** |
