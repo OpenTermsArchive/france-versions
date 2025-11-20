@@ -9,7 +9,7 @@ Discord Privacy Policy
 
 [1.
 
-Welcome!](#)[2.
+Welcome!](#1)[2.
 
 A little bit about Discord](#2)[3.
 
