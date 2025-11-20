@@ -1,6 +1,6 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
-* [BLACK FRIDAY : Jusqu'à -40%](https://www.printemps.com/fr/fr/black-friday)
+* [BLACK FRIDAY : Jusqu'à -50%](https://www.printemps.com/fr/fr/black-friday)
     
 * [LUXE](https://www.printemps.com/fr/fr/black-friday-luxe)
     
@@ -186,7 +186,7 @@
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
     * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
 
-* [BLACK FRIDAY : Jusqu'à -40%](https://www.printemps.com/fr/fr/black-friday-femme)
+* [BLACK FRIDAY : Jusqu'à -50%](https://www.printemps.com/fr/fr/black-friday-femme)
     
 * [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
     
@@ -268,7 +268,7 @@
     * [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
-* [BLACK FRIDAY : Jusqu'à -40%](https://www.printemps.com/fr/fr/black-friday-homme)
+* [BLACK FRIDAY : Jusqu'à -50%](https://www.printemps.com/fr/fr/black-friday-homme)
     
 * [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
     
@@ -375,7 +375,7 @@
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
     * 
 
-* [BLACK FRIDAY : Jusqu'à -40%](https://www.printemps.com/fr/fr/black-friday-maison)
+* [BLACK FRIDAY : Jusqu'à -50%](https://www.printemps.com/fr/fr/black-friday-maison)
 
 * [LINGE DE MAISON](https://www.printemps.com/fr/fr/linge-de-maison)
 
