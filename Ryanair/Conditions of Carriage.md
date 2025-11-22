@@ -501,7 +501,7 @@ Vous pouvez transporter des cigarettes électroniques ou des dispositifs de vapo
 
 **8.4.2** Bagages intelligents (avec batteries au lithium intégrées – 100 Wh maximum)
 
-Vous pouvez emporter un bagage intelligent (bagage cabine équipé d’une batterie au lithium intégrée et d’un port de chargement) en guise de bagage à main. Mais:
+Vous pouvez emporter un bagage intelligent (bagage cabine équipé d’une batterie au lithium intégrée et d’un port de chargement) en guise de bagage à main.
 
 **8.4.3** Appareils électroniques et batteries de rechange en cabine (100 Wh maximum)   
  
