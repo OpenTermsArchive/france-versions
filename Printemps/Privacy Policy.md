@@ -70,7 +70,8 @@
 * PLUS D'INSPIRATION
     * [Les meilleurs calendriers de l'avent beauté 2025 pour attendre Noël](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
     * [Cadeaux de Noël de dernière minute : Les idées qui feront plaisir à coup sûr](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-noel-derniere-minute)
-    * [Tenues de fêtes : Comment bien porter le doré et l'argenté](https://www.printemps.com/fr/fr/edito-magazine-actu-porter-dore-argent-fetes)
+    * [Comment décorer une table de Noël : Les idées parfaites](https://www.printemps.com/fr/fr/edito-magazine-actu-comment-decorer-table-noel)
+    * [Cadeaux beauté : Les meilleurs coffrets à glisser sous le sapin](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-beaute-coffrets-noel)
 *  [![Image d'illustration](https://media-cdn.printemps.com/image/68/5/8629685.jpg)](https://www.printemps.com/fr/fr/idees-cadeaux-noel)
     
 
