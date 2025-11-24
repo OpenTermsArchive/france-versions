@@ -40,15 +40,18 @@ Transmission des données API-PNR aux autorités publiques
 
 Conformément aux lois et règlements applicables en France et au niveau international, Air Austral est légalement tenue de collecter et de transmettre certaines données d’identification et de voyage de ses passagers aux autorités publiques françaises (douanes, immigration, police, etc.) et étrangères à des fins de :
 
-• Contrôle aux frontières,  
-• Formalités d’immigration,  
-• Prévention et lutte contre le terrorisme,  
-• Prévention et répression des infractions graves.  
+* Contrôle aux frontières,
+* Formalités d’immigration,
+* Prévention et lutte contre le terrorisme,
+* Prévention et répression des infractions graves.
+
   
- Pour les vols opérés par Air Austral au départ ou à destination d’un État non-membre de l’Union européenne, les données suivantes peuvent être transmises à l’Unité Information Passagers (UIP) en application de l’article L.232-7 du Code de la sécurité intérieure et du décret n° 2014-1095 du 26 septembre 2014 :  
+Conformément à l’article L.232-7 du code de la sécurité intérieure, nous vous informons que les transporteurs aériens sont tenus de transmettre les données de réservations, d’enregistrement et d’embarquement de leurs passagers (PNR/API) à l’administration française, selon les modalités de traitement et pour les finalités fixées par le décret n° 2014-1095 du 26/09/2014, modifié par le décret 2018-714 du 03 août 2018 :  
   
-• API (Advanced Passenger Information) : données d’identification et informations liées au voyage, collectées au moment de l’enregistrement.  
-• PNR (Passenger Name Record) : données de réservation automatiquement transmises par Air Austral.  
+
+* API (Advanced Passenger Information) : données d’identification et informations liées au voyage, collectées au moment de l’enregistrement.
+* PNR (Passenger Name Record) : données de réservation automatiquement transmises par Air Austral.
+
   
 Ces transmissions sont effectuées conformément au RGPD et à la Loi Informatique et Libertés. Pour plus d’informations, vous pouvez consulter :  
 [https://pnr.gouv.fr/fr/traveler/](https://pnr.gouv.fr/fr/traveler/)  
