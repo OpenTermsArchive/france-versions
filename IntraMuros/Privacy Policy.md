@@ -40,7 +40,7 @@ Toute personne saisissant des informations personnelles sur le "Site" est respon
 Ces données sont collectées par le biais:
 
 * des formulaires
-* des cookies
+* des cookies (voir notre [Politique de gestion des cookies](https://www.intramuros.org/cookies))
 
 Ces traitements s’appuient sur votre consentement explicite. Vous pouvez à tout moment retirer ce consentement soit par le biais des outils mis à votre disposition en ligne (gestion des cookies), soit par saisie des services responsables du traitement de vos données. Vous pouvez également saisir à cette fin le délégué à la protection des données. Aucun transfert ou cession de vos données à des tiers n’a lieu.
 
@@ -75,7 +75,7 @@ Si vous considérez que l’utilisation de ces données est abusive, vous pouvez
 Notification de violation de données personnelles
 --------------------------------------------------
 
-En cas de violation de données à caractère personnel, IntraMuros s’engage à notifier la violation en question à la CNIL, dans les meilleurs délais et, si possible, 72 heures au plus tard après en avoir pris connaissance. En qualité de sous-traitant, IntraMuros notifiera aux responsables de traitements des communes et EPCI toute violation de données à caractère personnel dans les meilleurs délais après en avoir pris connaissance. En cas de perte des données lié au piratage de ces données, une sauvegarde automatique de l’ensemble des données du "Site" est accessible pendant sept jours. Ainsi, la société INTRAMUROS pourra rétablir les données du "Site" en remontant au maximum jusqu’au septième jour suivant la découverte de la perte des données.
+En cas de violation de données à caractère personnel, IntraMuros s’engage à notifier la violation en question à la CNIL, dans les meilleurs délais et, si possible, 72 heures au plus tard après en avoir pris connaissance. En qualité de sous-traitant, IntraMuros notifiera aux responsables de traitements des communes et EPCI toute violation de données à caractère personnel dans les meilleurs délais après en avoir pris connaissance. En cas de perte des données lié au piratage de ces données, une sauvegarde automatique de l’ensemble des données du "Site" est accessible pendant sept jours. Ainsi, la société IntraMuros pourra rétablir les données du "Site" en remontant au maximum jusqu’au septième jour suivant la découverte de la perte des données.
 
   
 
@@ -89,6 +89,16 @@ Conformément à la loi Informatique et Libertés et le Règlement Général sur
 * E-mail: rgpd@intramuros.org
 
 Vos requêtes seront traitées dans les 30 jours. Nous pouvons vous demander à ce que votre demande soit accompagnée d’une photocopie de preuve d’identité ou d’autorité.
+
+Réclamation auprès de la CNIL
+-----------------------------
+
+Si vous estimez que vos droits ne sont pas respectés, vous pouvez introduire une réclamation auprès de la Commission Nationale de l'Informatique et des Libertés (CNIL) :
+
+**CNIL**  
+3 Place de Fontenoy - TSA 80715  
+75334 PARIS CEDEX 07  
+Site internet : [https://www.cnil.fr/fr/plaintes](https://www.cnil.fr/fr/plaintes)
 
   
 
