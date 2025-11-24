@@ -386,14 +386,10 @@
     * [Parfums de marly](https://www.printemps.com/fr/fr/parfum-parfums-de-marly)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/76/1/8672761.jpg)
-        
-        PARFUMS DE MARLY](https://www.printemps.com/fr/fr/parfums-de-marly-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-parfums-de-marly)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/64/7/8659647.jpg)](https://www.printemps.com/fr/fr/black-friday-beaute)
         
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/76/1/8672761.jpg)
-
-PARFUMS DE MARLY](https://www.printemps.com/fr/fr/parfums-de-marly-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-parfums-de-marly)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/64/7/8659647.jpg)](https://www.printemps.com/fr/fr/black-friday-beaute)
 
 * [BLACK FRIDAY : Jusqu'à -50%](https://www.printemps.com/fr/fr/black-friday-maison)
 
