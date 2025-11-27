@@ -111,7 +111,7 @@ Le Client prend connaissance et accepte les Conditions Générales, en cochant l
 
 **3 - Livraison**
 
-Après avoir confirmé le contenu de sa Commande, le Client doit sélectionner et valider les détails concernant la livraison et le paiement (identité du destinataire, adresse de livraison, adresse de facturation, etc.) et choisir son mode d’expédition (Colissimo ou Chronopost) le Client la valide définitivement par le paiement en cliquant sur le bouton « CONTINUER VERS LE PAIEMENT ».
+Après avoir confirmé le contenu de sa Commande, le Client doit sélectionner et valider les détails concernant la livraison et le paiement (identité du destinataire, adresse de livraison, adresse de facturation, etc.) et choisir son mode d’expédition (Colissimo, Chronopost ou DHL) le Client la valide définitivement par le paiement en cliquant sur le bouton « CONTINUER VERS LE PAIEMENT ».
 
 Dans tous les cas, KAPPA FRANCE accuse réception de la Commande dès sa validation par courrier électronique.
 
@@ -150,9 +150,11 @@ Le Client doit également s’acquitter, en plus du prix des articles commandés
 
 Les Produits seront envoyés à l’adresse de livraison que le Client a indiquée au cours du processus de Commande.
 
-KAPPA FRANCE a choisi Colissimo et Chronopost pour ses expéditions.
+KAPPA FRANCE a choisi Colissimo, Chronopost et DHL pour ses expéditions.
 
 KAPPA FRANCE livre les colis en France métropolitaine, dans les pays de l’Union Européenne, au Royaume-Uni, en Suisse et dans un grand nombre de pays étrangers.
+
+La liste de spays est disponible ici : https://www.kappa.fr/pages/livraison 
 
 Les Clients des pays ne faisant pas partie de l’Union Européenne prennent à leur charge le paiement des droits de douane pour l’entrée des marchandises sur leur territoire. Il est entendu que ces Clients paient les produits hors TVA (le montant des taxes n’étant pas répercuté sur le prix des produits de la boutique en ligne).
 
