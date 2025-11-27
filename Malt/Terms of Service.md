@@ -448,7 +448,7 @@ XI – Assurance des Freelances
 
 Cette assurance couvre le Freelance à compter de la validation de la proposition tarifaire par le Client.
 
-11.2 Le détail des garanties souscrites (notamment nature, limites, franchises etc…) et des conditions particulières de couverture de la police Hiscox souscrite par la Société sont accessibles [ici](https://cdn.malt.com/legals/2024/HISCOX_SPECIFIC_TERMS_AND_CONDITIONS_FR.pdf). Les conditions générales de la police Hiscox également applicables sont également accessibles [ici](https://cdn.malt.com/legals/2024/HISCOX_CG_RCP_FR.pdf).
+11.2 Le détail des garanties souscrites (notamment nature, limites, franchises etc…) et des conditions particulières de couverture de la police Hiscox souscrite par la Société sont accessibles [ici.](https://cdn.malt.com/legals/2024/HISCOX_SPECIFIC_TERMS_AND_CONDITIONS_FR.pdf). Les conditions générales de la police Hiscox également applicables sont également accessibles [ici](https://cdn.malt.com/legals/2024/HISCOX_CG_RCP_FR.pdf).
 
 Le Freelance déclare en avoir pris pleinement connaissance en acceptant les présentes Conditions Générales.
 
