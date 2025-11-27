@@ -364,7 +364,6 @@
 * INSPIRATIONS
     * [K-beauty](https://www.printemps.com/fr/fr/edito-beaute-coree-mania)
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur-beaute)
-    * [Nos concepts](https://www.printemps.com/fr/fr/nos-concepts)
     * [Les meilleurs calendriers de l'Avent 2025](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
     * [Smoky eyes : le guide complet pour un regard intense](https://www.printemps.com/fr/fr/edito-magazine-beaute-smoky-eyes)
 * SÉLECTIONS
