@@ -2,6 +2,8 @@
 
 * [BLACK FRIDAY : Jusqu'à -50%](https://www.printemps.com/fr/fr/black-friday)
     
+* [Remise supplémentaire : -15% au panier dès 150€](https://www.printemps.com/fr/fr/offre-black-friday)
+    
 * [LUXE](https://www.printemps.com/fr/fr/black-friday-luxe)
     
 * [FEMME](https://www.printemps.com/fr/fr/black-friday-femme)
@@ -350,8 +352,9 @@
     
 
 * INSPIRATIONS
-    * [K-beauty](https://www.printemps.com/fr/fr/edito-beaute-coree-mania)
-    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur-beaute)
+    * [Scent room](https://www.printemps.com/fr/fr/concept-beaute-scent-room)
+    * [Green market](https://www.printemps.com/fr/fr/concept-beaute-green-market)
+    * [K-beauty](https://www.printemps.com/fr/fr/concept-beaute-k-beauty)
     * [Les meilleurs calendriers de l'Avent 2025](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
     * [Smoky eyes : le guide complet pour un regard intense](https://www.printemps.com/fr/fr/edito-magazine-beaute-smoky-eyes)
 * SÉLECTIONS
