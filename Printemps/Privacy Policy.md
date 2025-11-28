@@ -2,6 +2,8 @@
 
 * [BLACK FRIDAY : Jusqu'à -50%](https://www.printemps.com/fr/fr/black-friday)
     
+* [Remise supplémentaire : -15% au panier dès 150€](https://www.printemps.com/fr/fr/offre-black-friday)
+    
 * [LUXE](https://www.printemps.com/fr/fr/black-friday-luxe)
     
 * [FEMME](https://www.printemps.com/fr/fr/black-friday-femme)
@@ -39,10 +41,10 @@
     * [Mailles et pulls](https://www.printemps.com/fr/fr/black-friday/cat0/Mailles+et+pulls)
     * [Chemises](https://www.printemps.com/fr/fr/black-friday/cat0/Chemises)
     * [Manteaux](https://www.printemps.com/fr/fr/black-friday/cat0/Manteaux)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/93/4/8694934.jpg)](https://www.printemps.com/fr/fr/black-friday)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/80/0/8710800.jpg)](https://www.printemps.com/fr/fr/black-friday)
         
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/93/4/8694934.jpg)](https://www.printemps.com/fr/fr/black-friday)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/80/0/8710800.jpg)](https://www.printemps.com/fr/fr/black-friday)
 
 * [NOS IDEES CADEAUX](https://www.printemps.com/fr/fr/idees-cadeaux-noel)
     * [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
@@ -222,10 +224,10 @@
     * [Prada](https://www.printemps.com/fr/fr/prada-femme)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Guess](https://www.printemps.com/fr/fr/guess-femme)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/93/4/8694934.jpg)](https://www.printemps.com/fr/fr/black-friday-femme)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/80/0/8710800.jpg)](https://www.printemps.com/fr/fr/black-friday-femme)
         
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/93/4/8694934.jpg)](https://www.printemps.com/fr/fr/black-friday-femme)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/80/0/8710800.jpg)](https://www.printemps.com/fr/fr/black-friday-femme)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -307,10 +309,10 @@
     * [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
     * [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/93/4/8694934.jpg)](https://www.printemps.com/fr/fr/black-friday-homme)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/80/0/8710800.jpg)](https://www.printemps.com/fr/fr/black-friday-homme)
         
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/93/4/8694934.jpg)](https://www.printemps.com/fr/fr/black-friday-homme)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/80/0/8710800.jpg)](https://www.printemps.com/fr/fr/black-friday-homme)
 
 * [L’ESPACE BEAUTÉ](https://www.printemps.com/fr/fr/espace-beaute)
     
@@ -362,8 +364,9 @@
     
 
 * INSPIRATIONS
-    * [K-beauty](https://www.printemps.com/fr/fr/edito-beaute-coree-mania)
-    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur-beaute)
+    * [Scent room](https://www.printemps.com/fr/fr/concept-beaute-scent-room)
+    * [Green market](https://www.printemps.com/fr/fr/concept-beaute-green-market)
+    * [K-beauty](https://www.printemps.com/fr/fr/concept-beaute-k-beauty)
     * [Les meilleurs calendriers de l'Avent 2025](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
     * [Smoky eyes : le guide complet pour un regard intense](https://www.printemps.com/fr/fr/edito-magazine-beaute-smoky-eyes)
 * SÉLECTIONS
@@ -568,7 +571,7 @@
 
 * [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/93/4/8694934.jpg)](https://www.printemps.com/fr/fr/black-friday)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/80/0/8710800.jpg)](https://www.printemps.com/fr/fr/black-friday)
 
   
 
