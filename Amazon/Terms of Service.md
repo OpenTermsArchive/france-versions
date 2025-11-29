@@ -1,7 +1,7 @@
 Conditions générales de vente et d'utilisation
 ==============================================
 
-Dernière mise à jour le 8 août 2025.
+Dernière mise à jour le 28 novembre 2025.
 
 Retrouvez la version précédente des Conditions d'utilisation et de vente dans les [versions précédentes des Conditions générales de vente et d'utilisation](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q). Cette version des Conditions d'utilisation et de vente s'applique à toutes les commandes passées à la date de dernière mise à jour indiquée ci-dessus, ou après cette date. Pour les commandes passées avant cette date, merci de consulter les versions précédentes des Conditions d'utilisation et de vente et de sélectionner la version qui était en vigueur au moment de votre commande.
 
@@ -346,7 +346,7 @@ Les produits livrés restent la propriété d'Amazon jusqu'à leur remise au tra
     
 * **MODALITES D'EXERCICE DU DROIT LÉGAL DE RÉTRACTATION.**
     
-    Pour les produits vendus par Amazon EU SARL, vous devez nous notifier (Amazon EU Sarl, 38 avenue John F. Kennedy, L-1855 Luxembourg) votre décision de vous rétracter de votre commande. Vous pouvez soumettre votre demande en ligne conformément aux instructions et formulaires disponibles auprès de notre Centre de retours en ligne, ou en utilisant ce [formulaire](https://m.media-amazon.com/images/G/08/legal/Specific_EU_legislation/Cancellation_Form_Amazon_France.pdf)[formulaire](https://m.media-amazon.com/images/G/08/legal/Specific_EU_legislation/Formulaire_de_retractation_amazon_France.pdf). Dans le cas où vous notifieriez votre décision de vous rétracter au moyen du [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/), nous vous enverrons un accusé de réception.
+    Pour les produits vendus par Amazon EU SARL, vous devez nous notifier (Amazon EU Sarl, 38 avenue John F. Kennedy, L-1855 Luxembourg) votre décision de vous rétracter de votre commande. Vous pouvez soumettre votre demande en ligne conformément aux instructions et formulaires disponibles auprès de notre Centre de retours en ligne, ou en utilisant ce [formulaire](https://m.media-amazon.com/images/G/08/legal/Specific_EU_legislation/Formulaire_de_retractation_amazon_France.pdf). Dans le cas où vous notifieriez votre décision de vous rétracter au moyen du [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/), nous vous enverrons un accusé de réception.
     
     Pour respecter la date limite de rétractation, il vous suffit d'envoyer votre demande de rétractation avant que le délai de 14 jours n'expire et de renvoyer votre produit en suivant les instructions de notre centre de retours en ligne.
     
@@ -364,11 +364,18 @@ Les produits livrés restent la propriété d'Amazon jusqu'à leur remise au tra
     
 * **NOTRE POLITIQUE DE RETOURS SOUS 30 JOURS.**
     
-    Sans préjudice des droits qui vous sont reconnus par la loi et notamment de votre droit légal de rétractation décrit ci-dessus, Amazon EU SARL propose une politique commerciale de retours sous 30 jours à compter du lendemain de la réception du produit si les produits sont complets et dans un état neuf et intact en soumettant votre demande par le biais de notre [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/).
+    Sans préjudice des droits qui vous sont reconnus par la loi et notamment de votre droit légal de rétractation décrit ci-dessus, Amazon EU SARL propose une politique commerciale de retours sous 30 jours à compter du lendemain de la réception du produit si aucune des exceptions ne s'applique et si les produits sont complets et dans un état neuf et intact en soumettant votre demande par le biais de notre [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/).
     
     Les produits qui sont exclus du droit légal de rétractation en application de la liste ci-dessus sont également exclus de notre politique de retours sous 30 jours.
     
-    En cas de retour entre 15 et 30 jours en application de notre politique de retours sous 30 jours, les frais de retour sont gratuits. Pour plus d'informations, veuillez visiter la page [Politique de retours de 30 jours d'Amazon](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7). Les frais d'expédition initiaux ne sont pas remboursés entre 15 et 30 jours.
+    En cas de retour entre 15 et 30 jours en application de notre politique de retours sous 30 jours :
+    
+    * Amazon remboursera le prix de l’article. Vous serez responsable de toute dépréciation de la valeur du ou des produits résultant d’une manipulation (autre que celle nécessaire pour établir la nature, les caractéristiques et le bon fonctionnement du ou des produits). Dans ce cas, nous pouvons réduire le montant de votre remboursement afin de tenir compte de la diminution de valeur des produits. Si les produits sont considérablement endommagés du fait de leur manipulation par vos soins, vous pourriez ne pas avoir droit à un remboursement pour ceux-ci. Par conséquent, nous vous recommandons de retourner le produit dans le même état que celui dans lequel vous l’avez reçu (les articles vendus comme neufs doivent être renvoyés dans un état neuf, inutilisés et complets, avec tous les accessoires, et les articles d’occasion ne doivent pas présenter de signes d’utilisation ou de détérioration supplémentaires).
+    * Les frais de retour sont gratuits.
+    * Amazon ne remboursera pas les frais d’expédition si vous changez d’avis concernant votre achat, sauf en cas de problème avec l’article (par exemple, s’il ne correspond pas à la description figurant sur le site, s’il a été reçu endommagé ou s’il ne fonctionne pas).
+    * Si vous retournez un article présentant un problème (par exemple, s’il ne correspond pas à la description figurant sur le site, s’il a été reçu endommagé ou s’il ne fonctionne pas) et si cet article fait partie d’une commande comprenant d’autres produits, nous vous rembourserons les frais d’expédition initiaux de l’article présentant un problème.
+    
+    Pour plus d'informations, veuillez visiter la page [Politique de retours de 30 jours d'Amazon](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7).
     
     Vous bénéficiez par ailleurs des garanties légales de conformité et des vices cachés mentionnées à l'article 7 des présentes Conditions Générales de Vente (« Notre responsabilité Garanties »).
     
