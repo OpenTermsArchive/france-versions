@@ -11,7 +11,7 @@ Conditions générales de transport
     
 * ### ARTICLE 4 TARIFS, TAXES, FRAIS ET REDEVANCES
     
-* ### ARTICLE 5 ASSISTANCE SPÉCIALE
+* ### ARTICLE 5 ASSISTANCE VOYAGE
     
 * ### ARTICLE 6 ENREGISTREMENT ET EMBARQUEMENT
     
@@ -228,19 +228,19 @@ Nous garantissons le taux de change de devise au moment de la réservation du bi
 
 La TVA ne s’applique pas aux tarifs et frais relatifs aux trajets internationaux. Cependant, les prix indiqués pour les tarifs et frais afférents sont soumis à TVA sur les lignes intérieures italiennes, françaises, espagnoles, portugaises, allemandes, polonaises et grecques au taux en vigueur dans chacun des pays concernés. Un reçu TVA sera automatiquement envoyé pour toutes les réservations de vols intérieurs mentionnés ci-dessus.
 
-ARTICLE 5 ASSISTANCE SPÉCIALE
-=============================
+ARTICLE 5 ASSISTANCE VOYAGE
+===========================
 
-**5.1** Sans préjudice de l’article 5.2, les passagers handicapés ou à mobilité réduite ne doivent pas se voir refuser un transport en raison de leur handicap ou de leur manque de mobilité. L’acceptation du transport de personnes en bas âge voyageant seules, de personnes handicapées, de femmes enceintes, de personnes souffrant de maladies, de passagers malvoyants ou non-voyants ou d’autres personnes nécessitant une assistance spéciale est soumise à des dispositions prises préalablement avec nous selon nos Règlements (cliquer ici pour accéder au Règlement à ce sujet).
+**5.1** Sans préjudice de l’article 5.2, les passagers handicapés ou à mobilité réduite ne doivent pas se voir refuser un transport en raison de leur handicap ou de leur manque de mobilité. L’acceptation à bord de mineurs voyageant seuls, de personnes handicapées, de femmes enceintes, de personnes malades, de passagers aveugles ou présentant une déficience visuelle, ainsi que de toute personne nécessitant une assistance, doit faire l’objet d’une demande préalable spécifique conformément à notre Règlement. (cliquer ici pour accéder au Règlement à ce sujet).
 
-**5.2.1** Si vous avez besoin d’une assistance spéciale en raison d’un handicap ou d’une mobilité réduite, vous devez nous informer de vos besoins lorsque vous effectuez votre réservation, ou dès que vous apprenez que vous aurez besoin d’une assistance spéciale. Cela doit être effectué au moins 48 heures avant l’heure de départ prévue.  Nous ferons alors tout ce qui est raisonnablement possible pour vérifier si, pour des raisons de sécurité, nous n’avons pas pu vous autoriser sur le vol et, le cas échéant, si nous pouvons vous proposer une alternative acceptable.
+**5.2.1** Si vous avez besoin d’une assistance en raison d’un handicap ou d’une mobilité réduite, vous devez nous informer de vos besoins lorsque vous effectuez votre réservation, ou dès que vous apprenez que vous aurez besoin d’une assistance. Cela doit être effectué au moins 48 heures avant l’heure de départ prévue.  Nous ferons alors tout ce qui est raisonnablement possible pour vérifier si, pour des raisons de sécurité, nous n’avons pas pu vous autoriser sur le vol et, le cas échéant, si nous pouvons vous proposer une alternative acceptable.
 
 **5.2.2** En vertu du règlement (CE) 1107/2006, nous pouvons refuser d’autoriser une personne handicapée ou à mobilité réduite à bord de l’avion uniquement si :
 
 * cela est nécessaire pour répondre aux exigences de sécurité qui s’appliquent ; ou
 * la taille de l’avion ou de ses portes rend physiquement impossible l’accès à ce vol à la personne. 
 
-**5.2.3** Si, après avoir été informé de toute assistance spéciale dont vous avez besoin, nous acceptons que vous preniez le vol, nous fournirons l’assistance spéciale conformément au règlement (CE) 1107/2006. Si nous ne vous autorisons pas à prendre le vol réservé, nous vous proposerons, ainsi qu’à toute personne qui voyagerait avec vous, un remboursement ou d’autres arrangements, conformément aux règlements applicables en matière de droits des passagers, pour autant que toutes les exigences de sécurité pertinentes soient respectées.
+**5.2.3** Si, après avoir été informé de l’assistance dont vous avez besoin, nous acceptons que vous preniez le vol, nous vous fournirons l’assistance conformément au règlement (CE) 1107/2006. Si nous ne vous autorisons pas à prendre le vol réservé, nous vous proposerons, ainsi qu’à toute personne qui voyagerait avec vous, un remboursement ou d’autres arrangements, conformément aux règlements applicables en matière de droits des passagers, pour autant que toutes les exigences de sécurité pertinentes soient respectées.
 
 ARTICLE 6 ENREGISTREMENT ET EMBARQUEMENT
 ========================================
