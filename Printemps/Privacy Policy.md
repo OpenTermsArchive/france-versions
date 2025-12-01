@@ -41,10 +41,7 @@
     * [Mailles et pulls](https://www.printemps.com/fr/fr/black-friday/cat0/Mailles+et+pulls)
     * [Chemises](https://www.printemps.com/fr/fr/black-friday/cat0/Chemises)
     * [Manteaux](https://www.printemps.com/fr/fr/black-friday/cat0/Manteaux)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/80/0/8710800.jpg)](https://www.printemps.com/fr/fr/black-friday)
-        
-
- [![Image d'illustration](https://media-cdn.printemps.com/image/80/0/8710800.jpg)](https://www.printemps.com/fr/fr/black-friday)
+    * 
 
 * [NOS IDEES CADEAUX](https://www.printemps.com/fr/fr/idees-cadeaux-noel)
     * [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
@@ -224,10 +221,14 @@
     * [Prada](https://www.printemps.com/fr/fr/prada-femme)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Guess](https://www.printemps.com/fr/fr/guess-femme)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/80/0/8710800.jpg)](https://www.printemps.com/fr/fr/black-friday-femme)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/26/1/8712261.jpg)
+        
+        MOON BOOT](https://www.printemps.com/fr/fr/moonboot-femme)
         
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/80/0/8710800.jpg)](https://www.printemps.com/fr/fr/black-friday-femme)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/26/1/8712261.jpg)
+
+MOON BOOT](https://www.printemps.com/fr/fr/moonboot-femme)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -388,10 +389,14 @@
     * [Parfums de marly](https://www.printemps.com/fr/fr/parfum-parfums-de-marly)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/64/7/8659647.jpg)](https://www.printemps.com/fr/fr/black-friday-beaute)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/13/1/8696131.jpg)
+        
+        ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-acqua-di-parma)
         
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/64/7/8659647.jpg)](https://www.printemps.com/fr/fr/black-friday-beaute)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/13/1/8696131.jpg)
+
+ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-acqua-di-parma)
 
 * [BLACK FRIDAY : Jusqu'à -50%](https://www.printemps.com/fr/fr/black-friday-maison)
 
@@ -571,7 +576,9 @@
 
 * [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/80/0/8710800.jpg)](https://www.printemps.com/fr/fr/black-friday)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/72/4/8729724.jpg)
+
+LE TANNEUR](https://www.printemps.com/fr/fr/le-tanneur-femme)
 
   
 
