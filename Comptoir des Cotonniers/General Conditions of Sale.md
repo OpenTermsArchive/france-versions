@@ -65,18 +65,7 @@ ARTICLE 6. LIVRAISON
 
 **6.1 Pays de livraison** Les produits en vente sur le Site sont livrés uniquement dans les pays mentionnés ci-dessous :
 
- 
-
-|     |     |     |     |
-| --- | --- | --- | --- |
-| France métropolitaine | Finlande | Malte | Slovaquie |
-| Allemagne | Grèce | Monaco | Slovénie |
-| Autriche | Hongrie | Pays Bas | Suède |
-| Belgique | Irlande | Pologne |     |
-| Danemark | Italie | Portugal |     |
-| Espagne | Luxembourg | République Tchèque |     |
-
-  
+ Les produits en vente sur le site sont livrés uniquement dans les pays mentionnés ci-après : France métropolitaine (dont la Corse), Allemagne, Autriche, Belgique, Bulgarie, Chypre Sud, Croatie, Danemark, Espagne, Estonie, Finlande, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malte, Monaco, Pays-Bas, Pologne, Portugal, République Tchèque, Roumanie, Slovaquie, Slovénie, Suède.  
 Nous ne livrons pas les destinations suivantes pour des raisons de formalités douanières :  
  
 
@@ -89,9 +78,7 @@ Nous ne livrons pas les destinations suivantes pour des raisons de formalités d
 \- les îles Aland (Finlande),  
 \- le Mont Athos (Grèce),  
 \- Campione d'Italia, Livigno, San Marin et le Vatican (Italie),  
-\- Jersey, Guernesey (Grande-Bretagne).
-
-\- Croatie.
+\- Grande-Bretagne.
 
 **6.2 Délais de livraison** Comptoir des Cotonniers met tout en œuvre pour que la commande soit livrée dans les meilleurs délais. Les commandes enregistrées sur le Site le vendredi à partir de 13 heures, le samedi ou le dimanche ne seront traitées que le lundi suivant. Les commandes enregistrées sur le Site un jour férié seront traitées le jour ouvré suivant.  
   
