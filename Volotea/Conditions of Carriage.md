@@ -579,9 +579,17 @@ Le Transporteur pourra refuser à tout moment le transport d’un Passager dans 
 
 Le Passager aura le droit d’être informé de l’heure exacte prévue pour le départ et l’arrivée du vol au moment d’effectuer sa réservation. Dans le cas où Volotea procède à une modification de l’heure de départ, le passager doit en être informé dans des délais raisonnables. La compagnie ne pourra être tenue pour responsable des préjudices dérivés d’une impossibilité à communiquer ce changement, dans le cas où ladite impossibilité résulterait d’une communication erronée de ses coordonnées de la part du Passager.
 
-#### 12.2 Connexions
+#### 12.2 Correspondances autonomes et organisées
 
-Dans le cas où le Passager achète deux vols ou plus, avec l’objectif d’effectuer une connexion, il est de la responsabilité du Passager de calculer le temps nécessaire pour pouvoir récupérer les bagages du premier vol, les enregistrer à nouveau, passer le contrôle de sécurité et des passeports et se rendre à la porte d’embarquement du second et/ou du vol suivant.
+#### 12.2.1. Correspondances autonomes créées par le passager
+
+Dans le cas où le Passager achète deux Vols ou plus, dans le but de créer une correspondance, il est de la responsabilité du Passager de calculer le temps nécessaire pour pouvoir récupérer les bagages du premier Vol, les enregistrer à nouveau, passer le contrôle de sécurité et des passeports et se rendre à la porte d’embarquement du second Vol et/ou du Vol suivant.
+
+Volotea décline toute responsabilité en cas de perte de correspondances créées directement par le Passager.
+
+#### 12.2.2. Correspondances organisées avec ITA Airways (AZ)
+
+Pour les billets achetés dans le cadre d'une correspondance organisée avec des vols opérés par Volotea (V7) et ITA Airways (AZ), la protection du passager prévue en cas de retard, d'annulation ou de correspondance manquée s'appliquera, à condition que l'itinéraire ait été émis sous un seul billet.
 
 #### 12.3 Droits des passagers
 
