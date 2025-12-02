@@ -451,9 +451,15 @@ Si le Passager ne récupère pas ses bagages dans un délai de 7 jours à compte
 
 Volotea pourra bloquer ou refuser au Passager la livraison du bagage résultant suspect, ou à la demande dans ce sens d’un autre Passager ou des Forces et corps de sécurité de l’État espagnol ou les corps de sécurité de chaque pays. Dans ces cas, le Passager devra remplir les formalités légales prévues pour récupérer le bagage et le Transporteur n’assumera en aucun cas la responsabilité pour ledit retard ou le refus de la livraison.
 
-#### 6.15 Correspondance de vols et bagages
+#### 6.15 Correspondances et bagages
 
-Si le Passager achète deux ou plusieurs vols avec des horaires consécutifs, il sera de sa responsabilité de se laisser le temps nécessaire pour pouvoir sortir et récupérer ses bagages du premier vol, aller les enregistrer à nouveau, repasser le contrôle de sûreté et des passeports, et arriver à la porte d’embarquement du second vol et/ou des vols suivants. Chaque Vol constitue un contrat de transport indépendant. Pour cette raison, Volotea décline toute responsabilité si le Passager n'arrive pas à temps aux vols point à point suivants.
+#### 6.15.1 Correspondances autonomes
+
+Dans le cas où le Passager achète deux Vols ou plus avec des horaires consécutifs, il est de la responsabilité du Passager de se laisser le temps nécessaire pour pouvoir récupérer les bagages du premier Vol, les enregistrer à nouveau, passer le contrôle de sécurité et des passeports et se rendre à la porte d’embarquement du second Vol et/ou des Vols suivants. Chaque Vol constitue un contrat de transport distinct ; Volotea décline ainsi toute responsabilité en cas de correspondance manquée.
+
+#### 6.15.2 Billets émis dans le cadre d'une correspondance avec ITA Airways (AZ)
+
+Si le Passager achète un billet unique comprenant un itinéraire avec des correspondances de vols opérés par Volotea (V7) et ITA Airways (AZ), les Vols inclus dans ledit billet constituent un seul contrat de transport. Le Passager est donc protégé tout au long du voyage, y compris pour ses bagages enregistrés jusqu'à la destination finale, sauf si la réglementation locale exige leur récupération à l'aéroport de correspondance.
 
 * * *
 
