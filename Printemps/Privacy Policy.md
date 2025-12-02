@@ -365,7 +365,7 @@ MOON BOOT](https://www.printemps.com/fr/fr/moonboot-femme)
     
 
 * INSPIRATIONS
-    * [Scent room](https://www.printemps.com/fr/fr/concept-beaute-scent-room)
+    * [Scent Room](https://www.printemps.com/fr/fr/concept-beaute-scent-room)
     * [Green market](https://www.printemps.com/fr/fr/concept-beaute-green-market)
     * [K-beauty](https://www.printemps.com/fr/fr/concept-beaute-k-beauty)
     * [Les meilleurs calendriers de l'Avent 2025](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
