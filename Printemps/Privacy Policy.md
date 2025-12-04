@@ -28,10 +28,14 @@
     * [Cadeaux de Noël de dernière minute : Les idées qui feront plaisir à coup sûr](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-noel-derniere-minute)
     * [Comment décorer une table de Noël : Les idées parfaites](https://www.printemps.com/fr/fr/edito-magazine-actu-comment-decorer-table-noel)
     * [Cadeaux beauté : Les meilleurs coffrets à glisser sous le sapin](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-beaute-coffrets-noel)
-*  [![Image d'illustration](https://media-cdn.printemps.com/image/37/4/8704374.jpg)](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
+*  [![Image d'illustration](https://media-cdn.printemps.com/image/31/7/8753317.jpg)
+    
+    TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
     
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/37/4/8704374.jpg)](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/31/7/8753317.jpg)
+
+TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
 
 * [COLLECTION AUTOMNE-HIVER](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
     
@@ -276,15 +280,23 @@ MOON BOOT](https://www.printemps.com/fr/fr/moonboot-femme)
     * [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
     * [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/37/4/8704374.jpg)](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/31/6/8753316.jpg)
+        
+        TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
         
 
-*  [![Image d'illustration](https://media-cdn.printemps.com/image/37/4/8704374.jpg)](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
+*  [![Image d'illustration](https://media-cdn.printemps.com/image/31/6/8753316.jpg)
+    
+    TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
     
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/37/4/8704374.jpg)](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/31/6/8753316.jpg)
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/37/4/8704374.jpg)](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
+TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
+
+ [![Image d'illustration](https://media-cdn.printemps.com/image/31/6/8753316.jpg)
+
+TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
 
 * [L’ESPACE BEAUTÉ](https://www.printemps.com/fr/fr/espace-beaute)
     
