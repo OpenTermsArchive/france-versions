@@ -148,6 +148,8 @@
 
 * [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
     
+* [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-femme)
+    
 * [LUXE ET CRÉATEURS](https://www.printemps.com/fr/fr/luxe-et-createurs-femme)
     
 * [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-femme)
@@ -229,6 +231,8 @@
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
 * [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
+    
+* [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme)
     
 * [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-homme)
     
@@ -334,6 +338,8 @@
     * 
 
 * 
+
+* [SPÉCIAL BLANC : Jusqu'à -40%](https://www.printemps.com/fr/fr/blanc-dhiver)
 
 * [LINGE DE MAISON](https://www.printemps.com/fr/fr/linge-de-maison)
 
