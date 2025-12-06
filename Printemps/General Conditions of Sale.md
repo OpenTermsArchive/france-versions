@@ -689,7 +689,7 @@ Les prix affichés sur le Site sont exprimés en euro (€), en livre sterling (
 
   
 
-Les tarifs des différents modes de livraison peuvent être consultés en cliquant sur le lien suivant : www.printemps.com/fr/fr/click-and-collect
+Les tarifs des différents modes de livraison peuvent être consultés en cliquant sur le lien suivant : [https://www.printemps.com/fr/fr/livraisons-retours](https://www.printemps.com/fr/fr/livraisons-retours)
 
   
 
@@ -799,19 +799,17 @@ La Société propose au Client les modes de livraison aux prix détaillés ci-de
 
   
 
-**CLICK AND COLLECT - GRATUIT**, dans les magasins Printemps\* (sous 2 à 3 jours ouvrés)
+**CLICK & COLLECT**, **dans les magasins Printemps**\* - OFFERT (sous 2 à 3 jours ouvrés)
 
 \* Service non disponible pour les magasins Printemps Le Havre, Printemps Caen, Printemps Brest, Printemps Tours, Printemps Outlet Giverny et Printemps Outlet Miramas.
 
-1. Ce service de livraison permet au Client de faire livrer sa commande dans le magasin Printemps choisi lors de sa commande parmi ceux proposant ce service. Une fois la commande arrivée au Click & Collect, un email contenant un code de retrait sera envoyé. Pour retirer la commande, le Client devra se présenter au Click & Collect muni de ce code ainsi que de sa pièce d'identité. La commande est disponible dans l'espace Click & Collect du magasin Printemps choisi durant 14 jours à compter de la date d'arrivée de la commande dans le magasin sélectionné.
+  
+
+Ce service de livraison permet au Client de faire livrer sa commande dans le magasin Printemps choisi lors de sa commande parmi ceux proposant ce service. Une fois la commande arrivée au Click & Collect, un email contenant un code de retrait sera envoyé. Pour retirer la commande, le Client devra se présenter au Click & Collect muni de ce code ainsi que de sa pièce d'identité. La commande est disponible dans l'espace Click & Collect du magasin Printemps choisi durant 14 jours à compter de la date d'arrivée de la commande dans le magasin sélectionné.
 
   
 
-1. Pour tous les magasins Printemps (hors liste ci-dessus), le délai de livraison de Click & Collect est de 24 heures. Toutes les commandes passées avant 13 h seront livrées le lendemain. Toutes les commandes passées après 13 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes. Les commandes passées le vendredi après 13 h et le week-end seront disponibles pour retrait le mardi matin.
-
-  
-
-Le retrait de la commande est possible aux jours et heures d'ouverture du magasin sélectionné au comptoir « Click and Collect ».
+Le retrait de la commande est possible aux jours et heures d'ouverture du magasin sélectionné au comptoir « Click & Collect ».
 
   
 
@@ -819,7 +817,43 @@ Pour plus d'informations sur les jours et horaires d'ouverture des magasins Prin
 
   
 
-**STANDARD COLISSIMO -** 6,90 euros (sous 48 à 72 heures)
+**CHRONOPOST SHOP2SHOP -** 4,90 euros (sous 2 jours ouvrés) (hors Corse)
+
+  
+
+Livraisons offertes dès 200 euros d'achat
+
+  
+
+La livraison standard en relais Shop2Shop par Chronopost propose une livraison sous 48 heures dans les points relais partenaires.
+
+  
+
+Le colis restera disponible 7 jours calendaires à compter de la date de la mise à disposition au sein du point relais. Passé ce délai, il fera l’objet d’un retour le 8ème jour.
+
+  
+
+Toutes les commandes passées avant 13 h du lundi au vendredi sont expédiées le jour-même.
+
+  
+
+Toutes les commandes passées après 13 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes.
+
+Les commandes passées entre 13h le vendredi et 13h le lundi sont expédiées le lundi soir.
+
+  
+
+  
+
+  
+
+**Union Européenne**
+
+Livraisons standard offertes dès 300 euros d'achat
+
+  
+
+**STANDARD COLISSIMO -** 5,90 euros (sous 2 à 3 jours ouvrés)
 
   
 
@@ -845,7 +879,7 @@ Certaines commandes peuvent être livrées contre scan d'un QR code lors de la l
 
   
 
-**EXPRESS CHRONOPOST** - 8,00 euros (en 24 heures)
+**EXPRESS CHRONOPOST** - 8,00 euros (en 24 heures ouvrées)
 
   
 
@@ -873,40 +907,6 @@ Pour que le colis soit remis, le livreur devra obligatoirement saisir le code s�
 
   
 
-**CHRONOPOST SHOP2SHOP -** 2,95 euros (48h) (hors Corse)
-
-  
-
-Livraisons offertes dès 150 euros d'achat
-
-  
-
-La livraison standard en relais Shop2Shop par Chronopost propose une livraison sous 48 heures dans les points relais partenaires.
-
-  
-
-Le colis restera disponible 7 jours calendaires à compter de la date de la mise à disposition au sein du point relais. Passé ce délai, il fera l’objet d’un retour le 8ème jour.
-
-  
-
-Toutes les commandes passées avant 13 h du lundi au vendredi sont expédiées le jour-même.
-
-  
-
-Toutes les commandes passées après 13 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes.
-
-Les commandes passées entre 13h le vendredi et 13h le lundi sont expédiées le lundi soir.
-
-Tous les produits sont concernés par la livraison en point relais chrono offerte dès 150€
-
-  
-
-  
-
-**Union Européenne**
-
-Livraisons standard offertes dès 300 euros d'achat
-
   
 
 **CHRONO STANDARD INTERNATIONAL**, 10 euros (sous 2 à 3 jours ouvrés)
@@ -927,7 +927,7 @@ Avec le service Predict de Chronopost, le Client dispose d'un large choix d'opti
 
   
 
-**CHRONOPOST SHOP2SHOP** (48 à 72 heures)
+**CHRONOPOST SHOP2SHOP** (sous 2 à 3 jours ouvrés)
 
   
 
