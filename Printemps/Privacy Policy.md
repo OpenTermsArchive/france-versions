@@ -438,8 +438,8 @@ ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma?ap_source
     * [Chloé](https://www.printemps.com/fr/fr/chloe-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
-    * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-femme)
     * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
+    * [March Lab](https://www.printemps.com/fr/fr/marchlab-femme)
 
 * [HOMME](https://www.printemps.com/fr/fr/marques-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-homme)
@@ -454,7 +454,7 @@ ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma?ap_source
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
     * [Ami Paris](https://www.printemps.com/fr/fr/univers-amiparis)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
-    * [Givenchy](https://www.printemps.com/fr/fr/givenchy-homme)
+    * [Seiko](https://www.printemps.com/fr/fr/seiko-homme)
 
 * [BEAUTÉ](https://www.printemps.com/fr/fr/marques-beaute)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-beaute)
@@ -489,6 +489,8 @@ ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma?ap_source
     * [Jil Sander Beauté](https://www.printemps.com/fr/fr/jil-sander-beaute)
     * [Caudalie](https://www.printemps.com/fr/fr/caudalie-beaute)
     * [Ba&sh](https://www.printemps.com/fr/fr/bash-femme)
+    * [Hamilton](https://www.printemps.com/fr/fr/hamilton)
+    * [Citizen](https://www.printemps.com/fr/fr/citizen)
 
 * TOP MARQUES
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865)
@@ -541,10 +543,8 @@ ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma?ap_source
 * [NOS SERVICES](https://www.printemps.com/fr/fr/a-votre-service)
     * [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
     * [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
-    * [Click & collect, livraison et retours](https://www.printemps.com/fr/fr/livraisons-retours)
     * [Shopping à distance](https://www.printemps.com/fr/fr/shopping-a-distance)
     * [La carte cadeau](https://cartescadeaux.printemps.com/)
-    * [Offre de parrainage](https://www.printemps.com/fr/fr/offre-parrainage)
     * [Carte Visa Printemps](https://www.printemps.com/fr/fr/carte-visa-printemps)
     * [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
     * [Evènements au Printemps](https://evenements.printemps.com/)
@@ -578,13 +578,9 @@ ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma?ap_source
 
 * [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
 
-* [Click & collect, livraison et retours](https://www.printemps.com/fr/fr/livraisons-retours)
-
 * [Shopping à distance](https://www.printemps.com/fr/fr/shopping-a-distance)
 
 * [La carte cadeau](https://cartescadeaux.printemps.com/)
-
-* [Offre de parrainage](https://www.printemps.com/fr/fr/offre-parrainage)
 
 * [Carte Visa Printemps](https://www.printemps.com/fr/fr/carte-visa-printemps)
 
@@ -593,10 +589,6 @@ ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma?ap_source
 * [Evénements](https://evenements.printemps.com/)
 
 * [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
-
- [![Image d'illustration](https://media-cdn.printemps.com/image/72/4/8729724.jpg)
-
-LE TANNEUR](https://www.printemps.com/fr/fr/le-tanneur-femme)
 
   
 
