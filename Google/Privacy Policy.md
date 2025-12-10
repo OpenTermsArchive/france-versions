@@ -393,7 +393,7 @@ Si la loi de l'Union européenne (UE) ou du Royaume-Uni sur la protection des do
 
 Pour toute autre question ou demande concernant vos droits, [vous pouvez contacter Google et son bureau de protection des données](https://support.google.com/policies/troubleshooter/7575787?hl=fr). Si vous avez des questions sur les droits qui vous sont octroyés par votre législation locale, vous pouvez contacter votre autorité locale chargée de la protection des données.
 
-### Responsable du traitement
+### Responsable du traitement des données
 
 Sauf indication contraire dans un avis de confidentialité spécifique au service, le [responsable du traitement de vos informations](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-data-controller) dépend de votre lieu de résidence :
 
