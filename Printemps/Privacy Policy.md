@@ -372,21 +372,21 @@ TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
     *  [![Image d'illustration](https://media-cdn.printemps.com/image/13/1/8696131.jpg)
         
-        ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-acqua-di-parma)
+        ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma)
         
 
 *  [![Image d'illustration](https://media-cdn.printemps.com/image/13/1/8696131.jpg)
     
-    ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-acqua-di-parma)
+    ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma)
     
 
  [![Image d'illustration](https://media-cdn.printemps.com/image/13/1/8696131.jpg)
 
-ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-acqua-di-parma)
+ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma)
 
  [![Image d'illustration](https://media-cdn.printemps.com/image/13/1/8696131.jpg)
 
-ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-acqua-di-parma)
+ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma)
 
 * [SPÉCIAL BLANC : Jusqu'à -40%](https://www.printemps.com/fr/fr/blanc-dhiver)
 
