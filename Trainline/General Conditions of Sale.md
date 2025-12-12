@@ -1,7 +1,7 @@
 Conditions générales de vente
 =============================
 
-Dernière mise à jour le 25 juillet 2025
+Dernière mise à jour en novembre 2025.
 
 Vous trouverez dans ces Conditions générales de vente des informations sur nos services de réservation et sur la façon dont vous pouvez gérer vos réservations, notamment concernant les échanges, remboursements et annulations, ainsi que les moyens de paiement.
 
@@ -489,11 +489,21 @@ Si votre billet est échangeable, en plus de vous acquitter de toute différence
 
 Si vous avez déjà vos billets originaux, vous devrez nous les renvoyer, non utilisés, pour que nous puissions effectuer le remboursement et vous devrez prendre en charge les frais d'envoi.
 
-### 7.4 Voyages en bus au Royaume-Uni
+### 7.4 Voyages en bus et en ferry au Royaume-Uni
 
 Vous pouvez gérer votre réservation de voyage en bus au Royaume-Uni avec National Express via nos services. Si vous souhaitez annuler, faire rembourser ou modifier votre billet, veuillez nous contacter via l'un des moyens indiqués dans la [section 2](#contact).
 
 Selon le type de billet, il se peut que nous devions vous facturer des frais fixés par National Express pour procéder aux modifications demandées.
+
+**Avis de voyage concernant les ferries**
+
+Certains trajets réservés sur notre plateforme peuvent inclure une traversée en ferry. C’est le cas des services SailRail opérés en partenariat avec Irish Ferries et Stena Line. Les conditions météorologiques peuvent avoir des répercussions importantes sur les traversées. Nous vous recommandons de vérifier les heures de départ et d’arrivée de votre ferry directement auprès de la compagnie avant votre voyage.
+
+* Pour connaître les dernières informations sur les traversées de Stena Line, veuillez consulter : https://www.stenaline.co.uk/customer-service/latest-sailing-updates
+    
+* Pour connaître les dernières informations sur les traversées d’Irish Ferries (Dublin ↔ Holyhead), veuillez consulter : https://www.irishferries.com/fr/sailing-updates/dublin-holyhead/
+
+Trainline n’est pas responsable des retards, annulations ou modifications effectuées par les compagnies de ferry tierces.
 
 ### 7.5 Voyages en bus à l'extérieur du Royaume-Uni
 
