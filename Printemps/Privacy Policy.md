@@ -22,6 +22,8 @@
     
 * [NOËL AU PRINTEMPS](https://www.printemps.com/fr/fr/noel-au-printemps)
     
+* [OFFRE DE NOËL : -30€ tous les 200€](https://www.printemps.com/fr/fr/offre-noel)
+    
 
 * PLUS D'INSPIRATION
     * [Les meilleurs calendriers de l'avent beauté 2025 pour attendre Noël](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
@@ -83,7 +85,7 @@ TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
     * [Ba&sh](https://www.printemps.com/fr/fr/bash-femme)
     * [Coach](https://www.printemps.com/fr/fr/coach-femme)
     * [Givenchy Beauty](https://www.printemps.com/fr/fr/givenchy-beaute)
-    * [Marc Jacobs](https://www.printemps.com/fr/fr/nouveautes/mrk/MARC+JACOBS)
+    * [Maison Sarah Lavoine](https://www.printemps.com/fr/fr/maison-sarah-lavoine-maison)
     * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/nouveautes/mrk/J%C3%89R%C3%94ME+DREYFUSS)
 
 * DANS LA TENDANCE
@@ -153,6 +155,8 @@ TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
     * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
 
+* [OFFRE DE NOËL : -30€ tous les 200€](https://www.printemps.com/fr/fr/offre-noel-femme)
+    
 * [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
     
 * [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-femme)
@@ -251,6 +255,8 @@ MOON BOOT](https://www.printemps.com/fr/fr/moonboot-femme)
     * [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
+* [OFFRE DE NOËL : -30€ tous les 200€](https://www.printemps.com/fr/fr/offre-noel-homme)
+    
 * [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
     
 * [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme)
@@ -328,6 +334,8 @@ TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
     * [Produits de coiffage](https://www.printemps.com/fr/fr/produits-de-coiffage)
     * [Appareils électroniques](https://www.printemps.com/fr/fr/fers-lisser)
 
+* [OFFRE DE NOËL : -30€ tous les 200€](https://www.printemps.com/fr/fr/offre-noel-beaute)
+    
 * [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
     
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-beaute)
@@ -566,9 +574,9 @@ ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma)
     * [Printemps Vélizy 2](https://www.printemps.com/fr/fr/printemps-paris-velizy-2)
 
 * Actualités magasins
-    * [Journée du Patrimoine : le Printemps ouvre ses coulisses pour ses 60 ans](https://www.printemps.com/fr/fr/edito-magasins-journees-du-patrimoine)
-    * [Sac : l’évènement mode de la rentrée](https://www.printemps.com/fr/fr/edito-magasins-presentation-sac-printemps-haussmann)
-    * [Sac, sac, sac : l'exposition mode au Printemps](https://www.printemps.com/fr/fr/edito-magasins-exposition-sac-printemps-haussmann)
+    * [Le Printemps se met à l'heure New-yorkaise pour Noël](https://www.printemps.com/fr/fr/edito-magasins-noel-a-new-york-printemps)
+    * [Pour Noël plongez dans l'univers de New-York avec Ferrero Rocher®](https://www.printemps.com/fr/fr/edito-magasins-noel-ferrero-rocher-printemps-haussmann)
+    * [Pour Noël, rendez-vous au "Quartier des Jouets"](https://www.printemps.com/fr/fr/edito-magasins-jouets-printemps-haussmann)
 
 * [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
 
@@ -586,7 +594,7 @@ ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma)
 
 * [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
 
-* [Evénements](https://evenements.printemps.com/)
+* [Evénements au Printemps](https://evenements.printemps.com/)
 
 * [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
 
