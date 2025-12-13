@@ -549,9 +549,10 @@ ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma)
     
 
 * [NOS SERVICES](https://www.printemps.com/fr/fr/a-votre-service)
-    * [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
     * [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
+    * [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
     * [Shopping à distance](https://www.printemps.com/fr/fr/shopping-a-distance)
+    * [Click & Collect](https://www.printemps.com/fr/fr/livraisons-retours)
     * [La carte cadeau](https://cartescadeaux.printemps.com/)
     * [Carte Visa Printemps](https://www.printemps.com/fr/fr/carte-visa-printemps)
     * [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
