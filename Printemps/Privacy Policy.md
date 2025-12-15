@@ -186,23 +186,15 @@ TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
     * [Prada](https://www.printemps.com/fr/fr/prada-femme)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Guess](https://www.printemps.com/fr/fr/guess-femme)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/26/1/8712261.jpg)
-        
-        MOON BOOT](https://www.printemps.com/fr/fr/moonboot-femme)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/37/4/8704374.jpg)](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
         
 
-*  [![Image d'illustration](https://media-cdn.printemps.com/image/26/1/8712261.jpg)
-    
-    MOON BOOT](https://www.printemps.com/fr/fr/moonboot-femme)
+*  [![Image d'illustration](https://media-cdn.printemps.com/image/37/4/8704374.jpg)](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
     
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/26/1/8712261.jpg)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/37/4/8704374.jpg)](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
 
-MOON BOOT](https://www.printemps.com/fr/fr/moonboot-femme)
-
- [![Image d'illustration](https://media-cdn.printemps.com/image/26/1/8712261.jpg)
-
-MOON BOOT](https://www.printemps.com/fr/fr/moonboot-femme)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/37/4/8704374.jpg)](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -378,23 +370,23 @@ TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
     * [Parfums de marly](https://www.printemps.com/fr/fr/parfum-parfums-de-marly)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/13/1/8696131.jpg)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/52/1/8699521.png)
         
-        ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma)
+        ARMANI/PRIVÉ](https://www.printemps.com/fr/fr/armani-collection-beaute)
         
 
-*  [![Image d'illustration](https://media-cdn.printemps.com/image/13/1/8696131.jpg)
+*  [![Image d'illustration](https://media-cdn.printemps.com/image/52/1/8699521.png)
     
-    ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma)
+    ARMANI/PRIVÉ](https://www.printemps.com/fr/fr/armani-collection-beaute)
     
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/13/1/8696131.jpg)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/52/1/8699521.png)
 
-ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma)
+ARMANI/PRIVÉ](https://www.printemps.com/fr/fr/armani-collection-beaute)
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/13/1/8696131.jpg)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/52/1/8699521.png)
 
-ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma)
+ARMANI/PRIVÉ](https://www.printemps.com/fr/fr/armani-collection-beaute)
 
 * [SPÉCIAL BLANC : Jusqu'à -40%](https://www.printemps.com/fr/fr/blanc-dhiver)
 
