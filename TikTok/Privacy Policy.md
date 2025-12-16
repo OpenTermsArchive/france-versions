@@ -2,8 +2,6 @@ EEE/RU/CH
 
 Politique de confidentialité
 
-_Cliquez_ [ici](https://www.tiktok.com/legal/privacy-policy-eea-archive) _pour consulter la version actuelle de notre Politique de confidentialité._
-
 Dernière mise à jour : _30 novembre 2025_
 
 * Introduction
