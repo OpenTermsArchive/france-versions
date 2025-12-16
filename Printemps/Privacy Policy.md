@@ -22,22 +22,16 @@
     
 * [NOËL AU PRINTEMPS](https://www.printemps.com/fr/fr/noel-au-printemps)
     
-* [OFFRE DE NOËL : -30€ tous les 200€](https://www.printemps.com/fr/fr/offre-noel)
-    
 
 * PLUS D'INSPIRATION
     * [Les meilleurs calendriers de l'avent beauté 2025 pour attendre Noël](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
     * [Cadeaux de Noël de dernière minute : Les idées qui feront plaisir à coup sûr](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-noel-derniere-minute)
     * [Comment décorer une table de Noël : Les idées parfaites](https://www.printemps.com/fr/fr/edito-magazine-actu-comment-decorer-table-noel)
     * [Cadeaux beauté : Les meilleurs coffrets à glisser sous le sapin](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-beaute-coffrets-noel)
-*  [![Image d'illustration](https://media-cdn.printemps.com/image/31/7/8753317.jpg)
-    
-    TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
+*  [![Image d'illustration](https://media-cdn.printemps.com/image/37/7/8704377.jpg)](https://cartescadeaux.printemps.com/)
     
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/31/7/8753317.jpg)
-
-TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/37/7/8704377.jpg)](https://cartescadeaux.printemps.com/)
 
 * [COLLECTION AUTOMNE-HIVER](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
     
@@ -155,8 +149,6 @@ TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
     * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
 
-* [OFFRE DE NOËL : -30€ tous les 200€](https://www.printemps.com/fr/fr/offre-noel-femme)
-    
 * [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
     
 * [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-femme)
@@ -186,15 +178,23 @@ TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
     * [Prada](https://www.printemps.com/fr/fr/prada-femme)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Guess](https://www.printemps.com/fr/fr/guess-femme)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/37/4/8704374.jpg)](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
+    *  [![Image d'illustration](https://media-cdn.printemps.com/image/31/6/8753316.jpg)
+        
+        TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
         
 
-*  [![Image d'illustration](https://media-cdn.printemps.com/image/37/4/8704374.jpg)](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
+*  [![Image d'illustration](https://media-cdn.printemps.com/image/31/6/8753316.jpg)
+    
+    TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
     
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/37/4/8704374.jpg)](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/31/6/8753316.jpg)
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/37/4/8704374.jpg)](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
+TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
+
+ [![Image d'illustration](https://media-cdn.printemps.com/image/31/6/8753316.jpg)
+
+TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -247,8 +247,6 @@ TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
     * [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
-* [OFFRE DE NOËL : -30€ tous les 200€](https://www.printemps.com/fr/fr/offre-noel-homme)
-    
 * [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
     
 * [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme)
@@ -326,8 +324,6 @@ TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
     * [Produits de coiffage](https://www.printemps.com/fr/fr/produits-de-coiffage)
     * [Appareils électroniques](https://www.printemps.com/fr/fr/fers-lisser)
 
-* [OFFRE DE NOËL : -30€ tous les 200€](https://www.printemps.com/fr/fr/offre-noel-beaute)
-    
 * [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
     
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-beaute)
