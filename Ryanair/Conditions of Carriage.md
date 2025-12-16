@@ -3,51 +3,51 @@
 Conditions générales de transport
 =================================
 
-* ### ARTICLE 1 - DÉFINITIONS
+*   ### ARTICLE 1 - DÉFINITIONS
     
-* ### ARTICLE 2 - DOMAINE D’APPLICATION
+*   ### ARTICLE 2 - DOMAINE D’APPLICATION
     
-* ### ARTICLE 3 RÉSERVATIONS ET DOCUMENTS
+*   ### ARTICLE 3 RÉSERVATIONS ET DOCUMENTS
     
-* ### ARTICLE 4 TARIFS, TAXES, FRAIS ET REDEVANCES
+*   ### ARTICLE 4 TARIFS, TAXES, FRAIS ET REDEVANCES
     
-* ### ARTICLE 5 ASSISTANCE VOYAGE
+*   ### ARTICLE 5 ASSISTANCE VOYAGE
     
-* ### ARTICLE 6 ENREGISTREMENT ET EMBARQUEMENT
+*   ### ARTICLE 6 ENREGISTREMENT ET EMBARQUEMENT
     
-* ### ARTICLE 7 REFUS DU TRANSPORT
+*   ### ARTICLE 7 REFUS DU TRANSPORT
     
-* ### ARTICLE 8 - BAGAGES
+*   ### ARTICLE 8 - BAGAGES
     
-* ### ARTICLE 9 HORAIRES, ANNULATIONS, RETARDS ET DÉROUTEMENTS
+*   ### ARTICLE 9 HORAIRES, ANNULATIONS, RETARDS ET DÉROUTEMENTS
     
-* ### ARTICLE 10 - REMBOURSEMENTS
+*   ### ARTICLE 10 - REMBOURSEMENTS
     
-* ### ARTICLE 11 COMPORTEMENT À BORD
+*   ### ARTICLE 11 COMPORTEMENT À BORD
     
-* ### ARTICLE 12 PRESTATIONS ANNEXES
+*   ### ARTICLE 12 PRESTATIONS ANNEXES
     
-* ### ARTICLE 13 - FORMALITÉS ADMINISTRATIVES
+*   ### ARTICLE 13 - FORMALITÉS ADMINISTRATIVES
     
-* ### ARTICLE 14 – RESPONSABILITÉ EN CAS DE DOMMAGES
+*   ### ARTICLE 14 – RESPONSABILITÉ EN CAS DE DOMMAGES
     
-* ### ARTICLE 15 – DÉLAIS DE RÉCLAMATION ET DE POURSUITE
+*   ### ARTICLE 15 – DÉLAIS DE RÉCLAMATION ET DE POURSUITE
     
-* ### ARTICLE 16 – RÉGLEMENTS DIVERS
+*   ### ARTICLE 16 – RÉGLEMENTS DIVERS
     
-* ### ARTICLE 17 - TRANSPORTEUR DE POINT A POINT
+*   ### ARTICLE 17 - TRANSPORTEUR DE POINT A POINT
     
-* ### ARTICLE 18 - MOYEN DE PAIEMENT
+*   ### ARTICLE 18 - MOYEN DE PAIEMENT
     
-* ### ARTICLE 19 - INTERPRÉTATION
+*   ### ARTICLE 19 - INTERPRÉTATION
     
-* ### RÈGLEMENTS SUR DES SUJETS PARTICULIERS
+*   ### RÈGLEMENTS SUR DES SUJETS PARTICULIERS
     
-* ### TABLEAU DES TARIFS
+*   ### TABLEAU DES TARIFS
     
 
-* Ryanair DAC
-* Ryanair UK
+*   Ryanair DAC
+*   Ryanair UK
 
 ARTICLE 1 - DÉFINITIONS
 =======================
@@ -88,8 +88,8 @@ ARTICLE 1 - DÉFINITIONS
 
 Le cas échéant :
 
-* Règlement (CE) n° 261/2004 du Parlement européen et du Conseil du 11 février 2004 établissant des règles communes en matière de compensation et d’assistance des passagers en cas de refus d’embarquement et d’annulation ou de retard important d’un vol, et abrogeant le règlement (CEE) n° 295/91 et
-* Règlement de 2019 sur les droits des passagers aériens et les licences des organisateurs de voyages aériens (amendement) (sortie de l’UE).
+*   Règlement (CE) n° 261/2004 du Parlement européen et du Conseil du 11 février 2004 établissant des règles communes en matière de compensation et d’assistance des passagers en cas de refus d’embarquement et d’annulation ou de retard important d’un vol, et abrogeant le règlement (CEE) n° 295/91 et
+*   Règlement de 2019 sur les droits des passagers aériens et les licences des organisateurs de voyages aériens (amendement) (sortie de l’UE).
 
 « **CARTE D’EMBARQUEMENT** » désigne le document en ligne intitulé « Carte d’embarquement » imprimé par vous ou en votre nom avant tout vol, ou tout document d’un format différent qui pourrait être émis par nous ou nos représentants dans un aéroport desservi par nous.
 
@@ -237,8 +237,8 @@ ARTICLE 5 ASSISTANCE VOYAGE
 
 **5.2.2** En vertu du règlement (CE) 1107/2006, nous pouvons refuser d’autoriser une personne handicapée ou à mobilité réduite à bord de l’avion uniquement si :
 
-* cela est nécessaire pour répondre aux exigences de sécurité qui s’appliquent ; ou
-* la taille de l’avion ou de ses portes rend physiquement impossible l’accès à ce vol à la personne. 
+*   cela est nécessaire pour répondre aux exigences de sécurité qui s’appliquent ; ou
+*   la taille de l’avion ou de ses portes rend physiquement impossible l’accès à ce vol à la personne. 
 
 **5.2.3** Si, après avoir été informé de l’assistance dont vous avez besoin, nous acceptons que vous preniez le vol, nous vous fournirons l’assistance conformément au règlement (CE) 1107/2006. Si nous ne vous autorisons pas à prendre le vol réservé, nous vous proposerons, ainsi qu’à toute personne qui voyagerait avec vous, un remboursement ou d’autres arrangements, conformément aux règlements applicables en matière de droits des passagers, pour autant que toutes les exigences de sécurité pertinentes soient respectées.
 
@@ -440,21 +440,21 @@ ARTICLE 7 REFUS DU TRANSPORT
 
 **7.1** Nous pouvons refuser de vous transporter ou de transporter vos bagages sur tout vol opéré par une compagnie aérienne du Groupe Ryanair, si une ou plusieurs des circonstances suivantes s’appliquent, ou si nous avons une bonne raison de croire qu’elles peuvent s’appliquer.
 
-* Cette disposition est nécessaire en vertu de toute loi, réglementation ou ordonnance qui s’applique.
-* Le fait de vous transporter ou de transporter vos bagages peut affecter la sécurité, la santé ou le confort acceptable des autres passagers ou du personnel de cabine. En raison de l’épidémie de Covid-19, cela est particulièrement le cas si vous refusez de vous soumettre à des contrôles de température ou si vous refusez de porter un masque facial dans l’aéroport ou à bord de notre appareil. Certains pays exigent que les passagers portent des masques chirurgicaux à l’aéroport et à bord de l’avion. Les enfants de moins de 6 ans n'ont pas besoin de porter de masques faciaux. Il incombe à chaque passager de vérifier les exigences locales avant de voyager. Si vous souffrez d’un problème de santé qui vous empêche de porter un masque facial, vous êtes exempté de l’obligation de port du masque facial si vous fournissez un certificat médical attestant de votre souci de santé.
-* Votre état mental, votre état physique, votre attitude, votre comportement ou votre apparence, y compris les effets de l’alcool ou de drogues, présente un risque pour vous, les autres passagers ou le personnel de cabine, ou tout bien.
-* Vous vous êtes comporté de manière inacceptable sur un vol précédent, et nous avons des raisons de croire que vous pouvez à nouveau vous comporter de la sorte.
-* Vous avez refusé de passer un contrôle de sécurité.
-* Vous n’avez pas payé les tarifs, taxes ou frais nécessaires.
-* Vous nous devez de l’argent concernant un vol précédent (Services liés au vol), en raison d’un paiement ayant été détourné, refusé ou nous étant facturé à nouveau
-* Nous avons des raisons de soupçonner que vous avez escroqué ou tenté d’escroquer le Groupe Ryanair.
-* Vous n’êtes pas en possession de documents de voyage valides ;
-* Vous essayez peut-être d’entrer dans un pays pour prendre un vol de correspondance ou pour lequel vous n’êtes pas en possession de documents de voyage valides ;
-* Vous avez détruit vos documents de voyage pendant un vol ; ou 
-* Vous avez refusé de fournir vos documents de voyage au personnel de cabine lorsqu’il vous a été demandé de le faire.
-* Vous ne pouvez pas prouver que vous êtes la personne nommée sur la carte d’embarquement.
-* Vous n’avez pas suivi nos instructions de sécurité.
-* Vous avez fumé, ou essayé de fumer, sur un vol précédent avec nous.
+*   Cette disposition est nécessaire en vertu de toute loi, réglementation ou ordonnance qui s’applique.
+*   Le fait de vous transporter ou de transporter vos bagages peut affecter la sécurité, la santé ou le confort acceptable des autres passagers ou du personnel de cabine. En raison de l’épidémie de Covid-19, cela est particulièrement le cas si vous refusez de vous soumettre à des contrôles de température ou si vous refusez de porter un masque facial dans l’aéroport ou à bord de notre appareil. Certains pays exigent que les passagers portent des masques chirurgicaux à l’aéroport et à bord de l’avion. Les enfants de moins de 6 ans n'ont pas besoin de porter de masques faciaux. Il incombe à chaque passager de vérifier les exigences locales avant de voyager. Si vous souffrez d’un problème de santé qui vous empêche de porter un masque facial, vous êtes exempté de l’obligation de port du masque facial si vous fournissez un certificat médical attestant de votre souci de santé.
+*   Votre état mental, votre état physique, votre attitude, votre comportement ou votre apparence, y compris les effets de l’alcool ou de drogues, présente un risque pour vous, les autres passagers ou le personnel de cabine, ou tout bien.
+*   Vous vous êtes comporté de manière inacceptable sur un vol précédent, et nous avons des raisons de croire que vous pouvez à nouveau vous comporter de la sorte.
+*   Vous avez refusé de passer un contrôle de sécurité.
+*   Vous n’avez pas payé les tarifs, taxes ou frais nécessaires.
+*   Vous nous devez de l’argent concernant un vol précédent (Services liés au vol), en raison d’un paiement ayant été détourné, refusé ou nous étant facturé à nouveau
+*   Nous avons des raisons de soupçonner que vous avez escroqué ou tenté d’escroquer le Groupe Ryanair.
+*   Vous n’êtes pas en possession de documents de voyage valides ;
+*   Vous essayez peut-être d’entrer dans un pays pour prendre un vol de correspondance ou pour lequel vous n’êtes pas en possession de documents de voyage valides ;
+*   Vous avez détruit vos documents de voyage pendant un vol ; ou 
+*   Vous avez refusé de fournir vos documents de voyage au personnel de cabine lorsqu’il vous a été demandé de le faire.
+*   Vous ne pouvez pas prouver que vous êtes la personne nommée sur la carte d’embarquement.
+*   Vous n’avez pas suivi nos instructions de sécurité.
+*   Vous avez fumé, ou essayé de fumer, sur un vol précédent avec nous.
 
 Si nous refusons de vous transporter pour l’une des raisons ci-dessus, ou si nous vous avons refusé à bord de l’avion, nous pouvons annuler toute partie non utilisée de votre billet et vous rembourser le prix que vous avez payé pour ce billet non utilisé. Nous ne serons pas tenus responsables en cas de perte, de mort, de dommages ou de blessures physiques présumés dus à notre refus de vous transporter ou de transporter vos bagages dans ces circonstances.
 
@@ -506,16 +506,16 @@ Vous pouvez emporter un bagage intelligent (bagage cabine équipé d’une batte
 **8.4.3** Appareils électroniques et batteries de rechange en cabine (100 Wh maximum)   
  
 
-* Vous pouvez transporter jusqu’à 15 appareils électroniques personnels (y compris, mais sans s’y limiter : smartphones, tablettes, ordinateurs portables, appareils photo, consoles de jeux portables, écouteurs, batteries externes).    
+*   Vous pouvez transporter jusqu’à 15 appareils électroniques personnels (y compris, mais sans s’y limiter : smartphones, tablettes, ordinateurs portables, appareils photo, consoles de jeux portables, écouteurs, batteries externes).    
       
     
-* Vous pouvez également transporter jusqu’à 20 batteries au lithium de rechange, à condition qu’elles ne dépassent pas 100 Wh chacune.    
+*   Vous pouvez également transporter jusqu’à 20 batteries au lithium de rechange, à condition qu’elles ne dépassent pas 100 Wh chacune.    
       
     
-* Les batteries de rechange et les batteries externes doivent être conservées dans votre bagage à main uniquement (elles ne sont pas autorisées dans les bagages enregistrés).    
+*   Les batteries de rechange et les batteries externes doivent être conservées dans votre bagage à main uniquement (elles ne sont pas autorisées dans les bagages enregistrés).    
       
     
-* Les dispositifs ou les batteries de plus de 100 Wh ne sont pas autorisés en cabine ou en soute (à l’exception des batteries de chaise roulante électrique).
+*   Les dispositifs ou les batteries de plus de 100 Wh ne sont pas autorisés en cabine ou en soute (à l’exception des batteries de chaise roulante électrique).
 
 8.5 Objets interdits en cabine
 
@@ -526,46 +526,46 @@ Les objets suivants ne doivent pas être transportés dans les zones de sûreté
 
 **8.5.1** _Objets pointus ou tranchants –_ Objets pointus ou tranchants pouvant être utilisés pour causer des blessures graves, notamment :
 
-* objets conçus pour couper, tels que les haches, les hachettes et les couperets ;
-* piolets, pics à glace et patins à glace ;
-* rasoirs et lames de rasoir (à l’exception des rasoirs de sécurité ou jetables dont les lames et les têtes de rasoir sont enfermées dans des compartiments en plastique) ;
-* cutters ;
-* couteaux avec des lames de plus de 6 cm, y compris les canifs de poche ou les couteaux à cran d’arrêt, les couteaux de cérémonie ou religieux et les couteaux de chasse en métal ou en tout autre matériau suffisamment solide pour être utilisé comme arme potentielle, les couteaux artisanaux et les couteaux utilitaires, ainsi que les coupe-pâte ;
-* ciseaux dont les lames mesurent plus de 6 cm à partir du point d’appui ;
-* équipements d’arts martiaux dotés d’une pointe ou d’un bord tranchant, y compris les étoiles de lancer ;
-* épées et sabres ;
-* cannes-épées, hachoirs à viande, machettes ;
+*   objets conçus pour couper, tels que les haches, les hachettes et les couperets ;
+*   piolets, pics à glace et patins à glace ;
+*   rasoirs et lames de rasoir (à l’exception des rasoirs de sécurité ou jetables dont les lames et les têtes de rasoir sont enfermées dans des compartiments en plastique) ;
+*   cutters ;
+*   couteaux avec des lames de plus de 6 cm, y compris les canifs de poche ou les couteaux à cran d’arrêt, les couteaux de cérémonie ou religieux et les couteaux de chasse en métal ou en tout autre matériau suffisamment solide pour être utilisé comme arme potentielle, les couteaux artisanaux et les couteaux utilitaires, ainsi que les coupe-pâte ;
+*   ciseaux dont les lames mesurent plus de 6 cm à partir du point d’appui ;
+*   équipements d’arts martiaux dotés d’une pointe ou d’un bord tranchant, y compris les étoiles de lancer ;
+*   épées et sabres ;
+*   cannes-épées, hachoirs à viande, machettes ;
 
 ·        bistouris, crampons, grappins, barres de fer à crochets et plaques à pointes de fer utilisés en alpinisme ;
 
-* harpons et lances ;
-* bâtons de ski et bâtons de marche ou de randonnée.
+*   harpons et lances ;
+*   bâtons de ski et bâtons de marche ou de randonnée.
 
 Tout objet tranchant se trouvant dans vos bagages enregistrés doit être solidement emballé afin d’éviter que le personnel qui doit le manipuler ne se blesse.
 
 **8.5.2** _Outils d’ouvriers –_ outils susceptibles d’être utilisés pour causer des blessures graves ou pour menacer la sécurité de l’avion :
 
-* pieds-de-biche ;
-* perceuses et forets, y compris les perceuses électriques portables sans fil ;
-* outils munis d’une lame ou d’un manche de plus de 6 cm pouvant être utilisés comme une arme, tels que tournevis et burins ;
-* scies, y compris les scies électriques portables sans fil ;
-* chalumeaux ;
-* pistolets à boulons et pistolets à clous ;
-* marteaux, pinces, clés plates et clés à molette.
+*   pieds-de-biche ;
+*   perceuses et forets, y compris les perceuses électriques portables sans fil ;
+*   outils munis d’une lame ou d’un manche de plus de 6 cm pouvant être utilisés comme une arme, tels que tournevis et burins ;
+*   scies, y compris les scies électriques portables sans fil ;
+*   chalumeaux ;
+*   pistolets à boulons et pistolets à clous ;
+*   marteaux, pinces, clés plates et clés à molette.
 
 **8.5.3** _Instruments contondants –_ objets capables de causer des blessures graves lorsqu’ils sont utilisés pour frapper, y compris :
 
-* battes de base-ball et de soft-ball ;
-* massues et bâtons, tels que les triques, gourdins et matraques ;
-* équipements d’arts martiaux (par exemple, poings américains, crosses, fléaux d’armes),
-* raquettes de tennis, raquettes de squash, etc. ;
-* battes de cricket ;
-* bâtons de hockey, bâtons de hurley et bâtons de crosse ;
-* pagaies de kayak et de canoë ;
-* skateboards ;
-* queues de billard, de snooker et de billard américain ;
-* fléchettes ;
-* cannes à pêche.
+*   battes de base-ball et de soft-ball ;
+*   massues et bâtons, tels que les triques, gourdins et matraques ;
+*   équipements d’arts martiaux (par exemple, poings américains, crosses, fléaux d’armes),
+*   raquettes de tennis, raquettes de squash, etc. ;
+*   battes de cricket ;
+*   bâtons de hockey, bâtons de hurley et bâtons de crosse ;
+*   pagaies de kayak et de canoë ;
+*   skateboards ;
+*   queues de billard, de snooker et de billard américain ;
+*   fléchettes ;
+*   cannes à pêche.
 
 **8.5.4** Outre les objets susmentionnés, vous ne devez avoir aucun des articles énumérés au point 8.11 (objets interdits) dans vos bagages à main ou dans vos bagages enregistrés. 
 
@@ -590,18 +590,18 @@ Tout objet tranchant se trouvant dans vos bagages enregistrés doit être solide
 
 **8.6.7** Si un appareil électronique personnel ne peut être transporté dans la cabine passager (par exemple, parce qu’il est trop grand), et qu’il doit donc être placé en soute, vous devez vous assurer que :
 
-* l’appareil est totalement éteint et protégé efficacement contre toute mise en marche accidentelle ;
-* toute application, toute alarme ou tout réglage susceptible d’activer l’appareil est désactivé(e) ou désactivable ;
-* l’appareil est protégé de tout dommage accidentel par un emballage ou un boîtier approprié, ou en étant placé dans un bagage rigide et protégé par un rembourrage adéquat ; et que
-* l’appareil ne se trouve pas dans le même bagage qu’une matière inflammable (p. ex., un parfum ou un aérosol).
+*   l’appareil est totalement éteint et protégé efficacement contre toute mise en marche accidentelle ;
+*   toute application, toute alarme ou tout réglage susceptible d’activer l’appareil est désactivé(e) ou désactivable ;
+*   l’appareil est protégé de tout dommage accidentel par un emballage ou un boîtier approprié, ou en étant placé dans un bagage rigide et protégé par un rembourrage adéquat ; et que
+*   l’appareil ne se trouve pas dans le même bagage qu’une matière inflammable (p. ex., un parfum ou un aérosol).
 
 **8.6.8** Bagages intelligents en soute (100 Wh maximum)
 
 Un bagage intelligent (un bagage avec une batterie au lithium intégrée et un port de chargement) peut être enregistré comme bagage en soute uniquement si la batterie au lithium est retirée avant l'enregistrement du bagage au comptoir dépose-bagages ou à la porte d'embarquement.
 
-* La batterie ne doit en aucun cas être mise en soute.
-* Une fois retirée, la batterie doit être transportée en cabine.
-* Seules les batteries au lithium d'une puissance maximale de 100 Wh sont autorisées.   
+*   La batterie ne doit en aucun cas être mise en soute.
+*   Une fois retirée, la batterie doit être transportée en cabine.
+*   Seules les batteries au lithium d'une puissance maximale de 100 Wh sont autorisées.   
 
 **8.6.9** Les détails sur notre service de dépose-bagage express sont disponibles dans nos règlements concernant les bagages enregistrés.
 
@@ -617,33 +617,33 @@ Un bagage intelligent (un bagage avec une batterie au lithium intégrée et un p
 **Les articles personnels suivants ne doivent pas être placés dans des bagages enregistrés. Ils doivent être transportés avec vous en cabine (dans votre bagage à main ou sur vous) :  
  
 
-* argent, titres négociables (documents garantissant le paiement d'une certaine somme d'argent) ou valeurs ;
-* bijoux, métaux précieux ou autres objets de valeur ;
+*   argent, titres négociables (documents garantissant le paiement d'une certaine somme d'argent) ou valeurs ;
+*   bijoux, métaux précieux ou autres objets de valeur ;
     
-* clés ;
+*   clés ;
     
-* appareils photo ;
+*   appareils photo ;
     
-* montres ;
+*   montres ;
     
-* médicaments (sur ordonnance ou en vente libre) ;
+*   médicaments (sur ordonnance ou en vente libre) ;
     
-* lunettes, lunettes de soleil ou lentilles de contact ;
+*   lunettes, lunettes de soleil ou lentilles de contact ;
     
-* cigarettes, tabac ou produits dérivés du tabac ;
+*   cigarettes, tabac ou produits dérivés du tabac ;
     
-* documents commerciaux ou juridiques ;
+*   documents commerciaux ou juridiques ;
     
-* passeports et autres documents d'identité/de voyage.
+*   passeports et autres documents d'identité/de voyage.
     
 
 Pour des raisons de sécurité, les articles suivants ne doivent pas être placés dans les bagages enregistrés. Ils doivent être transportés avec vous en  
 cabine (dans votre bagage à main ou sur vous) :  
 
-* appareils électroniques personnels, tels que les ordinateurs portables, les tablettes et les téléphones portables ;
-* batteries au lithium et batteries externes de rechange (elles ne doivent pas dépasser 100 Wh chacune et ne sont autorisées qu'en bagage cabine) ;
-* allumettes de sûreté ou briquets dont le combustible/fluide est entièrement absorbé dans un solide, destinés à être utilisés par une personne. Ils ne doivent être portés que sur la personne 
-* cigarettes électroniques (cigarettes électroniques/vapoteuses).
+*   appareils électroniques personnels, tels que les ordinateurs portables, les tablettes et les téléphones portables ;
+*   batteries au lithium et batteries externes de rechange (elles ne doivent pas dépasser 100 Wh chacune et ne sont autorisées qu'en bagage cabine) ;
+*   allumettes de sûreté ou briquets dont le combustible/fluide est entièrement absorbé dans un solide, destinés à être utilisés par une personne. Ils ne doivent être portés que sur la personne 
+*   cigarettes électroniques (cigarettes électroniques/vapoteuses).
 
 **8.7.3** Les objets qui ne conviennent pas au transport en soute (tels que les instruments de musique délicats mais de petite taille, les robes de mariée et les boîtes à chapeaux) peuvent être transportés en cabine s’ils peuvent être placés convenablement et en toute sécurité sur un siège en plus que vous avez payé. Pour réserver un siège en plus pour un objet, indiquez sur le formulaire de réservation « Article en supplément » comme nom de famille et « Siège » comme prénom. La mention « Siège Article en supplément » apparaîtra alors dans la réservation et sur la carte d’embarquement. Vous devrez saisir les détails de votre document de voyage pour le siège en plus lors du processus d’enregistrement en ligne. Il n’y a pas de franchise bagage pour le siège en plus. 
 
@@ -696,45 +696,45 @@ Pour des raisons de sécurité, vous ne devez pas transporter dans vos bagages (
 **Armes à feu et autres dispositifs qui lancent des projectiles tels que :  
   
 
-* Pistolets, revolvers, fusils et carabinesPistolets de jeu, pistolets de paintball, répliques et imitations pouvant être confondus avec de vraies armes
-* Pièces détachées d'armes à feu (à l'exception des lunettes télescopiques)
-* Pistolets à air comprimé et à CO₂ (par ex. : pistolets à billes, fusils, pistolets à billes)
-* Pistolets de détresse et pistolets de départ
-* Arcs, arbalètes, harpons, fusils sous-marins, pistolets à clous
-* Frondes et lance-pierres
-* Pistolets paralysants, tasers, aiguillons à bétail et lasers
+*   Pistolets, revolvers, fusils et carabinesPistolets de jeu, pistolets de paintball, répliques et imitations pouvant être confondus avec de vraies armes
+*   Pièces détachées d'armes à feu (à l'exception des lunettes télescopiques)
+*   Pistolets à air comprimé et à CO₂ (par ex. : pistolets à billes, fusils, pistolets à billes)
+*   Pistolets de détresse et pistolets de départ
+*   Arcs, arbalètes, harpons, fusils sous-marins, pistolets à clous
+*   Frondes et lance-pierres
+*   Pistolets paralysants, tasers, aiguillons à bétail et lasers
 
 **Dispositifs paralysants**
 
 Dispositifs conçus pour immobiliser, notamment :  
  
 
-* Matraques paralysantes, tasers, dispositifs à décharge électrique
-* Appareils d'étourdissement pour animaux et pistolets d'abattage des animaux
-* Sprays chimiques, tels que les gaz lacrymogène, les gaz incapacitants, les pulvérisateurs de poivre, de capsicum ou d'acide, et les répulsifs pour animaux
+*   Matraques paralysantes, tasers, dispositifs à décharge électrique
+*   Appareils d'étourdissement pour animaux et pistolets d'abattage des animaux
+*   Sprays chimiques, tels que les gaz lacrymogène, les gaz incapacitants, les pulvérisateurs de poivre, de capsicum ou d'acide, et les répulsifs pour animaux
 
 **Substances et engins incendiaires**
 
 Explosifs et substances susceptibles de provoquer un incendie, notamment :  
  
 
-* Munitions, amorces à percussion, détonateurs, amorces
-* Copies ou imitations d'engins explosifs
-* Mines, grenades, explosifs militaires
-* Feux d'artifice, articles pyrotechniques, bombes et cartouches fumigènes
-* Dynamite, poudre à canon, explosif plastique
+*   Munitions, amorces à percussion, détonateurs, amorces
+*   Copies ou imitations d'engins explosifs
+*   Mines, grenades, explosifs militaires
+*   Feux d'artifice, articles pyrotechniques, bombes et cartouches fumigènes
+*   Dynamite, poudre à canon, explosif plastique
 
 **Substances inflammables, toxiques ou dangereuses**
 
 Liquides et solides inflammables, substances provoquant des réactions chimiques dangereuses :  
  
 
-* Peintures, diluants, térébenthine, white spirit
-* Alcool d'une teneur supérieure à 70 % vol.
-* Substances toxiques ou infectieuses (acides, alcalis, eau de Javel, poisons, matières infectées, virus)
-* Matière radioactive (par ex. : isotopes à usage médical ou commercial)
-* Corrosifs (par ex. : mercure, batteries de véhicule, pièces contenant du carburant)
-* Plus d'un litre d'huile comestible (par ex. : huile d'olive)
+*   Peintures, diluants, térébenthine, white spirit
+*   Alcool d'une teneur supérieure à 70 % vol.
+*   Substances toxiques ou infectieuses (acides, alcalis, eau de Javel, poisons, matières infectées, virus)
+*   Matière radioactive (par ex. : isotopes à usage médical ou commercial)
+*   Corrosifs (par ex. : mercure, batteries de véhicule, pièces contenant du carburant)
+*   Plus d'un litre d'huile comestible (par ex. : huile d'olive)
 
 **Articles interdits alimentés par batterie**
 
@@ -743,20 +743,20 @@ Valises intelligentes dont la batterie lithium n’a pas été retirée. Si reti
 
 **Autres articles interdits** 
 
-* Extincteurs (sauf équipement d'urgence autorisé à bord)
-* Briquets/allume-feu avec réservoirs de carburant liquide contenant du carburant non absorbé (à l’exception des types à gaz liquéfié), carburant pour briquet, recharges de briquet
-* Allumettes « strike anywhere »
-* Pétards de Noël
-* Ampoules basse consommation
-* Articles alimentés par moteur à combustion interne
+*   Extincteurs (sauf équipement d'urgence autorisé à bord)
+*   Briquets/allume-feu avec réservoirs de carburant liquide contenant du carburant non absorbé (à l’exception des types à gaz liquéfié), carburant pour briquet, recharges de briquet
+*   Allumettes « strike anywhere »
+*   Pétards de Noël
+*   Ampoules basse consommation
+*   Articles alimentés par moteur à combustion interne
 
 **8.11.2** Les objets interdits par une loi, une réglementation ou une ordonnance d’un pays ou d’un état vers lequel ou à partir duquel votre avion vole.
 
 **8.11.3** Les objets dont nous avons de bonnes raisons de penser qu’ils ne conviennent pas au transport :
 
-* parce qu’ils sont dangereux ou peu sûrs ;
-* en raison de leur poids, de leur taille, de leur forme ou de leur nature ; ou
-* parce qu’ils sont fragiles ou périssables.
+*   parce qu’ils sont dangereux ou peu sûrs ;
+*   en raison de leur poids, de leur taille, de leur forme ou de leur nature ; ou
+*   parce qu’ils sont fragiles ou périssables.
 
 **8.11.4** Les poissons, les oiseaux ou tous les animaux tués et conservés comme trophées de chasse.
 
@@ -821,9 +821,9 @@ Si un membre de votre famille immédiate qui ne voyage pas avec vous décède da
 
 Aux fins de la présente clause, un membre de la famille immédiate est : 
 
-* votre mari, épouse ou partenaire civil ; 
-* un enfant ou un(e) beau-fils, belle-fille ; 
-* un parent ou un beau-parent. 
+*   votre mari, épouse ou partenaire civil ; 
+*   un enfant ou un(e) beau-fils, belle-fille ; 
+*   un parent ou un beau-parent. 
 
 10.4 Décès d’un passager ayant fait l’objet d’une réservation
 
@@ -979,11 +979,11 @@ Vous êtes tenu de vous soumettre à tous les contrôles de sécurité que nous 
 
 Une telle suspicion sera basée sur les raisons suivantes :
 
-* Vous n’êtes pas en mesure de présenter la carte utilisée pour effectuer la réservation à l’aéroport, si un agent de manutention agréé vous le demande dans l’éventualité où notre logiciel de détection de fraude identifiait votre réservation comme suspecte.
-* Vous ne pouvez pas fournir les coordonnées du titulaire de la carte pour que nous effectuions des contrôles de sécurité par téléphone ou à l’aéroport dans l’éventualité où notre logiciel de détection de fraude identifiait votre réservation comme suspecte.
-* Le titulaire de la carte affirme que la réservation est frauduleuse car il n’a pas autorisé le paiement.
-* Vous, ou le titulaire de la carte, avez déjà participé à une activité frauduleuse liée à un paiement au Groupe Ryanair.
-* Toute information fournie lors de la réservation est incorrecte, inadaptée, incohérente et notre logiciel de détection de fraude a identifié votre réservation comme suspecte.
+*   Vous n’êtes pas en mesure de présenter la carte utilisée pour effectuer la réservation à l’aéroport, si un agent de manutention agréé vous le demande dans l’éventualité où notre logiciel de détection de fraude identifiait votre réservation comme suspecte.
+*   Vous ne pouvez pas fournir les coordonnées du titulaire de la carte pour que nous effectuions des contrôles de sécurité par téléphone ou à l’aéroport dans l’éventualité où notre logiciel de détection de fraude identifiait votre réservation comme suspecte.
+*   Le titulaire de la carte affirme que la réservation est frauduleuse car il n’a pas autorisé le paiement.
+*   Vous, ou le titulaire de la carte, avez déjà participé à une activité frauduleuse liée à un paiement au Groupe Ryanair.
+*   Toute information fournie lors de la réservation est incorrecte, inadaptée, incohérente et notre logiciel de détection de fraude a identifié votre réservation comme suspecte.
 
 **13.7.2** Les soupçons/présomptions ci-dessus sont réfutables.
 
@@ -1046,8 +1046,8 @@ ARTICLE 15 – DÉLAIS DE RÉCLAMATION ET DE POURSUITE
 
 **15.1.2** Si vous souhaitez faire une réclamation concernant un bagage enregistré perdu, endommagé ou retardé, vous devez nous écrire dès que possible.
 
-* En cas de perte ou de dommage, vous devez nous écrire dans les sept jours suivant la réception de votre bagage.
-* En cas de bagage retardé, vous devez nous écrire au plus tard 21 jours après la date à laquelle vous avez pu récupérer le bagage.
+*   En cas de perte ou de dommage, vous devez nous écrire dans les sept jours suivant la réception de votre bagage.
+*   En cas de bagage retardé, vous devez nous écrire au plus tard 21 jours après la date à laquelle vous avez pu récupérer le bagage.
 
 15.2 DEMANDES D’INDEMNISATION FORMULÉES DANS LE CADRE DE LA DIRECTIVE UE 261
 
@@ -1088,9 +1088,9 @@ Après avoir saisi le service clientèle et à défaut de réponse satisfaisante
 
 **15.4.1** La cession de tout droit à l’indemnisation, aux dommages et intérêts ou au remboursement n’est valable que si le droit est cédé à :
 
-* des personne physiques enregistrées sur la même réservation de vol en tant que passagers supplémentaires et/ou,
-* si le Passager est membre d’un groupe de voyage, à un autre passager de ce même groupe et/ou,
-* Si le client est mineur ou incapable, à ses représentants légaux. 
+*   des personne physiques enregistrées sur la même réservation de vol en tant que passagers supplémentaires et/ou,
+*   si le Passager est membre d’un groupe de voyage, à un autre passager de ce même groupe et/ou,
+*   Si le client est mineur ou incapable, à ses représentants légaux. 
 
 **15.4.2** Dans tous les autres cas, la cession d’un droit à indemnisation, aux dommages et intérêts ou au remboursement à l’encontre du Transporteur à une tierce partie est nulle. Cette interdiction de cession ne s’applique pas lorsque la cession ou la subrogation de la réclamation est requise par la loi. 
 
@@ -1101,10 +1101,10 @@ Après avoir saisi le service clientèle et à défaut de réponse satisfaisante
 
 **15.5.1** Tout droit à des dommages en vertu de la Convention de Montréal de 1999 prendra fin si vous ne faites pas de réclamation dans les deux ans suivant la date à laquelle :
 
-* vous êtes arrivé à destination ;
-* l’avion devait arriver à votre destination ; ou
-* le transport indiqué dans votre réservation a pris fin ;
-* tel que décidé par la jurisprudence de la Cour où le dossier est instruit.
+*   vous êtes arrivé à destination ;
+*   l’avion devait arriver à votre destination ; ou
+*   le transport indiqué dans votre réservation a pris fin ;
+*   tel que décidé par la jurisprudence de la Cour où le dossier est instruit.
 
 **15.5.2** Le délai pour réclamer une compensation en vertu des règlements applicables en matière de droits des passagers sera décidé conformément à la loi du tribunal où l’affaire est entendue (par exemple, six ans pour les tribunaux d’Angleterre et du Pays de Galles).
 
@@ -1197,8 +1197,8 @@ Le transporteur aérien est responsable en cas de destruction, perte ou détéri
 
 Le signalement d’un bagage endommagé/égaré à votre aéroport d’arrivée ne constitue pas une réclamation auprès de nous. Il est donc nécessaire de faire une réclamation directement, dans les délais impartis par la Convention de Montréal (1999).
 
-*  Bagage endommagé : doit être signalé à votre aéroport d’arrivée et une réclamation avec preuves à l’appui doit nous être envoyée dans les 7 jours suivant la date des dommages.
-*  Bagage égaré : doit être signalé à votre aéroport d’arrivée et une réclamation avec preuves à l’appui doit nous être envoyée dans les 21 jours suivant la date à laquelle le bagage vous a été rendu.
+*    Bagage endommagé : doit être signalé à votre aéroport d’arrivée et une réclamation avec preuves à l’appui doit nous être envoyée dans les 7 jours suivant la date des dommages.
+*    Bagage égaré : doit être signalé à votre aéroport d’arrivée et une réclamation avec preuves à l’appui doit nous être envoyée dans les 21 jours suivant la date à laquelle le bagage vous a été rendu.
 
 **Limites plus élevées pour les bagages**
 
@@ -1225,9 +1225,9 @@ Chaque passager a la responsabilité d’être en possession d’un document de 
 
 **Pièce d’identité avec photo acceptée**
 
-* Un passeport signé en cours de validité (Remarque : tous les titulaires d’un passeport non européen qui se rendent dans un pays membre de l’espace Schengen\* doivent s’assurer que leur passeport est valable au moins trois mois à compter de la date de leur départ du pays membre de l’espace Schengen. Cette exigence ne s’applique pas aux titulaires d’un permis de séjour ou d’un visa de longue durée délivré par l’espace Schengen).
+*   Un passeport signé en cours de validité (Remarque : tous les titulaires d’un passeport non européen qui se rendent dans un pays membre de l’espace Schengen\* doivent s’assurer que leur passeport est valable au moins trois mois à compter de la date de leur départ du pays membre de l’espace Schengen. Cette exigence ne s’applique pas aux titulaires d’un permis de séjour ou d’un visa de longue durée délivré par l’espace Schengen).
 
-* Pour les voyages en dehors de l’EEE (Espace économique européen), le passeport doit être valable pour la durée du séjour envisagé, à l’exception des pays ci-dessous :
+*   Pour les voyages en dehors de l’EEE (Espace économique européen), le passeport doit être valable pour la durée du séjour envisagé, à l’exception des pays ci-dessous :
 
 Pour se rendre en Jordanie, le passeport doit être valable au moins six mois après la date prévue du séjour (pour les titulaires d’un passeport italien, trois mois après la date prévue du séjour) ;
 
@@ -1241,13 +1241,13 @@ Pour se rendre en Égypte, le passeport doit être valable au moins six mois apr
 
 Pour se rendre en Albanie, le passeport doit être valable au moins trois mois après la date d’arrivée.
 
-* Les titulaires d’un passeport britannique se rendant dans un pays membre de l’espace Schengen\*/UE (à l’exclusion de l’Irlande) à partir du 1er janvier 2021 doivent s’assurer que leur passeport :
+*   Les titulaires d’un passeport britannique se rendant dans un pays membre de l’espace Schengen\*/UE (à l’exclusion de l’Irlande) à partir du 1er janvier 2021 doivent s’assurer que leur passeport :
 
 est valide pendant au moins trois mois à compter de la date à laquelle ils quitteront le pays membre de l’espace Schengen, à moins que la personne ne dispose d’un permis de séjour ou d’un visa de longue durée délivré par l’espace Schengen. 
 
 a été délivré au cours des dix dernières années à la date d’arrivée, sauf si la personne est titulaire d’un permis de séjour ou d’un visa de longue durée délivré par l’espace Schengen, auquel cas aucune condition spécifique de validité du passeport ne s’applique.
 
-* À partir du 1er octobre 2021, les ressortissants de l’EEE/UE ou de la Suisse qui se rendent au Royaume-Uni doivent être en possession d’un passeport valide, car les cartes d’identité nationales délivrées par l’EEE/UE et la Suisse ne sont plus acceptées pour entrer au Royaume-Uni (à moins que vous ne déteniez un statut de résident au Royaume-Uni). Pour plus d’informations, veuillez consulter le site Internet officiel du gouvernement britannique via le lien ci-dessous : https://www.gov.uk/guidance/passport-rules-for-travel-to-europe
+*   À partir du 1er octobre 2021, les ressortissants de l’EEE/UE ou de la Suisse qui se rendent au Royaume-Uni doivent être en possession d’un passeport valide, car les cartes d’identité nationales délivrées par l’EEE/UE et la Suisse ne sont plus acceptées pour entrer au Royaume-Uni (à moins que vous ne déteniez un statut de résident au Royaume-Uni). Pour plus d’informations, veuillez consulter le site Internet officiel du gouvernement britannique via le lien ci-dessous : https://www.gov.uk/guidance/passport-rules-for-travel-to-europe
 
 Ryanair demande à tous les passagers voyageant au Royaume-Uni d’avoir un passeport valide (c’est-à-dire en cours de validité) pour leurs dates d’arrivée et de départ au Royaume-Uni (les autorités britanniques n’exigent pas un minimum de trois mois de validité du passeport), donc tant que le passeport du passager est en cours de validité à la fois pour la date d’arrivée au Royaume-Uni et pour la date de départ ultérieure du Royaume-Uni, il sera accepté comme valide pour voyager sur les vols Ryanair au Royaume-Uni.
 
@@ -1259,7 +1259,7 @@ Ryanair demande à tous les passagers voyageant au Royaume-Uni d’avoir un pass
 
 Pour plus de détails et pour demander votre ETA, veuillez vous rendre sur le site Internet officiel du gouvernement britannique.
 
-* Une carte d’identité nationale en cours de validité délivrée par le gouvernement d’un pays de l’UE ou de l’EEE, ou de la Suisse\*\*.
+*   Une carte d’identité nationale en cours de validité délivrée par le gouvernement d’un pays de l’UE ou de l’EEE, ou de la Suisse\*\*.
 
 Les pays suivants acceptent les cartes d’identité nationales délivrées par le gouvernement d’un pays de l’EEE :
 
@@ -1273,15 +1273,15 @@ Les pays suivants acceptent les cartes d’identité nationales délivrées par 
 
 \-        Géorgie (à l’exception des cartes d’identité délivrées par le Danemark et la Norvège)
 
-* Un passeport irlandais (uniquement pour les citoyens irlandais voyageant dans l’UE, l’EEE, l’Albanie, la Bosnie, le Monténégro et le Royaume-Uni).
+*   Un passeport irlandais (uniquement pour les citoyens irlandais voyageant dans l’UE, l’EEE, l’Albanie, la Bosnie, le Monténégro et le Royaume-Uni).
 
-* Une carte d’identité de la police nationale grecque en cours de validité (uniquement pour les voyages à l’intérieur de l’UE).
+*   Une carte d’identité de la police nationale grecque en cours de validité (uniquement pour les voyages à l’intérieur de l’UE).
 
-* Un document de voyage de la convention des Nations unies sur les réfugiés en cours de validité (délivré par un gouvernement en vertu de l’article 28, paragraphe 1, de la convention des Nations unies de 1951, à la place d’un passeport en cours de validité).
+*   Un document de voyage de la convention des Nations unies sur les réfugiés en cours de validité (délivré par un gouvernement en vertu de l’article 28, paragraphe 1, de la convention des Nations unies de 1951, à la place d’un passeport en cours de validité).
 
-* Un document de voyage conventionnel en cours de validité (délivré en vertu de l’article 27 de la convention des Nations unies de 1954 relative aux apatrides, par un État contractant, en lieu et place d’un passeport en cours de validité).
+*   Un document de voyage conventionnel en cours de validité (délivré en vertu de l’article 27 de la convention des Nations unies de 1954 relative aux apatrides, par un État contractant, en lieu et place d’un passeport en cours de validité).
 
-* Un passeport collectif en cours de validité délivré par un pays de l’UE/EEE.
+*   Un passeport collectif en cours de validité délivré par un pays de l’UE/EEE.
 
 Le pays de destination peut également exiger un VISA en cours de validité en plus d’une pièce d’identité avec photo en cours de validité. Veuillez vous enregistrer auprès de l’ambassade ou du consulat local pour connaître les conditions d’obtention d’un VISA.
 
@@ -1460,8 +1460,8 @@ Tous les tarifs Regular sont non remboursables, à l’exception des cas pour le
 
 Les services suivants sont inclus dans les tarifs Regular :
 
-* Un siège standard réservé
-* Priorité et 2 bagages cabine
+*   Un siège standard réservé
+*   Priorité et 2 bagages cabine
 
 Les tarifs Regular ne peuvent pas être réservés avec la réduction Erasmus.
 
@@ -1475,10 +1475,10 @@ Tous les tarifs Plus sont non remboursables, à l’exception des cas pour lesqu
 
 Les services suivants sont inclus dans les tarifs Plus :
 
-* Un petit bagage
-* Un bagage en soute de 20 kg
-* Un siège standard réservé
-* L’enregistrement gratuit à l’aéroport n’est disponible que pour les passagers ayant réservé un billet Plus sur le site Internet ou l’application officiels de Ryanair avant le 14 août 2025. Les réservations effectuées par l’intermédiaire d’un agent de voyages en ligne sont expressément exclues de ce service. 
+*   Un petit bagage
+*   Un bagage en soute de 20 kg
+*   Un siège standard réservé
+*   L’enregistrement gratuit à l’aéroport n’est disponible que pour les passagers ayant réservé un billet Plus sur le site Internet ou l’application officiels de Ryanair avant le 14 août 2025. Les réservations effectuées par l’intermédiaire d’un agent de voyages en ligne sont expressément exclues de ce service. 
 
 Les tarifs Plus ne peuvent pas être réservés avec la réduction Erasmus. 
 
@@ -1492,9 +1492,9 @@ Tous les tarifs Family Plus sont non remboursables, à l’exception des cas pou
 
 Les services suivants sont inclus dans les tarifs Family Plus :
 
-* Un bagage enregistré de 20 kg
-* Un siège standard réservé pour 4 € pour tous les adultes et adolescents de la réservation qui ne sont pas tenus de réserver un siège
-* Un bagage enregistré de 10 kg pour tous les passagers de la réservation
+*   Un bagage enregistré de 20 kg
+*   Un siège standard réservé pour 4 € pour tous les adultes et adolescents de la réservation qui ne sont pas tenus de réserver un siège
+*   Un bagage enregistré de 10 kg pour tous les passagers de la réservation
 
 Les tarifs Family Plus ne sont pas disponibles sur les itinéraires espagnols subventionnés.
 
@@ -1507,11 +1507,11 @@ Tous les tarifs Flexi Plus sont non remboursables, à l’exception des cas pour
 
 Les services suivants sont inclus dans les tarifs Flexi Plus :
 
-*       Tout siège réservé
-*       Priorité et 2 bagages cabine
-*       Flexibilité concernant les changements de billets
-*       Service de sécurité Fast Track dans les aéroports suivants
-*       L’enregistrement gratuit à l’aéroport n’est disponible que pour les passagers ayant réservé un billet Flexi         Plus sur le site Internet ou l’application officiels de Ryanair avant le 14 août 2025. Les réservations effectuées          par l’intermédiaire d’un agent de voyages en ligne sont expressément exclues de ce service.   
+*         Tout siège réservé
+*         Priorité et 2 bagages cabine
+*         Flexibilité concernant les changements de billets
+*         Service de sécurité Fast Track dans les aéroports suivants
+*         L’enregistrement gratuit à l’aéroport n’est disponible que pour les passagers ayant réservé un billet Flexi         Plus sur le site Internet ou l’application officiels de Ryanair avant le 14 août 2025. Les réservations effectuées          par l’intermédiaire d’un agent de voyages en ligne sont expressément exclues de ce service.   
     
 
 Londres Stansted, Bruxelles Charleroi, Milan Bergame, Barcelone, Malaga, Birmingham, Manchester, East Midlands, Glasgow, Édimbourg, Francfort Hahn, Hambourg, Stuttgart, Eindhoven, Bruxelles (Zaventum), Stockholm (Skavsta), Budapest, Varsovie Modlin, Liverpool John Lennon, Londres Gatwick, Rome Ciampino, Rome Fiumicino, Cologne/Bonn et Athènes.
@@ -1523,8 +1523,8 @@ Modification du vol ou de l’itinéraire réservé
 Avec un tarif Flexi Plus, vous pouvez modifier votre vol réservé avant ou le jour du voyage, sans payer les frais de changement de vol, pour un vol sur le même itinéraire ou sur un itinéraire différent de votre vol initial (si un siège est disponible), mais vous devez payer la différence de tarif. Si vous changez pour un vol ultérieur, vous pouvez effectuer la modification jusqu’à une heure avant l’heure de départ du vol initial. Si vous changez pour un vol antérieur, vous pouvez effectuer la modification :  
  
 
-* jusqu’à 1 heure avant le nouveau vol si vous effectuez le changement via un centre de contact.
-* Jusqu’à 2,5 heures avant le vol initial ou le nouveau vol si vous effectuez des modifications en ligne. 
+*   jusqu’à 1 heure avant le nouveau vol si vous effectuez le changement via un centre de contact.
+*   Jusqu’à 2,5 heures avant le vol initial ou le nouveau vol si vous effectuez des modifications en ligne. 
 
 Si vous avez déjà effectué l’enregistrement en ligne pour le vol initial, vous devrez nous contacter pour annuler l’enregistrement de ce vol avant de pouvoir effectuer le changement. 
 
@@ -1546,9 +1546,9 @@ Tous les tarifs Time Saver sont non remboursables, à l’exception des cas pour
 
 Les services suivants sont inclus dans les tarifs Time Saver :
 
-* Un siège réservé à l’avant\*
-* Priorité et 2 bagages cabine
-* Service de sécurité Fast Track dans les aéroports indiqués ci-dessous
+*   Un siège réservé à l’avant\*
+*   Priorité et 2 bagages cabine
+*   Service de sécurité Fast Track dans les aéroports indiqués ci-dessous
 
 \* Les sièges des rangées 1 à 5 sont sujets à disponibilité. Une fois ces sièges entièrement réservés, tous les autres sièges de l’avion seront proposés.
 
@@ -1650,21 +1650,21 @@ L’information qui suit concernant l’autonomie des passagers aériens est én
 
 Chaque passager doit être autonome s’agissant de **l’ensemble** des points suivants. Dans le cas contraire, le passager est tenu de voyager en compagnie d’un adulte en bonne santé, âgé d’au moins 18 ans et apte à fournir l’assistance nécessaire. Sinon, le passager se verra refuser l’embarquement.  
 
-* Les passagers doivent être en mesure d’attacher et de détacher leur ceinture quand l’équipage le leur demande ; 
+*   Les passagers doivent être en mesure d’attacher et de détacher leur ceinture quand l’équipage le leur demande ; 
 
-* Les passagers doivent être en mesure d’attraper et d’enfiler un gilet de sauvetage sans aide, quand l’équipage le leur demande ; 
+*   Les passagers doivent être en mesure d’attraper et d’enfiler un gilet de sauvetage sans aide, quand l’équipage le leur demande ; 
 
-* Les passagers doivent être en mesure d’enfiler un masque à oxygène sans aide, quand l’équipage le leur demande ; 
+*   Les passagers doivent être en mesure d’enfiler un masque à oxygène sans aide, quand l’équipage le leur demande ; 
 
-* Les passagers doivent être en mesure de comprendre les consignes de sécurité ainsi que tous les conseils et instructions donnés par l’équipage en situation d’urgence.
+*   Les passagers doivent être en mesure de comprendre les consignes de sécurité ainsi que tous les conseils et instructions donnés par l’équipage en situation d’urgence.
 
 Nous attendons aussi des passagers nécessitant une assistance dans les domaines suivants de voyager avec un accompagnateur qui les aidera. L’incapacité à s’y conformer pourrait entraîner un refus d’embarquement, si nous pensons raisonnablement que le transport des passagers pourrait comporter un risque pour la sécurité.  
 
-* Prendre ses repas (les passagers doivent être en mesure de prendre leur repas sans aide) ;
+*   Prendre ses repas (les passagers doivent être en mesure de prendre leur repas sans aide) ;
 
-* Utiliser les toilettes (les passagers doivent être en mesure d’utiliser les toilettes sans aide) ;
+*   Utiliser les toilettes (les passagers doivent être en mesure d’utiliser les toilettes sans aide) ;
 
-* Prendre ses médicaments (les passagers doivent être en mesure de prendre leurs propres médicaments et de suivre leurs procédures médicales). 
+*   Prendre ses médicaments (les passagers doivent être en mesure de prendre leurs propres médicaments et de suivre leurs procédures médicales). 
 
 Lorsqu’un passager à mobilité réduite voyage avec un accompagnateur, nous ferons de notre mieux pour nous assurer que le passager accompagnant est assis à côté d'eux.  
 
@@ -1718,16 +1718,16 @@ Lignes directrices spécifiques pour l’entrée des chiens guide / d’assistan
 
 **Lignes directrices générales relatives aux voyages:**
 
-* Pour être accepté sur un vol du Groupe Ryanair, un chien guide/d’assistance doit être **dressé** à effectuer des tâches au bénéfice d’un individu handicapé (physique, sensoriel ou psychiatrique) et doit être certifié par une organisation membre à part entière de Assistance Dogs International (ADI), Assistance Dogs UK ou International Guide Dog Federation (IGDF), les organismes accréditeurs pour organisations des chiens d’assistance dans le monde. 
-*  Les chiens de soutien moral ou de thérapie, qui ne sont pas reconnus en tant que chiens d’assistance par les organisations ci-dessus, ne sont pas autorisés à voyager avec nous. 
+*   Pour être accepté sur un vol du Groupe Ryanair, un chien guide/d’assistance doit être **dressé** à effectuer des tâches au bénéfice d’un individu handicapé (physique, sensoriel ou psychiatrique) et doit être certifié par une organisation membre à part entière de Assistance Dogs International (ADI), Assistance Dogs UK ou International Guide Dog Federation (IGDF), les organismes accréditeurs pour organisations des chiens d’assistance dans le monde. 
+*    Les chiens de soutien moral ou de thérapie, qui ne sont pas reconnus en tant que chiens d’assistance par les organisations ci-dessus, ne sont pas autorisés à voyager avec nous. 
 
-* Le chien guide/d’assistance doit porter un gilet ou un harnais d’identification standard tout au long du voyage.
+*   Le chien guide/d’assistance doit porter un gilet ou un harnais d’identification standard tout au long du voyage.
 
-* Le chien guide/d’assistance doit voyager en cabine et doit s’asseoir sur le sol aux pieds du passager. Un maximum de quatre chiens guides/d’assistance sont autorisés par vol. Le chien, les récipients et la nourriture sont transportés gratuitement.
+*   Le chien guide/d’assistance doit voyager en cabine et doit s’asseoir sur le sol aux pieds du passager. Un maximum de quatre chiens guides/d’assistance sont autorisés par vol. Le chien, les récipients et la nourriture sont transportés gratuitement.
 
-* Tout passager souhaitant voyager avec son chien guide/d’assistance à bord doit nous aviser au préalable, de préférence le jour de la réservation. Vous pouvez le faire en ligne ou en contactant notre  ligne d’assistance spéciale.
+*   Tout passager souhaitant voyager avec son chien guide/d’assistance à bord doit nous aviser au préalable, de préférence le jour de la réservation. Vous pouvez le faire en ligne ou en contactant notre  ligne d’assistance spéciale.
 
-* Un harnais approprié (qui doit être fourni par le propriétaire) doit être attaché à la ceinture de sécurité des propriétaires ou à la boucle de la ceinture de sécurité et doit être utilisé pour permettre au chien d’être efficacement retenu lors du décollage, de l’atterrissage et en cas de turbulence. D’autres dispositifs avec des points d’attache alternatifs permettant que le chien soit adéquatement retenu peuvent être utilisés. Tout aménagement qui garantit au chien d’assistance une sécurité maximale est acceptable.
+*   Un harnais approprié (qui doit être fourni par le propriétaire) doit être attaché à la ceinture de sécurité des propriétaires ou à la boucle de la ceinture de sécurité et doit être utilisé pour permettre au chien d’être efficacement retenu lors du décollage, de l’atterrissage et en cas de turbulence. D’autres dispositifs avec des points d’attache alternatifs permettant que le chien soit adéquatement retenu peuvent être utilisés. Tout aménagement qui garantit au chien d’assistance une sécurité maximale est acceptable.
 
 **Veuillez noter** que ne pas nous informer au préalable peut avoir pour résultat que le service désiré soit indisponible à l’arrivée à l’aéroport et que vous soyez donc empêché de voyager sur le vol réservé.  
   
@@ -1749,35 +1749,35 @@ FAUTEUILS ROULANTS ÉLECTRIQUES ET SCOOTERS DE MOBILITÉ
 
 Si vous voyagez avec une chaise roulante électrique ou un scooter pour personne à mobilité réduite, vous devez nous en informer au moins 48 heures avant votre vol et nous fournir :
 
-* La marque et le modèle de la chaise roulante ou du scooter
-* Son poids
-* Sa hauteur lorsqu’il ou elle est plié(e)
-* Vous devez également apporter le mode d’emploi avec vous à l’aéroport.
+*   La marque et le modèle de la chaise roulante ou du scooter
+*   Son poids
+*   Sa hauteur lorsqu’il ou elle est plié(e)
+*   Vous devez également apporter le mode d’emploi avec vous à l’aéroport.
 
 Conditions générales
 
 Si la batterie au lithium, au gel ou sèche est conçue pour rester intégrée à la chaise roulante ou au scooter pour personne à mobilité réduite, qu’elle est correctement installée dans l’appareil et que l’alimentation est isolée, aucune limite de wattheures (Wh) ne s’applique lorsqu’elle est transportée en soute.
 
-* La chaise roulante ou le scooter doit être sécurisé selon l’une des méthodes suivantes :  
+*   La chaise roulante ou le scooter doit être sécurisé selon l’une des méthodes suivantes :  
     \- Retrait de la clé  
     \- Désactivation à l’aide du joystick, d’un interrupteur ou d’un bouton d’isolement  - Utilisation d’un autre mécanisme d’isolement (par ex., connecteur Anderson, prise Airsafe)
 
-* Une fois plié, la chaise roulante ou le scooter ne doit pas dépasser les dimensions suivantes :  
+*   Une fois plié, la chaise roulante ou le scooter ne doit pas dépasser les dimensions suivantes :  
     \- Hauteur : 81 cm  
     \- Largeur : 119 cm  
     \- Profondeur : 119 cm
 
-* Si la ou les batteries au lithium sont conçues pour être retirées et transportées en cabine, leur capacité ne doit pas dépasser 1 batterie de 300 Wh ou 2 batteries de 160 Wh.
+*   Si la ou les batteries au lithium sont conçues pour être retirées et transportées en cabine, leur capacité ne doit pas dépasser 1 batterie de 300 Wh ou 2 batteries de 160 Wh.
 
-* Batteries au lithium de rechange en cabine  
+*   Batteries au lithium de rechange en cabine  
     \- 1 batterie de rechange de 300 Wh ou  
     \- 2 batteries de rechange de 160 Wh chacune.  
     \- Veuillez noter que si la batterie d’alimentation a été retirée et transportée en cabine, elle est alors comptabilisée dans votre quota de batteries de rechange autorisées.
 
-* Batteries sèches ou au gel de rechange : aucune limite de wattheures (Wh) ne s’applique lorsqu’elles sont transportées en cabine.
-* La batterie doit être déconnectée et les bornes exposées doivent être protégées contre les courts-circuits.  
-* Les chaises roulantes et les scooters pour personnes à mobilité réduite ne peuvent pas être transportés en cabine. Cependant, des chaises roulantes adaptées aux couloirs sont disponibles sur tous les vols, et l’équipage est formé pour aider les passagers à mobilité réduite à se rendre jusqu’à la porte des toilettes et à en revenir.
-* Il est fortement recommandé aux passagers de souscrire une assurance voyage couvrant les aides à la mobilité, la responsabilité des compagnies aériennes étant limitée en vertu de la Convention de Montréal de 1999.
+*   Batteries sèches ou au gel de rechange : aucune limite de wattheures (Wh) ne s’applique lorsqu’elles sont transportées en cabine.
+*   La batterie doit être déconnectée et les bornes exposées doivent être protégées contre les courts-circuits.  
+*   Les chaises roulantes et les scooters pour personnes à mobilité réduite ne peuvent pas être transportés en cabine. Cependant, des chaises roulantes adaptées aux couloirs sont disponibles sur tous les vols, et l’équipage est formé pour aider les passagers à mobilité réduite à se rendre jusqu’à la porte des toilettes et à en revenir.
+*   Il est fortement recommandé aux passagers de souscrire une assurance voyage couvrant les aides à la mobilité, la responsabilité des compagnies aériennes étant limitée en vertu de la Convention de Montréal de 1999.
 
 OXYGÈNE
 
@@ -1799,13 +1799,13 @@ Les compagnies aériennes ont le droit de refuser de transporter les passagers a
 
 **Les passagers atteints des maladies suivantes doivent se munir d’un certificat médical confirmant leur aptitude à voyager à bord d’un avion :**
 
-*  **Rubéole :** les passagers sont autorisés à voyager à bord de nos appareils quatre (4) jours après l’apparition des rougeurs.
+*    **Rubéole :** les passagers sont autorisés à voyager à bord de nos appareils quatre (4) jours après l’apparition des rougeurs.
 
-*  **Rougeole :** les passagers sont autorisés à voyager à bord de nos appareils sept (7) jours après l’apparition des rougeurs.
+*    **Rougeole :** les passagers sont autorisés à voyager à bord de nos appareils sept (7) jours après l’apparition des rougeurs.
 
-*  **Oreillons :** les passagers sont autorisés à voyager à bord de nos appareils dès que le gonflement a disparu. Cela se produit généralement au bout de sept (7) jours, mais peut prendre jusqu’à 14 jours.
+*    **Oreillons :** les passagers sont autorisés à voyager à bord de nos appareils dès que le gonflement a disparu. Cela se produit généralement au bout de sept (7) jours, mais peut prendre jusqu’à 14 jours.
 
-*  **Varicelle :** les passagers sont autorisés à voyager à bord de nos appareils sept (7) jours après l’apparition du dernier bouton.
+*    **Varicelle :** les passagers sont autorisés à voyager à bord de nos appareils sept (7) jours après l’apparition du dernier bouton.
 
 Les passagers ayant contracté l’une des maladies précitées doivent fournir un certificat médical attestant qu’ils sont aptes à prendre l’avion.
 
@@ -1822,9 +1822,9 @@ Nous nous réservons le droit de refuser le voyage à une femme enceinte de plus
 
 Pour les grossesses sans complications, le voyage n’est pas autorisé au-delà des dates suivantes :  
 
-*  Pour une grossesse simple sans complications, le voyage n’est pas autorisé au-delà de la fin de la 36ème semaine de grossesse.
+*    Pour une grossesse simple sans complications, le voyage n’est pas autorisé au-delà de la fin de la 36ème semaine de grossesse.
 
-*  Pour une grossesse sans complications de jumeaux, triplés, etc. le voyage n’est pas autorisé au-delà de la fin de la 32ème semaine de grossesse.
+*    Pour une grossesse sans complications de jumeaux, triplés, etc. le voyage n’est pas autorisé au-delà de la fin de la 32ème semaine de grossesse.
 
 La mère de l’enfant n’est autorisée à voyager que 48 heures après la naissance, dans la mesure où l’accouchement s’est déroulé sans complication ni opération chirurgicale. Si une césarienne a été effectuée ou si la mère a dû subir une intervention chirurgicale, le délai pour pouvoir voyager sur l’un de nos vols est de 10 jours. Là encore, cette décision est soumise à autorisation du médecin traitant.
 
@@ -1839,8 +1839,8 @@ Vous avez la possibilité de voler vers ou depuis des aéroports différents de 
 
 Voir un exemple ci-dessous :
 
-* Vols originaux - Dublin -> Stansted / Stansted -> Dublin
-* Changement pour –  Dublin -> Stansted / Manchester -> Dublin
+*   Vols originaux - Dublin -> Stansted / Stansted -> Dublin
+*   Changement pour –  Dublin -> Stansted / Manchester -> Dublin
 
 Vous ne pouvez pas modifier un vol intérieur pour un vol international ou vice versa en raison de problèmes liés à la TVA.
 
@@ -1848,9 +1848,9 @@ Les frais de modification de vol s’appliquent pour chaque vol/passager et vari
 
 Il n’est pas possible d’effectuer une modification sur notre site Internet dans les cas suivants :
 
-* Si une réduction de résident espagnol a été appliquée
-* Si une réduction espagnole pour famille nombreuse a été appliquée
-* Si vous souhaitez remplacer un vol intérieur par un autre vol intérieur dans le même pays que le vol d’origine
+*   Si une réduction de résident espagnol a été appliquée
+*   Si une réduction espagnole pour famille nombreuse a été appliquée
+*   Si vous souhaitez remplacer un vol intérieur par un autre vol intérieur dans le même pays que le vol d’origine
 
 Pour effectuer les modifications ci-dessus, veuillez contacter notre centre de réservation.
 
