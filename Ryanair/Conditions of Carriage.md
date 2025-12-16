@@ -2004,12 +2004,6 @@ Frais de
 
 Au moins un adulte voyageant avec des enfants de moins de 12 ans (à l'exception des bébés) doit acheter un siège réservé et s'asseoir à côté d'eux. Jusqu'à 4 enfants (moins de 12 ans) voyageant avec un adulte obtiendront des sièges réservés gratuits (sièges dans les rangées 18 à 33). La numérotation des rangées et le plan des sièges peuvent varier en fonction du type d’avion. Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés.
 
-Frais de réémission de carte d’embarquement
-
-n/a
-
-20 €/£ avant le 12 novembre 2025 0 €/£ à partir du 12 novembre 2025
-
 Frais d’enregistrement à l’aéroport
 
 n/a
@@ -2101,6 +2095,16 @@ n/a
 €/£115 de modifications en ligne / €/£160 de modifications via un agent
 
 Si vous êtes libre-service en ligne, les frais s'élèvent à €/£.115. Si vous contactez un agent pour traiter la modification, les frais s'élèvent à €/£160.
+
+Lier les frais de réservation
+
+Par passager
+
+n/a
+
+Changements de 30 €/£ par l’intermédiaire d’un agent
+
+Si vous effectuez la modification via le libre-service en ligne, ce changement est gratuit. Si vous contactez un agent pour traiter la modification, des frais de 30 €/£ s’appliquent.
 
 Frais de réservation
 
