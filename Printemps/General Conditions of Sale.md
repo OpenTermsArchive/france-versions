@@ -22,8 +22,6 @@
     
 * [NOËL AU PRINTEMPS](https://www.printemps.com/fr/fr/noel-au-printemps)
     
-* [OFFRE DE NOËL : -30€ tous les 200€](https://www.printemps.com/fr/fr/offre-noel)
-    
 
 * PLUS D'INSPIRATION
     * [Les meilleurs calendriers de l'avent beauté 2025 pour attendre Noël](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
@@ -148,8 +146,6 @@
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
     * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
 
-* [OFFRE DE NOËL : -30€ tous les 200€](https://www.printemps.com/fr/fr/offre-noel-femme)
-    
 * [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
     
 * [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-femme)
@@ -234,8 +230,6 @@
     * [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
-* [OFFRE DE NOËL : -30€ tous les 200€](https://www.printemps.com/fr/fr/offre-noel-homme)
-    
 * [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
     
 * [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme)
@@ -299,8 +293,6 @@
     * [Produits de coiffage](https://www.printemps.com/fr/fr/produits-de-coiffage)
     * [Appareils électroniques](https://www.printemps.com/fr/fr/fers-lisser)
 
-* [OFFRE DE NOËL : -30€ tous les 200€](https://www.printemps.com/fr/fr/offre-noel-beaute)
-    
 * [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
     
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-beaute)
