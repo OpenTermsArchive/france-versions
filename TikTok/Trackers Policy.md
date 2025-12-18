@@ -42,9 +42,9 @@ Certains cookies contribuent à optimiser le fonctionnement de la Plateforme. Il
 
 Vous trouverez ci-dessous des exemples de cookies que nous utilisons à des fins de fonctionnalité et de personnalisation.
 
-* Certains cookies permettent d'optimiser le fonctionnement de la Plateforme et de nos services. Ces cookies mémorisent vos informations de connexion et votre statut lorsque vous naviguez sur la Plateforme. Il s'agit, par exemple, des cookies « sid\_tt » (conservés pendant deux mois).
-* Certains cookies enregistrent votre langue préférée, comme les cookies « default\_lang » (conservés pendant un an). D'autres cookies, tels que les cookies « locaux » (conservés pendant un an), enregistrent le pays depuis lequel vous consultez la Plateforme.
-* D'autres cookies enregistrent votre consentement à la mémorisation de votre choix concernant les cookies facultatifs.
+*   Certains cookies permettent d'optimiser le fonctionnement de la Plateforme et de nos services. Ces cookies mémorisent vos informations de connexion et votre statut lorsque vous naviguez sur la Plateforme. Il s'agit, par exemple, des cookies « sid\_tt » (conservés pendant deux mois).
+*   Certains cookies enregistrent votre langue préférée, comme les cookies « default\_lang » (conservés pendant un an). D'autres cookies, tels que les cookies « locaux » (conservés pendant un an), enregistrent le pays depuis lequel vous consultez la Plateforme.
+*   D'autres cookies enregistrent votre consentement à la mémorisation de votre choix concernant les cookies facultatifs.
 
 **Sécurité**
 
@@ -52,11 +52,11 @@ Nous utilisons certains cookies pour assurer votre sécurité, ainsi que celle d
 
 Par exemple, ces types de cookies nous permettent de :
 
-* prévenir des attaques frauduleuses sur notre Plateforme ;
-* détecter le trafic non humain (issu de bots) ;
-* détecter les activités suspectes ;
-* vérifier si un compte a été suspendu en raison d'une infraction à nos Consignes communautaires, afin que nous prenions les mesures appropriées, le cas échéant ;
-* planifier le trafic et le répartir correctement sur les réseaux.
+*   prévenir des attaques frauduleuses sur notre Plateforme ;
+*   détecter le trafic non humain (issu de bots) ;
+*   détecter les activités suspectes ;
+*   vérifier si un compte a été suspendu en raison d'une infraction à nos Consignes communautaires, afin que nous prenions les mesures appropriées, le cas échéant ;
+*   planifier le trafic et le répartir correctement sur les réseaux.
 
 Les cookies utilisés pour ces finalités comprennent les cookies « ttwid » (conservés pendant un an) et les cookies « security\_verification\_ticket » (conservés pendant un mois).
 
@@ -68,8 +68,8 @@ Ces informations nous permettent de réaliser des mesures et de corriger rapidem
 
 Vous trouverez ci-dessous des exemples de cookies analytiques que nous utilisons, ainsi que leurs finalités et leurs durées de conservation.
 
-* Le cookie interne « ttwid » sert à l'analyse et à l'optimisation de site Web. Il est conservé pendant une durée maximale de 13 mois.
-* Nous utilisons également Google Analytics pour analyser l'utilisation de la Plateforme. Cette analyse couvre le nombre de consultations de page et le nombre de visiteurs uniques. La durée de conservation de Google Analytics est de 24 mois.
+*   Le cookie interne « ttwid » sert à l'analyse et à l'optimisation de site Web. Il est conservé pendant une durée maximale de 13 mois.
+*   Nous utilisons également Google Analytics pour analyser l'utilisation de la Plateforme. Cette analyse couvre le nombre de consultations de page et le nombre de visiteurs uniques. La durée de conservation de Google Analytics est de 24 mois.
 
 **Publicité et mesure**
 
@@ -79,9 +79,9 @@ Nous utilisons également des cookies pour mesurer les performances de nos annon
 
 Parmi les différents cookies de publicité et de mesure, nous pouvons citer ceux qui servent aux fins suivantes :
 
-* Vous présenter des annonces personnalisées diffusées par un annonceur spécifique lorsque vous avez déjà visité son site Web ou son application. À cette fin, nous utilisons notamment le cookie interne « ttp », dont la durée de conservation est d'un an.
-* Diffuser des annonces à propos de TikTok sur des plateformes tierces. Il s'agit notamment d'adresser des communications marketing relatives à TikTok aux personnes qui ont visité notre site Web et de mesurer les performances de nos campagnes publicitaires. Par exemple, le cookie tiers « fbp », dont la durée de conservation est de trois mois, est utilisé à cette fin.
-* Mesurer les performances des annonces sur notre Plateforme. Il est notamment question du suivi des actions des utilisateurs en réponse aux annonces, comme des visites sur le site Web d'un annonceur ou des achats. Par exemple, les identifiants publicitaires tiers « IDFA » et « GAID » sont utilisés pour mesurer les annonces et les personnaliser.
+*   Vous présenter des annonces personnalisées diffusées par un annonceur spécifique lorsque vous avez déjà visité son site Web ou son application. À cette fin, nous utilisons notamment le cookie interne « ttp », dont la durée de conservation est d'un an.
+*   Diffuser des annonces à propos de TikTok sur des plateformes tierces. Il s'agit notamment d'adresser des communications marketing relatives à TikTok aux personnes qui ont visité notre site Web et de mesurer les performances de nos campagnes publicitaires. Par exemple, le cookie tiers « fbp », dont la durée de conservation est de trois mois, est utilisé à cette fin.
+*   Mesurer les performances des annonces sur notre Plateforme. Il est notamment question du suivi des actions des utilisateurs en réponse aux annonces, comme des visites sur le site Web d'un annonceur ou des achats. Par exemple, les identifiants publicitaires tiers « IDFA » et « GAID » sont utilisés pour mesurer les annonces et les personnaliser.
 
 ### Comment les Partenaires de TikTok utilisent-ils les cookies ?
 
@@ -109,26 +109,26 @@ Si vous possédez un compte TikTok et que vous y êtes connecté(e), vous pouve
 
 Vous pouvez également configurer les paramètres de votre appareil pour contrôler vos identifiants publicitaires mobiles :
 
-* Sur les appareils Apple : pour les versions d'iOS antérieures à iOS 14, vous pouvez activer le paramètre « Limiter le suivi publicitaire » dans les paramètres de votre appareil. Pour iOS 14 et les versions ultérieures, vous pouvez limiter le suivi tiers dans les paramètres de votre appareil.
-* Sur les appareils Android, vous pouvez activer l'option de refus de la personnalisation des annonces sur votre appareil.
+*   Sur les appareils Apple : pour les versions d'iOS antérieures à iOS 14, vous pouvez activer le paramètre « Limiter le suivi publicitaire » dans les paramètres de votre appareil. Pour iOS 14 et les versions ultérieures, vous pouvez limiter le suivi tiers dans les paramètres de votre appareil.
+*   Sur les appareils Android, vous pouvez activer l'option de refus de la personnalisation des annonces sur votre appareil.
 
 **Paramètres de votre navigateur Web**
 
 La plupart des navigateurs vous permettent également de choisir le niveau de confidentialité que vous préférez. Vous pouvez contrôler vos paramètres de cookies et de stockage local, et notamment :
 
-* visualiser la liste des cookies et autres données stockés localement et les supprimer au cas par cas ;
-* bloquer des cookies tiers ;
-* bloquer des cookies provenant de sites particuliers ;
-* bloquer l'installation de tous les cookies ; ou
-* supprimer l'ensemble des données relatives aux cookies/sites.
+*   visualiser la liste des cookies et autres données stockés localement et les supprimer au cas par cas ;
+*   bloquer des cookies tiers ;
+*   bloquer des cookies provenant de sites particuliers ;
+*   bloquer l'installation de tous les cookies ; ou
+*   supprimer l'ensemble des données relatives aux cookies/sites.
 
 Pour plus d'informations sur la gestion des navigateurs les plus répandus, consultez les liens ci-dessous :
 
-* Google Chrome : [https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en)
-* Safari : [https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
-* Internet Explorer : [https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
-* Edge : [https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies](https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies)
-* Firefox : [https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+*   Google Chrome : [https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en)
+*   Safari : [https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+*   Internet Explorer : [https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+*   Edge : [https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies](https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies)
+*   Firefox : [https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
 
 ### Modifications de la présente politique
 
