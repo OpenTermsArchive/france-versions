@@ -13,18 +13,18 @@ Nos conditions Générales
 
 Yolaw SAS («**Yolaw**») fournit, sur le site Internet [legalstart.fr](https://www.legalstart.fr/) (ou tout autre site qui le remplacerait) (le «**Site**»), les services suivants (les «**Services**») :
 
-* mise à disposition de modèles d’actes juridiques et administratifs (les « **Modèles** ») ainsi que, le cas échéant, d’un logiciel (sous forme de questionnaires dynamiques) vous permettant, en contrepartie du paiement du prix correspondant, de personnaliser vous-même lesdits Modèles et télécharger les documents ainsi créés (les «**Document(s)**»)
-* accomplissement, directement ou par l’intermédiaire de tout prestataire spécialisé dans la gestion de formalités administratives (le «**Formaliste**»), de formalités (numériques ou papier) relatives aux Documents auprès, notamment, des greffes des tribunaux de commerce, Centres des Formalités des Entreprises (CFE) et préfectures (les «**Formalité(s)**»)
-* service d’information juridique à caractère documentaire en partenariat avec Juridica (le « **Service d’Information Juridique**”)
-* service logiciel de gestion comptable mis à disposition des Utilisateurs (Service Silex) en partenariat avec WEB INDUSTRY (le « **Service Logiciel de Gestion Comptable** »)
-* recouvrement de créances pour votre compte (le «**Service de Recouvrement**»)
-* mise à disposition de résultats de recherche d’antériorité (les «**Recherches d’Antériorité**») et de rapports de surveillance (les « **Rapports de surveillance** ») de marques
-* mise à disposition d’une solution technique vous permettant de déposer vous-même votre marque auprès de l’Institut National de la Propriété Industrielle (le « **Service de Dépôt de Marque** »)
-* service d’horodatage des créations (le « **Service d’Horodatage** »)
-* abonnements incluant la fourniture de Services, Modèles et / ou informations (les «**Abonnement(s)**»)
-* mise en relation, à votre demande, avec (i) un Avocat (tel que ce terme est défini dans les [CGU Avocats](https://www.legalstart.fr/corp/cgu-avocats/)), conformément à la loi et aux règles déontologiques applicables et aux [CGU Avocats](https://www.legalstart.fr/corp/cgu-avocats/) (ii) un expert-comptable ou commissaire aux comptes partenaire ou (iii) un autre partenaire de Yolaw (la «**Mise en Relation**»)
-* mise à disposition du Contenu sur le Site, le terme «**Contenu**» désignant tout document, Modèle, guide, article, outil interactif d’information juridique et sociale, information accessible ou téléchargeable sur le Site, à l’exclusion du Contenu Utilisateur et du Contenu de Tiers (tels que définis à l’article 14 ci-après)
-* mise à disposition d’une offre de services comprenant (i) l’accès à une solution de gestion de la trésorerie et de la facturation de l’entreprise ainsi qu’à des outils de collaboration entre l’entreprise et son expert-comptable fournie en partenariat avec la société Pennylane (la “**Solution Outil de Gestion**”) et (ii) dans le cadre de l’utilisation de la Solution Outil de Gestion, l’accès à des services de paiement et de monnaie électronique fournis par la société Swan (la “**Solution Compte Pro**”) (ensemble, l’“**Offre Finance Pro**”).
+*   mise à disposition de modèles d’actes juridiques et administratifs (les « **Modèles** ») ainsi que, le cas échéant, d’un logiciel (sous forme de questionnaires dynamiques) vous permettant, en contrepartie du paiement du prix correspondant, de personnaliser vous-même lesdits Modèles et télécharger les documents ainsi créés (les «**Document(s)**»)
+*   accomplissement, directement ou par l’intermédiaire de tout prestataire spécialisé dans la gestion de formalités administratives (le «**Formaliste**»), de formalités (numériques ou papier) relatives aux Documents auprès, notamment, des greffes des tribunaux de commerce, Centres des Formalités des Entreprises (CFE) et préfectures (les «**Formalité(s)**»)
+*   service d’information juridique à caractère documentaire en partenariat avec Juridica (le « **Service d’Information Juridique**”)
+*   service logiciel de gestion comptable mis à disposition des Utilisateurs (Service Silex) en partenariat avec WEB INDUSTRY (le « **Service Logiciel de Gestion Comptable** »)
+*   recouvrement de créances pour votre compte (le «**Service de Recouvrement**»)
+*   mise à disposition de résultats de recherche d’antériorité (les «**Recherches d’Antériorité**») et de rapports de surveillance (les « **Rapports de surveillance** ») de marques
+*   mise à disposition d’une solution technique vous permettant de déposer vous-même votre marque auprès de l’Institut National de la Propriété Industrielle (le « **Service de Dépôt de Marque** »)
+*   service d’horodatage des créations (le « **Service d’Horodatage** »)
+*   abonnements incluant la fourniture de Services, Modèles et / ou informations (les «**Abonnement(s)**»)
+*   mise en relation, à votre demande, avec (i) un Avocat (tel que ce terme est défini dans les [CGU Avocats](https://www.legalstart.fr/corp/cgu-avocats/)), conformément à la loi et aux règles déontologiques applicables et aux [CGU Avocats](https://www.legalstart.fr/corp/cgu-avocats/) (ii) un expert-comptable ou commissaire aux comptes partenaire ou (iii) un autre partenaire de Yolaw (la «**Mise en Relation**»)
+*   mise à disposition du Contenu sur le Site, le terme «**Contenu**» désignant tout document, Modèle, guide, article, outil interactif d’information juridique et sociale, information accessible ou téléchargeable sur le Site, à l’exclusion du Contenu Utilisateur et du Contenu de Tiers (tels que définis à l’article 14 ci-après)
+*   mise à disposition d’une offre de services comprenant (i) l’accès à une solution de gestion de la trésorerie et de la facturation de l’entreprise ainsi qu’à des outils de collaboration entre l’entreprise et son expert-comptable fournie en partenariat avec la société Pennylane (la “**Solution Outil de Gestion**”) et (ii) dans le cadre de l’utilisation de la Solution Outil de Gestion, l’accès à des services de paiement et de monnaie électronique fournis par la société Swan (la “**Solution Compte Pro**”) (ensemble, l’“**Offre Finance Pro**”).
 
 Certains Services sont offerts sous forme de packs. Le terme «**Pack**» désigne toute offre groupée de Services, par exemple la fourniture d’un Modèle et les Formalités y afférentes.
 
@@ -60,8 +60,8 @@ Lors de la commande d’un Service (à l’exception, dans certains cas, du Serv
 
 La création d’un Compte est gratuite et ouverte à :
 
-* toute personne physique (âgée d’au moins 18 ans et jouissant de sa pleine capacité juridique) agissant pour des besoins entrant dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole ; et
-* toute personne morale légalement constituée et agissant, en qualité de professionnel ou non-professionnel, par l’intermédiaire d’un représentant personne physique dûment habilité en application d’un pouvoir, d’une délégation ou d’un mandat dûment obtenu auprès de la personne morale concernée, lui permettant d’agir au nom et pour le compte de ce dernier.
+*   toute personne physique (âgée d’au moins 18 ans et jouissant de sa pleine capacité juridique) agissant pour des besoins entrant dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole ; et
+*   toute personne morale légalement constituée et agissant, en qualité de professionnel ou non-professionnel, par l’intermédiaire d’un représentant personne physique dûment habilité en application d’un pouvoir, d’une délégation ou d’un mandat dûment obtenu auprès de la personne morale concernée, lui permettant d’agir au nom et pour le compte de ce dernier.
 
 Pour créer un Compte, vous devez renseigner les mentions obligatoires suivantes : votre nom, votre prénom, votre numéro de téléphone, votre adresse e-mail et un mot de passe secret, personnel et confidentiel. Vous êtes responsable de l’exactitude et de la mise à jour des informations que vous fournissez. Yolaw ne saurait encourir de responsabilité si les informations fournies sont incomplètes ou contiennent des erreurs et si, de ce fait, Yolaw est dans l’impossibilité d’exécuter la commande dans les conditions prévues. Pour les besoins de la fourniture des Services, vous devez immédiatement informer Yolaw de tout changement concernant ces informations, et confirmer sous quinze jours à Yolaw l’exactitude des informations si Yolaw ou l’un de ses prestataires en fait la demande. Vous pouvez à tout moment accéder à vos informations et les modifier dans votre espace « mon Compte ».
 
@@ -85,8 +85,8 @@ En cas de non-respect des présentes CGUV, Yolaw aura la faculté de suspendre o
 
 En cas de fraude ou de tentative de fraude, Yolaw pourra suspendre ou clore votre Compte, à tout moment, de plein droit et sans aucune formalité, notamment si Yolaw a des raisons raisonnables de croire que :
 
-* vous prétendez être toute autre personne ou entité ou présentez votre identité de manière inexacte ou
-* vous adoptez un comportement inopportun ou répréhensible sur le Site ou dans le cadre de l’utilisation des Services. 
+*   vous prétendez être toute autre personne ou entité ou présentez votre identité de manière inexacte ou
+*   vous adoptez un comportement inopportun ou répréhensible sur le Site ou dans le cadre de l’utilisation des Services. 
 
 **1.4 Conséquences de la fermeture du Compte**
 ----------------------------------------------
@@ -109,18 +109,18 @@ Avant de payer votre commande, vous avez la possibilité de vérifier le détail
 
 Pour effectuer une commande d’un Modèle, un Pack, une Formalité, un Abonnement ou un Service de Recouvrement, vous devez :
 
-* sélectionner le Modèle, le Pack, la Formalité, l’Abonnement, la Recherche d’Antériorité ou le Service de recouvrement souhaité sur le Site 
-* confirmer votre commande en cliquant sur « Acheter »
-* accepter les CGUV
-* effectuer le paiement en cliquant sur « Payer », dans les conditions prévues à l’article 4 (Modalités de paiement et de facturation) ci-dessous
-* créer un Compte dans les conditions précisées à l’article 1.1 (Création de Compte) ci-dessus
+*   sélectionner le Modèle, le Pack, la Formalité, l’Abonnement, la Recherche d’Antériorité ou le Service de recouvrement souhaité sur le Site 
+*   confirmer votre commande en cliquant sur « Acheter »
+*   accepter les CGUV
+*   effectuer le paiement en cliquant sur « Payer », dans les conditions prévues à l’article 4 (Modalités de paiement et de facturation) ci-dessous
+*   créer un Compte dans les conditions précisées à l’article 1.1 (Création de Compte) ci-dessus
 
 Vous avez la possibilité de commander un Abonnement directement depuis votre espace “Mon Compte” lorsque vous avez déjà effectué au moins une commande sur le Site. Dans ce cas, vous devez :  
 
-* sélectionner l’Abonnement souhaité depuis votre espace « Mon Compte »
-* confirmer votre commande en cliquant sur “Souscrire”  
-* accepter les CGUV
-* effectuer le paiement en cliquant sur « Payer », dans les conditions prévues à l’article 4 (Modalités de paiement et de facturation) ci-dessous 
+*   sélectionner l’Abonnement souhaité depuis votre espace « Mon Compte »
+*   confirmer votre commande en cliquant sur “Souscrire”  
+*   accepter les CGUV
+*   effectuer le paiement en cliquant sur « Payer », dans les conditions prévues à l’article 4 (Modalités de paiement et de facturation) ci-dessous 
 
 Pour effectuer une commande d’un Modèle, un Pack, une Formalité, un Abonnement, une Recherche d’Antériorité ou un Service de Recouvrement, vous devez donc confirmer celle-ci par la technique du « double-clic », c’est-à-dire qu’après avoir sélectionné le(s) Service(s) souhaité(s), vous devez contrôler et éventuellement corriger le contenu de la commande avant de le valider en cliquant sur «Commander» ou « Souscrire » (selon le cas), puis vous acceptez les présentes Conditions Générales d’Utilisation en cochant la case prévue à cet effet et vous cliquez sur le bouton «Payer». 
 
@@ -164,15 +164,15 @@ En ce qui concerne les Abonnements souscrits avec 30 jours gratuits, le paiement
 
 Vous pouvez régler vos achats :
 
-* Par carte bancaire (Carte Bleue, Visa, Eurocard/Mastercard). Yolaw utilise le service de paiement sécurisé fourni par Stripe, Inc. Les données confidentielles (le numéro de carte bancaire à 16 chiffres, la date d'expiration et le code CVX) sont directement transmises cryptées sur le serveur de Stripe, Inc. Yolaw n’a pas accès à ces données.
-* Par virement bancaire. Lors de la commande, nous vous communiquons les coordonnées bancaires du compte de Yolaw sur lequel effectuer le virement, ainsi que votre numéro de dossier à indiquer dans l’ordre de virement. Les commandes sont traitées dans les 48H maximum suivant la réception du virement. La commande est considérée comme effective uniquement une fois que le centre de paiement bancaire sécurisé aura donné son accord sur la transaction.
-* Par le prestataire de portefeuille électronique Paypal. Lors de la commande, vous devez vous connecter à votre compte Paypal pour effectuer le paiement, sans avoir à communiquer vos coordonnées bancaires.
-* Par prélèvement SEPA, pour les Abonnements uniquement. Yolaw utilise à cet effet le service de paiement sécurisé par Stripe, Inc. Vous pouvez opter pour ce moyen de règlement des échéances de vos Abonnements depuis votre espace "Mon Compte", où vous devez renseigner votre numéro IBAN et accepter le mandat de prélèvement SEPA. En choisissant ce mode de paiement, vous autorisez (i) Yolaw et Stripe et/ou PPRO, son prestataire de services local, à envoyer des instructions à votre banque pour débiter votre compte et (ii) votre banque à débiter votre compte conformément à ces instructions. Vous avez, entre autres, le droit de vous faire rembourser par votre banque selon les modalités et conditions du contrat conclu avec votre banque. La demande de remboursement doit être soumise dans un délai de 8 semaines à compter de la date à laquelle votre compte a été débité. Vos droits sont expliqués dans une déclaration disponible auprès de votre banque. Vous acceptez de recevoir des notifications des débits à venir dans les 2 jours précédant leur réalisation.
+*   Par carte bancaire (Carte Bleue, Visa, Eurocard/Mastercard). Yolaw utilise le service de paiement sécurisé fourni par Stripe, Inc. Les données confidentielles (le numéro de carte bancaire à 16 chiffres, la date d'expiration et le code CVX) sont directement transmises cryptées sur le serveur de Stripe, Inc. Yolaw n’a pas accès à ces données.
+*   Par virement bancaire. Lors de la commande, nous vous communiquons les coordonnées bancaires du compte de Yolaw sur lequel effectuer le virement, ainsi que votre numéro de dossier à indiquer dans l’ordre de virement. Les commandes sont traitées dans les 48H maximum suivant la réception du virement. La commande est considérée comme effective uniquement une fois que le centre de paiement bancaire sécurisé aura donné son accord sur la transaction.
+*   Par le prestataire de portefeuille électronique Paypal. Lors de la commande, vous devez vous connecter à votre compte Paypal pour effectuer le paiement, sans avoir à communiquer vos coordonnées bancaires.
+*   Par prélèvement SEPA, pour les Abonnements uniquement. Yolaw utilise à cet effet le service de paiement sécurisé par Stripe, Inc. Vous pouvez opter pour ce moyen de règlement des échéances de vos Abonnements depuis votre espace "Mon Compte", où vous devez renseigner votre numéro IBAN et accepter le mandat de prélèvement SEPA. En choisissant ce mode de paiement, vous autorisez (i) Yolaw et Stripe et/ou PPRO, son prestataire de services local, à envoyer des instructions à votre banque pour débiter votre compte et (ii) votre banque à débiter votre compte conformément à ces instructions. Vous avez, entre autres, le droit de vous faire rembourser par votre banque selon les modalités et conditions du contrat conclu avec votre banque. La demande de remboursement doit être soumise dans un délai de 8 semaines à compter de la date à laquelle votre compte a été débité. Vos droits sont expliqués dans une déclaration disponible auprès de votre banque. Vous acceptez de recevoir des notifications des débits à venir dans les 2 jours précédant leur réalisation.
 
 Si vous avez souscrit à un Service de Recouvrement, vous vous engagez à :
 
-* payer les frais de succès (i) en cas de recouvrement total ou partiel du montant de la ou des factures impayée(s) renseignée(s) dans votre formulaire dans le cadre d’une procédure de recouvrement amiable ou (ii) en cas de reprise de marchandises ou de matériel, d'avoir ou d'annulation de facture ou de compensation ou encore (iii) en cas d’obtention d’une ordonnance favorable d’injonction de payer dans le cadre d’une procédure de recouvrement judiciaire.
-* payer les frais de recouvrement tels que les frais postaux, frais de greffe en cas de dépôt d’une demande d’injonction de payer et, le cas échéant, frais d’huissier de justice.
+*   payer les frais de succès (i) en cas de recouvrement total ou partiel du montant de la ou des factures impayée(s) renseignée(s) dans votre formulaire dans le cadre d’une procédure de recouvrement amiable ou (ii) en cas de reprise de marchandises ou de matériel, d'avoir ou d'annulation de facture ou de compensation ou encore (iii) en cas d’obtention d’une ordonnance favorable d’injonction de payer dans le cadre d’une procédure de recouvrement judiciaire.
+*   payer les frais de recouvrement tels que les frais postaux, frais de greffe en cas de dépôt d’une demande d’injonction de payer et, le cas échéant, frais d’huissier de justice.
 
 **4.2 Facturation**
 -------------------
@@ -201,14 +201,14 @@ Dans le cadre d'une obligation de moyens, Yolaw s’engage à ce que tous les co
 
 Yolaw n’accorde aucune autre garantie expresse ou implicite à l’égard des contenus et Modèles édités sur le Site ou des informations transmises. Yolaw ne garantit en aucun cas que (i) les Modèles soient conformes à la loi et/ou la réglementation applicable, notamment en raison de l’évolution permanente de la réglementation et de la jurisprudence, (ii) votre utilisation des questionnaires et/ou Modèles corresponde à vos besoins et/ou à votre situation, les questionnaires et/ou Modèles proposés par Yolaw étant des documents génériques et l’intégralité des réponses étant apportées par vous-même. Vous reconnaissez que chaque Document consiste en un Modèle complété par vos soins sans l’assistance de conseils juridiques de Yolaw et que vous êtes donc seul responsable :
 
-* de l'adéquation entre la forme du Modèle choisi et l'utilisation que vous en faites ;
-* du choix des options proposées dans chaque Modèle ;
-* de l'exactitude de l'intégralité des réponses et informations complétées par vos soins.
+*   de l'adéquation entre la forme du Modèle choisi et l'utilisation que vous en faites ;
+*   du choix des options proposées dans chaque Modèle ;
+*   de l'exactitude de l'intégralité des réponses et informations complétées par vos soins.
 
 S'agissant des Modèles de contrats de travail mis à votre disposition sur le Site, vous reconnaissez être seul responsable :
 
-* du choix de la convention collective nationale que vous décidez d'appliquer au contrat
-* de l'application éventuelle d'un accord collectif dans votre entreprise et, le cas échéant, la mise en conformité du Modèle.
+*   du choix de la convention collective nationale que vous décidez d'appliquer au contrat
+*   de l'application éventuelle d'un accord collectif dans votre entreprise et, le cas échéant, la mise en conformité du Modèle.
 
 S'agissant de la convention collective nationale applicable, il est de votre responsabilité de prendre connaissance de la convention collective nationale applicable et/ou de contacter un organisme représentatif de votre profession afin de vous assurer que ladite convention ne contient pas de dispositions spécifiques concernant votre activité et/ou les caractéristiques du salarié qui ne seraient pas prévues dans notre Modèle.
 
@@ -239,8 +239,8 @@ En ce qui concerne les immatriculations de société, des délais additionnels (
 
 Le coût du Service Formalité est constitué par :
 
-* les frais de service Legalstart (en fonction de la Formalité concernée et du Pack sélectionné lors de votre commande) ; et
-* des frais de Greffe et de publication d’annonce légale (en fonction de la Formalité concernée).
+*   les frais de service Legalstart (en fonction de la Formalité concernée et du Pack sélectionné lors de votre commande) ; et
+*   des frais de Greffe et de publication d’annonce légale (en fonction de la Formalité concernée).
 
 **5.3 Description des Recherches d'Antériorité**
 ------------------------------------------------
@@ -249,9 +249,9 @@ En ce qui concerne les Recherches d'Antériorité, le Service est disponible pou
 
 Les différents types de recherche disponibles sur le Site sont les suivantes:
 
-* Recherche d'un élément verbal: Yolaw met à votre disposition les résultats d'une recherche d'antériorité portant sur les marques strictement identiques et les similarités alphabétiques et phonétiques (i) pour les classes sélectionnées et (ii) par l’intermédiaire du logiciel « Orbit Trademark » basé sur une suite complexe d’algorithmes récursifs variant en fonction de la position des caractères et de la longueur des éléments verbaux recherchés et portant sur des ajouts, retranchements, substitutions et/ou combinaisons de caractères, de voyelles, de consonnes ou de syllabes en commun.
+*   Recherche d'un élément verbal: Yolaw met à votre disposition les résultats d'une recherche d'antériorité portant sur les marques strictement identiques et les similarités alphabétiques et phonétiques (i) pour les classes sélectionnées et (ii) par l’intermédiaire du logiciel « Orbit Trademark » basé sur une suite complexe d’algorithmes récursifs variant en fonction de la position des caractères et de la longueur des éléments verbaux recherchés et portant sur des ajouts, retranchements, substitutions et/ou combinaisons de caractères, de voyelles, de consonnes ou de syllabes en commun.
 
-* Recherche d'un élément figuratif: Yolaw met à votre disposition les deux-cent premiers résultats d'une recherche d'antériorité portant sur les logos visuellement similaires pour les classes sélectionnées et par l’intermédiaire du logiciel « Orbit Trademark » basé sur une suite complexe d’algorithmes.
+*   Recherche d'un élément figuratif: Yolaw met à votre disposition les deux-cent premiers résultats d'une recherche d'antériorité portant sur les logos visuellement similaires pour les classes sélectionnées et par l’intermédiaire du logiciel « Orbit Trademark » basé sur une suite complexe d’algorithmes.
 
 Le logiciel « Orbit Trademark » est édité par la société Questel SAS, BP 239, 06904 Sophia-Antipolis Cedex. Les recherches effectuées par l’intermédiaire du logiciel « Orbit Trademark » portent sur les bases de données de l’INPI (marques françaises), de l’EUIPO (marques de l’Union Européenne) et de WIPO (marques internationales).
 
@@ -293,8 +293,8 @@ Par ailleurs, les listes synthétiques de produits et services qui sont proposé
 
 Le coût du Service de Dépôt de Marque est constitué par :
 
-* les frais de service Legalstart (en fonction du Pack sélectionné) ;
-* les frais de dépôt de marque auprès de l’INPI (en fonction du nombre de classes sélectionnées).
+*   les frais de service Legalstart (en fonction du Pack sélectionné) ;
+*   les frais de dépôt de marque auprès de l’INPI (en fonction du nombre de classes sélectionnées).
 
 **5.6 Description des Services de Recouvrement**
 ------------------------------------------------
@@ -317,9 +317,9 @@ Dans l’hypothèse où Yolaw procéderait directement au recouvrement des fonds
 
 Le coût du Service de Recouvrement est constitué par :
 
-* les frais de service Legalstart (en fonction du Pack sélectionné) ;
-* les frais administratifs (envoi du courrier de mise en demeure) ;
-* les frais de succès Legalstart (en fonction du Pack sélectionné et uniquement en cas de succès).
+*   les frais de service Legalstart (en fonction du Pack sélectionné) ;
+*   les frais administratifs (envoi du courrier de mise en demeure) ;
+*   les frais de succès Legalstart (en fonction du Pack sélectionné et uniquement en cas de succès).
 
 **5.7 Description et fourniture du Service d’Information Juridique**
 --------------------------------------------------------------------
@@ -354,36 +354,36 @@ Yolaw précise que l’utilisation du Service d’Horodatage ne garantit pas que
 
 ### **5.9.1 Description des Abonnements**
 
-* Abonnement "Assistance Legalstart" 
+*   Abonnement "Assistance Legalstart" 
 
 L’abonnement Assistance Legalstart vous donne droit : 
 
-* au Service d’Information Juridique de manière illimitée (sous réserve d’une utilisation raisonable) ;
-* à l’accès à notre bibliothèque de Modèles.
+*   au Service d’Information Juridique de manière illimitée (sous réserve d’une utilisation raisonable) ;
+*   à l’accès à notre bibliothèque de Modèles.
 
-* Abonnement "Comptastart" 
+*   Abonnement "Comptastart" 
 
 L’abonnement Comptastart vous permet d’accéder au Service Logiciel de Gestion Comptable.
 
 Le Service Logiciel de Gestion Comptable (**Service Silex**) mis à disposition des Utilisateurs dans le cadre de l'Abonnement Comptastart et accessible via une [**page dédiée**](https://gestion.legalstart.fr/login) est fourni par la société WEB INDUSTRY (société éditrice de la plateforme silexpert.fr), société à responsabilité limitée au capital de 10.000 euros, inscrite au R.C.S. de Nancy sous le numéro 808070726, dont le siège social est situé 88 rue Pierre et Marie Curie 54710 Ludres. Le Service Logiciel de Gestion Comptable es soumis aux conditions générales d’utilisation de Silex, accessibles [ici](https://silexpert.fr/cgv/).
 
-* Abonnement “Recouvrement Privilège” 
+*   Abonnement “Recouvrement Privilège” 
 
 L’abonnement Recouvrement privilège vous donne droit à :
 
-* trois entretiens dans le cadre du Service d’Information Juridique concernant des sujets liés au recouvrement de créance ;
-* l’accès illimité au Service de Recouvrement sans payer les frais de service Legalstart (c’est-à-dire, en payant uniquement les frais administratifs et les frais de succès - voir l’article 5.6 pour plus de détail sur le coût du Service de Recouvrement) ;
-* la mise en place et le suivi d’échéanciers de paiements.
+*   trois entretiens dans le cadre du Service d’Information Juridique concernant des sujets liés au recouvrement de créance ;
+*   l’accès illimité au Service de Recouvrement sans payer les frais de service Legalstart (c’est-à-dire, en payant uniquement les frais administratifs et les frais de succès - voir l’article 5.6 pour plus de détail sur le coût du Service de Recouvrement) ;
+*   la mise en place et le suivi d’échéanciers de paiements.
 
-* Abonnement "Service Obligations Juridiques" 
+*   Abonnement "Service Obligations Juridiques" 
 
 L'abonnement Service Obligations Juridiques vous donne droit à :
 
-* trois entretiens dans le cadre du Service d’Information Juridique concernant des sujets liés à la conformité ;
-* l’accès au Service de Formalités pour réaliser votre approbation de comptes annuels ainsi qu’une autre Formalité (au choix) de modification statutaire (par exemple: changement d’adresse, changement de dirigeant, changement de dénomination sociale - la liste complète est disponible sur le site Legalstart.fr) ;
-* à l’accès à notre bibliothèque de Modèles.
+*   trois entretiens dans le cadre du Service d’Information Juridique concernant des sujets liés à la conformité ;
+*   l’accès au Service de Formalités pour réaliser votre approbation de comptes annuels ainsi qu’une autre Formalité (au choix) de modification statutaire (par exemple: changement d’adresse, changement de dirigeant, changement de dénomination sociale - la liste complète est disponible sur le site Legalstart.fr) ;
+*   à l’accès à notre bibliothèque de Modèles.
 
-* Abonnement "Surveillance Marque" 
+*   Abonnement "Surveillance Marque" 
 
 L’abonnement Surveillance Marque vous permet d’obtenir chaque mois un rapport de surveillance tel que décrit à l’article 5.4 des présentes CGUV. 
 
@@ -405,11 +405,11 @@ Les Abonnements peuvent être librement résiliés avant l’expiration de ladit
 
 Les Abonnements sont souscrits, selon les cas, pour une durée d'un (1) an ou d’un (1) mois.
 
-* L'Abonnement "Assistance Legalstart" est souscrit pour une durée déterminée d’un (1) mois, renouvelable par tacite reconduction.
-* L’Abonnement "Comptastart" est souscrit pour une durée déterminée d’un (1) mois ou d’un (1) an, renouvelable par tacite reconduction.
-* L’Abonnement “Recouvrement Privilège” est souscrit pour une durée déterminée d’un (1) mois, renouvelable par tacite reconduction. 
-* L’Abonnement "Service Obligations Juridiques" est souscrit pour une durée déterminée d’un (1) an, renouvelable par tacite reconduction.
-* L'Abonnement "Surveillance Marque" est souscrit pour une durée déterminée d’un (1) an, renouvelable par tacite reconduction.
+*   L'Abonnement "Assistance Legalstart" est souscrit pour une durée déterminée d’un (1) mois, renouvelable par tacite reconduction.
+*   L’Abonnement "Comptastart" est souscrit pour une durée déterminée d’un (1) mois ou d’un (1) an, renouvelable par tacite reconduction.
+*   L’Abonnement “Recouvrement Privilège” est souscrit pour une durée déterminée d’un (1) mois, renouvelable par tacite reconduction. 
+*   L’Abonnement "Service Obligations Juridiques" est souscrit pour une durée déterminée d’un (1) an, renouvelable par tacite reconduction.
+*   L'Abonnement "Surveillance Marque" est souscrit pour une durée déterminée d’un (1) an, renouvelable par tacite reconduction.
 
 ### **5.9.6 Conditions de résiliation des Abonnements**
 
@@ -534,23 +534,23 @@ Toute réclamation de votre part devra être adressée à Yolaw SAS, Services R�
 
 Yolaw ne prendra en compte que les réclamations portant sur les Services. En conséquence, Yolaw ne pourra accueillir favorablement les réclamations portant notamment sur:
 
-* les résultats ou effets produits par les Documents ou Formalités créés ou effectués sur le Site. Par exemple, dans le cadre d’un dépôt de marque, l’Institut National de la Propriété Intellectuelle (INPI) peut déclarer ledit dépôt irrecevable en se fondant sur des motifs dépassant le cadre des Services disponibles sur le Site
-* les délais additionnels pour l’accomplissement de certaines formalités (par exemple : la création d’une société ou d’une association) liés à l’absence de réactivité ou les demandes complémentaires de certaines administrations (greffes, préfectures, etc.) ou des circonstances spécifiques (jours fériés, ponts, grèves, etc.)
-* un changement de décision de votre part concernant l’opportunité ou l’intérêt de créer un Document, d’effectuer une Formalité, de solliciter un Service de Recouvrement ou de souscrire un Abonnement.
+*   les résultats ou effets produits par les Documents ou Formalités créés ou effectués sur le Site. Par exemple, dans le cadre d’un dépôt de marque, l’Institut National de la Propriété Intellectuelle (INPI) peut déclarer ledit dépôt irrecevable en se fondant sur des motifs dépassant le cadre des Services disponibles sur le Site
+*   les délais additionnels pour l’accomplissement de certaines formalités (par exemple : la création d’une société ou d’une association) liés à l’absence de réactivité ou les demandes complémentaires de certaines administrations (greffes, préfectures, etc.) ou des circonstances spécifiques (jours fériés, ponts, grèves, etc.)
+*   un changement de décision de votre part concernant l’opportunité ou l’intérêt de créer un Document, d’effectuer une Formalité, de solliciter un Service de Recouvrement ou de souscrire un Abonnement.
 
 Nous nous engageons à :
 
-* répondre à toute réclamation dans un délai maximum de 5 jours ouvrés à compter de la réception des informations ou documents concernés.
+*   répondre à toute réclamation dans un délai maximum de 5 jours ouvrés à compter de la réception des informations ou documents concernés.
 
 **7.3 Avis clients**
 --------------------
 
 Bien que nos clients ne soient pas des consommateurs, nous tenions à ce que la collecte, modération et restitution des avis clients traités sur le Site soient effectués selon des critères identiques à ceux des avis consommateurs, et ce par Avis Vérifiés en conformité avec la norme NF Z74-501 et les règles de certification NF522. Cette certification par AFNOR Certification démontre qu'Avis Vérifiés s'engage à rassurer les internautes sur l'authenticité des avis en ligne. Pour plus d'informations sur les caractéristiques du contrôle des avis et la possibilité de contacter l'auteur de l'avis, vous pouvez consulter les [**CGU d'Avis Vérifiés**](http://www.avis-verifies.com/index.php?page=mod_conditions_utilisation). Il convient de noter que :
 
-* aucune contrepartie n'a été fournie en échange des avis
-* les avis sont publiés et conservés pendant une durée de cinq ans
-* les avis ne sont pas modifiables : si un client souhaite modifier son avis, il doit contacter Avis Vérifiés afin de supprimer l'avis existant, et en publier un nouveau.
-* les motifs de suppression des avis sont disponibles [**ici**](http://www.avis-verifies.com/index.php?page=mod_conditions_utilisation#Rejet_de_lavis_de_consommateur).
+*   aucune contrepartie n'a été fournie en échange des avis
+*   les avis sont publiés et conservés pendant une durée de cinq ans
+*   les avis ne sont pas modifiables : si un client souhaite modifier son avis, il doit contacter Avis Vérifiés afin de supprimer l'avis existant, et en publier un nouveau.
+*   les motifs de suppression des avis sont disponibles [**ici**](http://www.avis-verifies.com/index.php?page=mod_conditions_utilisation#Rejet_de_lavis_de_consommateur).
 
 Par ailleurs, des avis concernant Yolaw ou les Services peuvent être déposés sur d'autres plateformes de référencement d'avis (par exemple, Google). Yolaw n'exerce aucun contrôle sur ces avis et ne peut en assurer l'authenticité. 
 
@@ -581,8 +581,8 @@ Yolaw fera de son mieux pour assurer l’accès au Site, la disponibilité des S
 
 En tout état de cause : 
 
-* Yolaw n’est pas responsable (i) des dommages qui n'ont pas été directement causés par un manquement de sa part aux présentes CGUV, et (ii) des dommages indirects et des pertes de profit, pertes de chance, de bénéfice, de chiffre d’affaires, d’activité, d’opportunités, de contrats, d’économies espérées, de données, de clientèle, de dépenses superflues, d’atteinte à la réputation ou d’interruption d’activité,  subis par le Client ; 
-* Yolaw ne pourra être tenu responsable en cas d’empêchement ou de retard dans l’exécution de ses obligations, en vertu des présentes CGUV, causé par tout acte ou manquement de votre part (ou de toute personne agissant en votre nom et pour votre compte), d’un tiers ou découlant d’un évènement de force majeure tel que défini ci-après
+*   Yolaw n’est pas responsable (i) des dommages qui n'ont pas été directement causés par un manquement de sa part aux présentes CGUV, et (ii) des dommages indirects et des pertes de profit, pertes de chance, de bénéfice, de chiffre d’affaires, d’activité, d’opportunités, de contrats, d’économies espérées, de données, de clientèle, de dépenses superflues, d’atteinte à la réputation ou d’interruption d’activité,  subis par le Client ; 
+*   Yolaw ne pourra être tenu responsable en cas d’empêchement ou de retard dans l’exécution de ses obligations, en vertu des présentes CGUV, causé par tout acte ou manquement de votre part (ou de toute personne agissant en votre nom et pour votre compte), d’un tiers ou découlant d’un évènement de force majeure tel que défini ci-après
 
 Dans tous les cas, la responsabilité de Yolaw est limitée aux sommes versées par le Client (hors frais administratifs obligatoires) et encaissées par Yolaw pour le Service ayant été à l’origine du dommage du Client.
 
@@ -608,23 +608,23 @@ Vous vous engagez à vous conformer à tout moment lors de l’utilisation des S
 
 Selon les Services, vous êtes autorisé par Yolaw à télécharger un exemplaire du Modèle en question sur un seul ou plusieurs ordinateur(s) et à imprimer les pages, le cas échéant, à condition que vous :
 
-* mainteniez intactes toutes les mentions de droits d’auteur, marques et autres notices de propriété
-* ne copiez pas (sauf pour créer un exemplaire unique pour vos propres besoins de sauvegarde) ou ne créiez pas de documents dérivés basés sur le Modèle (en-dehors de ce qui est expressément autorisé au titre des présentes), en tout ou en partie.
+*   mainteniez intactes toutes les mentions de droits d’auteur, marques et autres notices de propriété
+*   ne copiez pas (sauf pour créer un exemplaire unique pour vos propres besoins de sauvegarde) ou ne créiez pas de documents dérivés basés sur le Modèle (en-dehors de ce qui est expressément autorisé au titre des présentes), en tout ou en partie.
 
 En téléchargeant un Modèle ou en utilisant le Contenu, vous reconnaissez que vous avez uniquement un droit d’utilisation pour votre compte ou pour le compte de votre entreprise. Dans tous les cas, vous vous engagez à ne pas, directement ou indirectement :
 
-* utiliser dans le cadre des Services tout élément ou contenu qui porterait atteinte aux droits de propriété intellectuelle et industrielle, au droit à la vie privée et/ou au droit à l’image et/ou à tout autre droit d’autrui
-* créer, utiliser, partager et/ou publier par tout moyen  dans le cadre des Services tout matériel (texte, propos, images, sons, vidéos, etc.) ou contenu qui aurait, à l’appréciation de Yolaw, un caractère agressif, menaçant, malveillant, diffamatoire, mensonger, pornographique, pédophile, obscène, vulgaire, raciste, xénophobe, incitant à la haine, sexuellement explicite, violent, contraire aux bonnes mœurs ou de toute autre façon contestable
-* créer, utiliser, partager et/ou publier par tout moyen  dans le cadre des Services, tout matériel (texte, propos, images, sons, vidéos, etc.) qui constituerait la violation d’une obligation de confidentialité ou qui inciterait à commettre une activité illicite (notamment, piratage, craquage ou diffusion de logiciels contrefaits)
-* mener des activités visant à accéder à des éléments ou fonctionnalités du Site et/ou des Services dont l’utilisation n’a pas été autorisée par Yolaw
-* arranger, modifier, traduire, adapter, reproduire, indexer, copier et/ou extraire toute information, tout logiciel, tout produit ou tout autre élément ou partie du Contenu, du Site et/ou des Services, par tout moyen sans l’autorisation préalable expresse de Yolaw
-* modifier, fausser, bloquer, alourdir de manière anormale, perturber, ralentir, et/ou entraver le fonctionnement normal de tout ou partie du Site et/ou des Services, ou leur accessibilité aux autres utilisateurs, ou le fonctionnement des réseaux partenaires des Services, ou tenter de faire tout ce qui précède
-* transmettre ou propager tout virus, cheval de Troie, ver, bombe, fichier altéré et/ou dispositif de destruction similaire ou donnée corrompue dans le cadre de l’utilisation du Site et/ou des Services, et/ou organiser, participer ou être impliqué de quelque façon que ce soit dans une attaque contre les serveurs de Yolaw et/ou les Services et/ou les serveurs et/ou services de ses prestataires et partenaires
-* utiliser les Services à des fins d’enquête, de concours, de ventes pyramidales ou opérations similaires, ou d’envoi d’emailing, de spams ou de toute publicité ou élément promotionnel non sollicités, et ce à des fins commerciales ou non
-* utiliser le Compte d’un autre utilisateur du Site, vous faire passer pour une autre personne ou vous attribuer une fausse qualité dans les rapports avec toute personne physique ou morale dans le cadre des Services ou en utilisant les Services et/ou le Site
-* tenter d’obtenir un mot de passe, des informations relatives à un Compte ou d’autres informations d’ordre privé auprès de tout autre utilisateur du Site, et/ou vendre, louer, partager, prêter et/ou de toute autre façon transférer à tout tiers votre Compte et/ou les moyens d’accéder à celui-ci et/ou de toute autre façon faire bénéficier tout tiers de votre Compte
-* faire un usage inapproprié de l’Abonnement LegalStart proposé par Yolaw
-* accéder, utiliser, télécharger à partir des Services ou autrement reproduire ou fournir à quiconque (à titre gratuit ou onéreux) tout annuaire des utilisateurs du Site ou toute autre information relative aux utilisateurs ou à l’utilisation des Services.
+*   utiliser dans le cadre des Services tout élément ou contenu qui porterait atteinte aux droits de propriété intellectuelle et industrielle, au droit à la vie privée et/ou au droit à l’image et/ou à tout autre droit d’autrui
+*   créer, utiliser, partager et/ou publier par tout moyen  dans le cadre des Services tout matériel (texte, propos, images, sons, vidéos, etc.) ou contenu qui aurait, à l’appréciation de Yolaw, un caractère agressif, menaçant, malveillant, diffamatoire, mensonger, pornographique, pédophile, obscène, vulgaire, raciste, xénophobe, incitant à la haine, sexuellement explicite, violent, contraire aux bonnes mœurs ou de toute autre façon contestable
+*   créer, utiliser, partager et/ou publier par tout moyen  dans le cadre des Services, tout matériel (texte, propos, images, sons, vidéos, etc.) qui constituerait la violation d’une obligation de confidentialité ou qui inciterait à commettre une activité illicite (notamment, piratage, craquage ou diffusion de logiciels contrefaits)
+*   mener des activités visant à accéder à des éléments ou fonctionnalités du Site et/ou des Services dont l’utilisation n’a pas été autorisée par Yolaw
+*   arranger, modifier, traduire, adapter, reproduire, indexer, copier et/ou extraire toute information, tout logiciel, tout produit ou tout autre élément ou partie du Contenu, du Site et/ou des Services, par tout moyen sans l’autorisation préalable expresse de Yolaw
+*   modifier, fausser, bloquer, alourdir de manière anormale, perturber, ralentir, et/ou entraver le fonctionnement normal de tout ou partie du Site et/ou des Services, ou leur accessibilité aux autres utilisateurs, ou le fonctionnement des réseaux partenaires des Services, ou tenter de faire tout ce qui précède
+*   transmettre ou propager tout virus, cheval de Troie, ver, bombe, fichier altéré et/ou dispositif de destruction similaire ou donnée corrompue dans le cadre de l’utilisation du Site et/ou des Services, et/ou organiser, participer ou être impliqué de quelque façon que ce soit dans une attaque contre les serveurs de Yolaw et/ou les Services et/ou les serveurs et/ou services de ses prestataires et partenaires
+*   utiliser les Services à des fins d’enquête, de concours, de ventes pyramidales ou opérations similaires, ou d’envoi d’emailing, de spams ou de toute publicité ou élément promotionnel non sollicités, et ce à des fins commerciales ou non
+*   utiliser le Compte d’un autre utilisateur du Site, vous faire passer pour une autre personne ou vous attribuer une fausse qualité dans les rapports avec toute personne physique ou morale dans le cadre des Services ou en utilisant les Services et/ou le Site
+*   tenter d’obtenir un mot de passe, des informations relatives à un Compte ou d’autres informations d’ordre privé auprès de tout autre utilisateur du Site, et/ou vendre, louer, partager, prêter et/ou de toute autre façon transférer à tout tiers votre Compte et/ou les moyens d’accéder à celui-ci et/ou de toute autre façon faire bénéficier tout tiers de votre Compte
+*   faire un usage inapproprié de l’Abonnement LegalStart proposé par Yolaw
+*   accéder, utiliser, télécharger à partir des Services ou autrement reproduire ou fournir à quiconque (à titre gratuit ou onéreux) tout annuaire des utilisateurs du Site ou toute autre information relative aux utilisateurs ou à l’utilisation des Services.
 
 En cas d’abus manifeste de votre part en relation avec les Services, nous nous réservons le droit de bloquer votre Compte, ou votre adresse IP. L’adresse IP peut être utilisée pour vous identifier dans le but de faire respecter les CGUV.
 
