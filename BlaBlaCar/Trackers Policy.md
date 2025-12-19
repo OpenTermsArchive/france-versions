@@ -1,6 +1,6 @@
-* [BlaBlaBlog](https://blog.blablacar.fr/)
-* [Qui sommes-nous ?](https://blog.blablacar.fr/about-us/ "Qui sommes-nous ?")
-* Politique en matière de cookies
+*   [BlaBlaBlog](https://blog.blablacar.fr/)
+*   [Qui sommes-nous ?](https://blog.blablacar.fr/about-us/ "Qui sommes-nous ?")
+*   Politique en matière de cookies
 
 Politique en matière de cookies
 ===============================
@@ -26,15 +26,15 @@ La liste de nos partenaires et les politiques de confidentialité respectives po
 
 Les types de cookies suivants sont utilisés sur nos plateformes :
 
-* **Cookies essentiels :**
+*   **Cookies essentiels :**
 
 Ces cookies sont indispensables pour utiliser BlaBlaCar et ses fonctionnalités de base comme la connexion au compte ou la réservation de trajets. Ils permettent également de prévenir les éventuelles attaques de sécurité. Vous ne pouvez pas les désactiver, car ils sont essentiels au bon fonctionnement de BlaBlaCar.
 
-* **Cookies de performance :**
+*   **Cookies de performance :**
 
 Ces cookies nous permettent de connaître vos comportements en ligne et ainsi optimiser le fonctionnement de nos Plateformes et de mesurer l'audience de nos Plateformes, par exemple en identifiant les pages les plus appréciées et les moins appréciées par nos utilisateurs, ainsi que les plus utiles. Grâce à eux, nous améliorons l'efficacité de nos Plateformes en nous assurant, par exemple, que les utilisateurs trouvent facilement ce qu'ils recherchent. Ces cookies sont déposés par nos partenaires ou par nous-mêmes à des fins d'analyse. Si vous ne les autorisez pas, vous pouvez continuer à utiliser nos Plateformes mais nous aurons moins d'informations nous permettant de construire des Plateformes adaptées aux besoins de nos utilisateurs.
 
-* **Cookies publicitaires et de ciblage :**
+*   **Cookies publicitaires et de ciblage :**
 
 Ces cookies nous informent de votre visite sur la Plateforme, les pages consultées et les liens sur lesquels vous cliquez. Ils nous sont utiles pour vous proposer des publicités pertinentes, et nous aident à analyser l'efficacité de nos campagnes publicitaires. Certaines de vos informations de profil (par exemple, adresse email) peuvent être transmises (sous forme hachée) à nos partenaires afin de vous offrir des publicités ciblées. Ces cookies sont déposés par nos partenaires publicitaires ou par nous-mêmes. Si vous ne les autorisez pas, les publicités proposées correspondront moins à vos besoins.
 
