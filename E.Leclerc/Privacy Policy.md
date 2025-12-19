@@ -25,13 +25,13 @@ Conformément à la réglementation sur les données à caractère personnel, no
 
 Vos données personnelles sont collectées :
 
-1. Lors de votre navigation sur le Site par le biais de traceurs ou cookies,
-2. Lors de la création d'un compte sur le Site et ses éventuels mises à jours et paramétrages,
-3. Lors de l'acte d'achat sur le Site,
-4. Lors de la création d’une carte de fidélité E.Leclerc sur le Site,
-5. Lors de l’envoi de messages au service clients E.Leclerc,
-6. Lors de votre publication de commentaires ou évaluations sur le Site,
-7. Lors de la participation à des jeux concours sur le Site.
+1.  Lors de votre navigation sur le Site par le biais de traceurs ou cookies,
+2.  Lors de la création d'un compte sur le Site et ses éventuels mises à jours et paramétrages,
+3.  Lors de l'acte d'achat sur le Site,
+4.  Lors de la création d’une carte de fidélité E.Leclerc sur le Site,
+5.  Lors de l’envoi de messages au service clients E.Leclerc,
+6.  Lors de votre publication de commentaires ou évaluations sur le Site,
+7.  Lors de la participation à des jeux concours sur le Site.
 
 Nous collectons indirectement vos données issues des avis client publiés initialement sur l'un des sites du Mouvement E.Leclerc pour des produits identiques à ceux vendus par le Site.  
 
