@@ -39,8 +39,8 @@ DANS LA MESURE MAXIMALE AUTORISÉE PAR LA LÉGISLATION EN VIGUEUR, NOUS EXCLUONS
 
 NOUS POURRONS EN AUCUN CAS ÊTRE TENUS RESPONSABLES DE TOUT DOMMAGE DIRECT, PARTICULIER, INDIRECT, ACCIDENTEL, CIRCONSTANCIEL (Y COMPRIS LA PERTE DE REVENUS OU DE BÉNÉFICES), PUNITIF OU EXEMPLAIRE NI SUJET À DES SOLUTIONS ÉQUITABLES OU PAR VOIE D’INJONCTION (QU’ELLES SOIENT FONDÉES SUR UNE VIOLATION DE CONTRAT, UN DÉLIT, UNE NÉGLIGENCE, UNE RESPONSABILITÉ STRICTE OU AUTRE) SUITE À :
 
-* L’ACCÈS OU L’UTILISATION DU PRÉSENT SITE INTERNET, LE RETARD OU L’INCAPACITÉ À UTILISER LE SITE, OU TOUTE INFORMATION CONTENUE DANS CE SITE INTERNET ; OU
-* LA DISPONIBILITÉ ET L’UTILITÉ DES PRODUITS ET SERVICES (EXCEPTÉ LE TRANSPORT AÉRIEN EFFECTUÉ PAR NOS SOINS).
+*   L’ACCÈS OU L’UTILISATION DU PRÉSENT SITE INTERNET, LE RETARD OU L’INCAPACITÉ À UTILISER LE SITE, OU TOUTE INFORMATION CONTENUE DANS CE SITE INTERNET ; OU
+*   LA DISPONIBILITÉ ET L’UTILITÉ DES PRODUITS ET SERVICES (EXCEPTÉ LE TRANSPORT AÉRIEN EFFECTUÉ PAR NOS SOINS).
 
   
 
@@ -71,17 +71,17 @@ Vous acceptez toutes nos conditions générales d’achat, y compris, mais sans 
 
 Vous acceptez de ne pas utiliser le site Internet de façon abusive. « Utilisation abusive » comprend, sans s’y limiter, l’utilisation du site Web pour:
 
-* Diffamer, harceler, poursuivre, menacer, abuser ou violer de toute autre manière les droits d’autrui telle que définie par la législation en vigueur.
-* Nuire à ou interférer dans le fonctionnement d’ordinateurs et de logiciels d’autres personnes de quelque manière que ce soit, y compris, sans s’y limiter, par le chargement, le téléchargement ou la transmission de fichiers corrompus ou de virus informatiques.
-* Violer la propriété intellectuelle, les droits de publicité ou de confidentialité en vigueur, y compris, sans s’y limiter, le chargement, le téléchargement ou la transmission de documents ou de logiciels.
-* Omettre ou dénaturer l’origine ou les droits de tout fichier que vous chargez ou téléchargez, y compris, sans s’y limiter, l’omission de la langue, l’identification d’auteur ou l’avis de brevet, de copyright ou de marque de commerce propriétaire.
-* Transmettre, annoncer ou divulguer par tout moyen des secrets commerciaux ou des documents et informations propriétaires confidentiels ou protégés.
-* Charger ou télécharger des fichiers dont la distribution via le site Internet est illégale.
-* Entraver ou perturber le site Internet ou les serveurs, ou les réseaux connectés au site, y compris tenter d’interférer avec l’accès d’un autre utilisateur, hôte ou réseau, y compris, sans s’y limiter, surcharger, lancer, propager, participer, diriger ou tenter toute attaque de « déni de service », « spamming », « crash », « inondation » ou tout « bombardement de messages » du site Web.
-* Diriger des bots, robots d’indexation, avatars, agents intelligents ou tout autre processus automatisé contre les systèmes informatiques d’Emirates ou créer une charge déraisonnable sur les matériels, les réseaux, les dispositifs de stockage, d’entrée ou de sortie, ou de contrôle électronique ou les infrastructures informatiques d’Emirates.
-* Transmettre toute information ou tout logiciel obtenu via ce site Internet, copier, créer, afficher, distribuer, autoriser, effectuer, publier, recréer, reproduire, vendre ou transférer des travaux provenant du site Web.
-* Utiliser un mot de passe ou un numéro d’identification personnelle fallacieux lors de la connexion au site Web, ou dénaturer son identité ou autorité au nom d’une autre personne.
-* Violer le présent Contrat de toute autre façon.
+*   Diffamer, harceler, poursuivre, menacer, abuser ou violer de toute autre manière les droits d’autrui telle que définie par la législation en vigueur.
+*   Nuire à ou interférer dans le fonctionnement d’ordinateurs et de logiciels d’autres personnes de quelque manière que ce soit, y compris, sans s’y limiter, par le chargement, le téléchargement ou la transmission de fichiers corrompus ou de virus informatiques.
+*   Violer la propriété intellectuelle, les droits de publicité ou de confidentialité en vigueur, y compris, sans s’y limiter, le chargement, le téléchargement ou la transmission de documents ou de logiciels.
+*   Omettre ou dénaturer l’origine ou les droits de tout fichier que vous chargez ou téléchargez, y compris, sans s’y limiter, l’omission de la langue, l’identification d’auteur ou l’avis de brevet, de copyright ou de marque de commerce propriétaire.
+*   Transmettre, annoncer ou divulguer par tout moyen des secrets commerciaux ou des documents et informations propriétaires confidentiels ou protégés.
+*   Charger ou télécharger des fichiers dont la distribution via le site Internet est illégale.
+*   Entraver ou perturber le site Internet ou les serveurs, ou les réseaux connectés au site, y compris tenter d’interférer avec l’accès d’un autre utilisateur, hôte ou réseau, y compris, sans s’y limiter, surcharger, lancer, propager, participer, diriger ou tenter toute attaque de « déni de service », « spamming », « crash », « inondation » ou tout « bombardement de messages » du site Web.
+*   Diriger des bots, robots d’indexation, avatars, agents intelligents ou tout autre processus automatisé contre les systèmes informatiques d’Emirates ou créer une charge déraisonnable sur les matériels, les réseaux, les dispositifs de stockage, d’entrée ou de sortie, ou de contrôle électronique ou les infrastructures informatiques d’Emirates.
+*   Transmettre toute information ou tout logiciel obtenu via ce site Internet, copier, créer, afficher, distribuer, autoriser, effectuer, publier, recréer, reproduire, vendre ou transférer des travaux provenant du site Web.
+*   Utiliser un mot de passe ou un numéro d’identification personnelle fallacieux lors de la connexion au site Web, ou dénaturer son identité ou autorité au nom d’une autre personne.
+*   Violer le présent Contrat de toute autre façon.
 
   
 
