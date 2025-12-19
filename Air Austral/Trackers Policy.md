@@ -7,10 +7,10 @@ Le site www.air-austral.com utilise des cookies. Un cookie est un fichier texte 
 Lorsque vous visitez notre site nous pouvons, selon vos choix exprimés par le paramétrage de votre navigateur, installer divers cookies sur le disque dur de votre ordinateur. Nous pouvons lire les cookies que nous avons installés pendant la durée de validité de chaque cookie ou jusqu'à ce que vous supprimiez ledit cookie.  
 Nous utilisons les cookies pour les finalités suivantes sur notre site:
 
-* Ouverture et fermeture de sessions dans le cadre de la carte d'abonnement (achat, utilisation, réservation…)
-* Choix de l'aéroport de départ de votre préférence
-* Analyse de la performance de notre site à partir d'informations anonymes sur votre navigation (par exemple: pages vues, nombre de visites….). Nous utilisons pour ce faire l'outil d'analyse «Google Analytics».
-* Analyse du partage des pages de notre site à partir d'informations anonymes sur votre navigation. Nous utilisons pour ce faire l'outil «Addthis».
+*   Ouverture et fermeture de sessions dans le cadre de la carte d'abonnement (achat, utilisation, réservation…)
+*   Choix de l'aéroport de départ de votre préférence
+*   Analyse de la performance de notre site à partir d'informations anonymes sur votre navigation (par exemple: pages vues, nombre de visites….). Nous utilisons pour ce faire l'outil d'analyse «Google Analytics».
+*   Analyse du partage des pages de notre site à partir d'informations anonymes sur votre navigation. Nous utilisons pour ce faire l'outil «Addthis».
 
 Les cookies que nous utilisons ne nous permettent pas de vous identifier personnellement et sont conçus pour être utilisés uniquement par Air Austral.  
 Les données recueillies sont conservées par Air Austral pour une durée de 6 mois et ne sont pas cédées à des tiers ni utilisées à d'autres fins.
@@ -40,17 +40,17 @@ Transmission des données API-PNR aux autorités publiques
 
 Conformément aux lois et règlements applicables en France et au niveau international, Air Austral est légalement tenue de collecter et de transmettre certaines données d’identification et de voyage de ses passagers aux autorités publiques françaises (douanes, immigration, police, etc.) et étrangères à des fins de :
 
-* Contrôle aux frontières,
-* Formalités d’immigration,
-* Prévention et lutte contre le terrorisme,
-* Prévention et répression des infractions graves.
+*   Contrôle aux frontières,
+*   Formalités d’immigration,
+*   Prévention et lutte contre le terrorisme,
+*   Prévention et répression des infractions graves.
 
   
 Conformément à l’article L.232-7 du code de la sécurité intérieure, nous vous informons que les transporteurs aériens sont tenus de transmettre les données de réservations, d’enregistrement et d’embarquement de leurs passagers (PNR/API) à l’administration française, selon les modalités de traitement et pour les finalités fixées par le décret n° 2014-1095 du 26/09/2014, modifié par le décret 2018-714 du 03 août 2018 :  
   
 
-* API (Advanced Passenger Information) : données d’identification et informations liées au voyage, collectées au moment de l’enregistrement.
-* PNR (Passenger Name Record) : données de réservation automatiquement transmises par Air Austral.
+*   API (Advanced Passenger Information) : données d’identification et informations liées au voyage, collectées au moment de l’enregistrement.
+*   PNR (Passenger Name Record) : données de réservation automatiquement transmises par Air Austral.
 
   
 Ces transmissions sont effectuées conformément au RGPD et à la Loi Informatique et Libertés. Pour plus d’informations, vous pouvez consulter :  
