@@ -33,12 +33,12 @@ Le **transporteur contractuel** désigne le transporteur avec lequel le passager
 
 La **Convention** désigne toute(s) fondation(s) juridique(s) suivante(s) applicable(s) : 
 
-* la Convention pour l’unification de certaines règles relatives au transport aérien international, signée à Varsovie le 12 octobre 1929 ;
-* la Convention de Varsovie amendée à La Haye le 28 septembre 1955 ;
-* la Convention de Varsovie amendée par le Protocole additionnel N° 1 de Montréal (1975) ;
-* la Convention de Varsovie amendée à la Haye et par le Protocole additionnel de Montréal N° 2 (1975) ;
-* la Convention complémentaire de Guadalajara (1961) ;
-* la Convention pour l’unification de certaines règles relatives au transport aérien international, signée le 28 mai 1999 à Montréal (ci-après dénommée la « Convention de Montréal »).
+*   la Convention pour l’unification de certaines règles relatives au transport aérien international, signée à Varsovie le 12 octobre 1929 ;
+*   la Convention de Varsovie amendée à La Haye le 28 septembre 1955 ;
+*   la Convention de Varsovie amendée par le Protocole additionnel N° 1 de Montréal (1975) ;
+*   la Convention de Varsovie amendée à la Haye et par le Protocole additionnel de Montréal N° 2 (1975) ;
+*   la Convention complémentaire de Guadalajara (1961) ;
+*   la Convention pour l’unification de certaines règles relatives au transport aérien international, signée le 28 mai 1999 à Montréal (ci-après dénommée la « Convention de Montréal »).
 
 Le **coupon** désigne soit un coupon de vol sur support papier, soit un coupon électronique, tous deux vous autorisant à voyager sur le vol mentionné sur ledit coupon
 
