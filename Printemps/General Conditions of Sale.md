@@ -234,6 +234,8 @@
     
 *   [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme)
     
+*   [LUXE ET CRÉATEURS](https://www.printemps.com/fr/fr/luxe-et-createurs-homme)
+    
 *   [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-homme)
     
 *   [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme)
