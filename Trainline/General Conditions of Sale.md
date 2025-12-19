@@ -89,11 +89,11 @@ Informations qui concernent uniquement nos clients italiens
 
 Le groupe Trainline, c'est-à-dire nous, se compose de :
 
-* **Trainline.com Limited**, une société immatriculée en Angleterre (numéro d'immatriculation de la société : 3846791) dont le siège social est situé en plein centre de Londres, au 120 Holborn, London EC1N 2TD ; et
-* **Trainline SAS** est une société par actions simplifiée immatriculée auprès de la chambre de commerce de Paris sous le n° 512 277 450, avec n° de TVA FR 58 512 277 450 et un capital social de 1 766 960,14 €. Son siège social se trouve au cœur de la capitale, au 20 rue Saint-Georges, 75009 Paris.  
-    * Nous sommes immatriculés au registre des opérateurs de voyages et de séjours d'Atout France sous le numéro IM078100022. Atout France se trouve au 79-81 rue de Clichy, 75009 Paris, France.
-    * Notre garantie financière est assurée par Atradius Credit Insurance NV, 44 avenue Georges Pompidou, 92300 Levallois Perret CEDEX, France.
-    * Notre assurance de responsabilité civile est souscrite chez MMA IARD, 14 boulevard Marie et Alexandre Oyon, 72030 Le Mans, France.
+*   **Trainline.com Limited**, une société immatriculée en Angleterre (numéro d'immatriculation de la société : 3846791) dont le siège social est situé en plein centre de Londres, au 120 Holborn, London EC1N 2TD ; et
+*   **Trainline SAS** est une société par actions simplifiée immatriculée auprès de la chambre de commerce de Paris sous le n° 512 277 450, avec n° de TVA FR 58 512 277 450 et un capital social de 1 766 960,14 €. Son siège social se trouve au cœur de la capitale, au 20 rue Saint-Georges, 75009 Paris.  
+    *   Nous sommes immatriculés au registre des opérateurs de voyages et de séjours d'Atout France sous le numéro IM078100022. Atout France se trouve au 79-81 rue de Clichy, 75009 Paris, France.
+    *   Notre garantie financière est assurée par Atradius Credit Insurance NV, 44 avenue Georges Pompidou, 92300 Levallois Perret CEDEX, France.
+    *   Notre assurance de responsabilité civile est souscrite chez MMA IARD, 14 boulevard Marie et Alexandre Oyon, 72030 Le Mans, France.
 
 Chaque fois que nous employons « nous », nous entendons le groupe Trainline. Quand nous employons « vous », nous faisons référence à un « utilisateur » ou « client » de nos services.
 
@@ -234,10 +234,10 @@ Quelle que soit la méthode choisie pour recevoir votre billet, vous devrez êtr
 
 Les [e-billets](https://www.thetrainline.com/information/digital-tickets) sont envoyés par e-mail sous forme de PDF en pièce jointe – vous aurez donc besoin d'un appareil mobile capable d'ouvrir un PDF et disposant d'un accès Internet pour recevoir l'e-mail. Vous pourrez utiliser votre e-billet de l'une des façons suivantes :
 
-* Ouvrez le PDF en pièce jointe et présentez l'e-billet sur votre appareil mobile ;
-* Téléchargez l'e-billet dans notre app ;
-* Téléchargez l'e-billet dans votre Apple Wallet si vous utilisez un appareil Apple compatible et présentez-le dans votre Apple Wallet – l'e-mail que nous vous enverrons contiendra un lien actif ; ou
-* Imprimez l'e-billet.
+*   Ouvrez le PDF en pièce jointe et présentez l'e-billet sur votre appareil mobile ;
+*   Téléchargez l'e-billet dans notre app ;
+*   Téléchargez l'e-billet dans votre Apple Wallet si vous utilisez un appareil Apple compatible et présentez-le dans votre Apple Wallet – l'e-mail que nous vous enverrons contiendra un lien actif ; ou
+*   Imprimez l'e-billet.
 
 Un e-billet peut être utilisé uniquement par un client pour un voyage valide. Il est illégal de modifier et/ou de reproduire un e-billet pour un usage frauduleux. Si deux passagers ou plus présentent le même e-billet pour un voyage avec l'intention de frauder, les deux e-billets peuvent être considérés comme non valables pour le voyage et les passagers peuvent se voir refuser l'accès au train ou au bus. Vous serez tenu(e) responsable de toute utilisation frauduleuse de votre e-billet.
 
@@ -255,10 +255,10 @@ Si vous n'êtes pas en mesure de retirer vos billets (dans le cas où le distrib
 
 Quelle que soit la méthode de livraison choisie, nous enverrons vos billets à l'adresse de livraison indiquée donc faites bien attention à ne pas faire d'erreur.
 
-* Envoi standard par la poste au Royaume-Uni
-* Livraison le jour suivant au Royaume-Uni – Nous utilisons le service Royal Mail Special Delivery. Vous devrez signer au moment de la livraison pour obtenir vos billets. Veuillez noter qu'à cause des restrictions de Royal Mail, la livraison vers certains lieux éloignés pourra prendre plus de temps. Pour plus d'informations, veuillez consulter notre FAQ : [Certains codes postaux sont-ils exclus de la livraison le jour suivant ?](https://support.thetrainline.com/en/support/solutions/articles/78000000547-are-there-any-postcode-restrictions-for-next-day-delivery-)
-* Si vous vivez à l'extérieur du Royaume-Uni, nous vous enverrons vos billets par courrier international
-* Les frais d'envoi applicables vous seront communiqués lorsque vous sélectionnerez l'envoi comme option de livraison.
+*   Envoi standard par la poste au Royaume-Uni
+*   Livraison le jour suivant au Royaume-Uni – Nous utilisons le service Royal Mail Special Delivery. Vous devrez signer au moment de la livraison pour obtenir vos billets. Veuillez noter qu'à cause des restrictions de Royal Mail, la livraison vers certains lieux éloignés pourra prendre plus de temps. Pour plus d'informations, veuillez consulter notre FAQ : [Certains codes postaux sont-ils exclus de la livraison le jour suivant ?](https://support.thetrainline.com/en/support/solutions/articles/78000000547-are-there-any-postcode-restrictions-for-next-day-delivery-)
+*   Si vous vivez à l'extérieur du Royaume-Uni, nous vous enverrons vos billets par courrier international
+*   Les frais d'envoi applicables vous seront communiqués lorsque vous sélectionnerez l'envoi comme option de livraison.
 
 ### 4.7 Billets Eurostar : Advance Passenger Information
 
@@ -266,14 +266,14 @@ Toute personne ayant réservé un billet Eurostar vers ou depuis Londres doit fo
 
  Au moment de la réservation, vous devez fournir les informations suivantes telles qu'elles figurent sur votre passeport :
 
-* Nom complet
-* Date de naissance
-* Genre
-* Nationalité
-* Type de document de voyage
-* Numéro de document de voyage
-* Pays émetteur du document de voyage
-* Date d'expiration du document de voyage
+*   Nom complet
+*   Date de naissance
+*   Genre
+*   Nationalité
+*   Type de document de voyage
+*   Numéro de document de voyage
+*   Pays émetteur du document de voyage
+*   Date d'expiration du document de voyage
 
 Il vous incombe de saisir vos API et de vous assurer qu'elles sont correctes.
 
@@ -304,10 +304,10 @@ Nous vous proposons différentes façons d'obtenir votre abonnement, qu'il s'agi
 
 Vous devrez acheter un billet supplémentaire valable pour le trajet souhaité avant de voyager si votre abonnement :
 
-* a expiré
-* ne couvre pas l'intégralité de votre trajet
-* a été oublié ; ou
-* s'il s'agit d'un abonnement pour la classe Standard et que vous souhaitez voyager en Première classe.
+*   a expiré
+*   ne couvre pas l'intégralité de votre trajet
+*   a été oublié ; ou
+*   s'il s'agit d'un abonnement pour la classe Standard et que vous souhaitez voyager en Première classe.
 
 Si vous n'êtes pas en possession du bon billet ou abonnement, vous pourriez écoper d'une amende. Veuillez consulter les conditions générales de voyage de National Rail (que nous appellerons « [NRCoT](https://www.nationalrail.co.uk/National%20Rail%20Conditions%20of%20Travel.pdf) ») si vous souhaitez en savoir plus sur les amendes.
 
@@ -331,10 +331,10 @@ Si votre abonnement de remplacement est perdu ou volé, nous pouvons en émettre
 
 Vous pouvez faire une demande de remboursement pour la portion restante de votre abonnement si :
 
-* La période de validité de 28 jours du Flexi Season Ticket n'a pas encore expiré et qu'il reste des Day Pass non utilisés ;
-* La période de validité restante de votre abonnement hebdomadaire est de trois jours ou plus ;
-* La période de validité restante de votre abonnement mensuel ou personnalisé est de sept jours ou plus ; ou si
-* La période de validité restante de votre abonnement annuel est de deux mois ou plus.
+*   La période de validité de 28 jours du Flexi Season Ticket n'a pas encore expiré et qu'il reste des Day Pass non utilisés ;
+*   La période de validité restante de votre abonnement hebdomadaire est de trois jours ou plus ;
+*   La période de validité restante de votre abonnement mensuel ou personnalisé est de sept jours ou plus ; ou si
+*   La période de validité restante de votre abonnement annuel est de deux mois ou plus.
 
 Pour calculer le remboursement des abonnements papier, nous supposons que la période restante commence trois jours avant la date de réception de l'abonnement retourné. Pour les abonnements numériques, nous déterminons la date en fonction des informations que nous transmet le transporteur ou Transport for London (selon le cas). Si vous n'avez pas pu demander un remboursement de votre abonnement au moment où vous avez cessé de l'utiliser car vous étiez malade, nous pouvons nous baser sur la date de début de votre maladie pour calculer le montant du remboursement. Toutefois, vous devez être en mesure de nous fournir [un certificat médical ou un autre document attestant de votre maladie](https://support.thetrainline.com/en/support/solutions/articles/78000000390-can-i-get-a-refund-on-my-season-ticket-).
 
@@ -352,9 +352,9 @@ Nous nous réservons le droit de refuser le remboursement d'un abonnement si nou
 
 **Comment demander le remboursement de votre abonnement :**
 
-1. [Connectez-vous](https://www.thetrainline.com/fr/my-account/login) au compte associé à votre abonnement.
-2. Sélectionnez votre abonnement « Actif » et cliquez sur « Remboursement » en bas à gauche.
-3. Téléchargez, imprimez et remplissez le formulaire de demande de remboursement et envoyez-le avec votre Season ticket physique à l'adresse ci-dessous :
+1.  [Connectez-vous](https://www.thetrainline.com/fr/my-account/login) au compte associé à votre abonnement.
+2.  Sélectionnez votre abonnement « Actif » et cliquez sur « Remboursement » en bas à gauche.
+3.  Téléchargez, imprimez et remplissez le formulaire de demande de remboursement et envoyez-le avec votre Season ticket physique à l'adresse ci-dessous :
     
     Seasons Department  
     PO Box 23971  
@@ -385,26 +385,26 @@ Nous acceptons tous les moyens de paiement suivants :
 
 **Livres sterling (£)**
 
-* Cartes de paiement (Visa, MasterCard, American Express, Diners Club, Maestro)
-* PayPal
-* Apple Pay
-* Google Pay
+*   Cartes de paiement (Visa, MasterCard, American Express, Diners Club, Maestro)
+*   PayPal
+*   Apple Pay
+*   Google Pay
 
 **Euros (€)**
 
-* Cartes de paiement (Visa, MasterCard, American Express, Maestro)
-* PayPal
-* Apple Pay
-* Google Pay
-* Sofort (en Allemagne)
-* Ideal (aux Pays-Bas)
+*   Cartes de paiement (Visa, MasterCard, American Express, Maestro)
+*   PayPal
+*   Apple Pay
+*   Google Pay
+*   Sofort (en Allemagne)
+*   Ideal (aux Pays-Bas)
 
 **Dollar américain ($) / Dollar australien (A$) / Dollar canadien (C$) / Franc suisse (CHF) / Couronne suédoise (SEK) / Couronne danoise (DKK) / Couronne norvégienne (NOK) / Yen japonais (JPY)**
 
-* Cartes de paiement (pour toutes les devises listées ci-dessus : Visa, Mastercard, Maestro ; pour toutes les devises listées ci-dessus à l'exception de JPY : American Express)
-* PayPal (à l'exception de NOK, JPY et DKK pour le moment)
-* Apple Pay
-* Google Pay
+*   Cartes de paiement (pour toutes les devises listées ci-dessus : Visa, Mastercard, Maestro ; pour toutes les devises listées ci-dessus à l'exception de JPY : American Express)
+*   PayPal (à l'exception de NOK, JPY et DKK pour le moment)
+*   Apple Pay
+*   Google Pay
 
 Nous n'acceptons le paiement en liquide ou par chèque dans aucune devise.
 
@@ -499,9 +499,9 @@ Selon le type de billet, il se peut que nous devions vous facturer des frais fix
 
 Certains trajets réservés sur notre plateforme peuvent inclure une traversée en ferry. C’est le cas des services SailRail opérés en partenariat avec Irish Ferries et Stena Line. Les conditions météorologiques peuvent avoir des répercussions importantes sur les traversées. Nous vous recommandons de vérifier les heures de départ et d’arrivée de votre ferry directement auprès de la compagnie avant votre voyage.
 
-* Pour connaître les dernières informations sur les traversées de Stena Line, veuillez consulter : https://www.stenaline.co.uk/customer-service/latest-sailing-updates
+*   Pour connaître les dernières informations sur les traversées de Stena Line, veuillez consulter : https://www.stenaline.co.uk/customer-service/latest-sailing-updates
     
-* Pour connaître les dernières informations sur les traversées d’Irish Ferries (Dublin ↔ Holyhead), veuillez consulter : https://www.irishferries.com/fr/sailing-updates/dublin-holyhead/
+*   Pour connaître les dernières informations sur les traversées d’Irish Ferries (Dublin ↔ Holyhead), veuillez consulter : https://www.irishferries.com/fr/sailing-updates/dublin-holyhead/
 
 Trainline n’est pas responsable des retards, annulations ou modifications effectuées par les compagnies de ferry tierces.
 
@@ -612,9 +612,9 @@ Vous devez avoir entre 16 et 25 ans pour acheter cette Carte de réduction. Si v
 
 Un tarif minimum s'applique pour les Cartes de réduction 16-25 Railcard entre 4 h 30 et 10 h 00 du lundi au vendredi. Pendant cette période, la réduction peut uniquement s'appliquer aux tarifs dépassant le tarif minimum. Le tarif minimum ne s'applique pas aux :
 
-* Billets Advance ; ni aux
-* trajets effectués lors d'un jour férié ; ni aux
-* trajets effectués en juillet ou en août.
+*   Billets Advance ; ni aux
+*   trajets effectués lors d'un jour férié ; ni aux
+*   trajets effectués en juillet ou en août.
 
 [Veuillez cliquer ici pour voir le tarif minimum.](https://www.thetrainline.com/trains/great-britain/railcards/terms-of-use) Le tarif minimum est susceptible d'être modifié pendant la période de validité de votre Carte de réduction.
 
@@ -628,8 +628,8 @@ Vous devez avoir entre 26 et 30 ans pour acheter cette Carte de réduction. Si 
 
 Un tarif minimum s'applique pour les Cartes de réduction 26-30 Railcard entre 4 h 30 et 10 h 00 du lundi au vendredi. Pendant cette période, la réduction peut uniquement s'appliquer aux tarifs dépassant le tarif minimum. Le tarif minimum ne s'applique pas aux :
 
-* Billets Advance ; ni aux
-* trajets effectués lors d'un jour férié.
+*   Billets Advance ; ni aux
+*   trajets effectués lors d'un jour férié.
 
 [Veuillez cliquer ici pour voir le tarif minimum.](https://www.thetrainline.com/trains/great-britain/railcards/terms-of-use) Le tarif minimum est susceptible d'être modifié pendant la période de validité de votre Carte de réduction.
 
@@ -663,16 +663,16 @@ Vous pouvez utiliser votre Annual Gold Card pour des trajets qui commencent et q
 
 L'Annual Gold Card vous permet de bénéficier d'une réduction de 1/3 sur les éléments suivants :
 
-* Les billets Off-Peak et Anytime en 2nde et 1ère classes pour vous et jusqu'à 3 adultes voyageant avec vous.
-* Les cartes Off-Peak Day Travelcard en zones 1 à 6.
-* Les tarifs Off-Peak aller simple avec paiement au trajet (« Pay As You Go ») sur la carte Oyster Card et les plafonds tarifaires journaliers avec paiement au trajet pour les trajets en train National Rail et Transport for London, et dans les métros de Londres et DLR. La réduction Annual Gold Card devra être appliquée sur une Oyster Card. Vous pouvez demander au personnel aux stations et gares du métro de Londres et Transport for London d'appliquer la réduction pour vous.
-* Les cartes Anytime Day Travelcards lorsqu’elles sont achetées dans le cadre de votre billet pour Londres depuis une gare hors de Londres en zone 1 à 9 (sous réserve de restrictions horaires et d'un tarif minimal de 17 £).
-* Billets journaliers [PlusBus](https://www.nationalrail.co.uk/tickets-railcards-and-offers/connecting-travel/plusbus/) dans la zone Network Railcard.
+*   Les billets Off-Peak et Anytime en 2nde et 1ère classes pour vous et jusqu'à 3 adultes voyageant avec vous.
+*   Les cartes Off-Peak Day Travelcard en zones 1 à 6.
+*   Les tarifs Off-Peak aller simple avec paiement au trajet (« Pay As You Go ») sur la carte Oyster Card et les plafonds tarifaires journaliers avec paiement au trajet pour les trajets en train National Rail et Transport for London, et dans les métros de Londres et DLR. La réduction Annual Gold Card devra être appliquée sur une Oyster Card. Vous pouvez demander au personnel aux stations et gares du métro de Londres et Transport for London d'appliquer la réduction pour vous.
+*   Les cartes Anytime Day Travelcards lorsqu’elles sont achetées dans le cadre de votre billet pour Londres depuis une gare hors de Londres en zone 1 à 9 (sous réserve de restrictions horaires et d'un tarif minimal de 17 £).
+*   Billets journaliers [PlusBus](https://www.nationalrail.co.uk/tickets-railcards-and-offers/connecting-travel/plusbus/) dans la zone Network Railcard.
 
 Elle offre également les avantages suivants :
 
-* Jusqu'à 60 % de réduction sur les tarifs pour enfant pour un maximum de 4 enfants âgés de 5 à 15 ans (sous réserve d'un tarif minimal de 1 £).
-* Les enfants de moins de 5 ans voyagent gratuitement.
+*   Jusqu'à 60 % de réduction sur les tarifs pour enfant pour un maximum de 4 enfants âgés de 5 à 15 ans (sous réserve d'un tarif minimal de 1 £).
+*   Les enfants de moins de 5 ans voyagent gratuitement.
 
 [Cliquez ici pour voir tous les avantages et les conditions générales de vente complètes de l'Annual Gold Card.](https://assets.nationalrail.co.uk/e8xgegruud3g/51bPajGYH4h3fibvYEW8PE/1638f9a3f26f139a75fdd1d175c7b0c6/AGC_Terms_Conditions_2023.pdf)
 
@@ -705,9 +705,9 @@ Nous pouvons choisir de proposer à nos clients basés dans certains territoires
 
 Pour résumer :
 
-1. Lorsque vous parrainez un ami éligible (Filleul) pour qu'il réserve un trajet sur Trainline pour la première fois, vous lui envoyez un lien. En fonction de votre territoire géographique, il est possible que le lien ne soit valable que pour une plateforme ou une période de temps en particulier (par exemple, sur l'application uniquement, pendant 3 mois). Vous (le Parrain) recevrez le Code Promo une fois que la réservation aura été effectuée par le Filleul (vous ne pourrez recevoir qu'un nombre limité de Codes Promo sur 24 heures et par an, tel que cela est mentionné dans les conditions générales d'utilisation de Mention Me).
-2. Lorsque le Filleul réserve son premier billet de train avec Trainline à l'aide du lien que vous lui avez envoyé (dans le délai requis), il bénéficie de la réduction indiquée dans le programme « Parrainer un ami » (laquelle peut être soumise à un montant maximal).
-3. Une fois que le Filleul a effectué la réservation (et s'il ne l'a pas annulée), vous (le Parrain) recevez un Code Promo vous offrant une réduction définie dans le programme « Parrainer un ami » (laquelle peut être soumise à un montant maximal et doit être utilisée dans le délai imparti) à utiliser sur la réservation d'un billet de train dans l'application Trainline.
+1.  Lorsque vous parrainez un ami éligible (Filleul) pour qu'il réserve un trajet sur Trainline pour la première fois, vous lui envoyez un lien. En fonction de votre territoire géographique, il est possible que le lien ne soit valable que pour une plateforme ou une période de temps en particulier (par exemple, sur l'application uniquement, pendant 3 mois). Vous (le Parrain) recevrez le Code Promo une fois que la réservation aura été effectuée par le Filleul (vous ne pourrez recevoir qu'un nombre limité de Codes Promo sur 24 heures et par an, tel que cela est mentionné dans les conditions générales d'utilisation de Mention Me).
+2.  Lorsque le Filleul réserve son premier billet de train avec Trainline à l'aide du lien que vous lui avez envoyé (dans le délai requis), il bénéficie de la réduction indiquée dans le programme « Parrainer un ami » (laquelle peut être soumise à un montant maximal).
+3.  Une fois que le Filleul a effectué la réservation (et s'il ne l'a pas annulée), vous (le Parrain) recevez un Code Promo vous offrant une réduction définie dans le programme « Parrainer un ami » (laquelle peut être soumise à un montant maximal et doit être utilisée dans le délai imparti) à utiliser sur la réservation d'un billet de train dans l'application Trainline.
 
 Notez que le programme « Parrainer un ami » (y compris le montant de la réduction et la date d'expiration du Code Promo) peut varier en fonction d'une part du territoire, et d'autre part dans le temps. Afin d'être éligible au programme « Parrainer un ami », chaque ami que vous parrainez (en tant que Parrain) doit être un nouveau client de Trainline, être âgé de plus de 18 ans et résider dans un territoire où le programme est disponible.
 
@@ -787,14 +787,14 @@ Un code promo Trainline est une réduction unique d'un montant spécifié, que v
 
 Les conditions et restrictions suivantes s'appliquent à chaque offre de code promo :
 
-* Vous devez avoir, ou créer, un compte Trainline.
-* Chaque code promo doit être utilisé dans son intégralité et ne peut être combiné à une autre offre Trainline.
-* Les codes promo ne peuvent pas être utilisés pour l'achat de billets pour voyager avec CAT, Deutsche Bahn ou Renfe.
-* Les codes promo ne s'appliquent pas aux éventuels frais de réservation ni à la TVA payable sur les billets.
-* Si vous effectuez un achat éligible parmi les services que nous proposons en utilisant un code promo et qu'un remboursement vous est ensuite accordé :
-    * vous perdrez votre code promo ;
-    * seul le montant payé sera remboursé (vous ne recevrez aucun remboursement pour la valeur du code promo).
-* Si vous échangez votre ou vos billets, vous pourrez conserver votre code promo, mais vous devrez payer la différence de prix, ainsi que les frais d'échange éventuels.
+*   Vous devez avoir, ou créer, un compte Trainline.
+*   Chaque code promo doit être utilisé dans son intégralité et ne peut être combiné à une autre offre Trainline.
+*   Les codes promo ne peuvent pas être utilisés pour l'achat de billets pour voyager avec CAT, Deutsche Bahn ou Renfe.
+*   Les codes promo ne s'appliquent pas aux éventuels frais de réservation ni à la TVA payable sur les billets.
+*   Si vous effectuez un achat éligible parmi les services que nous proposons en utilisant un code promo et qu'un remboursement vous est ensuite accordé :
+    *   vous perdrez votre code promo ;
+    *   seul le montant payé sera remboursé (vous ne recevrez aucun remboursement pour la valeur du code promo).
+*   Si vous échangez votre ou vos billets, vous pourrez conserver votre code promo, mais vous devrez payer la différence de prix, ainsi que les frais d'échange éventuels.
 
 Nous nous réservons le droit de refuser l'émission d'un code promo ou d'une offre de code promo à tout moment et de modifier à tout moment et sans préavis tout ou partie des éléments de chaque offre.
 
@@ -817,9 +817,9 @@ Pour en savoir plus, consultez la [FAQ](https://www.thetrainline.com/fr/informat
 
 En utilisant notre service de réservation ou en réservant avec nous, vous reconnaissez que :
 
-* vous avez reçu ces Conditions générales de vente de façon claire ;
-* vous acceptez la version la plus récente de ces conditions dans son intégralité ; et que
-* vous vous engagez à payer les billets que vous réservez.
+*   vous avez reçu ces Conditions générales de vente de façon claire ;
+*   vous acceptez la version la plus récente de ces conditions dans son intégralité ; et que
+*   vous vous engagez à payer les billets que vous réservez.
 
 Nous tenons à rester pertinents, c'est pourquoi ces conditions générales pourront être modifiées à l'avenir. Mais nous ne comptons pas sur vos pouvoirs de divination – la version qui s'applique à votre réservation est celle qui sera disponible sur notre site et nos applications au moment de la réservation. Si vous n'acceptez pas les Conditions générales de vente les plus récentes, vous devez cesser d'utiliser le service de réservation.
 
@@ -853,12 +853,12 @@ Nos équipes tech travaillent en permanence sur de nouvelles fonctionnalités ce
 
 Vous n'avez pas le droit d'entreprendre les activités suivantes :
 
-* D'utiliser tout appareil, logiciel, agents automatisés, scripts ou routine pour pirater ou essayer de pirater ou d'interférer avec notre service de réservation ou le système de sécurité de nos sites web ou applications, ou de créer de multiples comptes, ou d'effacer, enlever ou d'analyser les données de notre service de réservation.
-* De modifier, détruire ou télécharger du contenu (excepté dans les cas où nous vous le demandons, par exemple : envoi d'une photo au moment d'acheter une Carte de réduction) sur notre service de réservation. Cela vaut également pour les tentatives de modification, de destruction ou de téléchargement de contenu (excepté dans les cas où nous vous le demandons).
-* D'utiliser ou de tenter d'utiliser tout moteur, logiciel, outil, agent ou autre dispositif ou mécanisme (à l'exception des outils de recherche fournis par Trainline, de tout navigateur web tiers disponible sur le marché ou de tout logiciel conçu pour améliorer l'accessibilité) pour effectuer des recherches ou des commandes sur le service de réservation.
-* D'utiliser le service de réservation pour collecter ou stocker les données personnelles d'autres utilisateurs sans leur consentement.
-* De modifier, copier, de faire des travaux dérivés, ou d'inverser la compilation de n’importe quelle partie du service de réservation ou d'accéder au service de réservation afin de construire un site ou service similaire ou concurrent.
-* D'utiliser tous moyens électroniques, y compris, mais sans s'y limiter, des robots, des araignées, des scripts ou tout autre outil automatique, pour accéder au service de réservation. De surveiller et copier les pages du service de réservation autres que les activités normales des moteurs de recherche disponibles sur le marché.
+*   D'utiliser tout appareil, logiciel, agents automatisés, scripts ou routine pour pirater ou essayer de pirater ou d'interférer avec notre service de réservation ou le système de sécurité de nos sites web ou applications, ou de créer de multiples comptes, ou d'effacer, enlever ou d'analyser les données de notre service de réservation.
+*   De modifier, détruire ou télécharger du contenu (excepté dans les cas où nous vous le demandons, par exemple : envoi d'une photo au moment d'acheter une Carte de réduction) sur notre service de réservation. Cela vaut également pour les tentatives de modification, de destruction ou de téléchargement de contenu (excepté dans les cas où nous vous le demandons).
+*   D'utiliser ou de tenter d'utiliser tout moteur, logiciel, outil, agent ou autre dispositif ou mécanisme (à l'exception des outils de recherche fournis par Trainline, de tout navigateur web tiers disponible sur le marché ou de tout logiciel conçu pour améliorer l'accessibilité) pour effectuer des recherches ou des commandes sur le service de réservation.
+*   D'utiliser le service de réservation pour collecter ou stocker les données personnelles d'autres utilisateurs sans leur consentement.
+*   De modifier, copier, de faire des travaux dérivés, ou d'inverser la compilation de n’importe quelle partie du service de réservation ou d'accéder au service de réservation afin de construire un site ou service similaire ou concurrent.
+*   D'utiliser tous moyens électroniques, y compris, mais sans s'y limiter, des robots, des araignées, des scripts ou tout autre outil automatique, pour accéder au service de réservation. De surveiller et copier les pages du service de réservation autres que les activités normales des moteurs de recherche disponibles sur le marché.
 
 ### 12.3 Réglementation Linked Travel Arrangements (prestation de voyages liées)
 
@@ -1017,23 +1017,23 @@ Nous ne sommes pas responsables des pertes ou des dommages qui ne sont pas prév
 
 Vous pouvez déposer une réclamation, en italien ou en anglais, de l'une des façons suivantes :
 
-* Remplissez le [formulaire Web](https://support.thetrainline.com/it/support/tickets/new) prévu à cet effet. Donnez autant d'informations que possible, pour que nous puissions transmettre votre requête à la bonne personne et vous apporter la meilleure réponse possible. Veuillez indiquer au moins les informations suivantes :
+*   Remplissez le [formulaire Web](https://support.thetrainline.com/it/support/tickets/new) prévu à cet effet. Donnez autant d'informations que possible, pour que nous puissions transmettre votre requête à la bonne personne et vous apporter la meilleure réponse possible. Veuillez indiquer au moins les informations suivantes :
 
 a. Des informations nous permettant de vous identifier : 
 
-* * Votre nom
-    * Votre adresse e-mail
+*   *   Votre nom
+    *   Votre adresse e-mail
 
 b. Des informations nous permettant d'identifier le trajet que vous avez effectué ou que vous avez planifié : 
 
-* * Heure de départ
-    * Origine 
-    * Destination 
-    * Références de réservation (si applicable)
+*   *   Heure de départ
+    *   Origine 
+    *   Destination 
+    *   Références de réservation (si applicable)
 
 c. Une description de votre réclamation, en indiquant l'incohérence constatée du service par rapport à une ou plusieurs clauses définies dans la législation européenne ou nationale, ou dans les conditions générales de Trainline 
 
-* **Appelez-nous** aux numéros et aux horaires indiqués [**ici**](https://www.thetrainline.com/it/terms#contact). Veuillez noter que vous ne pouvez pas nous appeler pour faire une réservation. Le coût de l'appel dépend de la tarification appliquée par votre opérateur.  
+*   **Appelez-nous** aux numéros et aux horaires indiqués [**ici**](https://www.thetrainline.com/it/terms#contact). Veuillez noter que vous ne pouvez pas nous appeler pour faire une réservation. Le coût de l'appel dépend de la tarification appliquée par votre opérateur.  
     
 
 Nous ne pouvons discuter des détails de la réservation qu'avec la personne qui a effectué la réservation, pour des raisons de protection des données. Et n'oubliez pas votre référence de réservation, elle nous aidera à trouver votre trajet.
@@ -1046,16 +1046,16 @@ Nous fournissons une réponse positive ou négative à chaque réclamation en in
 
 Vous aurez droit aux indemnisations automatiques suivantes :
 
-* Remboursement du prix payé pour le billet faisant l'objet de la réclamation, plus 10 % de ce prix, si nous répondons à la réclamation dans un délai de 91 à 120 jours à compter de la réception de la réclamation
-* Remboursement du prix payé pour le billet faisant l'objet de la réclamation, plus 35 % de ce prix, si nous ne répondons pas à la réclamation dans un délai de 120 jours à compter de la réception de la réclamation
+*   Remboursement du prix payé pour le billet faisant l'objet de la réclamation, plus 10 % de ce prix, si nous répondons à la réclamation dans un délai de 91 à 120 jours à compter de la réception de la réclamation
+*   Remboursement du prix payé pour le billet faisant l'objet de la réclamation, plus 35 % de ce prix, si nous ne répondons pas à la réclamation dans un délai de 120 jours à compter de la réception de la réclamation
 
 La somme sera versée sur le moyen de paiement utilisé lors de l'achat.
 
 En tout état de cause, l'indemnisation en cas de réponse tardive n'a pas lieu dans les conditions suivantes :
 
-* Le montant de l'indemnisation est inférieur à 4 €.
-* La réclamation n'est pas envoyée de manière conforme et/ou n'inclut pas le minimum d'informations requis comme indiqué ci-dessus.
-* Le passager a déjà reçu une indemnisation automatique pour une réponse tardive ou une absence de réponse à une réclamation concernant le même trajet​.
+*   Le montant de l'indemnisation est inférieur à 4 €.
+*   La réclamation n'est pas envoyée de manière conforme et/ou n'inclut pas le minimum d'informations requis comme indiqué ci-dessus.
+*   Le passager a déjà reçu une indemnisation automatique pour une réponse tardive ou une absence de réponse à une réclamation concernant le même trajet​.
 
 **Procédure de conciliation**​
 
@@ -1065,5 +1065,5 @@ Trainline n'a pas signé d'accord spécifique pour l'utilisation d'un organisme 
 
 Uniquement après nous avoir envoyé votre réclamation, vous pouvez soumettre une deuxième réclamation (en italien ou en anglais) à l'Autorité italienne de régulation des transports par courrier à l'adresse Via Nizza 230 – 10126 Turin, par e-mail certifié à l'adresse​ [pec@pec.autorita-trasporti.it](mailto:pec@pec.autorita-trasporti.it), ou en remplissant le formulaire disponible sur le site Web​ [www.autorita-trasporti.it/site/](http://www.autorita-trasporti.it/site/) :
 
-* si vous n'êtes pas satisfait des réponses reçues de notre part ; ou​
-* si vous n'avez pas reçu de réponse de notre part dans un délai de 30 jours à compter de la date d'envoi de la réclamation​.
+*   si vous n'êtes pas satisfait des réponses reçues de notre part ; ou​
+*   si vous n'avez pas reçu de réponse de notre part dans un délai de 30 jours à compter de la date d'envoi de la réclamation​.
