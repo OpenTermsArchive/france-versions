@@ -8,9 +8,9 @@
 
 Cette politique de confidentialité respecte les dispositions du Règlement (EU) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 sur la protection des personnes physiques quant au traitement des données à caractère personnel et sur la libre circulation de ces données (plus loin, « RGPD ») ; ainsi qu’à la législation espagnole sur la protection des données 3/2018 ; et à tout autre règlement local les complétant.
 
-* Les données à caractère personnel représentent toute information relative à une personne physique identifiée ou identifiable.
+*   Les données à caractère personnel représentent toute information relative à une personne physique identifiée ou identifiable.
     
-* Le traitement fait référence à toute opération ou ensemble d’opérations appliquées à des données ou ensembles de données à caractère personnel, de manière automatisée ou non.
+*   Le traitement fait référence à toute opération ou ensemble d’opérations appliquées à des données ou ensembles de données à caractère personnel, de manière automatisée ou non.
     
 
 Nous expliquerons ci-dessous, de manière claire et transparente, quand et comment nous accédons, rassemblons, partageons et protégeons vos données à caractère personnel provenant de l’utilisation d’un véhicule avec accès Internet et de nos services mobiles en ligne.
@@ -39,19 +39,19 @@ Les données et objectifs spécifiques du traitement des données dépendent de 
 
 La liste et les spécifications de l’ensemble des fonctions disponibles, indépendamment du modèle de votre véhicule et de la version précise du logiciel, ne sont fournies qu’aux fins de cette politique de confidentialité et ne suggèrent en rien une extension éventuelle des fonctions ou du champ d’application de votre véhicule propre.
 
-* **Numéro d’identification du véhicule (VIN) :** Chaque véhicule dispose d’un numéro d’identification unique qui peut être utilisé pour identifier son propriétaire.
+*   **Numéro d’identification du véhicule (VIN) :** Chaque véhicule dispose d’un numéro d’identification unique qui peut être utilisé pour identifier son propriétaire.
     
-* **Données de référence du véhicule :** Numéro d’immatriculation, modèle, type de véhicule, numéro SIM, adresse IP, etc.
+*   **Données de référence du véhicule :** Numéro d’immatriculation, modèle, type de véhicule, numéro SIM, adresse IP, etc.
     
-* **Capteurs et indicateurs du véhicule :** par ex. vitesse, kilométrage, accélération, conditions ambiantes, pression des pneus, niveau de charge de la batterie, système de freinage, etc. Ces données sont nécessaires à l’entretien, à la sécurité, à la conformité et au fonctionnement corrects du véhicule.
+*   **Capteurs et indicateurs du véhicule :** par ex. vitesse, kilométrage, accélération, conditions ambiantes, pression des pneus, niveau de charge de la batterie, système de freinage, etc. Ces données sont nécessaires à l’entretien, à la sécurité, à la conformité et au fonctionnement corrects du véhicule.
     
-* \*\*Paramètres du véhicule et fonctions d’infodivertissement \*\*: par ex. positions des sièges et du volant, réglages du châssis, climatisation, aide à la conduite et systèmes d’information au conducteur, paramètres du combiné d’instruments et du système d'infodivertissement, etc.
+*   \*\*Paramètres du véhicule et fonctions d’infodivertissement \*\*: par ex. positions des sièges et du volant, réglages du châssis, climatisation, aide à la conduite et systèmes d’information au conducteur, paramètres du combiné d’instruments et du système d'infodivertissement, etc.
     
-* \*\*Emplacement du véhicule \*\*: Dans le cadre de l’utilisation des services légalement requis (par ex. l’appel d’urgence), ainsi que pour certains des services en ligne ou de l’application, nous traiterons votre emplacement/localisation GPS.
+*   \*\*Emplacement du véhicule \*\*: Dans le cadre de l’utilisation des services légalement requis (par ex. l’appel d’urgence), ainsi que pour certains des services en ligne ou de l’application, nous traiterons votre emplacement/localisation GPS.
     
-* **Comptes utilisateurs :** Informations relatives aux comptes utilisateurs (identification personnelle) et aux connexions au véhicule.
+*   **Comptes utilisateurs :** Informations relatives aux comptes utilisateurs (identification personnelle) et aux connexions au véhicule.
     
-* \*\*Utilisation d’applications, de dispositifs et de services en ligne \*\*: Informations relatives au mode d’utilisation de votre dispositif (application mobile et véhicule) et des services en ligne qu’il propose, par exemple la localisation.
+*   \*\*Utilisation d’applications, de dispositifs et de services en ligne \*\*: Informations relatives au mode d’utilisation de votre dispositif (application mobile et véhicule) et des services en ligne qu’il propose, par exemple la localisation.
     
 
 **5\. OBJECTIFS ET BASES LÉGALES :**
@@ -64,8 +64,8 @@ Votre véhicule envoie certaines données à nos systèmes informatiques ou à c
 
 Données à caractère personnel traitées :
 
-* VIN
-* Données de référence du véhicule
+*   VIN
+*   Données de référence du véhicule
 
 Bases légales : Respect des obligations légales en tant que constructeur automobile (Art. 6.1.c GDPR), ainsi que de notre intérêt légitime pour éliminer les perturbations, garantir la sécurité du système et détecter des tentatives d’accès inadmissibles (Art. 6.1.f du RGPD).
 
@@ -75,10 +75,10 @@ Le « Service d’appel d’urgence » fonctionne dans les modes en ligne et h
 
 Données à caractère personnel traitées :
 
-* VIN
-* Données de référence du véhicule
-* Localisation (GPS/emplacement).
-* Nombre de personnes dans le véhicule.
+*   VIN
+*   Données de référence du véhicule
+*   Localisation (GPS/emplacement).
+*   Nombre de personnes dans le véhicule.
 
 Bases légales : Protection des intérêts vitaux (Art. 6.1.d. du RGPD), ainsi que conformité à une obligation légale (Art. 6.1.c du RGPD).
 
@@ -88,14 +88,14 @@ CONNECT offre aux utilisateurs une vaste série de fonctions en ligne multimédi
 
 Données à caractère personnel traitées :
 
-* VIN
-* Données d’identification
-* Données de compte utilisateur
-* Données de contrat
-* Localisation (GPS/emplacement)
-* Alertes du véhicule et données des capteurs : vitesse, localisation, informations routières, état de charge de la batterie, capteurs du véhicule, etc.
-* Paramètres du véhicule et fonctions d’infodivertissement
-* Utilisation d’applications, de dispositifs et de services en ligne
+*   VIN
+*   Données d’identification
+*   Données de compte utilisateur
+*   Données de contrat
+*   Localisation (GPS/emplacement)
+*   Alertes du véhicule et données des capteurs : vitesse, localisation, informations routières, état de charge de la batterie, capteurs du véhicule, etc.
+*   Paramètres du véhicule et fonctions d’infodivertissement
+*   Utilisation d’applications, de dispositifs et de services en ligne
 
 Bases légales : Exécution du contrat CONNECT (Art. 6.1.b du RGPD), pour l’utilisateur principal et tous les autres utilisateurs, notre intérêt légitime dans la mise à disposition des services en ligne pour tous les utilisateurs autorisés par le principal (Art. 6.1.f du RGPD).
 
@@ -105,8 +105,8 @@ Un contrôle d’identité est nécessaire avant d’utiliser les services mobil
 
 Données à caractère personnel traitées :
 
-* Données de compte
-* Données biométriques
+*   Données de compte
+*   Données biométriques
 
 En guise d’alternative, le processus d’identification peut être réalisé sur site auprès de n’importe quel atelier autorisé offrant ce service. Sur site, notre atelier d’entretien autorisé aura besoin de votre permis de conduire pour contrôler et comparer vos données.
 
@@ -118,10 +118,10 @@ En guise d’alternative, le processus d’identification peut être réalisé a
 
 Données à caractère personnel traitées :
 
-* Données d’identification
-* Données de compte
-* Coordonnées
-* Données relatives au pays / à la langue
+*   Données d’identification
+*   Données de compte
+*   Coordonnées
+*   Données relatives au pays / à la langue
 
 Bases légales : Notre intérêt légitime (article 6.1.f du RGPD) pour gérer vos demandes et vous contacter pour répondre à votre demande, question ou réclamation spécifique.
 
@@ -131,8 +131,8 @@ Afin de garantir l’utilisation à long terme du système d’infodivertissemen
 
 Données à caractère personnel traitées :
 
-* VIN
-* Données de référence du véhicule
+*   VIN
+*   Données de référence du véhicule
 
 Bases légales : Notre intérêt légitime dans la mise à disposition des mises à jour à distance en ligne, afin de résoudre les écarts techniques du véhicule, vise à assurer la conformité du véhicule (Art. 6.1.f du RGPD) et votre consentement spécifique (Art. 6.1.a du RGPD), si vous êtes enregistré dans la voiture et que vous choisissez l’option de recevoir et télécharger des mises à jour automatiques du véhicule.
 
@@ -142,10 +142,10 @@ Nous analyserons les informations et les données relatives aux systèmes du vé
 
 Données à caractère personnel traitées :
 
-* VIN
-* Localisation GPS/Emplacement
-* Données de référence du véhicule
-* Capteurs et indicateurs du véhicule
+*   VIN
+*   Localisation GPS/Emplacement
+*   Données de référence du véhicule
+*   Capteurs et indicateurs du véhicule
 
 Bases légales : Votre consentement préalable à travers les services de l’application (Art. 6.1.a du RGPD).
 
@@ -155,9 +155,9 @@ Nous surveillerons l’état du véhicule et les alertes transmises par celui-ci
 
 Données à caractère personnel traitées :
 
-* VIN
-* Données de référence du véhicule
-* Capteurs et indicateurs du véhicule
+*   VIN
+*   Données de référence du véhicule
+*   Capteurs et indicateurs du véhicule
 
 Bases légales : Votre consentement préalable à travers les services de l’application (Art. 6.1.a du RGPD).
 
@@ -167,10 +167,10 @@ Nous traitons vos données afin d’aider les autorités policières, en cas de 
 
 Données à caractère personnel traitées :
 
-* Données d’identification
-* Données de compte
-* Coordonnées
-* Données relatives au pays / à la langue
+*   Données d’identification
+*   Données de compte
+*   Coordonnées
+*   Données relatives au pays / à la langue
 
 Bases légales : Respect des obligations légales (Art. 6.1.c du RGPD), en tant que constructeur automobile, ainsi que notre intérêt légitime (Art. 6.1.f du RGPD) pour garantir une acquisition sûre de nos produits.
 
@@ -180,10 +180,10 @@ Nous pouvons traiter vos données et les communiquer aux entités du groupe Volk
 
 Données à caractère personnel traitées :
 
-* VIN
-* Données de référence du véhicule
-* Localisation (GPS/emplacement)
-* Alertes du véhicule et données des capteurs
+*   VIN
+*   Données de référence du véhicule
+*   Localisation (GPS/emplacement)
+*   Alertes du véhicule et données des capteurs
 
 Bases légales : Notre intérêt légitime (Art. 6.1.f du RGPD) pour optimiser nos processus après-vente, ainsi que l’exécution des mesures contractuelles (Art. 6.1.c du RGPD). Pour plus d’informations, veuillez nous contacter à l’adresse [dataprotection@seat.es](mailto:dataprotection@seat.es)
 
@@ -207,11 +207,11 @@ Dans le cadre de l’appartenance au Volkswagen Group, nous donnons accès à vo
 
 Nous pourrons également communiquer les données de votre véhicule et vos données à caractère personnel à notre Réseau de service et concessionnaires, agissant en tant que responsables indépendants du traitement des données, dans les cas suivants :
 
-* Rappels de véhicules : Dans certains cas, couverts par la loi, comme les réparations et rappels juridiques de véhicules.
+*   Rappels de véhicules : Dans certains cas, couverts par la loi, comme les réparations et rappels juridiques de véhicules.
     
-* Maintenance du véhicule en ligne : Si vous avez volontairement choisi un concessionnaire ou service officiel dans l’application, il pourra recevoir des alertes d’entretien automatiques concernant votre véhicule, dont des alertes spécifiques aux modèles prédictifs du véhicule, afin de détecter les interventions d’entretien correspondantes et programmer un rendez-vous d’entretien avec vous.
+*   Maintenance du véhicule en ligne : Si vous avez volontairement choisi un concessionnaire ou service officiel dans l’application, il pourra recevoir des alertes d’entretien automatiques concernant votre véhicule, dont des alertes spécifiques aux modèles prédictifs du véhicule, afin de détecter les interventions d’entretien correspondantes et programmer un rendez-vous d’entretien avec vous.
     
-* Conclusion du processus de vente : Si vous avez été conseillé par votre partenaire de service, une fois votre contrat pour des services mobiles en ligne conclu, ce dernier recevra une prime. Celle-ci est traitée par la société de distribution (l’importateur dans votre pays) responsable de votre pays. C’est pour cette raison que le partenaire de service et l’importateur reçoivent le VIN pour assigner les primes aux contrats respectifs et recevoir le paiement correspondant. (art. 6.1. f du RGPD).
+*   Conclusion du processus de vente : Si vous avez été conseillé par votre partenaire de service, une fois votre contrat pour des services mobiles en ligne conclu, ce dernier recevra une prime. Celle-ci est traitée par la société de distribution (l’importateur dans votre pays) responsable de votre pays. C’est pour cette raison que le partenaire de service et l’importateur reçoivent le VIN pour assigner les primes aux contrats respectifs et recevoir le paiement correspondant. (art. 6.1. f du RGPD).
     
 
 **9\. TRANSFERTS DE DONNÉES**
@@ -230,10 +230,10 @@ Droit d’opposition au traitement : Vous pouvez demander que vos données à c
 
 Droit de limitation du traitement : Vous pouvez demander la limitation du traitement de vos données dans les cas suivants :
 
-* Lorsque l’exactitude de vos données est contestée ;
-* Lorsque le traitement est illégal, vous vous opposez à l'effacement de vos données et demandez la limitation de leur utilisation ;
-* Lorsque SEAT/CUPRA n’a pas besoin de traiter vos données, mais que vous en avez besoin pour exercer ou vous défendre lors de réclamations éventuelles ;
-* Lorsque vous vous êtes opposé au traitement de vos données pour la réalisation d’une mission d’intérêt public ou pour la satisfaction d’un intérêt légitime, en attendant de vérifier si les motifs légitimes du traitement l'emportent sur les vôtres.
+*   Lorsque l’exactitude de vos données est contestée ;
+*   Lorsque le traitement est illégal, vous vous opposez à l'effacement de vos données et demandez la limitation de leur utilisation ;
+*   Lorsque SEAT/CUPRA n’a pas besoin de traiter vos données, mais que vous en avez besoin pour exercer ou vous défendre lors de réclamations éventuelles ;
+*   Lorsque vous vous êtes opposé au traitement de vos données pour la réalisation d’une mission d’intérêt public ou pour la satisfaction d’un intérêt légitime, en attendant de vérifier si les motifs légitimes du traitement l'emportent sur les vôtres.
 
 Droit de portabilité : Vous pouvez recevoir, au format électronique, les données à caractère personnel que vous nous avez fournies, ainsi que les données qui ont été obtenues à partir de votre relation contractuelle avec SEAT/CUPRA ; vous pouvez également les transférer à une autre entité.
 
