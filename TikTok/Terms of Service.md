@@ -20,8 +20,8 @@ _En résumé : Il s’agit d’un contrat conclu entre vous et TikTok. Vous dev
 
 La société avec laquelle vous concluez un contrat dépend de votre lieu de résidence ou de votre lieu d’activité principal :
 
-* Si vous résidez dans l’un des pays de l’[Espace économique européen (« EEE »)](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)#:~:text=The%20European%20Economic%20Area%2C%20abbreviated,force%20on%201%20January%201994.) ou en Suisse, votre contrat est conclu avec TikTok Technology Limited. Cette société est immatriculée en République d’Irlande, dont le siège social est sis The Sorting Office, Ropemaker Place, Dublin 2, D02 HD23, Irlande et dont le numéro d’immatriculation est 635755.
-* Si vous résidez au Royaume-Uni, votre contrat est conclu avec TikTok Information Technologies UK Limited. Cette société est immatriculée en Angleterre dont le siège social est sis 4 Lindsey Street, Barbican, Londres, EC1A 9HP, Royaume-Uni et dont le numéro d’immatriculation est 10165711.
+*   Si vous résidez dans l’un des pays de l’[Espace économique européen (« EEE »)](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_\(EEA\)#:~:text=The%20European%20Economic%20Area%2C%20abbreviated,force%20on%201%20January%201994.) ou en Suisse, votre contrat est conclu avec TikTok Technology Limited. Cette société est immatriculée en République d’Irlande, dont le siège social est sis The Sorting Office, Ropemaker Place, Dublin 2, D02 HD23, Irlande et dont le numéro d’immatriculation est 635755.
+*   Si vous résidez au Royaume-Uni, votre contrat est conclu avec TikTok Information Technologies UK Limited. Cette société est immatriculée en Angleterre dont le siège social est sis 4 Lindsey Street, Barbican, Londres, EC1A 9HP, Royaume-Uni et dont le numéro d’immatriculation est 10165711.
 
 Nous, ainsi que les sociétés qui nous sont affiliées (telles que TikTok Information Technologies UK Limited, TikTok Inc. et TikTok Pte. Ltd.) (« **Sociétés affiliées** ») fournissons la Plateforme dans le monde entier.
 
@@ -39,14 +39,14 @@ _En résumé : Les présentes Conditions s’appliquent à votre utilisation de
 
 Les conditions et politiques supplémentaires ci-dessous s’appliquent à certains produits ou fonctionnalités de la Plateforme, ou si vous utilisez la Plateforme à des fins professionnelles ou commerciales. Lorsqu’elles s’appliquent, elles font partie des présentes Conditions et de votre contrat avec nous et vous devez les respecter et vous y conformer.
 
-* [Politique relative aux articles virtuels](https://www.tiktok.com/legal/coin-policy-eea) : Elle régit l’achat et l’utilisation d’articles virtuels qui vous permettent de montrer votre appréciation du contenu, ou d’activer ou d’accéder à des fonctionnalités sur la Plateforme.
-* [Politique relative aux récompenses](https://www.tiktok.com/legal/rewards-policy-eea) : Elle régit la réception de récompenses de la part de TikTok.
-* [Conditions d’utilisation de musiques](https://www.tiktok.com/legal/music-terms-eea) : Elles s’appliquent lorsque vous publiez du contenu sur la Plateforme qui inclut de la musique provenant de la bibliothèque musicale TikTok ou de votre appareil personnel.
-* [Conditions d'utilisation de la bibliothèque de musiques commerciales](https://www.tiktok.com/legal/commercial-music-library-user-terms) : Elles s’appliquent si vous êtes une entité commerciale ou si vous publiez du contenu sur la Plateforme qui inclut de la musique provenant de la Bibliothèque de musiques commerciales.
-* [Politique en matière de propriété intellectuelle](https://www.tiktok.com/legal/copyright-policy) : Elle s’applique à tout le contenu de la Plateforme qui est protégé par des droits de propriété intellectuelle.
-* Conditions d’utilisation de TikTok Shop : Elles s’appliquent lorsque vous utilisez TikTok Shop (le cas échéant). Ces conditions diffèrent en fonction de votre lieu de résidence : [Royaume-Uni](https://seller-uk.tiktok.com/university/essay?knowledge_id=2216927998527265&default_language=en-GB&identity=1), [Irlande](https://seller-ie.tiktok.com/university/essay?knowledge_id=2225681119987488&article_type=agreement&identity=1), [Espagne](https://seller-es.tiktok.com/university/essay?knowledge_id=2225681120462624&article_type=agreement&identity=1), [Allemagne](https://seller-de.tiktok.com/university/essay?knowledge_id=2252085245052705&article_type=agreement&identity=1), [France](https://seller-fr.tiktok.com/university/essay?knowledge_id=2225681120511776&article_type=agreement&identity=1) et [Italie](https://seller-it.tiktok.com/university/essay?knowledge_id=2214599635371809&article_type=agreement&identity=1).
-* [Politique relative au contenu commercial](https://www.tiktok.com/legal/bc-policy) : Elle s’applique lorsque vous publiez du contenu sur la Plateforme faisant la promotion d’une marque tierce ou de ses produits ou services en échange d’un paiement ou de toute autre contrepartie.
-* [Conditions d'utilisation professionnelles](https://www.tiktok.com/legal/business-terms-eea) : Elles s’appliquent si vous utilisez la Plateforme à des fins commerciales, professionnelles, artisanales ou professionnelles. Cela inclut l’administration d’un compte pour le compte d’une entreprise.
+*   [Politique relative aux articles virtuels](https://www.tiktok.com/legal/coin-policy-eea) : Elle régit l’achat et l’utilisation d’articles virtuels qui vous permettent de montrer votre appréciation du contenu, ou d’activer ou d’accéder à des fonctionnalités sur la Plateforme.
+*   [Politique relative aux récompenses](https://www.tiktok.com/legal/rewards-policy-eea) : Elle régit la réception de récompenses de la part de TikTok.
+*   [Conditions d’utilisation de musiques](https://www.tiktok.com/legal/music-terms-eea) : Elles s’appliquent lorsque vous publiez du contenu sur la Plateforme qui inclut de la musique provenant de la bibliothèque musicale TikTok ou de votre appareil personnel.
+*   [Conditions d'utilisation de la bibliothèque de musiques commerciales](https://www.tiktok.com/legal/commercial-music-library-user-terms) : Elles s’appliquent si vous êtes une entité commerciale ou si vous publiez du contenu sur la Plateforme qui inclut de la musique provenant de la Bibliothèque de musiques commerciales.
+*   [Politique en matière de propriété intellectuelle](https://www.tiktok.com/legal/copyright-policy) : Elle s’applique à tout le contenu de la Plateforme qui est protégé par des droits de propriété intellectuelle.
+*   Conditions d’utilisation de TikTok Shop : Elles s’appliquent lorsque vous utilisez TikTok Shop (le cas échéant). Ces conditions diffèrent en fonction de votre lieu de résidence : [Royaume-Uni](https://seller-uk.tiktok.com/university/essay?knowledge_id=2216927998527265&default_language=en-GB&identity=1), [Irlande](https://seller-ie.tiktok.com/university/essay?knowledge_id=2225681119987488&article_type=agreement&identity=1), [Espagne](https://seller-es.tiktok.com/university/essay?knowledge_id=2225681120462624&article_type=agreement&identity=1), [Allemagne](https://seller-de.tiktok.com/university/essay?knowledge_id=2252085245052705&article_type=agreement&identity=1), [France](https://seller-fr.tiktok.com/university/essay?knowledge_id=2225681120511776&article_type=agreement&identity=1) et [Italie](https://seller-it.tiktok.com/university/essay?knowledge_id=2214599635371809&article_type=agreement&identity=1).
+*   [Politique relative au contenu commercial](https://www.tiktok.com/legal/bc-policy) : Elle s’applique lorsque vous publiez du contenu sur la Plateforme faisant la promotion d’une marque tierce ou de ses produits ou services en échange d’un paiement ou de toute autre contrepartie.
+*   [Conditions d'utilisation professionnelles](https://www.tiktok.com/legal/business-terms-eea) : Elles s’appliquent si vous utilisez la Plateforme à des fins commerciales, professionnelles, artisanales ou professionnelles. Cela inclut l’administration d’un compte pour le compte d’une entreprise.
 
 Si vous résidez dans l’EEE et utilisez notre service de messageries directes, veuillez lire ces [informations précontractuelles](https://www.tiktok.com/legal/direct-messaging-contract-information) et le [résumé du contrat](https://www.tiktok.com/legal/direct-messaging-contract-summary). Nous vous recommandons de conserver une copie de ces documents pour vos archives.
 
@@ -80,9 +80,9 @@ Pour accéder à toutes les fonctionnalités de la Plateforme, vous devez créer
 
 Lorsque vous créez un compte :
 
-* vous devez fournir des informations exactes et à jour vous concernant (comme votre date de naissance) ;
-* votre compte, le contenu et les réglages de la Plateforme seront synchronisés sur la Plateforme et sur chaque application TikTok. Par exemple, lorsque vous créez un compte via TikTok, vous pourrez accéder à toutes les autres applications TikTok disponibles dans votre pays à l’aide de ce compte.
-* vous acceptez de mettre à jour rapidement ces informations si elles viennent à changer. Veuillez consulter notre [Centre d’aide](https://support.tiktok.com/en/) pour obtenir des informations sur l’ouverture d’un compte. Toutes les modifications que vous apportez à ces détails, contenus ou paramètres seront également synchronisées sur la Plateforme.
+*   vous devez fournir des informations exactes et à jour vous concernant (comme votre date de naissance) ;
+*   votre compte, le contenu et les réglages de la Plateforme seront synchronisés sur la Plateforme et sur chaque application TikTok. Par exemple, lorsque vous créez un compte via TikTok, vous pourrez accéder à toutes les autres applications TikTok disponibles dans votre pays à l’aide de ce compte.
+*   vous acceptez de mettre à jour rapidement ces informations si elles viennent à changer. Veuillez consulter notre [Centre d’aide](https://support.tiktok.com/en/) pour obtenir des informations sur l’ouverture d’un compte. Toutes les modifications que vous apportez à ces détails, contenus ou paramètres seront également synchronisées sur la Plateforme.
 
 Il est important que vous preniez des mesures raisonnables pour sécuriser le mot de passe de votre compte et que vous ne le divulguiez à aucun tiers. Si vous savez, ou soupçonnez, qu’un tiers connaît votre mot de passe ou a accédé à votre compte, veuillez nous en informer immédiatement [ici](https://www.tiktok.com/legal/report/feedback?lang=en).
 
@@ -98,25 +98,25 @@ _En résumé : Vous devez avoir au moins 13 ans pour utiliser notre Plateforme
 
 Vous pouvez utiliser la Plateforme pour :
 
-* créer et partager du contenu ;
-* interagir avec d’autres utilisateurs ;
-* afficher le contenu créé par d’autres ; et
-* utiliser les autres paramètres et fonctionnalités que nous mettons à disposition de temps à autre.
+*   créer et partager du contenu ;
+*   interagir avec d’autres utilisateurs ;
+*   afficher le contenu créé par d’autres ; et
+*   utiliser les autres paramètres et fonctionnalités que nous mettons à disposition de temps à autre.
 
 Veuillez consulter notre [Centre d’aide](https://support.tiktok.com/en/) pour plus d’informations sur les fonctionnalités de la Plateforme et sur leur utilisation.
 
 L’autorisation que nous vous donnons :
 
-* est limitée à ce que nous avons indiqué être autorisé dans les présentes Conditions ;
-* est valable uniquement pour vous ;
-* ne peut être donnée à personne d’autre par vous ; et
-* peut être retirée par nous pour les raisons autorisées dans les présentes Conditions.
+*   est limitée à ce que nous avons indiqué être autorisé dans les présentes Conditions ;
+*   est valable uniquement pour vous ;
+*   ne peut être donnée à personne d’autre par vous ; et
+*   peut être retirée par nous pour les raisons autorisées dans les présentes Conditions.
 
 L’accès à certaines fonctionnalités de la Plateforme dépend de votre âge. Par exemple :
 
-* Messageries directes : Vous devez être âgé de 16 ans ou plus pour utiliser la fonction de messageries directes.
-* TikTok LIVE : Vous devez être âgé(e) de 18 ans ou plus pour pouvoir diffuser des contenus en direct (« Live ») et utiliser les fonctionnalités relatives à la diffusion en direct.
-* Articles virtuels : Vous devez avoir au moins 18 ans pour interagir avec des articles virtuels.
+*   Messageries directes : Vous devez être âgé de 16 ans ou plus pour utiliser la fonction de messageries directes.
+*   TikTok LIVE : Vous devez être âgé(e) de 18 ans ou plus pour pouvoir diffuser des contenus en direct (« Live ») et utiliser les fonctionnalités relatives à la diffusion en direct.
+*   Articles virtuels : Vous devez avoir au moins 18 ans pour interagir avec des articles virtuels.
 
 _En résumé : Vous pouvez faire beaucoup de choses sur notre Plateforme, y compris créer et partager du contenu et interagir avec d’autres personnes et leur contenu. Cependant, il se peut que vous ne puissiez pas utiliser toutes les fonctionnalités si vous n’êtes pas assez âgé._
 
@@ -126,25 +126,25 @@ Nos [Directives communautaires](https://www.tiktok.com/community-guidelines?lang
 
 De même, vous ne devez pas utiliser la Plateforme pour :
 
-* faire quoi que ce soit d’illégal (y compris publier, diffuser en direct du contenu illégal) ;
-* faire quoi que ce soit qui viole les lois, réglementations ou exigences applicables là où vous vivez ou là où nous opérons, y compris les lois ou réglementations relatives à la lutte contre la corruption, le blanchiment d’argent, le financement du terrorisme, les contrôles des importations, les contrôles des exportations et les sanctions économiques ;
-* échanger avec d’autres personnes, y compris des mineurs, de manière abusive ou inappropriée ;
-* porter atteinte au fonctionnement ou à la sécurité de la Plateforme ;
-* vous livrer à des comportements commerciaux inauthentiques tels que l’exploitation de comptes de spam ou d’usurpation d’identité ;
-* soumettre des appels, des rapports, des avis ou des réclamations qui sont clairement infondés ;
-* extraire des données ou du contenu de la Plateforme à l’aide d’un système automatisé ou d’un logiciel qui n’est pas fourni par TikTok ou approuvé par écrit par TikTok ;
-* utiliser ou tenter d’utiliser le compte d’un autre utilisateur sans son autorisation ;
-* vous engager dans une activité de faux avis (y compris publier des avis qui ne reflètent pas votre véritable expérience, payer d’autres personnes pour publier de faux avis ou offrir des services pour faciliter les faux avis). Consultez notre Politique relative aux avis [ici](https://www.tiktok.com/legal/reviews-policy?lang=en) ; ou
-* publier, diffuser en direct ou autrement distribuer tout contenu sur la Plateforme qui :
+*   faire quoi que ce soit d’illégal (y compris publier, diffuser en direct du contenu illégal) ;
+*   faire quoi que ce soit qui viole les lois, réglementations ou exigences applicables là où vous vivez ou là où nous opérons, y compris les lois ou réglementations relatives à la lutte contre la corruption, le blanchiment d’argent, le financement du terrorisme, les contrôles des importations, les contrôles des exportations et les sanctions économiques ;
+*   échanger avec d’autres personnes, y compris des mineurs, de manière abusive ou inappropriée ;
+*   porter atteinte au fonctionnement ou à la sécurité de la Plateforme ;
+*   vous livrer à des comportements commerciaux inauthentiques tels que l’exploitation de comptes de spam ou d’usurpation d’identité ;
+*   soumettre des appels, des rapports, des avis ou des réclamations qui sont clairement infondés ;
+*   extraire des données ou du contenu de la Plateforme à l’aide d’un système automatisé ou d’un logiciel qui n’est pas fourni par TikTok ou approuvé par écrit par TikTok ;
+*   utiliser ou tenter d’utiliser le compte d’un autre utilisateur sans son autorisation ;
+*   vous engager dans une activité de faux avis (y compris publier des avis qui ne reflètent pas votre véritable expérience, payer d’autres personnes pour publier de faux avis ou offrir des services pour faciliter les faux avis). Consultez notre Politique relative aux avis [ici](https://www.tiktok.com/legal/reviews-policy?lang=en) ; ou
+*   publier, diffuser en direct ou autrement distribuer tout contenu sur la Plateforme qui :
 
-* enfreint les droits de toute autre personne (tels que la propriété intellectuelle, la vie privée et/ou les droits moraux des personnes vivantes ou décédées),
-* constitue, encourage ou donne des instructions visant à commettre une infraction pénale ou des activités dangereuses qui peuvent entraîner des blessures graves, la mort ou une automutilation ;
-* diffuse des fausses informations nuisibles, telles que des fausses informations incitant à la haine ou à des préjugés, ou des informations erronées sur les élections susceptibles d'induire en erreur ou d'influencer indûment les élections ou d'autres processus civiques ;
-* contient une menace de quelque nature que ce soit, ou qui intimide ou harcèle d’autres personnes, ou est susceptible d'intimider ou de harceler d'autres personnes. y compris la publication de tout contenu destiné à se moquer, humilier, embarrasser, intimider ou affecter une personne ;
-* est obscène, pornographique ou qui promeut des contenus sexuellement explicites (par ex. en redirigeant vers des sites Web pour adultes ou pornographiques),
-* est haineux ou provocateur ;
-* contient ou promeut la violence ou la discrimination fondée sur la race, l’origine ethnique, la nationalité, la religion, la caste, l’orientation sexuelle, le sexe, l’identité sexuelle, la maladie grave, le handicap, le statut d’immigration ou l’âge ; ou
-* contient autrement du contenu nocif (tel que du contenu qui cause un préjudice physique, mental ou moral aux mineurs).
+*   enfreint les droits de toute autre personne (tels que la propriété intellectuelle, la vie privée et/ou les droits moraux des personnes vivantes ou décédées),
+*   constitue, encourage ou donne des instructions visant à commettre une infraction pénale ou des activités dangereuses qui peuvent entraîner des blessures graves, la mort ou une automutilation ;
+*   diffuse des fausses informations nuisibles, telles que des fausses informations incitant à la haine ou à des préjugés, ou des informations erronées sur les élections susceptibles d'induire en erreur ou d'influencer indûment les élections ou d'autres processus civiques ;
+*   contient une menace de quelque nature que ce soit, ou qui intimide ou harcèle d’autres personnes, ou est susceptible d'intimider ou de harceler d'autres personnes. y compris la publication de tout contenu destiné à se moquer, humilier, embarrasser, intimider ou affecter une personne ;
+*   est obscène, pornographique ou qui promeut des contenus sexuellement explicites (par ex. en redirigeant vers des sites Web pour adultes ou pornographiques),
+*   est haineux ou provocateur ;
+*   contient ou promeut la violence ou la discrimination fondée sur la race, l’origine ethnique, la nationalité, la religion, la caste, l’orientation sexuelle, le sexe, l’identité sexuelle, la maladie grave, le handicap, le statut d’immigration ou l’âge ; ou
+*   contient autrement du contenu nocif (tel que du contenu qui cause un préjudice physique, mental ou moral aux mineurs).
 
 Vous pouvez signaler tout contenu suspecté d’être illégal ou qui enfreint les présentes Conditions générales d’utilisation ou nos Directives communautaires, par le biais des fonctionnalités de signalement fournies sur la Plateforme ou [ici](https://www.tiktok.com/legal/report/feedback?lang=en).
 
@@ -154,15 +154,15 @@ _En résumé : Vous pouvez profiter de notre Plateforme mais, dans l’intérê
 
 Il est important que vous compreniez ce qu’il advient du contenu que vous créez, publiez ou partagez sur la Plateforme :
 
-* Vous êtes responsable du contenu que vous mettez à disposition sur la Plateforme et vous devez disposer de tous les droits nécessaires pour le créer, le publier ou le partager.
-* Le contenu que vous créez, publiez ou partagez via un service TikTok peut être automatiquement partagé sur la Plateforme.
-* Nous examinons le contenu de manière proactive et réactive. Par exemple, nous avons des systèmes pour détecter le contenu qui enfreint nos règles et nous répondons aux avis des utilisateurs et des autorités. Pour ce faire, nous déployons une combinaison de technologies et de modérateurs humains. Notre approche concernant la modération du contenu est expliquée [ici](https://www.tiktok.com/transparency/en/content-moderation/) (les informations figurant sur cette page font partie des présentes Conditions).
-* Nous pouvons restreindre ou supprimer l’accès à tout contenu, y compris le vôtre, si nous pensons raisonnablement (i) qu’il est en violation des présentes Conditions ou de nos [Directives communautaires](https://www.tiktok.com/community-guidelines?lang=en), ou (ii) qu’il nous cause un préjudice, à nous, à nos Sociétés affiliées, à d’autres utilisateurs ou à des tiers. Nos Directives communautaires énoncent comment le contenu peut être supprimé ou restreint sur la Plateforme.
-* Si nous supprimons ou restreignons l’accès à votre contenu, nous vous en informerons sans retard injustifié et vous indiquerons les motifs de notre décision, sauf si cela n’est pas approprié pour nous (par exemple, nous sommes légalement empêchés de le faire).
-* Si vous pensez que nous avons commis une erreur en supprimant ou en limitant l’accès à votre contenu, vous pouvez faire appel par le biais des fonctionnalités fournies sur la Plateforme. Ce faisant, nous examinerons notre décision et en prendrons une nouvelle. Vous trouverez plus d’informations sur la manière de soumettre un appel, notre processus de traitement des réclamations et d’autres options de recours [ici](https://www.tiktok.com/legal/page/global/compliant-handling-eea/en) (les informations sur cette page font partie des présentes Conditions).
-* Vous êtes libre de supprimer votre contenu de la Plateforme à tout moment.
-* Si d’autres utilisateurs de la Plateforme ont utilisé votre contenu pour créer du nouveau contenu (par ex. en utilisant les fonctionnalités Duet ou Stitch), alors ce nouveau contenu peut rester sur la Plateforme même si vous supprimez ultérieurement votre contenu ou votre compte. De même, s’ils ont partagé votre contenu sur des services tiers, votre contenu peut rester sur le service tiers après que vous ayez supprimé votre contenu ou votre compte sur la Plateforme. Vous pouvez faire une demande distincte pour les vidéos Duet ou Stitch qui contiennent votre contenu à supprimer.
-* Vous pouvez restreindre la façon dont d’autres utilisateurs interagissent avec votre contenu et l’utilisent dans les paramètres de votre Plateforme. Vous devez consulter ces paramètres avant de publier du contenu sur la Plateforme.
+*   Vous êtes responsable du contenu que vous mettez à disposition sur la Plateforme et vous devez disposer de tous les droits nécessaires pour le créer, le publier ou le partager.
+*   Le contenu que vous créez, publiez ou partagez via un service TikTok peut être automatiquement partagé sur la Plateforme.
+*   Nous examinons le contenu de manière proactive et réactive. Par exemple, nous avons des systèmes pour détecter le contenu qui enfreint nos règles et nous répondons aux avis des utilisateurs et des autorités. Pour ce faire, nous déployons une combinaison de technologies et de modérateurs humains. Notre approche concernant la modération du contenu est expliquée [ici](https://www.tiktok.com/transparency/en/content-moderation/) (les informations figurant sur cette page font partie des présentes Conditions).
+*   Nous pouvons restreindre ou supprimer l’accès à tout contenu, y compris le vôtre, si nous pensons raisonnablement (i) qu’il est en violation des présentes Conditions ou de nos [Directives communautaires](https://www.tiktok.com/community-guidelines?lang=en), ou (ii) qu’il nous cause un préjudice, à nous, à nos Sociétés affiliées, à d’autres utilisateurs ou à des tiers. Nos Directives communautaires énoncent comment le contenu peut être supprimé ou restreint sur la Plateforme.
+*   Si nous supprimons ou restreignons l’accès à votre contenu, nous vous en informerons sans retard injustifié et vous indiquerons les motifs de notre décision, sauf si cela n’est pas approprié pour nous (par exemple, nous sommes légalement empêchés de le faire).
+*   Si vous pensez que nous avons commis une erreur en supprimant ou en limitant l’accès à votre contenu, vous pouvez faire appel par le biais des fonctionnalités fournies sur la Plateforme. Ce faisant, nous examinerons notre décision et en prendrons une nouvelle. Vous trouverez plus d’informations sur la manière de soumettre un appel, notre processus de traitement des réclamations et d’autres options de recours [ici](https://www.tiktok.com/legal/page/global/compliant-handling-eea/en) (les informations sur cette page font partie des présentes Conditions).
+*   Vous êtes libre de supprimer votre contenu de la Plateforme à tout moment.
+*   Si d’autres utilisateurs de la Plateforme ont utilisé votre contenu pour créer du nouveau contenu (par ex. en utilisant les fonctionnalités Duet ou Stitch), alors ce nouveau contenu peut rester sur la Plateforme même si vous supprimez ultérieurement votre contenu ou votre compte. De même, s’ils ont partagé votre contenu sur des services tiers, votre contenu peut rester sur le service tiers après que vous ayez supprimé votre contenu ou votre compte sur la Plateforme. Vous pouvez faire une demande distincte pour les vidéos Duet ou Stitch qui contiennent votre contenu à supprimer.
+*   Vous pouvez restreindre la façon dont d’autres utilisateurs interagissent avec votre contenu et l’utilisent dans les paramètres de votre Plateforme. Vous devez consulter ces paramètres avant de publier du contenu sur la Plateforme.
 
 **4.7 Publication de contenu commercial**
 
@@ -174,8 +174,8 @@ _En résumé : Lorsque vous publiez sur une marque, un produit ou un service en
 
 Nous respectons les droits d’auteur et les autres droits de propriété intellectuelle. Veuillez lire notre [Politique en matière de propriété intellectuelle.](https://www.tiktok.com/legal/page/global/copyright-policy/en) Vous pouvez signaler les violations présumées des droits de propriété intellectuelle sur la Plateforme ici :
 
-* Droits d’auteur : [https://www.tiktok.com/legal/report/Copyright](https://www.tiktok.com/legal/report/Copyright)
-* Marque déposée : [https://www.tiktok.com/legal/report/Trademark](https://www.tiktok.com/legal/report/Trademark)
+*   Droits d’auteur : [https://www.tiktok.com/legal/report/Copyright](https://www.tiktok.com/legal/report/Copyright)
+*   Marque déposée : [https://www.tiktok.com/legal/report/Trademark](https://www.tiktok.com/legal/report/Trademark)
 
 _En résumé : Vous devez lire notre Politique en matière de propriété intellectuelle et suivre ces règles supplémentaires._
 
@@ -187,11 +187,11 @@ Pour fournir la Plateforme, nous avons besoin que vous nous octroyez certains dr
 
 En créant, publiant ou rendant autrement du contenu disponible sur la Plateforme, vous accordez à TikTok et à nos Sociétés affiliés une licence :
 
-* non-exclusive (ce qui signifie que vous pouvez accorder une licence à d’autres personnes pour votre contenu),
-* gratuite (ce qui signifie que nous ne vous payons pas pour cette licence),
-* cessible (ce qui signifie que nous pouvons céder les droits que vous nous donnez à quelqu’un d’autre),
-* pouvant faire l’objet de sous-licences (ce qui signifie que nous pouvons concéder des sous-licences sur votre contenu à d’autres personnes, par exemple à des prestataires de services qui nous aident à fournir la Plateforme ou à des tiers de confiance avec lesquels nous avons conclu des accords pour exploiter, développer et fournir la Plateforme) ; et
-* mondiale (ce qui signifie que la licence s’applique partout dans le monde), et
+*   non-exclusive (ce qui signifie que vous pouvez accorder une licence à d’autres personnes pour votre contenu),
+*   gratuite (ce qui signifie que nous ne vous payons pas pour cette licence),
+*   cessible (ce qui signifie que nous pouvons céder les droits que vous nous donnez à quelqu’un d’autre),
+*   pouvant faire l’objet de sous-licences (ce qui signifie que nous pouvons concéder des sous-licences sur votre contenu à d’autres personnes, par exemple à des prestataires de services qui nous aident à fournir la Plateforme ou à des tiers de confiance avec lesquels nous avons conclu des accords pour exploiter, développer et fournir la Plateforme) ; et
+*   mondiale (ce qui signifie que la licence s’applique partout dans le monde), et
 
 Cette licence d’utilisation de votre contenu nous permet de reproduire (ex. pour copier), adapter ou créer des œuvres dérivées (ex. pour traduire et/ou créer des légendes), représenter et communiquer votre contenu au public (ex. pour l’afficher), aux fins d’exploiter, de développer et de fournir la Plateforme, sous réserve des paramètres de votre Plateforme.
 
@@ -199,8 +199,8 @@ Vous accordez également à chaque utilisateur de la Plateforme une licence non 
 
 Vos licences accordées à TikTok, à nos Sociétés affiliées et aux utilisateurs prennent fin lorsque vous supprimez, ou nous supprimons, votre contenu de la Plateforme conformément aux présentes Conditions. Cependant, en raison de la nature de la Plateforme et de nos obligations légales, la licence accordée restera en vigueur après la suppression de votre contenu si :
 
-* vous avez autorisé d’autres utilisateurs de la Plateforme à utiliser ou réutiliser votre contenu via les paramètres de votre Plateforme (par ex. en utilisant les fonctionnalités Duet, Stitch, télécharger ou partager), ou
-* nous sommes tenus de stocker ou de traiter votre contenu pour des raisons légales.
+*   vous avez autorisé d’autres utilisateurs de la Plateforme à utiliser ou réutiliser votre contenu via les paramètres de votre Plateforme (par ex. en utilisant les fonctionnalités Duet, Stitch, télécharger ou partager), ou
+*   nous sommes tenus de stocker ou de traiter votre contenu pour des raisons légales.
 
 Si vous choisissez de nous soumettre des commentaires, des idées ou des avis, vous acceptez que nous soyons libres de les utiliser à des fins d’exploitation, de développement, d’amélioration et de fourniture de la Plateforme sans aucune rémunération en retour.
 
@@ -212,10 +212,10 @@ Nous nous engageons à faire preuve de compétence et de soin raisonnables et à
 
 Le contenu de la Plateforme est principalement du contenu généré par les utilisateurs fourni par les personnes physiques et les entreprises qui utilisent notre Plateforme. En d’autres termes, TikTok n’est pas le créateur de la plupart du contenu (bien que nous puissions parfois l’être). Par conséquent, sous réserve de toute réglementation ou loi applicable à TikTok, TikTok ne promet pas que tout contenu généré par les utilisateurs que vous trouvez sur la Plateforme :
 
-* soit exact, complet ou à jour,
-* ne porte pas atteinte aux droits de tiers,
-* soit légal ; ou
-* ne vous offensera pas.
+*   soit exact, complet ou à jour,
+*   ne porte pas atteinte aux droits de tiers,
+*   soit légal ; ou
+*   ne vous offensera pas.
 
 Vous reconnaissez que le contenu que vous pouvez voir sur la Plateforme ne représente pas nos points de vue ou nos valeurs et peut ne pas être adapté à vos besoins.
 
@@ -223,8 +223,8 @@ La Plateforme peut contenir des liens vers des sites Web, des publicités, des i
 
 Dans la mesure où nous agissons avec diligence professionnelle, nous ne pouvons être tenus responsables des pertes ou dommages que nous causons, à moins qu’ils ne soient :
 
-* causés par notre manquement aux présentes Conditions ; ou
-* raisonnablement prévisibles au moment de la conclusion des présentes Conditions (c’est-à-dire, qu'il est évident que cela se produira, ou qu'il est connu que cela pourrait se produire).
+*   causés par notre manquement aux présentes Conditions ; ou
+*   raisonnablement prévisibles au moment de la conclusion des présentes Conditions (c’est-à-dire, qu'il est évident que cela se produira, ou qu'il est connu que cela pourrait se produire).
 
 Nous déclinons toute responsabilité en cas de perte ou de dommage causé(e) par des événements échappant à notre contrôle raisonnable.
 
@@ -250,10 +250,10 @@ Si nous soupçonnons que vous avez enfreint les présentes Conditions ou nos Dir
 
 Nous pouvons suspendre temporairement, limiter ou résilier définitivement votre compte, ou imposer des limites à, ou restreindre votre accès aux fonctionnalités de la Plateforme si :
 
-* nous déterminons que vous êtes en violation substantielle ou répétée des présentes Conditions ou de nos Directives communautaires (pour plus d’informations, voir [ici](https://support.tiktok.com/en/safety-hc/account-and-user-safety/content-violations-and-bans)) ;
-* nous avons des raisons de penser que vous êtes sur le point de commettre une violation grave des présentes Conditions ou de nos Directives communautaires,
-* nous sommes légalement tenus de le faire, ou
-* il est nécessaire de traiter un problème technique ou de sécurité grave.
+*   nous déterminons que vous êtes en violation substantielle ou répétée des présentes Conditions ou de nos Directives communautaires (pour plus d’informations, voir [ici](https://support.tiktok.com/en/safety-hc/account-and-user-safety/content-violations-and-bans)) ;
+*   nous avons des raisons de penser que vous êtes sur le point de commettre une violation grave des présentes Conditions ou de nos Directives communautaires,
+*   nous sommes légalement tenus de le faire, ou
+*   il est nécessaire de traiter un problème technique ou de sécurité grave.
 
 Nous agirons toujours de manière raisonnable et objective lorsque nous exercerons ces droits.
 
@@ -283,13 +283,13 @@ _En résumé : Notre Plateforme ne restera pas la même pour toujours. Si les p
 
 Les raisons pour lesquelles nous pouvons apporter des modifications aux présentes Conditions ou à la Plateforme sont les suivantes :
 
-* changements de circonstances raisonnablement indépendants de notre volonté ;
-* changements juridiques ;
-* modifications que nous apportons à la Plateforme dans le cadre habituel du développement de notre produit ;
-* pour s’adapter aux nouvelles technologies ;
-* pour refléter les changements du nombre de personnes qui utilisent la Plateforme ou toute caractéristique ou fonctionnalité de la Plateforme ;
-* pour résoudre un problème de sécurité ; ou
-* pour rendre les présentes Conditions plus claires ou plus faciles à comprendre, ou pour corriger les erreurs administratives.
+*   changements de circonstances raisonnablement indépendants de notre volonté ;
+*   changements juridiques ;
+*   modifications que nous apportons à la Plateforme dans le cadre habituel du développement de notre produit ;
+*   pour s’adapter aux nouvelles technologies ;
+*   pour refléter les changements du nombre de personnes qui utilisent la Plateforme ou toute caractéristique ou fonctionnalité de la Plateforme ;
+*   pour résoudre un problème de sécurité ; ou
+*   pour rendre les présentes Conditions plus claires ou plus faciles à comprendre, ou pour corriger les erreurs administratives.
 
 _En résumé : Nous pouvons apporter des modifications aux présentes Conditions ou à la Plateforme pour un nombre limité de raisons._
 
@@ -301,8 +301,8 @@ Si vous êtes un consommateur, les présentes Conditions sont régies par le dro
 
 Si l’un d’entre nous souhaite intenter une action en justice, vous ou nous pouvons nous adresser à vos tribunaux locaux. Vous pouvez également vous adresser aux :
 
-* tribunaux de la République d’Irlande (pour les litiges avec TikTok Technology Limited) ; et
-* tribunaux d’Angleterre et du Pays de Galles (pour les litiges avec TikTok Information Technologies UK Limited).
+*   tribunaux de la République d’Irlande (pour les litiges avec TikTok Technology Limited) ; et
+*   tribunaux d’Angleterre et du Pays de Galles (pour les litiges avec TikTok Information Technologies UK Limited).
 
 Si vous exploitez une entreprise, veuillez consulter nos [Conditions d'utilisation professionnelles](https://www.tiktok.com/legal/page/global/business-terms-eea/en) pour plus de détails sur la manière dont nous résoudrons les litiges.
 
