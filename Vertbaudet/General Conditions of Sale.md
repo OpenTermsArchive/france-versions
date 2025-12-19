@@ -3,7 +3,7 @@ Conditions générales de vente
 
 #### (Hors produits qui ne sont pas vendus et expédiés par VERTBAUDET)
 
-#### Mise à jour du 30/01/2025 [(Télécharger nos conditions générales de vente)](https://www.vertbaudet.fr/pdf/cgv-30012025.pdf)
+#### Mise à jour du 04/11/2025 [(Télécharger nos conditions générales de vente)](https://www.vertbaudet.fr/pdf/cgv-04112025.pdf)
 
 Les présentes conditions générales de vente (les « CGV ») régissent les contrats conclus sur le site [www.vertbaudet.fr](https://www.vertbaudet.fr/) (le « Site ») avec la société Vertbaudet, société par actions simplifiée, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 397.555.327, dont le siège social est au 36 Avenue Alfred Lefrançois – 59200 TOURCOING - France, numéro de TVA intracommunautaire FR68397555327 (ci-après dénommée « « Vertbaudet »), et uniquement pour les produits vendus et expédiés par Vertbaudet (ci-après les « Produits »)
 
@@ -27,7 +27,7 @@ La société Vertbaudet exploite, sous la marque et l'enseigne Vertbaudet, une a
 *   [9. Les pièces détachées](#pieces-detachees)
 *   [10. Environnement](#environnement)
 
-*   [11. Données nominatives](#donnees-nominatives)
+*   [11. Données personnelles](#donnees-nominatives)
 *   [12. Propriété intellectuelle](#propriete-intellectuelle)
 *   [13. Intégralité](#integralite)
 *   [14. Responsabilité](#responsabilite)
@@ -36,7 +36,7 @@ La société Vertbaudet exploite, sous la marque et l'enseigne Vertbaudet, une a
 Préambule
 ---------
 
-Les présentes CGV sont conclues entre Vertbaudet et toute personne physique non commerçante souhaitant effectuer un achat via le Site (le « Client »).
+Les présentes CGV sont conclues entre Vertbaudet et toute personne physique non commerçante souhaitant effectuer un achat via le Site (le « Client »). Les personnes souhaitant acheter des produits Vertbaudet en leur qualité de commerçant seront soumises à des dispositions contractuelles à établir entre elle et Vertbaudet et doivent prendre contact à cet effet avec notre département BtoB.
 
 Les présentes CGV régissent la vente des Produits du Site exclusivement vendus et expédiés par Vertbaudet (ci-après les « Produits »).
 
@@ -81,8 +81,6 @@ La validation de la commande vaut acceptation expresse des CGV.
 
 Vertbaudet accusera réception de la commande par l'envoi d'un e-mail sous quarante huit (48) heures (sauf commande passée les vendredis, samedis, dimanches et jours feriés, heures françaises) qui contiendra un lien vers les présentes conditions générales de vente. Vous avez également la possibilité d'imprimer un récapitulatif de commande directement sur le Site.
 
-En cas d'indisponibilité d'un Produits commandé, vous en serez informé par courrier électronique. L'annulation de la commande de cet Produits sera alors effectuée.
-
 Néanmoins, dans certains cas, notamment, comptes clients multiples, commande anormale au regard de la quantité commandée, échanges ou retours abusifs, litige existant, défaut de paiement, adresse erronée ou autre problème sur votre compte, Vertbaudet se réserve le droit de bloquer la commande du Client jusqu'à la résolution du problème. Pour toute question relative au suivi de votre commande, merci d'appeler le 03.20.760.760 (coût d’un appel local depuis un poste fixe) de 9h à 18h du lundi au vendredi et le samedi de 9h à 16h.
 
 4\. Le paiement
@@ -116,7 +114,7 @@ Dans le cas d'une utilisation frauduleuse de votre carte, vous êtes invité à 
 
 Pour en savoir plus sur Klarna et le fonctionnement de cette modalité de paiement : [cliquez ici](https://www.vertbaudet.fr/page/a-propos-de-klarna.htm).
 
-#### 4.3 Avec votre compte PAYPAL (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
+#### 4.3 Paiement avec votre compte PAYPAL (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
 
 En choisissant le paiement via PayPal, vous serez automatiquement dirigé sur votre compte PayPal. Une fois le paiement PayPal validé, vous pourrez terminer votre commande sur le Site
 
@@ -163,13 +161,18 @@ Offre valable hors articles signalés par un ![](https://media.vertbaudet.fr/med
 Valable pour tout type de Produits.  
 Vous voulez être livré(e) chez un(e) ami(e), un(e) voisin(e), sur votre lieu de vacances ? Rien de plus facile… il suffit de le préciser lors de votre commande : Vertbaudet livre votre colis à l'adresse de votre choix (en France métropolitaine et en Corse).
 
+*   **En livraison à domicile Express : livré chez vous ou à une autre adresse : sous réserve de disponibilité du service**
+
+Valable pour tout type de Produits.  
+Vous voulez être livré(e) chez un(e) ami(e), un(e) voisin(e), sur votre lieu de vacances ? Rien de plus facile… il suffit de le préciser lors de votre commande : Vertbaudet livre votre colis à l'adresse de votre choix (en France métropolitaine et en Corse).
+
 *   **La Livraison à une adresse avec « emballage cadeau »**
 
 Vous souhaitez livrer un cadeau emballé à l’adresse de votre choix (en France métropolitaine et en Corse), choisissez cette option pour 2€ lors de votre commande passée **par Internet sur** [www.vertbaudet.fr](https://www.vertbaudet.fr/) en indiquant l'adresse du destinataire. La facture sera quant à elle envoyée à votre domicile. Service valable uniquement pour certains Produits.
 
 Les délais de services peuvent varier pendant certaines périodes de fortes activités, telles les périodes de soldes, et pour certains Produits (ex. articles brodés et personnalisés) et les cadeaux gratuits demandés sans commande, qui ne peuvent bénéficier de ces délais de services.
 
-**Les frais de livraison sont :**
+**Les frais de livraison sont :**
 
 PrixPetit Produit
 
@@ -178,14 +181,17 @@ PrixPetit Produit
 | Livré en magasin |
 | Livré en Points Relais® |
 | Livré à domicile |
+| Livraison à domicile Express |
 
 |     |
 | --- |
 | Offert |
 | Gratuit dès 29€ d’achats  <br>Sinon 3,99€ |
 | Gratuit dès 59€ d’achats  <br>Sinon 5,99€ |
+| A partir de 7,99€ |
 
 Produit encombrant  
+signalé par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)  
 \*certains Produits ne peuvent bénéficier de la livraison en Points Relais
 
 |     |
@@ -199,26 +205,29 @@ Produit encombrant
 | Gratuit dès 79€ d’achats  <br>Sinon 6,99€ |
 
 Produit très encombrant  
+signalé par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)  
 \*certains Produits ne peuvent bénéficier de la livraison en Points Relais
 
 |     |
 | --- |
 | Livré à domicile |
 | **Premium** |
+| Livraison à domicile Express |
 
 |     |
 | --- |
 | A partir de 29,99€ |
 | A partir de 49,99€ |
+| A partir de 19,99€ |
 
-**Tarif en vigueur au 29/01/2025, susceptible de modification.**
+**Tarif en vigueur au 04/11/2025, susceptible de modification.**
 
 6\. Remboursement - Retour (droit de rétractation)
 --------------------------------------------------
 
 Tous les Produits proposés à la vente, achetés sur le site [www.vertbaudet.fr](https://www.vertbaudet.fr/) et livrés par Vertbaudet peuvent faire l'objet d'un retour et d'un remboursement excepté ceux exclus par la loi.
 
-Pour ouvrir droit au remboursement, les Produits ne doivent pas avoir été portés, lavés, utilisés, endommagés, ou être des biens indissociables d'autres articles (lot), et doivent être retournés intactes dans leur emballage d'origine avec leurs éventuels accessoires, manuels d'utilisation et autre documentation.
+Pour ouvrir droit au remboursement, les Produits ne doivent pas avoir été portés de manière prolongée, et être intacts et complets.
 
 ### 6.1 Droit de rétractation
 
@@ -254,7 +263,7 @@ Vous pouvez retourner le Produit :
 
 *   Soit directement à l'adresse suivante : Vertbaudet – Service Retour 59981 Tourcoing Cedex (frais postaux de retour à votre charge) ;
     
-*   Soit en déposant gratuitement le Produit directement dans un Point Relais. Pour connaître votre Point Relais le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Pour un retour en point relais, l’étiquette de retour doit impérativement être apposée sur le colis lors de la remise au point relais.
+*   Soit en déposant gratuitement le Produit directement dans un Point Relais®. Pour connaître votre Point Relais® le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Pour un retour en point relais, l’étiquette de retour doit impérativement être apposée sur le colis lors de la remise au point relais.
     
     **Non valable pour les autres Produits signalés par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) ou par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)**  .
     
@@ -426,7 +435,7 @@ Pour toute question relative à la norme Européenne REACH, veuillez nous contac
 
 ### 10.3 Consignes de tri
 
-![https://media.vertbaudet.fr/medias/44/0/46168/1098908144/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/46168/1098908144/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. La consigne de tri peut figurer sur les Produits ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
+![https://media.vertbaudet.fr/medias/44/0/46168/1591979288/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/46168/1591979288/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. La consigne de tri peut figurer sur les Produits ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
 
 ### 10.4 Identifiants uniques
 
