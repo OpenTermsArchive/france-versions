@@ -3,8 +3,8 @@ CONDITIONS GÉNÉRALES D’UTILISATION ET DE VENTE
 
 En application au 19/11/2025  
 
-1. [Accueil](https://www.g7.fr/)
-2. Conditions générales
+1.  [Accueil](https://www.g7.fr/)
+2.  Conditions générales
 
 **CONDITIONS GÉNÉRALES D’UTILISATION ET DE VENTE**
 
@@ -48,16 +48,16 @@ Les prestations du présent contrat ne peuvent en aucun cas, être commercialis�
 
 Le CLIENT s’engage à utiliser son compte G7® conformément aux présentes conditions générales, et notamment :
 
-* à faire un usage strictement personnel de son compte et ne pas créer de compte fictif ou sous une fausse identité, ne pas transférer ou laisser utiliser le compte par un tiers ;
-* à utiliser le service de recherche de taxi conformément à sa destination et à son objet et en faire une utilisation loyale en s’interdisant d’utiliser le service à des fins autres que celles pour lesquelles il a été conçu.
+*   à faire un usage strictement personnel de son compte et ne pas créer de compte fictif ou sous une fausse identité, ne pas transférer ou laisser utiliser le compte par un tiers ;
+*   à utiliser le service de recherche de taxi conformément à sa destination et à son objet et en faire une utilisation loyale en s’interdisant d’utiliser le service à des fins autres que celles pour lesquelles il a été conçu.
 
 Il s’interdit ainsi expressément :
 
-* toute utilisation de son compte G7® pour un usage autre que la recherche d’un taxi en vue d’un déplacement déterminé à réaliser, et notamment toute utilisation aux fins d’obtenir, de distribuer, de transférer, de présenter, de transmettre, de diffuser, de référencer, d’indexer, de comparer, d’intégrer ou d’exploiter de toute autre manière des informations ou éléments d’information du service de réservation de taxis de la SOCIETE,
-* toute action ou comportement susceptible d’interrompre, d’entraver, suspendre ou ralentir le service de recherche de taxi de la SOCIETE, l’application G7®, le Site Internet G7®, le Système Informatique de la SOCIETE et les éléments qui les composent ;
-* toute action sur les infrastructures informatiques de la SOCIETE et notamment tout accès en tout ou en partie aux systèmes informatiques de la SOCIETE, toute utilisation, intégration ou interaction avec les API (Interface de programmation applicative) de la SOCIETE ; 
-* toute intrusion ou tentative d’intrusion dans les systèmes informatiques de la SOCIETE ainsi que toute requête informatique, appel téléphonique, test de charge, ou action de nature à engendrer une sollicitation anormale sur les infrastructures informatiques de la SOCIETE telle que notamment l’utilisation d’un robot, d’un programme ou d’un script de recherche/récupération d’information ou tout autre processus manuel ou automatique pour parcourir, récupérer, transférer, indexer, comparer, extraire ou intégrer des données,
-* toute copie et/ou détournement du Site Internet G7®, de l’application G7® Taxi et/ou des systèmes informatiques de la SOCIETE.
+*   toute utilisation de son compte G7® pour un usage autre que la recherche d’un taxi en vue d’un déplacement déterminé à réaliser, et notamment toute utilisation aux fins d’obtenir, de distribuer, de transférer, de présenter, de transmettre, de diffuser, de référencer, d’indexer, de comparer, d’intégrer ou d’exploiter de toute autre manière des informations ou éléments d’information du service de réservation de taxis de la SOCIETE,
+*   toute action ou comportement susceptible d’interrompre, d’entraver, suspendre ou ralentir le service de recherche de taxi de la SOCIETE, l’application G7®, le Site Internet G7®, le Système Informatique de la SOCIETE et les éléments qui les composent ;
+*   toute action sur les infrastructures informatiques de la SOCIETE et notamment tout accès en tout ou en partie aux systèmes informatiques de la SOCIETE, toute utilisation, intégration ou interaction avec les API (Interface de programmation applicative) de la SOCIETE ; 
+*   toute intrusion ou tentative d’intrusion dans les systèmes informatiques de la SOCIETE ainsi que toute requête informatique, appel téléphonique, test de charge, ou action de nature à engendrer une sollicitation anormale sur les infrastructures informatiques de la SOCIETE telle que notamment l’utilisation d’un robot, d’un programme ou d’un script de recherche/récupération d’information ou tout autre processus manuel ou automatique pour parcourir, récupérer, transférer, indexer, comparer, extraire ou intégrer des données,
+*   toute copie et/ou détournement du Site Internet G7®, de l’application G7® Taxi et/ou des systèmes informatiques de la SOCIETE.
 
 Il appartient en outre au CLIENT de s’assurer qu’aucune fraude n’a été, n’est ou ne peut être commise à partir de ses identifiants. En cas de doute, le CLIENT procèdera immédiatement au changement de ceux-ci et informera le Centre de relation clients de la SOCIETE, disponible 24h sur 24, 7 jours sur 7.
 
@@ -142,10 +142,10 @@ Les conditions et tarifs sont indiqués dans la grille tarifaire ci-après annex
 
 Le CLIENT qui y souscrit, bénéficie:
 
-* d’un accueil à l’arrivée de son train ou/vol par le chauffeur qui l’attend au point de rencontre annoncé. Ce point de rencontre est situé :
-    * Gares : à l’extérieur de la gare sur un parking, visible et accessible à proximité de la sortie,
-    * Aéroports : au niveau « arrivées » à l’intérieur aux portes de l’aérogare, devant un parking, réservé aux seuls taxis (le chauffeur y attendra le CLIENT avec une pancarte à son nom).Le point de rencontre est communiqué au CLIENT lors de la confirmation de la réservation, et ne peut être modifié à la demande du CLIENT.
-* de la disponibilité du chauffeur qui attend le CLIENT au point de rencontre à compter de l’heure de prise en charge, pour la durée d’attente  sélectionnée par le CLIENT (15 ou 30mn en gare, 30 ou 45 mn en aéroport) en cas de retard de ce dernier à l’arrivée du train ou de l’avion. Deux durées sont proposées au CLIENT qui sélectionne celle de son choix lors de la réservation du service « accueil en gare et aéroport ». Une fois la sélection opérée, la durée d’attente ne peut plus être modifiée. A l’issue de cette durée d’attente et en l’absence du CLIENT au point de rencontre, le chauffeur est réputé être autorisé à partir.
+*   d’un accueil à l’arrivée de son train ou/vol par le chauffeur qui l’attend au point de rencontre annoncé. Ce point de rencontre est situé :
+    *   Gares : à l’extérieur de la gare sur un parking, visible et accessible à proximité de la sortie,
+    *   Aéroports : au niveau « arrivées » à l’intérieur aux portes de l’aérogare, devant un parking, réservé aux seuls taxis (le chauffeur y attendra le CLIENT avec une pancarte à son nom).Le point de rencontre est communiqué au CLIENT lors de la confirmation de la réservation, et ne peut être modifié à la demande du CLIENT.
+*   de la disponibilité du chauffeur qui attend le CLIENT au point de rencontre à compter de l’heure de prise en charge, pour la durée d’attente  sélectionnée par le CLIENT (15 ou 30mn en gare, 30 ou 45 mn en aéroport) en cas de retard de ce dernier à l’arrivée du train ou de l’avion. Deux durées sont proposées au CLIENT qui sélectionne celle de son choix lors de la réservation du service « accueil en gare et aéroport ». Une fois la sélection opérée, la durée d’attente ne peut plus être modifiée. A l’issue de cette durée d’attente et en l’absence du CLIENT au point de rencontre, le chauffeur est réputé être autorisé à partir.
 
 Lors de la réservation, le CLIENT doit préciser la gare avec le numéro de train ou l’aéroport avec l’aérogare d’arrivée et le numéro de vol.
 
@@ -362,18 +362,18 @@ A l'exception de la date d'expiration de la carte de paiement du CLIENT, la SOC
 
 **6.2.2. Demande d’autorisation de paiement (ou « pré-autorisation par carte de paiement ») :** Conformément aux dispositions des articles 2.1 et 3.7.1 des présentes Conditions Générales, le CLIENT est informé qu’une demande d’autorisation de paiement est effectuée, lors de l’enregistrement de la carte de paiement du CLIENT dans son compte G7 et pour chaque commande de course (ou modification ultérieure de la commande), auprès de la société émettrice de la carte de paiement, et il autorise la SOCIETE à y procéder. Le montant de cette pré-autorisation par carte de paiement est variable en fonction des cas :
 
-* Lors de l’enregistrement de la carte de paiement, le montant de la pré-autorisation par carte de paiement sera de 0€ ;
-* Lors de la demande de course :
-    * Si le CLIENT n’a pas renseigné d’adresse de destination, le montant de la pré-autorisation par carte de paiement sera de 50€ ;
-    * Si le CLIENT a renseigné une adresse de destination, le montant de la pré-autorisation par carte de paiement sera adapté selon le prix estimé de la course (prix compteur estimé + prix du service éventuellement souscrit), communiqué au CLIENT par la SOCIETE à titre indicatif, avant la commande de course. Le montant de cette pré autorisation par carte de paiement sera de :
-        * 25€ si la fourchette haute du prix estimé est inférieure ou égale à 25€ ;
-        * 50€ si la fourchette haute du prix estimé est supérieure à 25€ et inférieure ou égale à 50€ ;
-        * 75€ si la fourchette haute du prix estimé est supérieure à 50€.
+*   Lors de l’enregistrement de la carte de paiement, le montant de la pré-autorisation par carte de paiement sera de 0€ ;
+*   Lors de la demande de course :
+    *   Si le CLIENT n’a pas renseigné d’adresse de destination, le montant de la pré-autorisation par carte de paiement sera de 50€ ;
+    *   Si le CLIENT a renseigné une adresse de destination, le montant de la pré-autorisation par carte de paiement sera adapté selon le prix estimé de la course (prix compteur estimé + prix du service éventuellement souscrit), communiqué au CLIENT par la SOCIETE à titre indicatif, avant la commande de course. Le montant de cette pré autorisation par carte de paiement sera de :
+        *   25€ si la fourchette haute du prix estimé est inférieure ou égale à 25€ ;
+        *   50€ si la fourchette haute du prix estimé est supérieure à 25€ et inférieure ou égale à 50€ ;
+        *   75€ si la fourchette haute du prix estimé est supérieure à 50€.
 
 Ce montant sera temporairement réservé par la banque émettrice de la carte de paiement du CLIENT, puis restitué au CLIENT (sauf dans le cas où le règlement ultérieur de la transaction serait rejeté conformément aux dispositions de l’article 6.2.3), le délai de restitution étant variable selon la société émettrice de la carte de paiement utilisée par le CLIENT.
 
-* La commande de course est enregistrée et validée par la SOCIETE dès l’acceptation de cette pré-autorisation par la société émettrice de la carte de paiement du CLIENT ;
-* En cas de rejet de cette pré-autorisation, la commande de course est annulée par la SOCIETE, et le CLIENT en est immédiatement informé.  
+*   La commande de course est enregistrée et validée par la SOCIETE dès l’acceptation de cette pré-autorisation par la société émettrice de la carte de paiement du CLIENT ;
+*   En cas de rejet de cette pré-autorisation, la commande de course est annulée par la SOCIETE, et le CLIENT en est immédiatement informé.  
       
     
 
@@ -396,8 +396,8 @@ Ces codes avantages ne pourront être utilisés que conformément aux conditions
 
 Ils ne pourront être utilisés :
 
-* ni en cas de courses réglées directement à bord au chauffeur de taxi (« paiement à bord ») même avec la carte de paiement enregistrée dans le compte G7® du CLIENT ;
-* ni en cas d’utilisation du service « G7® Connect » à l’occasion d’une « course rue » (taxi hélé dans la rue ou pris dans une station de taxi).
+*   ni en cas de courses réglées directement à bord au chauffeur de taxi (« paiement à bord ») même avec la carte de paiement enregistrée dans le compte G7® du CLIENT ;
+*   ni en cas d’utilisation du service « G7® Connect » à l’occasion d’une « course rue » (taxi hélé dans la rue ou pris dans une station de taxi).
 
 Ces codes avantages ne peuvent être dupliqués, commercialisés, distribués ou transférés d’aucune façon, même à titre gratuit, ni être mis à la disposition de quiconque (qu’ils soient postés sur un forum public ou autrement), sauf autorisation expresse de la SOCIETE.
 
@@ -497,10 +497,10 @@ Les commandes « G7® 12-25 » sont accessibles uniquement sur l’application G
 
 Pour bénéficier du tarif préférentiel, à savoir une réduction de 20% (dans la limite de 20 euros) sur le montant de la course de taxi, le CLIENT doit :
 
-* Justifier, par sa pièce d’identité (scannée dans l’application G7® Taxi), qu’il s’agit d’une commande de taxi pour le transport d’un jeune de 12 ans à 25 ans révolus,
-* Avoir créé un compte dans l’application G7® Taxi et avoir enregistré une carte de paiement,
-* Avoir scanné, dans l’application G7® Taxi, la pièce d’identité du passager, qui devra être authentifiée par la SOCIETE,
-* Et commander un taxi dans l’immédiat, les nuits des jeudis, vendredis ou samedis entre 22 heures et 5 heures du matin.
+*   Justifier, par sa pièce d’identité (scannée dans l’application G7® Taxi), qu’il s’agit d’une commande de taxi pour le transport d’un jeune de 12 ans à 25 ans révolus,
+*   Avoir créé un compte dans l’application G7® Taxi et avoir enregistré une carte de paiement,
+*   Avoir scanné, dans l’application G7® Taxi, la pièce d’identité du passager, qui devra être authentifiée par la SOCIETE,
+*   Et commander un taxi dans l’immédiat, les nuits des jeudis, vendredis ou samedis entre 22 heures et 5 heures du matin.
 
 Ces conditions d’accès au tarif préférentiel indiqué ci-dessus sont cumulatives et sont applicables aux seuls CLIENTS déjà détenteurs de l’offre.
 
@@ -518,10 +518,10 @@ En outre, le chauffeur pourra être contraint à refuser la prise en charge d’
 
 La SOCIETE peut restreindre l’accès au service à tout CLIENT sans préavis dans les cas suivants :
 
-* Non-respect de ses obligations et des présentes conditions générales par le CLIENT ;
-* Défaut ou retard de règlement des sommes dues à la SOCIETE au titre de courses précédentes ;
-* Annulation de la réservation postérieure à l’affectation du taxi à 3 reprises par le CLIENT dans une période d’un mois ;
-* Comportement inapproprié du CLIENT à bord du véhicule et/ou vis-à-vis du chauffeur de taxi.
+*   Non-respect de ses obligations et des présentes conditions générales par le CLIENT ;
+*   Défaut ou retard de règlement des sommes dues à la SOCIETE au titre de courses précédentes ;
+*   Annulation de la réservation postérieure à l’affectation du taxi à 3 reprises par le CLIENT dans une période d’un mois ;
+*   Comportement inapproprié du CLIENT à bord du véhicule et/ou vis-à-vis du chauffeur de taxi.
 
 **Article 11 : Résiliation : Clôture du compte G7®**
 
@@ -543,12 +543,12 @@ Les données à caractère personnel, communiquées par le CLIENT lors de son in
 
 Ces informations sont :
 
-* le numéro de téléphone présenté par le CLIENT,
-* l'enregistrement de la conversation téléphonique,
-* les nom et prénom du (des) passager(s) et adresse email,
-* le détail des données relatives à la course effectuée,
-* les données de connexion, d’utilisation, de localisation,
-* et les données relatives à la carte de paiement du CLIENT (N° de la carte, date d’expiration, cryptogramme visuel) .
+*   le numéro de téléphone présenté par le CLIENT,
+*   l'enregistrement de la conversation téléphonique,
+*   les nom et prénom du (des) passager(s) et adresse email,
+*   le détail des données relatives à la course effectuée,
+*   les données de connexion, d’utilisation, de localisation,
+*   et les données relatives à la carte de paiement du CLIENT (N° de la carte, date d’expiration, cryptogramme visuel) .
 
 \-    La SOCIETE se réserve la possibilité d'enregistrer et de conserver, à des fins de preuve et afin d’optimiser l’efficacité du processus de gestion des commandes, l'ensemble des informations relatives aux appels reçus par son Centre de relation clients, aux commandes passées via le site Internet ou l’applicationG7® Taxi, aux données d’identification du CLIENT et aux courses de taxis réalisées.
 
@@ -602,22 +602,22 @@ Ces services sont décrits dans la présente grille tarifaire et ils sont soumis
 |     |     |     |
 | --- | --- | --- |
 | **SERVICE PROPOSE  <br>(DISPONIBLE SUR OPTION)** | **DESCRIPTION DU SERVICE ET GAMME DE VEHICULES** | **Prix TTC**<br><br>(TVA 20% applicable) |
-| **Service «G7®» Standard** | * Tous types de véhicules<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4 <br>* Attente du chauffeur de 5 mn\*³ |
-| **Option : Service « G7® Green »** | * Véhicules hybrides ou 100% électriques <br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4 <br>* Attente du chauffeur de 5 mn\*³ | **Gratuit** |
+| **Service «G7®» Standard** | *   Tous types de véhicules<br>*   Chauffeurs ayant adhéré à la charte de qualité G7®<br>*   Nombre de passagers : jusqu’à 4 <br>*   Attente du chauffeur de 5 mn\*³ |
+| **Option : Service « G7® Green »** | *   Véhicules hybrides ou 100% électriques <br>*   Chauffeurs ayant adhéré à la charte de qualité G7®<br>*   Nombre de passagers : jusqu’à 4 <br>*   Attente du chauffeur de 5 mn\*³ | **Gratuit** |
 | **Option : Service « G7® Access »**<br><br>(Service décrit à l’article 8 des Conditions Générales) | Véhicules adaptés au transport des personnes à mobilité réduite :   <br>3 niveaux de service « G7® ACCESS » sont disponibles : « G7® Access Standard », « G7® Access Coffre+ » et « G7® Access Rampe » |     |
-| **Option : Service « G7® Access Standard »** | * Véhicules à plancher bas pour faciliter l’accès à bord.<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4 <br>* Attente du chauffeur de 5 mn\*³ | **Gratuit** |
-| **Option : Service « G7® Access Coffre+ »** | * Véhicules à plancher bas dotés d’un espace de chargement accru pour des bagages volumineux ou un fauteuil roulant manuel pliable de faible gabarit<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4 <br>* Attente du chauffeur de 5 mn\*³ | **Gratuit** |
-| **Option : Service « G7® Access Rampe »** | * Véhicules équipés pour les personnes à mobilité réduite non transférables (rampe d’accès pour fauteuils roulants électriques ou manuels)<br>* Chauffeurs ayant adhéré à la charte de qualité G7® et formés au transport des personnes à mobilité réduite<br>* Nombre de passagers : jusqu’à 4 <br>* Attente du chauffeur de 10 mn\*³ | **Gratuit** |
-| **Option : Service « G7® Van »** | * Véhicules spacieux de type VAN <br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 7\*4 <br>* Attente du chauffeur de 10 mn\*³ | **6€ TTC** |
-| **Option : Service « G7® VIP »** | * Véhicules haut de gamme<br>* Chauffeurs ayant adhéré à une charte de qualité spécifique<br>* Services à bord : WiFi, chargeurs de téléphone<br>* Nombre de passagers : jusqu’à 4<br>* Attente du chauffeur de 10 mn\*³ | **10€ TTC** |
-| **Option : Service « G7® Van VIP »** | * Véhicules spacieux de type VAN haut de gamme <br>* Chauffeurs ayant adhéré à une charte de qualité spécifique<br>* Services à bord : WiFi, chargeurs de téléphone<br>* Nombre de passagers : jusqu’à 7\*4 <br>* Attente du chauffeur de 10 mn\*³ | **10€ TTC** |
-| **Option : Service « G7® Famille »**<br><br>**dont :** | * Véhicules équipés de sièges bébés pour les enfants  <br>    de 0 à 4 ans et de réhausseurs pour les 4 à 10 ans<br>* Chauffeurs ayant adhéré à la charte de qualité G7**®** | 2 niveaux de service « **_G7® Famille_** » sont disponibles : |
-| **« G7® Famille » (Break) avec** | * Véhicules **standard** <br>* Nombre de passagers : jusqu’à 4<br>* Attente du chauffeur de 5 mn\*³ | **Gratuit** |
-| **« G7® Famille » (Van) avec** | * Véhicules spacieux **de type VAN** <br>* Nombre de passagers : jusqu’à 7\*4<br>* Attente du chauffeur de 10 mn\*³ | **6€  TTC** |
-| **Option : Service « G7® Coffre+ »** | * Véhicules de type break, dotés d’un espace de chargement accru pour des bagages volumineux<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4<br>* Attente du chauffeur de 5 mn\*³ | **Gratuit** |
-| **Option : Service « G7® Vélo »**<br><br>Service disponible en demande à l’avance exclusivement | * Tous types de véhicules<br>* Véhicules équipés de porte-vélos : transport possible de 3 vélos classiques (compatibilité avec les vélos électriques non garantie)<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4  <br>    Attente du chauffeur de 10 mn\*³ | **6€  TTC** |
-| **Option : Service « G7® Zen »**<br><br>Service proposé en période de forte saturation du trafic et sur l’application G7® Taxi exclusivement | * Tous types de véhicules<br>* Dispositif supplémentaire (mobilisation/supervision des équipes du Centre de Relation Clients et moyens techniques spécifiques pour la recherche d’un taxi) mis en œuvre par la SOCIETE en cas de conditions de circulation dégradées ou de facteurs extérieurs perturbant fortement la mobilité ou la disponibilité des taxis (nombre limité de taxis disponibles, conditions de circulation denses, niveau de demande de taxis exceptionnel, intempéries, compétitions sportives, départs en vacances, manifestations, grèves, évènements exceptionnels, etc...). <br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à 4<br>* Attente du chauffeur de 10 mn\*³ | **6€  TTC** |
-| **Option : Service « Accueil en Gare et Aéroport »**<br><br>Service disponible sur option au départ des gares et aéroports parisiens, en demande à l’avance exclusivement (article 3.2.2.2 des Conditions Générales) | * Tous types de véhicules <br>* Accueil à l’arrivée du train ou/vol par le chauffeur à un point de rencontre dédié (art. 3.2.2.2 Conditions générales). <br>* Disponibilité du chauffeur qui attend le CLIENT au point de rencontre à compter de l’heure de prise en charge demandée pour la durée d’attente sélectionnée par le CLIENT (15 ou 30mn en gare, 30 ou 45 mn en aéroport) en cas de retard du CLIENT   <br>    2 durées sont proposées au CLIENT :<br>    * Accueil Gare avec :  <br>        Attente de 15mn du chauffeur\*³  <br>        Attente de 30 mn du chauffeur\*³<br>    * Accueil Aéroport avec :  <br>        Attente de 30mn du chauffeur\*³  <br>        Attente de 45 mn du chauffeur\*³Durée sélectionnée par le CLIENT non modifiable<br><br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br><br>**Gares et aéroports parisiens éligibles :**<br><br>* Gare d’Austerlitz, Gare de l’Est, Gare de Lyon, Gare de Paris Bercy, Gare du Nord, Gare Montparnasse, Gare Saint Lazare, Gare TGV Marne-la-Vallée Chessy, Gare TGV Massy, Gare TGV Roissy CDG<br>* Orly : aérogares Orly 1&2, Orly 3 et Orly 4<br>* Roissy Charles De Gaulle : aérogares CDG 1, CDG 2A, CDG 2B, CDG 2C, CDG 2D, CDG 2E, CDG 2F, CDG 2G et CDG 3 (ex T9) | **5€ TTC**  <br>(Accueil Gare, si attente 15 mn)<br><br>**8€ TTC**  <br>(Accueil Gare, si attente 30 mn)<br><br>**8€ TTC**  <br>(Accueil Aéroport, si attente 30 mn)<br><br>**11€ TTC**  <br>(Accueil Aéroport, attente 45 mn) |
+| **Option : Service « G7® Access Standard »** | *   Véhicules à plancher bas pour faciliter l’accès à bord.<br>*   Chauffeurs ayant adhéré à la charte de qualité G7®<br>*   Nombre de passagers : jusqu’à 4 <br>*   Attente du chauffeur de 5 mn\*³ | **Gratuit** |
+| **Option : Service « G7® Access Coffre+ »** | *   Véhicules à plancher bas dotés d’un espace de chargement accru pour des bagages volumineux ou un fauteuil roulant manuel pliable de faible gabarit<br>*   Chauffeurs ayant adhéré à la charte de qualité G7®<br>*   Nombre de passagers : jusqu’à 4 <br>*   Attente du chauffeur de 5 mn\*³ | **Gratuit** |
+| **Option : Service « G7® Access Rampe »** | *   Véhicules équipés pour les personnes à mobilité réduite non transférables (rampe d’accès pour fauteuils roulants électriques ou manuels)<br>*   Chauffeurs ayant adhéré à la charte de qualité G7® et formés au transport des personnes à mobilité réduite<br>*   Nombre de passagers : jusqu’à 4 <br>*   Attente du chauffeur de 10 mn\*³ | **Gratuit** |
+| **Option : Service « G7® Van »** | *   Véhicules spacieux de type VAN <br>*   Chauffeurs ayant adhéré à la charte de qualité G7®<br>*   Nombre de passagers : jusqu’à 7\*4 <br>*   Attente du chauffeur de 10 mn\*³ | **6€ TTC** |
+| **Option : Service « G7® VIP »** | *   Véhicules haut de gamme<br>*   Chauffeurs ayant adhéré à une charte de qualité spécifique<br>*   Services à bord : WiFi, chargeurs de téléphone<br>*   Nombre de passagers : jusqu’à 4<br>*   Attente du chauffeur de 10 mn\*³ | **10€ TTC** |
+| **Option : Service « G7® Van VIP »** | *   Véhicules spacieux de type VAN haut de gamme <br>*   Chauffeurs ayant adhéré à une charte de qualité spécifique<br>*   Services à bord : WiFi, chargeurs de téléphone<br>*   Nombre de passagers : jusqu’à 7\*4 <br>*   Attente du chauffeur de 10 mn\*³ | **10€ TTC** |
+| **Option : Service « G7® Famille »**<br><br>**dont :** | *   Véhicules équipés de sièges bébés pour les enfants  <br>    de 0 à 4 ans et de réhausseurs pour les 4 à 10 ans<br>*   Chauffeurs ayant adhéré à la charte de qualité G7**®** | 2 niveaux de service « **_G7® Famille_** » sont disponibles : |
+| **« G7® Famille » (Break) avec** | *   Véhicules **standard** <br>*   Nombre de passagers : jusqu’à 4<br>*   Attente du chauffeur de 5 mn\*³ | **Gratuit** |
+| **« G7® Famille » (Van) avec** | *   Véhicules spacieux **de type VAN** <br>*   Nombre de passagers : jusqu’à 7\*4<br>*   Attente du chauffeur de 10 mn\*³ | **6€  TTC** |
+| **Option : Service « G7® Coffre+ »** | *   Véhicules de type break, dotés d’un espace de chargement accru pour des bagages volumineux<br>*   Chauffeurs ayant adhéré à la charte de qualité G7®<br>*   Nombre de passagers : jusqu’à 4<br>*   Attente du chauffeur de 5 mn\*³ | **Gratuit** |
+| **Option : Service « G7® Vélo »**<br><br>Service disponible en demande à l’avance exclusivement | *   Tous types de véhicules<br>*   Véhicules équipés de porte-vélos : transport possible de 3 vélos classiques (compatibilité avec les vélos électriques non garantie)<br>*   Chauffeurs ayant adhéré à la charte de qualité G7®<br>*   Nombre de passagers : jusqu’à 4  <br>    Attente du chauffeur de 10 mn\*³ | **6€  TTC** |
+| **Option : Service « G7® Zen »**<br><br>Service proposé en période de forte saturation du trafic et sur l’application G7® Taxi exclusivement | *   Tous types de véhicules<br>*   Dispositif supplémentaire (mobilisation/supervision des équipes du Centre de Relation Clients et moyens techniques spécifiques pour la recherche d’un taxi) mis en œuvre par la SOCIETE en cas de conditions de circulation dégradées ou de facteurs extérieurs perturbant fortement la mobilité ou la disponibilité des taxis (nombre limité de taxis disponibles, conditions de circulation denses, niveau de demande de taxis exceptionnel, intempéries, compétitions sportives, départs en vacances, manifestations, grèves, évènements exceptionnels, etc...). <br>*   Chauffeurs ayant adhéré à la charte de qualité G7®<br>*   Nombre de passagers : jusqu’à 4<br>*   Attente du chauffeur de 10 mn\*³ | **6€  TTC** |
+| **Option : Service « Accueil en Gare et Aéroport »**<br><br>Service disponible sur option au départ des gares et aéroports parisiens, en demande à l’avance exclusivement (article 3.2.2.2 des Conditions Générales) | *   Tous types de véhicules <br>*   Accueil à l’arrivée du train ou/vol par le chauffeur à un point de rencontre dédié (art. 3.2.2.2 Conditions générales). <br>*   Disponibilité du chauffeur qui attend le CLIENT au point de rencontre à compter de l’heure de prise en charge demandée pour la durée d’attente sélectionnée par le CLIENT (15 ou 30mn en gare, 30 ou 45 mn en aéroport) en cas de retard du CLIENT   <br>    2 durées sont proposées au CLIENT :<br>    *   Accueil Gare avec :  <br>        Attente de 15mn du chauffeur\*³  <br>        Attente de 30 mn du chauffeur\*³<br>    *   Accueil Aéroport avec :  <br>        Attente de 30mn du chauffeur\*³  <br>        Attente de 45 mn du chauffeur\*³Durée sélectionnée par le CLIENT non modifiable<br><br>*   Chauffeurs ayant adhéré à la charte de qualité G7®<br><br>**Gares et aéroports parisiens éligibles :**<br><br>*   Gare d’Austerlitz, Gare de l’Est, Gare de Lyon, Gare de Paris Bercy, Gare du Nord, Gare Montparnasse, Gare Saint Lazare, Gare TGV Marne-la-Vallée Chessy, Gare TGV Massy, Gare TGV Roissy CDG<br>*   Orly : aérogares Orly 1&2, Orly 3 et Orly 4<br>*   Roissy Charles De Gaulle : aérogares CDG 1, CDG 2A, CDG 2B, CDG 2C, CDG 2D, CDG 2E, CDG 2F, CDG 2G et CDG 3 (ex T9) | **5€ TTC**  <br>(Accueil Gare, si attente 15 mn)<br><br>**8€ TTC**  <br>(Accueil Gare, si attente 30 mn)<br><br>**8€ TTC**  <br>(Accueil Aéroport, si attente 30 mn)<br><br>**11€ TTC**  <br>(Accueil Aéroport, attente 45 mn) |
 
 **Conditions Générales en application – 19 novembre 2025**
 
