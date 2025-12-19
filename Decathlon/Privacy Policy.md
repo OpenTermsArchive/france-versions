@@ -36,37 +36,37 @@ VALIUZ contribue à personnaliser les bannières publicitaires diffusées en lig
 
 Cette personnalisation ne peut avoir lieu que si les 3 conditions suivantes sont réunies :
 
-* Vous avez consenti au dépôt d’un cookie VALIUZ (finalité publicitaire) lors de la navigation sur notre site internet ;
-* Vous avez consenti au dépôt d’un cookie à finalité publicitaire sur un site tiers partenaire de VALIUZ ;
-* Vous ne vous êtes pas opposé au partage de vos données personnelles à VALIUZ.
+*   Vous avez consenti au dépôt d’un cookie VALIUZ (finalité publicitaire) lors de la navigation sur notre site internet ;
+*   Vous avez consenti au dépôt d’un cookie à finalité publicitaire sur un site tiers partenaire de VALIUZ ;
+*   Vous ne vous êtes pas opposé au partage de vos données personnelles à VALIUZ.
 
 Concrètement, si les 3 conditions sont réunies, le site tiers que vous consultez pourra permettre à ses annonceurs partenaires de vous afficher la publicité la plus pertinente compte tenu de l'audience à laquelle VALIUZ vous a associée.  
 Les bases légales de ce traitement sont : Intérêt légitime pour le profilage publicitaire et le consentement pour la collecte des données de navigation.
 
 Quelques exemples de communications mises en œuvre par DECATHLON selon votre profil :  
 
-* \- En fonction de votre âge ou votre genre :  
+*   \- En fonction de votre âge ou votre genre :  
     ![](/static/LP/Services/donnees-personnelles/assets/img/email1.png)  
     
-* \- Selon vos aspirations de consommation saine et durable (bio par ex.) :  
+*   \- Selon vos aspirations de consommation saine et durable (bio par ex.) :  
     ![](/static/LP/Services/donnees-personnelles/assets/img/email2.png)  
     ![](/static/LP/Services/donnees-personnelles/assets/img/email3.png)  
     
-* \- Selon les caractéristiques de votre famille (Ex : avec ou sans enfant…) :  
+*   \- Selon les caractéristiques de votre famille (Ex : avec ou sans enfant…) :  
     ![](/static/LP/Services/donnees-personnelles/assets/img/email4.png)  
     
-* \- Selon votre type d’habitat (Ex: avec ou sans jardin) :  
+*   \- Selon votre type d’habitat (Ex: avec ou sans jardin) :  
     ![](/static/LP/Services/donnees-personnelles/assets/img/email5.png)  
     
-* \- Ou encore selon votre activité sur les zones commerciales dans lesquelles certains membres de l’alliance peuvent être présents (Ex : en cas d’inactivité chez DECATHLON depuis quelques temps) :  
+*   \- Ou encore selon votre activité sur les zones commerciales dans lesquelles certains membres de l’alliance peuvent être présents (Ex : en cas d’inactivité chez DECATHLON depuis quelques temps) :  
     ![](/static/LP/Services/donnees-personnelles/assets/img/email6.png)  
     
 
 Quelles données vous permettent de bénéficier de ce service ?
 
-* Les informations personnelles que vous avez communiquées aux membres de l’alliance (exemple : tranche d’âge, localisation, sexe…) ;
-* Vos historiques d’achats sur le web et en magasin auprès des membres de l’alliance ;
-* Si vous avez accepté le cookie VALIUZ, votre navigation en ligne (pages visitées, produits les plus consultés, etc), des données librement accessibles au public (open-data) ou issues de base de données fournies par des tiers (exemple : INSEE).
+*   Les informations personnelles que vous avez communiquées aux membres de l’alliance (exemple : tranche d’âge, localisation, sexe…) ;
+*   Vos historiques d’achats sur le web et en magasin auprès des membres de l’alliance ;
+*   Si vous avez accepté le cookie VALIUZ, votre navigation en ligne (pages visitées, produits les plus consultés, etc), des données librement accessibles au public (open-data) ou issues de base de données fournies par des tiers (exemple : INSEE).
 
 Votre numéro de téléphone, votre adresse électronique, votre adresse postale ou encore vos noms et prénoms ne sont pas transmis aux membres de l’alliance. Un membre de l’alliance qui ne vous connaît pas ne pourra jamais recevoir d’informations vous concernant. VALIUZ ne réutilise pas les données ainsi collectées pour vous adresser des communications et ne gère pas les communications (newsletter) ou publicités qui vous sont adressées par ses membres.
 
@@ -86,10 +86,10 @@ Opposition au partage de mes données DECATHLON à VALIUZ
 
 Si vous souhaitez vous opposer spécifiquement au partage à VALIUZ de vos données par DECATHLON vous pouvez :
 
-* Paramétrer votre opposition depuis votre [compte](https://login.decathlon.net/?client_id=d62f39db-8e47-48f5-be48-43596222a4bf) dans le menu Paramètres/Utilisation des données/Partage avec VALIUZ ;
-* Nous envoyer un email à l’adresse [\[email protected\]](https://www.decathlon.fr/cdn-cgi/l/email-protection) ;
-* Vous opposer en cliquant dans le lien prévu en bas des emails commerciaux qui ont pu vous être adressés ;
-* Supprimer le cookie VALIUZ (« cookie publicitaire ») en paramétrant vos cookies.
+*   Paramétrer votre opposition depuis votre [compte](https://login.decathlon.net/?client_id=d62f39db-8e47-48f5-be48-43596222a4bf) dans le menu Paramètres/Utilisation des données/Partage avec VALIUZ ;
+*   Nous envoyer un email à l’adresse [\[email protected\]](https://www.decathlon.fr/cdn-cgi/l/email-protection) ;
+*   Vous opposer en cliquant dans le lien prévu en bas des emails commerciaux qui ont pu vous être adressés ;
+*   Supprimer le cookie VALIUZ (« cookie publicitaire ») en paramétrant vos cookies.
 
 Par ailleurs, vous pouvez également refuser que les publicités diffusées sur les sites tiers soient personnalisées en refusant les cookies publicitaires déposés par ces sites.
 
@@ -899,11 +899,11 @@ Nous, DECATHLON France SAS et DECATHLON SE, en qualité de responsable des trait
 
 Ces destinataires sont :
 
-* Nos sous-traitants ;
-* Nos équipes en interne ;
-* L’acheteur potentiel d’une des entités responsables de traitement des traitements listés dans la présente politique de confidentialité ;
-* Toute administration ou autorité judiciaire en cas de demandes justifiées de ces dernières ;
-* Toute société et organisation à des fins de protection contre la fraude et la réduction du risque de crédit.
+*   Nos sous-traitants ;
+*   Nos équipes en interne ;
+*   L’acheteur potentiel d’une des entités responsables de traitement des traitements listés dans la présente politique de confidentialité ;
+*   Toute administration ou autorité judiciaire en cas de demandes justifiées de ces dernières ;
+*   Toute société et organisation à des fins de protection contre la fraude et la réduction du risque de crédit.
 
 #### Plus d'information sur les transferts
 
@@ -969,22 +969,22 @@ Pour exercer vos droits :
 
 Pour supprimer votre compte en toute autonomie, [cliquez ici](https://account.decathlon.com/fr-FR/privacy/account-deletion)
 
-* Envoyez-nous un message : Cliquez [ici](https://forms-prod3.sprinklr.com/guided-workflows/67eff260c9a6222cee21d688?gwId=68cad9bba6be476aed1eef20). Afin que votre demande soit gérée le plus efficacement possible, n’oubliez pas :
+*   Envoyez-nous un message : Cliquez [ici](https://forms-prod3.sprinklr.com/guided-workflows/67eff260c9a6222cee21d688?gwId=68cad9bba6be476aed1eef20). Afin que votre demande soit gérée le plus efficacement possible, n’oubliez pas :
 
-* de nous indiquer le(s) traitement(s) concerné(s) par votre demande de nous indiquer le(s) droit(s) que vous souhaitez mettre en œuvre ;
-* de nous communiquer toute information nous permettant de nous assurer que l’auteur de la demande est bien la personne concernée par le traitement (n° de carte Decathlon, N° de dernière commande, Date de naissance renseignée etc...).
-
-  
-* Par courriel : [\[email protected\]](https://www.decathlon.fr/cdn-cgi/l/email-protection). Afin que votre demande soit gérée le plus efficacement possible, n’oubliez pas :
-
-* de nous indiquer le(s) traitement(s) concerné(s) par votre demande de nous indiquer le(s) droit(s) que vous souhaitez mettre en œuvre ;
-* de nous communiquer toute information nous permettant de nous assurer que l’auteur de la demande est bien la personne concernée par le traitement (n° de carte Decathlon, N° de dernière commande, Date de naissance renseignée etc...).
+*   de nous indiquer le(s) traitement(s) concerné(s) par votre demande de nous indiquer le(s) droit(s) que vous souhaitez mettre en œuvre ;
+*   de nous communiquer toute information nous permettant de nous assurer que l’auteur de la demande est bien la personne concernée par le traitement (n° de carte Decathlon, N° de dernière commande, Date de naissance renseignée etc...).
 
   
-* Par voie postale : _DECATHLON – protection des données personnelles – 4 boulevard de Mons, 59650 Villeneuve d’Ascq_. Afin que votre demande soit gérée le plus efficacement possible, n’oubliez pas :
+*   Par courriel : [\[email protected\]](https://www.decathlon.fr/cdn-cgi/l/email-protection). Afin que votre demande soit gérée le plus efficacement possible, n’oubliez pas :
 
-* de nous indiquer le(s) traitement(s) concerné(s) par votre demande de nous indiquer le(s) droit(s) que vous souhaitez mettre en œuvre ;
-* de nous communiquer toute information nous permettant de nous assurer que l’auteur de la demande est bien la personne concernée par le traitement (n° de carte Decathlon, N° de dernière commande, Date de naissance renseignée etc...).
+*   de nous indiquer le(s) traitement(s) concerné(s) par votre demande de nous indiquer le(s) droit(s) que vous souhaitez mettre en œuvre ;
+*   de nous communiquer toute information nous permettant de nous assurer que l’auteur de la demande est bien la personne concernée par le traitement (n° de carte Decathlon, N° de dernière commande, Date de naissance renseignée etc...).
+
+  
+*   Par voie postale : _DECATHLON – protection des données personnelles – 4 boulevard de Mons, 59650 Villeneuve d’Ascq_. Afin que votre demande soit gérée le plus efficacement possible, n’oubliez pas :
+
+*   de nous indiquer le(s) traitement(s) concerné(s) par votre demande de nous indiquer le(s) droit(s) que vous souhaitez mettre en œuvre ;
+*   de nous communiquer toute information nous permettant de nous assurer que l’auteur de la demande est bien la personne concernée par le traitement (n° de carte Decathlon, N° de dernière commande, Date de naissance renseignée etc...).
 
   
 
