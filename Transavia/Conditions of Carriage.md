@@ -46,16 +46,16 @@ Le tarif Basic inclut :
 \- 1 bagage à main de dimensions maximales 40 x 30 x 20 cm, poignées et roulettes comprises. Le bagage à main est toujours autorisé en cabine avec vous et doit être placé sous le siège devant vous, dont le poids total ne doit pas dépasser 10 kg. Pour plus d’informations sur les bagages à main et/ou les bagages cabine, consultez également le paragraphe « Bagages à main et bagages cabine »;  
 \- Un nombre fixe de Miles Flying Blue basé sur votre niveau Flying Blue par vol simple:
 
-* Explorer: 100 Flying Blue Miles
-* Silver: 150 Flying Blue Miles
-* Gold: 175 Flying Blue Miles
-* Platinum: 200 Flying Blue Miles
+*   Explorer: 100 Flying Blue Miles
+*   Silver: 150 Flying Blue Miles
+*   Gold: 175 Flying Blue Miles
+*   Platinum: 200 Flying Blue Miles
 
 \- Un nombre fixe de Points d’Expérience (XP) Flying Blue basé sur votre destination ou la distance de vol par vol simple:
 
-* Vols domestiques : 2 XP
-* Vols jusqu’à 2 000 milles 2 XP
-* Vols à partir de 2 000 milles : 2 XP
+*   Vols domestiques : 2 XP
+*   Vols jusqu’à 2 000 milles 2 XP
+*   Vols à partir de 2 000 milles : 2 XP
 
 Le tarif Smart inclut:  
   
@@ -65,16 +65,16 @@ Le tarif Smart inclut:
 \- La possibilité d’embarquer dans le premier groupe;  
 \- Un nombre fixe de Miles Flying Blue basé sur votre niveau Flying Blue par vol simple:
 
-* Explorer : 250 Miles
-* Silver : 375 Miles
-* Gold : 438 Miles
-* Platinum : 500 Miles
+*   Explorer : 250 Miles
+*   Silver : 375 Miles
+*   Gold : 438 Miles
+*   Platinum : 500 Miles
 
 \- Un nombre fixe de Points d’Expérience (XP) Flying Blue basé sur la destination ou la distance de vol par vol simple:
 
-* Vols domestiques : 2 XP
-* Vols d’une distance allant jusque 2000 miles : 5 XP
-* Vols de plus de 2000 miles : 8 XP
+*   Vols domestiques : 2 XP
+*   Vols d’une distance allant jusque 2000 miles : 5 XP
+*   Vols de plus de 2000 miles : 8 XP
 
 Le tarif Plus inclut:  
   
@@ -85,16 +85,16 @@ Le tarif Plus inclut:
 \- la possibilité de modifier l’heure, la date et l’itinéraire de votre vol sans frais jusqu’à 14 jours avant le départ; Vous ne paierez que la différence éventuelle du prix du vol;  
 \- Un nombre fixe de Miles Flying Blue basé sur votre niveau Flying Blue par vol simple:
 
-* Explorer : 250 Miles
-* Silver : 375 Miles
-* Gold : 438 Miles
-* Platinum : 500 Miles
+*   Explorer : 250 Miles
+*   Silver : 375 Miles
+*   Gold : 438 Miles
+*   Platinum : 500 Miles
 
 \- Un nombre fixe de Points d’Expérience (XP) Flying Blue basé sur la destination ou la distance de vol par vol simple:
 
-* Vols domestiques : 2 XP
-* Vols jusqu’à 2 000 milles : 5 XP
-* Vols à partir de 2 000 milles : 8 XP
+*   Vols domestiques : 2 XP
+*   Vols jusqu’à 2 000 milles : 5 XP
+*   Vols à partir de 2 000 milles : 8 XP
 
 Le tarif Max inclut :  
   
@@ -107,16 +107,16 @@ Le tarif Max inclut :
 \- la possibilité de modifier les données du passager (nom, date de naissance et/ou sexe) jusqu’à 2 heures avant le départ du vol;  
 \- Un nombre fixe de Miles Flying Blue basé sur le niveau de votre Flying Blue par vol simple:
 
-* Explorer : 500 Miles
-* Silver : 750 Miles
-* Gold : 875 Miles
-* Platinum : 1 000 Miles
+*   Explorer : 500 Miles
+*   Silver : 750 Miles
+*   Gold : 875 Miles
+*   Platinum : 1 000 Miles
 
 \- Un nombre fixe de Points d’Expérience (XP) basé sur la destination ou la distance de vol par vol simple:
 
-* Vols domestiques : 2 XP
-* Vols jusqu’à 2 000 milles : 5 XP
-* Vols à partir de 2 000 milles : 8 XP 
+*   Vols domestiques : 2 XP
+*   Vols jusqu’à 2 000 milles : 5 XP
+*   Vols à partir de 2 000 milles : 8 XP 
 
 **Modification de réservation avec Flex**
 
