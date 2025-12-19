@@ -117,50 +117,50 @@ III – Description des Services et fonctionnement de la Marketplace
 
 **3.1.1** Les Services comprennent notamment :
 
-* la possibilité pour l’Utilisateur de créer un Compte sur la Marketplace ;
+*   la possibilité pour l’Utilisateur de créer un Compte sur la Marketplace ;
     
 
-* la mise en relation entre des Freelances et des Clients via la Marketplace pour la réalisation de missions dans chacun des pays où Malt opère;
+*   la mise en relation entre des Freelances et des Clients via la Marketplace pour la réalisation de missions dans chacun des pays où Malt opère;
     
 
-* la mise à disposition de moyens de paiement destinés à sécuriser le déroulé d’une Mission ;
+*   la mise à disposition de moyens de paiement destinés à sécuriser le déroulé d’une Mission ;
     
 
-* la collecte auprès des Freelances de tout document justifiant la régularité de leur statut juridique, et le cas échéant en respect d’une obligation en droit national, leur mise à disposition au Client. Dans l’hypothèse où repose sur le Client, en sa qualité de donneur d’ordre, une obligation légale de vérifier le statut juridique du Freelance, Malt tient à sa disposition les documents requis. Le Client demeure seul responsable de leur vérification ;
+*   la collecte auprès des Freelances de tout document justifiant la régularité de leur statut juridique, et le cas échéant en respect d’une obligation en droit national, leur mise à disposition au Client. Dans l’hypothèse où repose sur le Client, en sa qualité de donneur d’ordre, une obligation légale de vérifier le statut juridique du Freelance, Malt tient à sa disposition les documents requis. Le Client demeure seul responsable de leur vérification ;
     
 
-* l’établissement et l’émission des factures relatives aux Missions réalisées par le Freelance via la Marketplace, en vertu du Mandat de Facturation ;
+*   l’établissement et l’émission des factures relatives aux Missions réalisées par le Freelance via la Marketplace, en vertu du Mandat de Facturation ;
     
 
-* la possibilité pour le Freelance de bénéficier du financement de sa facture par l’un des partenaires financiers selon les modalités précisées à l’article 3.2.7 suivant des présentes ;
+*   la possibilité pour le Freelance de bénéficier du financement de sa facture par l’un des partenaires financiers selon les modalités précisées à l’article 3.2.7 suivant des présentes ;
     
 
-* des outils de recommandation automatique de profils de Freelances.
+*   des outils de recommandation automatique de profils de Freelances.
     
 
 **3.1.2** En complément des Services, les Clients peuvent bénéficier de services additionnels en souscrivant à l’une des offres décrites plus amplement à l’adresse [**www.malt.fr/offers**](https://www.malt.fr/c/pricing) (ci-après les “Services Additionnels”).
 
 Ces Services Additionnels comprennent notamment en fonction de l’offre souscrite par le Client, les prestations suivantes :
 
-* **Sourcing** : une prestation de conseil sur mesure aux fins de recherche, par les équipes de la Société, de Freelances selon les critères déterminés par le Client ;
+*   **Sourcing** : une prestation de conseil sur mesure aux fins de recherche, par les équipes de la Société, de Freelances selon les critères déterminés par le Client ;
     
 
-* **Interface personnalisée** : la création par la Société d’une interface personnalisée de la Marketplace pour le Client, permettant une utilisation collaborative entre plusieurs Utilisateurs salariés du Client ;
+*   **Interface personnalisée** : la création par la Société d’une interface personnalisée de la Marketplace pour le Client, permettant une utilisation collaborative entre plusieurs Utilisateurs salariés du Client ;
     
 
-* la mise à disposition d’un système de validation en ligne par les Freelances de la documentation contractuelle liée à Mission ;
+*   la mise à disposition d’un système de validation en ligne par les Freelances de la documentation contractuelle liée à Mission ;
     
 
-* La possibilité de payer la facture relative à la Mission à échéance ;
+*   La possibilité de payer la facture relative à la Mission à échéance ;
     
 
-* **Malt Insights** : la mise à disposition, au bénéfice du Client, d’un outil de pilotage et de contractualisation des données relatives aux Missions créé par la Société, permettant de (suivre l’évolution du nombre de Missions en cours et réalisées pour le Client, (ii) centraliser et suivre l’ensemble des factures et paiements réalisés sur la Marketplace, (iii) paramétrer des alertes et mettre en place des règles internes de gestion propres au Client.
+*   **Malt Insights** : la mise à disposition, au bénéfice du Client, d’un outil de pilotage et de contractualisation des données relatives aux Missions créé par la Société, permettant de (suivre l’évolution du nombre de Missions en cours et réalisées pour le Client, (ii) centraliser et suivre l’ensemble des factures et paiements réalisés sur la Marketplace, (iii) paramétrer des alertes et mettre en place des règles internes de gestion propres au Client.
     
 
-* **Malt Fournisseur Unique** : un ensemble de services incluant la gestion par Malt de la relation contractuelle et administrative avec le Freelance.  Dans le cadre de l'offre de services Malt Fournisseur Unique, la Société émet à l’attention du Client un Devis en son nom. Le Devis précise également le nom du Freelance qui réalisera la Mission pour le Client.
+*   **Malt Fournisseur Unique** : un ensemble de services incluant la gestion par Malt de la relation contractuelle et administrative avec le Freelance.  Dans le cadre de l'offre de services Malt Fournisseur Unique, la Société émet à l’attention du Client un Devis en son nom. Le Devis précise également le nom du Freelance qui réalisera la Mission pour le Client.
     
 
-* **Malt Strategy** : la recherche sur-mesure dans une base de données Freelances non public de profils de Freelances hautement qualifiés, répondant aux critères spécifiques prédéterminés par le Client et ayant des profils de managers de transition, d’experts industriels et fonctionnels, et de consultants en stratégie et management.
+*   **Malt Strategy** : la recherche sur-mesure dans une base de données Freelances non public de profils de Freelances hautement qualifiés, répondant aux critères spécifiques prédéterminés par le Client et ayant des profils de managers de transition, d’experts industriels et fonctionnels, et de consultants en stratégie et management.
     
 
 **3.2. Fonctionnement de la Marketplace**
@@ -219,10 +219,10 @@ Les prestataires financiers et Malt effectuent une double vérification de l’�
 
 Les informations suivantes sont vérifiées par Malt :
 
-* Pour les Freelances : les documents légaux doivent être à jour ;
+*   Pour les Freelances : les documents légaux doivent être à jour ;
     
 
-* Pour les Clients : email professionnel obligatoire, information de facturation complétée, respect des délais de paiement et aucun litige en cours.
+*   Pour les Clients : email professionnel obligatoire, information de facturation complétée, respect des délais de paiement et aucun litige en cours.
     
 
 Les critères retenus par les partenaires financiers sont décrits au sein de leurs conditions générales de vente disponibles en lien ci-dessus.
@@ -254,11 +254,11 @@ Sont notamment visées les personnes salariées au sens du droit du travail selo
 
 En cas de non respect de cet article, la Société se réserve le droit :
 
-* de procédure à la fermeture définitive des comptes ;
+*   de procédure à la fermeture définitive des comptes ;
     
-* d'exiger de cette personne, de la structure qui l'emploie et de toute structure non autorisée et le versement d'une indemnité d'un montant au moins égal à 10 000€ en fonction de la gravité des faits rapportés ;
+*   d'exiger de cette personne, de la structure qui l'emploie et de toute structure non autorisée et le versement d'une indemnité d'un montant au moins égal à 10 000€ en fonction de la gravité des faits rapportés ;
     
-* de prendre toutes mesures utiles auprès des juridictions compétentes.
+*   de prendre toutes mesures utiles auprès des juridictions compétentes.
     
 
 Ces personnes demeurent les seules responsables des préjudices directs et indirects qu'ils peuvent causer du fait de leur comportement et en assument seules les conséquences.
