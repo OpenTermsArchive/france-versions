@@ -10,19 +10,19 @@ Politique de protection des données personnelles pour clients et passagers
 
 Iberia s'engage à respecter votre vie privée et à protéger vos données personnelles.
 
-* Nous ferons preuve d'une transparence totale à l'égard des données que nous collectons et l'utilisation que nous en faisons.
+*   Nous ferons preuve d'une transparence totale à l'égard des données que nous collectons et l'utilisation que nous en faisons.
     
-* Nous utiliserons les données que vous nous fournirez aux fins décrites dans notre Politique de confidentialité, notamment la prestation des services que vous avez demandés et l'amélioration de votre expérience avec Iberia.
+*   Nous utiliserons les données que vous nous fournirez aux fins décrites dans notre Politique de confidentialité, notamment la prestation des services que vous avez demandés et l'amélioration de votre expérience avec Iberia.
     
-* Nous utiliserons également les donnés pour essayer de mieux vous connaître, afin de vous envoyer des offres pertinentes.
+*   Nous utiliserons également les donnés pour essayer de mieux vous connaître, afin de vous envoyer des offres pertinentes.
     
-* Si vous nous communiquez votre volonté de ne pas recevoir de communications commerciales, nous cesserons de vous les envoyer. Nous continuerons évidemment à vous envoyer des informations importantes concernant un produit ou un service que vous aurez acheté, pour vous tenir informé sur votre réservation et l'itinéraire de voyage.
+*   Si vous nous communiquez votre volonté de ne pas recevoir de communications commerciales, nous cesserons de vous les envoyer. Nous continuerons évidemment à vous envoyer des informations importantes concernant un produit ou un service que vous aurez acheté, pour vous tenir informé sur votre réservation et l'itinéraire de voyage.
     
-* En cas de besoin, nous vous enverrons des informations concernant le produit ou le service que vous aurez acheté, afin de vous tenir informé sur votre réservation et l'itinéraire de voyage.
+*   En cas de besoin, nous vous enverrons des informations concernant le produit ou le service que vous aurez acheté, afin de vous tenir informé sur votre réservation et l'itinéraire de voyage.
     
-* Nous prendrons les mesures nécessaires pour protéger et sécuriser vos informations.
+*   Nous prendrons les mesures nécessaires pour protéger et sécuriser vos informations.
     
-* Nous respecterons les droits relatifs à la protection des données et nous tenterons de vous céder le contrôle sur vos informations personnelles.
+*   Nous respecterons les droits relatifs à la protection des données et nous tenterons de vous céder le contrôle sur vos informations personnelles.
     
 
 La Politique de confidentialité dont le détail figure ci-dessous pourra vous permettre de mieux comprendre la façon dont nous utilisons vos données personnelles. Nous y expliquons plus précisément les types de données personnelles que nous collectons, comment nous le faisons, à quelles fins nous pouvons les utiliser et avec qui nous pouvons les partager.
@@ -85,27 +85,27 @@ Nous collectons des données personnelles sur vous chaque fois que vous utilisez
 
 **Voici quelques exemples de la façon dont nous collectons les informations et à quel moment :**
 
-* Lorsque vous réservez ou recherchez un vol ou d'autres produits ou services sur notre site Internet ou notre application mobile
+*   Lorsque vous réservez ou recherchez un vol ou d'autres produits ou services sur notre site Internet ou notre application mobile
     
-* Lorsque vous réservez un vol ou tout autre produit à travers d'autres canaux de vente, notamment une agence de voyages.
+*   Lorsque vous réservez un vol ou tout autre produit à travers d'autres canaux de vente, notamment une agence de voyages.
     
-* Lorsque vous vous présentez en porte d'embarquement sur l'un des vols figurant dans votre réservation.
+*   Lorsque vous vous présentez en porte d'embarquement sur l'un des vols figurant dans votre réservation.
     
-* Lorsque vous vous inscrivez à l'un de nos programmes de fidélité IBERIA CLUB, Iberia Joven ou On Business, ou à notre service d'enchères, ou quand vous décidez d'acheter l'une de nos Cartes-cadeaux.
+*   Lorsque vous vous inscrivez à l'un de nos programmes de fidélité IBERIA CLUB, Iberia Joven ou On Business, ou à notre service d'enchères, ou quand vous décidez d'acheter l'une de nos Cartes-cadeaux.
     
-* Lorsque vous utilisez l'un de nos assistants virtuels pour effectuer des activités telles que l'enregistrement d'un vol, demander des informations sur l'état de vos vols ou de souscrire des services associés à ces derniers.
+*   Lorsque vous utilisez l'un de nos assistants virtuels pour effectuer des activités telles que l'enregistrement d'un vol, demander des informations sur l'état de vos vols ou de souscrire des services associés à ces derniers.
     
-* Lorsque vous contactez l'un de nos _centres d'aide_ et autres agents de service.
+*   Lorsque vous contactez l'un de nos _centres d'aide_ et autres agents de service.
     
-* Lorsque vous répondez à une enquête de satisfaction et que vous nous faites part de vos plaintes, compliments, recommandations et suggestions.
+*   Lorsque vous répondez à une enquête de satisfaction et que vous nous faites part de vos plaintes, compliments, recommandations et suggestions.
     
-* Lorsque vous participez à nos concours ou que vous vous inscrivez à l'une de nos promotions, ou encore lorsque vous décidez d'entrer en relation avec nous à travers votre profil sur des réseaux sociaux, comme Facebook ou Twitter.
+*   Lorsque vous participez à nos concours ou que vous vous inscrivez à l'une de nos promotions, ou encore lorsque vous décidez d'entrer en relation avec nous à travers votre profil sur des réseaux sociaux, comme Facebook ou Twitter.
     
-* Lorsque vous voyagez avec nous et lorsque vous utilisez les salons VIP dans les aéroports où nous opérons.
+*   Lorsque vous voyagez avec nous et lorsque vous utilisez les salons VIP dans les aéroports où nous opérons.
     
-* Lorsque vous utilisez nos systèmes de divertissement à bord ou nos services de communication.
+*   Lorsque vous utilisez nos systèmes de divertissement à bord ou nos services de communication.
     
-* Lorsque vous cliquez sur l'un de nos e-mails ou que vous naviguez sur notre site Internet. Il se peut également que nous recevions des informations sur la façon dont vous nous avez trouvés sur Internet ou sur les sites que vous avez visités au préalable.
+*   Lorsque vous cliquez sur l'un de nos e-mails ou que vous naviguez sur notre site Internet. Il se peut également que nous recevions des informations sur la façon dont vous nous avez trouvés sur Internet ou sur les sites que vous avez visités au préalable.
     
 
 Dans les cas ci-dessus et par votre intermédiaire, nous pouvons collecter des données personnelles de tiers, qu'il s'agisse d'adultes ou de mineurs. Dans de tels cas, lorsque vous nous fournissez les données de ces personnes, vous devez au préalable disposer des consentements et/ou des pouvoirs légaux nécessaires pour nous fournir ces données, afin d'effectuer les traitements et de se conformer aux fins indiquées dans chaque cas dans cette politique de confidentialité. Dans le cas contraire, nous vous prions de ne pas nous fournir les informations en question.
@@ -114,13 +114,13 @@ Pour en savoir plus, consultez la rubrique « Quels types de données personnel
 
 De plus, nous pouvons recevoir des données personnelles vous concernant de la part de tierces parties comme :
 
-* Des entreprises auxquelles nous avons fait appel pour vous fournir un service.
+*   Des entreprises auxquelles nous avons fait appel pour vous fournir un service.
     
-* Des entreprises impliquées dans vols plans de voyage, notamment des compagnies aériennes et/ou d'autres types de transport impliqués dans votre voyage antérieur ou postérieur, des opérateurs aéroportuaires et des autorités des douanes et d'immigration.
+*   Des entreprises impliquées dans vols plans de voyage, notamment des compagnies aériennes et/ou d'autres types de transport impliqués dans votre voyage antérieur ou postérieur, des opérateurs aéroportuaires et des autorités des douanes et d'immigration.
     
-* Des entreprises qui participent à nos programmes de fidélité et autres programmes pour les clients (par exemple, des loueurs de véhicules et des hôtels).
+*   Des entreprises qui participent à nos programmes de fidélité et autres programmes pour les clients (par exemple, des loueurs de véhicules et des hôtels).
     
-* Des entreprises qui nous fournissent des données en vertu de politiques de confidentialité qui prévoient des informations à partager avec Iberia.
+*   Des entreprises qui nous fournissent des données en vertu de politiques de confidentialité qui prévoient des informations à partager avec Iberia.
     
 
 #### Quels types de données personnelles collectons-nous et conservons-nous ?
@@ -129,7 +129,7 @@ Lorsque vous utilisez nos services, vous devez nous fournir vos données personn
 
 Nous collectons les catégories de données personnelles suivantes :
 
-* Les données que vous fournissez à Iberia pour compléter et gérer une réservation faite avec nous ou un service que vous nous avez demandé.
+*   Les données que vous fournissez à Iberia pour compléter et gérer une réservation faite avec nous ou un service que vous nous avez demandé.
     
     _**Exemples :** Nom, adresse, courrier électronique, date de naissance, sexe, numéro de passeport ou de carte d'identité, données et informations de paiement._
     
@@ -137,7 +137,7 @@ Nous collectons les catégories de données personnelles suivantes :
     
     _Nous saurons si vous avez réservé votre vol sur iberia.com ou si vous avez utilisé un autre canal de vente, notamment une agence de voyages ou notre centre de service clientèle._
     
-* Données collectées pendant votre voyage avec nous.
+*   Données collectées pendant votre voyage avec nous.
     
     _**Exemples :** Il est possible que nous collections certaines informations, notamment votre interaction avec le personnel et l'équipage de cabine, avant et pendant le vol._
     
@@ -145,21 +145,21 @@ Nous collectons les catégories de données personnelles suivantes :
     
     _Nous obtiendrons des informations sur votre utilisation de nos services pendant le voyage, y compris nos systèmes de divertissement à bord ou nos salons VIP._
     
-* Données sur votre programme de voyage.
+*   Données sur votre programme de voyage.
     
     _**Exemples :** Données concernant votre réservation, itinéraire de voyages, donnée sur toute assistance supplémentaire que vous pourriez demander et autres informations associées à votre voyage, notamment vos préférences alimentaires ou besoins spéciaux à cet égard._
     
-* Données sur les services que nous vous avons prêtés par le passé.
+*   Données sur les services que nous vous avons prêtés par le passé.
     
     _**Exemples :** Donnée sur des voyages précédents, notamment les voyages réalisés et toutes les questions liées à ces derniers, y compris les surclassements (« upgrades »), les besoins en matière de bagages, des problèmes dans les aéroports, des incidents avec les bagages et vos commentaires en tant que client._
     
-* Données sur votre enregistrement en ligne et autres interactions.
+*   Données sur votre enregistrement en ligne et autres interactions.
     
     _**Exemples :** Nous conserverons vos données pour garantir une interaction adéquate avec vous, soit parce que vous vous êtes enregistrés chez nous à travers nos programmes de fidélité Iberia Club ou On Business, par exemple,, soit parce que vous vous êtes identifié comme membre d'un autre programme de fidélité._
     
     _Nous conserverons vos données si vous avez participé à un concours ou à une action promotionnelle, ou si vous avez interagi avec nous sur des réseaux sociaux comme Facebook ou Twitter._
     
-* Données sur votre utilisation de notre site Web, des applications pour téléphone portable et des centres de service clientèle.
+*   Données sur votre utilisation de notre site Web, des applications pour téléphone portable et des centres de service clientèle.
     
     _**Exemples :** Pour vous aider à personnaliser vos données et améliorer notre site Web, nous utilisons des cookies et des technologies similaires pour collecter des informations sur vos recherches et les contenus que vous avez consultés sur notre site Web, notamment le site Web d'où vous venez, les bannières et les liens qui apparaissent sur les sites Web de nos partenaires commerciaux._
     
@@ -172,11 +172,11 @@ Nous collectons les catégories de données personnelles suivantes :
 
 Certaines catégories de données personnelles comme celles concernant l'origine raciale, ethnique, la religion, la santé, l'orientation sexuelle ou les données biométriques, constituent des catégories spéciales de données personnelles qui exigent une protection supplémentaire, conformément à la réglementation sur les données personnelles de l'Union européenne et/ou d'autres juridictions. Elles sont appelées « données personnelles sensibles ». En dehors de l'Union européenne, il peut exister d'autres types de données de même considération, selon leurs propres réglementations nationales, comme, par exemple, les données des mineurs d'un certain âge, les données de traçabilité (cookies) ou les données financières. Iberia s'efforce de limiter la collecte et le traitement des données de cette nature. Les exemples suivants montrent des cas où nous pourrions collecter et traiter des données personnelles sensibles :
 
-* Lorsque, conformément aux obligations ou exigences administratives et légales, vous devez nous présenter ou nous fournir, à des fins de vérification, des documents de voyage nécessaires, comprenant des données sanitaires, comme par exemple, le résultat de tests médicaux ou de tests de dépistage de maladies infectieuses ou contagieuses (telles que la COVID-19, par exemple).
-* Si vous avez demandé à Iberia et/ou à un opérateur aéroportuaire une assistance médicale spécifique, notamment un fauteuil roulant ou de l'oxygène.
-* Si vous avez demandé une autorisation pour voyager sur nos vols alors que vous souffrez d'un problème médical spécifique, ou en cas de grossesse de plus de 28 semaines.
-* Si vous avez choisi de nous fournir ces informations quelle que soit la raison ou si elles nous ont été fournies par un tiers, notamment l'agence de voyages à travers laquelle vous avez effectué votre réservation.
-* Si vous utilisez les systèmes d'embarquement biométrique disponibles dans certains des aéroports où nous opérons.
+*   Lorsque, conformément aux obligations ou exigences administratives et légales, vous devez nous présenter ou nous fournir, à des fins de vérification, des documents de voyage nécessaires, comprenant des données sanitaires, comme par exemple, le résultat de tests médicaux ou de tests de dépistage de maladies infectieuses ou contagieuses (telles que la COVID-19, par exemple).
+*   Si vous avez demandé à Iberia et/ou à un opérateur aéroportuaire une assistance médicale spécifique, notamment un fauteuil roulant ou de l'oxygène.
+*   Si vous avez demandé une autorisation pour voyager sur nos vols alors que vous souffrez d'un problème médical spécifique, ou en cas de grossesse de plus de 28 semaines.
+*   Si vous avez choisi de nous fournir ces informations quelle que soit la raison ou si elles nous ont été fournies par un tiers, notamment l'agence de voyages à travers laquelle vous avez effectué votre réservation.
+*   Si vous utilisez les systèmes d'embarquement biométrique disponibles dans certains des aéroports où nous opérons.
 
 De plus, il est possible que vous ayez demandé un service spécial (tel qu'un menu) qui ne constitue pas à proprement parler une donnée sensible, mais qui peut impliquer ou suggérer des informations sur votre religion, votre santé ou d'autres données.
 
@@ -186,17 +186,17 @@ Les principaux buts dans lesquels nous traitons vos données personnelles sont p
 
 Dans certains cas, cette finalité peut également être fondée sur le consentement que vous nous avez préalablement accordé. Par exemple, lors du processus de consultation ou de réservation de billets sur notre site Internet, nous pouvons vous demander l'autorisation de vous envoyer par voie électronique des informations spécifiques concernant votre visite et les intérêts que vous avez manifestés lors de celle-ci, même dans le cas où vous n'avez finalement effectué aucun achat au cours de cette visite.
 
-* Sur la base de notre relation contractuelle avec vous, pour traiter toutes les questions liées à votre voyage et vous fournir les services demandés.
+*   Sur la base de notre relation contractuelle avec vous, pour traiter toutes les questions liées à votre voyage et vous fournir les services demandés.
     
     _**Exemples :** Nous devrons utiliser votre nom, adresse, courrier électronique, coordonnées, date de naissance, sexe, numéro de passeport ou carte d'identité et coordonnées bancaires pour traiter vos réservations, les services liés à votre voyage, percevoir le paiement de nos services, fournir des informations aux autorités compétentes (notamment les autorités fiscales, les douanes et l'immigration) et pour permettre à Iberia de savoir qui possède une réservation sur un vol._
     
-* Sur la base de notre relation contractuelle avec vous, pour gérer le processus d'embarquement et faciliter les vols de correspondance à l'aéroport.
+*   Sur la base de notre relation contractuelle avec vous, pour gérer le processus d'embarquement et faciliter les vols de correspondance à l'aéroport.
     
     _**Exemples :** Si vous ne vous présentez pas à la porte d'embarquement pour prendre votre vol, nous pourrions devoir vérifier que vous avez passé le contrôle de sécurité de l'aéroport ou savoir si vous étiez à bord d'un vol de correspondance, afin de savoir comment vous contacter pour vous informer de l'embarquement du vol._
     
     _Dans certains aéroports où nous pouvons opérer, le système de reconnaissance faciale est utilisé (l'emploi de cette technologie, sauf s'il est exigé par la loi, est volontaire)._
     
-* Sur la base de notre relation contractuelle avec vous, pour vous envoyer des mises à jour d'état et des communications de service ou opérationnelles concernant le service souscrit, quel que soit le canal (vente directe ou à travers des agences/autres compagnies aériennes, vente en ligne ou présentielle...) par lequel vous avez souscrit nos services.
+*   Sur la base de notre relation contractuelle avec vous, pour vous envoyer des mises à jour d'état et des communications de service ou opérationnelles concernant le service souscrit, quel que soit le canal (vente directe ou à travers des agences/autres compagnies aériennes, vente en ligne ou présentielle...) par lequel vous avez souscrit nos services.
     
     _**Exemples :** Nous pouvons utiliser différents canaux, whatsapp, SMS, messages PUSH de notre application, pour vous informer de l'ouverture de l'enregistrement ou du retard ou de l'annulation de votre vol ou, de façon générale, des modifications concernant les services souscrits auprès d'Iberia ou des compagnies aériennes avec lesquelles Iberia a conclu un type d'accord de transport._
     
@@ -204,7 +204,7 @@ Dans certains cas, cette finalité peut également être fondée sur le consente
     
     _Si, par exemple, vous avez présenté votre carte d'embarquement pour accéder à l'un de nos salons VIP, nous pouvons vous offrir des informations et des alertes sur votre vol, notamment le changement de porte ou de l'heure d'embarquement._
     
-* Sur la base du respect de nos obligations légales, pour gérer les démarches liées à l'immigration et/ou à l'entrée ou à la sortie du territoire d'un État, veiller à votre sécurité et remplir toute une série d'exigences légales qu'Iberia doit appliquer en tant que compagnie aérienne. Par ailleurs, nous serons obligés, dans certains cas bien précis, de communiquer vos coordonnées aux autorités sanitaires locales ou internationales.
+*   Sur la base du respect de nos obligations légales, pour gérer les démarches liées à l'immigration et/ou à l'entrée ou à la sortie du territoire d'un État, veiller à votre sécurité et remplir toute une série d'exigences légales qu'Iberia doit appliquer en tant que compagnie aérienne. Par ailleurs, nous serons obligés, dans certains cas bien précis, de communiquer vos coordonnées aux autorités sanitaires locales ou internationales.
     
     _**Exemples :** En tant que compagnie aérienne, Iberia est obligée de tenir un registre avec des informations sur les passagers qui se trouvent à bord de ses avions._
     
@@ -216,15 +216,15 @@ Dans certains cas, cette finalité peut également être fondée sur le consente
     
     _Enfin, dans le cadre de la lutte contre la fraude et les délits majeurs (trafic illégal de personnes, de substances ou de marchandises, terrorisme...), les compagnies aériennes sont obligées de répondre aux demandes d'information émanant des forces de sécurité compétentes des États où elles opèrent._
     
-* Sur la base de notre intérêt légitime d'entreprise, pour vous fournir des services répondant à vos besoins et vous offrir un traitement personnalisé.
+*   Sur la base de notre intérêt légitime d'entreprise, pour vous fournir des services répondant à vos besoins et vous offrir un traitement personnalisé.
     
     _**Exemples :** Nous pouvons personnaliser votre expérience lorsque vous voyagez avec nous. Par exemple, un membre de notre équipage peut vous souhaiter à nouveau la bienvenue à bord d'un vol d'Iberia._
     
-* Sur la base de notre intérêt légitime d'entreprise, pour effectuer des analyses et des études de marché.
+*   Sur la base de notre intérêt légitime d'entreprise, pour effectuer des analyses et des études de marché.
     
     _**Exemples :** Nous analyserons la façon dont les clients utilisent nos canaux de vente, produits et services, afin de savoir comment améliorer le service que nous fournissons._
     
-* Sur la base de notre intérêt légitime en tant qu'entreprise, pour effectuer des activités de marketing direct et vous tenir informés sur les produits et services d'Iberia qui correspondent le mieux, selon nous, à vos besoins ou à vos préférences.
+*   Sur la base de notre intérêt légitime en tant qu'entreprise, pour effectuer des activités de marketing direct et vous tenir informés sur les produits et services d'Iberia qui correspondent le mieux, selon nous, à vos besoins ou à vos préférences.
     
     _**Exemples :** Nous pouvons vous envoyer des informations sur nos produits et services par courrier électronique, messages push de notre application, whatsapp ou SMS._
     
@@ -234,21 +234,21 @@ Dans certains cas, cette finalité peut également être fondée sur le consente
     
     Dans certains cas, cette finalité peut également être fondée sur le consentement que vous nous avez préalablement accordé. Par exemple, lors du processus de consultation ou de réservation de billets sur notre site Internet, nous pouvons vous demander l'autorisation de vous envoyer par voie électronique des informations spécifiques concernant votre visite et les intérêts que vous avez manifestés lors de celle-ci, même dans le cas où vous n'avez finalement effectué aucun achat au cours de cette visite.
     
-* Si vous êtes membre du programme IBERIA CLUB, et sur la base du consentement que vous nous avez fourni au préalable, pour effectuer des activités de marketing direct par des moyens électroniques et vous tenir au courant des produits et services d'Iberia qui, selon nous, sont les plus adaptés à vos besoins ou préférences, ainsi que pour vous envoyer des communications commerciales électroniques personnalisées sur des produits et des services d'autres compagnies du Groupe IAG et des partenaires du programme Iberia Club.
+*   Si vous êtes membre du programme IBERIA CLUB, et sur la base du consentement que vous nous avez fourni au préalable, pour effectuer des activités de marketing direct par des moyens électroniques et vous tenir au courant des produits et services d'Iberia qui, selon nous, sont les plus adaptés à vos besoins ou préférences, ainsi que pour vous envoyer des communications commerciales électroniques personnalisées sur des produits et des services d'autres compagnies du Groupe IAG et des partenaires du programme Iberia Club.
     
-* Sur la base de notre intérêt légitime en tant qu'entreprise ou du consentement que vous nous avez fourni au préalable, selon les cas, nous pourrons enregistrer les communications et instructions télématiques produites pendant votre utilisation de l'un des services clientèle ou bureaux de vente d'Iberia, Iberia Express ou Iberia Regional/Air Nostrum et, par conséquent, nous traiterons vos données personnelles, y compris votre voix lorsque vous vous adresserez à nous à travers ces canaux, pour conserver une preuve des transactions effectuées aux fins juridiques pertinentes.
+*   Sur la base de notre intérêt légitime en tant qu'entreprise ou du consentement que vous nous avez fourni au préalable, selon les cas, nous pourrons enregistrer les communications et instructions télématiques produites pendant votre utilisation de l'un des services clientèle ou bureaux de vente d'Iberia, Iberia Express ou Iberia Regional/Air Nostrum et, par conséquent, nous traiterons vos données personnelles, y compris votre voix lorsque vous vous adresserez à nous à travers ces canaux, pour conserver une preuve des transactions effectuées aux fins juridiques pertinentes.
     
-* Sur la base de notre intérêt commercial légitime et dans la mesure où vous ne vous y opposez pas expressément, nous pouvons également utiliser les informations que vous nous fournissez ou que nous obtenons pour enrichir le profil de notre base de données clients, définir des segments de marché ou de clientèle, établir ou calculer différents degrés de liaison de nos clients avec Iberia et/ou ses produits ou services, afin de vous proposer une offre de service plus personnalisée, telle que : proposer de participer à des campagnes ou des événements qui correspondent le mieux à vos préférences, ou développer des produits, des services ou des interfaces d'achat qui améliorent votre expérience d'achat ou qui vous donnent une plus grande satisfaction.
+*   Sur la base de notre intérêt commercial légitime et dans la mesure où vous ne vous y opposez pas expressément, nous pouvons également utiliser les informations que vous nous fournissez ou que nous obtenons pour enrichir le profil de notre base de données clients, définir des segments de marché ou de clientèle, établir ou calculer différents degrés de liaison de nos clients avec Iberia et/ou ses produits ou services, afin de vous proposer une offre de service plus personnalisée, telle que : proposer de participer à des campagnes ou des événements qui correspondent le mieux à vos préférences, ou développer des produits, des services ou des interfaces d'achat qui améliorent votre expérience d'achat ou qui vous donnent une plus grande satisfaction.
     
-* Sur la base du consentement que vous nous avez fourni au préalable à travers votre intention manifeste d'y souscrire, pour communiquer vos données à d'autres sociétés du Groupe IAG auquel appartient Iberia ou à des entreprises tierces qui collaborent avec le Groupe (notamment les entreprises tierces dont les produits ou services sont proposés et/ou que l'on peut acheter ou souscrire à travers notre site Internet, ainsi que les partenaires de notre programme Iberia Plus), dans les cas où vous avez acheté ou souscrit l'un de ces produits ou services. Dans ces cas, la cession concernera exclusivement un nombre limité de données d'identification que vous nous aurez fournies et qui sont nécessaires pour acheter ou souscrire les produits et services en question.
+*   Sur la base du consentement que vous nous avez fourni au préalable à travers votre intention manifeste d'y souscrire, pour communiquer vos données à d'autres sociétés du Groupe IAG auquel appartient Iberia ou à des entreprises tierces qui collaborent avec le Groupe (notamment les entreprises tierces dont les produits ou services sont proposés et/ou que l'on peut acheter ou souscrire à travers notre site Internet, ainsi que les partenaires de notre programme Iberia Plus), dans les cas où vous avez acheté ou souscrit l'un de ces produits ou services. Dans ces cas, la cession concernera exclusivement un nombre limité de données d'identification que vous nous aurez fournies et qui sont nécessaires pour acheter ou souscrire les produits et services en question.
     
     _Vous pouvez accéder à la liste complète des partenaires IBERIA CLUB sur [www.iberia.com](https://www.iberia.com/fr/iberiaplus/recherche-partenaire/ "www.iberia.com")_
     
-* Sur la base de notre relation contractuelle avec vous, pour vous envoyer des informations mises à jour et des communications opérationnelles.
+*   Sur la base de notre relation contractuelle avec vous, pour vous envoyer des informations mises à jour et des communications opérationnelles.
     
     _**Exemples :** Même dans le cas où vous avez décidé de ne plus recevoir d'informations commerciales, nous pourrons continuer à vous envoyer des communications opérationnelles sur les services que vous avez réservés ou souscrits, comme votre itinéraire de voyage. Ces communications vous permettront de disposer du détail des services souscrits et pourront inclure des options et des compléments aux services que vous allez utiliser (par exemple, la sélection de siège anticipée, des bagages supplémentaires et la réservation de menus)._
     
-* Sur la base de notre intérêt légitime commercial, pour améliorer notre site Internet, nos produits et services.
+*   Sur la base de notre intérêt légitime commercial, pour améliorer notre site Internet, nos produits et services.
     
     _**Exemples :** Nous pourrons effectuer un suivi de la façon dont vous et d'autres clients utilisez notre site Internet, afin de déterminer par quels moyens nous pouvons améliorer votre expérience de navigation De même, nous pouvons utiliser ces informations pour définir et comparer des modèles de comportement courants et les distinguer des autres qui peuvent être considérés comme malveillants, pour détecter et prévenir les cas de fraude, et pour appliquer et améliorer les protocoles de sécurité et de cybersécurité établis._
     
@@ -258,27 +258,27 @@ Dans certains cas, cette finalité peut également être fondée sur le consente
     
     _Si vous êtes membre du programme Iberia Club, nous pourrons également vous envoyer des enquêtes pour connaître votre niveau de satisfaction à l'égard du programme, avec des offres et des promotions et/ou des services et des produits proposés par nos partenaires. Dans ce cas, ce traitement sera basé sur le consentement que vous nous aurez fourni au préalable._
     
-* Sur la base de notre relation contractuelle avec vous, pour être en mesure de gérer les transactions, opérations, achat et souscription de produits et de services par n'importe quel moyen, ou tout type de consultation, plainte, réclamation ou suggestion que vous pourriez nous soumettre.
+*   Sur la base de notre relation contractuelle avec vous, pour être en mesure de gérer les transactions, opérations, achat et souscription de produits et de services par n'importe quel moyen, ou tout type de consultation, plainte, réclamation ou suggestion que vous pourriez nous soumettre.
     
-* Sur la base du respect de nos obligations légales, selon le cas, nous pouvons également utiliser vos données à d'autres fins de gestion et d'administration.
+*   Sur la base du respect de nos obligations légales, selon le cas, nous pouvons également utiliser vos données à d'autres fins de gestion et d'administration.
     
     _**Exemples :** Nous pouvons parfois utiliser et conserver vos données personnelles, y compris l'historique de vos achats, à des fins administratives, ce qui pourrait inclure notamment : des tâches de comptabilité et de facturation, des audits, la vérification de cartes de crédit ou d'autres cartes de paiement, la lutte contre la fraude (y compris le recours à des agences de rapports de crédit, la comparaison dans ce but avec des informations d'entités financières et d'autres entreprises qui opèrent avec des moyens de paiement électroniques, et des vérifications de validation des cartes de paiement), des essais, la maintenance et le développement de systèmes._
     
-* Sur la base de l'application d'une obligation légale, pour gérer correctement des situations d'urgence, des catastrophes ou des cas de force majeure, nous pourrions avoir besoin de communiquer vos données à différentes sortes de personnes, d'entreprises ou d'organismes dont la collaboration s'avère indispensable pour Iberia dans de tels cas.
+*   Sur la base de l'application d'une obligation légale, pour gérer correctement des situations d'urgence, des catastrophes ou des cas de force majeure, nous pourrions avoir besoin de communiquer vos données à différentes sortes de personnes, d'entreprises ou d'organismes dont la collaboration s'avère indispensable pour Iberia dans de tels cas.
     
 
 #### Dans quels cas effectuons-nous un traitement automatisé de vos données ?
 
 Dans certaines situations, nous procédons à un traitement entièrement ou partiellement automatisé de vos données. Par exemple :
 
-* Lorsque vous utilisez l'un de nos robots ou assistants virtuels en ligne, qui font appel à l'intelligence artificielle. L'utilisation de ces interfaces est volontaire, n'étant qu'une simple alternative au contact téléphonique avec nos agents du service clients.
-* Lorsque vous utilisez notre application en ligne Aircheck pour vérifier à l'avance si vos documents de voyage sont conformes aux exigences requises par votre pays de destination. Dans ce cas également, l'utilisation de cette application est volontaire, dans la mesure où vous pouvez toujours faire vérifier vos documents par nos agents de comptoir en porte d'embarquement. De plus, si vous utilisez Aircheck et n'obtenez pas la validation des documents présentés, vous pourrez les faire vérifier à nouveau en ligne. Cette seconde vérification est effectuée manuellement par l'un de nos agents.
-* Lorsque vous effectuez un achat ou une réservation sur notre site Internet ou sur l'application, diverses actions automatisées sont exécutées, de l'annotation de votre réservation dans nos systèmes et l'envoi de communications électroniques pour confirmer des faits, jusqu'à la vérification de la légalité des transactions effectuées avec le moyen de paiement utilisé pour votre achat.
-* Lorsque vous effectuez un achat ou une réservation de billets sur notre site Web ou notre application, différents traitements ou décisions automatisées peuvent être effectués, en étudiant les comportements et/ou sur la base de précédentes recherches effectuées par vos solins, pouvant conduire à la personnalisation des prix affichés.
-* En cas de modification de votre réservation, résultant d'une perturbation de votre vol ou d'un changement d'horaire de nos vols, et si nous vous envoyons une communication vous informant de ces modifications et des alternatives que nous mettons à votre disposition pour nous conformer aux conditions de notre contrat de transport et/ou à nos obligations légales envers vous découlant dudit contrat.
-* Lorsque nous vous envoyons des informations personnalisées concernant des produits et services qui, selon nous, pourraient vous intéresser particulièrement, ou lorsque nous suggérons des modifications à votre réservation qui, à notre avis, pourraient mieux répondre à vos besoins ou vous intéresser particulièrement, soit parce que vous nous avez donné votre accord préalable pour le faire, soit parce que nous vous avons informé de notre intention et que vous n'avez pas manifesté d'opposition à cet égard.
-* Pour résoudre certains types de réclamations soumises via notre site Internet (par exemple, les demandes d'indemnisation pour retard ou annulation de vols), à moins que vous ne nous ayez informé de votre opposition à un tel traitement automatisé.
-* Lorsque vous utilisez les systèmes d'identification et d'embarquement biométriques existant dans certains des aéroports où nous opérons, à condition que vous ayez consenti à l'utilisation de vos données lors de votre inscription à ce type de service via nos applications ou des applications de tiers (tels que, par exemple, celles des gestionnaires d'aéroport ou de toute autre compagnie aérienne associée au même programme).
+*   Lorsque vous utilisez l'un de nos robots ou assistants virtuels en ligne, qui font appel à l'intelligence artificielle. L'utilisation de ces interfaces est volontaire, n'étant qu'une simple alternative au contact téléphonique avec nos agents du service clients.
+*   Lorsque vous utilisez notre application en ligne Aircheck pour vérifier à l'avance si vos documents de voyage sont conformes aux exigences requises par votre pays de destination. Dans ce cas également, l'utilisation de cette application est volontaire, dans la mesure où vous pouvez toujours faire vérifier vos documents par nos agents de comptoir en porte d'embarquement. De plus, si vous utilisez Aircheck et n'obtenez pas la validation des documents présentés, vous pourrez les faire vérifier à nouveau en ligne. Cette seconde vérification est effectuée manuellement par l'un de nos agents.
+*   Lorsque vous effectuez un achat ou une réservation sur notre site Internet ou sur l'application, diverses actions automatisées sont exécutées, de l'annotation de votre réservation dans nos systèmes et l'envoi de communications électroniques pour confirmer des faits, jusqu'à la vérification de la légalité des transactions effectuées avec le moyen de paiement utilisé pour votre achat.
+*   Lorsque vous effectuez un achat ou une réservation de billets sur notre site Web ou notre application, différents traitements ou décisions automatisées peuvent être effectués, en étudiant les comportements et/ou sur la base de précédentes recherches effectuées par vos solins, pouvant conduire à la personnalisation des prix affichés.
+*   En cas de modification de votre réservation, résultant d'une perturbation de votre vol ou d'un changement d'horaire de nos vols, et si nous vous envoyons une communication vous informant de ces modifications et des alternatives que nous mettons à votre disposition pour nous conformer aux conditions de notre contrat de transport et/ou à nos obligations légales envers vous découlant dudit contrat.
+*   Lorsque nous vous envoyons des informations personnalisées concernant des produits et services qui, selon nous, pourraient vous intéresser particulièrement, ou lorsque nous suggérons des modifications à votre réservation qui, à notre avis, pourraient mieux répondre à vos besoins ou vous intéresser particulièrement, soit parce que vous nous avez donné votre accord préalable pour le faire, soit parce que nous vous avons informé de notre intention et que vous n'avez pas manifesté d'opposition à cet égard.
+*   Pour résoudre certains types de réclamations soumises via notre site Internet (par exemple, les demandes d'indemnisation pour retard ou annulation de vols), à moins que vous ne nous ayez informé de votre opposition à un tel traitement automatisé.
+*   Lorsque vous utilisez les systèmes d'identification et d'embarquement biométriques existant dans certains des aéroports où nous opérons, à condition que vous ayez consenti à l'utilisation de vos données lors de votre inscription à ce type de service via nos applications ou des applications de tiers (tels que, par exemple, celles des gestionnaires d'aéroport ou de toute autre compagnie aérienne associée au même programme).
 
 Dans les cas où l'un de nos traitements ou décisions automatisées est basé sur notre intérêt commercial légitime ou sur votre consentement préalable, vous pouvez toujours vous opposer au traitement ou révoquer votre consentement à tout moment, ultérieurement, le cas échéant, sans que ladite opposition ou révocation puisse avoir un effet rétroactif.
 
@@ -294,10 +294,10 @@ Lorsque notre but à cet égard ne sera pas basé sur le consentement que vous n
 
 Si vous décidez que vous ne voulez plus recevoir de communications commerciales, vous pouvez changer d'avis à tout moment. Voici les canaux permettant de ne plus recevoir de communications commerciales :
 
-* **Si vous êtes un CLIENT ENREGISTRÉ**, vous pouvez modifier vos préférences en matière de confidentialité à tout moment en modifiant les préférences de communication disponibles dans votre profil en ligne sur www.iberia.com, en accédant à votre espace privé Iberia ; ou via le formulaire en ligne de gestion de droits individuels de notre site web accessible dans [Gestion des données personnelles](https://www.iberia.com/fr/gestion-des-donnees-personnelles/ "Gestion des données personnelles").
-* **Si vous êtes MEMBRE D'IBERIA CLUB**, vous pouvez modifier vos préférences en matière de confidentialité à tout moment en modifiant les préférences de communication disponibles dans votre profil en ligne sur www.iberia.com, en accédant à votre espace privé IBERIA CLUB dans la rubrique « Mon profil/Préférences » ou via le formulaire en ligne de gestion des droits individuels sur notre site web, accessible dans [Gestion des données personnelles](https://www.iberia.com/fr/gestion-des-donnees-personnelles/ "Gestion des données personnelles").
-* **Si vous êtes MEMBRE D'ON BUSINESS**, vous pouvez modifier vos préférences en matière de confidentialité à tout moment en modifiant les préférences de communication disponibles dans votre profil en ligne sur https://onbusiness.iberia.com ; ou via le formulaire en ligne de gestion de droits individuels de notre site web accessible dans [Gestion des données personnelles](https://www.iberia.com/fr/gestion-des-donnees-personnelles/ "Gestion des données personnelles").
-* **Si VOUS N'ÊTES PAS MEMBRE D'IBERIA CLUB NI D'ON BUSINESS ET QUE VOUS N'ÊTES PAS NON PLUS UN CLIENT ENREGISTRÉ**, vous pouvez également vous opposer à l'envoi de ce type de communications commerciales au moyen du formulaire en ligne de gestion des droits individuels, accessible sur notre site web, dans [Gestion des données personnelles](https://www.iberia.com/fr/gestion-des-donnees-personnelles/ "Gestion des données personnelles").
+*   **Si vous êtes un CLIENT ENREGISTRÉ**, vous pouvez modifier vos préférences en matière de confidentialité à tout moment en modifiant les préférences de communication disponibles dans votre profil en ligne sur www.iberia.com, en accédant à votre espace privé Iberia ; ou via le formulaire en ligne de gestion de droits individuels de notre site web accessible dans [Gestion des données personnelles](https://www.iberia.com/fr/gestion-des-donnees-personnelles/ "Gestion des données personnelles").
+*   **Si vous êtes MEMBRE D'IBERIA CLUB**, vous pouvez modifier vos préférences en matière de confidentialité à tout moment en modifiant les préférences de communication disponibles dans votre profil en ligne sur www.iberia.com, en accédant à votre espace privé IBERIA CLUB dans la rubrique « Mon profil/Préférences » ou via le formulaire en ligne de gestion des droits individuels sur notre site web, accessible dans [Gestion des données personnelles](https://www.iberia.com/fr/gestion-des-donnees-personnelles/ "Gestion des données personnelles").
+*   **Si vous êtes MEMBRE D'ON BUSINESS**, vous pouvez modifier vos préférences en matière de confidentialité à tout moment en modifiant les préférences de communication disponibles dans votre profil en ligne sur https://onbusiness.iberia.com ; ou via le formulaire en ligne de gestion de droits individuels de notre site web accessible dans [Gestion des données personnelles](https://www.iberia.com/fr/gestion-des-donnees-personnelles/ "Gestion des données personnelles").
+*   **Si VOUS N'ÊTES PAS MEMBRE D'IBERIA CLUB NI D'ON BUSINESS ET QUE VOUS N'ÊTES PAS NON PLUS UN CLIENT ENREGISTRÉ**, vous pouvez également vous opposer à l'envoi de ce type de communications commerciales au moyen du formulaire en ligne de gestion des droits individuels, accessible sur notre site web, dans [Gestion des données personnelles](https://www.iberia.com/fr/gestion-des-donnees-personnelles/ "Gestion des données personnelles").
 
 Outre ce qui précède, toutes les communications commerciales que nous vous enverrons par e-mail incluront une option « se désinscrire » ou « modifier mes préférences de contact » qui vous permettrons de modifier la fréquence de réception des communications électroniques commerciales envoyées par Iberia ou de ne plus les recevoir du tout.
 
@@ -329,55 +329,55 @@ Vous recevrez uniquement des e-mails commerciaux d'autres entreprises de notre g
 
 Il est également possible que nous divulguions vos données personnelles aux entreprises tierces suivantes, aux fins décrites ci-dessous :
 
-* Autorités douanières et d'immigration de tout pays inclus dans votre itinéraire ou de l'espace aérien duquel votre vol peut opérer. Iberia et les autres compagnies aériennes obéissent aux lois de l'Union européenne, des États-Unis et d'autres pays de fournir aux autorités de contrôle des frontières et aux autorités douanières un accès aux informations sur les réservations et le voyage lorsque le vol décolle ou atterrit dans ces pays, escales comprises, et lorsque vous les survolez pour arriver à votre destination.
-    * **Exemple :** si votre vol implique le survol des États-Unis, ces informations seront fournies aux autorités compétentes des États-Unis.
+*   Autorités douanières et d'immigration de tout pays inclus dans votre itinéraire ou de l'espace aérien duquel votre vol peut opérer. Iberia et les autres compagnies aériennes obéissent aux lois de l'Union européenne, des États-Unis et d'autres pays de fournir aux autorités de contrôle des frontières et aux autorités douanières un accès aux informations sur les réservations et le voyage lorsque le vol décolle ou atterrit dans ces pays, escales comprises, et lorsque vous les survolez pour arriver à votre destination.
+    *   **Exemple :** si votre vol implique le survol des États-Unis, ces informations seront fournies aux autorités compétentes des États-Unis.
         
-* Les compagnies aériennes, opérateurs de transport maritime ou terrestre et autres prestataires de services indispensables pour la prestation des services que vous avez demandés lorsque, par exemple, une partie de votre itinéraire de voyage comporte un vol opéré par une compagnie aérienne différente, ou des services donnés liés à votre vol et que vous avez décidé de souscrire. Ces compagnies aériennes, opérateurs et prestataires de services seront identifiés au moment de votre réservation et vous serez informé de la communication des données nécessaire, au préalable ou au moment même de cette communication. La souscription de votre part de ces services auprès de tiers sera considérée comme un consentement exprès de votre part de communiquer ces données.
+*   Les compagnies aériennes, opérateurs de transport maritime ou terrestre et autres prestataires de services indispensables pour la prestation des services que vous avez demandés lorsque, par exemple, une partie de votre itinéraire de voyage comporte un vol opéré par une compagnie aérienne différente, ou des services donnés liés à votre vol et que vous avez décidé de souscrire. Ces compagnies aériennes, opérateurs et prestataires de services seront identifiés au moment de votre réservation et vous serez informé de la communication des données nécessaire, au préalable ou au moment même de cette communication. La souscription de votre part de ces services auprès de tiers sera considérée comme un consentement exprès de votre part de communiquer ces données.
     
     Les critères d'Iberia pour la sélection des prestataires de services sont stricts, et conformes aux règles de protection des données. Iberia s'engage à respecter avec eux le contrat relatif au traitement des données correspondant, et à respecter, entre autres, les obligations suivantes : mise en œuvre des mesures techniques et organisationnelles appropriées ; traitement des données personnelles aux fins convenues et conformément aux seules instructions écrites d'Iberia ; suppression ou renvoi de ces données à Iberia à la fin de la prestation des services.
     
-    * **Exemples :** si votre destination comprend une correspondance entre un vol Iberia et un autre vol opéré par une autre compagnie aérienne, appartenant ou non au Groupe IAG.
+    *   **Exemples :** si votre destination comprend une correspondance entre un vol Iberia et un autre vol opéré par une autre compagnie aérienne, appartenant ou non au Groupe IAG.
         
-    * Si vous réservez un billet sur notre portail Internet pour effectuer un voyage avec un service de transport avec réservation préalable, nous fournirons votre nom et votre adresse e-mail, ainsi que d'autres informations nécessaires à la compagnie de transport pour qu'elle puisse émettre votre billet et gérer votre réservation.
+    *   Si vous réservez un billet sur notre portail Internet pour effectuer un voyage avec un service de transport avec réservation préalable, nous fournirons votre nom et votre adresse e-mail, ainsi que d'autres informations nécessaires à la compagnie de transport pour qu'elle puisse émettre votre billet et gérer votre réservation.
         
-    * Si vous souscrivez auprès de Bag On Board (« BOB ») le service de collecte à domicile, transport et enregistrement de bagages disponible pour certains vols d'Iberia, nous devrons fournir à cette société les données nécessaires pour lui permettre de gérer la relation contractuelle que vous lui avez demandée.
+    *   Si vous souscrivez auprès de Bag On Board (« BOB ») le service de collecte à domicile, transport et enregistrement de bagages disponible pour certains vols d'Iberia, nous devrons fournir à cette société les données nécessaires pour lui permettre de gérer la relation contractuelle que vous lui avez demandée.
         
-* Nos compagnies aériennes associées et franchisées (comme Air Nostrum Líneas Aéreas del Mediterráneo, S.A., ou « Air Nostrum »), par exemple, pour faciliter vos vols de correspondance ou pour gérer des avantages dérivés de la collaboration entre des programmes de fidélité. De même, des agences de voyages et d'autres entreprises tierces auprès desquelles vous réservez des voyages.
+*   Nos compagnies aériennes associées et franchisées (comme Air Nostrum Líneas Aéreas del Mediterráneo, S.A., ou « Air Nostrum »), par exemple, pour faciliter vos vols de correspondance ou pour gérer des avantages dérivés de la collaboration entre des programmes de fidélité. De même, des agences de voyages et d'autres entreprises tierces auprès desquelles vous réservez des voyages.
     
-* Si vous êtes membre des programmes ON BUSINESS ou IBERIA CLUB ou d'un autre programme de fidélité associé, comme ceux appartenant à d'autres compagnies aériennes de l'ALLIANCE ONEWORLD, nous partagerons des informations avec nos partenaires pour la gestion conjointe du programme de fidélité auquel vous avez droit. Pour en savoir plus sur les membres de OneWorld, rendez-vous sur le site web officiel [www.oneworld.com](https://fr.oneworld.com/ "www.oneworld.com").
+*   Si vous êtes membre des programmes ON BUSINESS ou IBERIA CLUB ou d'un autre programme de fidélité associé, comme ceux appartenant à d'autres compagnies aériennes de l'ALLIANCE ONEWORLD, nous partagerons des informations avec nos partenaires pour la gestion conjointe du programme de fidélité auquel vous avez droit. Pour en savoir plus sur les membres de OneWorld, rendez-vous sur le site web officiel [www.oneworld.com](https://fr.oneworld.com/ "www.oneworld.com").
     
-* Des sociétés de cartes de crédit et de débit, des banques et des institutions financières, des agences de rapports de crédit et des fournisseurs de services de prévention et de contrôle des fraudes, pour le traitement des paiements et pour effectuer ces tâches de prévention et de contrôle. Dans certains cas, ils peuvent agir en tant que responsables du traitement des données indépendants. De plus amples informations sur chacun d'eux peuvent être obtenues sur demande.
+*   Des sociétés de cartes de crédit et de débit, des banques et des institutions financières, des agences de rapports de crédit et des fournisseurs de services de prévention et de contrôle des fraudes, pour le traitement des paiements et pour effectuer ces tâches de prévention et de contrôle. Dans certains cas, ils peuvent agir en tant que responsables du traitement des données indépendants. De plus amples informations sur chacun d'eux peuvent être obtenues sur demande.
     
-* Parmi ces derniers, sur la base de notre intérêt commercial légitime, nous pouvons partager les données collectées lors de votre processus d'achat ou de réservation de produits ou services sur notre site web avec Riskified Ltd., une entité de nationalité israélienne qui traitera vos données en tant que contrôleur de données indépendant, et conformément à sa propre politique de confidentialité, [www.riskified.com](https://www.riskified.com/terms/#privacy "Ir a: Riskified[Abre otro sitio en una ventana nueva que puede que no cumpla las normas de accesibilidad.]") pour
+*   Parmi ces derniers, sur la base de notre intérêt commercial légitime, nous pouvons partager les données collectées lors de votre processus d'achat ou de réservation de produits ou services sur notre site web avec Riskified Ltd., une entité de nationalité israélienne qui traitera vos données en tant que contrôleur de données indépendant, et conformément à sa propre politique de confidentialité, [www.riskified.com](https://www.riskified.com/terms/#privacy "Ir a: Riskified[Abre otro sitio en una ventana nueva que puede que no cumpla las normas de accesibilidad.]") pour
     
-    * vérifier vos transactions pour détecter et empêcher celles qui pourraient constituer des activités frauduleuses et,
+    *   vérifier vos transactions pour détecter et empêcher celles qui pourraient constituer des activités frauduleuses et,
         
-    * conserver ces informations dans ses bases de données pour augmenter ses sources de contraste et améliorer la précision future de ses services de contrôle et de prévention des fraudes.
+    *   conserver ces informations dans ses bases de données pour augmenter ses sources de contraste et améliorer la précision future de ses services de contrôle et de prévention des fraudes.
         
     
     Riskified effectuera un traitement automatisé de vos données, en les comparant à des données supplémentaires liées à d'autres transactions que vous avez pu effectuer auprès d'Iberia et/ou sur d'autres plateformes de commerce électronique avec lesquelles Riskified a des accords similaires, pour analyser la régularité de vos ordres de paiement selon des critères préalablement définis. Pour en savoir plus sur les traitements mis en œuvre par Riskified, ses finalités et ses bases de légitimation, et/ou pour connaître vos droits face à ladite entité en matière de protection des données, et la façon de les faire valoir, suivez le lien vers la politique de confidentialité précédemment citée.
     
-* Si vous vous inscrivez via le site web ou l'application IBERIA, ou si vous êtes déjà membre du « **Programme de reconnaissance faciale** » pour vérifier l'identité des passagers lors des processus de d'enregistrement, de contrôle de sécurité et d'embarquement au sein du réseau aéroportuaire géré par Aena (le « **Programme d'Aena** »), sur la base du consentement que vous nous avez donné à ces fins et jusqu'à ce que vous le révoquiez, chaque fois que vous voyagez avec nous sur le réseau de l'aéroport Aena, nous partagerons vos données ; c'est-à-dire votre document d'identité et les données relatives à vos cartes d'embarquement, avec l'entreprise, pour permettre à Aena de :
+*   Si vous vous inscrivez via le site web ou l'application IBERIA, ou si vous êtes déjà membre du « **Programme de reconnaissance faciale** » pour vérifier l'identité des passagers lors des processus de d'enregistrement, de contrôle de sécurité et d'embarquement au sein du réseau aéroportuaire géré par Aena (le « **Programme d'Aena** »), sur la base du consentement que vous nous avez donné à ces fins et jusqu'à ce que vous le révoquiez, chaque fois que vous voyagez avec nous sur le réseau de l'aéroport Aena, nous partagerons vos données ; c'est-à-dire votre document d'identité et les données relatives à vos cartes d'embarquement, avec l'entreprise, pour permettre à Aena de :
     
-    * vérifier si vous êtes déjà membre de son programme et,
+    *   vérifier si vous êtes déjà membre de son programme et,
         
-    * le cas échéant, lier votre carte d'embarquement à votre profil Aena.
+    *   le cas échéant, lier votre carte d'embarquement à votre profil Aena.
         
     
     Vous pouvez en savoir plus sur la manière dont Aena traite vos données, à quelles fins et sur la base de quelle légitimité, et/ou quels sont vos droits vis-à-vis de ladite entité en matière de protection des données et comment les exercer, grâce à sa politique de confidentialité, disponible sur [www.aena.es](https://www.aena.es/es/politica-de-privacidad.html "Ver más: AENA[Abre otro sitio en una ventana nueva que puede que no cumpla las normas de accesibilidad.]").  
     Vous pouvez également révoquer votre consentement à ce qu'IBERIA partage des informations avec Aena à ces fins en utilisant l'un des canaux mis à votre disposition. Consultez la section « Quels sont vos droits lorsque vous nous fournissez vos données ? » ci-après.
     
-* Avec les entités auxquelles vous avez recouru pour obtenir des informations sur nos vols ou nos offres de services (par exemple, les méta-moteurs de recherche de vols, de voyages et d'offres), dans le but exclusif de gérer les relations entre Iberia et ces entités (par exemple, l'application des commissions de conversion en achat) et en veillant toujours à ce que les informations personnelles à communiquer, le cas échéant, soient réduites au minimum.
+*   Avec les entités auxquelles vous avez recouru pour obtenir des informations sur nos vols ou nos offres de services (par exemple, les méta-moteurs de recherche de vols, de voyages et d'offres), dans le but exclusif de gérer les relations entre Iberia et ces entités (par exemple, l'application des commissions de conversion en achat) et en veillant toujours à ce que les informations personnelles à communiquer, le cas échéant, soient réduites au minimum.
     
-* En réponse aux demandes légales et valables des gouvernements et des forces de l'ordre, notamment des autorités douanières et de l'immigration ou de lutte contre la fraude et la grande criminalité, et aux demandes d'information des autorités sanitaires dans le cadre d'enquêtes sur d'éventuels foyers d'infection ou de contagion à bord, pour tracer les éventuels contacts avec des personnes infectées et contenir la propagation des maladies. Sachez que pour des raisons de contrôle et de maintien de la sécurité publique, l'entreprise Iberia sera, à cet effet, autorisée à communiquer vos données en tant que passager aux Autorités gouvernementales de contrôle de la sécurité intérieure du pays de provenance, de transit ou de destination, à tout moment avant votre arrivée. Les États-Unis exigent également ces informations pour les avions qui survolent leur espace aérien. Ces données pourront également être fournies à d’autres États qui, en vertu des dispositions des lois ou traités applicables, les exigent pour le survol de leur espace aérien.
+*   En réponse aux demandes légales et valables des gouvernements et des forces de l'ordre, notamment des autorités douanières et de l'immigration ou de lutte contre la fraude et la grande criminalité, et aux demandes d'information des autorités sanitaires dans le cadre d'enquêtes sur d'éventuels foyers d'infection ou de contagion à bord, pour tracer les éventuels contacts avec des personnes infectées et contenir la propagation des maladies. Sachez que pour des raisons de contrôle et de maintien de la sécurité publique, l'entreprise Iberia sera, à cet effet, autorisée à communiquer vos données en tant que passager aux Autorités gouvernementales de contrôle de la sécurité intérieure du pays de provenance, de transit ou de destination, à tout moment avant votre arrivée. Les États-Unis exigent également ces informations pour les avions qui survolent leur espace aérien. Ces données pourront également être fournies à d’autres États qui, en vertu des dispositions des lois ou traités applicables, les exigent pour le survol de leur espace aérien.
     
-* Des prestataires de services externes auxquels nous sous-traitons des services, notamment pour mener des campagnes marketing ou pour réaliser des enquêtes auprès de clients en notre nom.
+*   Des prestataires de services externes auxquels nous sous-traitons des services, notamment pour mener des campagnes marketing ou pour réaliser des enquêtes auprès de clients en notre nom.
     
-* Des tiers, tels que des cabinets d'avocats et des tribunaux, des compagnies d'assurance, des entités intermédiaires ainsi que des experts, pour exiger l'exécution ou l'application d'un contrat qui vous lie à nous, ou pour défendre nos intérêts légitimes dans le cadre d'actions et de procédures juridiques, administratives, judiciaires ou extrajudiciaires.
+*   Des tiers, tels que des cabinets d'avocats et des tribunaux, des compagnies d'assurance, des entités intermédiaires ainsi que des experts, pour exiger l'exécution ou l'application d'un contrat qui vous lie à nous, ou pour défendre nos intérêts légitimes dans le cadre d'actions et de procédures juridiques, administratives, judiciaires ou extrajudiciaires.
     
-* Des tiers comme la police et les autorités de régulation, pour protéger nos droits, nos propriétés ou la sécurité de nos clients, de nos employés et de nos actifs.
+*   Des tiers comme la police et les autorités de régulation, pour protéger nos droits, nos propriétés ou la sécurité de nos clients, de nos employés et de nos actifs.
     
-* Si nécessaire, pour remplir une obligation légale quelle que soit la juridiction, notamment lorsque cette obligation dérive d'une action ou d'une omission d'Iberia (par exemple, notre décision d'opérer dans un pays déterminé ou une décision liée à cette dernière)
+*   Si nécessaire, pour remplir une obligation légale quelle que soit la juridiction, notamment lorsque cette obligation dérive d'une action ou d'une omission d'Iberia (par exemple, notre décision d'opérer dans un pays déterminé ou une décision liée à cette dernière)
     
 
 Nous ne vendons pas vos données personnelles à des tiers et nous permettons uniquement à des tiers étrangers à l'entreprise de vous envoyer des communications commerciales si vous en avez donné votre consentement.
@@ -394,24 +394,24 @@ Cette situation découle du fait que notre activité et les tiers identifiés da
 
 De même, vos données personnelles pourront être envoyées à des tiers situés hors du pays où vous vous trouvez, pour qu'ils nous prêtent de services liés aux produits et aux services que vous avez demandés.
 
-* _**Exemple** : nous devrons fournir un accès à nos systèmes de réservation et d'enregistrement au personnel de nos agents de handling qui nous prêtes des services hors d'Espagne._
+*   _**Exemple** : nous devrons fournir un accès à nos systèmes de réservation et d'enregistrement au personnel de nos agents de handling qui nous prêtes des services hors d'Espagne._
 
 #### Quels sont vos droits lorsque vous nous fournissez vos données ?
 
 Vous pouvez exercer, si vous le souhaitez, des droits **d'accès, de rectification et de suppression des données**, et demander la **limitation du traitement** de vos données personnelles **ou vous y opposer**, demander la **portabilité** de vos données, et **qu'elles ne fassent pas l'objet de décisions individuelles automatisées** par les moyens suivants :
 
-* Si vous êtes un **CLIENT ENREGISTRÉ**, vous pouvez exercer la plupart de ces droits via votre profil en ligne sur www.iberia.com, en accédant à votre espace privé.
-* Si vous êtes **MEMBRE D'IBERIA CLUB**, vous pouvez faire valoir la **plupart de ces droits** sur votre profil en ligne sur www.iberia.com, en accédant à votre espace personnel d'IBERIA CLUB dans la rubrique « Mon profil/Préférences ».
-* De même, si vous êtes **MEMBRE D'ON BUSINESS**, vous pouvez faire valoir la plupart de ces droits à travers votre profil en ligne sur [onbusiness.iberia.com](https://onbusiness.iberia.com/group/ib/my-profile?language=fr "onbusiness.iberia.com"), en accédant à votre espace personnel d'entreprise.
-* Pour faire valoir **le reste de vos droits, ou si VOUS N'ÊTES PAS MEMBRE D'IBERIA CLUB ou d'ON BUSINESS, ni CLIENT ENREGISTRÉ**, vous pouvez exercer chacun des droits précédents mentionnés au moyen du formulaire en ligne de gestion des droits individuels, disponible sur notre Site web à l'adresse suivante : [Gestion des données personnelles](https://www.iberia.com/fr/gestion-des-donnees-personnelles/ "Gestion des données personnelles").
+*   Si vous êtes un **CLIENT ENREGISTRÉ**, vous pouvez exercer la plupart de ces droits via votre profil en ligne sur www.iberia.com, en accédant à votre espace privé.
+*   Si vous êtes **MEMBRE D'IBERIA CLUB**, vous pouvez faire valoir la **plupart de ces droits** sur votre profil en ligne sur www.iberia.com, en accédant à votre espace personnel d'IBERIA CLUB dans la rubrique « Mon profil/Préférences ».
+*   De même, si vous êtes **MEMBRE D'ON BUSINESS**, vous pouvez faire valoir la plupart de ces droits à travers votre profil en ligne sur [onbusiness.iberia.com](https://onbusiness.iberia.com/group/ib/my-profile?language=fr "onbusiness.iberia.com"), en accédant à votre espace personnel d'entreprise.
+*   Pour faire valoir **le reste de vos droits, ou si VOUS N'ÊTES PAS MEMBRE D'IBERIA CLUB ou d'ON BUSINESS, ni CLIENT ENREGISTRÉ**, vous pouvez exercer chacun des droits précédents mentionnés au moyen du formulaire en ligne de gestion des droits individuels, disponible sur notre Site web à l'adresse suivante : [Gestion des données personnelles](https://www.iberia.com/fr/gestion-des-donnees-personnelles/ "Gestion des données personnelles").
 
 Pour nous permettre de répondre à votre demande, nous vous demanderons de bien vouloir nous fournir, quel que soit le cas, les informations et les documents indiqués comme obligatoires dans le formulaire :
 
-* Votre nom complet de requérant
-* Coordonnées de contact (au moins une adresse e-mail)
-* Objet de votre demande.
-* Toute information qui nous permette de localiser des informations relatives à l'objet de votre demande, comme le code de réservation ou les numéros et dates des vols.
-* Si vous présentez la demande au nom d'une autre personne, vous devrez fournir une autorisation signée par cette dernière, ainsi qu'une pièce d'identité lui appartenant.
+*   Votre nom complet de requérant
+*   Coordonnées de contact (au moins une adresse e-mail)
+*   Objet de votre demande.
+*   Toute information qui nous permette de localiser des informations relatives à l'objet de votre demande, comme le code de réservation ou les numéros et dates des vols.
+*   Si vous présentez la demande au nom d'une autre personne, vous devrez fournir une autorisation signée par cette dernière, ainsi qu'une pièce d'identité lui appartenant.
 
 Une photocopie de votre document d’identité ou passeport ne vous sera demandée que si la compagnie a des doutes raisonnables sur votre identité.
 
