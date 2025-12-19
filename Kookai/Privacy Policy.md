@@ -19,49 +19,49 @@ La Politique s’applique exclusivement à la navigation et à l’utilisation d
 
 Kookai se réserve le droit de modifier à tout moment cette Politique afin de refléter, par exemple, des modifications relatives aux Traitements mis en œuvre ou pour d’autres raisons légales ou réglementaires. La date présente en haut de cette Politique est la date de dernière mise à jour.
 
-1.   
+1.    
     **Définitions**
 
 Les termes mentionnés ci-dessous ont, dans la présente Politique, la signification suivante :
 
-* **« Cookies et traceurs »** : un “_cookie_” est une suite d’informations, généralement de petite taille et identifié par un nom, qui peut être transmis à votre navigateur par un site web sur lequel vous vous connectez. Votre navigateur web le conservera pendant une certaine durée, et le renverra au serveur web chaque fois que vous vous y reconnecterez.
+*   **« Cookies et traceurs »** : un “_cookie_” est une suite d’informations, généralement de petite taille et identifié par un nom, qui peut être transmis à votre navigateur par un site web sur lequel vous vous connectez. Votre navigateur web le conservera pendant une certaine durée, et le renverra au serveur web chaque fois que vous vous y reconnecterez.
 
-* « **Client** » : désigne tout Utilisateur de plus de 18 ans procédant à une Commande de Produit sur le Site.
+*   « **Client** » : désigne tout Utilisateur de plus de 18 ans procédant à une Commande de Produit sur le Site.
 
-* « **Commande** » : désigne achat réalisé par le Client sur le Site.
+*   « **Commande** » : désigne achat réalisé par le Client sur le Site.
 
-* « **Compte** » : désigne l’espace dédié à l’Utilisateur associé à l’ensemble des Données personnelles fournies par l’Utilisateur, hébergé sur le Site.
+*   « **Compte** » : désigne l’espace dédié à l’Utilisateur associé à l’ensemble des Données personnelles fournies par l’Utilisateur, hébergé sur le Site.
 
-* « **Donnée personnelle** » : désigne toute information permettant d’identifier directement ou indirectement la Personne concernée. 
+*   « **Donnée personnelle** » : désigne toute information permettant d’identifier directement ou indirectement la Personne concernée. 
 
-* « **Délégué à la protection des données** » ou « **DPO** » désigne le délégué à la protection des données du Responsable de traitement.  Le DPO a pour mission d’informer, de conseiller et de contrôler la conformité de Kookai dans la réalisation des différentes opérations de Traitements. Le DPO fait office de point de contact (i) vis-à-vis des Personnes concernées pour tous sujets relatifs aux Traitements de Données personnelles effectués par Kookai ou l’exercice de leurs droits, (ii) vis-à-vis de la CNIL dans le cadre de sa mission de coopération, (iii) vis-à-vis des autres DPO nommés par les éventuels Sous-traitants.
+*   « **Délégué à la protection des données** » ou « **DPO** » désigne le délégué à la protection des données du Responsable de traitement.  Le DPO a pour mission d’informer, de conseiller et de contrôler la conformité de Kookai dans la réalisation des différentes opérations de Traitements. Le DPO fait office de point de contact (i) vis-à-vis des Personnes concernées pour tous sujets relatifs aux Traitements de Données personnelles effectués par Kookai ou l’exercice de leurs droits, (ii) vis-à-vis de la CNIL dans le cadre de sa mission de coopération, (iii) vis-à-vis des autres DPO nommés par les éventuels Sous-traitants.
 
-* « **Personnes concernées** » : désigne les personnes concernées par les Traitement réalisés par Kookai en tant que responsable de traitement. Dans le cadre de la Politique, les Personnes concernées sont les Utilisateurs et les Clients. 
+*   « **Personnes concernées** » : désigne les personnes concernées par les Traitement réalisés par Kookai en tant que responsable de traitement. Dans le cadre de la Politique, les Personnes concernées sont les Utilisateurs et les Clients. 
 
-* « **Produits** » : désigne l’ensemble des produits commercialisés par Kookai sur le Site. 
+*   « **Produits** » : désigne l’ensemble des produits commercialisés par Kookai sur le Site. 
 
-* « **Responsable de traitement** » : désigne la personne morale qui détermine les finalités et les moyens du Traitement.
+*   « **Responsable de traitement** » : désigne la personne morale qui détermine les finalités et les moyens du Traitement.
 
-* « **Sous-traitant** » désigne toute personne physique ou morale, autorité publique, service ou autre organisme que le Responsable de traitement qui traite les Données personnelles pour le compte du Responsable de traitement. 
+*   « **Sous-traitant** » désigne toute personne physique ou morale, autorité publique, service ou autre organisme que le Responsable de traitement qui traite les Données personnelles pour le compte du Responsable de traitement. 
 
-* **« Traitement/Traiter »** : désigne toute opération, ou ensemble d’opérations, portant sur des Données personnelles, quel que soit le procédé utilisé (collecte, enregistrement organisation, conservation adaptation, modification, extraction consultation, utilisation, communication par transmission ou diffusion ou toute autre forme de mise à disposition, rapprochement), effectuée pour le compte et selon les instructions de Kookai.
+*   **« Traitement/Traiter »** : désigne toute opération, ou ensemble d’opérations, portant sur des Données personnelles, quel que soit le procédé utilisé (collecte, enregistrement organisation, conservation adaptation, modification, extraction consultation, utilisation, communication par transmission ou diffusion ou toute autre forme de mise à disposition, rapprochement), effectuée pour le compte et selon les instructions de Kookai.
 
-1.   
+1.    
     **Identité et coordonnées du Responsable de traitement**
 
 Les Données personnelles des Personnes concernées sont collectées et traitées par Kookai en sa qualité de Responsable du traitement. 
 
 Pour toute question, vous pouvez contacter Kookai :
 
-* **Par voie postale** à AMH ANTONELLE MANAGEMENT HOLDING, 100 avenue du Général Leclerc, 93500 PANTIN ;
-* **Par email** :  relationclient@kookai.fr
+*   **Par voie postale** à AMH ANTONELLE MANAGEMENT HOLDING, 100 avenue du Général Leclerc, 93500 PANTIN ;
+*   **Par email** :  relationclient@kookai.fr
 
 **III. Coordonnées de notre DPO**
 
 Pour toutes les demandes, y compris d’exercice de droits, relatives aux Données personnelles des Personnes concernées, celles-ci peuvent joindre le DPO :
 
-* **Par mail** : [dpo@kookai.fr](mailto:dpo@kookai.fr) ; et/ou
-* **Par courrier** : AMH ANTONELLE MANAGEMENT HOLDING, DPO, 100 avenue du Général Leclerc, 93500 PANTIN
+*   **Par mail** : [dpo@kookai.fr](mailto:dpo@kookai.fr) ; et/ou
+*   **Par courrier** : AMH ANTONELLE MANAGEMENT HOLDING, DPO, 100 avenue du Général Leclerc, 93500 PANTIN
 
 **IV. Quand collectons-Nous vos Données personnelles ?**
 --------------------------------------------------------
@@ -74,7 +74,7 @@ Nous sommes susceptibles de collecter vos Données personnelles lorsque vous uti
 
 Nous collectons uniquement les Données personnelles nécessaires pour les finalités explicites et déterminées ci-dessous :
 
-*** La gestion du fonctionnement et de l’amélioration du Site, la fourniture d’une meilleure expérience Utilisateur, l'amélioration de notre CRM**
+***   La gestion du fonctionnement et de l’amélioration du Site, la fourniture d’une meilleure expérience Utilisateur, l'amélioration de notre CRM**
 
 Notamment, ce Traitement nous permet de vous proposer des produits ou des services susceptibles de vous intéresser. 
 
@@ -86,7 +86,7 @@ Notre intérêt légitime à garantir le meilleur niveau de fonctionnement du Si
 
 Votre consentement lorsque celui-ci est requis.
 
-*** La gestion des Comptes**
+***   La gestion des Comptes**
 
 Le Traitement relatif à la gestion des Comptes comprend l’inscription des Utilisateurs et la création de leurs Comptes.
 
@@ -96,7 +96,7 @@ L’exécution d’un contrat.
 
 Votre consentement lorsque celui-ci est requis.
 
-*** La gestion des Commandes** 
+***   La gestion des Commandes** 
 
 Le Traitement relatif à la gestion des Commandes correspond au suivi du processus de Commande.
 
@@ -104,7 +104,7 @@ Le Traitement relatif à la gestion des Commandes correspond au suivi du process
 
 L’exécution d’un contrat.
 
-*** La gestion des paiements** 
+***   La gestion des paiements** 
 
 Le Traitement relatif à la gestion des paiements comprend le paiement des Produits commandés, le suivi de la facturation, la tenue des registres comptables et des justificatifs légaux.
 
@@ -117,7 +117,7 @@ C'est une mesure de sécurité essentielle pour protéger les informations sensi
 
 Notre obligation légale découlant des articles L102 B et suivants du Livre des procédures fiscales.
 
-*** L’envoi des actualités et offres commerciales de Kookai**
+***   L’envoi des actualités et offres commerciales de Kookai**
 
   
 Le Traitement relatif à l’envoi d’actualités et offres commerciales vise à vous adresser des offres de Kookai. 
@@ -130,7 +130,7 @@ Notre intérêt légitime (promotion des Services de Kookai)
 
 Votre consentement à recevoir de telles offres lorsque cela est nécessaire, et notamment pour l’envoi des offres et autres informations commerciales. Lorsque vous remplissez un formulaire d’inscription, il peut vous être proposé de recevoir des offres commerciales de Kookai. Vous devez exprimer clairement votre consentement en cochant une case qui confirme, le cas échéant, votre accord. Vous avez le droit de retirer votre consentement à tout moment, conformément à l'article 7(3) du RGPD.
 
-*** Gérer et répondre à vos questions et demandes de contact**
+***   Gérer et répondre à vos questions et demandes de contact**
 
 Le Traitement relatif à la gestion des demandes et réclamations des Utilisateurs comprend le traitement des demandes, notamment sur les livraisons de nos produits, la réponse aux demandes, le suivi des demandes, et le suivi informatif. 
 
@@ -138,13 +138,13 @@ Le Traitement relatif à la gestion des demandes et réclamations des Utilisateu
 
 L’exécution d’un contrat ou l’exécution de mesures précontractuelles. 
 
-*** La gestion de votre participation à des enquêtes, sondages ou jeux-concours**
+***   La gestion de votre participation à des enquêtes, sondages ou jeux-concours**
 
 **Base légale**
 
 Le Traitement se fonde sur l’exécution d’un contrat auquel vous adhérez.
 
-*** La gestion des demandes de droits issus du RGPD et de la LIL**
+***   La gestion des demandes de droits issus du RGPD et de la LIL**
 
 Le Traitement couvre les opérations nécessaires au suivi des demandes de droits adressées par les Personnes concernées : qualification de la demande, investigations, réalisation d’opérations techniques spécifiques. 
 
@@ -162,14 +162,14 @@ Kookai est susceptible de collecter les catégories de Données personnelles su
 |     |     |
 | --- | --- |
 | **Traitements** | **Données personnelles collectées** |
-| **La gestion du fonctionnement et de l’amélioration du Site, la fourniture d’une meilleure expérience Utilisateur** | * Les Données personnelles collectées via les Cookies et traceurs présents sur notre Site : adresse IP, type de système d’exploitation, type de terminal, page de provenance, type et version du navigateur utilisé, date et heure de connexion, votre localisation au moment de la connexion, données de navigation (rubriques/Produits que vous avez consultés, durée de votre visite), données relatives à votre comportement en ligne (temps passé sur le Site, les offres et contenus avec lesquels vous interagissez… |
-| **La gestion et la réponse à vos questions et demandes de contact** | * Nom, prénom ;<br>* Adresse email ; <br>* Numéro de téléphone ;<br>* Adresse postale. |
-| **La gestion des Comptes** | * Nom, prénom ;<br>* Adresse email ;<br>* Adresse postale. |
-| **La gestion des Commandes** | * Nom, prénom ;<br>* Adresse email ;<br>* Numéro de téléphone ;<br>* Adresse postale. |
-| **La gestion des paiements** | * Données de paiement ;<br>* Données nécessaires à l’établissement de factures. |
-| **L’envoi des actualités et offres commerciales de Kookai et/ou de nos partenaires** | * Adresse email. |
-| **La gestion de votre participation à des enquêtes, sondages ou jeux-concours** | * Nom, prénom ;<br>* Coordonnées (adresse email, numéro de téléphone) ;<br>* Genre ;<br>* Date de naissance ;<br>* Statut marital. |
-| **La gestion des demandes d’exercice de droits** | * Nom, prénom ; <br>* Adresse email ; <br>* Le cas échéant, copie d’un justificatif d’identité. |
+| **La gestion du fonctionnement et de l’amélioration du Site, la fourniture d’une meilleure expérience Utilisateur** | *   Les Données personnelles collectées via les Cookies et traceurs présents sur notre Site : adresse IP, type de système d’exploitation, type de terminal, page de provenance, type et version du navigateur utilisé, date et heure de connexion, votre localisation au moment de la connexion, données de navigation (rubriques/Produits que vous avez consultés, durée de votre visite), données relatives à votre comportement en ligne (temps passé sur le Site, les offres et contenus avec lesquels vous interagissez… |
+| **La gestion et la réponse à vos questions et demandes de contact** | *   Nom, prénom ;<br>*   Adresse email ; <br>*   Numéro de téléphone ;<br>*   Adresse postale. |
+| **La gestion des Comptes** | *   Nom, prénom ;<br>*   Adresse email ;<br>*   Adresse postale. |
+| **La gestion des Commandes** | *   Nom, prénom ;<br>*   Adresse email ;<br>*   Numéro de téléphone ;<br>*   Adresse postale. |
+| **La gestion des paiements** | *   Données de paiement ;<br>*   Données nécessaires à l’établissement de factures. |
+| **L’envoi des actualités et offres commerciales de Kookai et/ou de nos partenaires** | *   Adresse email. |
+| **La gestion de votre participation à des enquêtes, sondages ou jeux-concours** | *   Nom, prénom ;<br>*   Coordonnées (adresse email, numéro de téléphone) ;<br>*   Genre ;<br>*   Date de naissance ;<br>*   Statut marital. |
+| **La gestion des demandes d’exercice de droits** | *   Nom, prénom ; <br>*   Adresse email ; <br>*   Le cas échéant, copie d’un justificatif d’identité. |
 
 **VII. Qu’en est-il des données de connexions et des Cookies et traceurs ?**
 
@@ -184,13 +184,13 @@ Pour en savoir plus sur les cookies (comment les gérer, les supprimer, les iden
 
 Dans la limite de leurs attributions respectives et pour les finalités rappelées à l’article V, les principales personnes qui seront susceptibles d’avoir accès à vos Données personnelles sont les suivantes :
 
-* Le personnel habilité de Kookai ; 
-* Le personnel habilité des entités du groupe AMH ; 
-* Les prestataires de services chargés de la gestion et de l’hébergement du Site, soumis à une obligation de confidentialité ;
-* Les prestataires chargés de la gestion du paiement, soumis à une obligation de confidentialité ;
-* Le cas échéant, le personnel habilité de nos Sous-traitants ;
-* Le cas échéant, les autorités de justice ou autorités administratives, experts-comptables, commissaires aux comptes, avocats, huissiers, sociétés de recouvrement de créances… ; 
-* Les tiers susceptibles de déposer des cookies sur vos terminaux lorsque vous y consentez. 
+*   Le personnel habilité de Kookai ; 
+*   Le personnel habilité des entités du groupe AMH ; 
+*   Les prestataires de services chargés de la gestion et de l’hébergement du Site, soumis à une obligation de confidentialité ;
+*   Les prestataires chargés de la gestion du paiement, soumis à une obligation de confidentialité ;
+*   Le cas échéant, le personnel habilité de nos Sous-traitants ;
+*   Le cas échéant, les autorités de justice ou autorités administratives, experts-comptables, commissaires aux comptes, avocats, huissiers, sociétés de recouvrement de créances… ; 
+*   Les tiers susceptibles de déposer des cookies sur vos terminaux lorsque vous y consentez. 
 
   
 En cas de cession d’activité, nous pourrions être amenés à communiquer vos Données personnelles à l’acheteur. 
@@ -255,15 +255,15 @@ Nous exigeons également de nos prestataires le respect de mesures de sécurité
 
 En application du RGPD et de la LIL, vous pouvez demander :
 
-* La communication d’une copie de vos Données personnelles et les informations relatives aux Traitements vous concernant (droit d’accès) ;
-* La rectification et la mise à jour de vos Données personnelles inexactes, incomplètes, équivoques, périmées (droit de rectification) ;
-* L’effacement de vos Données personnelles (droit à l’effacement ou « droit à l’oubli »), sauf lorsque le respect d’une autre obligation légale s’y oppose ;
-* La limitation du Traitement de vos Données personnelles (par exemple, lorsque l'exactitude de vos données personnelles est contestée) (droit à la limitation) ;
-* L’opposition au Traitement de vos Données personnelles (droit d’opposition). Vous pouvez notamment vous opposer à l’envoi de newsletters en cliquant sur le lien de désinscription présent en bas de la newsletter ;
-* La communication de vos Données personnelles, dans un format structuré, couramment utilisé et lisible par machine, et afin qu’elles soient transmises à un autre responsable du traitement et ce, pour les Traitements effectués à l’aide de procédés automatisés pour lesquels vous avez donné votre consentement (droit à la portabilité) ;
-* Le retrait de votre consentement lorsque le Traitement de vos Données personnelles est fondé sur celui-ci ;
-* A ne pas faire l’objet d’une décision fondée exclusivement sur un traitement automatisé ; aucune prise de décision de ce type n’est actuellement appliquée par Kookai ;
-* Donner des directives sur le sort de vos données après votre décès et choisir que Kookai communique (ou non) ces Données personnelles à un tiers que vous aurez préalablement désigné. 
+*   La communication d’une copie de vos Données personnelles et les informations relatives aux Traitements vous concernant (droit d’accès) ;
+*   La rectification et la mise à jour de vos Données personnelles inexactes, incomplètes, équivoques, périmées (droit de rectification) ;
+*   L’effacement de vos Données personnelles (droit à l’effacement ou « droit à l’oubli »), sauf lorsque le respect d’une autre obligation légale s’y oppose ;
+*   La limitation du Traitement de vos Données personnelles (par exemple, lorsque l'exactitude de vos données personnelles est contestée) (droit à la limitation) ;
+*   L’opposition au Traitement de vos Données personnelles (droit d’opposition). Vous pouvez notamment vous opposer à l’envoi de newsletters en cliquant sur le lien de désinscription présent en bas de la newsletter ;
+*   La communication de vos Données personnelles, dans un format structuré, couramment utilisé et lisible par machine, et afin qu’elles soient transmises à un autre responsable du traitement et ce, pour les Traitements effectués à l’aide de procédés automatisés pour lesquels vous avez donné votre consentement (droit à la portabilité) ;
+*   Le retrait de votre consentement lorsque le Traitement de vos Données personnelles est fondé sur celui-ci ;
+*   A ne pas faire l’objet d’une décision fondée exclusivement sur un traitement automatisé ; aucune prise de décision de ce type n’est actuellement appliquée par Kookai ;
+*   Donner des directives sur le sort de vos données après votre décès et choisir que Kookai communique (ou non) ces Données personnelles à un tiers que vous aurez préalablement désigné. 
 
 Ces droits peuvent être exercés auprès du DPO de Kookai, par simple demande par courrier électronique à l’adresse [dpo@kookai.fr](mailto:dpo@kookai.fr) ou par courrier à l’adresse : KOOKAI, DPO, 110 bis avenue du Général Leclerc 93500 Pantin – en précisant clairement l’objet de votre demande.
 
