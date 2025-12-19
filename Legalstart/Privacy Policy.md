@@ -21,28 +21,28 @@ Nous collectons uniquement des données personnelles adéquates, pertinentes et 
 
 Nous collectons vos données personnelles dans plusieurs situations et notamment les suivantes : 
 
-* lors de la création et de l’utilisation de votre compte ; 
-* lors du remplissage d’un questionnaire, de la souscription à un de nos services ou d’une demande de mise en relation avec un de nos partenaires ; 
-* lors de la navigation sur notre site internet, lorsque vous téléchargez du contenu sur notre site internet ou que vous vous inscrivez à notre newsletter ; 
-* lors de vos échanges avec nos équipes ; 
-* lors d’une demande de mise en relation avec un de nos partenaires ; 
-* lors de votre utilisation des abonnements ; 
-* lors d’une demande d’exercice de droit. 
+*   lors de la création et de l’utilisation de votre compte ; 
+*   lors du remplissage d’un questionnaire, de la souscription à un de nos services ou d’une demande de mise en relation avec un de nos partenaires ; 
+*   lors de la navigation sur notre site internet, lorsque vous téléchargez du contenu sur notre site internet ou que vous vous inscrivez à notre newsletter ; 
+*   lors de vos échanges avec nos équipes ; 
+*   lors d’une demande de mise en relation avec un de nos partenaires ; 
+*   lors de votre utilisation des abonnements ; 
+*   lors d’une demande d’exercice de droit. 
 
 **Quelles données personnelles traitons-nous ?** 
 
 Dans le cadre de nos activités et de la fourniture de nos services, nous sommes amenés à traiter les données personnelles suivantes : 
 
-* les Données d’identité qui incluent notamment le nom, prénom, la date de naissance;
-* les Données de contact qui incluent notamment l’adresse email et le numéro de téléphone ; 
-* les Données professionnelles qui incluent notamment les informations relatives au projet de création d’entreprise, les informations sur la vie professionnelle, les informations sur l’entreprise, les documents nécessaires aux formalités administratives et à la réalisation des services, les informations relatives aux conjoints et associés ; 
-* les Données d’usage qui incluent notamment les indicateurs relatifs à l’utilisation du site et des services par les internautes ; 
-* les Données de navigation qui incluent notamment les cookies et traceurs et les logs ; 
-* les Données de satisfaction qui incluent notamment les retours clients et les enquêtes ; 
-* les Données de paiement qui incluent notamment le numéro de carte bancaire, la date d’expiration, le cryptogramme et l’historique des transactions ; 
-* les Données de transaction qui incluent notamment les factures ; 
-* les Données de recouvrement qui incluent notamment les factures impayées transmises par les clients et les coordonnées de leurs débiteurs ; 
-* les Données comptables et bancaires qui incluent notamment les informations relatives aux finances de l’entreprise et au dépôt de capital, les intitulés des mouvements financiers et l’identité des bénéficiaires.
+*   les Données d’identité qui incluent notamment le nom, prénom, la date de naissance;
+*   les Données de contact qui incluent notamment l’adresse email et le numéro de téléphone ; 
+*   les Données professionnelles qui incluent notamment les informations relatives au projet de création d’entreprise, les informations sur la vie professionnelle, les informations sur l’entreprise, les documents nécessaires aux formalités administratives et à la réalisation des services, les informations relatives aux conjoints et associés ; 
+*   les Données d’usage qui incluent notamment les indicateurs relatifs à l’utilisation du site et des services par les internautes ; 
+*   les Données de navigation qui incluent notamment les cookies et traceurs et les logs ; 
+*   les Données de satisfaction qui incluent notamment les retours clients et les enquêtes ; 
+*   les Données de paiement qui incluent notamment le numéro de carte bancaire, la date d’expiration, le cryptogramme et l’historique des transactions ; 
+*   les Données de transaction qui incluent notamment les factures ; 
+*   les Données de recouvrement qui incluent notamment les factures impayées transmises par les clients et les coordonnées de leurs débiteurs ; 
+*   les Données comptables et bancaires qui incluent notamment les informations relatives aux finances de l’entreprise et au dépôt de capital, les intitulés des mouvements financiers et l’identité des bénéficiaires.
 
 Vous pouvez choisir de ne pas nous transmettre ces informations. Néanmoins, elles sont dans certains cas indispensables pour la fourniture de nos services. A titre d’exemple, nous avons besoin de certains justificatifs (par exemple un document d’identité) pour réaliser les formalités d’immatriculation de votre société et de vos Données de paiement pour valider la fourniture d’un de nos services payants et conclure le contrat y afférent.
 
@@ -52,10 +52,10 @@ Le tableau ci-dessous permet de répondre de façon concise, claire et précise 
 
 Voici à quoi correspond chaque colonne : 
 
-* les finalités correspondent aux objectifs poursuivis par le traitement des données personnelles. Nous traitons les données personnelles pour des finalités spécifiques, déterminées et légitimes ; 
-* les données personnelles correspondent aux données décrites à l’article précédent. Nous traitons les données pertinentes et nécessaires pour la réalisation des finalités poursuivies ; 
-* les bases légales correspondent aux fondements sur lesquels nous nous appuyons pour avoir le droit de traiter les données personnelles ; 
-* les durées de conservation correspondent au temps durant lequel nous traitons les données personnelles. Les durées sont déterminées en fonction du temps nécessaire à la réalisation des finalités. 
+*   les finalités correspondent aux objectifs poursuivis par le traitement des données personnelles. Nous traitons les données personnelles pour des finalités spécifiques, déterminées et légitimes ; 
+*   les données personnelles correspondent aux données décrites à l’article précédent. Nous traitons les données pertinentes et nécessaires pour la réalisation des finalités poursuivies ; 
+*   les bases légales correspondent aux fondements sur lesquels nous nous appuyons pour avoir le droit de traiter les données personnelles ; 
+*   les durées de conservation correspondent au temps durant lequel nous traitons les données personnelles. Les durées sont déterminées en fonction du temps nécessaire à la réalisation des finalités. 
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -76,11 +76,11 @@ Voici à quoi correspond chaque colonne : 
 
 Nous pouvons être amenés à transmettre les données personnelles à des destinataires. Il s’agit soit de destinataires internes soit de destinataires externes à notre entreprise. 
 
-* les destinataires internes 
+*   les destinataires internes 
 
 Les destinataires internes sont les salariés et les personnes travaillant pour nous. Seules les personnes qui ont besoin d’avoir accès aux données personnelles pour réaliser les tâches professionnelles que nous leur confions sont destinataires des données. A titre d’exemple, dans le cas d’une demande de support technique, il s’agit des membres de l’équipe technique.
 
-* les destinataires externes 
+*   les destinataires externes 
 
 Les destinataires externes comprennent les sous-traitants auxquels nous avons recours dans le cadre de notre site, de nos activités et de nos services. Il s’agit par exemple de l’entreprise nous fournissant notre logiciel de gestion de la relation client ou de celle nous fournissant notre outil de ticketing. Conformément au RGPD et pour assurer la sécurité de vos données, nous nous engageons à conclure un accord de sous-traitance de données personnelles avec chacun de nos sous-traitants. 
 
@@ -102,13 +102,13 @@ Conformément au RGPD et à la loi informatique et libertés vous disposez de dr
 
 Ainsi, vous pouvez exercer les droits suivants : 
 
-* le droit d’accès afin d’accéder aux données personnelles vous concernant que nous traitons, d’en obtenir une copie et d’obtenir des informations relatives aux traitements que nous effectuons sur vos données ; 
-* le droit d’opposition afin de vous opposer à ce que nous traitions vos données pour les finalités que vous nous communiquez ; 
-* le droit de rectification afin de nous demander de rectifier et mettre à jour vos données personnelles ; 
-* le droit d’effacement afin de nous demander de supprimer vos données personnelles ; 
-* le droit de limitation afin de nous demander de limiter les traitements réalisées sur vos données personnelles ; 
-* le droit à la portabilité pour récupérer les données que vous nous avez fournies ou pour nous demander de les transmettre à un tiers ; 
-* le droit d’établir des directives post-mortem concernant le sort de vos données personnelles. 
+*   le droit d’accès afin d’accéder aux données personnelles vous concernant que nous traitons, d’en obtenir une copie et d’obtenir des informations relatives aux traitements que nous effectuons sur vos données ; 
+*   le droit d’opposition afin de vous opposer à ce que nous traitions vos données pour les finalités que vous nous communiquez ; 
+*   le droit de rectification afin de nous demander de rectifier et mettre à jour vos données personnelles ; 
+*   le droit d’effacement afin de nous demander de supprimer vos données personnelles ; 
+*   le droit de limitation afin de nous demander de limiter les traitements réalisées sur vos données personnelles ; 
+*   le droit à la portabilité pour récupérer les données que vous nous avez fournies ou pour nous demander de les transmettre à un tiers ; 
+*   le droit d’établir des directives post-mortem concernant le sort de vos données personnelles. 
 
 Lorsque le traitement repose sur la base légale du consentement, vous pouvez également retirer votre consentement. Vous pouvez également vous désabonner à tout moment de notre newsletter et autres courriers électroniques en cliquant sur le lien de désabonnement présent dans ces courriers. 
 
