@@ -25,16 +25,16 @@ Les types de cookies que nous utilisons et pourquoi
 
 Pour varier les saveurs, nous utilisons trois types de cookies:
 
-1. **Les cookies strictement nécessaires** assurent le bon fonctionnement de notre site. Sans eux, tout tomberait en miettes!
-2. **Les cookies de performance** nous aident à rendre votre navigation plus fluide. Nous souhaitons que vous prépariez vos voyages dans les meilleures conditions. Il est donc important que notre site et notre application affichent exactement ce que vous voulez, quand vous le voulez!
-3. **Les cookies de personnalisation** sont utilisés pour vous offrir une expérience unique. Après tout, vos besoins sont spécifiques ! Ces cookies nous permettent de vous proposer des fonctionnalités telles que la recherche prédéfinie de trajet vers la gare la plus proche de votre position.
+1.  **Les cookies strictement nécessaires** assurent le bon fonctionnement de notre site. Sans eux, tout tomberait en miettes!
+2.  **Les cookies de performance** nous aident à rendre votre navigation plus fluide. Nous souhaitons que vous prépariez vos voyages dans les meilleures conditions. Il est donc important que notre site et notre application affichent exactement ce que vous voulez, quand vous le voulez!
+3.  **Les cookies de personnalisation** sont utilisés pour vous offrir une expérience unique. Après tout, vos besoins sont spécifiques ! Ces cookies nous permettent de vous proposer des fonctionnalités telles que la recherche prédéfinie de trajet vers la gare la plus proche de votre position.
 
 Que se passe-t-il quand vous désactivez les cookies ?
 -----------------------------------------------------
 
-* Si vous désactivez tous les cookies ou si vous utilisez un logiciel de blocage de sites Internet ou d'applications, il se peut que Trainline ne fonctionne pas de façon optimale. Prenons l'exemple suivant : vous cherchez des billets pour le trajet Londres-Manchester et vous les ajoutez à votre panier, mais vous fermez accidentellement le site avant d'effectuer la réservation. Si vous avez désactivé les cookies, votre panier n'est pas enregistré et sera vide à votre retour. Vous devrez alors recommencer votre recherche depuis le début. Les cookies vous facilitent la tâche.
-* Si vous désactivez les cookies sur votre ordinateur, cela n'impactera pas la gestion des cookies sur votre appareil mobile. Il est donc nécessaire de les désactiver sur chaque appareil utilisé.
-* Pour information, le fait de désactiver les cookies n'entraînera pas la suppression des cookies de votre navigateur. Vous devez accéder aux paramètres de votre navigateur si vous souhaitez les supprimer..
+*   Si vous désactivez tous les cookies ou si vous utilisez un logiciel de blocage de sites Internet ou d'applications, il se peut que Trainline ne fonctionne pas de façon optimale. Prenons l'exemple suivant : vous cherchez des billets pour le trajet Londres-Manchester et vous les ajoutez à votre panier, mais vous fermez accidentellement le site avant d'effectuer la réservation. Si vous avez désactivé les cookies, votre panier n'est pas enregistré et sera vide à votre retour. Vous devrez alors recommencer votre recherche depuis le début. Les cookies vous facilitent la tâche.
+*   Si vous désactivez les cookies sur votre ordinateur, cela n'impactera pas la gestion des cookies sur votre appareil mobile. Il est donc nécessaire de les désactiver sur chaque appareil utilisé.
+*   Pour information, le fait de désactiver les cookies n'entraînera pas la suppression des cookies de votre navigateur. Vous devez accéder aux paramètres de votre navigateur si vous souhaitez les supprimer..
 
 Cookies strictement nécessaires 
 --------------------------------
@@ -47,15 +47,15 @@ Ils sont utilisés à des fins d'identification, de sécurité, de prévention d
 
 Des cookies strictement nécessaires sont créés à chaque fois que vous utilisez notre application ou notre site. Ces cookies nous permettent, entre autres, de garder vos choix en mémoire à plusieurs fins, notamment :
 
-* Conserver des informations sur les billets que vous souhaitez acheter
-* Vous facturer le montant correct pour vos billets
-* Communiquer vos informations à la compagnie ferroviaire ou de transport en car/bus concernée pour que vous puissiez profiter de ses services
-* Vous proposer différents moyens d'obtenir vos billets ((via notre option [Billet mobile](https://www.thetrainline.com/information/digital-tickets), par exemple)
-* Vérifier qu'aucune activité suspecte n'affecte votre compte ou vos paiements
-* Conserver vos informations en toute sécurité
-* Nous assurer que vous ne recevez pas plusieurs fois une même notification (nous savons que ce serait agaçant)
-* Enregistrer vos préférences, telles que la devise dans laquelle vous souhaitez payer
-* Nos cookies d'identification nous permettent de vous afficher votre voyage préféré avant votre connexion, car vos choix sont gardés en mémoire. Ces cookies vous permettent de voir plus rapidement les trains se rendant à votre destination, car les gares de départ et d'arrivée sont automatiquement indiquées.
+*   Conserver des informations sur les billets que vous souhaitez acheter
+*   Vous facturer le montant correct pour vos billets
+*   Communiquer vos informations à la compagnie ferroviaire ou de transport en car/bus concernée pour que vous puissiez profiter de ses services
+*   Vous proposer différents moyens d'obtenir vos billets ((via notre option [Billet mobile](https://www.thetrainline.com/information/digital-tickets), par exemple)
+*   Vérifier qu'aucune activité suspecte n'affecte votre compte ou vos paiements
+*   Conserver vos informations en toute sécurité
+*   Nous assurer que vous ne recevez pas plusieurs fois une même notification (nous savons que ce serait agaçant)
+*   Enregistrer vos préférences, telles que la devise dans laquelle vous souhaitez payer
+*   Nos cookies d'identification nous permettent de vous afficher votre voyage préféré avant votre connexion, car vos choix sont gardés en mémoire. Ces cookies vous permettent de voir plus rapidement les trains se rendant à votre destination, car les gares de départ et d'arrivée sont automatiquement indiquées.
 
 ### Les cookies strictement nécessaires
 
@@ -148,11 +148,11 @@ Nous avons besoin des cookies analytiques pour savoir comment notre site/applica
 
 Plus généralement...
 
-* Les cookies analytiques nous aident à comprendre le comportement de nos clients sur notre site en vue d'améliorer continuellement son fonctionnement.
-* Ces cookies nous indiquent comment vous êtes arrivé(e) sur notre site, lesquelles de nos pages vous avez déjà consultées, combien de temps vous avez passé sur ces pages et si vous avez cliqué sur des liens en les consultant.
-* Les cookies d'identification analytiques que nous utilisons collectent des données sur nos utilisateurs de façon générique et nous analysons ces données sous forme agrégée –
-* Ils permettent aussi de détecter certains problèmes, de sorte que nos brillantes équipes informatiques puissent les résoudre rapidement.
-* Nous collaborons avec des prestataires de services tels que Google, Adobe, Facebook et Branch pour mettre au point des outils permettant d'analyser les informations sur l'utilisation de notre site et de notre application de façon globale.
+*   Les cookies analytiques nous aident à comprendre le comportement de nos clients sur notre site en vue d'améliorer continuellement son fonctionnement.
+*   Ces cookies nous indiquent comment vous êtes arrivé(e) sur notre site, lesquelles de nos pages vous avez déjà consultées, combien de temps vous avez passé sur ces pages et si vous avez cliqué sur des liens en les consultant.
+*   Les cookies d'identification analytiques que nous utilisons collectent des données sur nos utilisateurs de façon générique et nous analysons ces données sous forme agrégée –
+*   Ils permettent aussi de détecter certains problèmes, de sorte que nos brillantes équipes informatiques puissent les résoudre rapidement.
+*   Nous collaborons avec des prestataires de services tels que Google, Adobe, Facebook et Branch pour mettre au point des outils permettant d'analyser les informations sur l'utilisation de notre site et de notre application de façon globale.
 
 ### Les cookies performance
 
@@ -219,8 +219,8 @@ Et même si vous choisissez de mettre fin à la personnalisation des publicités
 
 Nous collectons des données sur votre navigation dans notre application, sur notre site et sur d'autres sites Internet. Nous les collections pour être en mesure –
 
-* De vous présenter du contenu susceptible de vous intéresser, comme des offres spéciales et des réductions, sur notre site et notre application, et dans nos e-mails marketing.
-* De vous montrer des publicités susceptibles de vous intéresser quand vous naviguez sur d'autres sites. Par exemple, nous pouvons vous montrer une publicité pour un voyage qui fait souvent l'objet de vos recherches lorsque vous consultez un autre site.
+*   De vous présenter du contenu susceptible de vous intéresser, comme des offres spéciales et des réductions, sur notre site et notre application, et dans nos e-mails marketing.
+*   De vous montrer des publicités susceptibles de vous intéresser quand vous naviguez sur d'autres sites. Par exemple, nous pouvons vous montrer une publicité pour un voyage qui fait souvent l'objet de vos recherches lorsque vous consultez un autre site.
 
 Les cookies de ce type sont appelés « cookies de publicité comportementale en ligne ». Comme c'est un peu long à prononcer, nous les appellerons « Cookies publicitaires » dans cette section.
 
@@ -402,11 +402,11 @@ Si vous êtes connecté(e) à votre compte : vous pouvez retirer votre consentem
 
 Si vous n'êtes pas connecté(e) : veuillez suivre les étapes spécifiques au type de navigateur que vous utilisez:
 
-* [Google Chrome](https://support.google.com/chrome/answer/95472)
-* [Safari](https://support.apple.com/en-gb/guide/safari/sfri40734/mac)
-* [Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox)
-* [Opera](https://help.opera.com/en/latest/web-preferences/)
-* [Microsoft Edge](https://www.windowscentral.com/how-manage-web-notifications-edge-windows-10)
+*   [Google Chrome](https://support.google.com/chrome/answer/95472)
+*   [Safari](https://support.apple.com/en-gb/guide/safari/sfri40734/mac)
+*   [Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox)
+*   [Opera](https://help.opera.com/en/latest/web-preferences/)
+*   [Microsoft Edge](https://www.windowscentral.com/how-manage-web-notifications-edge-windows-10)
 
 Les cookies de personnalisation
 -------------------------------
