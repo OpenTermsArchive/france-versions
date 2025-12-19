@@ -278,9 +278,9 @@ Sauf dispositions contraires, en cas de contradiction entre ces Conditions Gén�
 
 **(a)** Sauf dispositions contraires contenues dans le Billet, ces Conditions Générales de Transport ou les Tarifs, tels que définis à l'Article 2 ci-dessus, (en cas de Tarifs affectant la validité d'un Billet, tel qu'indiqué sur le Billet lui-même), un Billet est valable au transport :
 
-* un an, à compter de la date d'émission du billet initial ou,
+*   un an, à compter de la date d'émission du billet initial ou,
     
-* un an à compter de la date d'utilisation du premier Coupon, si celle-ci intervient dans l'année de la date d'émission du billet initial.
+*   un an à compter de la date d'utilisation du premier Coupon, si celle-ci intervient dans l'année de la date d'émission du billet initial.
     
 
 **(b)** Lorsque votre voyage n’a pu être effectué pour des raisons volontaires ou involontaires, vous pouvez obtenir le remboursement tout ou partiel de votre billet (hors frais de service (Voir Article 5.7) conformément aux conditions tarifaires souscrites lors de votre achat, sans préjudice de la réglementation applicable le cas échéant, selon les raisons de l’annulation de votre voyage, en formulant votre demande auprès d’air Corsica le transporteur, dans la limite de la validité du billet, à savoir 1 an à compter de la date d’émission du billet initial.
@@ -337,7 +337,7 @@ Selon les conditions particulières applicables au moment de la réservation et 
 
 Sur certains des tarifs proposés, Air Corsica accorde des réductions (typologiques) à une certaine catégorie de passagers :
 
-* les Bébés de moins de 2 ans et les enfants de moins de 12 ans, les jeunes (- de 25 ans), les étudiants (- de 27 ans), les séniors, les résidents corses, les étudiants résidents corses, les voyageurs en couple ou en famille, les passagers abonnés.
+*   les Bébés de moins de 2 ans et les enfants de moins de 12 ans, les jeunes (- de 25 ans), les étudiants (- de 27 ans), les séniors, les résidents corses, les étudiants résidents corses, les voyageurs en couple ou en famille, les passagers abonnés.
 
 Ces réductions sont applicables sur présentation des pièces justificatives suivantes : livret de famille, passeport, pièce d’identité, justificatif de résidence en Corse, carte d’étudiant, carte d’abonné.
 
@@ -372,7 +372,7 @@ Le passager est informé avant la finalisation de sa réservation, du montant de
 
 **5.8. Frais d****’****annulation et de modification**
 
-* Frais de modification
+*   Frais de modification
 
 En fonction du tarif de votre billet, celui-ci peut être modifiable sous certaines conditions. En cas de modification volontaire de votre part du billet, des frais de modifications associés au tarif du billet que vous avez acheté seront facturés.
 
@@ -390,7 +390,7 @@ En fonction du tarif applicable à votre billet, celui-ci peut être annulé et 
 
 Le cas échéant, lorsqu'il s'agit d'un billet acheté auprès d'Air Corsica, le passager peut introduire une demande de remboursement sur le site [www.aircorsica.com](http://www.aircorsica.com/), sans frais de dossier. Pour un billet acheté en agence ou sur un site internet, la demande initiale de remboursement doit être effectuée auprès de l'agence ou du site où a été acheté le billet.
 
-* Frais d'annulation et de remboursement
+*   Frais d'annulation et de remboursement
     
     |     |     |
     | --- | --- |
@@ -403,8 +403,8 @@ Il est précisé que ces frais ne s'appliquent pas pour les billets réservés a
                 **Annulation le jour du départ ou dans les 24 heures** **suivant l’achat** (mesure commerciale)  
                 A titre strictement commercial, AIR CORSICA peut accorder le remboursement d’un billet non remboursable en cas d’annulation effectuée **le jour de l’achat** ou dans **les vingt-quatre (24) heures** suivant l’achat. Dans ce cadre, une pénalité forfaitaire, déduite du   montant remboursé, est appliquée comme suit :
 
-* 30 € pour tout billet d’un montant inférieur ou égal à 200 €,
-* 50 € pour tout billet d’un montant supérieur à 200 €.
+*   30 € pour tout billet d’un montant inférieur ou égal à 200 €,
+*   50 € pour tout billet d’un montant supérieur à 200 €.
 
 **5.9. Itinéraire**
 
@@ -436,23 +436,23 @@ Nous nous efforcerons de satisfaire vos demandes d'attribution de siège. Toutef
 
 **6.5. Ordre d’utilisation des coupons de vol**
 
-* (a) Le tarif TTC applicable au billet, calculé en fonction des données, des dates de vols et du parcours indiqué sur le billet, correspond à un point de départ et un point de destination, en tenant compte de toute escale intermédiaire prévue lors de l'achat du billet, et fait partie intégrante du contrat de transport. Le tarif appliqué à la date d’émission du billet est valable uniquement si le billet est utilisé dans son intégralité, en respectant l'ordre et les dates du parcours réservé, c'est-à-dire l'ordre séquentiel des coupons de vol.
-* (b) Toute utilisation non conforme du billet par le passager, comme par exemple l’utilisation du coupon retour, avant l’utilisation du coupon aller, entraînera l'application d'un supplément tarifaire forfaitaire de cent euros (100 €) à payer au moment de l’enregistrement du deuxième coupon de vol
+*   (a) Le tarif TTC applicable au billet, calculé en fonction des données, des dates de vols et du parcours indiqué sur le billet, correspond à un point de départ et un point de destination, en tenant compte de toute escale intermédiaire prévue lors de l'achat du billet, et fait partie intégrante du contrat de transport. Le tarif appliqué à la date d’émission du billet est valable uniquement si le billet est utilisé dans son intégralité, en respectant l'ordre et les dates du parcours réservé, c'est-à-dire l'ordre séquentiel des coupons de vol.
+*   (b) Toute utilisation non conforme du billet par le passager, comme par exemple l’utilisation du coupon retour, avant l’utilisation du coupon aller, entraînera l'application d'un supplément tarifaire forfaitaire de cent euros (100 €) à payer au moment de l’enregistrement du deuxième coupon de vol
 
 **Tarif résident Corse**
 
 Pour les billets réservés au tarif résident corse :
 
-* **Annulation intégrale :** Les passagers souhaitant annuler leur voyage doivent informer le transporteur au moins deux (2) heures avant l’heure de départ du vol aller.
-* **Modification :** Les passagers souhaitant modifier une partie de leur voyage doivent informer le transporteur au moins deux (2) heures avant le départ du vol concerné.  
+*   **Annulation intégrale :** Les passagers souhaitant annuler leur voyage doivent informer le transporteur au moins deux (2) heures avant l’heure de départ du vol aller.
+*   **Modification :** Les passagers souhaitant modifier une partie de leur voyage doivent informer le transporteur au moins deux (2) heures avant le départ du vol concerné.  
     Si l'information préalable n'est pas communiquée au moins 2 heures avant le départ du vol, le passager s'expose à un supplément tarifaire forfaitaire équivalant au prix d'achat du coupon non utilisé hors taxes, en raison du non-respect de l'ordre séquentiel des coupons.
 
 **Traitement des no-show**
 
-* (d) En cas de non-présentation du passager à l'enregistrement, ce dernier aura droit au remboursement des taxes d’aéroport et de la redevance passager, conformément à l'article L.224-66 du Code de la consommation, quel que soit le tarif applicable au billet.  
+*   (d) En cas de non-présentation du passager à l'enregistrement, ce dernier aura droit au remboursement des taxes d’aéroport et de la redevance passager, conformément à l'article L.224-66 du Code de la consommation, quel que soit le tarif applicable au billet.  
     Pour les billets réservés au tarif résident corse, l’utilisation d’un seul coupon de vol n'est pas autorisée.
-* **Si le vol aller n’a pas été utilisé** : le passager pourra utiliser le vol retour uniquement après réajustement du tarif au tarif non-résident sur un aller simple. Sinon il aura la possibilité d’acheter un nouveau billet en aller simple.Le passager obtiendra le remboursement des taxes et redevances aéroportuaires de son billet résident initial inutilisé sur le vol aller en formulant une demande sur notre site internet [Contact | Air Corsica](https://www.aircorsica.com/la-compagnie/nous-contacter.html)
-* **Si le vol retour n’a pas été utilisé :** Le remboursement des taxes et redevances aéroportuaires du vol retour pourra être effectué uniquement après réajustement à un tarif non-résident pour le vol aller simple effectué.
+*   **Si le vol aller n’a pas été utilisé** : le passager pourra utiliser le vol retour uniquement après réajustement du tarif au tarif non-résident sur un aller simple. Sinon il aura la possibilité d’acheter un nouveau billet en aller simple.Le passager obtiendra le remboursement des taxes et redevances aéroportuaires de son billet résident initial inutilisé sur le vol aller en formulant une demande sur notre site internet [Contact | Air Corsica](https://www.aircorsica.com/la-compagnie/nous-contacter.html)
+*   **Si le vol retour n’a pas été utilisé :** Le remboursement des taxes et redevances aéroportuaires du vol retour pourra être effectué uniquement après réajustement à un tarif non-résident pour le vol aller simple effectué.
 
 ### Article 7 - Enregistrement / Embarquement
 
@@ -504,15 +504,15 @@ A titre d’exemple, nous pourrons exercer ce type de refus dans les cas suivant
 
 **(h)** le Billet que vous présentez :
 
-* est acquis frauduleusement ou acheté auprès d'un organisme autre que nous-mêmes ou notre Agent Accrédité ;
-* est répertorié comme document perdu ou volé ;
-* est falsifié ou contrefait ;
-* comporte un Coupon de vol qui a été détérioré ou modifié par quelqu'un d'autre que le Transporteur ou son Agent Accrédité ;
-* vous n'avez pas utilisé les Coupons de Vol dans l'ordre d'émission, selon les dispositions de l'article 4.3 ci-dessus ;
-* vous nous réclamez, lors de l'enregistrement ou de l'embarquement, une assistance particulière que vous n’avez pas signalée au moment de la réservation de votre voyage ;
-* vous n'observez pas les instructions et les réglementations concernant la sécurité ou la sûreté ;
-* vous n'êtes pas en mesure de prouver que vous êtes la personne désignée dans la case "nom du Passager" du Billet.
-* vous n'avez pas utilisé les Coupons de Vol dans l'ordre d'émission, selon les dispositions de l'article 4.3 ci-dessus".
+*   est acquis frauduleusement ou acheté auprès d'un organisme autre que nous-mêmes ou notre Agent Accrédité ;
+*   est répertorié comme document perdu ou volé ;
+*   est falsifié ou contrefait ;
+*   comporte un Coupon de vol qui a été détérioré ou modifié par quelqu'un d'autre que le Transporteur ou son Agent Accrédité ;
+*   vous n'avez pas utilisé les Coupons de Vol dans l'ordre d'émission, selon les dispositions de l'article 4.3 ci-dessus ;
+*   vous nous réclamez, lors de l'enregistrement ou de l'embarquement, une assistance particulière que vous n’avez pas signalée au moment de la réservation de votre voyage ;
+*   vous n'observez pas les instructions et les réglementations concernant la sécurité ou la sûreté ;
+*   vous n'êtes pas en mesure de prouver que vous êtes la personne désignée dans la case "nom du Passager" du Billet.
+*   vous n'avez pas utilisé les Coupons de Vol dans l'ordre d'émission, selon les dispositions de l'article 4.3 ci-dessus".
 
 Dans les cas prévus ci-dessus, nous nous réservons le droit de conserver votre Billet.
 
@@ -698,16 +698,16 @@ Si le Transporteur notifié au Passager, est inscrit sur la liste communautaire 
 
 **b)** En cas d’annulation de vol et conformément aux dispositions du Règlement (CE) N° 261/2004 du Parlement Européen et du Conseil, il est possible pour le passager de :
 
-* reporter son voyage dans les meilleurs délais ou à une date ultérieure (selon les disponibilités), dans des conditions de transport similaires; ou
-* obtenir le remboursement du billet.
+*   reporter son voyage dans les meilleurs délais ou à une date ultérieure (selon les disponibilités), dans des conditions de transport similaires; ou
+*   obtenir le remboursement du billet.
 
 Une assistance immédiate est prévue:  selon les cas et le temps d'attente, vous avez le droit à un repas / collation, une boisson, un hébergement (liaison comprise) ainsi qu'à l'accès à un moyen de télécommunication.
 
 Vous pouvez également solliciter une indemnisation sauf (i) si l’annulation est due à des circonstances extraordinaires ou (ii) si vous avez été prévenu suffisamment tôt de l'annulation, c'est-à-dire :
 
-* Au moins deux semaines avant le départ;
-* De deux semaines à sept jours avant le départ s'il est offert un réacheminement permettant de partir au plus tôt deux heures avant l'heure de départ prévue et d'arriver à destination finale moins de quatre heures après l'heure d'arrivée prevue; ou
-* Moins de sept jours avant le départ s'il est offert un réacheminement permettant de partir une heure au plus avant l'heure de départ prévue et d'arriver à la destination finale moins de deux heures après l'heure prévue d'arrivée.
+*   Au moins deux semaines avant le départ;
+*   De deux semaines à sept jours avant le départ s'il est offert un réacheminement permettant de partir au plus tôt deux heures avant l'heure de départ prévue et d'arriver à destination finale moins de quatre heures après l'heure d'arrivée prevue; ou
+*   Moins de sept jours avant le départ s'il est offert un réacheminement permettant de partir une heure au plus avant l'heure de départ prévue et d'arriver à la destination finale moins de deux heures après l'heure prévue d'arrivée.
 
 **c)** Conformément aux dispositions du Règlement (CE) N° 261/2004 du Parlement Européen et du Conseil, en cas de retard important (supérieur à deux heures) d’un vol programmé par rapport à l’heure de départ inscrite sur le Billet, une assistance immédiate (similaire à celle décrite ci-avant) au passager est prévue. En cas de retard de plus de cinq heures, si vous ne souhaitez pas poursuivre votre voyage, vous pouvez solliciter le remboursement de votre billet dans les conditions prévues à l'article 13 des Conditions Générales de Transport.
 
@@ -745,8 +745,8 @@ En cas d’annulation, de retard important d’un vol, ou encore de refus d’em
 
 **a)** le Passager est en droit de réclamer le remboursement de son Billet pour des raisons autres que celles mentionnées au paragraphe 2 du présent Article et seulement dans les cas où sa responsabilité ne peut être engagée pour justifier de la non utilisation de son Billet aux dates indiquées sur son Billet ; le montant du remboursement sera alors d’un montant équivalent :
 
-* au tarif acquitté, moins les frais de dossier ou d’annulation applicables, si aucune partie du Billet n'a été utilisée.
-* à la différence entre le tarif acquitté et le tarif applicable au parcours prévu pour lequel le Billet a été utilisé, moins les frais de dossier ou d’annulation applicables, si une partie du Billet a été utilisée.
+*   au tarif acquitté, moins les frais de dossier ou d’annulation applicables, si aucune partie du Billet n'a été utilisée.
+*   à la différence entre le tarif acquitté et le tarif applicable au parcours prévu pour lequel le Billet a été utilisé, moins les frais de dossier ou d’annulation applicables, si une partie du Billet a été utilisée.
 
 **b)** Les remboursements visés à ce paragraphe 3 ne pourront être effectués quand les prescriptions gouvernementales ou tout autre document contractuel entre vous et nous les excluent. C'est notamment le cas des Billets portant la mention "non remboursable".
 
@@ -876,15 +876,15 @@ Le Contrat de Transport, y compris ces Conditions Générales de Transport et to
 
 **(b)** Pour les dommages corporels ne dépassant pas 113 100 Droits de Tirage Spéciaux (soit approximativement 123 300 €) par Passager, le Transporteur ne peut exclure ou limiter sa responsabilité, sauf dans les cas suivants :
 
-* si la mort, la blessure ou toute autre lésion corporelle survenue résulte de l’état de santé, physique ou mental du Passager, antérieur à son embarquement à bord de notre vol.
-* si le dommage a été causé, en tout ou en partie, par la faute du passager ou par son état de santé avant l’embarquement à bord de l’avion.
-* pour toute maladie, blessure, handicap, y compris la mort, dus à l’état pathologique physique préexistant du Passager, ni pour toute aggravation dudit état pathologique physique préexistant.
-* dans un cas d’exonération prévue à l’Article 18.1.2 des présentes conditions.
+*   si la mort, la blessure ou toute autre lésion corporelle survenue résulte de l’état de santé, physique ou mental du Passager, antérieur à son embarquement à bord de notre vol.
+*   si le dommage a été causé, en tout ou en partie, par la faute du passager ou par son état de santé avant l’embarquement à bord de l’avion.
+*   pour toute maladie, blessure, handicap, y compris la mort, dus à l’état pathologique physique préexistant du Passager, ni pour toute aggravation dudit état pathologique physique préexistant.
+*   dans un cas d’exonération prévue à l’Article 18.1.2 des présentes conditions.
 
 **(c)** Le Transporteur n’est pas responsable des dommages corporels dans la mesure où ils dépassent 113 100 Droits de Tirage Spéciaux (soit approximativement 123 300 €) par Passager s’il prouve que :
 
-* le dommage n’est pas dû à la négligence ou à un autre acte ou omission préjudiciable du Transporteur, de ses préposés ou de ses mandataires, ou
-* que le dommage résulte uniquement de la négligence ou d’un autre acte ou omission préjudiciable d’un tiers
+*   le dommage n’est pas dû à la négligence ou à un autre acte ou omission préjudiciable du Transporteur, de ses préposés ou de ses mandataires, ou
+*   que le dommage résulte uniquement de la négligence ou d’un autre acte ou omission préjudiciable d’un tiers
 
 **(d)** Le montant de notre responsabilité en cas de mort, de blessure ou de toute autre lésion corporelle d’un Passager au sens du paragraphe 2.1 a) ci-dessus, n’est soumis à aucune limitation. Le montant du dommage réparable couvrira la réparation du dommage, telle qu’elle aura été fixée par accord amiable, par voie d’expertise ou par les tribunaux compétents.
 
