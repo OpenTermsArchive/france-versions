@@ -75,10 +75,10 @@ Il s'agit d'un billet émis à un passager en correspondance avec un autre ; ens
 
 Elle concerne l'un des instruments suivants, applicable au contrat de transport :
 
-* (i) La Convention pour l'unification de certaines règles pour le transport aérien international, signée à Montréal le 28 mai 1999 ; et subsidiairement
-* (ii) La Convention pour l'unification de certaines règles relatives au transport aérien international signée à Varsovie le 12 octobre 1929 (ci-après dénommée « Convention de Varsovie ») ;
-* (iii) Le Protocole de La Haye du 28 septembre 1955 modifiant la Convention de Varsovie ;
-* (iv) Les Protocoles de Montréal n° 1, 2 et 4 (1975), qui complètent la Convention de Varsovie.
+*   (i) La Convention pour l'unification de certaines règles pour le transport aérien international, signée à Montréal le 28 mai 1999 ; et subsidiairement
+*   (ii) La Convention pour l'unification de certaines règles relatives au transport aérien international signée à Varsovie le 12 octobre 1929 (ci-après dénommée « Convention de Varsovie ») ;
+*   (iii) Le Protocole de La Haye du 28 septembre 1955 modifiant la Convention de Varsovie ;
+*   (iv) Les Protocoles de Montréal n° 1, 2 et 4 (1975), qui complètent la Convention de Varsovie.
 
 **Coupon**
 
@@ -746,15 +746,15 @@ En ce qui concerne Air Europa, la responsabilité est la suivante :
 
 (ii) Toutefois, la responsabilité d'Air Europa peut être réduite ou même exonérée du préjudice subi si la compagnie démontre que :
 
-* la mort, les blessures ou toute autre lésion corporelle sont imputables à l'état de santé physique ou mentale du passager existant avant les opérations d'embarquement des passagers ; ou
-* le dommage, selon les sous-paragraphes (a) (i) de ce point, a été causé ou favorisé par la négligence du passager ou par son état de santé avant l'embarquement du vol.
+*   la mort, les blessures ou toute autre lésion corporelle sont imputables à l'état de santé physique ou mentale du passager existant avant les opérations d'embarquement des passagers ; ou
+*   le dommage, selon les sous-paragraphes (a) (i) de ce point, a été causé ou favorisé par la négligence du passager ou par son état de santé avant l'embarquement du vol.
 
 (iii) Aucune limite économique n'a été fixée en ce qui concerne la responsabilité en cas de lésion ou de décès du passager. Dans le cas des dommages de jusqu'à 151.880 DTS (environ 191.360 euros), la compagnie aérienne ne sera pas en mesure de contester les réclamations d'indemnisation. Au-delà de ce montant, la compagnie aérienne ne pourra contester une réclamation que dans les cas où il sera possible de démontrer qu'il n'existe aucune négligence ou tout autre type d'infraction de sa part, ou que le dommage est dû uniquement à la négligence ou à une autre action ou omission préjudiciable d'un tiers.
 
 (iv) Somme recouvrable pour le dommage :
 
-* La somme recouvrable couvre la réparation du dommage, telle qu'elle est déterminée dans une solution amiable, selon les modalités indiquées par un expert ou un tribunal compétent ;
-* Air Europa n'indemnise le passager que pour les dommages compensatoires recouvrables et pour la partie qui excède tout paiement reçu d'un organisme d'assurance sociale public ou d'une institution similaire.
+*   La somme recouvrable couvre la réparation du dommage, telle qu'elle est déterminée dans une solution amiable, selon les modalités indiquées par un expert ou un tribunal compétent ;
+*   Air Europa n'indemnise le passager que pour les dommages compensatoires recouvrables et pour la partie qui excède tout paiement reçu d'un organisme d'assurance sociale public ou d'une institution similaire.
 
 (v) Air Europa se réserve tous les droits de recours contre des tiers, y compris, sans s'y limiter, les droits à prestation et à indemnisation ;
 
@@ -764,31 +764,31 @@ En ce qui concerne Air Europa, la responsabilité est la suivante :
 
 (i) Caractéristiques du dommage réparable :
 
-* Le retard en tant que tel n'est pas préjudiciable : seul le dommage direct est réparable, à l'exclusion de tout dommage indirect ou de tout autre dommage non compensatoire ;
-* Les passagers doivent démontrer le dommage causé par le retard ;
+*   Le retard en tant que tel n'est pas préjudiciable : seul le dommage direct est réparable, à l'exclusion de tout dommage indirect ou de tout autre dommage non compensatoire ;
+*   Les passagers doivent démontrer le dommage causé par le retard ;
 
 (ii) Portée de la responsabilité :
 
-* Air Europa ne sera pas responsable des dommages causés par un retard si la compagnie démontre qu'elle a pris toutes les mesures nécessaires pour l'éviter ou qu'il lui était impossible de prendre de telles mesures ;
-* Air Europa ne sera pas responsable des dommages causés par un retard provoqué par les passagers ou auquel les passagers ont contribué ;
+*   Air Europa ne sera pas responsable des dommages causés par un retard si la compagnie démontre qu'elle a pris toutes les mesures nécessaires pour l'éviter ou qu'il lui était impossible de prendre de telles mesures ;
+*   Air Europa ne sera pas responsable des dommages causés par un retard provoqué par les passagers ou auquel les passagers ont contribué ;
 
 (iii) Portée de l'indemnisation :
 
-* La somme de la réparation est déterminée par le dommage sur la base des preuves présentées par le passager et est comprise dans les limites stipulées dans la loi applicable (jusqu'à 6.303 DTS - environ 7.900 euros).
-* En cas de retard dans la livraison des bagages enregistrés, Air Europa peut, par un montant forfaitaire, indemniser les passagers pour leurs frais de première nécessité occasionnés par le retard lorsque celui-ci survient en dehors du lieu où les passagers résident à ce moment-là.
+*   La somme de la réparation est déterminée par le dommage sur la base des preuves présentées par le passager et est comprise dans les limites stipulées dans la loi applicable (jusqu'à 6.303 DTS - environ 7.900 euros).
+*   En cas de retard dans la livraison des bagages enregistrés, Air Europa peut, par un montant forfaitaire, indemniser les passagers pour leurs frais de première nécessité occasionnés par le retard lorsque celui-ci survient en dehors du lieu où les passagers résident à ce moment-là.
 
 (c) Bagages :
 
 (i) Exclusions de responsabilité :
 
-* Air Europa ne sera pas responsable des dommages causés aux bagages si ceux-ci sont dus aux biens qui y sont contenus. Si les biens du passager entraînent des blessures pour une autre personne ou portent atteinte à la propriété d'une autre personne ou à la propriété d'Air Europa, le passager doit indemniser Air Europa pour toutes les pertes occasionnées et pour les frais encourus par Air Europa ;
-* Air Europa n'assume pas de responsabilité pour le transport d'objets non admis comme bagages, conformément à l'Article 8.3.
-* Air Europa n'assume aucune responsabilité particulière, autres que celles qui lui incombent en vertu du sous-paragraphe (ii).
+*   Air Europa ne sera pas responsable des dommages causés aux bagages si ceux-ci sont dus aux biens qui y sont contenus. Si les biens du passager entraînent des blessures pour une autre personne ou portent atteinte à la propriété d'une autre personne ou à la propriété d'Air Europa, le passager doit indemniser Air Europa pour toutes les pertes occasionnées et pour les frais encourus par Air Europa ;
+*   Air Europa n'assume pas de responsabilité pour le transport d'objets non admis comme bagages, conformément à l'Article 8.3.
+*   Air Europa n'assume aucune responsabilité particulière, autres que celles qui lui incombent en vertu du sous-paragraphe (ii).
 
 (ii) Montant de l'indemnisation :
 
-* Retards des bagages : En cas de retard des bagages, Air Europa est responsable du dommage à condition que celle-ci ait pris les mesures pertinentes afin d'éviter le dommage ou qu'il ait été impossible de prendre les mesures nécessaires. La responsabilité en cas de retard des bagages est limitée à 1.519 DTS (environ 1.900 euros).
-* Destruction, perte ou dommages des bagages : Air Europa est responsable en cas de destruction, de perte ou de dommages des bagages jusqu'à la somme de 1.519 DTS (environ 1.900 euros). En ce qui concerne les bagages enregistrés, celle-ci est responsable même dans le cas elle serait écartée de toute culpabilité, excepté si les bagages sont déjà endommagés. En ce qui concerne les bagages non enregistrés, la compagnie aérienne est responsable des dommages découlant d'une erreur ou infraction de sa part.
+*   Retards des bagages : En cas de retard des bagages, Air Europa est responsable du dommage à condition que celle-ci ait pris les mesures pertinentes afin d'éviter le dommage ou qu'il ait été impossible de prendre les mesures nécessaires. La responsabilité en cas de retard des bagages est limitée à 1.519 DTS (environ 1.900 euros).
+*   Destruction, perte ou dommages des bagages : Air Europa est responsable en cas de destruction, de perte ou de dommages des bagages jusqu'à la somme de 1.519 DTS (environ 1.900 euros). En ce qui concerne les bagages enregistrés, celle-ci est responsable même dans le cas elle serait écartée de toute culpabilité, excepté si les bagages sont déjà endommagés. En ce qui concerne les bagages non enregistrés, la compagnie aérienne est responsable des dommages découlant d'une erreur ou infraction de sa part.
 
 **3.** **Plate-forme de résolution de litiges en ligne**
 
