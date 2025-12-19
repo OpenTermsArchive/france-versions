@@ -22,8 +22,8 @@ Dès lors que vous utilisez notre Plateforme, vous êtes soumis à la Charte alo
 
 Les responsables du traitement de vos données personnelles sont :
 
-* ETAM LINGERIE, Société anonyme, ayant son siège social 57/59 rue Henri Barbusse 92110 Clichy, France. Immatriculée au RCS de Nanterre sous le numéro 478 355 753
-* ETAM SCE, Société par actions simplifiée, ayant son siège social 57/59 rue Henri Barbusse 92110 Clichy, France. Immatriculée au RCS de Nanterre sous le numéro 450 966 445
+*   ETAM LINGERIE, Société anonyme, ayant son siège social 57/59 rue Henri Barbusse 92110 Clichy, France. Immatriculée au RCS de Nanterre sous le numéro 478 355 753
+*   ETAM SCE, Société par actions simplifiée, ayant son siège social 57/59 rue Henri Barbusse 92110 Clichy, France. Immatriculée au RCS de Nanterre sous le numéro 450 966 445
 
 C’est ainsi que, conjointement, nous avons établi des directives et nous assurons la prise en charge du traitement et de la protection de vos données personnelles.
 
@@ -38,33 +38,33 @@ Conformément à la réglementation applicable, le Cabinet POGGI AVOCAT IT, Anne
 
 Les données que nous collectons et utilisons, varient en fonction des produits, services ou fonctionnalités dont vous souhaitez disposer. Les données personnelles, que nous recueillons ou que vous décidez de nous fournir, regroupent en particulier :
 
-* des données d’identification, telles que votre prénom, nom, numéros de téléphone, adresse de votre domicile, adresse e-mail, photographies que vous communiquez ou images lorsque vous visitez nos magasins équipés de système de vidéosurveillance ;
-* des données de paiement, telles que des données de carte de paiement, des données relatives à vos achats, commandes ou retours ;
-* des données relatives à vos achats en ligne ou en magasin telles que le produit, la taille du produit, la quantité ;
-* des données sur vos goûts et préférences, telles que vos préférences sur nos collections, vos préférences de couleurs, vos habitudes ;
-* des données de navigation sur ou à partir de votre dispositif électronique telles que la date, heure de connexion et/ou de navigation, le type de navigateur, la langue du navigateur, l’adresse IP, l’identification de connexion et le suivi des pages vues. Pour de plus amples renseignements sur les informations de navigation recueillies, veuillez consulter l’Article 5 relative aux cookies et témoins de connexion ;
-* des données de localisation pour estimer une position géographique sans être plus précis qu’à l’échelle de la ville.
+*   des données d’identification, telles que votre prénom, nom, numéros de téléphone, adresse de votre domicile, adresse e-mail, photographies que vous communiquez ou images lorsque vous visitez nos magasins équipés de système de vidéosurveillance ;
+*   des données de paiement, telles que des données de carte de paiement, des données relatives à vos achats, commandes ou retours ;
+*   des données relatives à vos achats en ligne ou en magasin telles que le produit, la taille du produit, la quantité ;
+*   des données sur vos goûts et préférences, telles que vos préférences sur nos collections, vos préférences de couleurs, vos habitudes ;
+*   des données de navigation sur ou à partir de votre dispositif électronique telles que la date, heure de connexion et/ou de navigation, le type de navigateur, la langue du navigateur, l’adresse IP, l’identification de connexion et le suivi des pages vues. Pour de plus amples renseignements sur les informations de navigation recueillies, veuillez consulter l’Article 5 relative aux cookies et témoins de connexion ;
+*   des données de localisation pour estimer une position géographique sans être plus précis qu’à l’échelle de la ville.
 
 3\. VOS DROITS
 --------------
 
 Conformément à la réglementation en vigueur, vous disposez de différents droits concernant vos données personnelles. Ces droits peuvent être exercés directement et à tout moment en nous contactant à l'adresse [privacy@etam.fr](mailto:privacy@etam.fr) ou Etam Lingerie, Service Client, 57/59 rue Henri Barbusse, 92110 Clichy, en indiquant simplement le motif de votre demande et le droit que vous souhaitez exercer. Une fois votre demande réceptionnée, nous nous engageons à la traiter et à y répondre avec diligence dans un délai maximum de 30 jours. En cas de doute sur votre identité, nous pourrons vous demander une copie de votre pièce d’identité ou d’un autre justificatif. Les droits dont vous bénéficiez sont les suivants :
 
-* Le droit d’accès : Le droit de demander une copie des données personnelles que nous détenons sur vous. Si votre demande est injustifiée ou abusive, nous pourrons vous facturer des frais relatifs à cette demande.
-* Le droit de rectification : Le droit de demander la correction des données personnelles erronées que nous avons sur vous. Si vous avez un compte client, vous avez la possibilité d’accéder à la section correspondant à vos données personnelles afin de les modifier ou mettre à jour. Vous devrez vous assurer que ces données sont vraies et exactes. De même, vous vous engagez à nous communiquer tout changement ou modification de ces données. Nous vous rappelons également qu’en principe vous ne devez communiquer que vos propres données personnelles et non pas celles d’un tiers. Tout dommage ou perte causé suite à une communication d’information inexacte ou incomplète dans nos formulaires de collecte de données relève exclusivement de la responsabilité de l’utilisateur de notre Plateforme.
-* Le droit à l’effacement : Le droit de demander la suppression de vos données, lorsque l’une des conditions suivantes est remplie :
-    * vos données personnelles ne sont plus nécessaires au regard des finalités
-    * vous avez retiré votre consentement et il n’existe pas d’autre fondement juridique justifiant de poursuivre le traitement de vos données personnelles,
-    * vous avez exercé votre droit d’opposition de manière valable,
-    * le traitement de vos données n’est pas légal,
-    * ou vos données personnelles doivent être effacées pour respecter une obligation légale.
-* Il existe néanmoins des cas où vous ne pouvez pas exercer votre droit à l’effacement, même si une desdites conditions est remplie (respect d’une obligation légale, la contestation/ l’exercice/la défense d’un droit en justice).
-* Pour supprimer votre compte Etam Connect, vous avez la possibilité de le faire directement depuis votre compte Etam Connect ou en nous transmettant votre demande soit à l’adresse [privacy@etam.fr](mailto:privacy@etam.fr) ou Etam Lingerie, Service Client, 57/59 rue Henri Barbusse, 92110 Clichy. Nous tenons néanmoins à vous informer que cette suppression conduira automatiquement à la perte des points que vous avez éventuellement accumulés en cas d’adhésion à notre programme de fidélité.
-* Le droit d’opposition : Le droit de vous opposer, pour des raisons tenant à votre situation particulière, aux traitements fondés sur notre intérêt légitime de vos données personnelles. Le cas échéant nous cesserons de traiter vos données, sauf si nous disposons d’un motif légitime de continuer à traiter vos données.  
+*   Le droit d’accès : Le droit de demander une copie des données personnelles que nous détenons sur vous. Si votre demande est injustifiée ou abusive, nous pourrons vous facturer des frais relatifs à cette demande.
+*   Le droit de rectification : Le droit de demander la correction des données personnelles erronées que nous avons sur vous. Si vous avez un compte client, vous avez la possibilité d’accéder à la section correspondant à vos données personnelles afin de les modifier ou mettre à jour. Vous devrez vous assurer que ces données sont vraies et exactes. De même, vous vous engagez à nous communiquer tout changement ou modification de ces données. Nous vous rappelons également qu’en principe vous ne devez communiquer que vos propres données personnelles et non pas celles d’un tiers. Tout dommage ou perte causé suite à une communication d’information inexacte ou incomplète dans nos formulaires de collecte de données relève exclusivement de la responsabilité de l’utilisateur de notre Plateforme.
+*   Le droit à l’effacement : Le droit de demander la suppression de vos données, lorsque l’une des conditions suivantes est remplie :
+    *   vos données personnelles ne sont plus nécessaires au regard des finalités
+    *   vous avez retiré votre consentement et il n’existe pas d’autre fondement juridique justifiant de poursuivre le traitement de vos données personnelles,
+    *   vous avez exercé votre droit d’opposition de manière valable,
+    *   le traitement de vos données n’est pas légal,
+    *   ou vos données personnelles doivent être effacées pour respecter une obligation légale.
+*   Il existe néanmoins des cas où vous ne pouvez pas exercer votre droit à l’effacement, même si une desdites conditions est remplie (respect d’une obligation légale, la contestation/ l’exercice/la défense d’un droit en justice).
+*   Pour supprimer votre compte Etam Connect, vous avez la possibilité de le faire directement depuis votre compte Etam Connect ou en nous transmettant votre demande soit à l’adresse [privacy@etam.fr](mailto:privacy@etam.fr) ou Etam Lingerie, Service Client, 57/59 rue Henri Barbusse, 92110 Clichy. Nous tenons néanmoins à vous informer que cette suppression conduira automatiquement à la perte des points que vous avez éventuellement accumulés en cas d’adhésion à notre programme de fidélité.
+*   Le droit d’opposition : Le droit de vous opposer, pour des raisons tenant à votre situation particulière, aux traitements fondés sur notre intérêt légitime de vos données personnelles. Le cas échéant nous cesserons de traiter vos données, sauf si nous disposons d’un motif légitime de continuer à traiter vos données.  
     Si vos données sont utilisées à des fins de prospection commerciale, vous avez le droit de vous y opposer sans avoir à vous justifier.
-* Le droit à la limitation du traitement : Le droit de demander, durant le délai d’examen d’une demande de rectification, d’opposition ou de suppression, le gel temporaire de l’utilisation de tout ou partie de vos données. Pendant ce délai, nous ne pourrons plus utiliser ces données, mais devrons les conserver.
-* Le droit à la portabilité : Si le traitement de vos données personnelles est fondé sur votre consentement ou l’exécution du contrat et si le traitement est réalisé par des moyens automatisés, vous aurez le droit de demander la réception des données vous concernant dans un format structuré, couramment utilisé et lisible par une machine, afin de pouvoir les transférer à une autre entité, pourvu que cela soit techniquement possible.
-* Le droit de définir des directives relatives au sort de vos données personnelles en cas de décès.
+*   Le droit à la limitation du traitement : Le droit de demander, durant le délai d’examen d’une demande de rectification, d’opposition ou de suppression, le gel temporaire de l’utilisation de tout ou partie de vos données. Pendant ce délai, nous ne pourrons plus utiliser ces données, mais devrons les conserver.
+*   Le droit à la portabilité : Si le traitement de vos données personnelles est fondé sur votre consentement ou l’exécution du contrat et si le traitement est réalisé par des moyens automatisés, vous aurez le droit de demander la réception des données vous concernant dans un format structuré, couramment utilisé et lisible par une machine, afin de pouvoir les transférer à une autre entité, pourvu que cela soit techniquement possible.
+*   Le droit de définir des directives relatives au sort de vos données personnelles en cas de décès.
 
 Vous disposez également du droit d'introduire une réclamation auprès d'une autorité de contrôle, en particulier dans l'État membre dans lequel se trouve votre résidence habituelle, votre lieu de travail ou le lieu où la violation aurait été commise, si vous considérez que le traitement de données à caractère personnel vous concernant constitue une violation à la règlementation applicable. En France, l’autorité de contrôle est la suivante : Commission Nationale de l’Informatique et des Libertés (CNIL), 3 Place de Fontenoy – TSA 80715 – 75334 PARIS CEDEX 07, Tel +33(0)1 53 73 22 22.
 
@@ -135,40 +135,40 @@ Dans un premier temps, les données sont conservées pendant une durée qui n’
 
 Dans un second temps, indépendamment de la durée de conservation nécessaire à la réalisation de la finalité du traitement des données, il peut être justifié que nous archivions vos données pendant une durée limitée, de manière sécurisée et avec un accès restreint, pour :
 
-* respecter une obligation légale de conservation de données (la conservation de données personnelles à but comptable est par exemple de 10 ans).
-* se prémunir contre une éventuelle action en responsabilité en cas de réclamation par exemple suite au traitement de vos données personnelles. Une fois la durée de conservation imposée par la loi écoulée et les éventuelles actions prescrites, il sera procédé à la suppression ou anonymisation de vos données personnelles.
+*   respecter une obligation légale de conservation de données (la conservation de données personnelles à but comptable est par exemple de 10 ans).
+*   se prémunir contre une éventuelle action en responsabilité en cas de réclamation par exemple suite au traitement de vos données personnelles. Une fois la durée de conservation imposée par la loi écoulée et les éventuelles actions prescrites, il sera procédé à la suppression ou anonymisation de vos données personnelles.
 
 4.3 Destinataires des données
 -----------------------------
 
 Vos données à caractère personnel sont destinées aux services d'Etam concernés par vos demandes. Cependant :
 
-* Lorsque vous commandez un produit sur le Site, les données personnelles que vous communiquez dans le cadre de la commande sont à destination d’Etam, et de ses sociétés affiliées en charge de la logistique et de la livraison ou de ses sous-traitants en charge d’exécuter ladite commande.
-* Lorsque vous effectuez un achat en magasin, les données personnelles que vous communiquez peuvent être traitées par nos magasins affiliés. Un magasin affilié c’est un commerçant indépendant qui exploite un ou plusieurs magasins à enseigne ETAM dans le cadre d’un contrat commissionnaire-affilié. A ce titre, il peut consulter les données clientes, créer un compte fidélité, permettre l’enregistrement de vos points fidélité et vous faire bénéficier des offres promotionnelles liées au compte fidélité en sa qualité de sous-traitant au sens de la réglementation applicable.
-* Les données que nous collectons peuvent être transmises aux prestataires (sous-traitants) – auxquels Etam fait appel pour la réalisation de ses services dans le cadre des finalités mentionnées ci-avant par exemple pour la gestion, l'exécution, le traitement, le paiement de vos commandes, ainsi que pour des opérations marketing. Il s’agit notamment de :
-    * prestataires informatiques, notamment d’hébergement
-    * prestataires de livraison
-    * prestataires de services liés au service client, avis clients et enquêtes de satisfaction
-    * prestataires réalisant des campagnes de prospection commerciale par email et/ou sms
-    * prestataires diffusant des publicités ciblées (ex ; sites Internet tiers, réseaux sociaux)
-    * prestataires de services de paiement et entités de détection et de prévention des fraudes
-    * prestataires de services d’analyse data et statistique (données magasins et données Plateforme)
-    * autorités de police dans le cadre des réquisitions judiciaires concernant la lutte contre la fraude ou autre tiers autorisés.
+*   Lorsque vous commandez un produit sur le Site, les données personnelles que vous communiquez dans le cadre de la commande sont à destination d’Etam, et de ses sociétés affiliées en charge de la logistique et de la livraison ou de ses sous-traitants en charge d’exécuter ladite commande.
+*   Lorsque vous effectuez un achat en magasin, les données personnelles que vous communiquez peuvent être traitées par nos magasins affiliés. Un magasin affilié c’est un commerçant indépendant qui exploite un ou plusieurs magasins à enseigne ETAM dans le cadre d’un contrat commissionnaire-affilié. A ce titre, il peut consulter les données clientes, créer un compte fidélité, permettre l’enregistrement de vos points fidélité et vous faire bénéficier des offres promotionnelles liées au compte fidélité en sa qualité de sous-traitant au sens de la réglementation applicable.
+*   Les données que nous collectons peuvent être transmises aux prestataires (sous-traitants) – auxquels Etam fait appel pour la réalisation de ses services dans le cadre des finalités mentionnées ci-avant par exemple pour la gestion, l'exécution, le traitement, le paiement de vos commandes, ainsi que pour des opérations marketing. Il s’agit notamment de :
+    *   prestataires informatiques, notamment d’hébergement
+    *   prestataires de livraison
+    *   prestataires de services liés au service client, avis clients et enquêtes de satisfaction
+    *   prestataires réalisant des campagnes de prospection commerciale par email et/ou sms
+    *   prestataires diffusant des publicités ciblées (ex ; sites Internet tiers, réseaux sociaux)
+    *   prestataires de services de paiement et entités de détection et de prévention des fraudes
+    *   prestataires de services d’analyse data et statistique (données magasins et données Plateforme)
+    *   autorités de police dans le cadre des réquisitions judiciaires concernant la lutte contre la fraude ou autre tiers autorisés.
 
-* vous pouvez vous connecter à votre compte Etam Connect via vos comptes de réseaux sociaux. Lorsque vous vous connectez à partir d’un compte tiers, il vous appartient de prendre connaissance des conditions générales et de la politique de confidentialité de votre réseau social.
-* Recevoir les offres et actualités des partenaires Etam
-    * Votre adresse email peut être transmise à des partenaires pour recevoir leurs offres et actualités uniquement si vous avez donné votre consentement. Vous pouvez retirer votre consentement à tout moment directement sur votre compte ou en contactant le Service Client, 57/59 rue Henri Barbusse, 92110 Clichy.
-* En tout état de cause, il n'y a pas de transfert hors Europe et le Groupe Etam ne transmet pas vos données personnelles sauf :
-    * Si Etam doit partager ces informations avec des tiers pour vous fournir le service que vous demandez, ou
-    * Si Etam est sommée par une autorité judiciaire ou toute autre autorité administrative, des organismes publics de lui communiquer les informations,
-    * Si vous avez donné votre accord préalable pour le partage de ces informations.
+*   vous pouvez vous connecter à votre compte Etam Connect via vos comptes de réseaux sociaux. Lorsque vous vous connectez à partir d’un compte tiers, il vous appartient de prendre connaissance des conditions générales et de la politique de confidentialité de votre réseau social.
+*   Recevoir les offres et actualités des partenaires Etam
+    *   Votre adresse email peut être transmise à des partenaires pour recevoir leurs offres et actualités uniquement si vous avez donné votre consentement. Vous pouvez retirer votre consentement à tout moment directement sur votre compte ou en contactant le Service Client, 57/59 rue Henri Barbusse, 92110 Clichy.
+*   En tout état de cause, il n'y a pas de transfert hors Europe et le Groupe Etam ne transmet pas vos données personnelles sauf :
+    *   Si Etam doit partager ces informations avec des tiers pour vous fournir le service que vous demandez, ou
+    *   Si Etam est sommée par une autorité judiciaire ou toute autre autorité administrative, des organismes publics de lui communiquer les informations,
+    *   Si vous avez donné votre accord préalable pour le partage de ces informations.
 
 Dans ce cas, le transfert hors Europe de vos données personnelles sera réalisé en mettant en place les garanties appropriées et en préservant la sécurité de vos données. Ainsi si un transfert de vos données personnelles hors Europe est effectué, celui-ci sera fondé sur :
 
-* une décision d’adéquation de la Commission européenne concernant certains pays assurant un niveau de protection adéquat ;
-* des clauses contractuelles types (CCT) de la Commission européenne ;
-* des règles internes d’entreprises (BCR) ;
-* des clauses contractuelles spécifiques (considérées comme conformes aux modèles de clauses de la Commission européenne).
+*   une décision d’adéquation de la Commission européenne concernant certains pays assurant un niveau de protection adéquat ;
+*   des clauses contractuelles types (CCT) de la Commission européenne ;
+*   des règles internes d’entreprises (BCR) ;
+*   des clauses contractuelles spécifiques (considérées comme conformes aux modèles de clauses de la Commission européenne).
 
 4.4 Sécurité des données
 ------------------------
@@ -179,11 +179,11 @@ Etam ne maîtrise cependant pas tous les risques liés au fonctionnement d'Inter
 
 Pour les besoins du stockage technique de vos données personnelles, vos données sont centralisées chez les prestataires suivants :
 
-* oXya – en Ile-de-France et Hauts de France,
-* Salesforce Commerce Cloud - en Irlande,
-* Amazon Web Service – en France, en Allemagne et en Irlande,
-* OVH – dans les Hauts-de-France
-* OCI – en Ile-de-France à Paris,
+*   oXya – en Ile-de-France et Hauts de France,
+*   Salesforce Commerce Cloud - en Irlande,
+*   Amazon Web Service – en France, en Allemagne et en Irlande,
+*   OVH – dans les Hauts-de-France
+*   OCI – en Ile-de-France à Paris,
 
 5\. COOKIES ET TÉMOINS DE CONNEXION
 -----------------------------------
@@ -200,12 +200,12 @@ Lorsque vous vous connectez au Site, Etam peut être amené, sous réserve de vo
 
 En fonction du propriétaire des cookies, ils peuvent se classer comme suit :
 
-* **Cookies internes :** ce sont ceux envoyés dans votre terminal depuis un appareil ou un domaine géré par nous et à partir duquel la plateforme ou le service demandé par l’utilisateur est offert.
-* **Cookies tiers :** ce sont ceux envoyés dans votre terminal depuis un appareil ou un domaine qui n’est pas géré par nous, mais par une autre entité qui traite les données obtenues par le biais des cookies.
+*   **Cookies internes :** ce sont ceux envoyés dans votre terminal depuis un appareil ou un domaine géré par nous et à partir duquel la plateforme ou le service demandé par l’utilisateur est offert.
+*   **Cookies tiers :** ce sont ceux envoyés dans votre terminal depuis un appareil ou un domaine qui n’est pas géré par nous, mais par une autre entité qui traite les données obtenues par le biais des cookies.
 
 En fonction de l’objectif des cookies, ils peuvent se classer comme suit :
 
-* a. Cookies strictement nécessaires (cookies techniques) : ce sont ceux qui permettent à l’utilisateur de naviguer sur un site web, une plateforme ou une application et d’utiliser les différentes options ou services proposés.  
+*   a. Cookies strictement nécessaires (cookies techniques) : ce sont ceux qui permettent à l’utilisateur de naviguer sur un site web, une plateforme ou une application et d’utiliser les différentes options ou services proposés.  
     Par exemple, le contrôle du trafic, l’identification des données ou pour la connexion, l’accès aux sections ou contenus à accès restreint, la mémorisation des éléments qui composent une commande, l’exécution du processus d’achat d’une commande, la gestion des paiements, le contrôle des fraudes liées à la sécurité du service, l’utilisation d’éléments de sécurité lors de la navigation, la demande d’inscription ou de participation à un événement, le stockage de contenus pour la diffusion de vidéos ou de sons, ou le partage de contenus par le biais des réseaux sociaux. Les cookies techniques, étant strictement nécessaires, sont téléchargés par défaut quand ils permettent d’afficher la plateforme ou d’assurer un service demandé par l’utilisateur.  
     Vous trouverez ci-dessous la liste des cookies essentiels déposés par Etam :
     
@@ -229,9 +229,9 @@ En fonction de l’objectif des cookies, ils peuvent se classer comme suit :
     | uuid | persistent | Salesforce | [https://www.salesforce.com/eu/company/privacy/](https://www.salesforce.com/eu/company/privacy/) |
     | \_\_cq\_seg | persistent | Salesforce | [https://www.salesforce.com/eu/company/privacy/](https://www.salesforce.com/eu/company/privacy/) |
     
-* b. Cookies de fonctionnalité ou de personnalisation : ces cookies sont ceux qui permettent de mémoriser des informations afin que l’utilisateur accède au service ou à la plateforme avec certaines caractéristiques qui peuvent différencier son expérience de celle des autres utilisateurs. Par exemple : la langue, le nombre de résultats à afficher lorsque l’utilisateur effectue une recherche, l’aspect ou le contenu du service selon le type de navigateur de l’utilisateur ou la région depuis laquelle il accède au service, etc. Le refus de ces cookies peut entraîner un ralentissement du site web ou des recommandations mal adaptées.
-* c. Cookies d’analyse : ce sont ceux qui permettent de déterminer le nombre d’utilisateurs, les sections visitées dans la plateforme et la façon dont ils interagissent avec celle-ci, afin de mesurer et d’analyser statistiquement comment les utilisateurs font usage de la plateforme ou du service, pour introduire des améliorations basées sur l’analyse des données de cette utilisation.
-* d. Cookies pour une publicité ciblée : ce sont ceux qui stockent des informations sur le comportement des utilisateurs, obtenues par l’observation continue de leur habitude de navigation, permettant de créer un profil spécifique pour montrer des publicités leur correspondant.
+*   b. Cookies de fonctionnalité ou de personnalisation : ces cookies sont ceux qui permettent de mémoriser des informations afin que l’utilisateur accède au service ou à la plateforme avec certaines caractéristiques qui peuvent différencier son expérience de celle des autres utilisateurs. Par exemple : la langue, le nombre de résultats à afficher lorsque l’utilisateur effectue une recherche, l’aspect ou le contenu du service selon le type de navigateur de l’utilisateur ou la région depuis laquelle il accède au service, etc. Le refus de ces cookies peut entraîner un ralentissement du site web ou des recommandations mal adaptées.
+*   c. Cookies d’analyse : ce sont ceux qui permettent de déterminer le nombre d’utilisateurs, les sections visitées dans la plateforme et la façon dont ils interagissent avec celle-ci, afin de mesurer et d’analyser statistiquement comment les utilisateurs font usage de la plateforme ou du service, pour introduire des améliorations basées sur l’analyse des données de cette utilisation.
+*   d. Cookies pour une publicité ciblée : ce sont ceux qui stockent des informations sur le comportement des utilisateurs, obtenues par l’observation continue de leur habitude de navigation, permettant de créer un profil spécifique pour montrer des publicités leur correspondant.
 
 ### 5.3 Les cookies émis sur le Site par des tiers
 
