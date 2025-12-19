@@ -20,25 +20,25 @@ Vous souhaitez évaluer les émissions de CO2 liées à votre voyage : [calculat
 Sommaire
 --------
 
-* [Article I : définitions](https://www.air-austral.com/cgt.html#c234 "article I")
-* [Article II : domaine d'application](https://www.air-austral.com/cgt.html#c235 "Article II conditions generales de transport Air Austral")
-* [Article III : billets](https://www.air-austral.com/cgt.html#c237 "Article III conditions generales de transport Air Austral")
-* [Article IV : tarifs, frais, taxes et redevances](https://www.air-austral.com/cgt.html#c238 "Article IV conditions generales de transport Air Austral")
-* [Article V : réservations](https://www.air-austral.com/cgt.html#c239 "Article V conditions generales de transport Air Austral")
-* [Article VI : enregistrement/ embarquement](https://www.air-austral.com/cgt.html#c240 "Article VI conditions generales de transport Air Austral")
-* [Article VII : refus et limitation au transport](https://www.air-austral.com/cgt.html#c241 "Article VII conditions generales de transport Air Austral")
-* [Article VIII : bagages](https://www.air-austral.com/cgt.html#c242 "Article VIII conditions generales de transport Air Austral")
-* [Article IX : horaires, retards, annulations de vols](https://www.air-austral.com/cgt.html#c243 "Article IX conditions generales de transport Air Austral")
-* [Article X : remboursements](https://www.air-austral.com/cgt.html#c244 "Article X conditions generales de transport Air Austral")
-* [Article XI : comportement à bord](https://www.air-austral.com/cgt.html#c245 "Article XI conditions generales de transport Air Austral")
-* [Article XII : dispositions pour les prestations](https://www.air-austral.com/cgt.html#c246 "Article XII conditions generales de transport Air Austral")
-* [Article XIII : formalités administratives](https://www.air-austral.com/cgt.html#c247 "Article XIII conditions generales de transport Air Austral")
-* [Article XIV : transporteurs successifs](https://www.air-austral.com/cgt.html#c248 "Article XVI conditions generales de transport Air Austral")
-* [Article XV : responsabilité pour dommages](https://www.air-austral.com/cgt.html#c249 "Article XV conditions generales de transport Air Austral")
-* [Article XVI - délais de protestation et d'action en responsabilité](https://www.air-austral.com/cgt.html#c250 "Article XVI conditions generales de transport Air Austral")
-* [Article XVII : modifications et suppressions](https://www.air-austral.com/cgt.html#c251 "Article XVII conditions generales de transport Air Austral")
-* [Article XVIII : litiges et droits applicables](https://www.air-austral.com/cgt.html#c252 "Article XVIII conditions generales de transport Air Austral")
-* [ANNEXE au règlement (CE) n° 889/2002](https://www.air-austral.com/cgt/annexe-au-reglement-ce-n-8892002.html "Annexe règlement CE Air Austral")
+*   [Article I : définitions](https://www.air-austral.com/cgt.html#c234 "article I")
+*   [Article II : domaine d'application](https://www.air-austral.com/cgt.html#c235 "Article II conditions generales de transport Air Austral")
+*   [Article III : billets](https://www.air-austral.com/cgt.html#c237 "Article III conditions generales de transport Air Austral")
+*   [Article IV : tarifs, frais, taxes et redevances](https://www.air-austral.com/cgt.html#c238 "Article IV conditions generales de transport Air Austral")
+*   [Article V : réservations](https://www.air-austral.com/cgt.html#c239 "Article V conditions generales de transport Air Austral")
+*   [Article VI : enregistrement/ embarquement](https://www.air-austral.com/cgt.html#c240 "Article VI conditions generales de transport Air Austral")
+*   [Article VII : refus et limitation au transport](https://www.air-austral.com/cgt.html#c241 "Article VII conditions generales de transport Air Austral")
+*   [Article VIII : bagages](https://www.air-austral.com/cgt.html#c242 "Article VIII conditions generales de transport Air Austral")
+*   [Article IX : horaires, retards, annulations de vols](https://www.air-austral.com/cgt.html#c243 "Article IX conditions generales de transport Air Austral")
+*   [Article X : remboursements](https://www.air-austral.com/cgt.html#c244 "Article X conditions generales de transport Air Austral")
+*   [Article XI : comportement à bord](https://www.air-austral.com/cgt.html#c245 "Article XI conditions generales de transport Air Austral")
+*   [Article XII : dispositions pour les prestations](https://www.air-austral.com/cgt.html#c246 "Article XII conditions generales de transport Air Austral")
+*   [Article XIII : formalités administratives](https://www.air-austral.com/cgt.html#c247 "Article XIII conditions generales de transport Air Austral")
+*   [Article XIV : transporteurs successifs](https://www.air-austral.com/cgt.html#c248 "Article XVI conditions generales de transport Air Austral")
+*   [Article XV : responsabilité pour dommages](https://www.air-austral.com/cgt.html#c249 "Article XV conditions generales de transport Air Austral")
+*   [Article XVI - délais de protestation et d'action en responsabilité](https://www.air-austral.com/cgt.html#c250 "Article XVI conditions generales de transport Air Austral")
+*   [Article XVII : modifications et suppressions](https://www.air-austral.com/cgt.html#c251 "Article XVII conditions generales de transport Air Austral")
+*   [Article XVIII : litiges et droits applicables](https://www.air-austral.com/cgt.html#c252 "Article XVIII conditions generales de transport Air Austral")
+*   [ANNEXE au règlement (CE) n° 889/2002](https://www.air-austral.com/cgt/annexe-au-reglement-ce-n-8892002.html "Annexe règlement CE Air Austral")
 
 Article I : définitions
 -----------------------
@@ -78,11 +78,11 @@ Contrat de transport Désigne les déclarations jointes au Billet ou dans la poc
 
 **Convention Désigne, selon les cas** :
 
-* La Convention pour l’unification de certaines règles relatives au transport aérien international, signée à Varsovie, le 12 octobre 1929 ;
-* Le Protocole de La Haye du 28 septembre 1955, modifiant la Convention de Varsovie ;
-* La Convention supplémentaire de Guadalajara, du 18 septembre 1961 ;
-* Les Protocoles de Montréal n° 1, 2 et 4 (1975), modifiant la Convention de Varsovie et
-* La Convention de Montréal du 28 mai 1999, entrée en vigueur le 28 Juin 2004.
+*   La Convention pour l’unification de certaines règles relatives au transport aérien international, signée à Varsovie, le 12 octobre 1929 ;
+*   Le Protocole de La Haye du 28 septembre 1955, modifiant la Convention de Varsovie ;
+*   La Convention supplémentaire de Guadalajara, du 18 septembre 1961 ;
+*   Les Protocoles de Montréal n° 1, 2 et 4 (1975), modifiant la Convention de Varsovie et
+*   La Convention de Montréal du 28 mai 1999, entrée en vigueur le 28 Juin 2004.
 
 **Coupon**  
 Désigne soit un Coupon de Vol papier et/ou électronique, chacun d’entre eux comportant le nom du passager devant effectuer un vol identifié sur le Coupon.
@@ -302,10 +302,10 @@ Le Transporteur Aérien peut refuser à tout point d’embarquement et/ou de cor
 
 **h)** Le billet que présente le passager :
 
-* a été acquis frauduleusement ou acheté auprès d’un organisme autre que le transporteur lui-même ou son agent accrédité ;
-* a été fasifié ou contrefait ;
-* a été répertorié comme document perdu ou volé
-* comporte un Coupon de vol qui a été détérioré ou modifié par quelqu’un d’autre que le Transporteur ou son Agent Accrédité ;
+*   a été acquis frauduleusement ou acheté auprès d’un organisme autre que le transporteur lui-même ou son agent accrédité ;
+*   a été fasifié ou contrefait ;
+*   a été répertorié comme document perdu ou volé
+*   comporte un Coupon de vol qui a été détérioré ou modifié par quelqu’un d’autre que le Transporteur ou son Agent Accrédité ;
 
 **i)** Le passager n’a pas utilisé les Coupons de Vol dans l’ordre d’émission, selon les dispositions de l’article III/3 ci-dessus ;
 
@@ -435,9 +435,9 @@ Si, après l’achat du billet, le transporteur procède à une modification d�
 
 **b)** Sauf dispositions contraires de la Convention, si le transporteur annule un vol ou s’il l’exécute dans des délais excessifs par rapport à l’horaire programmé ou si le vol ne s’arrête pas au point d’arrêt volontaire ou de destination, ou s’il fait manquer un vol en correspondance, dans les limites d’un Contrat de Transport unique pour lequel le passager avait une réservation, le transporteur doit, en accord avec le passager :
 
-* le transporter sur un autre de ses vols réguliers où une place est disponible, sans supplément de prix et, le cas échéant, prolonger d’autant la validité du Billet ;
-* ou Le ré-acheminer à la destination indiquée sur le Billet, en tout ou partie, sur ses vols réguliers ou sur les vols réguliers d’un Transporteur, au sens de l’article I ci-dessus, ou par tout autre moyen de transport convenu d’accord parties. Si le tarif et les frais afférents au nouvel acheminement sont plus bas que la valeur de remboursement du Billet, en tout ou partie, le transporteur remboursera la différence au passager ;
-* ou Le transporteur remboursera au passager son Billet, conformément à l’article X, ci-dessous.
+*   le transporter sur un autre de ses vols réguliers où une place est disponible, sans supplément de prix et, le cas échéant, prolonger d’autant la validité du Billet ;
+*   ou Le ré-acheminer à la destination indiquée sur le Billet, en tout ou partie, sur ses vols réguliers ou sur les vols réguliers d’un Transporteur, au sens de l’article I ci-dessus, ou par tout autre moyen de transport convenu d’accord parties. Si le tarif et les frais afférents au nouvel acheminement sont plus bas que la valeur de remboursement du Billet, en tout ou partie, le transporteur remboursera la différence au passager ;
+*   ou Le transporteur remboursera au passager son Billet, conformément à l’article X, ci-dessous.
 
 **c)** Dans les cas visés au paragraphe 2 du présent article et sauf dispositions contraires de la Convention, les options proposées au sous paragraphe b) sont les seules que le transporteur soit obligé de proposer au passager.
 
@@ -476,8 +476,8 @@ En cas de déclassement involontaire, transport du passager dans une classe inf�
 
 **a)** Si le passager est en droit de se faire rembourser son billet, pour des raisons autres que celles mentionnées au paragraphe (2) de cet article, le montant du remboursement sera d’un montant équivalant :
 
-* Au tarif payé, moins des frais de dossier ou d’annulation raisonnables, si aucune partie du Billet n’a été utilisée ;
-* À la différence entre le tarif payé et le tarif applicable au parcours prévu pour lequel le Billet a été utilisé, moins des frais de dossier ou d’annulation raisonnables, si une partie du Billet a été utilisée.
+*   Au tarif payé, moins des frais de dossier ou d’annulation raisonnables, si aucune partie du Billet n’a été utilisée ;
+*   À la différence entre le tarif payé et le tarif applicable au parcours prévu pour lequel le Billet a été utilisé, moins des frais de dossier ou d’annulation raisonnables, si une partie du Billet a été utilisée.
 
 **b)** Les remboursements visés à ce paragraphe 3 ne peuvent être effectués quand les prescriptions gouvernementales ou tout autre document contractuel entre le passager et le transporteur les excluent. Ces règles s’appliquent notamment aux billets portant la mention "non remboursable".
 
@@ -592,13 +592,13 @@ La responsabilité du transporteur sera déterminée par les Conditions Généra
 
 **c)** Dans la mesure où ce qui suit ne fait pas échec aux autres dispositions des présentes Conditions, et que la Convention soit ou non applicable :
 
-* La responsabilité du transporteur est limitée au dommage survenu au cours des vols pour lesquels son code de Désignation apparaît dans le Coupon ou le Billet correspondant au vol. Lorsque le transporteur émet un Billet ou lorsqu’il enregistre un bagage sur les lignes d’un transporteur, au sens de l’article I ci-dessus, il n’agit qu’à titre de mandataire de ce dernier. Toutefois, en ce qui concerne les Bagages enregistrés, le passager a droit à un recours contre le premier ou le dernier Transporteur intervenant dans son voyage ;
-* La responsabilité du transporteur ne pourra excéder le montant des dommages prouvés et il ne sera, en aucune manière, responsable des dommages indirects ou de toute forme de dommage non compensatoire ;
-* Le transporteur n’assumera aucune responsabilité pour les dommages résultant de l’observation par le transporteur de toutes dispositions légales ou réglementaires, de l’inobservation de ces mêmes dispositions par le passager.
-* Le transporteur n’assume aucune responsabilité en cas de dommage aux Bagages non enregistrés, à moins qu’un tel dommage soit causé directement par son fait et que le passager en rapporte la preuve ;
-* Le transporteur n’est pas responsable de toute maladie, blessure ou handicap, y compris la mort, dus à la condition physique du passager pas plus que de toute aggravation de ladite condition ;
-* Le contrat de transport, y compris ces conditions générales de transport et toutes les exclusions ou limitations de responsabilité qui y figurent s’appliquent et bénéficient aux Agents Accrédités, aux employés et représentants du transporteur et au propriétaire de l’avion utilisé par le transporteur, ainsi qu’aux agents, employés et représentants de ce propriétaire. Le montant global recouvrable auprès des personnes susmentionnées ne pourra excéder le montant de la responsabilité du transporteur ;
-* Si la négligence ou un autre acte ou omission préjudiciable de la personne qui demande réparation ou de la personne dont elle tient ses droits a causé le Dommage ou y a contribué, le Transporteur se verra en tout ou partie exonéré de sa responsabilité à l’égard de cette personne y compris en cas de décès ou de lésion corporelle selon le droit en vigueur.
+*   La responsabilité du transporteur est limitée au dommage survenu au cours des vols pour lesquels son code de Désignation apparaît dans le Coupon ou le Billet correspondant au vol. Lorsque le transporteur émet un Billet ou lorsqu’il enregistre un bagage sur les lignes d’un transporteur, au sens de l’article I ci-dessus, il n’agit qu’à titre de mandataire de ce dernier. Toutefois, en ce qui concerne les Bagages enregistrés, le passager a droit à un recours contre le premier ou le dernier Transporteur intervenant dans son voyage ;
+*   La responsabilité du transporteur ne pourra excéder le montant des dommages prouvés et il ne sera, en aucune manière, responsable des dommages indirects ou de toute forme de dommage non compensatoire ;
+*   Le transporteur n’assumera aucune responsabilité pour les dommages résultant de l’observation par le transporteur de toutes dispositions légales ou réglementaires, de l’inobservation de ces mêmes dispositions par le passager.
+*   Le transporteur n’assume aucune responsabilité en cas de dommage aux Bagages non enregistrés, à moins qu’un tel dommage soit causé directement par son fait et que le passager en rapporte la preuve ;
+*   Le transporteur n’est pas responsable de toute maladie, blessure ou handicap, y compris la mort, dus à la condition physique du passager pas plus que de toute aggravation de ladite condition ;
+*   Le contrat de transport, y compris ces conditions générales de transport et toutes les exclusions ou limitations de responsabilité qui y figurent s’appliquent et bénéficient aux Agents Accrédités, aux employés et représentants du transporteur et au propriétaire de l’avion utilisé par le transporteur, ainsi qu’aux agents, employés et représentants de ce propriétaire. Le montant global recouvrable auprès des personnes susmentionnées ne pourra excéder le montant de la responsabilité du transporteur ;
+*   Si la négligence ou un autre acte ou omission préjudiciable de la personne qui demande réparation ou de la personne dont elle tient ses droits a causé le Dommage ou y a contribué, le Transporteur se verra en tout ou partie exonéré de sa responsabilité à l’égard de cette personne y compris en cas de décès ou de lésion corporelle selon le droit en vigueur.
 
 **d)** Sauf dispositions expresses, conformes à la Convention, aucune des dispositions des présentes Conditions n’emporte renonciation aux limitations de responsabilité édictées par la Convention et le droit applicable.
 
@@ -610,10 +610,10 @@ Sauf stipulation expresse, aucune des présentes dispositions n’implique de re
 
 **b)** Le Transporteur ne sera pas responsable du Dommage s’il rapporte la preuve que :
 
-* Le décès ou les lésions corporelles survenus résultent de l’état de santé, physique ou mental du Passager, antérieur à son embarquement à bord du vol.
-* Le Dommage a été causé, en tout ou partie, par la négligence, un acte ou une omission préjudiciable de la personne qui demande réparation ou de la personne dont elle tient ses droits.
-* Le Dommage n’est pas dû à la négligence, à un autre acte ou omission préjudiciable du Transporteur, de ses préposés ou de ses mandataires, dans la mesure où le montant du Dommage dépasse 100 000 DTS par Passager selon la Convention.
-* Le Dommage résulte uniquement de la négligence, d’un autre acte ou omission d’un tiers, dans la mesure où le montant du Dommage dépasse 100 000 DTS par Passager.
+*   Le décès ou les lésions corporelles survenus résultent de l’état de santé, physique ou mental du Passager, antérieur à son embarquement à bord du vol.
+*   Le Dommage a été causé, en tout ou partie, par la négligence, un acte ou une omission préjudiciable de la personne qui demande réparation ou de la personne dont elle tient ses droits.
+*   Le Dommage n’est pas dû à la négligence, à un autre acte ou omission préjudiciable du Transporteur, de ses préposés ou de ses mandataires, dans la mesure où le montant du Dommage dépasse 100 000 DTS par Passager selon la Convention.
+*   Le Dommage résulte uniquement de la négligence, d’un autre acte ou omission d’un tiers, dans la mesure où le montant du Dommage dépasse 100 000 DTS par Passager.
 
 **c)** Montant du Dommage réparable
 
@@ -633,13 +633,13 @@ Cette avance n’est pas remboursable sauf dans le cas où il est fait la preuve
 
 **a)** Caractéristiques du Dommage réparable :
 
-* Seul, le Dommage direct, prouvé et résultant directement d’un retard est réparable, à l’exclusion de tout Dommage indirect et de toute forme de Dommage autre que compensatoire ;
-* Le Passager devra établir l’existence du Dommage résultant directement du retard.
+*   Seul, le Dommage direct, prouvé et résultant directement d’un retard est réparable, à l’exclusion de tout Dommage indirect et de toute forme de Dommage autre que compensatoire ;
+*   Le Passager devra établir l’existence du Dommage résultant directement du retard.
 
 **b)** Etendue de la responsabilité du Transporteur :
 
-* Le Transporteur ne sera pas responsable du Dommage résultant du retard s’il prouve que lui, ses préposés ou ses mandataires ont pris toutes les mesures qui pouvaient raisonnablement s’imposer pour éviter le Dommage ou qu’il lui était impossible de prendre de telles mesures.
-* Le Transporteur n’est pas responsable du Dommage résultant du retard, si ce retard est imputable au Passager ou s’il y a contribué, c’est à dire si le Dommage résulte en tout ou partie, de la négligence, d’un acte ou d’une omission préjudiciable de la personne qui demande réparation ou de la personne dont elle tient ses droits.
+*   Le Transporteur ne sera pas responsable du Dommage résultant du retard s’il prouve que lui, ses préposés ou ses mandataires ont pris toutes les mesures qui pouvaient raisonnablement s’imposer pour éviter le Dommage ou qu’il lui était impossible de prendre de telles mesures.
+*   Le Transporteur n’est pas responsable du Dommage résultant du retard, si ce retard est imputable au Passager ou s’il y a contribué, c’est à dire si le Dommage résulte en tout ou partie, de la négligence, d’un acte ou d’une omission préjudiciable de la personne qui demande réparation ou de la personne dont elle tient ses droits.
 
 **c)** Etendue de la réparation
 
@@ -653,9 +653,9 @@ En cas de Dommage résultant d’un retard dans la livraison des Bagages enregis
 
 **b)** Exonération de la responsabilité du Transporteur :
 
-* Le Transporteur ne sera pas responsable des Dommages survenus aux Bagages du Passager lorsque ces Dommages résulteront de la nature ou d’un vice propre desdits Bagages. Si les biens contenus dans les Bagages du Passager sont la cause de préjudice pour une autre personne ou le Transporteur, le Passager devra indemniser le Transporteur de toutes les pertes subies et les dépenses encourues de ce fait.
-* Le Transporteur n’assumera aucune responsabilité particulière, autre que celle prévue au paragraphe (c) ci-dessous, pour tout Dommage et/ou perte causés à des objets fragiles, périssables ou de valeur, ou emballés de façon inadéquate, conformément à l’article 9.3, sauf si le Passager a fait la Déclaration Spéciale d’Intérêt prévue à l’article 12 et si celui-ci a acquitté les frais supplémentaires correspondants.
-* Le Transporteur ne sera pas responsable des Dommages causés en tout ou partie, aux Bagages, du fait de la négligence, d’un acte ou d’une omission préjudiciable de la personne qui demande réparation ou de la personne dont elle tient ses droits.
+*   Le Transporteur ne sera pas responsable des Dommages survenus aux Bagages du Passager lorsque ces Dommages résulteront de la nature ou d’un vice propre desdits Bagages. Si les biens contenus dans les Bagages du Passager sont la cause de préjudice pour une autre personne ou le Transporteur, le Passager devra indemniser le Transporteur de toutes les pertes subies et les dépenses encourues de ce fait.
+*   Le Transporteur n’assumera aucune responsabilité particulière, autre que celle prévue au paragraphe (c) ci-dessous, pour tout Dommage et/ou perte causés à des objets fragiles, périssables ou de valeur, ou emballés de façon inadéquate, conformément à l’article 9.3, sauf si le Passager a fait la Déclaration Spéciale d’Intérêt prévue à l’article 12 et si celui-ci a acquitté les frais supplémentaires correspondants.
+*   Le Transporteur ne sera pas responsable des Dommages causés en tout ou partie, aux Bagages, du fait de la négligence, d’un acte ou d’une omission préjudiciable de la personne qui demande réparation ou de la personne dont elle tient ses droits.
 
 **c)** Montant du dommage réparable
 
