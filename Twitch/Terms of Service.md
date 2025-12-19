@@ -185,9 +185,9 @@ Pour les résidents de l'Union européenne ou de l'Espace économique européen,
 
 Lorsque vous streamez live sur les Services Twitch, vous pouvez streamer live et diffuser simultanément (« Diffusion en simultané ») sur tout autre réseau, plateforme ou service qui prend en charge la streaming live de contenu généré par l'utilisateur, uniquement si :
 
-* Vous garantissez que la qualité de l'expérience des utilisateurs de Twitch sur votre diffusion en simultané est au moins égale à celle proposée sur d'autres plateformes ou services, notamment en ce qui concerne votre implication auprès de la communauté Twitch (via le chat, par exemple).
-* Vous ne devez pas inciter, de quelque manière que ce soit, votre communauté à quitter Twitch au profit de votre diffusion en simultané sur d'autres services. La communauté Twitch et le rôle essentiel qu'elle joue auprès des utilisateurs de Twitch sont très importants à nos yeux.
-* Vous ne devez pas utiliser d'outils tiers qui combinent l'activité d'autres plateformes ou services lors de votre diffusion en simultané sur Twitch (une fonctionnalité de fusion du chat, par exemple), et ce afin que la communauté Twitch puisse profiter de l'intégralité de l'expérience sur votre stream live.
+*   Vous garantissez que la qualité de l'expérience des utilisateurs de Twitch sur votre diffusion en simultané est au moins égale à celle proposée sur d'autres plateformes ou services, notamment en ce qui concerne votre implication auprès de la communauté Twitch (via le chat, par exemple).
+*   Vous ne devez pas inciter, de quelque manière que ce soit, votre communauté à quitter Twitch au profit de votre diffusion en simultané sur d'autres services. La communauté Twitch et le rôle essentiel qu'elle joue auprès des utilisateurs de Twitch sont très importants à nos yeux.
+*   Vous ne devez pas utiliser d'outils tiers qui combinent l'activité d'autres plateformes ou services lors de votre diffusion en simultané sur Twitch (une fonctionnalité de fusion du chat, par exemple), et ce afin que la communauté Twitch puisse profiter de l'intégralité de l'expérience sur votre stream live.
 
 Collectivement, ces directives sont appelées « Directives de diffusion en simultané ».
 
