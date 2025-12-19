@@ -379,7 +379,7 @@ Si le Passager manque son vol pour cause de retard, ou s’il renonce à son voy
 Cette demande peut être adressée :  
   
 \-    Soit par courrier en lettre recommandée avec accusé de réception,  
-\-    Soit en ligne, en remplissant le [formulaire joint](https://fr.aegeanair.com/-/media/Files/FORMULAIRE-DE-DEMANDE-EN-LIGNE-(Document-for-the-link-of-article-12)_FR_19-7-2018.docx). Le cas échéant, la demande est gratuite.  
+\-    Soit en ligne, en remplissant le [formulaire joint](https://fr.aegeanair.com/-/media/Files/FORMULAIRE-DE-DEMANDE-EN-LIGNE-\(Document-for-the-link-of-article-12\)_FR_19-7-2018.docx). Le cas échéant, la demande est gratuite.  
   
 En cas de demande par courrier, AEGEAN peut prévoir des frais pour obtenir ce remboursement, sans que ces frais ne puissent excéder 20% du montant remboursé.  
   
@@ -537,8 +537,8 @@ Si AEGEAN place un passager dans une classe inférieure à celle pour laquelle l
    
 Si vous souhaitez faire une réclamation, veuillez contacter le service clientèle d'Aegean Airlines :
 
-* Via le site officiel d'Aegean : www.aegeanair.com → Aide & Contact → [E-mail](https://aegeanairlines-fr.custhelp.com/app/email)
-* Par fax : +30 2103550188
+*   Via le site officiel d'Aegean : www.aegeanair.com → Aide & Contact → [E-mail](https://aegeanairlines-fr.custhelp.com/app/email)
+*   Par fax : +30 2103550188
 
   
 **Coordonnées de l'organisme national d'exécution:  
@@ -564,11 +564,11 @@ Veuillez suivre le lien ci-dessous pour une liste des organismes nationaux de lu
 **  
 Le présent avis contient des informations importantes sur vos droits en vertu de la loi israélienne sur les services aériens (indemnisation et assistance pour les annulations de vols et les changements de conditions), 5772-2012 (l'« ASL »). Les droits mentionnés dans le présent document s'appliquent dans les circonstances suivantes :  
 
-* Vous avez une réservation confirmée sur un vol opéré par la compagnie aérienne, achetée à un tarif disponible directement ou indirectement au grand public ; et
-* (sauf dans le cas où votre vol a été annulé) vous vous êtes présenté(e) pour un enregistrement avant l'échéance d'enregistrement, tel que spécifié dans nos conditions générales de voyage ou dans nos règlements connexes ; et
-* Vous voyagez sur un vol au départ ou à destination d'un aéroport en Israël (sauf s'il est évident que vous avez reçu des avantages ou une indemnisation et que vous avez bénéficié d'une assistance dans cet autre pays et que ces avantages, cette indemnisation et cette assistance correspondent directement à votre droit au titre de l'ASL) ; et
-* Vous ne vous êtes pas vu refuser l'embarquement pour une raison énoncée dans nos conditions générales de voyage ou dans nos règlements connexes ; et 
-* L'embarquement vous a été refusé de manière involontaire ou votre vol est retardé de plus de deux heures au-delà de l'heure de départ prévue ou est annulé.
+*   Vous avez une réservation confirmée sur un vol opéré par la compagnie aérienne, achetée à un tarif disponible directement ou indirectement au grand public ; et
+*   (sauf dans le cas où votre vol a été annulé) vous vous êtes présenté(e) pour un enregistrement avant l'échéance d'enregistrement, tel que spécifié dans nos conditions générales de voyage ou dans nos règlements connexes ; et
+*   Vous voyagez sur un vol au départ ou à destination d'un aéroport en Israël (sauf s'il est évident que vous avez reçu des avantages ou une indemnisation et que vous avez bénéficié d'une assistance dans cet autre pays et que ces avantages, cette indemnisation et cette assistance correspondent directement à votre droit au titre de l'ASL) ; et
+*   Vous ne vous êtes pas vu refuser l'embarquement pour une raison énoncée dans nos conditions générales de voyage ou dans nos règlements connexes ; et 
+*   L'embarquement vous a été refusé de manière involontaire ou votre vol est retardé de plus de deux heures au-delà de l'heure de départ prévue ou est annulé.
 
 **  
 REFUS D'EMBARQUEMENT**
@@ -584,15 +584,15 @@ Si nous nous attendons raisonnablement à ce que votre vol soit retardé de deux
 
 Si votre vol est annulé, a été avancé ou retardé de plus de 8 heures, vous pouvez bénéficier des droits énoncés ci-dessous (voir les sections suivantes : 1. ; 2. ; et 3.). En ce qui concerne votre droit à l'indemnisation, veuillez noter que la compagnie aérienne a le droit de refuser une indemnisation lorsque (les « Exemptions ») :  
 
-* Vous êtes informé(e) de l'annulation au moins deux semaines avant l'heure de départ prévue ; ou  
+*   Vous êtes informé(e) de l'annulation au moins deux semaines avant l'heure de départ prévue ; ou  
     
-* Vous êtes informé(e) de l'annulation entre deux semaines et sept jours avant l'heure de départ prévue et on vous a proposé un réacheminement, vous permettant de partir pas plus de deux heures avant l'heure de départ prévue et d'atteindre votre destination finale moins de quatre heures après l'heure d'arrivée prévue ; ou  
+*   Vous êtes informé(e) de l'annulation entre deux semaines et sept jours avant l'heure de départ prévue et on vous a proposé un réacheminement, vous permettant de partir pas plus de deux heures avant l'heure de départ prévue et d'atteindre votre destination finale moins de quatre heures après l'heure d'arrivée prévue ; ou  
     
-* Vous êtes informé(e) de l'annulation moins de sept jours avant l'heure de départ prévue et un réacheminement vous a été proposé, vous permettant de partir pas plus d'une heure avant l'heure de départ prévue et d'atteindre votre destination finale moins de deux heures après l'heure d'arrivée prévue ; ou  
+*   Vous êtes informé(e) de l'annulation moins de sept jours avant l'heure de départ prévue et un réacheminement vous a été proposé, vous permettant de partir pas plus d'une heure avant l'heure de départ prévue et d'atteindre votre destination finale moins de deux heures après l'heure d'arrivée prévue ; ou  
     
-* l'annulation est due à des circonstances extraordinaires qui n'étaient pas sous le contrôle de la compagnie aérienne, même si celle-ci avait fait tout ce qui était en son pouvoir ; le vol a été annulé en raison d'une grève ou d'une grève du zèle protégée ; le vol a été annulé pour éviter la profanation du Sabbath ou de fêtes juives.  
+*   l'annulation est due à des circonstances extraordinaires qui n'étaient pas sous le contrôle de la compagnie aérienne, même si celle-ci avait fait tout ce qui était en son pouvoir ; le vol a été annulé en raison d'une grève ou d'une grève du zèle protégée ; le vol a été annulé pour éviter la profanation du Sabbath ou de fêtes juives.  
     
-* Les dispositions susmentionnées ne s'appliquent pas si vous refusez de voyager sur le vol alternatif parce que le vol alternatif n'a pas été proposé à votre / vos compagnon(s) de voyage ou pour des raisons de sécurité, religieuses ou des restrictions médicales.
+*   Les dispositions susmentionnées ne s'appliquent pas si vous refusez de voyager sur le vol alternatif parce que le vol alternatif n'a pas été proposé à votre / vos compagnon(s) de voyage ou pour des raisons de sécurité, religieuses ou des restrictions médicales.
 
 **  
 1\. DROIT À L'INDEMNISATION  
@@ -717,13 +717,13 @@ Voir la politique d’AEGEAN de protection des données sur [https://fr.aegeanai
   
 **Conditions générales de tarification multi-devise (MCP)**
 
-* Les prix sont en EUR. Si vous souhaitez payer dans une autre devise, vous pouvez sélectionner celle que vous préférez dans le menu déroulant.
-* L'option de conversion de devise est disponible lors de la réservation sur aegeanair.com, olympicair.com ou via l'application Aegean.
-* Elle n'est proposée que pour les nouvelles réservations. Les ajouts ou modifications ultérieurs, le cas échéant, seront calculés sur la base de la devise d'origine (euros).
-* L'option de conversion de devise n'est pas disponible pour les services additionnels suivants : assurance voyage, stationnement à l'aéroport et location de voiture.
-* Les différentes devises proposées sont les suivantes : euro EUR, livre sterling GBP, dollar australien AUD, dollar canadien CAD, franc suisse CHF, couronne danoise DKK, couronne suédoise SEK, dollar américain USD, shekel israélien ILS, Dirham des Émirats arabes unis AED, Réal brésilien BRL, Couronne norvégienne NOK, Rouble russe RUB, Riyal saoudien SAR, Livre turque TRY, Zloty polonais PLN.
-* Les paiements par carte Visa, Mastercard et Maestro prennent en charge l'option de conversion de devise.
-* Lorsque la conversion de devise est sélectionnée, les services suivants ne sont pas proposés : utilisation de code promotionnel, « Hold my booking » (Maintenir ma réservation) et l'échange de miles contre des services additionnels.
+*   Les prix sont en EUR. Si vous souhaitez payer dans une autre devise, vous pouvez sélectionner celle que vous préférez dans le menu déroulant.
+*   L'option de conversion de devise est disponible lors de la réservation sur aegeanair.com, olympicair.com ou via l'application Aegean.
+*   Elle n'est proposée que pour les nouvelles réservations. Les ajouts ou modifications ultérieurs, le cas échéant, seront calculés sur la base de la devise d'origine (euros).
+*   L'option de conversion de devise n'est pas disponible pour les services additionnels suivants : assurance voyage, stationnement à l'aéroport et location de voiture.
+*   Les différentes devises proposées sont les suivantes : euro EUR, livre sterling GBP, dollar australien AUD, dollar canadien CAD, franc suisse CHF, couronne danoise DKK, couronne suédoise SEK, dollar américain USD, shekel israélien ILS, Dirham des Émirats arabes unis AED, Réal brésilien BRL, Couronne norvégienne NOK, Rouble russe RUB, Riyal saoudien SAR, Livre turque TRY, Zloty polonais PLN.
+*   Les paiements par carte Visa, Mastercard et Maestro prennent en charge l'option de conversion de devise.
+*   Lorsque la conversion de devise est sélectionnée, les services suivants ne sont pas proposés : utilisation de code promotionnel, « Hold my booking » (Maintenir ma réservation) et l'échange de miles contre des services additionnels.
 
 **  
 **Réclamations  
