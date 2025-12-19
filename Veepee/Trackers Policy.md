@@ -79,19 +79,19 @@ Certains [**Partenaires**](https://veepee-ad.com/partenaires) de Veepee pourront
 \- tracer l’origine ou la destination des visiteurs.  
 Dans ce dernier cadre, Meta Platforms Ireland Limited peut déposer des pixels de mesure d’audience sur certaines pages de ventes du site Veepee à des fins d’analyses et de statistiques de fréquentation suite à une redirection des utilisateurs des plateformes Facebook et Instagram vers le site Veepee. L’accord de responsabilité conjointe conclu entre les parties est disponible sur le lien suivant : [**https://www.facebook.com/legal/controller\_addendum**](https://www.facebook.com/legal/controller_addendum)
 
-* ##### Publicité ciblée
+*   ##### Publicité ciblée
     
     Les données collectées servent à vous afficher des offres promotionnelles et des publicités pertinentes sur le site.
     
-* ##### Statistiques marketing
+*   ##### Statistiques marketing
     
     Les données collectées permettent à Veepee et à ses [**Partenaires**](https://veepee-ad.com/partenaires), dont sa filiale A.Mob d'effectuer des analyses et des statistiques de fréquentation.
     
-* ##### Affiliation
+*   ##### Affiliation
     
     Les données permettent aux partenaires de Veepee de tracer l’origine des visiteurs sur leur site lorsque ceux-ci sont redirigés depuis le site Veepee ou à l'inverse identifier lorsque leurs visiteurs sont redirigés vers le site Veepee.
     
-* ##### Localisation
+*   ##### Localisation
     
     Les données collectées servent à vous afficher des offres promotionnelles et des publicités pertinentes sur le site en fonction de la localisation de votre ville.
     
@@ -107,15 +107,15 @@ Dans ce dernier cadre, Meta Platforms Ireland Limited peut déposer des pixels d
 
 Sous réserve de votre consentement, certains Cookies sont déposés par des partenaires de Veepee (Plus d'informations sur les partenaires dans la Politique de Confidentialité et protection de la Vie Privée de Veepee), dont sa filiale A.Mob afin de vous proposer une offre marketing personnalisée en dehors du site (dans les emplacements réservés sur des sites tiers, applications, réseaux sociaux), réaliser des mesures de performances publicitaires et des études marketing statistiques et afin d'entraîner les modèles d'analyses. Ces données pourront être associées avec les données collectées lors de l'utilisation de votre compte (activité de navigation, historique de commandes, adresse email sous forme hashée) et/ou avec d’autres données personnelles dont disposent nos partenaires. Par ailleurs, les données traitées seront partagées avec certains de nos partenaires afin de vous afficher des offres promotionnelles pertinentes sur des écrans digitaux dont des télévisions connectées et afin de réaliser des mesures de performances publicitaires et des études marketing statistiques. Dans ce dernier cadre, vos données pourront notamment être partagées avec M6 Publicité. Plus d’informations dans notre Politique de confidentialité.
 
-* ##### Publicité ciblée
+*   ##### Publicité ciblée
     
     Les données collectées servent à vous afficher des offres promotionnelles et des publicités pertinentes dans les emplacements publicitaires réservés à la publicité sur des sites tiers, les réseaux sociaux et sur les écrans digitaux dont des télévisions connectées.
     
-* ##### Mesures de performance marketing
+*   ##### Mesures de performance marketing
     
     Les données collectées permettent aux Partenaires de Veepee d’analyser la navigation, l'audience, l'activité et les performances des campagnes marketing.
     
-* ##### Statistiques marketing
+*   ##### Statistiques marketing
     
     Les données collectées permettent aux Partenaires de Veepee d'effectuer des statistiques notamment afin d'entraîner les modèles d'analyses.
     
