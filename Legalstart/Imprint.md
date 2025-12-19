@@ -17,9 +17,9 @@ Le site legalstart.fr est hébergé par la société Heroku Inc., 650 7th Street
 
 ### **Nous contacter** 
 
-* Par téléphone : 01 76 39 00 60
-* Par email : contact@legalstart.fr
-* Par courrier : Legalstart.fr (Yolaw SAS), 50 rue d'Hauteville, 75010 Paris
+*   Par téléphone : 01 76 39 00 60
+*   Par email : contact@legalstart.fr
+*   Par courrier : Legalstart.fr (Yolaw SAS), 50 rue d'Hauteville, 75010 Paris
 
 ### **En savoir plus**
 
