@@ -46,10 +46,10 @@ Aigle se réserve le droit de modifier ses prix à tout moment mais s’engage �
 
 Les frais de livraison sont indiqués au Client avant validation de la commande et sont exprimés toutes taxes comprises. Ces frais sont à la charge du Client et facturés en supplément du prix des Produits.
 
-* **Retrait en boutique Aigle** (remise contre signature) : offert
-* **Livraison en point relais Chronopost Shop2Shop** - entre 48h et 96h : 3,95€
-* **Livraison à domicile Colissimo** - entre 48h et 72h : 5,95€
-* **Livraison express Chronopost 24h** (remise contre signature) : 13€
+*   **Retrait en boutique Aigle** (remise contre signature) : offert
+*   **Livraison en point relais Chronopost Shop2Shop** - entre 48h et 96h : 3,95€
+*   **Livraison à domicile Colissimo** - entre 48h et 72h : 5,95€
+*   **Livraison express Chronopost 24h** (remise contre signature) : 13€
 
 **Le transfert des risques de perte et de détérioration des Produits est réalisé après livraison et réception des Produits par le Client ou tout tiers désigné par lui.**
 
@@ -122,8 +122,8 @@ Conformément aux dispositions des articles L.221-18 et suivants du Code de la c
 
 Pour exercer ce droit, le Client doit notifier sa décision à Aigle avant l’expiration du délai de rétractation, soit :
 
-* par e-mail : [serviceclient@aigle.com](mailto:serviceclient@aigle.com)
-* ou via le formulaire de rétractation disponible sur le Site dans la rubrique « Mon compte / Mes commandes ».
+*   par e-mail : [serviceclient@aigle.com](mailto:serviceclient@aigle.com)
+*   ou via le formulaire de rétractation disponible sur le Site dans la rubrique « Mon compte / Mes commandes ».
 
 Le Client dispose ensuite d’un délai de quatorze (14) jours à compter de la communication de sa décision de se rétracter pour renvoyer le(s) Produit(s) à Aigle, à ses frais, sauf si Aigle propose de les récupérer elle-même.
 
@@ -131,9 +131,9 @@ Les Produits doivent être retournés dans leur état d’origine, non portés, 
 
 Le droit de rétractation ne peut être exercé pour :
 
-* les Produits confectionnés selon les spécifications du Client ou nettement personnalisés ;
-* les Produits scellés ne pouvant être renvoyés pour des raisons d’hygiène ou de protection de la santé et qui ont été descellés après la livraison (ex : sous-vêtements, chaussettes) ;
-* les cartes cadeaux déjà utilisées en tout ou partie.
+*   les Produits confectionnés selon les spécifications du Client ou nettement personnalisés ;
+*   les Produits scellés ne pouvant être renvoyés pour des raisons d’hygiène ou de protection de la santé et qui ont été descellés après la livraison (ex : sous-vêtements, chaussettes) ;
+*   les cartes cadeaux déjà utilisées en tout ou partie.
 
 En cas d’exercice du droit de rétractation dans le délai imparti, Aigle rembourse au Client la totalité des sommes versées, y compris les frais de livraison standards, dans un délai maximum de quatorze (14) jours à compter de la date à laquelle Aigle est informée de la décision du Client de se rétracter.
 
