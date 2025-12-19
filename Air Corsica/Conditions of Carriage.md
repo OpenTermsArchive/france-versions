@@ -400,6 +400,12 @@ Le cas échéant, lorsqu'il s'agit d'un billet acheté auprès d'Air Corsica, le
 
 Il est précisé que ces frais ne s'appliquent pas pour les billets réservés au tarif résident, ces billets étant remboursables sans frais supplémentaires, en application des obligations de service public, si la demande d'annulation est réalisée au plus tard deux heures avant le vol. Si l'annulation est réclamée moins de deux heures avant le vol, le passager s'expose au paiement d'un supplément tarifaire forfaitaire équivalent au prix d'achat du coupon modifié hors taxes.
 
+                **Annulation le jour du départ ou dans les 24 heures** **suivant l’achat** (mesure commerciale)  
+                A titre strictement commercial, AIR CORSICA peut accorder le remboursement d’un billet non remboursable en cas d’annulation effectuée **le jour de l’achat** ou dans **les vingt-quatre (24) heures** suivant l’achat. Dans ce cadre, une pénalité forfaitaire, déduite du   montant remboursé, est appliquée comme suit :
+
+* 30 € pour tout billet d’un montant inférieur ou égal à 200 €,
+* 50 € pour tout billet d’un montant supérieur à 200 €.
+
 **5.9. Itinéraire**
 
 Sauf dispositions contraires figurant dans le Contrat de Transport que nous avons conclu avec vous, ou dans tout autre document contractuel qui nous lierait, les Tarifs s'appliquent exclusivement au voyage prévu à ce Contrat ou à ce document.
