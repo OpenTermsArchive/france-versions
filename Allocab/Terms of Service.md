@@ -37,17 +37,17 @@ Les présentes CGS et, le cas échéant leurs annexes, constituent l'intégralit
 
 ALLOCAB se réserve le droit de modifier, à tout moment, le contenu des présentes CGS. De telles modifications donnent lieu à l'édition d'une nouvelle version qui s'appliquera automatiquement aux Services commandés et fournis ultérieurement.
 
-1. Modalités d’inscription à la Plateforme
+1.  Modalités d’inscription à la Plateforme
 
 1.1 L'accès à la Plateforme est conditionné à l’inscription de l’Utilisateur sur le site [www.allocab.com](http://www.allocab.com/) ou l’application mobile allocab.com.
 
 1.2 Pour s’inscrire, chaque Utilisateur doit :
 
-1. consulter et adhérer, de manière pleine et entière aux présentes CGS en cochant la case située à côté de la mention "J’ai lu et j'accepte sans réserve les conditions d'utilisation et de services d’ALLOCAB.COM" ;
+1.  consulter et adhérer, de manière pleine et entière aux présentes CGS en cochant la case située à côté de la mention "J’ai lu et j'accepte sans réserve les conditions d'utilisation et de services d’ALLOCAB.COM" ;
     
-2. créer un compte utilisateur sur le site [www.allocab.com](http://www.allocab.com/) ou l’application mobile allocab.com en cliquant sur « Inscription » ;
+2.  créer un compte utilisateur sur le site [www.allocab.com](http://www.allocab.com/) ou l’application mobile allocab.com en cliquant sur « Inscription » ;
     
-3. renseigner l’ensemble des informations obligatoires y étant demandées.
+3.  renseigner l’ensemble des informations obligatoires y étant demandées.
     
 
 1.3 Lorsqu’il renseigne le formulaire d'inscription, l’Utilisateur s’engage à remplir correctement ledit formulaire, et notamment à ne communiquer que des informations exactes, à jour et complètes.
@@ -64,7 +64,7 @@ A ce titre, ALLOCAB se réserve le droit de refuser tout identifiant et tout mot
 
 1.8 ALLOCAB ne pourra être tenu responsable si les données relatives à l'inscription d'un Utilisateur ne lui parvenaient pas pour une quelconque raison qui ne lui serait pas imputable (par exemple, un problème de connexion à Internet ou à l’internet mobile dû à une quelconque raison chez l'Utilisateur, une défaillance momentanée de ses serveurs, etc…) ou lui arrivaient illisibles ou impossibles à traiter, (par exemple si l'Utilisateur possède un matériel informatique ou un environnement logiciel inadéquat pour son inscription).
 
-2. Accès à la Plateforme
+2.  Accès à la Plateforme
 
 2.1 L’accès à la Plateforme se réalise :
 
@@ -96,7 +96,7 @@ A ce titre, ALLOCAB se réserve le droit de refuser tout identifiant et tout mot
 
 2.15 ALLOCAB se réserve la possibilité d'interrompre, de suspendre momentanément ou de modifier sans préavis l'accès à tout ou partie de la Plateforme, afin d'en assurer la maintenance, ou pour toute autre raison, sans que l'interruption n'ouvre droit à aucune obligation ni indemnisation.
 
-3. Utilisation de la Plateforme
+3.  Utilisation de la Plateforme
 
 3.1 Licence
 
@@ -128,7 +128,7 @@ de diffuser des informations contraires à l'ordre public ou aux bonnes mœurs ;
 
 ALLOCAB ne pourra en aucun cas être tenu responsable des contenus mis en ligne et diffusés via la Plateforme par des Utilisateurs et, notamment, en raison de leur caractère illégal, des erreurs ou des omissions les affectant, ou bien encore de toute perte ou dommage consécutifs à l'utilisation desdits contenus par un autre Utilisateur.
 
-4. Contenus et modalités de commande des Services
+4.  Contenus et modalités de commande des Services
 
 4.1 La plateforme ALLOCAB offre à ses clients usagers la possibilité de jouir d’un service haut de gamme et sur-mesure leur permettant de réserver en ligne, pour une simple course ou pour plusieurs heures, une voiture de tourisme avec chauffeur ou un mototaxi choisi en fonction de critères spécifiques tels que le type, la marque, le modèle ou le segment du véhicule, la note de qualité du chauffeur et les services à bord proposés, ceci en ayant accès, en temps réel, aux disponibilités du chauffeur.
 
@@ -214,7 +214,7 @@ Lorsque les coordonnées bancaires sont validées, le gestionnaire de télépaie
 
 La validation de la Commande au moyen du numéro de carte bancaire, de la date d’expiration ainsi que le cryptogramme (chiffres du numéro complémentaire indiqué au resto ou au dos de la carte) vaut mandat de payer que le serveur de paiement transmet à l’établissement de crédit du Client.
 
-6. Obligations du Client
+6.  Obligations du Client
 
 6.1 Le Client doit monter dans ou sur le véhicule du Chauffeur dès que celui-ci arrive à l'adresse indiquée et à l'heure convenue. En cas d'absence du Client à l’heure convenue, le Chauffeur est réputé autorisé à quitter le lieu convenu, sans avertissement préalable.
 
@@ -226,7 +226,7 @@ En cas de dégradation de l'équipement ou du véhicule imputables au Client ou 
 
 6.4 Le Client s’engage, dès lors qu’il sera accompagné d’un enfant lors du (des) trajet(s) objet de la prestation commandée, à disposer et à user de son propre matériel de sécurité imposé par la règlementation en vigueur pour le transport des bébés et enfants (siège bébé, siège auto, rehausseur, etc…). ALLOCAB se réserve la possibilité de refuser de transporter l’Utilisateur et les enfants l’accompagnant dans l’hypothèse où l’Utilisateur ne disposerait pas du matériel obligatoire nécessaire sans que cette décision n’ouvre droit à quelque indemnisation que ce soit au profit de l’Utilisateur et/ou du Client concerné.
 
-7. Services Partenaires
+7.  Services Partenaires
 
 7.1 ALLOCAB peut proposer des liens vers d'autres sites Web gérés par des sites partenaires (ci-après le « Services Partenaires »).
 
@@ -234,7 +234,7 @@ Dans la mesure notamment où ALLOCAB ne peut contrôler les Services Partenaires
 
 7.2 De la même manière, ALLOCAB ne peut être tenu responsable de tous dommages ou pertes avérés ou allégués, consécutifs ou en relation avec l'utilisation, des contenus ou des services disponibles sur ces Services Partenaires ou sources externes.
 
-8. Propriété Intellectuelle
+8.  Propriété Intellectuelle
 
 8.1 ALLOCAB est et demeure le titulaire exclusif des droits de propriété intellectuelle sur la Plateforme et son contenu. Les seuls droits concédés à l’Utilisateur sont ceux définis à l’article 3.1 ci-avant.
 
@@ -250,7 +250,7 @@ Dans la mesure notamment où ALLOCAB ne peut contrôler les Services Partenaires
 
 8.7 Si des suggestions, concepts ou évolutions proposées par l’Utilisateur sont mis en œuvre par ALLOCAB dans ses Services, l’Utilisateur reconnait et accepte, par les présentes, que ALLOCAB soit titulaire de tous droits, titres ou intérêts pouvant en résulter.
 
-9. Garanties et Responsabilité d’ALLOCAB
+9.  Garanties et Responsabilité d’ALLOCAB
 
 9.1 L’accès à la Plateforme est fourni sur la base d'un service « en l'état » et accessible en fonction de sa disponibilité.
 
@@ -268,15 +268,15 @@ Sont considérés notamment comme cas de force majeure les intempéries exceptio
 
 9.8 Dans le cas où la responsabilité d’ALLOCAB serait engagée par le Client ou l’Utilisateur à la suite d'un manquement à l'une de ses obligations au titre des présentes CGS, la réparation ne s'appliquera qu'aux seuls dommages directs, personnels et certains, à l'exclusion expresse de la réparation de tous dommages et/ou préjudices indirects.
 
-10. Responsabilité du Client et/ou de l’Utilisateur
+10.  Responsabilité du Client et/ou de l’Utilisateur
 
 En cas de manquements aux présentes CGS, ALLOCAB se réserve le droit de désinscrire le Client et/ou l’Utilisateur contrevenant de la Plateforme, en supprimant leur compte, de façon temporaire ou définitive, nonobstant toute action judiciaire qu’ALLOCAB pourrait intenter à leur encontre.
 
-11. Durée de l’inscription
+11.  Durée de l’inscription
 
 Toute inscription est effectuée pour une durée indéterminée, les comptes client et utilisateur restant actif jusqu’à leur fermeture selon les conditions de l’article 14 ci-après.
 
-12. Résiliation – fermeture des comptes
+12.  Résiliation – fermeture des comptes
 
 12.1 Résiliation à l’initiative de l’Utilisateur
 
@@ -288,11 +288,11 @@ Sans préjudice de tous dommages et intérêts que ALLOCAB pourrait solliciter, 
 
 non-respect par l’Utilisateur des présentes CGS, fourniture de fausses informations lors de son inscription ; compte inactif (aucune commande de prestation) pendant une durée de 15 mois consécutifs ; agissements contraires aux intérêts commerciaux d’ALLOCAB. La résiliation à l’initiative d’ALLOCAB n’entraîne aucun remboursement du prix par ALLOCAB. L’ensemble des sommes versées au titre des présentes restera définitivement acquis à ALLOCAB et l’ensemble des factures non échues deviendra automatiquement et de plein droit immédiatement exigible par ALLOCAB.
 
-13. Données personnelles
+13.  Données personnelles
 
 ALLOCAB est soucieuse de protéger les informations personnelles communiquées par les Utilisateurs (les « Informations Personnelles »). Dans ce cadre, ALLOCAB s’engage à respecter la confidentialité des Informations Personnelles transmises. Pour consulter notre politique en matière de protection des données personnelles cliquez ici
 
-14. Modification des CGS
+14.  Modification des CGS
 
 14.1 ALLOCAB se réserve le droit de modifier librement les CGS.
 
@@ -304,7 +304,7 @@ Par conséquent, l’Utilisateur est invité à s’y référer lors de chaque v
 
 14.4 Toute modification prendra effet immédiatement et ne s'appliquera qu’aux Utilisateurs et Clients utilisant la Plateforme postérieurement à ladite modification.
 
-15. Loi applicable - Résolution des litiges et médiation
+15.  Loi applicable - Résolution des litiges et médiation
 
 15.1 Les présentes CGS sont soumises au droit français.
 
@@ -318,7 +318,7 @@ voie électronique : [www.medicys.fr](http://www.medicys.fr/); ou courrier : MED
 
 15.4 A défaut d'accord amiable entre les Parties, le litige sera soumis aux Tribunaux français.
 
-16. Acceptation
+16.  Acceptation
 
 Les présentes CGS font partie intégrante du Contrat qui lie les Parties.
 
@@ -362,17 +362,17 @@ Les présentes CGS et, le cas échéant leurs annexes, constituent l'intégralit
 
 ALLOCAB se réserve le droit de modifier, à tout moment, le contenu des présentes CGS. De telles modifications donnent lieu à l'édition d'une nouvelle version qui s'appliquera automatiquement aux Services commandés et fournis ultérieurement.
 
-1. Modalités d’inscription et d’accès à la Plateforme
+1.  Modalités d’inscription et d’accès à la Plateforme
 
 1.1 Pour le Client
 
 1.1.1 Pour bénéficier des Services et, le cas échéant, en faire bénéficier ses salariés et/ou collaborateurs, le Client doit :
 
-1. consulter et adhérer, de manière pleine et entière aux présentes CGS en cochant la case située à côté de la mention "J’ai lu et j'accepte sans réserve les conditions d'utilisation et de services d’ALLOCAB.COM" ;
+1.  consulter et adhérer, de manière pleine et entière aux présentes CGS en cochant la case située à côté de la mention "J’ai lu et j'accepte sans réserve les conditions d'utilisation et de services d’ALLOCAB.COM" ;
     
-2. créer un compte client sur le site [www.allocab.com](http://www.allocab.com/) ou au moyen de l’application mobile allocab.com en cliquant sur « Inscription » ou par un chargement de données fourni par le client directement par l’équipe AlloCab;
+2.  créer un compte client sur le site [www.allocab.com](http://www.allocab.com/) ou au moyen de l’application mobile allocab.com en cliquant sur « Inscription » ou par un chargement de données fourni par le client directement par l’équipe AlloCab;
     
-3. renseigner l’ensemble des informations obligatoires y étant demandées.
+3.  renseigner l’ensemble des informations obligatoires y étant demandées.
     
 
 1.1.2 Lorsqu’il renseigne le formulaire d'inscription ou le fichier de chargement en masse, le Client s’engage à remplir correctement ledit formulaire, et notamment à ne communiquer que des informations exactes, à jour et complètes.
@@ -395,11 +395,11 @@ En cas d'utilisation frauduleuse dudit Code Client, le Client s’engage à info
 
 1.2.2 Pour s’inscrire, chaque Utilisateur doit :
 
-1. consulter et adhérer, de manière pleine et entière aux présentes CGS en cochant la case située à côté de la mention "J’ai lu et j'accepte sans réserve les conditions d'utilisation et de services d’ALLOCAB.COM" ;
+1.  consulter et adhérer, de manière pleine et entière aux présentes CGS en cochant la case située à côté de la mention "J’ai lu et j'accepte sans réserve les conditions d'utilisation et de services d’ALLOCAB.COM" ;
     
-2. créer un compte utilisateur sur le site [www.allocab.com](http://www.allocab.com/) ou l’application mobile allocab.com en cliquant sur « Inscription » ;
+2.  créer un compte utilisateur sur le site [www.allocab.com](http://www.allocab.com/) ou l’application mobile allocab.com en cliquant sur « Inscription » ;
     
-3. renseigner l’ensemble des informations obligatoires y étant demandées et notamment le Code Client qui aura été communiqué au Client.
+3.  renseigner l’ensemble des informations obligatoires y étant demandées et notamment le Code Client qui aura été communiqué au Client.
     
 
 1.2.3 Lorsqu’il renseigne le formulaire d'inscription, le Client s’engage à remplir correctement ledit formulaire, et notamment à ne communiquer que des informations exactes, à jour et complètes.
@@ -416,7 +416,7 @@ A ce titre, ALLOCAB se réserve le droit de refuser tout identifiant et tout mot
 
 1.2.8 ALLOCAB ne pourra être tenu responsable si les données relatives à l'inscription d'un Utilisateur ne lui parvenaient pas pour une quelconque raison qui ne lui serait pas imputable (par exemple, un problème de connexion à Internet ou à l’internet mobile dû à une quelconque raison chez l'Utilisateur, une défaillance momentanée de ses serveurs, etc…) ou lui arrivaient illisibles ou impossibles à traiter, (par exemple si l'Utilisateur possède un matériel informatique ou un environnement logiciel inadéquat pour son inscription).
 
-2. Accès à la Plateforme
+2.  Accès à la Plateforme
 
 2.1 L’accès à la Plateforme se réalise :
 
@@ -454,7 +454,7 @@ au moyen des identifiants de l’Utilisateur.
 
 2.15 ALLOCAB se réserve la possibilité d'interrompre, de suspendre momentanément ou de modifier sans préavis l'accès à tout ou partie de la Plateforme, afin d'en assurer la maintenance, ou pour toute autre raison, sans que l'interruption n'ouvre droit à aucune obligation ni indemnisation.
 
-3. Utilisation de la Plateforme
+3.  Utilisation de la Plateforme
 
 3.1 Licence
 
@@ -486,7 +486,7 @@ de diffuser des informations contraires à l'ordre public ou aux bonnes mœurs ;
 
 ALLOCAB ne pourra en aucun cas être tenu responsable des contenus mis en ligne et diffusés via la Plateforme par des Utilisateurs et, notamment, en raison de leur caractère illégal, des erreurs ou des omissions les affectant, ou bien encore de toute perte ou dommage consécutifs à l'utilisation desdits contenus par un autre Utilisateur.
 
-4. Contenus et modalités de commande des Services
+4.  Contenus et modalités de commande des Services
 
 4.1 La plateforme ALLOCAB offre à ses clients usagers la possibilité de jouir d’un service haut de gamme et sur-mesure leur permettant de réserver en ligne, pour une simple course ou pour plusieurs heures, une voiture de tourisme avec chauffeur ou un mototaxi choisi en fonction de critères spécifiques tels que le type, la marque, le modèle ou le segment du véhicule, la note de qualité du chauffeur et les services à bord proposés, ceci en ayant accès, en temps réel, aux disponibilités du chauffeur.
 
@@ -512,7 +512,7 @@ En classe Affaires, les 10 premières minutes d'attente sont gratuites puis sont
 
 En Première, les 15 premières minutes d'attente sont gratuites puis sont facturées 1€/min
 
-5. Tarifs – Modalités financières
+5.  Tarifs – Modalités financières
 
 5.1 Tarifs
 
@@ -572,7 +572,7 @@ La validation de la Commande au moyen du numéro de carte bancaire, de la date d
 
 Tout retard de paiement par le Client pourra entrainer l’application de pénalités d’un montant égal au taux d’intérêt de la banque centrale européenne majoré de 10 points de pourcentage. En outre, conformément aux dispositions de l’article L.441-6 du Code de commerce, tout retard ou défaut de paiement à l’échéance entrainera l’application, de plein droit, d’une indemnité légale forfaitaire de 40 euros pour frais de recouvrement, en sus des pénalités de retard déjà applicables. Dans l’hypothèse où les frais de recouvrement exposés par ALLOCAB seraient supérieurs au montant de cette indemnité légale forfaitaire, ALLOCAB sera en droit de réclamer directement au Client l’indemnisation intégrale des frais exposés pour le recouvrement des factures en souffrance.
 
-6. Obligations du Client
+6.  Obligations du Client
 
 6.1 L’Utilisateur doit monter dans le Véhicule du Chauffeur ou sur dès que celui-ci arrive à l'adresse indiquée et à l'heure convenue. En cas d'absence de l’Utilisateur à l’heure convenue, le Chauffeur est réputé autorisé à quitter le lieu convenu, sans avertissement préalable.
 
@@ -586,7 +586,7 @@ En cas de dégradation de l'équipement ou du véhicule imputables au Client ou 
 
 6.4 L’Utilisateur s’engage, dès lors qu’il sera accompagné d’un enfant lors du (des) trajet(s) objet de la prestation commandée, à disposer et à user de son propre matériel de sécurité imposé par la règlementation en vigueur pour le transport des bébés et enfants (siège bébé, siège auto, rehausseur, etc…). ALLOCAB se réserve la possibilité de refuser de transporter l’Utilisateur et les enfants l’accompagnant dans l’hypothèse où l’Utilisateur ne disposerait pas du matériel obligatoire nécessaire sans que cette décision n’ouvre droit à quelque indemnisation que ce soit au profit de l’Utilisateur et/ou du Client concerné.
 
-7. Services Partenaires
+7.  Services Partenaires
 
 7.1 ALLOCAB peut proposer des liens vers d'autres sites Web gérés par des sites partenaires (ci-après le « Services Partenaires »).
 
@@ -594,7 +594,7 @@ Dans la mesure notamment où ALLOCAB ne peut contrôler les Services Partenaires
 
 7.2 De la même manière, ALLOCAB ne peut être tenu responsable de tous dommages ou pertes avérés ou allégués, consécutifs ou en relation avec l'utilisation, des contenus ou des services disponibles sur ces Services Partenaires ou sources externes.
 
-8. Propriété Intellectuelle
+8.  Propriété Intellectuelle
 
 8.1 ALLOCAB est et demeure le titulaire exclusif des droits de propriété intellectuelle sur la Plateforme et son contenu. Les seuls droits concédés au Client sont ceux définis à l’article 3.1 ci-avant.
 
@@ -612,7 +612,7 @@ Dans la mesure notamment où ALLOCAB ne peut contrôler les Services Partenaires
 
 8.9 Le Client autorise expressément ALLOCAB à citer ou faire figurer dans sa communication, et notamment sur son site internet, le nom du Client et la nature des prestations réalisées pour le compte du Client au titre des présentes et à y reproduire ses marques.
 
-9. Garanties et Responsabilité d’ALLOCAB
+9.  Garanties et Responsabilité d’ALLOCAB
 
 9.1 L’accès à la Plateforme est fourni sur la base d'un service « en l'état » et accessible en fonction de sa disponibilité.
 
@@ -636,15 +636,15 @@ Sont considérés notamment comme cas de force majeure les intempéries exceptio
 
 Dans l’hypothèse où la responsabilité d’ALLOCAB venait à être engagée dans le cadre du Contrat, le montant des dommages et intérêts alloués au Client ne pourra excéder le montant des sommes versées par le Client au titre de la Commande au cours de laquelle le dommage est survenu.
 
-10. Responsabilité du Client et/ou de l’Utilisateur
+10.  Responsabilité du Client et/ou de l’Utilisateur
 
 En cas de manquements aux présentes CGS, ALLOCAB se réserve le droit de désinscrire le Client et/ou l’Utilisateur contrevenant de la Plateforme, en supprimant leur compte, de façon temporaire ou définitive, nonobstant toute action judiciaire qu’ALLOCAB pourrait intenter à leur encontre.
 
-11. Durée de l’inscription
+11.  Durée de l’inscription
 
 Toute inscription est effectuée pour une durée indéterminée, les comptes client et utilisateur restant actif jusqu’à leur fermeture selon les conditions de l’article 14 ci-après.
 
-12. Résiliation – fermeture des comptes
+12.  Résiliation – fermeture des comptes
 
 12.1 Résiliation à l’initiative du Client et/ou de l’Utilisateur
 
@@ -662,11 +662,11 @@ Sans préjudice de tous dommages et intérêts que ALLOCAB pourrait solliciter, 
 
 non-respect par le Client ou par un de ses Utilisateurs des présentes CGS, fourniture de fausses informations lors de son inscription ; compte inactif (aucune commande de prestation) pendant une durée de 15 mois consécutifs ; agissements contraires aux intérêts commerciaux d’ALLOCAB. La résiliation à l’initiative d’ALLOCAB n’entraîne aucun remboursement du prix par ALLOCAB. L’ensemble des sommes versées au titre des présentes restera définitivement acquis à ALLOCAB et l’ensemble des factures non échues deviendra automatiquement et de plein droit immédiatement exigible par ALLOCAB.
 
-13. Données personnelles
+13.  Données personnelles
 
 ALLOCAB est soucieuse de protéger les informations personnelles communiquées par les Utilisateurs (les « Informations Personnelles »). Dans ce cadre, ALLOCAB s’engage à respecter la confidentialité des Informations Personnelles transmises. Pour consulter notre politique en matière de protection des données personnelles cliquez ici
 
-14. Modification des CGS
+14.  Modification des CGS
 
 14.1 ALLOCAB se réserve le droit de modifier librement les CGS.
 
@@ -678,13 +678,13 @@ Par conséquent, le Client et/ou l’Utilisateur est invité à s’y référer 
 
 14.4 Toute modification prendra effet immédiatement et ne s'appliquera qu’aux Utilisateurs utilisant la Plateforme postérieurement à ladite modification.
 
-15. Loi applicable et juridiction compétente
+15.  Loi applicable et juridiction compétente
 
 15.1 Les présentes CGS sont soumises au droit français.
 
 15.2 Tous les litiges auxquels les présentes CGS pourraient donner lieu, concernant tant leur validité, leur interprétation, leur exécution, leur résiliation, leurs conséquences et leurs suites seront soumis à la compétence des tribunaux du ressort de la Cour d’appel de Paris.
 
-16. Acceptation
+16.  Acceptation
 
 Les présentes CGS font partie intégrante du Contrat qui lie les Parties.
 
