@@ -14,33 +14,33 @@ La présente politique de cookies (la « **Politique** ») est applicable à la 
 
 \- l'application mobile BoursoBank disponible sur iOS et Android (l' « **Application Mobile** »), divisée en deux espaces,
 
-* un espace accessible en cliquant sur « Je me connecte », dédié aux Clients BoursoBank (l'« **Espace Client Mobile** »), titulaires d'un Compte Client ; et
-* un espace accessible en cliquant sur « Je veux devenir client », permettant d'effectuer le parcours d'ouverture d'un Compte Client dédié aux Visiteurs désirant devenir Clients (le « **Parcours App** »).
+*   un espace accessible en cliquant sur « Je me connecte », dédié aux Clients BoursoBank (l'« **Espace Client Mobile** »), titulaires d'un Compte Client ; et
+*   un espace accessible en cliquant sur « Je veux devenir client », permettant d'effectuer le parcours d'ouverture d'un Compte Client dédié aux Visiteurs désirant devenir Clients (le « **Parcours App** »).
 
 Cette politique s'adresse :
 
 \- aux Visiteurs des Sites, c'est-à-dire toute personne accédant aux Sites, sans être connecté à un Compte Membre ou à un Compte Client (le(s) « **Visiteur(s)** »).  
 Sont plus particulièrement visés les Sites suivants :
 
-* le Portail Non Connecté ;
-* le Site Vitrine ; et
-* le Parcours App.
+*   le Portail Non Connecté ;
+*   le Site Vitrine ; et
+*   le Parcours App.
 
 \- aux Membres, c'est-à-dire les Visiteurs qui accèdent aux Sites en étant connectés à un Compte Membre (le(s) « **Membre(s)** »). Est plus particulièrement visé le Site suivant : le Portail Non Connecté.
 
 \- aux Clients BoursoBank ; c'est-à-dire les Visiteurs qui accèdent aux Sites en étant connectés à un Compte Client (le(s) « **Client(s)** »). Sont plus particulièrement visés les Sites suivants :
 
-* l'Espace Client ;
-* le Sas par lequel le Client peut se connecter à l'Espace Client ;
-* le Portail Connecté ; et
-* l'Espace Client Mobile.
+*   l'Espace Client ;
+*   le Sas par lequel le Client peut se connecter à l'Espace Client ;
+*   le Portail Connecté ; et
+*   l'Espace Client Mobile.
 
 Aux fins de la présente Politique, les termes « Vous », « Votre », « Vos » désignent indifféremment, les Visiteurs, les Membres ou les Clients.
 
 Cette Politique a pour objet de Vous permettre de mieux comprendre :
 
-* quels cookies sont susceptibles d'être déposés sur Votre ordinateur, Votre tablette et Votre smartphone (« Terminal ») lors de Votre consultation des Sites, les finalités ou fonctionnalités qu'ils permettent de mettre en œuvre, sous réserve des choix qui Vous sont offerts concernant telle ou telle finalité, et
-* comment exprimer, paramétrer ou modifier les choix qui Vous sont offerts.
+*   quels cookies sont susceptibles d'être déposés sur Votre ordinateur, Votre tablette et Votre smartphone (« Terminal ») lors de Votre consultation des Sites, les finalités ou fonctionnalités qu'ils permettent de mettre en œuvre, sous réserve des choix qui Vous sont offerts concernant telle ou telle finalité, et
+*   comment exprimer, paramétrer ou modifier les choix qui Vous sont offerts.
 
 La présente Politique constitue un document d'information sur Vos droits et les choix qui vous sont offerts à l'égard des cookies ou traceurs susceptibles d'être déposés ou lus dans Votre Terminal lors de l'utilisation des Sites.
 
@@ -101,12 +101,12 @@ Il s'agit des cookies indispensables à la navigation sur nos Sites qui Vous per
 
 Plus précisément, ces cookies permettent notamment :
 
-* d'adapter la présentation des Sites aux préférences d'affichage de Votre Terminal (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc.) lors de Votre utilisation des Sites, selon les matériels et logiciels de visualisation ou de lecture que Votre Terminal comporte ;
-* de permettre l'accès à un espace réservé sur certains Sites, tel que l'Espace Client ou le Portail Non Connecté accessible par les Membres ;
-* de mémoriser des informations relatives aux formulaires que Vous avez remplis lors de l'utilisation de certains Sites ;
-* d'équilibrer la charge des équipements pour assurer le bon fonctionnement de la lecture de vidéos;
-* de mémoriser Vos préférences d'utilisation, les paramètres d'affichage et lecteurs que Vous utilisez afin de faciliter Votre navigation lors de Votre prochaine visite sur les Sites ;
-* de fournir à un Client les services en ligne qui lui sont destinés en fonction de sa situation individuelle, et ceux qui peuvent lui être fournis par Boursorama en application des Conditions Générales, notamment à travers des fonctionnalités d'affichage ou de notification dynamiques permettant la consultation, la souscription et la gestion en ligne par le Client de ses comptes et services bancaires et financiers, des produits financiers et d'épargne, des produits d'assurance, des offres de crédit, de garantie et de caution qui lui sont accessibles ou auxquelles il est éligible en application des Conditions Générales,
+*   d'adapter la présentation des Sites aux préférences d'affichage de Votre Terminal (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc.) lors de Votre utilisation des Sites, selon les matériels et logiciels de visualisation ou de lecture que Votre Terminal comporte ;
+*   de permettre l'accès à un espace réservé sur certains Sites, tel que l'Espace Client ou le Portail Non Connecté accessible par les Membres ;
+*   de mémoriser des informations relatives aux formulaires que Vous avez remplis lors de l'utilisation de certains Sites ;
+*   d'équilibrer la charge des équipements pour assurer le bon fonctionnement de la lecture de vidéos;
+*   de mémoriser Vos préférences d'utilisation, les paramètres d'affichage et lecteurs que Vous utilisez afin de faciliter Votre navigation lors de Votre prochaine visite sur les Sites ;
+*   de fournir à un Client les services en ligne qui lui sont destinés en fonction de sa situation individuelle, et ceux qui peuvent lui être fournis par Boursorama en application des Conditions Générales, notamment à travers des fonctionnalités d'affichage ou de notification dynamiques permettant la consultation, la souscription et la gestion en ligne par le Client de ses comptes et services bancaires et financiers, des produits financiers et d'épargne, des produits d'assurance, des offres de crédit, de garantie et de caution qui lui sont accessibles ou auxquelles il est éligible en application des Conditions Générales,
 
 Sans ces cookies Vous ne pourriez pas utiliser normalement les Sites. Par conséquent, leur dépôt ou leur lecture sur Votre Terminal ne relève pas des choix qui Vous sont offerts.
 
@@ -137,11 +137,11 @@ La gestion des Sites requiert l'utilisation de statistiques de fréquentation et
 
 Par conséquent, Boursorama dépose et/ou lit dans Votre Terminal des cookies dont la finalité se limite à la mesure de l'audience des Sites, pour répondre à différents besoins :
 
-* mesure des performances,
-* détection de problèmes de navigation,
-* optimisation des performances techniques ou de l'ergonomie,
-* estimation de la puissance des serveurs nécessaires,
-* analyse des contenus consultés, etc.
+*   mesure des performances,
+*   détection de problèmes de navigation,
+*   optimisation des performances techniques ou de l'ergonomie,
+*   estimation de la puissance des serveurs nécessaires,
+*   analyse des contenus consultés, etc.
 
 Ces cookies étant strictement nécessaires au fonctionnement et aux opérations d'administration courante des Sites, ils ne sont pas soumis, en application de l'article 82 de la loi « Informatique et Libertés », à Votre consentement préalable.
 
@@ -163,8 +163,8 @@ Les cookies de mesure d'audience strictement nécessaires au bon fonctionnement 
 
 Les typologies de cookies pour lesquelles Votre consentement est recueilli sur le Portail Non Connecté sont décrites sur la plateforme de gestion de cookies que Boursorama met à Votre disposition lors de Votre première connexion sur les Sites selon les termes du Transparency and Consent Framework (« TCF ») de l'IAB Europe. Les cookies analytiques et de performance nous permettent notamment de :
 
-* améliorer l'intérêt et l'ergonomie de nos services (les pages ou les rubriques les plus souvent consultées, les articles les plus lus, ...), notamment par l'analyse de la navigation ou la réalisation d'A/B tests ;
-* optimiser le site, notamment pour permettre l'affichage de modules d'extension sur nos contenus (par exemple, l'intégration de citations de tweets dans les contenus).
+*   améliorer l'intérêt et l'ergonomie de nos services (les pages ou les rubriques les plus souvent consultées, les articles les plus lus, ...), notamment par l'analyse de la navigation ou la réalisation d'A/B tests ;
+*   optimiser le site, notamment pour permettre l'affichage de modules d'extension sur nos contenus (par exemple, l'intégration de citations de tweets dans les contenus).
 
 Le fait de refuser ou de ne pas accepter la mise en œuvre de tels cookies ou de les supprimer n'a pas d'incidence sur Votre navigation sur les Sites, mais elle est de nature à nous empêcher de nous assurer de la meilleure qualité de services que nous souhaitons Vous proposer.
 
@@ -187,16 +187,16 @@ Les typologies de cookies pour lesquelles Votre consentement est recueilli sur l
 
 Dans le cadre de Votre navigation sur les Sites, Boursorama est susceptible, sous réserve des choix qui Vous sont offerts, de permettre le dépôt ou la lecture, de cookies publicitaires opérés par des tiers afin de :
 
-* pouvoir Vous proposer des publicités les plus pertinentes possibles, adaptées à Vos centres d'intérêts ;
-* déterminer en temps réel quelle publicité afficher en fonction de Votre navigation récente, afin de limiter le nombre de fois où une publicité est affichée ; et
-* mesurer l'efficacité d'une campagne publicitaire.
+*   pouvoir Vous proposer des publicités les plus pertinentes possibles, adaptées à Vos centres d'intérêts ;
+*   déterminer en temps réel quelle publicité afficher en fonction de Votre navigation récente, afin de limiter le nombre de fois où une publicité est affichée ; et
+*   mesurer l'efficacité d'une campagne publicitaire.
 
 Nos partenaires privilégiés publicitaires sont notamment :
 
-* pour le Portail Non Connecté : Google/DoubleClick, Outbrain, Smart Adserver, Teads, Mediasquare, Adagio, Amazon, 1plusX, Digiteka/Ultimedia, BeOP, Integral Ad Science, Invibes, Critéo, PubStack, Triplelift, Adyoulike, Pubmatic, The Trade desk, Hawk, ACPM, Trustpilot
-* pour le Site Vitrine : Google/Doubleclick, Facebook, Awin, Outbrain, Snapchat
-* pour le Sas : Google (RLSA)
-* pour le Parcours App : Adjust
+*   pour le Portail Non Connecté : Google/DoubleClick, Outbrain, Smart Adserver, Teads, Mediasquare, Adagio, Amazon, 1plusX, Digiteka/Ultimedia, BeOP, Integral Ad Science, Invibes, Critéo, PubStack, Triplelift, Adyoulike, Pubmatic, The Trade desk, Hawk, ACPM, Trustpilot
+*   pour le Site Vitrine : Google/Doubleclick, Facebook, Awin, Outbrain, Snapchat
+*   pour le Sas : Google (RLSA)
+*   pour le Parcours App : Adjust
 
 Cette liste est susceptible d'évoluer dans le temps.
 
@@ -216,9 +216,9 @@ Certains de nos Sites peuvent contenir des liens de partage vers Facebook, Twitt
 
 Nous Vous invitons à consulter les politiques de confidentialité/cookies de ces réseaux sociaux afin de prendre connaissance des finalités d'utilisation, de ces cookies. Les politiques de confidentialité/cookies des réseaux sociaux concernés sont accessibles ci-après :
 
-* Facebook : [https://fr-fr.facebook.com/policies/cookies/](https://fr-fr.facebook.com/policies/cookies/ "Facebook (nouvelle fenêtre)")
-* Twitter : [https://twitter.com/privacy?lang=fr](https://twitter.com/privacy?lang=fr "Twitter (nouvelle fenêtre)")
-* Linkedin : [https://fr.linkedin.com/legal/cookie-policy](https://fr.linkedin.com/legal/cookie-policy "Linkedin (nouvelle fenêtre)")
+*   Facebook : [https://fr-fr.facebook.com/policies/cookies/](https://fr-fr.facebook.com/policies/cookies/ "Facebook (nouvelle fenêtre)")
+*   Twitter : [https://twitter.com/privacy?lang=fr](https://twitter.com/privacy?lang=fr "Twitter (nouvelle fenêtre)")
+*   Linkedin : [https://fr.linkedin.com/legal/cookie-policy](https://fr.linkedin.com/legal/cookie-policy "Linkedin (nouvelle fenêtre)")
 
 ARTICLE 5 : VOTRE GESTION DES COOKIES
 -------------------------------------
@@ -245,8 +245,8 @@ Attention, la prise en compte de Votre souhait repose sur un cookie. Si Vous sup
 
 Les cookies de mesure d'audience strictement nécessaires au bon fonctionnement des Sites ne sont pas soumis à Votre consentement préalable, toutefois Vous avez la possibilité de Vous opposer à tout moment à l'usage de ces cookies en cliquant sur le lien ci-dessous :
 
-* Vous souhaitez désactiver les cookies de mesure d'audience du partenaire AT internet : [cliquez ici.](javascript://)
-* Vous souhaitez réactiver les cookies de mesure d'audience du partenaire AT internet : [cliquez ici.](javascript://)
+*   Vous souhaitez désactiver les cookies de mesure d'audience du partenaire AT internet : [cliquez ici.](javascript://)
+*   Vous souhaitez réactiver les cookies de mesure d'audience du partenaire AT internet : [cliquez ici.](javascript://)
 
 Attention, la prise en compte de Votre choix repose sur un cookie d'une durée de vie de 13 mois.
 
@@ -287,42 +287,42 @@ En utilisant l'application mobile de BoursoBank, tout utilisateur autorise Bours
 
 Accès au modèle et aux informations d'identification du téléphone mobile où est installée l'application BoursoBank :
 
-* Afin de vérifier le niveau de sécurité de l'appareil et de détecter les malwares
-* Afin de surveiller l'état et l'identité du téléphone
-* Afin de surveiller la performance de l'application
+*   Afin de vérifier le niveau de sécurité de l'appareil et de détecter les malwares
+*   Afin de surveiller l'état et l'identité du téléphone
+*   Afin de surveiller la performance de l'application
 
 Accès aux photos/vidéos/médias où est installée l'application BoursoBank :
 
-* Afin d'utiliser le service d'association d'une pièce jointe (photo/vidéo/fichiers) à une opération bancaire effectuée par le client
-* Afin d'ajouter un fichier au coffre-fort numérique fourni par Boursorama
-* Afin de remplir les conditions de validation d'identité biométrique lors de la souscription ou validation de sécurité de BoursoBank
-* Afin de pouvoir faciliter la transmission de pièces d'identités justificatives
+*   Afin d'utiliser le service d'association d'une pièce jointe (photo/vidéo/fichiers) à une opération bancaire effectuée par le client
+*   Afin d'ajouter un fichier au coffre-fort numérique fourni par Boursorama
+*   Afin de remplir les conditions de validation d'identité biométrique lors de la souscription ou validation de sécurité de BoursoBank
+*   Afin de pouvoir faciliter la transmission de pièces d'identités justificatives
 
 Accès aux contacts où est installée l'application BoursoBank :
 
-* Afin d'utiliser le service de virements par SMS sur l'application mobile BoursoBank, vous autorisez explicitement Boursorama lors du premier virement à accéder à votre répertoire de contacts. L'application va alors afficher certaines Données personnelles de votre répertoire sans en faire d'autre usage ni de stockage. Seul le numéro de téléphone et le nom donné dans la fiche de votre contact seront transmis à Boursorama afin de procéder au virement :
-    * Soit directement vers le contact dans le cas où celui-ci est client de BoursoBank.
-    * Dans le cas où le numéro de téléphone du bénéficiaire de virement n'est pas identifié en tant que client BoursoBank, celui-ci devra fournir son IBAN afin que le virement soit réalisé. Dans ce cas, les IBANs sont conservés à des fins probatoires du virement pour une durée de 13 mois. Cette autorisation d'accès aux contacts du téléphone peut être retirée dans les paramètres systèmes du téléphone dans la rubrique correspondante à l'application BoursoBank.
+*   Afin d'utiliser le service de virements par SMS sur l'application mobile BoursoBank, vous autorisez explicitement Boursorama lors du premier virement à accéder à votre répertoire de contacts. L'application va alors afficher certaines Données personnelles de votre répertoire sans en faire d'autre usage ni de stockage. Seul le numéro de téléphone et le nom donné dans la fiche de votre contact seront transmis à Boursorama afin de procéder au virement :
+    *   Soit directement vers le contact dans le cas où celui-ci est client de BoursoBank.
+    *   Dans le cas où le numéro de téléphone du bénéficiaire de virement n'est pas identifié en tant que client BoursoBank, celui-ci devra fournir son IBAN afin que le virement soit réalisé. Dans ce cas, les IBANs sont conservés à des fins probatoires du virement pour une durée de 13 mois. Cette autorisation d'accès aux contacts du téléphone peut être retirée dans les paramètres systèmes du téléphone dans la rubrique correspondante à l'application BoursoBank.
 
 Accès à l'espace de stockage où est installée l'application BoursoBank :
 
-* Afin de stocker un fichier sur le stockage de l'application BoursoBank permettant de détecter des altérations de l'appareil entre deux analyses et de les accélérer
-* Afin de lire le contenu de la mémoire de l'application BoursoBank sur le stockage
-* Afin de modifier ou supprimer le contenu de la mémoire de l'application BoursoBank sur le stockage
+*   Afin de stocker un fichier sur le stockage de l'application BoursoBank permettant de détecter des altérations de l'appareil entre deux analyses et de les accélérer
+*   Afin de lire le contenu de la mémoire de l'application BoursoBank sur le stockage
+*   Afin de modifier ou supprimer le contenu de la mémoire de l'application BoursoBank sur le stockage
 
 Accès aux informations relatives à la connexion mobile/Wi-Fi où est installée l'application BoursoBank :
 
-* Afin de vérifier la sécurité de la connexion
-* Afin de détecter une perte de connexion pendant une transaction
-* Afin de mesurer la performance de la connexion
-* Afin d'empêcher la mise en veille de l'appareil
+*   Afin de vérifier la sécurité de la connexion
+*   Afin de détecter une perte de connexion pendant une transaction
+*   Afin de mesurer la performance de la connexion
+*   Afin d'empêcher la mise en veille de l'appareil
 
 Accès au(x) dispositif(s) d'identification biométrique fourni(s) par l'appareil :
 
-* Afin de faciliter la connexion à l'espace sécurisé de l'utilisateur
+*   Afin de faciliter la connexion à l'espace sécurisé de l'utilisateur
 
 Accès aux notifications push :
 
-* Afin de sécuriser les transactions de l'utilisateur via l'application BoursoBank
+*   Afin de sécuriser les transactions de l'utilisateur via l'application BoursoBank
 
 Les autorisations d'accès peuvent être retirée dans les paramètres systèmes du téléphone dans la rubrique correspondante à l'application BoursoBank.
