@@ -23,7 +23,7 @@ In the Policy, "AIR FRANCE" refers to the French airline company AIR FRANCE, who
 
 Privacy is one of our major concerns and is at the heart of the experience we wish to offer through the use of our services. We are committed to guaranteeing a high level of protection for the personal data of our customers, prospects, users of our website or mobile applications and, more generally, of any data subject concerned by our processing operations.  We undertake to comply with the regulations applicable to all processing of personal data that we implement, in particular the provisions of the French Data Protection Act of 6 January 1978 (“Loi informatique et libertés”) as amended and the General Data Protection Regulation (EU Regulation 2016/679) or "GDPR".   In particular, we are committed to the following principles:
 
-* Your personal data is processed lawfully, fairly and transparently (lawfulness, fairness, transparency).* Your personal data is collected for specific, explicit and legitimate purposes, and is not furthered processed in a manner incompatible with these purposes (purpose limitation).* Your personal data is collected in an adequate and relevant manner and is limited to the purposes for which it is processed (data minimisation).* Your personal data is accurate, kept up to date and every reasonable step is taken to ensure that inaccurate data, having regard to the purposes for which it is processed, is deleted or updated (accuracy).
+*   Your personal data is processed lawfully, fairly and transparently (lawfulness, fairness, transparency).*   Your personal data is collected for specific, explicit and legitimate purposes, and is not furthered processed in a manner incompatible with these purposes (purpose limitation).*   Your personal data is collected in an adequate and relevant manner and is limited to the purposes for which it is processed (data minimisation).*   Your personal data is accurate, kept up to date and every reasonable step is taken to ensure that inaccurate data, having regard to the purposes for which it is processed, is deleted or updated (accuracy).
 
 We are committed to implementing the appropriate internal procedures in order to raise the awareness of all our employees and to ensure compliance with these rules within our organisation.  Furthermore, we undertake to implement the appropriate technical and organisational measures to ensure an adequate level of security and to protect your personal data, as from the beginning of our projects and design of our processing operations.  Finally, we impose the same level of personal data protection in our contracts with our subcontractors. In order to ensure that these rules are properly applied, we have appointed a Data Protection Officer (DPO) who is the main contact for the Commission Nationale de l'Informatique et des Libertés (CNIL), the French data protection authority.
 
@@ -67,7 +67,7 @@ Retention period: Data related to individuals holding an accreditation number ar
 
 6.1.  General information Air France services are provided all across the world. In order to provide our services and to offer you the same experience across all our destinations, we need to share your personal data with internal and external parties. Within our airline, your data is processed by duly authorised employees: flight attendants, agents of our customer contact centres, sales departments, operating agents, IT departments, etc. We may also transfer your data to third parties such as companies in our Group including KLM, our partner airlines, your travel agents, payment service providers, service providers or subcontractors, etc. for the purposes described in point 6.2. In this respect, we remind you that we require all our subcontractors to implement strict confidentiality and protection measures for personal data processed, in accordance with the regulations and this Policy. 6.2. Sharing your data with third parties We may transfer or share your personal data with third parties for the following purposes: a) To facilitate your bookings and travel arrangements To manage your purchases, bookings or travel arrangements, we may share your personal data with third parties who process this information on our behalf or assist us in providing our services worldwide, such as customer contact centres or airport operators, but also other companies involved in the organisation of your travel such as airport managers, booking system providers (GDS or other technology) or travel agents. You can read the privacy policies of these third parties for more information.  Depending on your booking and the flights constituting your trip, your data may also be communicated to other airlines operating some of these flights, and our rail or ground transport providers. These may be airlines that are part of our Group or external partners, particularly members of our SkyTeam alliance. This sharing of information may be necessary to complete your trip but also guarantee continuity of service and recognition of your "Frequent Flyer" status throughout your journey, to facilitate the management of your reservation, particularly in the event of unexpected disruption, or to ensure the safety and security of all flight operations within the alliance.  To find out more about the companies in our Group and the airlines we work with, you can visit our [corporate.airfrance.com](https://corporate.airfrance.com/en/company) website. You can also refer to point b) in section "4. HOW DO WE COLLECT YOUR PERSONAL DATA?". b) To assist our operations and provide our services In order to provide our services, we also use other types of third parties, such as providers of specific IT services, social network providers, marketing agencies or external fraud detection and prevention services. As with all of our subcontractors, these third parties are required to adequately safeguard your personal data and to process it only in accordance with our instructions in application of the regulations and this Policy. Within the Air France-KLM Group, our processing activities are handled by centralised databases and systems which may be hosted or managed by a group company on behalf of other group companies. In addition, for the sake of efficiency, beyond travel-related services, certain operational and commercial functions may be performed by one of the group companies for other group companies. This means that our group companies may have access to your personal data in the context of these processing operations. Our group companies may only process your personal data in the context of these activities and in accordance with this Policy. c) To manage our loyalty programmes and related advantages For more information, you can read chapter "1. ABOUT US " and point c) in section "4. HOW DO WE COLLECT YOUR PERSONAL DATA?". d) To improve our online services and mobile applications For more information, you can read point c) in section "5. FOR WHAT PURPOSES DO WE USE YOUR PERSONAL DATA?". e) To manage our business customers accounts and our business travel policies If you book a flight using your employer's business account, your employer will have access to certain booking details, such as the ticket price, travel dates and your destination. Your employer is responsible for the way in which it processes your personal data. f) To process payments and refunds In order to process payments and refunds for your purchases and bookings, we may transfer certain data to third parties such as banks, financial institutions or payment service providers. In many cases, these payment service providers also carry out anti-fraud checks. These third parties have their own privacy policies that apply to how they use your personal data. g) To enable our privileged partners to propose you personalized marketing campaigns through their usual media channels We may share your pseudo-anonymized (hashed) information to specific partners that they could use to display relevant ads to promote their products on their usual media channels. Our privileged partners also have their own privacy policies that apply to how they use your personal data. h)To measure performance of our marketing campaigns For more information you can read point e) in section “5.1 PROCESSING PURPOSE” i) To enable our partners to provide you with their services and tailor them to your needs We may share your information with third parties who provide services or products that can be accessed via us (for example, flights on other carriers, hotel accommodation or car rental). We may also share certain non-personalised information (destination, date and duration of the trip) with these partners so that they can tailor and improve the services they provide to you. In this case, these exchanges are made through trusted third parties. Our partners also have their own privacy policies that apply to how they use your personal data. 6.3.  Specific services, applications, events, campaigns or sweepstakes We may offer specific services, applications, events, campaigns, games or sweepstakes to enhance your customer experience in addition to our usual services. For these purposes, we may share your data with third parties other than those described in this Policy (for example, when we organise a campaign or event with a partner or when we add their services to our applications). In this case, in accordance with the applicable regulations, information relating to the processing of these data may be communicated to you by a dedicated privacy statement or by privacy policy when you download the application, register for the service, event, campaign or sweepstake via the dedicated form. 6.4.  Public authorities As with any airline, in accordance with applicable French and international laws and regulations, we may be legally required to collect and share your identification data (e.g. passport information) and booking and travel information with the public authorities of France (customs, immigration, police, etc.) or of the countries from or to which you are travelling for the purposes of border control, immigration formalities, entry into the country or the fight against terrorism or any other serious crime.  Pursuant to Law No. 78-18 of 6 January 1978 “Loi informatique et Libertés” as amended and Article L. 232-7 of the French Internal Security Code, we inform you that, for flights operated by Air France departing from France to a non-European Union country or departing from a non-European Union country to France, the data listed below may be transferred to the Passenger Information Unit (PIU) according to the processing methods and for the purposes set out in Decree No. 2014-1095 of 26/09/2014:
 
-* API (Advanced Passenger information): identification and travel-related data collected at check-in,* PNR (Passenger Name Record): booking data automatically transferred to the PIU.
+*   API (Advanced Passenger information): identification and travel-related data collected at check-in,*   PNR (Passenger Name Record): booking data automatically transferred to the PIU.
 
 The Passenger Information Unit (PIU) is a service of the French administration in charge of collecting air passenger data transmitted by air carriers and travel agencies and tour operators chartering all or part of an aircraft. For more information, you can read the following link:  [https://pnr.gouv.fr/fr/traveler/](https://pnr.gouv.fr/fr/traveler/)   For a list of other EU Member States collecting this information in the context of the application of European Directive No. 2016/681 of 27 April 2016 on the use of PNR data, you can read the following link : [https://eur-lex.europa.eu/legal-content/](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2020.358.01.0007.01.ENG&toc=OJ:C:2020:358:FULL) We may also be legally required to share some of your data with public authorities in countries on your route for public health purposes (see section 3.1.d above). In some cases, we may also be required to disclose certain data to public entities and authorities, law enforcement officials, courts or other authorised third parties if (i) this information is required by the applicable laws, regulations or legal procedures (such as a summons or court order), if (ii) it is necessary to protect or defend our rights against legal claims and those of third parties, or (iii) for reasons of public health and safety. 6.5.  Third party websites Our websites and mobile applications include links to third party websites. If you click on these links, you will leave our websites and mobile applications. This privacy policy does not apply to the websites of these third parties. To find out more about how these third parties process your personal data, you can read their respective privacy policies and/or cookie management policies.
 
@@ -105,40 +105,40 @@ This version is applicable as from July 15th,  2025. We reserve the right to ch
 
 Customer service
 
-* [Contact us](https://wwws.airfrance.fr/contact)
-* [Refund](https://wwws.airfrance.fr/contact/topic/refund-compensation)
-* [Claims](https://wwws.airfrance.fr/information/legal/reclamation)
-* [Request an invoice](https://wwws.airfrance.fr/contact/topic/trip-checkin/subtopic/invoice)
-* [Passengers with disabilities](https://wwws.airfrance.fr/contact/topic/special-assistance)
+*   [Contact us](https://wwws.airfrance.fr/contact)
+*   [Refund](https://wwws.airfrance.fr/contact/topic/refund-compensation)
+*   [Claims](https://wwws.airfrance.fr/information/legal/reclamation)
+*   [Request an invoice](https://wwws.airfrance.fr/contact/topic/trip-checkin/subtopic/invoice)
+*   [Passengers with disabilities](https://wwws.airfrance.fr/contact/topic/special-assistance)
 
 #### Online purchase
 
 Online purchase
 
-* [Booking fees - Service fees](https://wwws.airfrance.fr/information/legal/frais-emission-et-service)
-* [Payment methods](https://wwws.airfrance.fr/information/legal/moyens-de-paiement)
-* [Air France shopping](https://shopping.airfrance.com/?)
-* [Why book on the official Air France website?](https://wwws.airfrance.fr/information/meilleures-offres/pourquoi-reserver-sur-le-site-airfrance)
+*   [Booking fees - Service fees](https://wwws.airfrance.fr/information/legal/frais-emission-et-service)
+*   [Payment methods](https://wwws.airfrance.fr/information/legal/moyens-de-paiement)
+*   [Air France shopping](https://shopping.airfrance.com/?)
+*   [Why book on the official Air France website?](https://wwws.airfrance.fr/information/meilleures-offres/pourquoi-reserver-sur-le-site-airfrance)
 
 #### Loyalty program and partners
 
 Loyalty program and partners
 
-* [FlyingBlue](https://www.flyingblue.com/fr/home?country=gb)
-* [Transavia](https://www.transavia.com/)
-* [KLM](http://www.klm.com/)
-* [SkyTeam](https://www.skyteam.com/)
+*   [FlyingBlue](https://www.flyingblue.com/fr/home?country=gb)
+*   [Transavia](https://www.transavia.com/)
+*   [KLM](http://www.klm.com/)
+*   [SkyTeam](https://www.skyteam.com/)
 
 #### About Air France
 
 About Air France
 
-* [Newsletter](https://wwws.airfrance.fr/subscription/subscribe)
-* [Air France corporate](http://corporate.airfrance.com/)
-* [Affiliate program](https://wwws.airfrance.fr/information/prepare/services/affiliation)
-* [Travel destinations](https://wwws.airfrance.fr/travel-guide/destinations)
-* [Worldwide sites](https://wwws.airfrance.fr/splash)
-* [The Air France app](https://wwws.airfrance.fr/information/prepare/services/app-air-france)
+*   [Newsletter](https://wwws.airfrance.fr/subscription/subscribe)
+*   [Air France corporate](http://corporate.airfrance.com/)
+*   [Affiliate program](https://wwws.airfrance.fr/information/prepare/services/affiliation)
+*   [Travel destinations](https://wwws.airfrance.fr/travel-guide/destinations)
+*   [Worldwide sites](https://wwws.airfrance.fr/splash)
+*   [The Air France app](https://wwws.airfrance.fr/information/prepare/services/app-air-france)
 
 #### Air France app
 
@@ -150,33 +150,33 @@ Air France app
 
 Fly From
 
-* [London](https://wwws.airfrance.co.uk/en-gb/flights-from-london)
-* [Manchester](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester)
-* [Birmingham](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham)
+*   [London](https://wwws.airfrance.co.uk/en-gb/flights-from-london)
+*   [Manchester](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester)
+*   [Birmingham](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham)
 
 #### Fly to France
 
 Fly to France
 
-* [Flight Manchester - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-paris)
-* [Flight London - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-paris)
-* [Flight Birmingham - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham-to-paris)
-* [Flight Edinburgh - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-edinburgh-to-paris)
-* [Flight Southampton - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-southampton-to-paris)
+*   [Flight Manchester - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-paris)
+*   [Flight London - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-paris)
+*   [Flight Birmingham - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham-to-paris)
+*   [Flight Edinburgh - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-edinburgh-to-paris)
+*   [Flight Southampton - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-southampton-to-paris)
 
 #### Fly Worldwide
 
 Fly Worldwide
 
-* [All flights](https://wwws.airfrance.co.uk/en-gb/)
-* [Flight Manchester - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-hong-kong)
-* [Flight London - Johannesburg](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-johannesburg)
-* [Flight London - New York](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-new-york)
-* [Flight London - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-hong-kong)
+*   [All flights](https://wwws.airfrance.co.uk/en-gb/)
+*   [Flight Manchester - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-hong-kong)
+*   [Flight London - Johannesburg](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-johannesburg)
+*   [Flight London - New York](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-new-york)
+*   [Flight London - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-hong-kong)
 
-* [Site Map](https://wwws.airfrance.fr/information/site-map)
-* [Legal information](https://wwws.airfrance.fr/information/legal)
-* [Service address](https://wwws.airfrance.fr/information/legal/address-for-service)
-* [Privacy policy](https://wwws.airfrance.fr/information/legal/edito-psc)
-* [Accessibility statement](https://wwws.airfrance.fr/information/legal/accessibilite)
-* Cookie settings
+*   [Site Map](https://wwws.airfrance.fr/information/site-map)
+*   [Legal information](https://wwws.airfrance.fr/information/legal)
+*   [Service address](https://wwws.airfrance.fr/information/legal/address-for-service)
+*   [Privacy policy](https://wwws.airfrance.fr/information/legal/edito-psc)
+*   [Accessibility statement](https://wwws.airfrance.fr/information/legal/accessibilite)
+*   Cookie settings
