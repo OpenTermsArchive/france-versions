@@ -22,9 +22,9 @@ ARTICLE 3 – ACCES AU SITE INTERNET
 
 Le Site Internet est ouvert à tout internaute remplissant les conditions énoncées à l’article 2, sous réserve de disposer d’une connexion au réseau Internet. A ce titre, le Client déclare :
 
-* Être une personne physique majeure ou titulaire d'une autorisation parentale et avoir la capacité de conclure le présent contrat ;
-* Ne pas procéder à des achats de Produits dans le but de les revendre. Jules se réserve le droit de refuser une commande dont les quantités seraient manifestement inhabituelles pour un usage personnel ;
-* Agir à des fins strictement personnelles et qui n’entrent pas dans le cadre d’une activité commerciale, industrielle, artisanale ou libérale.
+*   Être une personne physique majeure ou titulaire d'une autorisation parentale et avoir la capacité de conclure le présent contrat ;
+*   Ne pas procéder à des achats de Produits dans le but de les revendre. Jules se réserve le droit de refuser une commande dont les quantités seraient manifestement inhabituelles pour un usage personnel ;
+*   Agir à des fins strictement personnelles et qui n’entrent pas dans le cadre d’une activité commerciale, industrielle, artisanale ou libérale.
 
 ARTICLE 4 – PRODUITS
 --------------------
@@ -79,8 +79,8 @@ Cette possibilité implique la détention d’un compte PayPal par le Client. Le
 
 Pour plus d'information sur la carte Illicado, [cliquez-ici](https://www.illicado.com/). Il est possible de régler tout ou partie de la commande par carte cadeau (jusqu'à 3 cartes cadeau différentes par commande).
 
-1. Indiquer le numéro de la carte cadeau figurant au verso de la carte (19 premiers chiffres) dans le champ réservé à cet effet.
-2. Après avoir gratté la zone grisée située au dos de la carte cadeau, renseigner le cryptogramme visuel dans le champ prévu (3 chiffres).
+1.  Indiquer le numéro de la carte cadeau figurant au verso de la carte (19 premiers chiffres) dans le champ réservé à cet effet.
+2.  Après avoir gratté la zone grisée située au dos de la carte cadeau, renseigner le cryptogramme visuel dans le champ prévu (3 chiffres).
 
 Une carte ou e-carte cadeau ne peut pas être utilisée pour l’achat d’une autre carte ou e-carte cadeau. Dans le cas d'un règlement partiel de la commande par carte cadeau, le Client devra payer le solde par tout autre moyen de paiement accepté par Jules. En cas d'annulation ou de retour pour remboursement de toute ou partie de la commande, les cartes cadeau Illicado ne pourront être re-créditées. Une nouvelle carte cadeau Jules dématérialisée du montant exact à rembourser sera alors envoyée par mail au Client conformément à l’article 9.5.  
   
@@ -219,10 +219,10 @@ _« Le vendeur livre un bien conforme au contrat et répond des défauts de conf
 **Article L217-5 du Code de la consommation**  
 _« Le bien est conforme au contrat :_
 
-* _1\. S’il est propre à l'usage habituellement attendu d'un bien semblable et, le cas échéant :_
-    * _\- s’il correspond à la description donnée par le vendeur et possède les qualités que celui-ci a présentées à l'acheteur sous forme d'échantillon ou de modèle ;_
-    * _\- s’il présente les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage ;_
-* _2\. Ou s’il présente les caractéristiques définies d'un commun accord par les parties ou est propre à tout usage spécial recherché par l'acheteur, porté à la connaissance du vendeur et que ce dernier a accepté. »_
+*   _1\. S’il est propre à l'usage habituellement attendu d'un bien semblable et, le cas échéant :_
+    *   _\- s’il correspond à la description donnée par le vendeur et possède les qualités que celui-ci a présentées à l'acheteur sous forme d'échantillon ou de modèle ;_
+    *   _\- s’il présente les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage ;_
+*   _2\. Ou s’il présente les caractéristiques définies d'un commun accord par les parties ou est propre à tout usage spécial recherché par l'acheteur, porté à la connaissance du vendeur et que ce dernier a accepté. »_
 
   
 **Article L217-12 du Code de la consommation**  
@@ -246,9 +246,9 @@ ARTICLE 12 – RECLAMATIONS
 
 Pour toute information, réclamation ou question relative aux Conditions Générales ou aux Produits proposés à la vente sur le Site Internet, le Client est invité à s’adresser au service client :
 
-* Par courrier à l’adresse suivante : Jules - Service Relation Client, 152 avenue Alfred Motte, 59100 Roubaix
-* Par téléphone au [+33 3 59 55 41 29](tel:+33359554129) (numéro vert) du lundi au samedi de 10h à 12h30 et de 14h30 à 18h
-* Par courrier électronique depuis la rubrique « Contactez-nous » ou [service-clients@jules.com](mailto:service-clients@jules.com)
+*   Par courrier à l’adresse suivante : Jules - Service Relation Client, 152 avenue Alfred Motte, 59100 Roubaix
+*   Par téléphone au [+33 3 59 55 41 29](tel:+33359554129) (numéro vert) du lundi au samedi de 10h à 12h30 et de 14h30 à 18h
+*   Par courrier électronique depuis la rubrique « Contactez-nous » ou [service-clients@jules.com](mailto:service-clients@jules.com)
 
 ##### 12.2 Médiation
 
