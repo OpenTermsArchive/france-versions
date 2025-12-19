@@ -9,8 +9,8 @@ Nous nous réservons la possibilité de modifier à tout moment cette politique 
 Parties impliquées dans la collecte des données personnelles
 ------------------------------------------------------------
 
-* **Responsable de traitement** : Mairies et Établissements Publics de Coopération Intercommunale (EPCI). Ces entités déterminent les finalités et les moyens du traitement des données personnelles collectées via le "Site". Elles utilisent ces données pour accomplir leurs missions de service public.
-* **Sous-traitant** : IntraMuros, en tant qu'éditeur et hébergeur du "Site". Le sous-traitant fournit les services techniques nécessaires à l'hébergement et à la gestion du "Site" pour le compte du responsables de traitement.
+*   **Responsable de traitement** : Mairies et Établissements Publics de Coopération Intercommunale (EPCI). Ces entités déterminent les finalités et les moyens du traitement des données personnelles collectées via le "Site". Elles utilisent ces données pour accomplir leurs missions de service public.
+*   **Sous-traitant** : IntraMuros, en tant qu'éditeur et hébergeur du "Site". Le sous-traitant fournit les services techniques nécessaires à l'hébergement et à la gestion du "Site" pour le compte du responsables de traitement.
 
   
 
@@ -26,9 +26,9 @@ Délégué à la protection des données
 
 Conformément à Loi Informatique et Libertés ainsi qu'au Règlement Général sur la Protection des Données (RGPD) entré en vigueur le 25 mai 2018, un délégué à la protection des données a été désigné. Vous pouvez le saisir par courrier postal ou courrier électronique:
 
-* Adresse postale: IntraMuros SAS, 16 rue de Ségur, 33000 Bordeaux
-* Téléphone: 05.54.67.12.60
-* E-mail: rgpd@intramuros.org
+*   Adresse postale: IntraMuros SAS, 16 rue de Ségur, 33000 Bordeaux
+*   Téléphone: 05.54.67.12.60
+*   E-mail: rgpd@intramuros.org
 
   
 
@@ -39,8 +39,8 @@ Les données personnelles sont récoltées dans le cadre d’une mission d'inté
 Toute personne saisissant des informations personnelles sur le "Site" est responsable de leur exactitude.  
 Ces données sont collectées par le biais:
 
-* des formulaires
-* des cookies (voir notre [Politique de gestion des cookies](https://www.intramuros.org/cookies))
+*   des formulaires
+*   des cookies (voir notre [Politique de gestion des cookies](https://www.intramuros.org/cookies))
 
 Ces traitements s’appuient sur votre consentement explicite. Vous pouvez à tout moment retirer ce consentement soit par le biais des outils mis à votre disposition en ligne (gestion des cookies), soit par saisie des services responsables du traitement de vos données. Vous pouvez également saisir à cette fin le délégué à la protection des données. Aucun transfert ou cession de vos données à des tiers n’a lieu.
 
@@ -84,9 +84,9 @@ Droit d'accès, de rectification et suppression
 
 Conformément à la loi Informatique et Libertés et le Règlement Général sur la Protection des Données 2016/679 (RGPD), vous disposez des droits d’accès, de rectification et de suppression des données personnelles vous concernant que vous pouvez exercer en contactant la société IntraMuros
 
-* Adresse postale: IntraMuros SAS, 16 rue de Ségur, 33000 Bordeaux
-* Téléphone: 05.54.67.12.60
-* E-mail: rgpd@intramuros.org
+*   Adresse postale: IntraMuros SAS, 16 rue de Ségur, 33000 Bordeaux
+*   Téléphone: 05.54.67.12.60
+*   E-mail: rgpd@intramuros.org
 
 Vos requêtes seront traitées dans les 30 jours. Nous pouvons vous demander à ce que votre demande soit accompagnée d’une photocopie de preuve d’identité ou d’autorité.
 
