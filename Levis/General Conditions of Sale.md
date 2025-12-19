@@ -1,11 +1,11 @@
-[Print This Page](javascript:window.print())
+[Print This Page](javascript:window.print\(\))
 
 CONDITIONS GÉNÉRALES CONSOMMATEURS
 ==================================
 
-[](javascript:void(0))[LIVRAISON](javascript:void(0))[RETOURS](javascript:void(0))[LIVRAISON](javascript:void(0))[PAIEMENT](javascript:void(0))[VOTRE COMMANDE](javascript:void(0))[VOTRE COMPTE](javascript:void(0))[CONTACTEZ-NOUS](javascript:void(0))
+[](javascript:void\(0\))[LIVRAISON](javascript:void\(0\))[RETOURS](javascript:void\(0\))[LIVRAISON](javascript:void\(0\))[PAIEMENT](javascript:void\(0\))[VOTRE COMMANDE](javascript:void\(0\))[VOTRE COMPTE](javascript:void\(0\))[CONTACTEZ-NOUS](javascript:void\(0\))
 
-[Print This Page](javascript:window.print())
+[Print This Page](javascript:window.print\(\))
 
 Les présentes conditions générales s'appliquent à votre achat sur notre site Web et sur notre application mobile Levi's®, lorsqu'elle est disponible (individuellement et collectivement, "le site Web") auprès de Levi Strauss & Co. Europe BV, une société constituée et existant en vertu des lois de la Belgique, dont les bureaux sont situés à Levi Strauss & Co Europe BV Square du Bastion 1A,1050 Ixelles, BELGIQUE, enregistrée au registre du commerce sous le numéro BE 0424.656.991.  
    
@@ -117,7 +117,7 @@ Pour exercer votre droit de retourner un article pendant le délai « Jours de 
 **Magasins : achats et retours**  
   
 
-* À l’heure actuelle, les articles achetés dans un magasin, un magasin outlet ou un grand magasin agréé Levi's® ne peuvent être retournés par la poste à notre boutique en ligne. Les articles achetés dans notre boutique en ligne peuvent être retournés dans un magasin Levi's® spécifique, comme indiqué ci-dessous.
+*   À l’heure actuelle, les articles achetés dans un magasin, un magasin outlet ou un grand magasin agréé Levi's® ne peuvent être retournés par la poste à notre boutique en ligne. Les articles achetés dans notre boutique en ligne peuvent être retournés dans un magasin Levi's® spécifique, comme indiqué ci-dessous.
     
 
 #### Modalités de retour applicables après la fin du délai de rétractation de 14 jours
@@ -126,10 +126,10 @@ Vous avez deux possibilités pour retourner vos articles. Veuillez noter que l�
 
 Option 1 : Renvoyer votre article
 
-* Pour faciliter le traitement des retours, vous trouverez dans votre colis une étiquette prépayée et pré-adressée pour votre colis de retour.
-* Emballez le(s) article(s) soigneusement, si possible dans l’emballage d’origine. Veuillez inclure tous les documents de retour, si possible avec les différents éléments et accessoires. Toutes les offres promotionnelles doivent être retournées dans leur intégralité. Tous les articles retournés sont examinés avant d’être remboursés et doivent être retournés dans leur état d’origine, pour obtenir leur remboursement.
-* Remplissez le questionnaire sur le motif du retour (la justification n’est pas obligatoire) sur le bordereau d’expédition et incluez le bordereau dans le colis de retour, puis suivez les instructions figurant sur le colis.
-* Pour toute question, contactez notre service client au 00800 53847 501. N’oubliez pas de conserver votre facture avec votre numéro de commande.
+*   Pour faciliter le traitement des retours, vous trouverez dans votre colis une étiquette prépayée et pré-adressée pour votre colis de retour.
+*   Emballez le(s) article(s) soigneusement, si possible dans l’emballage d’origine. Veuillez inclure tous les documents de retour, si possible avec les différents éléments et accessoires. Toutes les offres promotionnelles doivent être retournées dans leur intégralité. Tous les articles retournés sont examinés avant d’être remboursés et doivent être retournés dans leur état d’origine, pour obtenir leur remboursement.
+*   Remplissez le questionnaire sur le motif du retour (la justification n’est pas obligatoire) sur le bordereau d’expédition et incluez le bordereau dans le colis de retour, puis suivez les instructions figurant sur le colis.
+*   Pour toute question, contactez notre service client au 00800 53847 501. N’oubliez pas de conserver votre facture avec votre numéro de commande.
 
 Dès que nous recevrons votre retour, nous vous en informerons par e-mail et procéderons à la vérification et à la validation du retour. Une fois le retour validé, le remboursement sera crédité sous 5 à 10 jours ouvrés. Veuillez noter que les délais de remboursement sont imposés par la banque émettrice, l’établissement émetteur de la carte de crédit ou le prestataire de services de paiement (par ex. Paypal) et échappent à notre contrôle. Notez que la procédure de remboursement ne commence que lorsque le produit sera reçu à l’entrepôt. Nous ne pouvons pas procéder à un remboursement si, dans le même temps, vous avez demandé un remboursement à l’établissement émetteur de votre carte de crédit, à votre banque ou à votre prestataire de services de paiement. Ceci est nécessaire pour éviter toute fraude.
 
@@ -149,11 +149,11 @@ Si vous rencontrez une difficulté avec votre retour (par ex. vous avez retourn�
 
 Option 2 : Déposez votre retour dans l’un de nos magasins Levi's®
 
-* Les articles achetés en ligne ne peuvent pas être retournés dans un magasin outlet Levi's® ou dans un grand magasin.
-* Sur notre site Internet, vous trouverez les coordonnées du magasin le plus proche et ses horaires d’ouverture.
-* Toutes les modalités et restrictions standard s’appliquent. Tous les achats promotionnels doivent être retournés dans leur intégralité ; par exemple, « un acheté, un offert ». Tous les articles retournés sont examinés avant d’être remboursés et doivent être retournés dans leur état d’origine, pour obtenir leur remboursement.
-* Les remboursements sont effectués sur le même mode de paiement que celui utilisé initialement pour l’achat ou au moyen d’une e-carte cadeau envoyée par e-mail et valable dans tous les magasins Levi's® participants. Le traitement des remboursements effectués sur le même mode de paiement que celui utilisé initialement pour l’achat peut prendre 5 à 10 jours. Veuillez noter que les délais de remboursement sont imposés par la banque émettrice, l’établissement émetteur de la carte de crédit ou le prestataire de services de paiement (par ex. Paypal) et échappent à notre contrôle. Les fonds des remboursements effectués au moyen d’une e-carte cadeau sont immédiatement utilisables et n’ont pas de date d’expiration.
-* Pour toute question, contactez notre service client au 00800 53847 501. N’oubliez pas de conserver votre facture avec votre numéro de commande. Une fois le retour traité dans l’un de nos magasins Levi's®, vous recevrez un e-mail de confirmation.
+*   Les articles achetés en ligne ne peuvent pas être retournés dans un magasin outlet Levi's® ou dans un grand magasin.
+*   Sur notre site Internet, vous trouverez les coordonnées du magasin le plus proche et ses horaires d’ouverture.
+*   Toutes les modalités et restrictions standard s’appliquent. Tous les achats promotionnels doivent être retournés dans leur intégralité ; par exemple, « un acheté, un offert ». Tous les articles retournés sont examinés avant d’être remboursés et doivent être retournés dans leur état d’origine, pour obtenir leur remboursement.
+*   Les remboursements sont effectués sur le même mode de paiement que celui utilisé initialement pour l’achat ou au moyen d’une e-carte cadeau envoyée par e-mail et valable dans tous les magasins Levi's® participants. Le traitement des remboursements effectués sur le même mode de paiement que celui utilisé initialement pour l’achat peut prendre 5 à 10 jours. Veuillez noter que les délais de remboursement sont imposés par la banque émettrice, l’établissement émetteur de la carte de crédit ou le prestataire de services de paiement (par ex. Paypal) et échappent à notre contrôle. Les fonds des remboursements effectués au moyen d’une e-carte cadeau sont immédiatement utilisables et n’ont pas de date d’expiration.
+*   Pour toute question, contactez notre service client au 00800 53847 501. N’oubliez pas de conserver votre facture avec votre numéro de commande. Une fois le retour traité dans l’un de nos magasins Levi's®, vous recevrez un e-mail de confirmation.
 
 #### Dommages ou biens défectueux  
 
@@ -183,9 +183,9 @@ Nos options et frais de livraison varient selon les pays. Le détail des frais d
 
 Règles et restrictions:  
 
-* Nos commandes sont expédiées du lundi au vendredi, à l'exception des jours fériés.
-* Une adresse postale physique correcte est nécessaire, ainsi qu’un code postal le cas échéant, pour l'expédition des commandes.
-* En outre, un accusé de réception est signé à la livraison de la commande. Cette procédure a été établie afin de vous assurer la livraison des biens que vous avez commandés.
+*   Nos commandes sont expédiées du lundi au vendredi, à l'exception des jours fériés.
+*   Une adresse postale physique correcte est nécessaire, ainsi qu’un code postal le cas échéant, pour l'expédition des commandes.
+*   En outre, un accusé de réception est signé à la livraison de la commande. Cette procédure a été établie afin de vous assurer la livraison des biens que vous avez commandés.
 
 #### Pays de livraison
 
@@ -229,8 +229,8 @@ Si les questions de sécurité pour les achats sur notre boutique en ligne vous 
 Informations importantes concernant votre paiement:  
   
 
-* Les commandes réglées par cartes de crédit ne sont débitées qu'au moment de l'expédition des articles, sauf si le paiement est effectué au moyen de PayPal, où le montant est immédiatement débité.
-* Afin d'assurer la sécurité du paiement et d'éviter les fraudes, nous vérifions les informations du titulaire de la carte et donnons notre autorisation en lien étroit avec l'établissement émetteur.  
+*   Les commandes réglées par cartes de crédit ne sont débitées qu'au moment de l'expédition des articles, sauf si le paiement est effectué au moyen de PayPal, où le montant est immédiatement débité.
+*   Afin d'assurer la sécurité du paiement et d'éviter les fraudes, nous vérifions les informations du titulaire de la carte et donnons notre autorisation en lien étroit avec l'établissement émetteur.  
       
     
 
@@ -301,11 +301,11 @@ Après avoir cliqué sur « Connexion », vous devrez alors entrer votre adresse
 Veuillez noter que les informations relatives à un achat s'affichent parfois dans l'historique des commandes 1 heure après confirmation de la commande. Veuillez trouver ci-dessous le détail des différents libellés pour les statuts de commandes. Ils vous permettent de comprendre où en est votre commande.  
   
 
-* Commande en cours de préparation: votre commande a été transmise et les informations communiquées lors du paiement sont en train d'être traitées. Toutes les commandes sont validées sous réserve de disponibilité des produits. Si un article venait à être en rupture de stock après qu'une commande est passée, vous en seriez informé(e) directement.
-* Commande expédiée: les articles commandés ont été expédiés de nos entrepôts et sont en route vers l'adresse de livraison que vous avez indiquée lors du paiement.
-* Commande annulée: une erreur peut se produire lors du paiement ou lors du traitement de la commande. La commande est alors suspendue dans un premier temps, jusqu'à ce nous rentrions en contact avec vous pour vérification. La commande est annulée, le cas échéant, dans un deuxième temps. Une commande annulée ne peut être traitée. Vous ne devrez pas payer la commande. Vous devrez à nouveau passer la commande sur notre site Web.
-* Commande retournée: dans le cas où vous avez procédé à un retour de marchandise vers nos entrepôts, ce statut de commande vous indique que nous avons bien reçu l'article.
-* Commande remboursée: votre retour est accepté et nous effectuerons le remboursement du montant dû dans un délai de 5 à 10 jours ouvrés après réception de votre colis. Veuillez noter que les délais de remboursement relèvent directement de la banque émettrice et sont indépendants de notre volonté
+*   Commande en cours de préparation: votre commande a été transmise et les informations communiquées lors du paiement sont en train d'être traitées. Toutes les commandes sont validées sous réserve de disponibilité des produits. Si un article venait à être en rupture de stock après qu'une commande est passée, vous en seriez informé(e) directement.
+*   Commande expédiée: les articles commandés ont été expédiés de nos entrepôts et sont en route vers l'adresse de livraison que vous avez indiquée lors du paiement.
+*   Commande annulée: une erreur peut se produire lors du paiement ou lors du traitement de la commande. La commande est alors suspendue dans un premier temps, jusqu'à ce nous rentrions en contact avec vous pour vérification. La commande est annulée, le cas échéant, dans un deuxième temps. Une commande annulée ne peut être traitée. Vous ne devrez pas payer la commande. Vous devrez à nouveau passer la commande sur notre site Web.
+*   Commande retournée: dans le cas où vous avez procédé à un retour de marchandise vers nos entrepôts, ce statut de commande vous indique que nous avons bien reçu l'article.
+*   Commande remboursée: votre retour est accepté et nous effectuerons le remboursement du montant dû dans un délai de 5 à 10 jours ouvrés après réception de votre colis. Veuillez noter que les délais de remboursement relèvent directement de la banque émettrice et sont indépendants de notre volonté
 
 Si vous avez créé un compte sur notre site Web, nous garderons une trace de votre historique de commande pendant deux ans. Pour consulter et vérifier vos commandes, connectez-vous sur notre site et cliquez sur « Historique des commandes ». Si vous n'avez pas de compte, souvenez-vous que nous vous avons envoyé un courrier électronique précisant les informations concernant vos achats lors de votre commande et que vous l'avez peut-être archivé. Vous pouvez également contacter le Service client pendant une période de deux ans après votre achat pour obtenir les informations afférentes.  
   
@@ -320,11 +320,11 @@ Reportez-vous à la section « Retours » pour plus d'informations.
 Il peut arriver que, pour plusieurs raisons, notre système annule tout ou partie de votre commande. Voici quelques-unes des raisons possibles expliquant ce phénomène:  
   
 
-* Le ou les article(s) ne sont plus disponibles.
-* Le traitement des informations de paiement présente des difficultés.
-* Il est impossible d'expédier la commande à l'adresse donnée.
-* La même commande a été passée deux fois.
-* Problèmes techniques hors de notre contrôle.
+*   Le ou les article(s) ne sont plus disponibles.
+*   Le traitement des informations de paiement présente des difficultés.
+*   Il est impossible d'expédier la commande à l'adresse donnée.
+*   La même commande a été passée deux fois.
+*   Problèmes techniques hors de notre contrôle.
 
 Si votre commande est annulée, vous recevrez un e-mail d’explication. Les articles annulés ne seront pas facturés et nous ne serons pas responsables de cette annulation.
 
@@ -400,8 +400,8 @@ Authenticité des produits Levi’s®
 Levi Strauss & Co. s'engage à protéger sa marque déposée et ses droits de propriété, à lutter contre la vente de produits contrefaits qui porteraient sa marque ou ses logos. Cependant, nous sommes conscients que des produits Levi's® contrefaits sont vendus en ligne ou dans des magasins non agréés. Les caractéristiques des produits contrefaits sont variables d'un article à l'autre. Les deux éléments les plus reconnaissables sur les jeans Levi's® sont :  
   
 
-* L'étiquette rouge Tab Device® affichant la marque déposée sur la poche arrière.
-* La couture Arcuate® sur les poches arrière. La couture caractéristique Arcuate® est facilement reconnaissable à ses « doubles arcs » apposés de manière symétrique de chaque côté de la poche arrière.
+*   L'étiquette rouge Tab Device® affichant la marque déposée sur la poche arrière.
+*   La couture Arcuate® sur les poches arrière. La couture caractéristique Arcuate® est facilement reconnaissable à ses « doubles arcs » apposés de manière symétrique de chaque côté de la poche arrière.
 
 Afin d'éviter l'achat de jeans contrefaits, nous vous recommandons d'acheter nos produits chez un vendeur Levi's® agréé [**https://www.levi.com/store-finder/store-directory**](https://www.levi.com/FR/fr_FR/store-finder/store-directory) ou sur eu.levi.com et eu.dockers.com.  
   
@@ -432,4 +432,4 @@ Pour consulter la Politique de confidentialité de Levi Strauss & Co., [**clique
 
 Pour de plus amples informations concernant nos politiques et nos pratiques en matière de cookies et de navigation des consommateurs, [**cliquez ici**](https://www.levi.com/FR/fr_FR/legal/privacy-policy#cookies) et lisez notre Politique relative aux cookies.
 
-[Print This Page](javascript:window.print())
+[Print This Page](javascript:window.print\(\))
