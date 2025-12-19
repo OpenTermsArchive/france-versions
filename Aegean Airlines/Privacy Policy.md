@@ -37,16 +37,16 @@ Cette version a été mise à jour pour la dernière fois le 17 mai 2023. Les ve
   
 Nous pouvons recueillir, utiliser, enregistrer et transférer différents types de données personnelles vous concernant, que nous avons regroupées de la manière suivante :
 
-* Les données d'identité comprennent le prénom, le nom de jeune fille, le nom de famille, le nom d'utilisateur ou un identifiant similaire, la situation maritale, le titre, la date de naissance et le sexe.
-* Les données de contact comprennent l'adresse de facturation, l'adresse de livraison, l'adresse électronique et les numéros de téléphone.
-* Les données financières comprennent les coordonnées du compte en banque et de la carte de paiement.
-* Les données de transaction comprennent des détails concernant les paiements effectués en votre faveur et par vous, et d'autres détails concernant les produits et les services que vous avez achetés auprès de nous.
-* Les données d'appel comprennent l'enregistrement de votre voix et les observations correspondantes concernant l'appel effectué lorsque vous contactez notre centre d'appels à des fins transactionnelles.
-* Les données techniques comprennent une adresse de protocole Internet (IP), vos données de connexion, le type de navigateur et sa version, le fuseau horaire et le lieu, les types et les versions des modulse d'extension du navigateur, le système d'exploitation et la plateforme et d'autres technologies sur les dispositifs que vous utilisez pour accéder à ce site Internet.
-* Les données de profil comprennent votre nom d'utilisateur et votre mot de passe, les achats ou les commandes que vous avez effectués, vos intérêts, vos préférences, vos réactions et vos réponses aux enquêtes.
-* Les Données d'utilisation comprennent des informations sur la façon dont vous utilisez notre site Web, nos produits et nos services, y compris les cookies et les pixels de suivi.
-* Les Données de marketing et communication incluent vos préférences concernant la réception de nos communications marketing et celles de nos partenaires autorisés ainsi que vos préférences en matière de communication.
-* Les données concernant la santé que vous fournissez pour mieux vous servir et répondre à vos besoins particuliers (par exemple, mise en place d'un accès pour les personnes handicapées).
+*   Les données d'identité comprennent le prénom, le nom de jeune fille, le nom de famille, le nom d'utilisateur ou un identifiant similaire, la situation maritale, le titre, la date de naissance et le sexe.
+*   Les données de contact comprennent l'adresse de facturation, l'adresse de livraison, l'adresse électronique et les numéros de téléphone.
+*   Les données financières comprennent les coordonnées du compte en banque et de la carte de paiement.
+*   Les données de transaction comprennent des détails concernant les paiements effectués en votre faveur et par vous, et d'autres détails concernant les produits et les services que vous avez achetés auprès de nous.
+*   Les données d'appel comprennent l'enregistrement de votre voix et les observations correspondantes concernant l'appel effectué lorsque vous contactez notre centre d'appels à des fins transactionnelles.
+*   Les données techniques comprennent une adresse de protocole Internet (IP), vos données de connexion, le type de navigateur et sa version, le fuseau horaire et le lieu, les types et les versions des modulse d'extension du navigateur, le système d'exploitation et la plateforme et d'autres technologies sur les dispositifs que vous utilisez pour accéder à ce site Internet.
+*   Les données de profil comprennent votre nom d'utilisateur et votre mot de passe, les achats ou les commandes que vous avez effectués, vos intérêts, vos préférences, vos réactions et vos réponses aux enquêtes.
+*   Les Données d'utilisation comprennent des informations sur la façon dont vous utilisez notre site Web, nos produits et nos services, y compris les cookies et les pixels de suivi.
+*   Les Données de marketing et communication incluent vos préférences concernant la réception de nos communications marketing et celles de nos partenaires autorisés ainsi que vos préférences en matière de communication.
+*   Les données concernant la santé que vous fournissez pour mieux vous servir et répondre à vos besoins particuliers (par exemple, mise en place d'un accès pour les personnes handicapées).
 
 ###    
 4\. Comment nous recueillons vos informations
@@ -60,10 +60,10 @@ Nous recueillons des données personnelles vous concernant à chaque fois que vo
   
 Nous n'utiliserons vos données personnelles que quand la loi nous le permet. Le plus souvent, nous n'utiliserons vos données personnelles que :  
 
-* Pour exécuter le contrat que nous sommes sur le point de conclure ou que nous avons conclu avec vous.
-* Lorsque le traitement est nécessaire aux fins de nos intérêts légitimes (ou ceux d'un tiers) à moins que ne prévalent vos intérêts ou droits fondamentaux.
-* Lorsque le traitement est nécessaire au respect d'une obligation légale ou réglementaire.
-* Lorsque vous nous avez donné votre consentement explicite à cet effet.
+*   Pour exécuter le contrat que nous sommes sur le point de conclure ou que nous avons conclu avec vous.
+*   Lorsque le traitement est nécessaire aux fins de nos intérêts légitimes (ou ceux d'un tiers) à moins que ne prévalent vos intérêts ou droits fondamentaux.
+*   Lorsque le traitement est nécessaire au respect d'une obligation légale ou réglementaire.
+*   Lorsque vous nous avez donné votre consentement explicite à cet effet.
 
 Dans les cas où le traitement repose sur le consentement, veuillez noter que vous avez le droit de retirer votre consentement à tout moment en nous contactant à l'aide des coordonnées figurant au paragraphe 1 ci-dessus.  
   
@@ -151,8 +151,8 @@ Nous pouvons aussi transmettre vos coordonnées à un tiers quand vous nous dema
   
 Nos serveurs, qui enregistrent et qui conservent vos coordonnées en lieu sûr, se trouvent dans l'Espace économique européen. Il y a, cependant, un certain nombre de membres du personnel d'AEGEAN Group et de prestataires de service qui se trouvent dans d'autres pays. Si jamais nous transférons vos données personnelles hors de l'EEE, nous garantissons qu'un degré similaire de protection le permet en veillant à ce qu'au moins une des protections suivantes soit appliquée :  
 
-* Nous ne transmettons vos coordonnées qu'aux pays qui sont censés procurer un niveau suffisant de protection pour les données personnelles selon la Commission européenne. Pour plus de détails, cf.[Commission européenne : Validité de la protection des données personnelles dans des pays extra-européens](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).
-* Quand nous utilisons certains prestataires de service, nous pouvons utiliser des contrats spécifiques agréés par la Commission européenne qui donne aux données personnelles la même protection qu'elle a en Europe. Pour plus de détails, cf.[Commission européenne : Contrats modèles pour le transfert de données personnelles à des pays tiers](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en).
+*   Nous ne transmettons vos coordonnées qu'aux pays qui sont censés procurer un niveau suffisant de protection pour les données personnelles selon la Commission européenne. Pour plus de détails, cf.[Commission européenne : Validité de la protection des données personnelles dans des pays extra-européens](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).
+*   Quand nous utilisons certains prestataires de service, nous pouvons utiliser des contrats spécifiques agréés par la Commission européenne qui donne aux données personnelles la même protection qu'elle a en Europe. Pour plus de détails, cf.[Commission européenne : Contrats modèles pour le transfert de données personnelles à des pays tiers](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en).
 
 Veuillez nous contacter si vous souhaitez plus d'informations sur le mécanisme spécifique que nous utilisons lors du transfert de données personnelles en dehors de l'EEE.  
    
