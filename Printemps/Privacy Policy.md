@@ -159,9 +159,6 @@
     
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme)
     
-* TENDANCES
-    * [Pièces de défilés](https://www.printemps.com/fr/fr/defile-femme)
-    * [Tons Chocolat](https://www.printemps.com/fr/fr/chaud-le-marron)
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
     
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
