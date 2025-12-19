@@ -61,11 +61,11 @@ Vous recevrez une notification dans l'application si votre contenu a été suppr
 
 En vertu de la législation européenne, les utilisateur(trice)s ont le droit d'utiliser des œuvres protégées par le droit d'auteur sans l'autorisation du/de la titulaire du droit en question dans le cadre de citations, critiques, avis, caricatures, parodies et pastiches, à condition que cette utilisation soit équitable. Les pays de l'Union européenne peuvent aussi accepter d'autres exceptions. Vous trouverez ci-dessous de plus amples informations sur les exceptions et limitations au droit d'auteur en vigueur dans l'UE :
 
-* **_Citations, critiques et avis_**
+*   **_Citations, critiques et avis_**
 
 Une citation est l'utilisation d'un extrait d'une œuvre protégée par le droit d'auteur à des fins telles que l'illustration d'une affirmation, la défense d'une opinion ou l'engagement dans un débat. Les citations peuvent également être utilisées pour critiquer une œuvre protégée par le droit d'auteur (par exemple, un commentaire critique sur un film) ou pour évaluer celle-ci (par exemple, donner son avis sur un livre ou un album).
 
-* **_Caricatures, parodies et pastiches_**
+*   **_Caricatures, parodies et pastiches_**
 
 Une caricature a pour but d'exagérer ou de déformer la réalité, souvent à des fins humoristiques. Une parodie fait référence à une œuvre existante protégée par le droit d'auteur tout en étant sensiblement différente de celle-ci et devrait constituer une expression d'humour ou de moquerie. Un pastiche incorpore généralement des éléments distinctifs d'autres œuvres ou styles dans une nouvelle œuvre.
 
