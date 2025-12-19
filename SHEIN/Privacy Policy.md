@@ -24,25 +24,25 @@ RÉSUMÉ
 
 Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.  
 
-* [**1\. Comment Nous Traiterons Vos Données Personnelles >**](javascript:;)  
+*   [**1\. Comment Nous Traiterons Vos Données Personnelles >**](javascript:;)  
     
-* [**2\. Partage de vos données personnelles >**](javascript:;)  
+*   [**2\. Partage de vos données personnelles >**](javascript:;)  
     
-* [**3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires >**](javascript:;)  
+*   [**3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires >**](javascript:;)  
     
-* [**4\. Précautions de Sécurité >**](javascript:;)  
+*   [**4\. Précautions de Sécurité >**](javascript:;)  
     
-* [**5\. Vos Droits >**](javascript:;)  
+*   [**5\. Vos Droits >**](javascript:;)  
     
-* [**6\. Conservation >**](javascript:;)  
+*   [**6\. Conservation >**](javascript:;)  
     
-* [**7\. Sites Web de tiers >**](javascript:;)  
+*   [**7\. Sites Web de tiers >**](javascript:;)  
     
-* [**8\. Enfants >**](javascript:;)  
+*   [**8\. Enfants >**](javascript:;)  
     
-* [**9\. Transfert de vos données personnelles >**](javascript:;)  
+*   [**9\. Transfert de vos données personnelles >**](javascript:;)  
     
-* [**10\. Contactez-nous >**](javascript:;)  
+*   [**10\. Contactez-nous >**](javascript:;)  
     
 
   
@@ -59,20 +59,20 @@ Conformément au Règlement général sur la protection des données (**RGPD**) 
 
 | Données personnelles traitées | Objectif | Base légale | Conservation |
 | --- | --- | --- | --- |
-| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
-| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
-| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
-| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
-| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
-| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
-| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | *   Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | *   Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| *   Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>*   Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>*   Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>*   Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | *   Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | *   Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | *   Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | *   Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| *   Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | *   Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>*   Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | *   Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>*   Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | *   Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | *   Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | *   Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | *   Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>*   Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
 
 **Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
 
@@ -120,11 +120,11 @@ Si vous publiez une image d'un tiers, y compris celle de vos enfants, vous devez
 
 Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
 
-* **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
+*   **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
     
-* **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
+*   **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
     
-* **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
+*   **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
     
 
 | Fournisseur/Fournisseur de services/Traiteur | Services offerts |
@@ -138,15 +138,15 @@ Nous pouvons divulguer et partager vos informations personnelles avec les partie
 | Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
 | Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
 
-* Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
+*   Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
     
-* **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
+*   **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
     
-* **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
+*   **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
     
-* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
+*   **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
     
-* **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
+*   **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
     
 
 Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
@@ -183,51 +183,51 @@ Actuellement, il existe cinq types de cookies qui peuvent être générés lorsq
 
 Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-* **A.** _Cookies Strictement Nécessaires_ .  
+*   **A.** _Cookies Strictement Nécessaires_ .  
     
-* Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
+*   Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
     
-* Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
+*   Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
     
-* **B.** _Cookies de Performance_  
+*   **B.** _Cookies de Performance_  
     
-* Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
+*   Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
     
-* Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
+*   Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
     
-* Nous suivons, par exemple :  
+*   Nous suivons, par exemple :  
     
-* * _le nombre de visiteurs sur des pages individuelles；_  
+*   *   _le nombre de visiteurs sur des pages individuelles；_  
         
-    * _quand les pages ont été visitées；_  
+    *   _quand les pages ont été visitées；_  
         
-    * _combien de temps les utilisateurs sont restés sur la page;_  
+    *   _combien de temps les utilisateurs sont restés sur la page;_  
         
-    * _l'adresse IP de l'utilisateur du site web;_  
+    *   _l'adresse IP de l'utilisateur du site web;_  
         
-    * _la page dont ils viennent;_  
+    *   _la page dont ils viennent;_  
         
-    * _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
+    *   _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
         
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
     
-* **C.** _Cookies fonctionnels_ .  
+*   **C.** _Cookies fonctionnels_ .  
     
-* Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
+*   Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
     
-* **D.** _Cookies de ciblage_ .  
+*   **D.** _Cookies de ciblage_ .  
     
-* Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
+*   Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
     
-* **E.** _Cookies de médias sociaux_ .  
+*   **E.** _Cookies de médias sociaux_ .  
     
-* Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
+*   Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
     
 
 **3.4 Suppression des cookies de votre appareil**  
@@ -302,24 +302,24 @@ Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus req
 
 Vous avez le droit de faire limiter le traitement des données;  
 
-* * _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
+*   *   _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
         
-    * _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
+    *   _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
         
-    * _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
+    *   _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
         
-    * _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
+    *   _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
         
 
 **5.6 Droit à la Portabilité des Données**  
 
 Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
 
-* * _Nous a été fourni par vous;_  
+*   *   _Nous a été fourni par vous;_  
         
-    * _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
+    *   _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
         
-    * _Est traité par des moyens automatisés._  
+    *   _Est traité par des moyens automatisés._  
         
 
 Nous fournissons ces données personnelles au format Excel.  
@@ -440,25 +440,25 @@ RÉSUMÉ
 
 Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.  
 
-* [**1\. Comment Nous Traiterons Vos Données Personnelles >**](javascript:;)  
+*   [**1\. Comment Nous Traiterons Vos Données Personnelles >**](javascript:;)  
     
-* [**2\. Partage de vos données personnelles >**](javascript:;)  
+*   [**2\. Partage de vos données personnelles >**](javascript:;)  
     
-* [**3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires >**](javascript:;)  
+*   [**3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires >**](javascript:;)  
     
-* [**4\. Précautions de Sécurité >**](javascript:;)  
+*   [**4\. Précautions de Sécurité >**](javascript:;)  
     
-* [**5\. Vos Droits >**](javascript:;)  
+*   [**5\. Vos Droits >**](javascript:;)  
     
-* [**6\. Conservation >**](javascript:;)  
+*   [**6\. Conservation >**](javascript:;)  
     
-* [**7\. Sites Web de tiers >**](javascript:;)  
+*   [**7\. Sites Web de tiers >**](javascript:;)  
     
-* [**8\. Enfants >**](javascript:;)  
+*   [**8\. Enfants >**](javascript:;)  
     
-* [**9\. Transfert de vos données personnelles >**](javascript:;)  
+*   [**9\. Transfert de vos données personnelles >**](javascript:;)  
     
-* [**10\. Contactez-nous >**](javascript:;)  
+*   [**10\. Contactez-nous >**](javascript:;)  
     
 
   
@@ -475,20 +475,20 @@ Conformément au Règlement général sur la protection des données (**RGPD**) 
 
 | Données personnelles traitées | Objectif | Base légale | Conservation |
 | --- | --- | --- | --- |
-| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
-| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
-| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
-| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
-| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
-| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
-| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | *   Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | *   Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| *   Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>*   Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>*   Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>*   Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | *   Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | *   Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | *   Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | *   Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| *   Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | *   Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>*   Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | *   Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>*   Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | *   Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | *   Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | *   Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | *   Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>*   Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
 
 **Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
 
@@ -536,11 +536,11 @@ Si vous publiez une image d'un tiers, y compris celle de vos enfants, vous devez
 
 Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
 
-* **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
+*   **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
     
-* **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
+*   **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
     
-* **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
+*   **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
     
 
 | Fournisseur/Fournisseur de services/Traiteur | Services offerts |
@@ -554,15 +554,15 @@ Nous pouvons divulguer et partager vos informations personnelles avec les partie
 | Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
 | Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
 
-* Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
+*   Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
     
-* **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
+*   **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
     
-* **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
+*   **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
     
-* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
+*   **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
     
-* **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
+*   **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
     
 
 Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
@@ -599,51 +599,51 @@ Actuellement, il existe cinq types de cookies qui peuvent être générés lorsq
 
 Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-* **A.** _Cookies Strictement Nécessaires_ .  
+*   **A.** _Cookies Strictement Nécessaires_ .  
     
-* Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
+*   Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
     
-* Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
+*   Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
     
-* **B.** _Cookies de Performance_  
+*   **B.** _Cookies de Performance_  
     
-* Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
+*   Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
     
-* Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
+*   Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
     
-* Nous suivons, par exemple :  
+*   Nous suivons, par exemple :  
     
-* * _le nombre de visiteurs sur des pages individuelles；_  
+*   *   _le nombre de visiteurs sur des pages individuelles；_  
         
-    * _quand les pages ont été visitées；_  
+    *   _quand les pages ont été visitées；_  
         
-    * _combien de temps les utilisateurs sont restés sur la page;_  
+    *   _combien de temps les utilisateurs sont restés sur la page;_  
         
-    * _l'adresse IP de l'utilisateur du site web;_  
+    *   _l'adresse IP de l'utilisateur du site web;_  
         
-    * _la page dont ils viennent;_  
+    *   _la page dont ils viennent;_  
         
-    * _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
+    *   _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
         
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
     
-* **C.** _Cookies fonctionnels_ .  
+*   **C.** _Cookies fonctionnels_ .  
     
-* Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
+*   Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
     
-* **D.** _Cookies de ciblage_ .  
+*   **D.** _Cookies de ciblage_ .  
     
-* Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
+*   Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
     
-* **E.** _Cookies de médias sociaux_ .  
+*   **E.** _Cookies de médias sociaux_ .  
     
-* Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
+*   Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
     
 
 **3.4 Suppression des cookies de votre appareil**  
@@ -718,24 +718,24 @@ Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus req
 
 Vous avez le droit de faire limiter le traitement des données;  
 
-* * _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
+*   *   _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
         
-    * _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
+    *   _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
         
-    * _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
+    *   _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
         
-    * _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
+    *   _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
         
 
 **5.6 Droit à la Portabilité des Données**  
 
 Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
 
-* * _Nous a été fourni par vous;_  
+*   *   _Nous a été fourni par vous;_  
         
-    * _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
+    *   _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
         
-    * _Est traité par des moyens automatisés._  
+    *   _Est traité par des moyens automatisés._  
         
 
 Nous fournissons ces données personnelles au format Excel.  
@@ -854,25 +854,25 @@ RÉSUMÉ
 
 Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.  
 
-* [**1\. Comment Nous Traiterons Vos Données Personnelles >**](javascript:;)  
+*   [**1\. Comment Nous Traiterons Vos Données Personnelles >**](javascript:;)  
     
-* [**2\. Partage de vos données personnelles >**](javascript:;)  
+*   [**2\. Partage de vos données personnelles >**](javascript:;)  
     
-* [**3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires >**](javascript:;)  
+*   [**3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires >**](javascript:;)  
     
-* [**4\. Précautions de Sécurité >**](javascript:;)  
+*   [**4\. Précautions de Sécurité >**](javascript:;)  
     
-* [**5\. Vos Droits >**](javascript:;)  
+*   [**5\. Vos Droits >**](javascript:;)  
     
-* [**6\. Conservation >**](javascript:;)  
+*   [**6\. Conservation >**](javascript:;)  
     
-* [**7\. Sites Web de tiers >**](javascript:;)  
+*   [**7\. Sites Web de tiers >**](javascript:;)  
     
-* [**8\. Enfants >**](javascript:;)  
+*   [**8\. Enfants >**](javascript:;)  
     
-* [**9\. Transfert de vos données personnelles >**](javascript:;)  
+*   [**9\. Transfert de vos données personnelles >**](javascript:;)  
     
-* [**10\. Contactez-nous >**](javascript:;)  
+*   [**10\. Contactez-nous >**](javascript:;)  
     
 
   
@@ -889,20 +889,20 @@ Conformément au Règlement général sur la protection des données (**RGPD**) 
 
 | Données personnelles traitées | Objectif | Base légale | Conservation |
 | --- | --- | --- | --- |
-| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
-| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
-| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
-| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
-| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
-| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
-| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | *   Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | *   Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| *   Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>*   Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>*   Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>*   Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | *   Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | *   Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | *   Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | *   Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| *   Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | *   Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>*   Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | *   Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>*   Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | *   Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | *   Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | *   Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | *   Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>*   Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
 
 **Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
 
@@ -950,11 +950,11 @@ Si vous publiez une image d'un tiers, y compris celle de vos enfants, vous devez
 
 Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
 
-* **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
+*   **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
     
-* **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
+*   **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
     
-* **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
+*   **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
     
 
 | Fournisseur/Fournisseur de services/Traiteur | Services offerts |
@@ -968,15 +968,15 @@ Nous pouvons divulguer et partager vos informations personnelles avec les partie
 | Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
 | Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
 
-* Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
+*   Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
     
-* **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
+*   **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
     
-* **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
+*   **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
     
-* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
+*   **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
     
-* **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
+*   **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
     
 
 Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
@@ -1013,51 +1013,51 @@ Actuellement, il existe cinq types de cookies qui peuvent être générés lorsq
 
 Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-* **A.** _Cookies Strictement Nécessaires_ .  
+*   **A.** _Cookies Strictement Nécessaires_ .  
     
-* Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
+*   Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
     
-* Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
+*   Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
     
-* **B.** _Cookies de Performance_  
+*   **B.** _Cookies de Performance_  
     
-* Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
+*   Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
     
-* Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
+*   Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
     
-* Nous suivons, par exemple :  
+*   Nous suivons, par exemple :  
     
-* * _le nombre de visiteurs sur des pages individuelles；_  
+*   *   _le nombre de visiteurs sur des pages individuelles；_  
         
-    * _quand les pages ont été visitées；_  
+    *   _quand les pages ont été visitées；_  
         
-    * _combien de temps les utilisateurs sont restés sur la page;_  
+    *   _combien de temps les utilisateurs sont restés sur la page;_  
         
-    * _l'adresse IP de l'utilisateur du site web;_  
+    *   _l'adresse IP de l'utilisateur du site web;_  
         
-    * _la page dont ils viennent;_  
+    *   _la page dont ils viennent;_  
         
-    * _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
+    *   _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
         
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
     
-* **C.** _Cookies fonctionnels_ .  
+*   **C.** _Cookies fonctionnels_ .  
     
-* Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
+*   Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
     
-* **D.** _Cookies de ciblage_ .  
+*   **D.** _Cookies de ciblage_ .  
     
-* Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
+*   Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
     
-* **E.** _Cookies de médias sociaux_ .  
+*   **E.** _Cookies de médias sociaux_ .  
     
-* Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
+*   Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
     
 
 **3.4 Suppression des cookies de votre appareil**  
@@ -1132,24 +1132,24 @@ Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus req
 
 Vous avez le droit de faire limiter le traitement des données;  
 
-* * _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
+*   *   _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
         
-    * _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
+    *   _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
         
-    * _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
+    *   _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
         
-    * _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
+    *   _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
         
 
 **5.6 Droit à la Portabilité des Données**  
 
 Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
 
-* * _Nous a été fourni par vous;_  
+*   *   _Nous a été fourni par vous;_  
         
-    * _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
+    *   _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
         
-    * _Est traité par des moyens automatisés._  
+    *   _Est traité par des moyens automatisés._  
         
 
 Nous fournissons ces données personnelles au format Excel.  
@@ -1266,25 +1266,25 @@ RÉSUMÉ
 
 Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.  
 
-* [**1\. Comment Nous Traiterons Vos Données Personnelles >**](javascript:;)  
+*   [**1\. Comment Nous Traiterons Vos Données Personnelles >**](javascript:;)  
     
-* [**2\. Partage de vos données personnelles >**](javascript:;)  
+*   [**2\. Partage de vos données personnelles >**](javascript:;)  
     
-* [**3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires >**](javascript:;)  
+*   [**3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires >**](javascript:;)  
     
-* [**4\. Précautions de Sécurité >**](javascript:;)  
+*   [**4\. Précautions de Sécurité >**](javascript:;)  
     
-* [**5\. Vos Droits >**](javascript:;)  
+*   [**5\. Vos Droits >**](javascript:;)  
     
-* [**6\. Conservation >**](javascript:;)  
+*   [**6\. Conservation >**](javascript:;)  
     
-* [**7\. Sites Web de tiers >**](javascript:;)  
+*   [**7\. Sites Web de tiers >**](javascript:;)  
     
-* [**8\. Enfants >**](javascript:;)  
+*   [**8\. Enfants >**](javascript:;)  
     
-* [**9\. Transfert de vos données personnelles >**](javascript:;)  
+*   [**9\. Transfert de vos données personnelles >**](javascript:;)  
     
-* [**10\. Contactez-nous >**](javascript:;)  
+*   [**10\. Contactez-nous >**](javascript:;)  
     
 
   
@@ -1313,25 +1313,25 @@ RÉSUMÉ
 
 Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.  
 
-* [**1\. Comment Nous Traiterons Vos Données Personnelles >**](javascript:;)  
+*   [**1\. Comment Nous Traiterons Vos Données Personnelles >**](javascript:;)  
     
-* [**2\. Partage de vos données personnelles >**](javascript:;)  
+*   [**2\. Partage de vos données personnelles >**](javascript:;)  
     
-* [**3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires >**](javascript:;)  
+*   [**3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires >**](javascript:;)  
     
-* [**4\. Précautions de Sécurité >**](javascript:;)  
+*   [**4\. Précautions de Sécurité >**](javascript:;)  
     
-* [**5\. Vos Droits >**](javascript:;)  
+*   [**5\. Vos Droits >**](javascript:;)  
     
-* [**6\. Conservation >**](javascript:;)  
+*   [**6\. Conservation >**](javascript:;)  
     
-* [**7\. Sites Web de tiers >**](javascript:;)  
+*   [**7\. Sites Web de tiers >**](javascript:;)  
     
-* [**8\. Enfants >**](javascript:;)  
+*   [**8\. Enfants >**](javascript:;)  
     
-* [**9\. Transfert de vos données personnelles >**](javascript:;)  
+*   [**9\. Transfert de vos données personnelles >**](javascript:;)  
     
-* [**10\. Contactez-nous >**](javascript:;)  
+*   [**10\. Contactez-nous >**](javascript:;)  
     
 
 **Note sur la traduction:** Cette traduction est fournie à titre d'information uniquement. Le texte officiel de cet avis de confidentialité est la version anglaise, disponible ici. Toute divergence ou différence créées dans la traduction ne sont pas contraignantes et n'ont aucun effet légal pour des fins de conformité ou d'exécution.  
@@ -1372,20 +1372,20 @@ Conformément au Règlement général sur la protection des données (**RGPD**) 
 
 | Données personnelles traitées | Objectif | Base légale | Conservation |
 | --- | --- | --- | --- |
-| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
-| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
-| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
-| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
-| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
-| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
-| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | *   Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | *   Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| *   Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>*   Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>*   Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>*   Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | *   Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | *   Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | *   Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | *   Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| *   Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | *   Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>*   Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | *   Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>*   Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | *   Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | *   Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | *   Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | *   Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>*   Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
 
 **Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
 
@@ -1439,20 +1439,20 @@ Conformément au Règlement général sur la protection des données (**RGPD**) 
 
 | Données personnelles traitées | Objectif | Base légale | Conservation |
 | --- | --- | --- | --- |
-| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
-| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
-| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
-| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
-| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
-| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
-| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | *   Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | *   Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| *   Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>*   Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>*   Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>*   Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | *   Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | *   Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | *   Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | *   Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| *   Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | *   Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>*   Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | *   Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>*   Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | *   Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | *   Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | *   Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | *   Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>*   Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
 
 **Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
 
@@ -1506,20 +1506,20 @@ Conformément au Règlement général sur la protection des données (**RGPD**) 
 
 | Données personnelles traitées | Objectif | Base légale | Conservation |
 | --- | --- | --- | --- |
-| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
-| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
-| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
-| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
-| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
-| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
-| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | *   Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | *   Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| *   Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>*   Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>*   Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>*   Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | *   Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | *   Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | *   Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | *   Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| *   Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | *   Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>*   Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | *   Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>*   Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | *   Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | *   Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | *   Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | *   Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>*   Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
 
 **Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
 
@@ -1575,20 +1575,20 @@ Conformément au Règlement général sur la protection des données (**RGPD**) 
 
 | Données personnelles traitées | Objectif | Base légale | Conservation |
 | --- | --- | --- | --- |
-| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
-| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
-| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
-| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
-| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
-| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
-| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | *   Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | *   Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| *   Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>*   Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>*   Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>*   Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | *   Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | *   Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | *   Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | *   Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| *   Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | *   Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>*   Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | *   Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>*   Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | *   Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | *   Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | *   Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | *   Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>*   Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
 
 **Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
 
@@ -1638,20 +1638,20 @@ Conformément au Règlement général sur la protection des données (**RGPD**) 
 
 | Données personnelles traitées | Objectif | Base légale | Conservation |
 | --- | --- | --- | --- |
-| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
-| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
-| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
-| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
-| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
-| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
-| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | *   Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | *   Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| *   Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>*   Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>*   Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>*   Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | *   Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | *   Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | *   Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | *   Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| *   Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | *   Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>*   Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | *   Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>*   Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | *   Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | *   Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | *   Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | *   Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>*   Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
 
 **Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
 
@@ -1701,20 +1701,20 @@ Conformément au Règlement général sur la protection des données (**RGPD**) 
 
 | Données personnelles traitées | Objectif | Base légale | Conservation |
 | --- | --- | --- | --- |
-| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
-| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
-| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
-| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
-| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
-| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
-| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
-| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
-| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | *   Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | *   Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| *   Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>*   Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>*   Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>*   Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | *   Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | *   Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | *   Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | *   Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| *   Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | *   Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>*   Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | *   Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>*   Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | *   Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | *   Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | *   Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | *   Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>*   Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
 
 **Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
 
@@ -1762,11 +1762,11 @@ Si vous publiez une image d'un tiers, y compris celle de vos enfants, vous devez
 
 Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
 
-* **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
+*   **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
     
-* **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
+*   **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
     
-* **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
+*   **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
     
 
 | Fournisseur/Fournisseur de services/Traiteur | Services offerts |
@@ -1780,15 +1780,15 @@ Nous pouvons divulguer et partager vos informations personnelles avec les partie
 | Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
 | Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
 
-* Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
+*   Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
     
-* **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
+*   **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
     
-* **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
+*   **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
     
-* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
+*   **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
     
-* **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
+*   **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
     
 
 Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
@@ -1799,11 +1799,11 @@ Veuillez noter que nous pouvons divulguer, sans restriction, des informations ag
 
 Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
 
-* **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
+*   **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
     
-* **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
+*   **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
     
-* **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
+*   **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
     
 
 | Fournisseur/Fournisseur de services/Traiteur | Services offerts |
@@ -1817,15 +1817,15 @@ Nous pouvons divulguer et partager vos informations personnelles avec les partie
 | Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
 | Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
 
-* Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
+*   Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
     
-* **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
+*   **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
     
-* **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
+*   **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
     
-* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
+*   **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
     
-* **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
+*   **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
     
 
 Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
@@ -1836,11 +1836,11 @@ Veuillez noter que nous pouvons divulguer, sans restriction, des informations ag
 
 Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
 
-* **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
+*   **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
     
-* **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
+*   **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
     
-* **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
+*   **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
     
 
 | Fournisseur/Fournisseur de services/Traiteur | Services offerts |
@@ -1854,15 +1854,15 @@ Nous pouvons divulguer et partager vos informations personnelles avec les partie
 | Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
 | Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
 
-* Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
+*   Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
     
-* **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
+*   **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
     
-* **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
+*   **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
     
-* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
+*   **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
     
-* **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
+*   **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
     
 
 Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
@@ -1875,11 +1875,11 @@ Veuillez noter que nous pouvons divulguer, sans restriction, des informations ag
 
 Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
 
-* **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
+*   **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
     
-* **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
+*   **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
     
-* **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
+*   **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
     
 
 | Fournisseur/Fournisseur de services/Traiteur | Services offerts |
@@ -1893,26 +1893,26 @@ Nous pouvons divulguer et partager vos informations personnelles avec les partie
 | Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
 | Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
 
-* Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
+*   Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
     
-* **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
+*   **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
     
-* **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
+*   **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
     
-* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
+*   **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
     
-* **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
+*   **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
     
 
 Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
 
 Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
 
-* **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
+*   **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
     
-* **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
+*   **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
     
-* **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
+*   **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
     
 
 | Fournisseur/Fournisseur de services/Traiteur | Services offerts |
@@ -1926,15 +1926,15 @@ Nous pouvons divulguer et partager vos informations personnelles avec les partie
 | Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
 | Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
 
-* Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
+*   Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
     
-* **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
+*   **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
     
-* **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
+*   **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
     
-* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
+*   **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
     
-* **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
+*   **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
     
 
 Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
@@ -1988,51 +1988,51 @@ Actuellement, il existe cinq types de cookies qui peuvent être générés lorsq
 
 Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-* **A.** _Cookies Strictement Nécessaires_ .  
+*   **A.** _Cookies Strictement Nécessaires_ .  
     
-* Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
+*   Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
     
-* Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
+*   Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
     
-* **B.** _Cookies de Performance_  
+*   **B.** _Cookies de Performance_  
     
-* Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
+*   Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
     
-* Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
+*   Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
     
-* Nous suivons, par exemple :  
+*   Nous suivons, par exemple :  
     
-* * _le nombre de visiteurs sur des pages individuelles；_  
+*   *   _le nombre de visiteurs sur des pages individuelles；_  
         
-    * _quand les pages ont été visitées；_  
+    *   _quand les pages ont été visitées；_  
         
-    * _combien de temps les utilisateurs sont restés sur la page;_  
+    *   _combien de temps les utilisateurs sont restés sur la page;_  
         
-    * _l'adresse IP de l'utilisateur du site web;_  
+    *   _l'adresse IP de l'utilisateur du site web;_  
         
-    * _la page dont ils viennent;_  
+    *   _la page dont ils viennent;_  
         
-    * _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
+    *   _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
         
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
     
-* **C.** _Cookies fonctionnels_ .  
+*   **C.** _Cookies fonctionnels_ .  
     
-* Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
+*   Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
     
-* **D.** _Cookies de ciblage_ .  
+*   **D.** _Cookies de ciblage_ .  
     
-* Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
+*   Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
     
-* **E.** _Cookies de médias sociaux_ .  
+*   **E.** _Cookies de médias sociaux_ .  
     
-* Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
+*   Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
     
 
 **3.4 Suppression des cookies de votre appareil**  
@@ -2105,51 +2105,51 @@ Actuellement, il existe cinq types de cookies qui peuvent être générés lorsq
 
 Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-* **A.** _Cookies Strictement Nécessaires_ .  
+*   **A.** _Cookies Strictement Nécessaires_ .  
     
-* Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
+*   Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
     
-* Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
+*   Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
     
-* **B.** _Cookies de Performance_  
+*   **B.** _Cookies de Performance_  
     
-* Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
+*   Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
     
-* Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
+*   Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
     
-* Nous suivons, par exemple :  
+*   Nous suivons, par exemple :  
     
-* * _le nombre de visiteurs sur des pages individuelles；_  
+*   *   _le nombre de visiteurs sur des pages individuelles；_  
         
-    * _quand les pages ont été visitées；_  
+    *   _quand les pages ont été visitées；_  
         
-    * _combien de temps les utilisateurs sont restés sur la page;_  
+    *   _combien de temps les utilisateurs sont restés sur la page;_  
         
-    * _l'adresse IP de l'utilisateur du site web;_  
+    *   _l'adresse IP de l'utilisateur du site web;_  
         
-    * _la page dont ils viennent;_  
+    *   _la page dont ils viennent;_  
         
-    * _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
+    *   _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
         
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
     
-* **C.** _Cookies fonctionnels_ .  
+*   **C.** _Cookies fonctionnels_ .  
     
-* Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
+*   Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
     
-* **D.** _Cookies de ciblage_ .  
+*   **D.** _Cookies de ciblage_ .  
     
-* Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
+*   Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
     
-* **E.** _Cookies de médias sociaux_ .  
+*   **E.** _Cookies de médias sociaux_ .  
     
-* Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
+*   Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
     
 
 **3.4 Suppression des cookies de votre appareil**  
@@ -2222,51 +2222,51 @@ Actuellement, il existe cinq types de cookies qui peuvent être générés lorsq
 
 Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-* **A.** _Cookies Strictement Nécessaires_ .  
+*   **A.** _Cookies Strictement Nécessaires_ .  
     
-* Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
+*   Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
     
-* Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
+*   Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
     
-* **B.** _Cookies de Performance_  
+*   **B.** _Cookies de Performance_  
     
-* Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
+*   Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
     
-* Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
+*   Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
     
-* Nous suivons, par exemple :  
+*   Nous suivons, par exemple :  
     
-* * _le nombre de visiteurs sur des pages individuelles；_  
+*   *   _le nombre de visiteurs sur des pages individuelles；_  
         
-    * _quand les pages ont été visitées；_  
+    *   _quand les pages ont été visitées；_  
         
-    * _combien de temps les utilisateurs sont restés sur la page;_  
+    *   _combien de temps les utilisateurs sont restés sur la page;_  
         
-    * _l'adresse IP de l'utilisateur du site web;_  
+    *   _l'adresse IP de l'utilisateur du site web;_  
         
-    * _la page dont ils viennent;_  
+    *   _la page dont ils viennent;_  
         
-    * _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
+    *   _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
         
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
     
-* **C.** _Cookies fonctionnels_ .  
+*   **C.** _Cookies fonctionnels_ .  
     
-* Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
+*   Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
     
-* **D.** _Cookies de ciblage_ .  
+*   **D.** _Cookies de ciblage_ .  
     
-* Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
+*   Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
     
-* **E.** _Cookies de médias sociaux_ .  
+*   **E.** _Cookies de médias sociaux_ .  
     
-* Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
+*   Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
     
 
 **3.4 Suppression des cookies de votre appareil**  
@@ -2341,51 +2341,51 @@ Actuellement, il existe cinq types de cookies qui peuvent être générés lorsq
 
 Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-* **A.** _Cookies Strictement Nécessaires_ .  
+*   **A.** _Cookies Strictement Nécessaires_ .  
     
-* Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
+*   Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
     
-* Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
+*   Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
     
-* **B.** _Cookies de Performance_  
+*   **B.** _Cookies de Performance_  
     
-* Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
+*   Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
     
-* Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
+*   Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
     
-* Nous suivons, par exemple :  
+*   Nous suivons, par exemple :  
     
-* * _le nombre de visiteurs sur des pages individuelles；_  
+*   *   _le nombre de visiteurs sur des pages individuelles；_  
         
-    * _quand les pages ont été visitées；_  
+    *   _quand les pages ont été visitées；_  
         
-    * _combien de temps les utilisateurs sont restés sur la page;_  
+    *   _combien de temps les utilisateurs sont restés sur la page;_  
         
-    * _l'adresse IP de l'utilisateur du site web;_  
+    *   _l'adresse IP de l'utilisateur du site web;_  
         
-    * _la page dont ils viennent;_  
+    *   _la page dont ils viennent;_  
         
-    * _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
+    *   _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
         
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
     
-* **C.** _Cookies fonctionnels_ .  
+*   **C.** _Cookies fonctionnels_ .  
     
-* Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
+*   Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
     
-* **D.** _Cookies de ciblage_ .  
+*   **D.** _Cookies de ciblage_ .  
     
-* Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
+*   Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
     
-* **E.** _Cookies de médias sociaux_ .  
+*   **E.** _Cookies de médias sociaux_ .  
     
-* Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
+*   Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
     
 
 **3.4 Suppression des cookies de votre appareil**  
@@ -2454,51 +2454,51 @@ Actuellement, il existe cinq types de cookies qui peuvent être générés lorsq
 
 Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-* **A.** _Cookies Strictement Nécessaires_ .  
+*   **A.** _Cookies Strictement Nécessaires_ .  
     
-* Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
+*   Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
     
-* Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
+*   Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
     
-* **B.** _Cookies de Performance_  
+*   **B.** _Cookies de Performance_  
     
-* Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
+*   Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
     
-* Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
+*   Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
     
-* Nous suivons, par exemple :  
+*   Nous suivons, par exemple :  
     
-* * _le nombre de visiteurs sur des pages individuelles；_  
+*   *   _le nombre de visiteurs sur des pages individuelles；_  
         
-    * _quand les pages ont été visitées；_  
+    *   _quand les pages ont été visitées；_  
         
-    * _combien de temps les utilisateurs sont restés sur la page;_  
+    *   _combien de temps les utilisateurs sont restés sur la page;_  
         
-    * _l'adresse IP de l'utilisateur du site web;_  
+    *   _l'adresse IP de l'utilisateur du site web;_  
         
-    * _la page dont ils viennent;_  
+    *   _la page dont ils viennent;_  
         
-    * _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
+    *   _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
         
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
     
-* **C.** _Cookies fonctionnels_ .  
+*   **C.** _Cookies fonctionnels_ .  
     
-* Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
+*   Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
     
-* **D.** _Cookies de ciblage_ .  
+*   **D.** _Cookies de ciblage_ .  
     
-* Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
+*   Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
     
-* **E.** _Cookies de médias sociaux_ .  
+*   **E.** _Cookies de médias sociaux_ .  
     
-* Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
+*   Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
     
-* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
+*   Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
     
 
 **3.4 Suppression des cookies de votre appareil**  
@@ -2673,24 +2673,24 @@ Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus req
 
 Vous avez le droit de faire limiter le traitement des données;  
 
-* * _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
+*   *   _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
         
-    * _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
+    *   _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
         
-    * _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
+    *   _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
         
-    * _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
+    *   _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
         
 
 **5.6 Droit à la Portabilité des Données**  
 
 Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
 
-* * _Nous a été fourni par vous;_  
+*   *   _Nous a été fourni par vous;_  
         
-    * _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
+    *   _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
         
-    * _Est traité par des moyens automatisés._  
+    *   _Est traité par des moyens automatisés._  
         
 
 Nous fournissons ces données personnelles au format Excel.  
@@ -2747,24 +2747,24 @@ Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus req
 
 Vous avez le droit de faire limiter le traitement des données;  
 
-* * _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
+*   *   _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
         
-    * _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
+    *   _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
         
-    * _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
+    *   _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
         
-    * _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
+    *   _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
         
 
 **5.6 Droit à la Portabilité des Données**  
 
 Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
 
-* * _Nous a été fourni par vous;_  
+*   *   _Nous a été fourni par vous;_  
         
-    * _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
+    *   _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
         
-    * _Est traité par des moyens automatisés._  
+    *   _Est traité par des moyens automatisés._  
         
 
 Nous fournissons ces données personnelles au format Excel.  
@@ -2821,24 +2821,24 @@ Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus req
 
 Vous avez le droit de faire limiter le traitement des données;  
 
-* * _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
+*   *   _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
         
-    * _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
+    *   _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
         
-    * _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
+    *   _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
         
-    * _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
+    *   _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
         
 
 **5.6 Droit à la Portabilité des Données**  
 
 Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
 
-* * _Nous a été fourni par vous;_  
+*   *   _Nous a été fourni par vous;_  
         
-    * _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
+    *   _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
         
-    * _Est traité par des moyens automatisés._  
+    *   _Est traité par des moyens automatisés._  
         
 
 Nous fournissons ces données personnelles au format Excel.  
@@ -2897,24 +2897,24 @@ Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus req
 
 Vous avez le droit de faire limiter le traitement des données;  
 
-* * _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
+*   *   _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
         
-    * _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
+    *   _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
         
-    * _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
+    *   _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
         
-    * _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
+    *   _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
         
 
 **5.6 Droit à la Portabilité des Données**  
 
 Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
 
-* * _Nous a été fourni par vous;_  
+*   *   _Nous a été fourni par vous;_  
         
-    * _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
+    *   _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
         
-    * _Est traité par des moyens automatisés._  
+    *   _Est traité par des moyens automatisés._  
         
 
 Nous fournissons ces données personnelles au format Excel.  
@@ -2967,24 +2967,24 @@ Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus req
 
 Vous avez le droit de faire limiter le traitement des données;  
 
-* * _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
+*   *   _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
         
-    * _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
+    *   _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
         
-    * _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
+    *   _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
         
-    * _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
+    *   _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
         
 
 **5.6 Droit à la Portabilité des Données**  
 
 Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
 
-* * _Nous a été fourni par vous;_  
+*   *   _Nous a été fourni par vous;_  
         
-    * _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
+    *   _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
         
-    * _Est traité par des moyens automatisés._  
+    *   _Est traité par des moyens automatisés._  
         
 
 Nous fournissons ces données personnelles au format Excel.  
