@@ -107,8 +107,8 @@ Une fois que votre service d'abonnement offert aura été établi, Twitch inform
 
 Les Produits et services connexes susceptibles d'être proposés par Twitch, en promotion ou à l'achat, peuvent inclure des Bits (« Bits »), qui constituent du contenu numérique (_en l'occurrence_, des émoticônes animées) permettant aux utilisateurs de célébrer certains événements ou de remercier des diffuseurs spécifiques à l'aide de la fonctionnalité de cheering (« Cheering ») sur les services Twitch. Les utilisateurs peuvent également utiliser des Bits dans des extensions (telles que définies ci-dessous) pour obtenir ou utiliser d'autres articles ou améliorations numériques. Les Produits et services connexes peuvent également inclure :
 
-* Certaines récompenses ou certains avantages obtenus avec des Bits (« Récompenses »).
-* Des jetons (« Jetons »), qui sont une licence numérique échangeable sur les Services Twitch contre des Services d'abonnement ou des Services d'abonnement offerts. Vous pouvez obtenir une licence et une utilisation limitées des Jetons en achetant des Produits et services connexes.
+*   Certaines récompenses ou certains avantages obtenus avec des Bits (« Récompenses »).
+*   Des jetons (« Jetons »), qui sont une licence numérique échangeable sur les Services Twitch contre des Services d'abonnement ou des Services d'abonnement offerts. Vous pouvez obtenir une licence et une utilisation limitées des Jetons en achetant des Produits et services connexes.
 
 Les bits, les récompenses et les jetons sont collectivement appelés « contenus numériques ». Votre utilisation du Contenu numérique est soumise aux [Conditions d'utilisation](https://www.twitch.tv/p/legal/terms-of-service) de Twitch, y compris les [Conditions d'utilisation des Bits](https://www.twitch.tv/p/legal/bits-acceptable-use/).
 
