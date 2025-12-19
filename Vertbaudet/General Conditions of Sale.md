@@ -15,23 +15,23 @@ Vous pouvez nous contacter :
 
 La société Vertbaudet exploite, sous la marque et l'enseigne Vertbaudet, une activité de ventes d'articles essentiellement destinés au marché du bébé et de l'enfant, de la future maman, de la puériculture, ainsi que de la décoration et d'aménagement de la chambre d'enfants.
 
-* [1. L'offre](#offre)
-* [2. Les prix](#prix)
-* [3. La commande](#commande)
-* [4. Le paiement](#paiement)
-* [5. La livraison](#livraison)
+*   [1. L'offre](#offre)
+*   [2. Les prix](#prix)
+*   [3. La commande](#commande)
+*   [4. Le paiement](#paiement)
+*   [5. La livraison](#livraison)
 
-* [6. Remboursement – Retour (Droit de rétraction)](#retractation-echange)
-* [7. Spécificités à l'égard des articles personnalisés](#specificites-articles-personnalises)
-* [8. Garanties](#garanties)
-* [9. Les pièces détachées](#pieces-detachees)
-* [10. Environnement](#environnement)
+*   [6. Remboursement – Retour (Droit de rétraction)](#retractation-echange)
+*   [7. Spécificités à l'égard des articles personnalisés](#specificites-articles-personnalises)
+*   [8. Garanties](#garanties)
+*   [9. Les pièces détachées](#pieces-detachees)
+*   [10. Environnement](#environnement)
 
-* [11. Données nominatives](#donnees-nominatives)
-* [12. Propriété intellectuelle](#propriete-intellectuelle)
-* [13. Intégralité](#integralite)
-* [14. Responsabilité](#responsabilite)
-* [15. Règlement des litiges](#reglement-litiges)
+*   [11. Données nominatives](#donnees-nominatives)
+*   [12. Propriété intellectuelle](#propriete-intellectuelle)
+*   [13. Intégralité](#integralite)
+*   [14. Responsabilité](#responsabilite)
+*   [15. Règlement des litiges](#reglement-litiges)
 
 Préambule
 ---------
@@ -145,7 +145,7 @@ Pour les Produits livrés non montés, le montage reste à la charge du Client. 
 
 La livraison des Produits pourra s'effectuer :
 
-* **En magasin Vertbaudet :**
+*   **En magasin Vertbaudet :**
 
 Vous pouvez choisir de vous faire livrer gratuitement votre commande dans un de nos magasins Vertbaudet, situés en France Métropolitaine.  
 Toutefois, le service ne sera pas proposé dès lors qu’une commande comporte un ou des Produits volumineux ou des Produits signalés par un ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) ou par un ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png).  
@@ -153,17 +153,17 @@ Enfin un magasin peut se réserver le droit de suspendre ce service momentanéme
 Vous serez informé par email dès que le colis sera disponible dans la boutique. Vous disposerez alors de 10 jours pour le retirer.  
 A noter qu'il vous faudra obligatoirement présenter une pièce d'identité lors du retrait.
 
-* **En Points Relais® :**
+*   **En Points Relais® :**
 
 Pour en bénéficier, il vous suffit de commander sur le Site. Une liste de Points Relais® vous sera alors proposée. Pour connaître votre Point Relais® le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Le colis reste à disposition pendant sept (7) jours. Passé ce délai, il sera retourné à vertbaudet.  
 Offre valable hors articles signalés par un ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) et certains Produits signalés par un ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)
 
-* **En livraison à domicile : livré chez vous ou à une autre adresse: sous réserve de disponibilité du service**
+*   **En livraison à domicile : livré chez vous ou à une autre adresse: sous réserve de disponibilité du service**
 
 Valable pour tout type de Produits.  
 Vous voulez être livré(e) chez un(e) ami(e), un(e) voisin(e), sur votre lieu de vacances ? Rien de plus facile… il suffit de le préciser lors de votre commande : Vertbaudet livre votre colis à l'adresse de votre choix (en France métropolitaine et en Corse).
 
-* **La Livraison à une adresse avec « emballage cadeau »**
+*   **La Livraison à une adresse avec « emballage cadeau »**
 
 Vous souhaitez livrer un cadeau emballé à l’adresse de votre choix (en France métropolitaine et en Corse), choisissez cette option pour 2€ lors de votre commande passée **par Internet sur** [www.vertbaudet.fr](https://www.vertbaudet.fr/) en indiquant l'adresse du destinataire. La facture sera quant à elle envoyée à votre domicile. Service valable uniquement pour certains Produits.
 
@@ -226,8 +226,8 @@ Tous les Produits achetés sur le site [www.vertbaudet.fr](https://www.vertbaude
 
 Par exemple, selon l’article L221-28 du Code de la consommation, le droit de rétractation ne peut pas être exercé pour les catégories suivantes d’articles :
 
-* Biens confectionnés selon les spécifications du consommateur ou nettement personnalisés ;
-* Biens qui ont été descellés par le consommateur après la livraison et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé….
+*   Biens confectionnés selon les spécifications du consommateur ou nettement personnalisés ;
+*   Biens qui ont été descellés par le consommateur après la livraison et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé….
 
 Vous disposez de 15 jours à compter de la réception du dernier colis de votre commande pour nous notifier votre souhait de rétractation en nous retournant par courrier libre ou [par email](https://www.vertbaudet.fr/page/contactez_nous.htm) le formulaire de rétractation [joint](https://securemedia.vertbaudet.fr/Pdf/3-0-0/FORMULAIRE_DE_RETRACTATION.pdf). Vous disposez de 15 jours supplémentaires à compter de l'envoi de la notification de retour, pour nous retourner un Produit de votre commande, selon les disposions prévues au paragraphe 6.2 Retours.
 
@@ -252,13 +252,13 @@ Pour retourner un Produit, il vous suffit de vous connecter à votre compte clie
 
 Vous pouvez retourner le Produit :
 
-* Soit directement à l'adresse suivante : Vertbaudet – Service Retour 59981 Tourcoing Cedex (frais postaux de retour à votre charge) ;
+*   Soit directement à l'adresse suivante : Vertbaudet – Service Retour 59981 Tourcoing Cedex (frais postaux de retour à votre charge) ;
     
-* Soit en déposant gratuitement le Produit directement dans un Point Relais. Pour connaître votre Point Relais le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Pour un retour en point relais, l’étiquette de retour doit impérativement être apposée sur le colis lors de la remise au point relais.
+*   Soit en déposant gratuitement le Produit directement dans un Point Relais. Pour connaître votre Point Relais le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Pour un retour en point relais, l’étiquette de retour doit impérativement être apposée sur le colis lors de la remise au point relais.
     
     **Non valable pour les autres Produits signalés par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) ou par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)**  .
     
-* Soit en déposant gratuitement le Produit directement dans un magasin Vertbaudet. Pour connaître votre magasin Vertbaudet le plus proche, [cliquez ici](https://magasin.vertbaudet.fr/?intcmpid=footer_trouver_magasin) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe).
+*   Soit en déposant gratuitement le Produit directement dans un magasin Vertbaudet. Pour connaître votre magasin Vertbaudet le plus proche, [cliquez ici](https://magasin.vertbaudet.fr/?intcmpid=footer_trouver_magasin) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe).
     
     **Service valable uniquement pour les petits Produits qui ont été livrés en magasin, et expressément exclu pour les Produits signalés par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) ou par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)**  .
     
@@ -269,19 +269,19 @@ En cas de retour exercé conformément au présent article, Vertbaudet s'engage 
 
 Les preuves d'envoi acceptées, sont :
 
-* Le coupon de dépôt, en Point Relais® ;
+*   Le coupon de dépôt, en Point Relais® ;
     
-* Les récépissés, tamponnés et datés de la Poste, de dépôts de colis suivis.
+*   Les récépissés, tamponnés et datés de la Poste, de dépôts de colis suivis.
 
 Si la commande de Produits a été réglée :
 
-* Par PayPal, et que le compte PayPal est toujours actif, le remboursement de vos retours sera effectué sur ce compte PayPal.
+*   Par PayPal, et que le compte PayPal est toujours actif, le remboursement de vos retours sera effectué sur ce compte PayPal.
     
-* Comptant par carte bancaire, votre remboursement se fera directement par crédit sur le compte bancaire attaché à cette carte. En cas d’échec de la méthode de remboursement, vous serez contacté(e) par notre service Relation Clients afin de procéder à un remboursement sécurisé via notre partenaire Paytweak
+*   Comptant par carte bancaire, votre remboursement se fera directement par crédit sur le compte bancaire attaché à cette carte. En cas d’échec de la méthode de remboursement, vous serez contacté(e) par notre service Relation Clients afin de procéder à un remboursement sécurisé via notre partenaire Paytweak
     
-* En 3 fois par carte bancaire : le montant des mensualités restantes sera modifié, ou les mensualités restantes seront annulées
+*   En 3 fois par carte bancaire : le montant des mensualités restantes sera modifié, ou les mensualités restantes seront annulées
     
-* Par Carte cadeau Vertbaudet : le remboursement sera effectué par carte cadeau ou, le cas échéant, selon le mode de paiement complémentaire.
+*   Par Carte cadeau Vertbaudet : le remboursement sera effectué par carte cadeau ou, le cas échéant, selon le mode de paiement complémentaire.
     
 
 Si vous souhaitez remplacer l’article, il vous suffit de repasser commande conformément à l’article 3 cidessus. Pour bénéficier de la livraison gratuite, il est nécessaire de passer votre nouvelle commande dans le délai de 48h à compter de la déclaration de retour de l’article dans votre compte client rubrique « Mes retours »
@@ -315,11 +315,11 @@ Si malgré nos précautions, un de vos Produits arrivait abîmé ou si une pièc
 
 Lorsque vous agissez en garantie légale de conformité, vous :
 
-* bénéficiez d'un délai de deux ans à compter de la délivrance du Produit pour agir ;
+*   bénéficiez d'un délai de deux ans à compter de la délivrance du Produit pour agir ;
     
-* pouvez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l'article L.217-9 du code de la consommation ;
+*   pouvez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l'article L.217-9 du code de la consommation ;
     
-* êtes dispensé de rapporter la preuve de l'existence du défaut de conformité du Produit durant les 24 mois suivant la délivrance du Produit.
+*   êtes dispensé de rapporter la preuve de l'existence du défaut de conformité du Produit durant les 24 mois suivant la délivrance du Produit.
     
 
 Si le bien est réparé dans le cadre de la garantie légale de conformité, le consommateur bénéficie d’une extension de six mois de la garantie initiale.
