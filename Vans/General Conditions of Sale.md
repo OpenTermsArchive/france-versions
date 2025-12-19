@@ -60,10 +60,10 @@ Le courriel de confirmation d'expédition contiendra une copie non modifiable de
 Lorsque les commandes ne sont pas acceptées  
 Bien que nous nous efforcions de toujours accepter les Commandes, nous pouvons toutefois être amenés à les refuser dans certains cas, par exemple, si :
 
-1. les informations que vous nous avez fournies concernant votre identité, votre âge, les coordonnées de paiement, la facturation, l'adresse de livraison, sont incomplètes, incorrectes ou frauduleuses ;
-2. nous avons découvert la présence d'une erreur sur notre Site au sujet des Produits que vous avez commandés, par exemple, concernant le prix ou la description affiché(e) ;
-3. les Produits que vous avez commandés sont malheureusement épuisés ou ne sont plus disponibles ;
-4. Nous avons de bonnes raisons de croire que vous avez l'intention de revendre les Produits.
+1.  les informations que vous nous avez fournies concernant votre identité, votre âge, les coordonnées de paiement, la facturation, l'adresse de livraison, sont incomplètes, incorrectes ou frauduleuses ;
+2.  nous avons découvert la présence d'une erreur sur notre Site au sujet des Produits que vous avez commandés, par exemple, concernant le prix ou la description affiché(e) ;
+3.  les Produits que vous avez commandés sont malheureusement épuisés ou ne sont plus disponibles ;
+4.  Nous avons de bonnes raisons de croire que vous avez l'intention de revendre les Produits.
 
 Si nous ne pouvons pas accepter votre Commande, nous vous contacterons par courriel dans les plus brefs délais et dans tous les cas de figure, au plus tard dans un délai de 30 jours à compter de la date de votre Commande. Si nous ne pouvons pas accepter votre Commande en raison de l'indisponibilité des Produits, ou parce qu'une erreur s'est produite au niveau du prix et/ou d'autres informations sur notre Site, nous vous rembourserons la somme que vous avez déjà déboursée pour lesdits Produits.
 
@@ -138,20 +138,20 @@ Si le solde de votre carte-cadeau est insuffisant, un autre mode de paiement peu
 Les articles retournés qui ont été achetés avec une carte-cadeau seront remboursés sur la carte-cadeau d’origine. Pour les articles retournés qui ont été achetés à l'aide d'une carte-cadeau et par un autre mode de paiement, seront remboursés, dans les deux cas, avec leur valeur correspondante.  
 Les cartes-cadeaux ne peuvent être échangées/retournées contre de l'argent comptant ou contre tout autre mode de paiement, en tout ou en partie, ni remboursées en cas de perte, de vol ou de dommage. Les cartes-cadeaux ne peuvent être utilisées pour acheter une autre carte-cadeau.
 
-* [Contactez-Nous](https://www.vans.fr/aide/contactez-nous.html)
-* [Cookie Policy](https://www.vans.fr/aide/cookie-policy.html)
-* [Livraison](https://www.vans.fr/aide/livraison.html)
-* [FAQ](https://www.vans.fr/aide/faq.html)
-* [Paiements](https://www.vans.fr/aide/paiements.html)
-* [Politique de Confidentialité](https://www.vans.fr/aide/politique-de-confidentialite.html)
-* [Retours](#)
-    * [Politique de retour](https://www.vans.fr/aide/retours/politique-de-retour.html)
-    * [Comment faire un retour](https://www.vans.fr/aide/retours/comment-faire-un-retour.html)
-    * [Remboursements](https://www.vans.fr/aide/retours/remboursements.html)
-    * [Retour FAQs](https://www.vans.fr/aide/retours/retour-faq.html)
-* [Size Chart](https://www.vans.fr/aide/size-charts.html)
-* [Conditions de Vente](https://www.vans.fr/aide/conditions-de-vente.html)
-* [Conditions d'utilisation du site web](https://www.vans.fr/aide/conditions-d-utilisation-du-site-web.html)
+*   [Contactez-Nous](https://www.vans.fr/aide/contactez-nous.html)
+*   [Cookie Policy](https://www.vans.fr/aide/cookie-policy.html)
+*   [Livraison](https://www.vans.fr/aide/livraison.html)
+*   [FAQ](https://www.vans.fr/aide/faq.html)
+*   [Paiements](https://www.vans.fr/aide/paiements.html)
+*   [Politique de Confidentialité](https://www.vans.fr/aide/politique-de-confidentialite.html)
+*   [Retours](#)
+    *   [Politique de retour](https://www.vans.fr/aide/retours/politique-de-retour.html)
+    *   [Comment faire un retour](https://www.vans.fr/aide/retours/comment-faire-un-retour.html)
+    *   [Remboursements](https://www.vans.fr/aide/retours/remboursements.html)
+    *   [Retour FAQs](https://www.vans.fr/aide/retours/retour-faq.html)
+*   [Size Chart](https://www.vans.fr/aide/size-charts.html)
+*   [Conditions de Vente](https://www.vans.fr/aide/conditions-de-vente.html)
+*   [Conditions d'utilisation du site web](https://www.vans.fr/aide/conditions-d-utilisation-du-site-web.html)
 
 CONDITIONS DE VENTE
 ===================
@@ -213,10 +213,10 @@ Le courriel de confirmation d'expédition contiendra une copie non modifiable de
 Lorsque les commandes ne sont pas acceptées  
 Bien que nous nous efforcions de toujours accepter les Commandes, nous pouvons toutefois être amenés à les refuser dans certains cas, par exemple, si :
 
-1. les informations que vous nous avez fournies concernant votre identité, votre âge, les coordonnées de paiement, la facturation, l'adresse de livraison, sont incomplètes, incorrectes ou frauduleuses ;
-2. nous avons découvert la présence d'une erreur sur notre Site au sujet des Produits que vous avez commandés, par exemple, concernant le prix ou la description affiché(e) ;
-3. les Produits que vous avez commandés sont malheureusement épuisés ou ne sont plus disponibles ;
-4. Nous avons de bonnes raisons de croire que vous avez l'intention de revendre les Produits.
+1.  les informations que vous nous avez fournies concernant votre identité, votre âge, les coordonnées de paiement, la facturation, l'adresse de livraison, sont incomplètes, incorrectes ou frauduleuses ;
+2.  nous avons découvert la présence d'une erreur sur notre Site au sujet des Produits que vous avez commandés, par exemple, concernant le prix ou la description affiché(e) ;
+3.  les Produits que vous avez commandés sont malheureusement épuisés ou ne sont plus disponibles ;
+4.  Nous avons de bonnes raisons de croire que vous avez l'intention de revendre les Produits.
 
 Si nous ne pouvons pas accepter votre Commande, nous vous contacterons par courriel dans les plus brefs délais et dans tous les cas de figure, au plus tard dans un délai de 30 jours à compter de la date de votre Commande. Si nous ne pouvons pas accepter votre Commande en raison de l'indisponibilité des Produits, ou parce qu'une erreur s'est produite au niveau du prix et/ou d'autres informations sur notre Site, nous vous rembourserons la somme que vous avez déjà déboursée pour lesdits Produits.
 
