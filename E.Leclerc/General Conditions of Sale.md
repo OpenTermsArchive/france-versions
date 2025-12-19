@@ -35,12 +35,12 @@ Centre E.Leclerc : tout hypermarché, supermarché et/ou magasin spécialisé ph
 
 LCOMMERCE a élaboré trois parcours de vente différents sur le Site pour les Clients, à savoir : 
 
-* Les offres de produits de LCOMMERCE identifiées par la mention "Vendu par E.Leclerc" ou "Vendu par E.Leclerc Parapharmacie" (ci-après dénommées "Offre LCOMMERCE") ; offres pour lesquelles LCOMMERCE a le statut d'éditeur ;
+*   Les offres de produits de LCOMMERCE identifiées par la mention "Vendu par E.Leclerc" ou "Vendu par E.Leclerc Parapharmacie" (ci-après dénommées "Offre LCOMMERCE") ; offres pour lesquelles LCOMMERCE a le statut d'éditeur ;
     
 
-* Les offres de produits des Centres E.Leclerc proposant des produits à la vente via le service "Click&Collect", identifiées par la mention "Vendu par E.Leclerc \[+ identification du Centre E.Leclerc concerné\]" (ci-après dénommé "Offres Click&Collect") ; offres pour lesquelles LCOMMERCE a le statut d'hébergeur ;
+*   Les offres de produits des Centres E.Leclerc proposant des produits à la vente via le service "Click&Collect", identifiées par la mention "Vendu par E.Leclerc \[+ identification du Centre E.Leclerc concerné\]" (ci-après dénommé "Offres Click&Collect") ; offres pour lesquelles LCOMMERCE a le statut d'hébergeur ;
     
-* Toute Offre de produit Marketplace proposée par des Vendeurs Tiers professionnels, identifiée par la mention "Vendu par \[Nom du Vendeur" (ci-après dénommée "Offre Marketplace") ; offres pour lesquelles LCOMMERCE a le statut d'hébergeur. 
+*   Toute Offre de produit Marketplace proposée par des Vendeurs Tiers professionnels, identifiée par la mention "Vendu par \[Nom du Vendeur" (ci-après dénommée "Offre Marketplace") ; offres pour lesquelles LCOMMERCE a le statut d'hébergeur. 
     
 
 La fiche produit mentionne l'auteur de l'Offre qui peut être soit LCOMMERCE, soit un Centre E.Leclerc, soit un Vendeur Tiers. 
@@ -183,7 +183,7 @@ Le transfert des risques sera réalisé lorsque le Client sera en possession des
 
 Le règlement des Commandes s'effectue uniquement en euros et au choix du Client : 
 
-* par carte bancaire 
+*   par carte bancaire 
     
 
 Conformément au code de déontologie du e-commerce et de la vente à distance de la FEVAD, le montant correspondant à l'intégralité du montant TTC de la Commande et des frais de livraison est débité au moment de l'expédition des produits .
@@ -244,9 +244,9 @@ Fonctionnement : 
 
 Le paiement en 3 ou 4 fois par carte bancaire permet au Client de régler la Commande effectuée sur le Site de la façon suivante :
 
-* un apport obligatoire, débité́ le jour de la confirmation de l’expédition de la Commande correspondant à̀ un tiers ou à̀ un quart de la Commande,
+*   un apport obligatoire, débité́ le jour de la confirmation de l’expédition de la Commande correspondant à̀ un tiers ou à̀ un quart de la Commande,
     
-* deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la Commande, prélevées à 30 et 60 jours après pour le paiement en 3 fois et à 30, 60 et 90 jours après pour le paiement en 4 fois, lesquelles comprennent le cas échéant des frais correspondants à 1,64% du montant total de la Commande pour un paiement en 3 fois ou à 2,46 % pour un paiement en 4 fois (dans la limite de 25€ maximum pour un paiement en 3 fois et de 50€ maximum pour un paiement en 4 fois).
+*   deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la Commande, prélevées à 30 et 60 jours après pour le paiement en 3 fois et à 30, 60 et 90 jours après pour le paiement en 4 fois, lesquelles comprennent le cas échéant des frais correspondants à 1,64% du montant total de la Commande pour un paiement en 3 fois ou à 2,46 % pour un paiement en 4 fois (dans la limite de 25€ maximum pour un paiement en 3 fois et de 50€ maximum pour un paiement en 4 fois).
     
 
 Exemple de paiement en 3 fois : 
@@ -305,9 +305,9 @@ b. Dans le cadre d'une livraison remise avec signature, le Client recevra une no
 
 Le Client  pourra planifier : 
 
-* Une nouvelle livraison à la date de son choix (dans un délai de 6 jours maximum),
+*   Une nouvelle livraison à la date de son choix (dans un délai de 6 jours maximum),
     
-* Un dépôt de son colis dans un bureau de poste ou point de retrait de son choix. Dans ce cas, un e-mail lui sera envoyé pour l'informer de la mise à disposition du colis en bureau de poste et un e-mail de relance lui sera envoyé au bout de 6 jours calendaires en cas de non retrait.
+*   Un dépôt de son colis dans un bureau de poste ou point de retrait de son choix. Dans ce cas, un e-mail lui sera envoyé pour l'informer de la mise à disposition du colis en bureau de poste et un e-mail de relance lui sera envoyé au bout de 6 jours calendaires en cas de non retrait.
     
 
 La reprogrammation de la livraison peut être réalisée en se connectant sur la page “Modification de livraison” accessible sur le site internet www.laposte.fr ou sur l’application Colissimo.
@@ -328,13 +328,13 @@ Le jour de la prise en charge du colis par le transporteur, un e-mail est envoy�
 
 A cette fin le Client pourra se connecter sur le site internet de Chronopost, jusqu’à 23H59 le jour de l’expédition de la Commande pour effectuer les modifications suivantes :
 
-* Un complément d’adresse et/ou des modalités d’accès à son domicile (digicode, étage, etc.)
+*   Un complément d’adresse et/ou des modalités d’accès à son domicile (digicode, étage, etc.)
     
-* Une modification de la date de livraison (dans les 6 jours à venir)
+*   Une modification de la date de livraison (dans les 6 jours à venir)
     
-* Un choix de dépôt de son colis en point relais
+*   Un choix de dépôt de son colis en point relais
     
-* Une demande de livraison chez un tiers (voisin ou gardien), il lui sera alors demandé de renseigner les noms et coordonnées de la personne à qui il confie son colis.
+*   Une demande de livraison chez un tiers (voisin ou gardien), il lui sera alors demandé de renseigner les noms et coordonnées de la personne à qui il confie son colis.
     
 
 Le jour de la livraison, le Client recevra un e-mail et un SMS annonçant un créneau horaire de 2h pour la livraison.
@@ -366,13 +366,13 @@ _Ce service est assuré par VIR by Jacky Perrenot._ 
 
 Lorsque le Client réalise une commande d’un ou de produits dits volumineux (par exemple : une télévision > 43", du gros électroménager, etc.), quatre services lui sont proposés : 
 
-* Livraison Economique (LC) au pied de l’immeuble : les produits volumineux de la commande sont livrés par le transporteur au pied du bâtiment pour un immeuble ou au portail pour une maison. L’acheminement jusqu’à la pièce d’utilisation, le déballage du colis et le traitement des emballages sont à la charge du Client. 
+*   Livraison Economique (LC) au pied de l’immeuble : les produits volumineux de la commande sont livrés par le transporteur au pied du bâtiment pour un immeuble ou au portail pour une maison. L’acheminement jusqu’à la pièce d’utilisation, le déballage du colis et le traitement des emballages sont à la charge du Client. 
     
-* Livraison Standard (LS) dans la pièce d’utilisation : les produits volumineux de la commande sont livrées par le transporteur et acheminées par ce dernier dans la pièce d’utilisation, y compris à l’étage. Le déballage, la reprise des emballages et la mise en service sont à la charge du Client.
+*   Livraison Standard (LS) dans la pièce d’utilisation : les produits volumineux de la commande sont livrées par le transporteur et acheminées par ce dernier dans la pièce d’utilisation, y compris à l’étage. Le déballage, la reprise des emballages et la mise en service sont à la charge du Client.
     
-* Livraison Déballage (LD) dans la pièce d’utilisation : les Commandes sont livrées par le transporteur et acheminées par ce dernier dans la pièce d’utilisation, y compris à l’étage. Le déballage et la reprise des emballages sont compris dans la prestation. Cependant, la mise en service de l’appareil est à la charge du Client.
+*   Livraison Déballage (LD) dans la pièce d’utilisation : les Commandes sont livrées par le transporteur et acheminées par ce dernier dans la pièce d’utilisation, y compris à l’étage. Le déballage et la reprise des emballages sont compris dans la prestation. Cependant, la mise en service de l’appareil est à la charge du Client.
     
-* Livraison Mise en service (LE), dans la pièce d’utilisation : Les Commandes sont livrées par le transporteur et acheminées par ce dernier dans la pièce d’utilisation, y compris à l’étage. Le déballage, la reprise des emballages, ainsi que le montage de l’appareil sont compris dans la prestation. 
+*   Livraison Mise en service (LE), dans la pièce d’utilisation : Les Commandes sont livrées par le transporteur et acheminées par ce dernier dans la pièce d’utilisation, y compris à l’étage. Le déballage, la reprise des emballages, ainsi que le montage de l’appareil sont compris dans la prestation. 
     
 
 **11.2 Les modalités de livraison** 
@@ -393,9 +393,9 @@ En cas de retard de livraison, la Commande n'est pas annulée.
 
 En l'absence de livraison à la date prévue, ou à défaut, plus de trente (30) jours après la conclusion de la Commande, le Client peut exiger de LCOMMERCE de lui livrer le bien ou d'exécuter la prestation dans un délai supplémentaire raisonnable. Le Client peut le faire :
 
-* soit par lettre recommandée avec demande d'avis de réception,
+*   soit par lettre recommandée avec demande d'avis de réception,
     
-* soit par écrit sur un autre support durable (mail par exemple).
+*   soit par écrit sur un autre support durable (mail par exemple).
     
 
 Si malgré tout la livraison ou l'exécution n'a pas lieu, le Client peut annuler la Commande de la même manière (c'est-à-dire par lettre recommandée avec demande d'avis de réception, ou par écrit sur un support durable).
@@ -498,41 +498,41 @@ Le retour d'un produit porteur d'un Ticket E.Leclerc entraînera le remboursemen
 
 Conformément à la réglementation en vigueur, le droit de rétractation ne peut être exercé pour : 
 
-* la fourniture de services pleinement exécutés avant la fin du délai de rétractation et, si le contrat soumet le Client à une obligation de payer, dont l'exécution a commencé après accord préalable exprès du Client et renoncement exprès à son droit de rétractation lorsque la prestation aura été pleinement exécutée par le professionnel,
+*   la fourniture de services pleinement exécutés avant la fin du délai de rétractation et, si le contrat soumet le Client à une obligation de payer, dont l'exécution a commencé après accord préalable exprès du Client et renoncement exprès à son droit de rétractation lorsque la prestation aura été pleinement exécutée par le professionnel,
     
-* la fourniture de biens ou de services dont le prix dépend de fluctuations sur le marché financier et susceptibles de se produire pendant le délai de rétractation,
+*   la fourniture de biens ou de services dont le prix dépend de fluctuations sur le marché financier et susceptibles de se produire pendant le délai de rétractation,
     
-* les biens confectionnés selon les spécifications du client ou personnalisés,
+*   les biens confectionnés selon les spécifications du client ou personnalisés,
     
-* la fourniture de biens susceptibles de se détériorer ou de se périmer rapidement,
+*   la fourniture de biens susceptibles de se détériorer ou de se périmer rapidement,
     
-* les biens descellés par le Client et ne pouvant être renvoyés pour des raisons d’hygiène, de protection de la santé ou de dépréciation du produit ;
+*   les biens descellés par le Client et ne pouvant être renvoyés pour des raisons d’hygiène, de protection de la santé ou de dépréciation du produit ;
     
-* la fourniture de biens qui, après avoir été livrés et de par leur nature, sont mélangés de manière indissociable avec d'autres articles ;
+*   la fourniture de biens qui, après avoir été livrés et de par leur nature, sont mélangés de manière indissociable avec d'autres articles ;
     
-* la fourniture de boissons alcoolisées dont la livraison est différée au-delà de trente jours et dont la valeur convenue à la conclusion du contrat dépend de fluctuations sur le marché échappant au contrôle du professionnel ;
+*   la fourniture de boissons alcoolisées dont la livraison est différée au-delà de trente jours et dont la valeur convenue à la conclusion du contrat dépend de fluctuations sur le marché échappant au contrôle du professionnel ;
     
-* la fourniture d'enregistrements audio ou vidéo, les jeux vidéo physiques ou les logiciels informatiques descellés par le Client ; 
+*   la fourniture d'enregistrements audio ou vidéo, les jeux vidéo physiques ou les logiciels informatiques descellés par le Client ; 
     
-* la fourniture de coffrets cadeaux descellés par le Client (pour plus d'information, voir site de l'éditeur du coffret) et de cartes cadeaux numériques (pour plus d’informations, vérifier les conditions particulières de ces cartes) ,
+*   la fourniture de coffrets cadeaux descellés par le Client (pour plus d'information, voir site de l'éditeur du coffret) et de cartes cadeaux numériques (pour plus d’informations, vérifier les conditions particulières de ces cartes) ,
     
-* la fourniture d'un journal, d'un périodique ou d'un magazine, sauf pour les contrats d'abonnement à ces publications,
+*   la fourniture d'un journal, d'un périodique ou d'un magazine, sauf pour les contrats d'abonnement à ces publications,
     
-* la fourniture d'un contenu numérique non fourni sur un support matériel dont l'exécution a commencé avant la fin du délai de rétractation et, si le contrat soumet le consommateur à une obligation de payer, lorsque : 
+*   la fourniture d'un contenu numérique non fourni sur un support matériel dont l'exécution a commencé avant la fin du délai de rétractation et, si le contrat soumet le consommateur à une obligation de payer, lorsque : 
     
-    * le Client a donné préalablement son consentement exprès pour que l'exécution du contrat commence avant l'expiration du délai de rétractation ;
+    *   le Client a donné préalablement son consentement exprès pour que l'exécution du contrat commence avant l'expiration du délai de rétractation ;
         
-    * et
-        
-
-* * le Client a reconnu qu'il perdra son droit de rétractation ;
-        
-    * et
+    *   et
         
 
-* * le professionnel a fourni une confirmation de l'accord du Client.
+*   *   le Client a reconnu qu'il perdra son droit de rétractation ;
         
-* les produit dangereux au sens de la réglementation de type inflammable ou explosif pour des raisons de sécurité (par exemple les recharges de gaz) ; 
+    *   et
+        
+
+*   *   le professionnel a fourni une confirmation de l'accord du Client.
+        
+*   les produit dangereux au sens de la réglementation de type inflammable ou explosif pour des raisons de sécurité (par exemple les recharges de gaz) ; 
     
 
 **ARTICLE 15. PROPRIETE INTELLECTUELLE** 
@@ -577,15 +577,15 @@ Le Client est invité à utiliser son produit conformément aux conditions d'uti
 
 Conformément à l'article L541-10-8 du Code de l'environnement, LCOMMERCE reprend gratuitement, ou fait reprendre gratuitement pour son compte, les produits usagés que lui cède le Client, dans la limite de la quantité et du type d'équipement vendu par LCOMMERCE pour les filières REP suivantes : 
 
-* Les équipements électriques et électroniques (EEE) pour tout achat d'un EEE sur le Site auprès de LCOMMERCE ;
+*   Les équipements électriques et électroniques (EEE) pour tout achat d'un EEE sur le Site auprès de LCOMMERCE ;
     
-* Les éléments d'ameublements pour tout achat d'un élément d'ameublement sur le Site auprès de LCOMMERCE ;
+*   Les éléments d'ameublements pour tout achat d'un élément d'ameublement sur le Site auprès de LCOMMERCE ;
     
-* Les jouets pour tout achat d'un jouet sur le Site auprès de LCOMMERCE ; 
+*   Les jouets pour tout achat d'un jouet sur le Site auprès de LCOMMERCE ; 
     
-* Les articles de sports et loisirs pour tout achat de ce type de produits sur le Site auprès de LCOMMERCE ;
+*   Les articles de sports et loisirs pour tout achat de ce type de produits sur le Site auprès de LCOMMERCE ;
     
-* Les articles de bricolage et de jardin pour tout achat de ce type de produits sur le Site auprès de LCOMMERCE.
+*   Les articles de bricolage et de jardin pour tout achat de ce type de produits sur le Site auprès de LCOMMERCE.
     
 
 Pour une livraison à domicile et dans le cas des produits volumineux, si le Client souhaite faire reprendre un produit usagé, il devra le préciser au transporteur lors de la prise de rendez-vous par téléphone.
@@ -594,11 +594,11 @@ Pour tout achat d'un produit non volumineux, le Client pourra déposer les produ
 
 Il est également possible pour le Client d'opter pour les différents systèmes de collecte de proximité existants tels que : 
 
-* les collectes et déchetteries municipales, 
+*   les collectes et déchetteries municipales, 
     
-* les acteurs de l'économie sociale (Emmaüs, Envie, Les ateliers du Bocage, ressourceries et recycleries, etc.),
+*   les acteurs de l'économie sociale (Emmaüs, Envie, Les ateliers du Bocage, ressourceries et recycleries, etc.),
     
-* les points de collecte proches du domicile des Clients ([https://www.ecosystem.eco/fr/recherche-point-de-collecte](https://www.ecosystem.eco/fr/recherche-point-de-collecte)).
+*   les points de collecte proches du domicile des Clients ([https://www.ecosystem.eco/fr/recherche-point-de-collecte](https://www.ecosystem.eco/fr/recherche-point-de-collecte)).
     
 
 Les déchets de produits usagés ne doivent pas être jetés avec les déchets municipaux non triés.
@@ -711,26 +711,26 @@ Le consommateur bénéficie également de la garantie légale des vices cachés 
 
 **19.2**. Pour être conforme à la Commande, le produit doit répondre aux critères suivants :
 
-* être propre à l'usage habituellement attendu d'un bien de même type, 
+*   être propre à l'usage habituellement attendu d'un bien de même type, 
     
-* correspondre à la quantité, à la qualité et aux autres caractéristiques, y compris en termes de durabilité, de fonctionnalité, de compatibilité et de sécurité, que le Client peut légitimement attendre pour des biens de même type,
+*   correspondre à la quantité, à la qualité et aux autres caractéristiques, y compris en termes de durabilité, de fonctionnalité, de compatibilité et de sécurité, que le Client peut légitimement attendre pour des biens de même type,
     
-* le cas échéant, doit posséder les qualités que LCOMMERCE ou le Vendeurs Tiers a présentées aux Clients sous forme d'échantillon ou de modèle, 
+*   le cas échéant, doit posséder les qualités que LCOMMERCE ou le Vendeurs Tiers a présentées aux Clients sous forme d'échantillon ou de modèle, 
     
-* le cas échéant, les éléments numériques qu'il comporte sont fournis selon la version la plus récente qui est disponible au moment de la conclusion du contrat, sauf s'il en est convenu autrement, 
+*   le cas échéant, les éléments numériques qu'il comporte sont fournis selon la version la plus récente qui est disponible au moment de la conclusion du contrat, sauf s'il en est convenu autrement, 
     
-* le cas échéant, il est délivré avec tous les accessoires et les instructions d'installation que le Client peut légitimement attendre,
+*   le cas échéant, il est délivré avec tous les accessoires et les instructions d'installation que le Client peut légitimement attendre,
     
-* le cas échéant, il est fourni avec les mises à jour que le Client peut légitimement attendre, conformément aux dispositions de l'article L. 217-19 du code de la consommation.
+*   le cas échéant, il est fourni avec les mises à jour que le Client peut légitimement attendre, conformément aux dispositions de l'article L. 217-19 du code de la consommation.
     
 
 Par ailleurs, le Client a le droit de suspendre le paiement de tout ou partie du prix prévu au contrat jusqu'à ce que LCOMMERCE ou le Vendeur Tiers ait satisfait à ses obligations.
 
 Toutefois, LCOMMERCE ou le Vendeur Tiers concerné peut ne pas procéder selon le choix opéré par le Client si la mise en conformité sollicitée est impossible ou entraîne des coûts disproportionnés au regard notamment :
 
-1. de la valeur qu'aurait le produit en l'absence de défaut de conformité ;
-2. de l'importance du défaut de conformité ; et
-3. de la possibilité éventuelle d'opter pour l'autre choix sans inconvénient majeur pour le Client.
+1.  de la valeur qu'aurait le produit en l'absence de défaut de conformité ;
+2.  de l'importance du défaut de conformité ; et
+3.  de la possibilité éventuelle d'opter pour l'autre choix sans inconvénient majeur pour le Client.
 
 Tout refus par LCOMMERCE ou le Vendeur Tiers de procéder selon le choix du Client ou de mettre le bien en conformité, est motivé par écrit ou sur support durable.
 
@@ -782,11 +782,11 @@ Dans l’hypothèse où le Vendeur Tiers et son Client ne parviendraient pas à 
 
 En cas de réclamation, le Client pourra utiliser les différents modes de contact suivants :
 
-* Par son compte client dans la rubrique "Mon compte/Mes Commandes/Retour ou réclamation".
+*   Par son compte client dans la rubrique "Mon compte/Mes Commandes/Retour ou réclamation".
     
-* Par la page magasin dans la rubrique “Contacter le magasin / Remonter un problème” 
+*   Par la page magasin dans la rubrique “Contacter le magasin / Remonter un problème” 
     
-* Par le numéro de téléphone précisé sur la page du Magasin.
+*   Par le numéro de téléphone précisé sur la page du Magasin.
     
 
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Le Magasin adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – [http://www.mediateurfevad.fr](http://www.mediateurfevad.fr/). Après démarche préalable écrite des consommateurs vis-à-vis du Magasin, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/).
@@ -801,5 +801,5 @@ Tout litige, quelle qu’en soit la nature, peut être soumis à la juridiction 
 
 Historique des Conditions générales de vente : 
 
-* [(Ancienne Version) - CGV 21 10 2025](https://media.e.leclerc/LEN/document/2025%2010%2021%20-%20CGV%20Lcommerce.docx?vh=5793e5&func=proxy)
-* [(Ancienne version) - CGV 25 05 2023](https://media.e.leclerc/LEN/document/2023%2005%2025%20-%20CGV%20Lcommerce?vh=5169e1&func=proxy)
+*   [(Ancienne Version) - CGV 21 10 2025](https://media.e.leclerc/LEN/document/2025%2010%2021%20-%20CGV%20Lcommerce.docx?vh=5793e5&func=proxy)
+*   [(Ancienne version) - CGV 25 05 2023](https://media.e.leclerc/LEN/document/2023%2005%2025%20-%20CGV%20Lcommerce?vh=5169e1&func=proxy)
