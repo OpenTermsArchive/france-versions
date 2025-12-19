@@ -35,22 +35,22 @@ Air Caraïbes est susceptible de collecter des Données Personnelles par différ
 
 Les informations et Données Personnelles suivantes peuvent être collectées :
 
-* Votre état civil (civilité, nom, prénom, date et lieu de naissance) ;
-* Vos coordonnées (adresse postale, adresse mail, numéro(s) de téléphone) ;
-* Votre adresse de livraison et/ou de facturation, le cas échéant ;
-* Votre profession ;
-* Vos moyens de paiement (numéro de carte bancaire si ce moyen de paiement est utilisé) ;
-* Votre numéro de passeport et votre nationalité ; 
-* Vos données de santé ;
-* Votre voix ;
-* L’historique de vos réservations et vos achats avec Air Caraïbes ;
-* Vos préférences de voyage (repas, réservation de siège, assistance médicale…)
-* Vos préférences de communication ;
-* Les pages de notre site que vous avez visitées ainsi que le type de navigateur que vous utilisez ;
-* Vos raccourcis sur le site www.aircaraibes.com ;
-* Votre adresse IP ;
-* Votre géolocalisation ;
-* L’historique et le contenu de vos correspondances avec Air Caraïbes par quelque support que ce soit.
+*   Votre état civil (civilité, nom, prénom, date et lieu de naissance) ;
+*   Vos coordonnées (adresse postale, adresse mail, numéro(s) de téléphone) ;
+*   Votre adresse de livraison et/ou de facturation, le cas échéant ;
+*   Votre profession ;
+*   Vos moyens de paiement (numéro de carte bancaire si ce moyen de paiement est utilisé) ;
+*   Votre numéro de passeport et votre nationalité ; 
+*   Vos données de santé ;
+*   Votre voix ;
+*   L’historique de vos réservations et vos achats avec Air Caraïbes ;
+*   Vos préférences de voyage (repas, réservation de siège, assistance médicale…)
+*   Vos préférences de communication ;
+*   Les pages de notre site que vous avez visitées ainsi que le type de navigateur que vous utilisez ;
+*   Vos raccourcis sur le site www.aircaraibes.com ;
+*   Votre adresse IP ;
+*   Votre géolocalisation ;
+*   L’historique et le contenu de vos correspondances avec Air Caraïbes par quelque support que ce soit.
 
 Air Caraïbes peut traiter les Données Personnelles relatives à votre famille et à vos proches. 
 
@@ -83,11 +83,11 @@ Afin de vous garantir une parfaite transparence s’agissant des finalités, bas
 
 Dans le cadre des finalités mentionnées ci-dessus, vos Données Personnelles pourront être transmises aux destinataires suivants :
 
-* Nos salariés et représentants légaux ;
-* Notre société-mère, Groupe Dubreuil et les filiales du Groupe Dubreuil Aero et leurs salariés ;
-* Nos prestataires de service et sous-traitants (call centers, nos prestataires des points de vente, notre service relation clientèle, nos assureurs, les fournisseurs de cartes bancaires…) ;
-* Nos partenaires (agences de voyages accrédités, compagnies aériennes tierces) ;
-* Les autorités nationales et internationales. 
+*   Nos salariés et représentants légaux ;
+*   Notre société-mère, Groupe Dubreuil et les filiales du Groupe Dubreuil Aero et leurs salariés ;
+*   Nos prestataires de service et sous-traitants (call centers, nos prestataires des points de vente, notre service relation clientèle, nos assureurs, les fournisseurs de cartes bancaires…) ;
+*   Nos partenaires (agences de voyages accrédités, compagnies aériennes tierces) ;
+*   Les autorités nationales et internationales. 
 
 Conformément à la législation applicable en matière de protection des données personnelles, nous assurons que ces destinataires appliquent une politique de protection des données personnelles.
 
@@ -104,14 +104,14 @@ Nous transmettons uniquement à ces tiers les Données dont ils ont besoin pour 
 
 Conformément au droit applicable en matière de protection des données personnelles et notamment au RGPD, vous pouvez, à tout moment, exercer les droits suivants :
 
-* Le droit d’accès ;
-* Le droit de rectification ;
-* Le droit à l’effacement ;
-* Le droit à la limitation du traitement de vos Données à caractère personnel ;
-* Le droit d’opposition ;
-* Le droit à la portabilité ;
-* Le droit de retrait concernant votre consentement concernant la collecte de vos Données à caractère personnel ;
-* Le droit d’introduire une réclamation auprès d’une autorité de contrôle concernant la collecte et le traitement de vos Données à caractère personnel.
+*   Le droit d’accès ;
+*   Le droit de rectification ;
+*   Le droit à l’effacement ;
+*   Le droit à la limitation du traitement de vos Données à caractère personnel ;
+*   Le droit d’opposition ;
+*   Le droit à la portabilité ;
+*   Le droit de retrait concernant votre consentement concernant la collecte de vos Données à caractère personnel ;
+*   Le droit d’introduire une réclamation auprès d’une autorité de contrôle concernant la collecte et le traitement de vos Données à caractère personnel.
 
 Vous avez également le droit de définir des directives relatives au sort de vos Données à caractère personnel post mortem.
 
@@ -143,10 +143,10 @@ Vos Données Personnelles peuvent être transférées vers un pays situé hors d
 
 Dans ce cas, Air Caraïbes s’engage à prendre toutes les garanties nécessaires pour protéger vos Données Personnelles et avoir l’assurance de traitements conformes au RGPD :
 
-* Soit en transférant les Données à un destinataire situé dans un pays ayant fait l’objet d’une décision d’adéquation de la Commission européenne certifiant qu’il dispose d’un niveau de protection équivalent à celui offert par le Règlement ;
-* Soit en exécutant ou faisant exécuter les Clauses Contractuelles Types européennes qui ont été approuvées par la Commission européenne comme assurant un niveau de protection adéquat de vos Données Personnelles ;
-* Soit par le recours à des règles internes d’entreprise contraignantes validées par les autorités de protection des données compétentes ;
-* Soit en recourant à toutes garanties appropriées visées à l’article 46 du Règlement.
+*   Soit en transférant les Données à un destinataire situé dans un pays ayant fait l’objet d’une décision d’adéquation de la Commission européenne certifiant qu’il dispose d’un niveau de protection équivalent à celui offert par le Règlement ;
+*   Soit en exécutant ou faisant exécuter les Clauses Contractuelles Types européennes qui ont été approuvées par la Commission européenne comme assurant un niveau de protection adéquat de vos Données Personnelles ;
+*   Soit par le recours à des règles internes d’entreprise contraignantes validées par les autorités de protection des données compétentes ;
+*   Soit en recourant à toutes garanties appropriées visées à l’article 46 du Règlement.
 
 8\. Sécurité des Données Personnelles
 -------------------------------------
