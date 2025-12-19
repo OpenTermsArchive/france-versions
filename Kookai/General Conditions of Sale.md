@@ -148,7 +148,7 @@ Pour les livraisons en France métropolitaine, KOOKAÏ propose :
 
 **Livraison à domicile** **:**
 
-* **Colissimo :**
+*   **Colissimo :**
 
 Le délai moyen de réception d’un colis Colissimo est de 3 à 5 jours ouvrés (hors dimanche et jours fériés).
 
@@ -202,9 +202,9 @@ Le Produit doit être retourné dans son emballage d’origine, en parfait état
 
 Pour effectuer un retour, le Client doit :
 
-1. Compléter le bon de retour présent dans son colis en y indiquant le/les Produit(s) qu’il souhaite retourner
-2. Insérer ce bon de retour dans son colis de retour, ainsi que le(s) Produit(s) à retourner
-3. Retourner le colis de retour par voie postale grâce à l'étiquette prépayée fournie lors de la demande de retour via le [portail de retour](https://kookai.fr/pages/echanges-et-retours).
+1.  Compléter le bon de retour présent dans son colis en y indiquant le/les Produit(s) qu’il souhaite retourner
+2.  Insérer ce bon de retour dans son colis de retour, ainsi que le(s) Produit(s) à retourner
+3.  Retourner le colis de retour par voie postale grâce à l'étiquette prépayée fournie lors de la demande de retour via le [portail de retour](https://kookai.fr/pages/echanges-et-retours).
 
 Le Client devra retourner le Produit dans les quatorze (14) jours (pour la livraison en France suivant sa réception. En cas de non-respect par le Client de ce délai de restitution de quatorze (14) jours, KOOKAÏ ne pourra procéder au remboursement du(des) Produit(s) concerné(s). La vente sera considérée comme ferme et définitive.
 
@@ -329,11 +329,11 @@ Tous les éléments du Site, qu’ils soient visuels ou sonores, y compris la te
 
 Ainsi, KOOKAÏ est le titulaire exclusif des droits de propriété intellectuelle sur les éléments suivants, sans que cette liste ne soit exhaustive :
 
-* Les Produits proposés sur le Site et les marques associées aux Produits ;
-* Le Site, et notamment sur son arborescence, sur l’organisation et le titrage de ses rubriques, sur l’identité visuelle et graphique, sur son design, ses fonctionnalités, les textes, les images animées ou fixes, les sons, les savoir-faire, les graphismes et tout autre élément composant le Site ;
-* Les bases de données, leur structure et leurs contenus, conçues et gérées par KOOKAÏ pour les besoins de l’édition du Site ;
-* Tous les éléments de conception du Site qu’ils soient graphiques ou techniques ;
-* Les noms, sigles, logos, couleurs, graphismes, ou autres signes qui pourraient être utilisés, réalisés ou mis en œuvre par KOOKAÏ.
+*   Les Produits proposés sur le Site et les marques associées aux Produits ;
+*   Le Site, et notamment sur son arborescence, sur l’organisation et le titrage de ses rubriques, sur l’identité visuelle et graphique, sur son design, ses fonctionnalités, les textes, les images animées ou fixes, les sons, les savoir-faire, les graphismes et tout autre élément composant le Site ;
+*   Les bases de données, leur structure et leurs contenus, conçues et gérées par KOOKAÏ pour les besoins de l’édition du Site ;
+*   Tous les éléments de conception du Site qu’ils soient graphiques ou techniques ;
+*   Les noms, sigles, logos, couleurs, graphismes, ou autres signes qui pourraient être utilisés, réalisés ou mis en œuvre par KOOKAÏ.
 
 KOOKAÏ est également le propriétaire exclusif du nom de domaine « www.kookai.fr ».
 
