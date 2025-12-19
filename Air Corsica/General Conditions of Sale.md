@@ -73,8 +73,8 @@ Conformément à la loi «Informatique et libertés» du 6 janvier 1978 (article
 
 Vous avez à tout moment la possibilité de :
 
-* révoquer un consentement donné pour le traitement de vos données, ladite révocation n’ayant pas d’effet rétroactif, de faire valoir votre droit d’opposition existant, dans les cas indiqués, en nous contactant par courrier postal (voir ci-dessous) ou électronique à l’adresse suivante : support-commercial@aircorsica.com
-* de manifester votre droit d’opposition dans les e-mails que vous recevrez
+*   révoquer un consentement donné pour le traitement de vos données, ladite révocation n’ayant pas d’effet rétroactif, de faire valoir votre droit d’opposition existant, dans les cas indiqués, en nous contactant par courrier postal (voir ci-dessous) ou électronique à l’adresse suivante : support-commercial@aircorsica.com
+*   de manifester votre droit d’opposition dans les e-mails que vous recevrez
 
 Vous pouvez télécharger la LOI N°78-17 DU 6 JANVIER 1978 modifiée, relative à l'informatique, aux fichiers et aux libertés.
 
@@ -88,8 +88,8 @@ Par ailleurs, et comme pour toute compagnie aérienne, conformément aux lois et
 
 Air Corsica collecte plusieurs types d'informations par ses différents services en ligne, telles que :
 
-* Les données fournies par vos soins lorsque vous complétez les rubriques du site internet (votre identifiant, votre mot de passe, etc.…)
-* Les données que vous acceptez de nous confier lorsque vous nous signalez un problème rencontré sur le site ; ou encore en participant aux campagnes publicitaires d'Air Corsica ; à la réalisation d’enquêtes de satisfaction client. Si vous nous contactez par mail, nous nous réservons le droit de conserver cette correspondance durant une période raisonnable.
+*   Les données fournies par vos soins lorsque vous complétez les rubriques du site internet (votre identifiant, votre mot de passe, etc.…)
+*   Les données que vous acceptez de nous confier lorsque vous nous signalez un problème rencontré sur le site ; ou encore en participant aux campagnes publicitaires d'Air Corsica ; à la réalisation d’enquêtes de satisfaction client. Si vous nous contactez par mail, nous nous réservons le droit de conserver cette correspondance durant une période raisonnable.
 
 Air Corsica est soucieuse de protéger toutes les informations personnelles que vous nous communiquez. Dans ce cadre, nous nous engageons à respecter la confidentialité des données transmises. Cependant, en supprimant votre profil, vous n'aurez plus accès aux services d'informations en ligne disponibles sur saisie d'un identifiant et d’un mot de passe.
 
@@ -99,20 +99,20 @@ Par les choix que vous faites et par les informations que nous conservons, vous 
 
 Les informations que nous vous demandons sur notre site sont les suivantes :
 
-* votre état civil (civilité, nom, prénom, date de naissance, adresse postale, téléphone)
-* votre adresse de courrier électronique (personnelle ou professionnelle) utile pour recevoir une confirmation de réservation, pour toute correspondance et abonnement à notre lettre d'information, pour recevoir votre mot de passe perdu ou votre identifiant perdu.
+*   votre état civil (civilité, nom, prénom, date de naissance, adresse postale, téléphone)
+*   votre adresse de courrier électronique (personnelle ou professionnelle) utile pour recevoir une confirmation de réservation, pour toute correspondance et abonnement à notre lettre d'information, pour recevoir votre mot de passe perdu ou votre identifiant perdu.
 
 Plus globalement, nous conserverons aussi :
 
-* un historique des réservations et des achats que vous avez effectués, les pages du site que vous avez visitées ainsi que le type de navigateur que vous utilisez ainsi que le contenu de la **correspondance électronique (e-mails, adresse, réponses).**
+*   un historique des réservations et des achats que vous avez effectués, les pages du site que vous avez visitées ainsi que le type de navigateur que vous utilisez ainsi que le contenu de la **correspondance électronique (e-mails, adresse, réponses).**
 
 **13.3. Traitement des informations**
 
 Les informations collectées à votre sujet sont utilisées par nos soins aux fins suivantes :
 
-* communication promotionnelle, commerciale ou d'information via différents supports (téléphone, courrier, courriel, publipostage, etc.…)
-* afin de répondre à nos obligations contractuelles résultant des contrats que vous avez conclus, quels qu’ils soient, ou l’inscription à certains services
-* pour effectuer toutes sortes d'études destinées à améliorer nos services.
+*   communication promotionnelle, commerciale ou d'information via différents supports (téléphone, courrier, courriel, publipostage, etc.…)
+*   afin de répondre à nos obligations contractuelles résultant des contrats que vous avez conclus, quels qu’ils soient, ou l’inscription à certains services
+*   pour effectuer toutes sortes d'études destinées à améliorer nos services.
 
 Vos données à caractère personnel ne sont pas divulguées à des tiers sans votre consentement. Cependant, la communication des données personnelles peut exceptionnellement intervenir lorsqu’Air Corsica est légalement tenue de le faire, suite au dépôt d’une plainte par exemple.
 
@@ -134,15 +134,15 @@ Seul l’émetteur d'un cookie est susceptible de lire ou de modifier des inform
 
 Les Cookies que nous émettons nous permettent :
 
-* d'établir des statistiques et volumes de fréquentation et d'utilisation des diverses éléments composant nos sites (rubriques et contenus visités, parcours), nous permettant d'améliorer l'intérêt et l'ergonomie de nos services ;
-* de comptabiliser le nombre total de publicités affichées par nos soins sur nos espaces publicitaires, d'identifier ces publicités, leur nombre d'affichages respectifs, le nombre d'utilisateurs ayant cliqué sur chaque publicité et, le cas échéant, les actions ultérieures effectuées par ces utilisateurs sur les pages auxquelles mènent ces publicités, afin de calculer les sommes dues aux acteurs de la chaîne de diffusion publicitaire (agence de communication, régie publicitaire, site/support de diffusion) et d'établir des statistiques ;
-* d'adapter la présentation de nos sites aux préférences d'affichage de votre terminal (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc) lors de vos visites sur nos sites, selon les matériels et les logiciels de visualisation ou de lecture que votre terminal comporte;
-* d'adapter nos espaces publicitaires aux préférences d'affichage de votre terminal (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc), selon les matériels et les logiciels de visualisation ou de lecture que votre terminal comme porte;
-* d'adapter les contenus publicitaires affichés sur votre terminal par nos espaces publicitaires, selon la navigation de votre terminal sur nos sites;
-* de mémoriser des informations relatives à un formulaire que vous avez rempli sur nos sites (inscription ou accès à votre compte ou authentification pour accéder à un service de notre groupe) ou à des produits, services ou informations que vous avez choisis sur nos sites (service souscrit, contenu d'un panier de commande, etc.) ;
-* de vous permettre d'accéder à des espaces réservés et personnels de nos sites, tels que votre compte, grâce à des identifiants ou des données que vous nous avez éventuellement antérieurement confiés ;
-* de mettre en œuvre des mesures de sécurité, par exemple lorsqu’il vous est demandé de vous connecter à nouveau à un contenu ou à un service après un certain laps de temps.
-* d'adapter les contenus publicitaires affichés sur votre terminal dans nos espaces publicitaires en fonction des données personnelles que vous nous avez fournies;
+*   d'établir des statistiques et volumes de fréquentation et d'utilisation des diverses éléments composant nos sites (rubriques et contenus visités, parcours), nous permettant d'améliorer l'intérêt et l'ergonomie de nos services ;
+*   de comptabiliser le nombre total de publicités affichées par nos soins sur nos espaces publicitaires, d'identifier ces publicités, leur nombre d'affichages respectifs, le nombre d'utilisateurs ayant cliqué sur chaque publicité et, le cas échéant, les actions ultérieures effectuées par ces utilisateurs sur les pages auxquelles mènent ces publicités, afin de calculer les sommes dues aux acteurs de la chaîne de diffusion publicitaire (agence de communication, régie publicitaire, site/support de diffusion) et d'établir des statistiques ;
+*   d'adapter la présentation de nos sites aux préférences d'affichage de votre terminal (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc) lors de vos visites sur nos sites, selon les matériels et les logiciels de visualisation ou de lecture que votre terminal comporte;
+*   d'adapter nos espaces publicitaires aux préférences d'affichage de votre terminal (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc), selon les matériels et les logiciels de visualisation ou de lecture que votre terminal comme porte;
+*   d'adapter les contenus publicitaires affichés sur votre terminal par nos espaces publicitaires, selon la navigation de votre terminal sur nos sites;
+*   de mémoriser des informations relatives à un formulaire que vous avez rempli sur nos sites (inscription ou accès à votre compte ou authentification pour accéder à un service de notre groupe) ou à des produits, services ou informations que vous avez choisis sur nos sites (service souscrit, contenu d'un panier de commande, etc.) ;
+*   de vous permettre d'accéder à des espaces réservés et personnels de nos sites, tels que votre compte, grâce à des identifiants ou des données que vous nous avez éventuellement antérieurement confiés ;
+*   de mettre en œuvre des mesures de sécurité, par exemple lorsqu’il vous est demandé de vous connecter à nouveau à un contenu ou à un service après un certain laps de temps.
+*   d'adapter les contenus publicitaires affichés sur votre terminal dans nos espaces publicitaires en fonction des données personnelles que vous nous avez fournies;
 
 \- Les Cookies émis sur nos sites par des tiers
 
@@ -156,19 +156,19 @@ Nous sommes susceptibles d'inclure sur nos sites, des applications informatiques
 
 Les contenus publicitaires (graphismes, animations, vidéos, etc) diffusés dans nos espaces publicitaires sont susceptibles de contenir des Cookies émis par des tiers : soit l'annonceur est à l'origine du contenu publicitaire concerné, soit c’est une société tierce à l'annonceur (agence conseil en communication, société de mesure d'audience, prestataire de publicité ciblée, etc.), qui a associé un cookie au contenu publicitaire d'un annonceur.  Le cas échéant, les cookies émis par ces tiers peuvent leur permettre, pendant la durée de validité de ces cookies :
 
-* de comptabiliser le nombre d'affichages des contenus publicitaires diffusés via nos espaces publicitaires, d'identifier les publicités ainsi affichées, le nombre d'utilisateurs ayant cliqué sur chaque publicité, leur permettant de calculer les sommes dues de ce fait et d'établir des statistiques;
-* de reconnaître votre terminal lors de sa navigation ultérieure sur tout autre site ou service sur lequel ces annonceurs ou ces tiers émettent également des cookies et, le cas échéant, d'adapter ces sites et services tiers ou les publicités qu'ils diffusent, à la navigation de votre terminal dont ils peuvent avoir connaissance ;
+*   de comptabiliser le nombre d'affichages des contenus publicitaires diffusés via nos espaces publicitaires, d'identifier les publicités ainsi affichées, le nombre d'utilisateurs ayant cliqué sur chaque publicité, leur permettant de calculer les sommes dues de ce fait et d'établir des statistiques;
+*   de reconnaître votre terminal lors de sa navigation ultérieure sur tout autre site ou service sur lequel ces annonceurs ou ces tiers émettent également des cookies et, le cas échéant, d'adapter ces sites et services tiers ou les publicités qu'ils diffusent, à la navigation de votre terminal dont ils peuvent avoir connaissance ;
 
 (c) Par une régie publicitaire externe exploitant nos espaces publicitaires
 
 Les espaces publicitaires de nos sites sont susceptibles d'être exploités par une ou plusieurs régie(s) publicitaire(s) externe(s) et, le cas échéant, de contenir des cookies émis par l'une d'entre elles. Le cas échéant, les cookies émis par ces régies publicitaires externes leur permettent, pendant la durée de validité de ces cookies :
 
-* de comptabiliser le nombre total de publicités affichées par leurs soins sur nos espaces publicitaires, d'identifier ces publicités, leur nombre d'affichages respectifs, le nombre d'utilisateurs ayant cliqué sur chaque publicité et, le cas échéant, les actions ultérieures effectuées par ces utilisateurs sur les pages auxquelles mènent ces publicités, afin de calculer les sommes dues aux acteurs de la chaîne de diffusion publicitaire (annonceur, agence de communication, régie publicitaire, site/support de diffusion) et d'établir des statistiques;
-* d'adapter les espaces publicitaires qu'elles opèrent aux préférences d'affichage de votre terminal (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc), selon les matériels et les logiciels de visualisation ou de lecture que votre terminal comporte;
-* d'adapter les contenus publicitaires affichés sur votre terminal via nos espaces publicitaires selon la navigation de votre terminal sur nos sites,
-* d'adapter les contenus publicitaires affichés sur votre terminal via nos espaces publicitaires selon la navigation antérieure ou ultérieure de votre terminal sur des sites de tiers au sein desquels la régie concernée émet également des cookies, sous réserve que ces cookies aient été enregistrés dans votre terminal conformément aux choix que vous avez exercés à l'égard de cette régie.
-* d'adapter les contenus publicitaires affichés sur votre terminal via nos espaces publicitaires en fonction des données de localisation (longitude et latitude) transmises par votre terminal avec votre accord préalable
-* d'adapter les contenus publicitaires affichés sur votre terminal dans nos espaces publicitaires en fonction des données personnelles que vous auriez pu fournir à cette régie publicitaire;
+*   de comptabiliser le nombre total de publicités affichées par leurs soins sur nos espaces publicitaires, d'identifier ces publicités, leur nombre d'affichages respectifs, le nombre d'utilisateurs ayant cliqué sur chaque publicité et, le cas échéant, les actions ultérieures effectuées par ces utilisateurs sur les pages auxquelles mènent ces publicités, afin de calculer les sommes dues aux acteurs de la chaîne de diffusion publicitaire (annonceur, agence de communication, régie publicitaire, site/support de diffusion) et d'établir des statistiques;
+*   d'adapter les espaces publicitaires qu'elles opèrent aux préférences d'affichage de votre terminal (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc), selon les matériels et les logiciels de visualisation ou de lecture que votre terminal comporte;
+*   d'adapter les contenus publicitaires affichés sur votre terminal via nos espaces publicitaires selon la navigation de votre terminal sur nos sites,
+*   d'adapter les contenus publicitaires affichés sur votre terminal via nos espaces publicitaires selon la navigation antérieure ou ultérieure de votre terminal sur des sites de tiers au sein desquels la régie concernée émet également des cookies, sous réserve que ces cookies aient été enregistrés dans votre terminal conformément aux choix que vous avez exercés à l'égard de cette régie.
+*   d'adapter les contenus publicitaires affichés sur votre terminal via nos espaces publicitaires en fonction des données de localisation (longitude et latitude) transmises par votre terminal avec votre accord préalable
+*   d'adapter les contenus publicitaires affichés sur votre terminal dans nos espaces publicitaires en fonction des données personnelles que vous auriez pu fournir à cette régie publicitaire;
 
 **14.2. Quel est l’intérêt de voir s’afficher des publicités adaptées à votre navigation ?**
 
@@ -202,12 +202,12 @@ Si vous refusez l'enregistrement de cookies dans votre terminal, ou si vous supp
 
 Pour la gestion des cookies et de vos choix, la configuration de chaque navigateur est différente. Elle est décrite dans le menu d'aide de votre navigateur, qui vous permettra de savoir de quelle manière modifier vos souhaits en matière de cookies.
 
-* Pour Internet Explorer™ : http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-cookies,
-* Pour Safari™ : http://docs.info.apple.com/article.html?path=Safari/3.0/fr/9277.html,
-* Pour Chrome™ : http://support.google.com/chrome/bin/answer.py?hl=fr&hlrm=en&answer=95647,
-* Pour Firefox™ : http://support.mozilla.org/fr/kb/Activer%20et%20d%C3%A9sactiver%20les%20cookies,
-* Pour Opera™ : http://help.opera.com/Windows/10.20/fr/cookies.html,
-* etc.
+*   Pour Internet Explorer™ : http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-cookies,
+*   Pour Safari™ : http://docs.info.apple.com/article.html?path=Safari/3.0/fr/9277.html,
+*   Pour Chrome™ : http://support.google.com/chrome/bin/answer.py?hl=fr&hlrm=en&answer=95647,
+*   Pour Firefox™ : http://support.mozilla.org/fr/kb/Activer%20et%20d%C3%A9sactiver%20les%20cookies,
+*   Pour Opera™ : http://help.opera.com/Windows/10.20/fr/cookies.html,
+*   etc.
 
 (d) Vos choix exprimés en ligne auprès de plateformes interprofessionnelles
 
