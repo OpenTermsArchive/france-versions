@@ -1,186 +1,186 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
-* [NOS IDEES CADEAUX](https://www.printemps.com/fr/fr/idees-cadeaux-noel)
-    * [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
-    * [Pour lui](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
-    * [Beauté](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
-* PAR PRIX
-    * [Moins de 100€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/0/100)
-    * [Entre 100€ et 200€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/100/200)
-    * [Entre 200€ et 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/200/300)
-    * [Plus de 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/300/1000)
-* [La carte cadeau](https://cartescadeaux.printemps.com/)
+*   [NOS IDEES CADEAUX](https://www.printemps.com/fr/fr/idees-cadeaux-noel)
+    *   [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
+    *   [Pour lui](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
+    *   [Beauté](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
+*   PAR PRIX
+    *   [Moins de 100€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/0/100)
+    *   [Entre 100€ et 200€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/100/200)
+    *   [Entre 200€ et 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/200/300)
+    *   [Plus de 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/300/1000)
+*   [La carte cadeau](https://cartescadeaux.printemps.com/)
     
 
-* [TENUES DE FÊTES](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
-    * [Femme](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
-    * [Homme](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
-    * [Mise en beauté](https://www.printemps.com/fr/fr/maquillage)
-* [LES CALENDRIERS DE L'AVENT](https://www.printemps.com/fr/fr/calendrier-noel)
+*   [TENUES DE FÊTES](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
+    *   [Femme](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
+    *   [Homme](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
+    *   [Mise en beauté](https://www.printemps.com/fr/fr/maquillage)
+*   [LES CALENDRIERS DE L'AVENT](https://www.printemps.com/fr/fr/calendrier-noel)
     
-* [LES COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
+*   [LES COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
     
-* [NOËL AU PRINTEMPS](https://www.printemps.com/fr/fr/noel-au-printemps)
+*   [NOËL AU PRINTEMPS](https://www.printemps.com/fr/fr/noel-au-printemps)
     
 
-* PLUS D'INSPIRATION
-    * [Les meilleurs calendriers de l'avent beauté 2025 pour attendre Noël](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
-    * [Cadeaux de Noël de dernière minute : Les idées qui feront plaisir à coup sûr](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-noel-derniere-minute)
-    * [Comment décorer une table de Noël : Les idées parfaites](https://www.printemps.com/fr/fr/edito-magazine-actu-comment-decorer-table-noel)
-    * [Cadeaux beauté : Les meilleurs coffrets à glisser sous le sapin](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-beaute-coffrets-noel)
-*  [![Image d'illustration](https://media-cdn.printemps.com/image/37/7/8704377.jpg)](https://cartescadeaux.printemps.com/)
+*   PLUS D'INSPIRATION
+    *   [Les meilleurs calendriers de l'avent beauté 2025 pour attendre Noël](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
+    *   [Cadeaux de Noël de dernière minute : Les idées qui feront plaisir à coup sûr](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-noel-derniere-minute)
+    *   [Comment décorer une table de Noël : Les idées parfaites](https://www.printemps.com/fr/fr/edito-magazine-actu-comment-decorer-table-noel)
+    *   [Cadeaux beauté : Les meilleurs coffrets à glisser sous le sapin](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-beaute-coffrets-noel)
+*    [![Image d'illustration](https://media-cdn.printemps.com/image/37/7/8704377.jpg)](https://cartescadeaux.printemps.com/)
     
 
  [![Image d'illustration](https://media-cdn.printemps.com/image/37/7/8704377.jpg)](https://cartescadeaux.printemps.com/)
 
-* [COLLECTION AUTOMNE-HIVER](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
+*   [COLLECTION AUTOMNE-HIVER](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
     
-* [COLLECTION PRINTEMPS-ÉTÉ](https://www.printemps.com/fr/fr/collection-printemps-ete)
+*   [COLLECTION PRINTEMPS-ÉTÉ](https://www.printemps.com/fr/fr/collection-printemps-ete)
     
-* [DERNIÈRES NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes)
-    
-
-* [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
-    * [Sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
-    * [Chaussures](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Chaussures)
-    * [Robes](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Robes)
-    * [Accessoires](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Accessoires)
-    * [Baskets](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Baskets)
-    * [Cabas](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Sacs+cabas)
-
-* [HOMME](https://www.printemps.com/fr/fr/nouveautes-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-homme)
-    * [Vestes](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Vestes)
-    * [Baskets](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Baskets)
-    * [Vêtements](https://www.printemps.com/fr/fr/nouveautes-homme/esp/V%C3%AAtements)
-    * [Accessoires](https://www.printemps.com/fr/fr/nouveautes-homme/esp/Accessoires)
-    * [T-shirts et polos](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Tops+et+t-shirts)
-    * [Manteaux](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Manteaux)
-
-* [BEAUTÉ](https://www.printemps.com/fr/fr/nouveautes-beaute)
-    * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-beaute)
-    * [Parfums](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Parfum)
-    * [Soins](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Soin)
-    * [Maquillage](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Maquillage)
-    * [Accessoires](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Accessoires)
-* [MAISON](https://www.printemps.com/fr/fr/nouveautes-maison)
-    
-* [Souvenir shop](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
+*   [DERNIÈRES NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes)
     
 
-* MARQUES
-    * [Topshop](https://www.printemps.com/fr/fr/topshop-femme)
-    * [Our legacy](https://www.printemps.com/fr/fr/ourlegacy)
-    * [Magda Butrym](https://www.printemps.com/fr/fr/magda-butrym-femme)
-    * [Essentiel Antwerp](https://www.printemps.com/fr/fr/essentiel-antwerp-femme)
-    * [Lancel](https://www.printemps.com/fr/fr/lancel-femme)
-    * [Boss](https://www.printemps.com/fr/fr/hugo-boss)
-    * [Ba&sh](https://www.printemps.com/fr/fr/bash-femme)
-    * [Coach](https://www.printemps.com/fr/fr/coach-femme)
-    * [Givenchy Beauty](https://www.printemps.com/fr/fr/givenchy-beaute)
-    * [Maison Sarah Lavoine](https://www.printemps.com/fr/fr/maison-sarah-lavoine-maison)
-    * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/nouveautes/mrk/J%C3%89R%C3%94ME+DREYFUSS)
+*   [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
+    *   [Sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
+    *   [Chaussures](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Chaussures)
+    *   [Robes](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Robes)
+    *   [Accessoires](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Accessoires)
+    *   [Baskets](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Baskets)
+    *   [Cabas](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Sacs+cabas)
 
-* DANS LA TENDANCE
-    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
-    * [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
-    * [Les tendances automne-hiver](https://www.printemps.com/fr/fr/edito-magazine-style-tendances-automne-hiver)
-    * [Tendance cuir : les pièces incontournables](https://www.printemps.com/fr/fr/edito-magazine-style-tendance-cuir)
-    * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865)
+*   [HOMME](https://www.printemps.com/fr/fr/nouveautes-homme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/nouveautes-homme)
+    *   [Vestes](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Vestes)
+    *   [Baskets](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Baskets)
+    *   [Vêtements](https://www.printemps.com/fr/fr/nouveautes-homme/esp/V%C3%AAtements)
+    *   [Accessoires](https://www.printemps.com/fr/fr/nouveautes-homme/esp/Accessoires)
+    *   [T-shirts et polos](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Tops+et+t-shirts)
+    *   [Manteaux](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Manteaux)
 
-* [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
-    * [Manteaux](https://www.printemps.com/fr/fr/manteaux-femme)
-    * [Vestes](https://www.printemps.com/fr/fr/vestes-femme)
-    * [Tops et t-shirts](https://www.printemps.com/fr/fr/tops-t-shirts-femme)
-    * [Blouses et chemises](https://www.printemps.com/fr/fr/chemises-femme)
-    * [Mailles et pulls](https://www.printemps.com/fr/fr/mailles-pulls-femme)
-    * [Sweats et hoodies](https://www.printemps.com/fr/fr/sweats-hoodies-femme)
-    * [Jeans](https://www.printemps.com/fr/fr/jeans-femme)
-    * [Pantalons](https://www.printemps.com/fr/fr/pantalons-femme)
-    * [Jupes](https://www.printemps.com/fr/fr/jupes-femme)
-    * [Robes](https://www.printemps.com/fr/fr/robes-femme)
-    * [Robes de soirée](https://www.printemps.com/fr/fr/robes-de-soiree)
-    * [Tailleurs](https://www.printemps.com/fr/fr/tailleurs-femme)
-    * [Sous-vêtements et pyjamas](https://www.printemps.com/fr/fr/sous-vetements-femme)
-    * [Maillots de bain](https://www.printemps.com/fr/fr/maillots-de-bain-femme)
-
-* [SACS](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
-    * [Maroquinerie de luxe](https://www.printemps.com/fr/fr/maroquinerie-de-luxe-femme)
-    * [Nouveautés sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
-    * [Sacs iconiques](https://www.printemps.com/fr/fr/sacs-iconiques)
-    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-femme)
-    * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
-    * [Cabas](https://www.printemps.com/fr/fr/cabas-femme)
-    * [Petite maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-femme)
-    * [Mini sacs](https://www.printemps.com/fr/fr/mini-sacs-femme)
-    * [Pochettes](https://www.printemps.com/fr/fr/pochettes-femme)
-    * [Sacs bourse](https://www.printemps.com/fr/fr/sacs-bourse-femme)
-    * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-femme)
-    * [Bagages](https://www.printemps.com/fr/fr/sacs-voyage-femme)
-
-* [CHAUSSURES](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
-    * [Ballerines et babies](https://www.printemps.com/fr/fr/ballerines-babies)
-    * [Derbies et mocassins](https://www.printemps.com/fr/fr/mocassins-derbies)
-    * [Baskets](https://www.printemps.com/fr/fr/baskets-femme)
-    * [Bottines](https://www.printemps.com/fr/fr/bottines-femme)
-    * [Bottes](https://www.printemps.com/fr/fr/bottes-femme)
-    * [Escarpins](https://www.printemps.com/fr/fr/escarpins-femme)
-    * [Sandales](https://www.printemps.com/fr/fr/sandales-femme)
-    * [Mules](https://www.printemps.com/fr/fr/mules-femme)
-    * [Tongs et claquettes](https://www.printemps.com/fr/fr/tongs-et-claquettes-femme)
-
-* [MONTRES](https://www.printemps.com/fr/fr/montres-femme)
+*   [BEAUTÉ](https://www.printemps.com/fr/fr/nouveautes-beaute)
+    *   [Voir tout](https://www.printemps.com/fr/fr/nouveautes-beaute)
+    *   [Parfums](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Parfum)
+    *   [Soins](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Soin)
+    *   [Maquillage](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Maquillage)
+    *   [Accessoires](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Accessoires)
+*   [MAISON](https://www.printemps.com/fr/fr/nouveautes-maison)
     
-* [BIJOUX](https://www.printemps.com/fr/fr/bijoux-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/bijoux-femme)
-    * [Boucles d'oreille](https://www.printemps.com/fr/fr/boucles-d-oreille)
-    * [Colliers](https://www.printemps.com/fr/fr/colliers)
-    * [Bagues](https://www.printemps.com/fr/fr/bagues)
-    * [Bracelets](https://www.printemps.com/fr/fr/bracelets)
-* [ACCESSOIRES](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
-    * [Écharpes et foulards](https://www.printemps.com/fr/fr/echarpes-femme)
-    * [Casquettes et chapeaux](https://www.printemps.com/fr/fr/chapeaux-femme)
-    * [Lunettes de soleil](https://www.printemps.com/fr/fr/lunettes-femme)
-    * [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
-    * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
-
-* [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
-    
-* [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-femme)
-    
-* [LUXE ET CRÉATEURS](https://www.printemps.com/fr/fr/luxe-et-createurs-femme)
-    
-* [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-femme)
-    
-* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme)
-    
-* [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
-    
-* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
+*   [Souvenir shop](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
     
 
-* TOP MARQUES
-    * [Voir toutes les marques](https://www.printemps.com/fr/fr/marques-femme)
-    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
-    * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme)
-    * [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
-    * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
-    * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
-    * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
-    * [Prada](https://www.printemps.com/fr/fr/prada-femme)
-    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
-    * [Guess](https://www.printemps.com/fr/fr/guess-femme)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/31/6/8753316.jpg)
+*   MARQUES
+    *   [Topshop](https://www.printemps.com/fr/fr/topshop-femme)
+    *   [Our legacy](https://www.printemps.com/fr/fr/ourlegacy)
+    *   [Magda Butrym](https://www.printemps.com/fr/fr/magda-butrym-femme)
+    *   [Essentiel Antwerp](https://www.printemps.com/fr/fr/essentiel-antwerp-femme)
+    *   [Lancel](https://www.printemps.com/fr/fr/lancel-femme)
+    *   [Boss](https://www.printemps.com/fr/fr/hugo-boss)
+    *   [Ba&sh](https://www.printemps.com/fr/fr/bash-femme)
+    *   [Coach](https://www.printemps.com/fr/fr/coach-femme)
+    *   [Givenchy Beauty](https://www.printemps.com/fr/fr/givenchy-beaute)
+    *   [Maison Sarah Lavoine](https://www.printemps.com/fr/fr/maison-sarah-lavoine-maison)
+    *   [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/nouveautes/mrk/J%C3%89R%C3%94ME+DREYFUSS)
+
+*   DANS LA TENDANCE
+    *   [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
+    *   [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
+    *   [Les tendances automne-hiver](https://www.printemps.com/fr/fr/edito-magazine-style-tendances-automne-hiver)
+    *   [Tendance cuir : les pièces incontournables](https://www.printemps.com/fr/fr/edito-magazine-style-tendance-cuir)
+    *   [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865)
+
+*   [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
+    *   [Manteaux](https://www.printemps.com/fr/fr/manteaux-femme)
+    *   [Vestes](https://www.printemps.com/fr/fr/vestes-femme)
+    *   [Tops et t-shirts](https://www.printemps.com/fr/fr/tops-t-shirts-femme)
+    *   [Blouses et chemises](https://www.printemps.com/fr/fr/chemises-femme)
+    *   [Mailles et pulls](https://www.printemps.com/fr/fr/mailles-pulls-femme)
+    *   [Sweats et hoodies](https://www.printemps.com/fr/fr/sweats-hoodies-femme)
+    *   [Jeans](https://www.printemps.com/fr/fr/jeans-femme)
+    *   [Pantalons](https://www.printemps.com/fr/fr/pantalons-femme)
+    *   [Jupes](https://www.printemps.com/fr/fr/jupes-femme)
+    *   [Robes](https://www.printemps.com/fr/fr/robes-femme)
+    *   [Robes de soirée](https://www.printemps.com/fr/fr/robes-de-soiree)
+    *   [Tailleurs](https://www.printemps.com/fr/fr/tailleurs-femme)
+    *   [Sous-vêtements et pyjamas](https://www.printemps.com/fr/fr/sous-vetements-femme)
+    *   [Maillots de bain](https://www.printemps.com/fr/fr/maillots-de-bain-femme)
+
+*   [SACS](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
+    *   [Maroquinerie de luxe](https://www.printemps.com/fr/fr/maroquinerie-de-luxe-femme)
+    *   [Nouveautés sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
+    *   [Sacs iconiques](https://www.printemps.com/fr/fr/sacs-iconiques)
+    *   [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-femme)
+    *   [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
+    *   [Cabas](https://www.printemps.com/fr/fr/cabas-femme)
+    *   [Petite maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-femme)
+    *   [Mini sacs](https://www.printemps.com/fr/fr/mini-sacs-femme)
+    *   [Pochettes](https://www.printemps.com/fr/fr/pochettes-femme)
+    *   [Sacs bourse](https://www.printemps.com/fr/fr/sacs-bourse-femme)
+    *   [Sacs bananes](https://www.printemps.com/fr/fr/bananes-femme)
+    *   [Bagages](https://www.printemps.com/fr/fr/sacs-voyage-femme)
+
+*   [CHAUSSURES](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
+    *   [Ballerines et babies](https://www.printemps.com/fr/fr/ballerines-babies)
+    *   [Derbies et mocassins](https://www.printemps.com/fr/fr/mocassins-derbies)
+    *   [Baskets](https://www.printemps.com/fr/fr/baskets-femme)
+    *   [Bottines](https://www.printemps.com/fr/fr/bottines-femme)
+    *   [Bottes](https://www.printemps.com/fr/fr/bottes-femme)
+    *   [Escarpins](https://www.printemps.com/fr/fr/escarpins-femme)
+    *   [Sandales](https://www.printemps.com/fr/fr/sandales-femme)
+    *   [Mules](https://www.printemps.com/fr/fr/mules-femme)
+    *   [Tongs et claquettes](https://www.printemps.com/fr/fr/tongs-et-claquettes-femme)
+
+*   [MONTRES](https://www.printemps.com/fr/fr/montres-femme)
+    
+*   [BIJOUX](https://www.printemps.com/fr/fr/bijoux-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/bijoux-femme)
+    *   [Boucles d'oreille](https://www.printemps.com/fr/fr/boucles-d-oreille)
+    *   [Colliers](https://www.printemps.com/fr/fr/colliers)
+    *   [Bagues](https://www.printemps.com/fr/fr/bagues)
+    *   [Bracelets](https://www.printemps.com/fr/fr/bracelets)
+*   [ACCESSOIRES](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
+    *   [Écharpes et foulards](https://www.printemps.com/fr/fr/echarpes-femme)
+    *   [Casquettes et chapeaux](https://www.printemps.com/fr/fr/chapeaux-femme)
+    *   [Lunettes de soleil](https://www.printemps.com/fr/fr/lunettes-femme)
+    *   [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
+    *   [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
+
+*   [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
+    
+*   [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-femme)
+    
+*   [LUXE ET CRÉATEURS](https://www.printemps.com/fr/fr/luxe-et-createurs-femme)
+    
+*   [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-femme)
+    
+*   [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme)
+    
+*   [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
+    
+*   [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
+    
+
+*   TOP MARQUES
+    *   [Voir toutes les marques](https://www.printemps.com/fr/fr/marques-femme)
+    *   [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
+    *   [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme)
+    *   [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
+    *   [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
+    *   [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
+    *   [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
+    *   [Prada](https://www.printemps.com/fr/fr/prada-femme)
+    *   [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
+    *   [Guess](https://www.printemps.com/fr/fr/guess-femme)
+    *    [![Image d'illustration](https://media-cdn.printemps.com/image/31/6/8753316.jpg)
         
         TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
         
 
-*  [![Image d'illustration](https://media-cdn.printemps.com/image/31/6/8753316.jpg)
+*    [![Image d'illustration](https://media-cdn.printemps.com/image/31/6/8753316.jpg)
     
     TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
     
@@ -193,92 +193,92 @@ TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
 
 TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
 
-* [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
-    * [Manteaux](https://www.printemps.com/fr/fr/manteaux-homme)
-    * [Vestes](https://www.printemps.com/fr/fr/vestes-homme)
-    * [Sweats & hoodies](https://www.printemps.com/fr/fr/sweats-hoodies-homme)
-    * [Mailles et pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme)
-    * [T-shirts](https://www.printemps.com/fr/fr/tee-shirts-homme)
-    * [Polos](https://www.printemps.com/fr/fr/polos-homme)
-    * [Chemises](https://www.printemps.com/fr/fr/chemises-homme)
-    * [Pantalons](https://www.printemps.com/fr/fr/pantalons-homme)
-    * [Jeans](https://www.printemps.com/fr/fr/jeans-homme)
-    * [Shorts](https://www.printemps.com/fr/fr/shorts-homme)
-    * [Maillots de bain](https://www.printemps.com/fr/fr/maillots-de-bain-homme)
-    * [Costumes](https://www.printemps.com/fr/fr/costumes-homme)
-    * [Sous-vêtements et pyjamas](https://www.printemps.com/fr/fr/sous-vetements-homme)
+*   [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
+    *   [Manteaux](https://www.printemps.com/fr/fr/manteaux-homme)
+    *   [Vestes](https://www.printemps.com/fr/fr/vestes-homme)
+    *   [Sweats & hoodies](https://www.printemps.com/fr/fr/sweats-hoodies-homme)
+    *   [Mailles et pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme)
+    *   [T-shirts](https://www.printemps.com/fr/fr/tee-shirts-homme)
+    *   [Polos](https://www.printemps.com/fr/fr/polos-homme)
+    *   [Chemises](https://www.printemps.com/fr/fr/chemises-homme)
+    *   [Pantalons](https://www.printemps.com/fr/fr/pantalons-homme)
+    *   [Jeans](https://www.printemps.com/fr/fr/jeans-homme)
+    *   [Shorts](https://www.printemps.com/fr/fr/shorts-homme)
+    *   [Maillots de bain](https://www.printemps.com/fr/fr/maillots-de-bain-homme)
+    *   [Costumes](https://www.printemps.com/fr/fr/costumes-homme)
+    *   [Sous-vêtements et pyjamas](https://www.printemps.com/fr/fr/sous-vetements-homme)
 
-* [BASKETS](https://www.printemps.com/fr/fr/baskets-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/baskets-homme)
-    * [Baskets de luxe](https://www.printemps.com/fr/fr/baskets-luxe-homme)
-    * [Sneakers du moment](https://www.printemps.com/fr/fr/sneakers-du-moment-homme)
-* [CHAUSSURES](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme)
-    * [Mocassins et Derbies](https://www.printemps.com/fr/fr/chaussures-plates-homme)
-    * [Bottines](https://www.printemps.com/fr/fr/bottes-bottines-homme)
-    * [Sandales et Mules](https://www.printemps.com/fr/fr/sandales-et-mules-homme)
-    * [Tongs Et Claquettes](https://www.printemps.com/fr/fr/tongs-et-claquettes-homme)
+*   [BASKETS](https://www.printemps.com/fr/fr/baskets-homme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/baskets-homme)
+    *   [Baskets de luxe](https://www.printemps.com/fr/fr/baskets-luxe-homme)
+    *   [Sneakers du moment](https://www.printemps.com/fr/fr/sneakers-du-moment-homme)
+*   [CHAUSSURES](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme)
+    *   [Mocassins et Derbies](https://www.printemps.com/fr/fr/chaussures-plates-homme)
+    *   [Bottines](https://www.printemps.com/fr/fr/bottes-bottines-homme)
+    *   [Sandales et Mules](https://www.printemps.com/fr/fr/sandales-et-mules-homme)
+    *   [Tongs Et Claquettes](https://www.printemps.com/fr/fr/tongs-et-claquettes-homme)
 
-* [ACCESSOIRES](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
-    * [Bijoux](https://www.printemps.com/fr/fr/bijoux-homme)
-    * [Bonnets et Casquettes](https://www.printemps.com/fr/fr/chapeaux-homme)
-    * [Lunettes De Soleil](https://www.printemps.com/fr/fr/lunettes-homme)
-    * [Ceintures](https://www.printemps.com/fr/fr/ceintures-homme)
-    * [Cravates et Bretelles](https://www.printemps.com/fr/fr/cravates-homme)
-    * [Gants](https://www.printemps.com/fr/fr/gants-homme)
-    * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-homme)
-    * [Écharpes](https://www.printemps.com/fr/fr/echarpes-homme)
-* [MONTRES](https://www.printemps.com/fr/fr/montres-homme)
-    
-
-* [SACS](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
-    * [Sacoches et sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
-    * [Portefeuilles & porte-cartes](https://www.printemps.com/fr/fr/petite-maroquinerie-homme)
-    * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-homme)
-    * [Pochettes](https://www.printemps.com/fr/fr/pochettes-homme)
-    * [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-homme)
-    * [Cabas](https://www.printemps.com/fr/fr/cabas-homme)
-    * [Bagages](https://www.printemps.com/fr/fr/sacs-voyage-homme)
-    * [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
-    * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
-
-* [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
-    
-* [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme)
-    
-* [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-homme)
-    
-* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme)
-    
-* [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme)
-    * [Pièces de défilés](https://www.printemps.com/fr/fr/defile-homme)
-    * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison-1865-tout-homme)
-    * [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
-* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
-    
-* [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
+*   [ACCESSOIRES](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
+    *   [Bijoux](https://www.printemps.com/fr/fr/bijoux-homme)
+    *   [Bonnets et Casquettes](https://www.printemps.com/fr/fr/chapeaux-homme)
+    *   [Lunettes De Soleil](https://www.printemps.com/fr/fr/lunettes-homme)
+    *   [Ceintures](https://www.printemps.com/fr/fr/ceintures-homme)
+    *   [Cravates et Bretelles](https://www.printemps.com/fr/fr/cravates-homme)
+    *   [Gants](https://www.printemps.com/fr/fr/gants-homme)
+    *   [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-homme)
+    *   [Écharpes](https://www.printemps.com/fr/fr/echarpes-homme)
+*   [MONTRES](https://www.printemps.com/fr/fr/montres-homme)
     
 
-* TOP MARQUES
-    * [Toutes les marques homme](https://www.printemps.com/fr/fr/marques-homme)
-    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
-    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren-homme)
-    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
-    * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
-    * [AMI Paris](https://www.printemps.com/fr/fr/amiparis-homme)
-    * [Prada](https://www.printemps.com/fr/fr/prada-homme)
-    * [Moncler](https://www.printemps.com/fr/fr/moncler-homme)
-    * [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
-    * [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
-    * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/31/6/8753316.jpg)
+*   [SACS](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
+    *   [Sacoches et sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
+    *   [Portefeuilles & porte-cartes](https://www.printemps.com/fr/fr/petite-maroquinerie-homme)
+    *   [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-homme)
+    *   [Pochettes](https://www.printemps.com/fr/fr/pochettes-homme)
+    *   [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-homme)
+    *   [Cabas](https://www.printemps.com/fr/fr/cabas-homme)
+    *   [Bagages](https://www.printemps.com/fr/fr/sacs-voyage-homme)
+    *   [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
+    *   [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
+
+*   [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
+    
+*   [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme)
+    
+*   [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-homme)
+    
+*   [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme)
+    
+*   [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme)
+    *   [Pièces de défilés](https://www.printemps.com/fr/fr/defile-homme)
+    *   [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison-1865-tout-homme)
+    *   [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
+*   [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
+    
+*   [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
+    
+
+*   TOP MARQUES
+    *   [Toutes les marques homme](https://www.printemps.com/fr/fr/marques-homme)
+    *   [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
+    *   [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren-homme)
+    *   [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
+    *   [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
+    *   [AMI Paris](https://www.printemps.com/fr/fr/amiparis-homme)
+    *   [Prada](https://www.printemps.com/fr/fr/prada-homme)
+    *   [Moncler](https://www.printemps.com/fr/fr/moncler-homme)
+    *   [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
+    *   [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
+    *   [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
+    *    [![Image d'illustration](https://media-cdn.printemps.com/image/31/6/8753316.jpg)
         
         TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
         
 
-*  [![Image d'illustration](https://media-cdn.printemps.com/image/31/6/8753316.jpg)
+*    [![Image d'illustration](https://media-cdn.printemps.com/image/31/6/8753316.jpg)
     
     TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
     
@@ -291,84 +291,84 @@ TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
 
 TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
 
-* [L’ESPACE BEAUTÉ](https://www.printemps.com/fr/fr/espace-beaute)
+*   [L’ESPACE BEAUTÉ](https://www.printemps.com/fr/fr/espace-beaute)
     
-* [CALENDRIERS DE L'AVENT](https://www.printemps.com/fr/fr/calendrier-noel)
+*   [CALENDRIERS DE L'AVENT](https://www.printemps.com/fr/fr/calendrier-noel)
     
-* [PARFUMS](https://www.printemps.com/fr/fr/parfum)
-    * [Voir tout](https://www.printemps.com/fr/fr/parfum)
-    * [Eaux de toilette et parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
-    * [Eaux de cologne](https://www.printemps.com/fr/fr/eaux-de-cologne)
-    * [Extrait de parfum](https://www.printemps.com/fr/fr/extrait-de-parfum)
-    * [Soins parfumés](https://www.printemps.com/fr/fr/soins-parfumes)
-* [MAQUILLAGE](https://www.printemps.com/fr/fr/maquillage)
-    * [Voir tout](https://www.printemps.com/fr/fr/maquillage)
-    * [Teint](https://www.printemps.com/fr/fr/teint)
-    * [Lèvres](https://www.printemps.com/fr/fr/levres)
-    * [Ongles](https://www.printemps.com/fr/fr/ongles)
-    * [Palettes](https://www.printemps.com/fr/fr/palettes)
+*   [PARFUMS](https://www.printemps.com/fr/fr/parfum)
+    *   [Voir tout](https://www.printemps.com/fr/fr/parfum)
+    *   [Eaux de toilette et parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
+    *   [Eaux de cologne](https://www.printemps.com/fr/fr/eaux-de-cologne)
+    *   [Extrait de parfum](https://www.printemps.com/fr/fr/extrait-de-parfum)
+    *   [Soins parfumés](https://www.printemps.com/fr/fr/soins-parfumes)
+*   [MAQUILLAGE](https://www.printemps.com/fr/fr/maquillage)
+    *   [Voir tout](https://www.printemps.com/fr/fr/maquillage)
+    *   [Teint](https://www.printemps.com/fr/fr/teint)
+    *   [Lèvres](https://www.printemps.com/fr/fr/levres)
+    *   [Ongles](https://www.printemps.com/fr/fr/ongles)
+    *   [Palettes](https://www.printemps.com/fr/fr/palettes)
 
-* [SOINS](https://www.printemps.com/fr/fr/soin)
-    * [Voir tout](https://www.printemps.com/fr/fr/soins)
-    * [Soins visage](https://www.printemps.com/fr/fr/soins-visage)
-    * [Soins du corps](https://www.printemps.com/fr/fr/soins-corps)
-    * [Soins solaires](https://www.printemps.com/fr/fr/soins-solaires)
-    * [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
-* [CHEVEUX](https://www.printemps.com/fr/fr/soins-cheveux)
-    * [Voir tout](https://www.printemps.com/fr/fr/soins-cheveux)
-    * [Shampoing & après-shampoing](https://www.printemps.com/fr/fr/shampoing-apres-shampoing)
-    * [Soins](https://www.printemps.com/fr/fr/masques-et-soins-cheveux)
-    * [Produits de coiffage](https://www.printemps.com/fr/fr/produits-de-coiffage)
-    * [Appareils électroniques](https://www.printemps.com/fr/fr/fers-lisser)
+*   [SOINS](https://www.printemps.com/fr/fr/soin)
+    *   [Voir tout](https://www.printemps.com/fr/fr/soins)
+    *   [Soins visage](https://www.printemps.com/fr/fr/soins-visage)
+    *   [Soins du corps](https://www.printemps.com/fr/fr/soins-corps)
+    *   [Soins solaires](https://www.printemps.com/fr/fr/soins-solaires)
+    *   [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
+*   [CHEVEUX](https://www.printemps.com/fr/fr/soins-cheveux)
+    *   [Voir tout](https://www.printemps.com/fr/fr/soins-cheveux)
+    *   [Shampoing & après-shampoing](https://www.printemps.com/fr/fr/shampoing-apres-shampoing)
+    *   [Soins](https://www.printemps.com/fr/fr/masques-et-soins-cheveux)
+    *   [Produits de coiffage](https://www.printemps.com/fr/fr/produits-de-coiffage)
+    *   [Appareils électroniques](https://www.printemps.com/fr/fr/fers-lisser)
 
-* [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
+*   [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
     
-* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-beaute)
+*   [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-beaute)
     
-* [HOMME](https://www.printemps.com/fr/fr/beaute-homme)
+*   [HOMME](https://www.printemps.com/fr/fr/beaute-homme)
     
-* [BOUGIES ET PARFUMS D'INTÉRIEUR](https://www.printemps.com/fr/fr/bougie-parfum-d-interieur)
+*   [BOUGIES ET PARFUMS D'INTÉRIEUR](https://www.printemps.com/fr/fr/bougie-parfum-d-interieur)
     
-* [ACCESSOIRES BEAUTÉ](https://www.printemps.com/fr/fr/accessoires-beaute)
+*   [ACCESSOIRES BEAUTÉ](https://www.printemps.com/fr/fr/accessoires-beaute)
     
-* [COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
+*   [COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
     
-* [Tout l'univers beauté](https://www.printemps.com/fr/fr/toute-selection-beaute)
+*   [Tout l'univers beauté](https://www.printemps.com/fr/fr/toute-selection-beaute)
     
-* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
+*   [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
     
 
-* INSPIRATIONS
-    * [Scent Room](https://www.printemps.com/fr/fr/concept-beaute-scent-room)
-    * [Green market](https://www.printemps.com/fr/fr/concept-beaute-green-market)
-    * [K-beauty](https://www.printemps.com/fr/fr/concept-beaute-k-beauty)
-    * [Les meilleurs calendriers de l'Avent 2025](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
-    * [Smoky eyes : le guide complet pour un regard intense](https://www.printemps.com/fr/fr/edito-magazine-beaute-smoky-eyes)
-* SÉLECTIONS
-    * [Meilleures ventes](https://www.printemps.com/fr/fr/meilleures-ventes-beaute)
-    * [Parfums Bestsellers](https://www.printemps.com/fr/fr/parfums-bestsellers)
-    * [Parfums d'exception](https://www.printemps.com/fr/fr/parfum-niche)
-    * [Soins hydratants](https://www.printemps.com/fr/fr/soins-visage-hydratants)
-    * [Soins anti-imperfections](https://www.printemps.com/fr/fr/sos-imperfections)
-    * [Soins anti-âge](https://www.printemps.com/fr/fr/soins-visage/sct/Anti-%C3%A2ge+%26+Anti-ride)
+*   INSPIRATIONS
+    *   [Scent Room](https://www.printemps.com/fr/fr/concept-beaute-scent-room)
+    *   [Green market](https://www.printemps.com/fr/fr/concept-beaute-green-market)
+    *   [K-beauty](https://www.printemps.com/fr/fr/concept-beaute-k-beauty)
+    *   [Les meilleurs calendriers de l'Avent 2025](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
+    *   [Smoky eyes : le guide complet pour un regard intense](https://www.printemps.com/fr/fr/edito-magazine-beaute-smoky-eyes)
+*   SÉLECTIONS
+    *   [Meilleures ventes](https://www.printemps.com/fr/fr/meilleures-ventes-beaute)
+    *   [Parfums Bestsellers](https://www.printemps.com/fr/fr/parfums-bestsellers)
+    *   [Parfums d'exception](https://www.printemps.com/fr/fr/parfum-niche)
+    *   [Soins hydratants](https://www.printemps.com/fr/fr/soins-visage-hydratants)
+    *   [Soins anti-imperfections](https://www.printemps.com/fr/fr/sos-imperfections)
+    *   [Soins anti-âge](https://www.printemps.com/fr/fr/soins-visage/sct/Anti-%C3%A2ge+%26+Anti-ride)
 
-* [TOP MARQUES](https://www.printemps.com/fr/fr/marques-beaute)
-    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/univers-maison-francis-kurkdjian)
-    * [Victoria Beckham](https://www.printemps.com/fr/fr/victoria-beckham-beaute)
-    * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque-beaute)
-    * [Dyson](https://www.printemps.com/fr/fr/univers-dyson)
-    * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
-    * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
-    * [Hermès](https://www.printemps.com/fr/fr/univers-hermes)
-    * [Parfums de marly](https://www.printemps.com/fr/fr/parfum-parfums-de-marly)
-    * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
-    * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-    *  [![Image d'illustration](https://media-cdn.printemps.com/image/52/1/8699521.png)
+*   [TOP MARQUES](https://www.printemps.com/fr/fr/marques-beaute)
+    *   [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/univers-maison-francis-kurkdjian)
+    *   [Victoria Beckham](https://www.printemps.com/fr/fr/victoria-beckham-beaute)
+    *   [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque-beaute)
+    *   [Dyson](https://www.printemps.com/fr/fr/univers-dyson)
+    *   [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
+    *   [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
+    *   [Hermès](https://www.printemps.com/fr/fr/univers-hermes)
+    *   [Parfums de marly](https://www.printemps.com/fr/fr/parfum-parfums-de-marly)
+    *   [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
+    *   [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
+    *    [![Image d'illustration](https://media-cdn.printemps.com/image/52/1/8699521.png)
         
         ARMANI/PRIVÉ](https://www.printemps.com/fr/fr/armani-collection-beaute)
         
 
-*  [![Image d'illustration](https://media-cdn.printemps.com/image/52/1/8699521.png)
+*    [![Image d'illustration](https://media-cdn.printemps.com/image/52/1/8699521.png)
     
     ARMANI/PRIVÉ](https://www.printemps.com/fr/fr/armani-collection-beaute)
     
@@ -381,208 +381,208 @@ ARMANI/PRIVÉ](https://www.printemps.com/fr/fr/armani-collection-beaute)
 
 ARMANI/PRIVÉ](https://www.printemps.com/fr/fr/armani-collection-beaute)
 
-* [SPÉCIAL BLANC : Jusqu'à -40%](https://www.printemps.com/fr/fr/blanc-dhiver)
+*   [SPÉCIAL BLANC : Jusqu'à -40%](https://www.printemps.com/fr/fr/blanc-dhiver)
 
-* [LINGE DE MAISON](https://www.printemps.com/fr/fr/linge-de-maison)
+*   [LINGE DE MAISON](https://www.printemps.com/fr/fr/linge-de-maison)
 
-* [ARTS DE LA TABLE](https://www.printemps.com/fr/fr/arts-de-la-table)
+*   [ARTS DE LA TABLE](https://www.printemps.com/fr/fr/arts-de-la-table)
 
-* [DÉCORATION](https://www.printemps.com/fr/fr/decoration)
+*   [DÉCORATION](https://www.printemps.com/fr/fr/decoration)
 
-* [LITERIE](https://www.printemps.com/fr/fr/literie-maison)
+*   [LITERIE](https://www.printemps.com/fr/fr/literie-maison)
 
-* [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance)
+*   [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance)
     
-* [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-femme)
-    * [Luxe](https://www.printemps.com/fr/fr/last-chance-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
-    * [Sacs](https://www.printemps.com/fr/fr/last-chance-femme/esp/Sacs)
-    * [Sacs à main](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+%C3%A0+main)
-    * [Sacs bandoulière](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+bandouli%C3%A8re)
-    * [Vêtements](https://www.printemps.com/fr/fr/last-chance-femme/esp/V%C3%AAtements)
-    * [Robes](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Robes)
-    * [Tops & t-shirts](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Tops+et+t-shirts)
-    * [Chaussures](https://www.printemps.com/fr/fr/last-chance-femme/esp/Chaussures)
-    * [Baskets](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Baskets)
-    * [Bijoux](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Bijoux)
+*   [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/last-chance-femme)
+    *   [Luxe](https://www.printemps.com/fr/fr/last-chance-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
+    *   [Sacs](https://www.printemps.com/fr/fr/last-chance-femme/esp/Sacs)
+    *   [Sacs à main](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+%C3%A0+main)
+    *   [Sacs bandoulière](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+bandouli%C3%A8re)
+    *   [Vêtements](https://www.printemps.com/fr/fr/last-chance-femme/esp/V%C3%AAtements)
+    *   [Robes](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Robes)
+    *   [Tops & t-shirts](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Tops+et+t-shirts)
+    *   [Chaussures](https://www.printemps.com/fr/fr/last-chance-femme/esp/Chaussures)
+    *   [Baskets](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Baskets)
+    *   [Bijoux](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Bijoux)
 
-* [HOMME](https://www.printemps.com/fr/fr/last-chance-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-homme)
-    * [Vêtements](https://www.printemps.com/fr/fr/last-chance-homme/esp/V%C3%AAtements)
-    * [Chemises](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Chemises)
-    * [Tops & t-shirts](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Tops+et+t-shirts)
-    * [Pantalons](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Pantalons)
-    * [Shorts](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Shorts)
-    * [Chaussures](https://www.printemps.com/fr/fr/last-chance-homme/esp/Chaussures)
-    * [Baskets](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Baskets)
-    * [Sacs](https://www.printemps.com/fr/fr/last-chance-homme/esp/Sacs)
-    * [Accessoires](https://www.printemps.com/fr/fr/last-chance-homme/esp/Accessoires)
-    * [Luxe](https://www.printemps.com/fr/fr/last-chance-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS/BALMAIN)
+*   [HOMME](https://www.printemps.com/fr/fr/last-chance-homme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/last-chance-homme)
+    *   [Vêtements](https://www.printemps.com/fr/fr/last-chance-homme/esp/V%C3%AAtements)
+    *   [Chemises](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Chemises)
+    *   [Tops & t-shirts](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Tops+et+t-shirts)
+    *   [Pantalons](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Pantalons)
+    *   [Shorts](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Shorts)
+    *   [Chaussures](https://www.printemps.com/fr/fr/last-chance-homme/esp/Chaussures)
+    *   [Baskets](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Baskets)
+    *   [Sacs](https://www.printemps.com/fr/fr/last-chance-homme/esp/Sacs)
+    *   [Accessoires](https://www.printemps.com/fr/fr/last-chance-homme/esp/Accessoires)
+    *   [Luxe](https://www.printemps.com/fr/fr/last-chance-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS/BALMAIN)
 
-* [FEMME](https://www.printemps.com/fr/fr/marques-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/marques-femme)
-    * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme)
-    * [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
-    * [Prada](https://www.printemps.com/fr/fr/prada-femme)
-    * [Maje](https://www.printemps.com/fr/fr/maje-femme)
-    * [Moncler](https://www.printemps.com/fr/fr/moncler-femme)
-    * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
-    * [Jonak](https://www.printemps.com/fr/fr/jonak-femme)
-    * [Chloé](https://www.printemps.com/fr/fr/chloe-femme)
-    * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
-    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
-    * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
-    * [March Lab](https://www.printemps.com/fr/fr/marchlab-femme)
+*   [FEMME](https://www.printemps.com/fr/fr/marques-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/marques-femme)
+    *   [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme)
+    *   [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
+    *   [Prada](https://www.printemps.com/fr/fr/prada-femme)
+    *   [Maje](https://www.printemps.com/fr/fr/maje-femme)
+    *   [Moncler](https://www.printemps.com/fr/fr/moncler-femme)
+    *   [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
+    *   [Jonak](https://www.printemps.com/fr/fr/jonak-femme)
+    *   [Chloé](https://www.printemps.com/fr/fr/chloe-femme)
+    *   [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
+    *   [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
+    *   [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
+    *   [March Lab](https://www.printemps.com/fr/fr/marchlab-femme)
 
-* [HOMME](https://www.printemps.com/fr/fr/marques-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/marques-homme)
-    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren-homme)
-    * [Prada](https://www.printemps.com/fr/fr/prada-homme)
-    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
-    * [Moncler](https://www.printemps.com/fr/fr/moncler-homme)
-    * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
-    * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme)
-    * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
-    * [Autry](https://www.printemps.com/fr/fr/autry-homme)
-    * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    * [Ami Paris](https://www.printemps.com/fr/fr/univers-amiparis)
-    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
-    * [Seiko](https://www.printemps.com/fr/fr/seiko-homme)
+*   [HOMME](https://www.printemps.com/fr/fr/marques-homme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/marques-homme)
+    *   [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren-homme)
+    *   [Prada](https://www.printemps.com/fr/fr/prada-homme)
+    *   [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
+    *   [Moncler](https://www.printemps.com/fr/fr/moncler-homme)
+    *   [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
+    *   [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme)
+    *   [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
+    *   [Autry](https://www.printemps.com/fr/fr/autry-homme)
+    *   [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
+    *   [Ami Paris](https://www.printemps.com/fr/fr/univers-amiparis)
+    *   [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
+    *   [Seiko](https://www.printemps.com/fr/fr/seiko-homme)
 
-* [BEAUTÉ](https://www.printemps.com/fr/fr/marques-beaute)
-    * [Voir tout](https://www.printemps.com/fr/fr/marques-beaute)
-    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/univers-maison-francis-kurkdjian)
-    * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
-    * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
-    * [Hermès](https://www.printemps.com/fr/fr/univers-hermes)
-    * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
-    * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
-    * [Creed](https://www.printemps.com/fr/fr/creed-beaute)
-    * [Kilian Paris](https://www.printemps.com/fr/fr/kilian-paris-beaute)
-    * [Stéphanie Humbert Lucas](https://www.printemps.com/fr/fr/stephane-humbert-lucas-beaute)
-    * [Nars](https://www.printemps.com/fr/fr/nars-beaute)
+*   [BEAUTÉ](https://www.printemps.com/fr/fr/marques-beaute)
+    *   [Voir tout](https://www.printemps.com/fr/fr/marques-beaute)
+    *   [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/univers-maison-francis-kurkdjian)
+    *   [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
+    *   [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
+    *   [Hermès](https://www.printemps.com/fr/fr/univers-hermes)
+    *   [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
+    *   [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
+    *   [Creed](https://www.printemps.com/fr/fr/creed-beaute)
+    *   [Kilian Paris](https://www.printemps.com/fr/fr/kilian-paris-beaute)
+    *   [Stéphanie Humbert Lucas](https://www.printemps.com/fr/fr/stephane-humbert-lucas-beaute)
+    *   [Nars](https://www.printemps.com/fr/fr/nars-beaute)
 
-* [MAISON](https://www.printemps.com/fr/fr/marques-maison)
-    * [Au Printemps Paris](https://www.printemps.com/fr/fr/auprintempsparis-maison)
-    * [Maison Sarah Lavoine](https://www.printemps.com/fr/fr/maison-sarah-lavoine-maison)
-    * [10 Corso Como](https://www.printemps.com/fr/fr/10corsocomo-maison)
-    * [Alexandre Turpault](https://www.printemps.com/fr/fr/alexandre-turpault-maison)
-    * [Sabre Paris](https://www.printemps.com/fr/fr/sabre-paris-maison)
-* [Toutes les marques](https://www.printemps.com/fr/fr/marques)
-    
-
-* NOUVELLES MARQUES
-    * [Topshop](https://www.printemps.com/fr/fr/topshop-femme)
-    * [Our legacy](https://www.printemps.com/fr/fr/ourlegacy)
-    * [Lancel](https://www.printemps.com/fr/fr/lancel-femme)
-    * [Essentiel Antwerp](https://www.printemps.com/fr/fr/essentiel-antwerp-femme)
-    * [Jean Paul Gaultier](https://www.printemps.com/fr/fr/jean-paul-gaultier-femme)
-    * [Victoria Beckham](https://www.printemps.com/fr/fr/victoria-beckham-femme)
-    * [Rabanne](https://www.printemps.com/fr/fr/rabanne-femme)
-    * [Jil Sander Beauté](https://www.printemps.com/fr/fr/jil-sander-beaute)
-    * [Caudalie](https://www.printemps.com/fr/fr/caudalie-beaute)
-    * [Ba&sh](https://www.printemps.com/fr/fr/bash-femme)
-    * [Hamilton](https://www.printemps.com/fr/fr/hamilton)
-    * [Citizen](https://www.printemps.com/fr/fr/citizen)
-
-* TOP MARQUES
-    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865)
-    * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus)
-    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren)
-    * [Autry](https://www.printemps.com/fr/fr/autry)
-    * [Birkenstock](https://www.printemps.com/fr/fr/birkenstock)
-    * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
-    * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
-    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger)
-    * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
-    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/univers-maison-francis-kurkdjian)
-    * [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
-    * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein)
-
-* [Les tendances](https://www.printemps.com/fr/fr/tendances-femme)
-
-* [Le magazine](https://www.printemps.com/fr/fr/edito-magazine)
-
-* [Live shopping](https://www.printemps.com/fr/fr/live-shopping)
-
-* [Podcast](https://www.printemps.com/fr/fr/podcasts)
-
-* [NOS MAGASINS](https://www.printemps.com/fr/fr/magasins)
-    * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
-    * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
-    * [Printemps Haussmann](https://www.printemps.com/fr/fr/printemps-paris-haussmann)
-    * [Printemps Deauville](https://www.printemps.com/fr/fr/printemps-deauville)
-    * [Printemps Grand Var](https://www.printemps.com/fr/fr/printemps-toulon)
-    * [Printemps La Valentine](https://www.printemps.com/fr/fr/printemps-marseille-la-valentine)
-    * [Printemps Les Terrasses du Port](https://www.printemps.com/fr/fr/printemps-marseille-terrasses-port)
-    * [Printemps Lille](https://www.printemps.com/fr/fr/printemps-lille)
-    * [Printemps Lyon](https://www.printemps.com/fr/fr/printemps-lyon)
-    * [Printemps Nation](https://www.printemps.com/fr/fr/printemps-paris-nation)
-    * [Printemps Nancy](https://www.printemps.com/fr/fr/printemps-nancy)
-    * [Printemps Parly 2](https://www.printemps.com/fr/fr/printemps-paris-parly-2)
-    * [Printemps Rennes Alma](https://www.printemps.com/fr/fr/printemps-rennes)
-    * [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
-    * [Printemps Vélizy 2](https://www.printemps.com/fr/fr/printemps-paris-velizy-2)
-
-* [ACTUALITÉS MAGASINS](https://www.printemps.com/fr/fr/edito-magasins)
-    * [Le Printemps se met à l'heure New-yorkaise pour Noël](https://www.printemps.com/fr/fr/edito-magasins-noel-a-new-york-printemps)
-    * [Pour Noël plongez dans l'univers de New-York avec Ferrero Rocher®](https://www.printemps.com/fr/fr/edito-magasins-noel-ferrero-rocher-printemps-haussmann)
-    * [Pour Noël, rendez-vous au "Quartier des Jouets"](https://www.printemps.com/fr/fr/edito-magasins-jouets-printemps-haussmann)
-* [LES RESTAURANTS](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
-    
-* [Souvenir shop](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
+*   [MAISON](https://www.printemps.com/fr/fr/marques-maison)
+    *   [Au Printemps Paris](https://www.printemps.com/fr/fr/auprintempsparis-maison)
+    *   [Maison Sarah Lavoine](https://www.printemps.com/fr/fr/maison-sarah-lavoine-maison)
+    *   [10 Corso Como](https://www.printemps.com/fr/fr/10corsocomo-maison)
+    *   [Alexandre Turpault](https://www.printemps.com/fr/fr/alexandre-turpault-maison)
+    *   [Sabre Paris](https://www.printemps.com/fr/fr/sabre-paris-maison)
+*   [Toutes les marques](https://www.printemps.com/fr/fr/marques)
     
 
-* [NOS SERVICES](https://www.printemps.com/fr/fr/a-votre-service)
-    * [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
-    * [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
-    * [Shopping à distance](https://www.printemps.com/fr/fr/shopping-a-distance)
-    * [Click & Collect](https://www.printemps.com/fr/fr/livraisons-retours)
-    * [La carte cadeau](https://cartescadeaux.printemps.com/)
-    * [Carte Visa Printemps](https://www.printemps.com/fr/fr/carte-visa-printemps)
-    * [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
-    * [Evènements au Printemps](https://evenements.printemps.com/)
+*   NOUVELLES MARQUES
+    *   [Topshop](https://www.printemps.com/fr/fr/topshop-femme)
+    *   [Our legacy](https://www.printemps.com/fr/fr/ourlegacy)
+    *   [Lancel](https://www.printemps.com/fr/fr/lancel-femme)
+    *   [Essentiel Antwerp](https://www.printemps.com/fr/fr/essentiel-antwerp-femme)
+    *   [Jean Paul Gaultier](https://www.printemps.com/fr/fr/jean-paul-gaultier-femme)
+    *   [Victoria Beckham](https://www.printemps.com/fr/fr/victoria-beckham-femme)
+    *   [Rabanne](https://www.printemps.com/fr/fr/rabanne-femme)
+    *   [Jil Sander Beauté](https://www.printemps.com/fr/fr/jil-sander-beaute)
+    *   [Caudalie](https://www.printemps.com/fr/fr/caudalie-beaute)
+    *   [Ba&sh](https://www.printemps.com/fr/fr/bash-femme)
+    *   [Hamilton](https://www.printemps.com/fr/fr/hamilton)
+    *   [Citizen](https://www.printemps.com/fr/fr/citizen)
 
-* [Nos magasins](https://www.printemps.com/fr/fr/edito-magasins)
-    * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
-    * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
-    * [Printemps Haussmann](https://www.printemps.com/fr/fr/printemps-paris-haussmann)
-    * [Printemps Deauville](https://www.printemps.com/fr/fr/printemps-deauville)
-    * [Printemps Grand Var](https://www.printemps.com/fr/fr/printemps-toulon)
-    * [Printemps La Valentine](https://www.printemps.com/fr/fr/printemps-marseille-la-valentine)
-    * [Printemps Les Terrasses du Port](https://www.printemps.com/fr/fr/printemps-marseille-terrasses-port)
-    * [Printemps Lille](https://www.printemps.com/fr/fr/printemps-lille)
-    * [Printemps Nation](https://www.printemps.com/fr/fr/printemps-paris-nation)
-    * [Printemps Nancy](https://www.printemps.com/fr/fr/printemps-nancy)
-    * [Printemps Parly 2](https://www.printemps.com/fr/fr/printemps-paris-parly-2)
-    * [Printemps Rennes Alma](https://www.printemps.com/fr/fr/printemps-rennes)
-    * [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
-    * [Printemps Vélizy 2](https://www.printemps.com/fr/fr/printemps-paris-velizy-2)
+*   TOP MARQUES
+    *   [Saison 1865](https://www.printemps.com/fr/fr/saison1865)
+    *   [Jacquemus](https://www.printemps.com/fr/fr/jacquemus)
+    *   [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren)
+    *   [Autry](https://www.printemps.com/fr/fr/autry)
+    *   [Birkenstock](https://www.printemps.com/fr/fr/birkenstock)
+    *   [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
+    *   [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
+    *   [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger)
+    *   [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
+    *   [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/univers-maison-francis-kurkdjian)
+    *   [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
+    *   [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein)
 
-* Actualités magasins
-    * [Le Printemps se met à l'heure New-yorkaise pour Noël](https://www.printemps.com/fr/fr/edito-magasins-noel-a-new-york-printemps)
-    * [Pour Noël plongez dans l'univers de New-York avec Ferrero Rocher®](https://www.printemps.com/fr/fr/edito-magasins-noel-ferrero-rocher-printemps-haussmann)
-    * [Pour Noël, rendez-vous au "Quartier des Jouets"](https://www.printemps.com/fr/fr/edito-magasins-jouets-printemps-haussmann)
+*   [Les tendances](https://www.printemps.com/fr/fr/tendances-femme)
 
-* [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+*   [Le magazine](https://www.printemps.com/fr/fr/edito-magazine)
 
-* [Souvenir shop](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
+*   [Live shopping](https://www.printemps.com/fr/fr/live-shopping)
 
-* [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
+*   [Podcast](https://www.printemps.com/fr/fr/podcasts)
 
-* [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
+*   [NOS MAGASINS](https://www.printemps.com/fr/fr/magasins)
+    *   [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
+    *   [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
+    *   [Printemps Haussmann](https://www.printemps.com/fr/fr/printemps-paris-haussmann)
+    *   [Printemps Deauville](https://www.printemps.com/fr/fr/printemps-deauville)
+    *   [Printemps Grand Var](https://www.printemps.com/fr/fr/printemps-toulon)
+    *   [Printemps La Valentine](https://www.printemps.com/fr/fr/printemps-marseille-la-valentine)
+    *   [Printemps Les Terrasses du Port](https://www.printemps.com/fr/fr/printemps-marseille-terrasses-port)
+    *   [Printemps Lille](https://www.printemps.com/fr/fr/printemps-lille)
+    *   [Printemps Lyon](https://www.printemps.com/fr/fr/printemps-lyon)
+    *   [Printemps Nation](https://www.printemps.com/fr/fr/printemps-paris-nation)
+    *   [Printemps Nancy](https://www.printemps.com/fr/fr/printemps-nancy)
+    *   [Printemps Parly 2](https://www.printemps.com/fr/fr/printemps-paris-parly-2)
+    *   [Printemps Rennes Alma](https://www.printemps.com/fr/fr/printemps-rennes)
+    *   [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
+    *   [Printemps Vélizy 2](https://www.printemps.com/fr/fr/printemps-paris-velizy-2)
 
-* [Shopping à distance](https://www.printemps.com/fr/fr/shopping-a-distance)
+*   [ACTUALITÉS MAGASINS](https://www.printemps.com/fr/fr/edito-magasins)
+    *   [Le Printemps se met à l'heure New-yorkaise pour Noël](https://www.printemps.com/fr/fr/edito-magasins-noel-a-new-york-printemps)
+    *   [Pour Noël plongez dans l'univers de New-York avec Ferrero Rocher®](https://www.printemps.com/fr/fr/edito-magasins-noel-ferrero-rocher-printemps-haussmann)
+    *   [Pour Noël, rendez-vous au "Quartier des Jouets"](https://www.printemps.com/fr/fr/edito-magasins-jouets-printemps-haussmann)
+*   [LES RESTAURANTS](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+    
+*   [Souvenir shop](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
+    
 
-* [La carte cadeau](https://cartescadeaux.printemps.com/)
+*   [NOS SERVICES](https://www.printemps.com/fr/fr/a-votre-service)
+    *   [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
+    *   [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
+    *   [Shopping à distance](https://www.printemps.com/fr/fr/shopping-a-distance)
+    *   [Click & Collect](https://www.printemps.com/fr/fr/livraisons-retours)
+    *   [La carte cadeau](https://cartescadeaux.printemps.com/)
+    *   [Carte Visa Printemps](https://www.printemps.com/fr/fr/carte-visa-printemps)
+    *   [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
+    *   [Evènements au Printemps](https://evenements.printemps.com/)
 
-* [Carte Visa Printemps](https://www.printemps.com/fr/fr/carte-visa-printemps)
+*   [Nos magasins](https://www.printemps.com/fr/fr/edito-magasins)
+    *   [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
+    *   [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
+    *   [Printemps Haussmann](https://www.printemps.com/fr/fr/printemps-paris-haussmann)
+    *   [Printemps Deauville](https://www.printemps.com/fr/fr/printemps-deauville)
+    *   [Printemps Grand Var](https://www.printemps.com/fr/fr/printemps-toulon)
+    *   [Printemps La Valentine](https://www.printemps.com/fr/fr/printemps-marseille-la-valentine)
+    *   [Printemps Les Terrasses du Port](https://www.printemps.com/fr/fr/printemps-marseille-terrasses-port)
+    *   [Printemps Lille](https://www.printemps.com/fr/fr/printemps-lille)
+    *   [Printemps Nation](https://www.printemps.com/fr/fr/printemps-paris-nation)
+    *   [Printemps Nancy](https://www.printemps.com/fr/fr/printemps-nancy)
+    *   [Printemps Parly 2](https://www.printemps.com/fr/fr/printemps-paris-parly-2)
+    *   [Printemps Rennes Alma](https://www.printemps.com/fr/fr/printemps-rennes)
+    *   [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
+    *   [Printemps Vélizy 2](https://www.printemps.com/fr/fr/printemps-paris-velizy-2)
 
-* [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
+*   Actualités magasins
+    *   [Le Printemps se met à l'heure New-yorkaise pour Noël](https://www.printemps.com/fr/fr/edito-magasins-noel-a-new-york-printemps)
+    *   [Pour Noël plongez dans l'univers de New-York avec Ferrero Rocher®](https://www.printemps.com/fr/fr/edito-magasins-noel-ferrero-rocher-printemps-haussmann)
+    *   [Pour Noël, rendez-vous au "Quartier des Jouets"](https://www.printemps.com/fr/fr/edito-magasins-jouets-printemps-haussmann)
 
-* [Evénements au Printemps](https://evenements.printemps.com/)
+*   [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
 
-* [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
+*   [Souvenir shop](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
+
+*   [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
+
+*   [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
+
+*   [Shopping à distance](https://www.printemps.com/fr/fr/shopping-a-distance)
+
+*   [La carte cadeau](https://cartescadeaux.printemps.com/)
+
+*   [Carte Visa Printemps](https://www.printemps.com/fr/fr/carte-visa-printemps)
+
+*   [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
+
+*   [Evénements au Printemps](https://evenements.printemps.com/)
+
+*   [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
 
   
 
@@ -608,8 +608,8 @@ Les sociétés PRINTEMPS SAS\*1 et BPCP (Printemps du Louvre) \*2 (ci-après,
 
 Dans le cadre de la carte de paiement Printemps , la société CA Consumer Finance\*3, dont SOFINCO est une marque, est Responsable du traitement de vos données à caractères personnel. A ce titre, pour toute demande relative aux données à caractère personnel liées à la carte Visa Printemps, vous pouvez contacter le Délégué à la protection des données aux coordonnées ci-dessous :
 
-* Par courrier : CA Consumer Finance, Délégué à la protection des données, BP50075, 77213 AVON Cedex
-* Par email : [dpdcacf@ca-cf.fr](mailto:dpdcacf@ca-cf.fr)
+*   Par courrier : CA Consumer Finance, Délégué à la protection des données, BP50075, 77213 AVON Cedex
+*   Par email : [dpdcacf@ca-cf.fr](mailto:dpdcacf@ca-cf.fr)
 
   
 
@@ -629,16 +629,16 @@ Vous trouverez dans les onglets ci-dessous les informations suivantes : 
 
   
 
-* Les finalités de traitement pour lesquelles vos données à caractère personnel peuvent être collectées, c'est-à-dire l'objectif principal nécessitant le traitement de vos données à caractère personnel, et les utilisations de vos données qui y sont associées en fonction des sites internet des sociétés Printemps, à savoir :
-* printemps.com (PRINTEMPS.COM)
-* listes.printemps.com (PRINTEMPS LISTES)
+*   Les finalités de traitement pour lesquelles vos données à caractère personnel peuvent être collectées, c'est-à-dire l'objectif principal nécessitant le traitement de vos données à caractère personnel, et les utilisations de vos données qui y sont associées en fonction des sites internet des sociétés Printemps, à savoir :
+*   printemps.com (PRINTEMPS.COM)
+*   listes.printemps.com (PRINTEMPS LISTES)
 
 (ci-après, les « Sites »),
 
-* Le programme de fidélité Club Printemps et les Magasins Printemps.
-* Les données à caractère personnel que nous collectons afin de réaliser nos traitements ;
-* Les bases légales sur lesquelles repose le traitement de vos données à caractère personnel, c'est-à-dire le fondement qui nous autorise à traiter vos données ;
-* La durée de conservation de vos données à caractère personnel dans nos systèmes.
+*   Le programme de fidélité Club Printemps et les Magasins Printemps.
+*   Les données à caractère personnel que nous collectons afin de réaliser nos traitements ;
+*   Les bases légales sur lesquelles repose le traitement de vos données à caractère personnel, c'est-à-dire le fondement qui nous autorise à traiter vos données ;
+*   La durée de conservation de vos données à caractère personnel dans nos systèmes.
 
   
 
@@ -649,48 +649,48 @@ LA CRÉATION ET LA GESTION DE COMPTE
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* **Vous permettre de gérer vos préférences d'abonnement**
-* Email (et sms) pour Printemps.com
-* Email, sms ou courrier pour les Magasins Printemps.
-* **Améliorer la connaissance client grâce à des reportings et statistiques afin de vous envoyer des communications adaptées à vos préférences et centres d'intérêt.**
-* **Gérer vos inscriptions à nos services en ligne :** Personal shopper, RDV en magasin, Cagnotte, e-carte cadeau
-* **Réaliser des études et statistiques dédiées aux services souscris en ligne**
-* **Vous permettre de gérer vos identifiants et votre mot de passe**
+*   **Vous permettre de gérer vos préférences d'abonnement**
+*   Email (et sms) pour Printemps.com
+*   Email, sms ou courrier pour les Magasins Printemps.
+*   **Améliorer la connaissance client grâce à des reportings et statistiques afin de vous envoyer des communications adaptées à vos préférences et centres d'intérêt.**
+*   **Gérer vos inscriptions à nos services en ligne :** Personal shopper, RDV en magasin, Cagnotte, e-carte cadeau
+*   **Réaliser des études et statistiques dédiées aux services souscris en ligne**
+*   **Vous permettre de gérer vos identifiants et votre mot de passe**
 
   
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Civilité, nom, prénom
-* Numéro de téléphone
-* Pays de résidence
-* Adresse email
-* Date de naissance (si vous adhérez au programme de fidélité Club Printemps)
-* Vos points statut (si vous avez adhéré au programme de fidélité Club Printemps)
-* Vos points shopping (si vous avez adhéré au programme de fidélité Club Printemps)
-* Vos bons de réduction (si vous avez adhéré au programme de fidélité Club Printemps)
-* Vos journées Club Printemps (si vous avez adhéré au programme de fidélité Club Printemps)
-* Date de création de compte
-* Modes de paiement
-* Adresse de livraison
-* Adresse de facturation
-* Historique d'achat
+*   Civilité, nom, prénom
+*   Numéro de téléphone
+*   Pays de résidence
+*   Adresse email
+*   Date de naissance (si vous adhérez au programme de fidélité Club Printemps)
+*   Vos points statut (si vous avez adhéré au programme de fidélité Club Printemps)
+*   Vos points shopping (si vous avez adhéré au programme de fidélité Club Printemps)
+*   Vos bons de réduction (si vous avez adhéré au programme de fidélité Club Printemps)
+*   Vos journées Club Printemps (si vous avez adhéré au programme de fidélité Club Printemps)
+*   Date de création de compte
+*   Modes de paiement
+*   Adresse de livraison
+*   Adresse de facturation
+*   Historique d'achat
 
   
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* **Exécution d'un contrat**
-* **Votre consentement** (pour vous adresser des communications commerciales)
-* **Intérêt légitime des Sociétés Printemps** (pour améliorer notre connaissance client et pour la réalisation de statistiques)
+*   **Exécution d'un contrat**
+*   **Votre consentement** (pour vous adresser des communications commerciales)
+*   **Intérêt légitime des Sociétés Printemps** (pour améliorer notre connaissance client et pour la réalisation de statistiques)
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
-* **Prospect :** 3 ans après la dernière activité mail/sms\*5.
+*   **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
+*   **Prospect :** 3 ans après la dernière activité mail/sms\*5.
 
   
 
@@ -699,42 +699,42 @@ LA GESTION ET LE SUIVI DE VOS COMMANDES
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* Vous permettre de réaliser votre commande
-* Gérer le paiement de votre commande dans les conditions décrites au paragraphe suivant
-* Traiter votre commande et assurer son suivi et sa finalisation (si vous avez placé des produits dans votre panier d'achat sans finaliser la commande et procéder au paiement), ainsi que la livraison du produit à l'adresse indiquée
-* Gérer les retours de produits
-* Gérer tout contact que vous avez avec nous concernant votre commande
-* Mettre à disposition vos factures dans votre compte
-* Organiser et gérer vos échanges avec notre équipe du Personal Shopper (recherche des commandes antérieures pour assurer une proposition de produits cohérente avec vos achats antérieurs, en magasin ou sur notre site)
+*   Vous permettre de réaliser votre commande
+*   Gérer le paiement de votre commande dans les conditions décrites au paragraphe suivant
+*   Traiter votre commande et assurer son suivi et sa finalisation (si vous avez placé des produits dans votre panier d'achat sans finaliser la commande et procéder au paiement), ainsi que la livraison du produit à l'adresse indiquée
+*   Gérer les retours de produits
+*   Gérer tout contact que vous avez avec nous concernant votre commande
+*   Mettre à disposition vos factures dans votre compte
+*   Organiser et gérer vos échanges avec notre équipe du Personal Shopper (recherche des commandes antérieures pour assurer une proposition de produits cohérente avec vos achats antérieurs, en magasin ou sur notre site)
 
   
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Civilité, nom, prénom
-* Adresse email
-* Numéro de téléphone
-* Numéro de commande
-* Montant de la commande
-* Détail des articles achetés : Marque, Date d'achat, Modèle, Taille
-* Historique d'achat online et magasin
-* Date de la commande
-* Statut de la commande
-* Adresse postales (adresse, code postal, ville, pays de résidence)
-* Données de localisation (pour la livraison dans un magasin Printemps proche de chez vous). Nous vous informons que ces données de localisation ne sont pas conservées dans nos systèmes.
+*   Civilité, nom, prénom
+*   Adresse email
+*   Numéro de téléphone
+*   Numéro de commande
+*   Montant de la commande
+*   Détail des articles achetés : Marque, Date d'achat, Modèle, Taille
+*   Historique d'achat online et magasin
+*   Date de la commande
+*   Statut de la commande
+*   Adresse postales (adresse, code postal, ville, pays de résidence)
+*   Données de localisation (pour la livraison dans un magasin Printemps proche de chez vous). Nous vous informons que ces données de localisation ne sont pas conservées dans nos systèmes.
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* Exécution d'un contrat
-* Votre consentement (pour vous adresser des communications commerciales, y compris des communications de rappel, en lien avec les produits placés dans votre panier d'achat et dont la commande n'a pas été finalisée)
+*   Exécution d'un contrat
+*   Votre consentement (pour vous adresser des communications commerciales, y compris des communications de rappel, en lien avec les produits placés dans votre panier d'achat et dont la commande n'a pas été finalisée)
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
-* **Client en tant qu'invité :** le temps nécessaire pour la réalisation des services.
+*   **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
+*   **Client en tant qu'invité :** le temps nécessaire pour la réalisation des services.
 
   
 
@@ -747,29 +747,29 @@ Il est précisé que les informations relatives au paiement (numéro de carte ba
 
   
 
-* Gérer le paiement de votre commande et vous garantir l'utilisation des divers moyens de paiement, notamment de votre cagnotte en ligne.             
-* Prévenir et gérer la fraude et les impayés dans les conditions décrites au paragraphe ci-après et intitulé « La prévention et la gestion de la fraude et des impayés sur Printemps.com et Printemps Listes, dans les Magasins Printemps et pour le Club Printemps ».  
+*   Gérer le paiement de votre commande et vous garantir l'utilisation des divers moyens de paiement, notamment de votre cagnotte en ligne.             
+*   Prévenir et gérer la fraude et les impayés dans les conditions décrites au paragraphe ci-après et intitulé « La prévention et la gestion de la fraude et des impayés sur Printemps.com et Printemps Listes, dans les Magasins Printemps et pour le Club Printemps ».  
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Coordonnées bancaires (titulaire de la carte, numéro de carte, date de fin de validité, cryptogramme)
-* Modalités de paiement (carte bancaire, carte cadeau, bon d'achat, compte PayPal, carte de paiement Visa Printemps, cagnotte en ligne Cadeau Commun)
+*   Coordonnées bancaires (titulaire de la carte, numéro de carte, date de fin de validité, cryptogramme)
+*   Modalités de paiement (carte bancaire, carte cadeau, bon d'achat, compte PayPal, carte de paiement Visa Printemps, cagnotte en ligne Cadeau Commun)
 
   
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* **Exécution d'un contrat**
-* **Votre consentement** (pour la conservation de votre carte bancaire dans votre portefeuille électronique pour faciliter vos achats ultérieurs)
+*   **Exécution d'un contrat**
+*   **Votre consentement** (pour la conservation de votre carte bancaire dans votre portefeuille électronique pour faciliter vos achats ultérieurs)
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* **Le cryptogramme** n'est pas conservé par notre prestataire de service de paiement après la réalisation de la transaction.
-* **Le numéro de carte, la date de validité et le nom du titulaire de la carte** sont conservés par notre prestataire de paiement pour une durée maximum de 15 mois afin de permettre la gestion des réclamations du titulaire de la carte bancaire.
-* Si vous donnez votre consentement pour la conservation de votre carte bancaire dans votre portefeuille électronique, les données bancaires seront conservées par notre prestataire de paiement jusqu'au retrait de votre consentement et/ou à l'expiration de la validité de votre carte bancaire, pour une durée maximum de 5 ans.
+*   **Le cryptogramme** n'est pas conservé par notre prestataire de service de paiement après la réalisation de la transaction.
+*   **Le numéro de carte, la date de validité et le nom du titulaire de la carte** sont conservés par notre prestataire de paiement pour une durée maximum de 15 mois afin de permettre la gestion des réclamations du titulaire de la carte bancaire.
+*   Si vous donnez votre consentement pour la conservation de votre carte bancaire dans votre portefeuille électronique, les données bancaires seront conservées par notre prestataire de paiement jusqu'au retrait de votre consentement et/ou à l'expiration de la validité de votre carte bancaire, pour une durée maximum de 5 ans.
 
   
 
@@ -778,40 +778,40 @@ GERER LA CREATION DE LA CAGNOTTE EN LIGNE SUR LE SITE PRINTEMPS.COM
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* Vous permettre de créer votre cagnotte en ligne et d'inviter des participants
-* Permettre aux invités de verser une participation
-* Vous permettre de dépenser ou d'offrir votre cagnotte
-* Vous permettre de remercier les participants à votre cagnotte
-* Assurer la lutte contre le blanchiment d'argent et contre le financement du terrorisme
+*   Vous permettre de créer votre cagnotte en ligne et d'inviter des participants
+*   Permettre aux invités de verser une participation
+*   Vous permettre de dépenser ou d'offrir votre cagnotte
+*   Vous permettre de remercier les participants à votre cagnotte
+*   Assurer la lutte contre le blanchiment d'argent et contre le financement du terrorisme
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
 **Pour l'organisateur**
 
-* Nom du cadeau commun
-* Nom de l'organisateur
-* Date de l'évènement
-* Description de l'évènement
+*   Nom du cadeau commun
+*   Nom de l'organisateur
+*   Date de l'évènement
+*   Description de l'évènement
 
   
 
 **Pour le participant**
 
-* Nom, prénom
-* Adresse email
-* Montant de la participation
-* Coordonnées bancaires (numéro de carte, date de fin de validité, cryptogramme)
-* Message personnalisé pour le bénéficiaire
+*   Nom, prénom
+*   Adresse email
+*   Montant de la participation
+*   Coordonnées bancaires (numéro de carte, date de fin de validité, cryptogramme)
+*   Message personnalisé pour le bénéficiaire
 
   
 
 **Pour le bénéficiaire**
 
-* Nom, prénom
-* Adresse email
-* Message personnalisé
-* Numéro de carte cadeau
+*   Nom, prénom
+*   Adresse email
+*   Message personnalisé
+*   Numéro de carte cadeau
 
   
 
@@ -822,14 +822,14 @@ _Il est précisé que les coordonnées bancaires ne sont pas collectées par nos
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* **Exécution d'un contrat**
+*   **Exécution d'un contrat**
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* Pour l'organisateur et le bénéficiaire clients : 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
-* Pour l'organisateur et le bénéficiaire prospects : 3 ans après la dernière activité mail/sms\*5
-* Pour le participant : 1 an après la réalisation de la participation
+*   Pour l'organisateur et le bénéficiaire clients : 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
+*   Pour l'organisateur et le bénéficiaire prospects : 3 ans après la dernière activité mail/sms\*5
+*   Pour le participant : 1 an après la réalisation de la participation
 
   
 
@@ -838,12 +838,12 @@ VOUS INFORMER DE LA DISPONIBILITE D'UN PRODUIT QUE VOUS SOUHAITIEZ ACHETER SUR P
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Adresse email
+*   Adresse email
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* Email address
+*   Email address
 
   
 
@@ -857,71 +857,71 @@ L'OUVERTURE ET LA GESTION DE VOTRE LISTE SUR PRINTEMPS LISTES
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* Vous permettre de créer votre liste de mariage/naissance/cadeau 100% shopping ou 50/50 shopping & cash
-* Vous permettre de gérer votre compte client, votre liste cadeaux et votre carte Printemps Listes
-* Gérer l'animation commerciale à la suite de l'ouverture de la liste
-* Vous permettre de personnaliser votre compte et vos offres
-* Gérer l'offre de parrainage d'une liste de mariage ou de naissance
-* Vous permettre de remercier les participants
+*   Vous permettre de créer votre liste de mariage/naissance/cadeau 100% shopping ou 50/50 shopping & cash
+*   Vous permettre de gérer votre compte client, votre liste cadeaux et votre carte Printemps Listes
+*   Gérer l'animation commerciale à la suite de l'ouverture de la liste
+*   Vous permettre de personnaliser votre compte et vos offres
+*   Gérer l'offre de parrainage d'une liste de mariage ou de naissance
+*   Vous permettre de remercier les participants
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Numéro de compte Printemps Listes
-* Date d'ouverture du compte
-* Date d'expiration du compte
-* Civilité, nom, prénom
-* Date de naissance
-* Adresse email
-* Numéro de téléphone
-* Adresse postale
-* Pays de résidence
-* Type d'évènement
-* Date de l'évènement
-* Contrat Printemps Listes
-* Options de personnalisation de la liste (visuel et texte)
-* Liste des cadeaux présélectionnés
-* Liste des participations
-* Date d'adhésion
-* Date de fin de contrat
-* Relevés de compte (participations, achats, versements, virements participations, remboursements)
-* Solde du compte
-* Reste-du sur voyage de noces en cas d'acompte
-* Numéro de carte Printemps Listes et statut
-* Procuration pour un tiers désigné par le(s) bénéficiaire(s) pour l'attribution d'une carte Printemps Listes
-* Magasin Printemps d'ouverture et de rattachement
-* Les données d'achat dans le cadre de la liste
-* Les données du parrain et du filleul collectées à la suite du parrainage d'une liste de mariage, ou de naissance
-* Les données relatives à l'approbation ou au refus de prospection commerciale par mail
-* Les données permettant l'opposition au compte Printemps Listes en cas de perte ou de vol de la carte
+*   Numéro de compte Printemps Listes
+*   Date d'ouverture du compte
+*   Date d'expiration du compte
+*   Civilité, nom, prénom
+*   Date de naissance
+*   Adresse email
+*   Numéro de téléphone
+*   Adresse postale
+*   Pays de résidence
+*   Type d'évènement
+*   Date de l'évènement
+*   Contrat Printemps Listes
+*   Options de personnalisation de la liste (visuel et texte)
+*   Liste des cadeaux présélectionnés
+*   Liste des participations
+*   Date d'adhésion
+*   Date de fin de contrat
+*   Relevés de compte (participations, achats, versements, virements participations, remboursements)
+*   Solde du compte
+*   Reste-du sur voyage de noces en cas d'acompte
+*   Numéro de carte Printemps Listes et statut
+*   Procuration pour un tiers désigné par le(s) bénéficiaire(s) pour l'attribution d'une carte Printemps Listes
+*   Magasin Printemps d'ouverture et de rattachement
+*   Les données d'achat dans le cadre de la liste
+*   Les données du parrain et du filleul collectées à la suite du parrainage d'une liste de mariage, ou de naissance
+*   Les données relatives à l'approbation ou au refus de prospection commerciale par mail
+*   Les données permettant l'opposition au compte Printemps Listes en cas de perte ou de vol de la carte
 
 Données spécifiques traitées par Printemps Listes pour la liste 50/50 shopping & cash sur le site de Zankyou :
 --------------------------------------------------------------------------------------------------------------
 
-* Identifiant Zankyou
-* Civilité, nom, prénom
-* Adresse email
-* Adresse postale
-* Numéro de téléphone
-* Magasin Printemps choisi
-* Situation de famille (mariage)
-* Date de naissance
-* Pays de résidence
-* Date du mariage
-* Choix de la liste 50/50
-* Canal d'ouverture de la liste
-* Statut liste chez Zankyou/dates associées
-* Virements/remboursements de participation
-* Informations sur la participation (Identifiant opération Zankyou, canal, date, détails d'une participation, nom des participants et éventuellement, montant de la participation)
-* Les données relatives à l'approbation ou au refus de prospection commerciale Printemps Listes par mail avec préférences de communications
+*   Identifiant Zankyou
+*   Civilité, nom, prénom
+*   Adresse email
+*   Adresse postale
+*   Numéro de téléphone
+*   Magasin Printemps choisi
+*   Situation de famille (mariage)
+*   Date de naissance
+*   Pays de résidence
+*   Date du mariage
+*   Choix de la liste 50/50
+*   Canal d'ouverture de la liste
+*   Statut liste chez Zankyou/dates associées
+*   Virements/remboursements de participation
+*   Informations sur la participation (Identifiant opération Zankyou, canal, date, détails d'une participation, nom des participants et éventuellement, montant de la participation)
+*   Les données relatives à l'approbation ou au refus de prospection commerciale Printemps Listes par mail avec préférences de communications
 
   
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* Exécution d'un contrat
-* Votre consentement (Vous disposez d'un droit de désabonnement pour les communications commerciales envoyées dans le cadre de votre liste)
+*   Exécution d'un contrat
+*   Votre consentement (Vous disposez d'un droit de désabonnement pour les communications commerciales envoyées dans le cadre de votre liste)
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
@@ -950,14 +950,14 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Civilité, nom, prénom
-* Adresses email et postale
-* Numéro de téléphone
-* Type d'évènement / Nom de l'expérience
-* Liste des participations
-* Relevés de compte (participations, achats, versements, virements participations, remboursements)
-* Solde du compte
-* Les données relatives à l'approbation ou au refus de prospection commerciale par mail
+*   Civilité, nom, prénom
+*   Adresses email et postale
+*   Numéro de téléphone
+*   Type d'évènement / Nom de l'expérience
+*   Liste des participations
+*   Relevés de compte (participations, achats, versements, virements participations, remboursements)
+*   Solde du compte
+*   Les données relatives à l'approbation ou au refus de prospection commerciale par mail
 
   
 
@@ -980,31 +980,31 @@ GERER VOS PARTICIPATIONS A UNE LISTE OU A UNE EXPERIENCE LE TEMPS PRINTEMPS
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* Gérer les participations à une liste ou à une expérience Le Temps Printemps
-* Permettre au(x) bénéficiaire(s) de la liste ou de l'expérience Le Temps Printemps de remercier les participants
+*   Gérer les participations à une liste ou à une expérience Le Temps Printemps
+*   Permettre au(x) bénéficiaire(s) de la liste ou de l'expérience Le Temps Printemps de remercier les participants
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Civilité, nom, prénom du participant
-* Adresse email
-* Pays
-* Message du participant à destination du bénéficiaire de la liste / message de l'organisateur à destination du bénéficiaire d'une expérience Le Temps Printemps
-* Les données permettant la gestion de la participation à une liste ou à une expérience Le Temps Printemps (date et heure de la participation, produit réservé pour une liste, montant de la participation par exemple)
-* Mode de paiement et coordonnées bancaires (Il est précisé que les informations relatives au paiement et coordonnées bancaires ne sont pas collectées par nos soins mais directement par nos prestataires de service de paiement pour plus d'informations, vous pouvez consulter la rubrique « Gérer le paiement de votre commande » ci-dessus)
-* Adresse IP de la connexion
+*   Civilité, nom, prénom du participant
+*   Adresse email
+*   Pays
+*   Message du participant à destination du bénéficiaire de la liste / message de l'organisateur à destination du bénéficiaire d'une expérience Le Temps Printemps
+*   Les données permettant la gestion de la participation à une liste ou à une expérience Le Temps Printemps (date et heure de la participation, produit réservé pour une liste, montant de la participation par exemple)
+*   Mode de paiement et coordonnées bancaires (Il est précisé que les informations relatives au paiement et coordonnées bancaires ne sont pas collectées par nos soins mais directement par nos prestataires de service de paiement pour plus d'informations, vous pouvez consulter la rubrique « Gérer le paiement de votre commande » ci-dessus)
+*   Adresse IP de la connexion
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* **Exécution d'un contrat**
+*   **Exécution d'un contrat**
 
   
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* **Participant :** 3 ans après la participation à une liste ou à une expérience Le Temps Printemps
+*   **Participant :** 3 ans après la participation à une liste ou à une expérience Le Temps Printemps
 
 VOUS INVITER AU GRAND DEFILE MARIAGE - PRINTEMPS LISTES
 
@@ -1015,48 +1015,48 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 
 **Données communes traitées par Printemps Listes pour les 2 types de listes : Liste 100% shopping et Liste 50/50 Shopping & Cash :**
 
-* Numéro de compte Printemps Listes
-* Date d'ouverture du compte
-* Date d'expiration du compte
-* Civilité, nom, prénom
-* Date de naissance
-* Adresse email
-* Numéro de téléphone
-* Adresse postale
-* Pays de résidence
-* Type d'évènement
-* Date de l'évènement
-* Contrat Printemps Listes
-* Options de personnalisation de la liste (visuel et texte)
-* Liste des cadeaux présélectionnés
-* Liste des dons
-* Date d'adhésion
-* Date de fin de contrat
-* Relevés de compte (dons, achats, versements, virements dons, remboursements)
-* Solde du compte
-* Reste-du sur voyage de noces en cas d'acompte
-* Numéro de carte Printemps Listes et statut
-* Procuration pour un tiers désigné par le(s) bénéficiaire(s) pour l'attribution d'une carte Printemps Listes
-* Magasin Printemps d'ouverture et de rattachement
-* Les données d'achat dans le cadre de la liste
-* Les données du parrain et du filleul collectées à la suite du parrainage d'une liste de mariage, ou de naissance
-* Les données relatives à l'approbation ou au refus de prospection commerciale par mail
-* Les données permettant l'opposition au compte Printemps Listes en cas de perte ou de vol de la carte
+*   Numéro de compte Printemps Listes
+*   Date d'ouverture du compte
+*   Date d'expiration du compte
+*   Civilité, nom, prénom
+*   Date de naissance
+*   Adresse email
+*   Numéro de téléphone
+*   Adresse postale
+*   Pays de résidence
+*   Type d'évènement
+*   Date de l'évènement
+*   Contrat Printemps Listes
+*   Options de personnalisation de la liste (visuel et texte)
+*   Liste des cadeaux présélectionnés
+*   Liste des dons
+*   Date d'adhésion
+*   Date de fin de contrat
+*   Relevés de compte (dons, achats, versements, virements dons, remboursements)
+*   Solde du compte
+*   Reste-du sur voyage de noces en cas d'acompte
+*   Numéro de carte Printemps Listes et statut
+*   Procuration pour un tiers désigné par le(s) bénéficiaire(s) pour l'attribution d'une carte Printemps Listes
+*   Magasin Printemps d'ouverture et de rattachement
+*   Les données d'achat dans le cadre de la liste
+*   Les données du parrain et du filleul collectées à la suite du parrainage d'une liste de mariage, ou de naissance
+*   Les données relatives à l'approbation ou au refus de prospection commerciale par mail
+*   Les données permettant l'opposition au compte Printemps Listes en cas de perte ou de vol de la carte
 
   
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* **Exécution d'un contrat**
-* **Votre consentement** (pour vous adresser des communications commerciales)
+*   **Exécution d'un contrat**
+*   **Votre consentement** (pour vous adresser des communications commerciales)
 
   
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* 3 ans à partir de la date d'inscription au défilé
+*   3 ans à partir de la date d'inscription au défilé
 
   
 
@@ -1067,29 +1067,29 @@ LA GESTION DE VOS ACHATS A DISTANCE DANS LES MAGASINS PRINTEMPS PARTICIPANTS
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* La création et la gestion de votre compte vente à distance
-* La réalisation des ventes à distance dans les magasins participants dans le cadre des produits présentés en Live et Stories sur le Compte Instagram @printempsofficial, via le site [**www.printemps.com**](https://www.printemps.com/fr/fr), les Personal Shoppers (vous permettre de réaliser votre commande, gérer le paiement de votre commande)
-* La gestion et le suivi de vos commandes (traiter votre commande et assurer son suivi, ainsi que la livraison du produit à l'adresse indiquée ou en Click and Collect, gérer les retours de produits, gérer tout contact que vous avez avec nous concernant votre commande)
+*   La création et la gestion de votre compte vente à distance
+*   La réalisation des ventes à distance dans les magasins participants dans le cadre des produits présentés en Live et Stories sur le Compte Instagram @printempsofficial, via le site [**www.printemps.com**](https://www.printemps.com/fr/fr), les Personal Shoppers (vous permettre de réaliser votre commande, gérer le paiement de votre commande)
+*   La gestion et le suivi de vos commandes (traiter votre commande et assurer son suivi, ainsi que la livraison du produit à l'adresse indiquée ou en Click and Collect, gérer les retours de produits, gérer tout contact que vous avez avec nous concernant votre commande)
 
   
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Civilité, nom, prénom
-* Numéro de téléphone
-* Adresse postale
-* Pays
-* Adresse email
-* Date de naissance
-* Numéro, montant, et date de la transaction
-* Détail et marque des articles achetés
-* Date de création de compte de vente à distance
-* Historique des commandes
-* Coordonnées bancaires (titulaire de la carte, numéro de carte, date de fin de validité, cryptogramme)
-* Les données permettant la gestion du compte fidélité Club Printemps (date d'adhésion, type de carte, numéro de compte Club Printemps, numéro de carte Visa Printemps)
-* Les données relatives aux achats à distance effectués par la personne ayant adhéré au programme Club Printemps
-* Votre statut, vos avantages et le montant de votre cagnotte (si vous avez adhéré au programme de fidélité Club Printemps)
+*   Civilité, nom, prénom
+*   Numéro de téléphone
+*   Adresse postale
+*   Pays
+*   Adresse email
+*   Date de naissance
+*   Numéro, montant, et date de la transaction
+*   Détail et marque des articles achetés
+*   Date de création de compte de vente à distance
+*   Historique des commandes
+*   Coordonnées bancaires (titulaire de la carte, numéro de carte, date de fin de validité, cryptogramme)
+*   Les données permettant la gestion du compte fidélité Club Printemps (date d'adhésion, type de carte, numéro de compte Club Printemps, numéro de carte Visa Printemps)
+*   Les données relatives aux achats à distance effectués par la personne ayant adhéré au programme Club Printemps
+*   Votre statut, vos avantages et le montant de votre cagnotte (si vous avez adhéré au programme de fidélité Club Printemps)
 
   
 
@@ -1100,15 +1100,15 @@ _Il est précisé que les coordonnées bancaires ne sont pas collectées par nos
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* **Exécution d'un contrat**
+*   **Exécution d'un contrat**
 
   
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* **Clients titulaires d'une carte fidélité :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
-* **Clients non titulaires d'une carte fidélité :** le temps nécessaire à la réalisation des finalités
+*   **Clients titulaires d'une carte fidélité :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
+*   **Clients non titulaires d'une carte fidélité :** le temps nécessaire à la réalisation des finalités
 
   
 
@@ -1119,53 +1119,53 @@ LA GESTION DE L'INSCRIPTION AU PROGRAMME DE FIDELITE CLUB PRINTEMPS
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* Gérer votre inscription au programme de fidélité
-* Vous permettre de bénéficier de notre offre Welcome (offre réservée à notre clientèle internationale)
-* Vous permettre de créer et gérer votre compte sur printemps.com
-* Vous permettre de gérer votre carte de fidélité dématérialisée dans le Wallet de votre téléphone
-* Gérer l'animation, l'amélioration, la personnalisation de vos offres et services ainsi que le suivi de la relation client dans le cadre de l'adhésion au programme
-* Gérer vos avantages et services dans le cadre du programme de fidélité
-* Normalisation des données
-* Le recouvrement des achats effectués au Printemps et réglés au moyen de la carte de paiement Visa Printemps en cas de rejet du dossier de crédit pour cause de pièces justificatives manquantes ou erronées, ou en cas d'exercice du droit à la rétraction
+*   Gérer votre inscription au programme de fidélité
+*   Vous permettre de bénéficier de notre offre Welcome (offre réservée à notre clientèle internationale)
+*   Vous permettre de créer et gérer votre compte sur printemps.com
+*   Vous permettre de gérer votre carte de fidélité dématérialisée dans le Wallet de votre téléphone
+*   Gérer l'animation, l'amélioration, la personnalisation de vos offres et services ainsi que le suivi de la relation client dans le cadre de l'adhésion au programme
+*   Gérer vos avantages et services dans le cadre du programme de fidélité
+*   Normalisation des données
+*   Le recouvrement des achats effectués au Printemps et réglés au moyen de la carte de paiement Visa Printemps en cas de rejet du dossier de crédit pour cause de pièces justificatives manquantes ou erronées, ou en cas d'exercice du droit à la rétraction
 
   
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Civilité, nom, prénom
-* Numéro de téléphone
-* Adresse postale
-* Pays de résidence
-* Adresse email
-* Date de naissance
-* Données de paiement (date et montant de la transaction, type de moyen de paiement) Il est précisé que les informations relatives au paiement (numéro de carte bancaire/coordonnées bancaires) ne sont pas collectées par nos soins mais directement par nos prestataires de service de paiement.
-* Les données permettant la gestion du compte fidélité Club Printemps (date d'adhésion, type de carte, réclamation client, numéro de compte Club Printemps, numéro de carte Visa Printemps)
-* Les données relatives aux achats effectués par la personne ayant adhéré au programme Club Printemps
-* Les données relatives aux éventuels retours (date de retour, montant du retour) et données relatives à l'escompte (montant de l'escompte)
-* L'historique des statuts, des montants cumulés et des avantages
-* Les données de préférence avec le choix des 3 marques préférées du titulaire
-* Les données relatives à l'approbation ou le refus de prospection commerciale et les préférences d'abonnement
-* Les données justificatives permettant la résiliation du programme ou du compte Club Printemps par un tiers agissant pour le compte du titulaire (décès, mise sous tutelle, etc.)
-* Les données permettant l'opposition au programme Club Printemps en cas de perte ou vol de la carte (document d'identité)
-* Le numéro de passeport (pour l'adhésion au programme de fidélité et pour l'inscription à l'offre Welcome réservée à notre clientèle internationale)
+*   Civilité, nom, prénom
+*   Numéro de téléphone
+*   Adresse postale
+*   Pays de résidence
+*   Adresse email
+*   Date de naissance
+*   Données de paiement (date et montant de la transaction, type de moyen de paiement) Il est précisé que les informations relatives au paiement (numéro de carte bancaire/coordonnées bancaires) ne sont pas collectées par nos soins mais directement par nos prestataires de service de paiement.
+*   Les données permettant la gestion du compte fidélité Club Printemps (date d'adhésion, type de carte, réclamation client, numéro de compte Club Printemps, numéro de carte Visa Printemps)
+*   Les données relatives aux achats effectués par la personne ayant adhéré au programme Club Printemps
+*   Les données relatives aux éventuels retours (date de retour, montant du retour) et données relatives à l'escompte (montant de l'escompte)
+*   L'historique des statuts, des montants cumulés et des avantages
+*   Les données de préférence avec le choix des 3 marques préférées du titulaire
+*   Les données relatives à l'approbation ou le refus de prospection commerciale et les préférences d'abonnement
+*   Les données justificatives permettant la résiliation du programme ou du compte Club Printemps par un tiers agissant pour le compte du titulaire (décès, mise sous tutelle, etc.)
+*   Les données permettant l'opposition au programme Club Printemps en cas de perte ou vol de la carte (document d'identité)
+*   Le numéro de passeport (pour l'adhésion au programme de fidélité et pour l'inscription à l'offre Welcome réservée à notre clientèle internationale)
 
   
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* **Exécution d'un contrat** (pour la gestion de votre inscription au programme de fidélité)
-* **Votre consentement** (pour vous adresser des communications commerciales)
-* **Intérêt légitime des sociétés Printemps** (pour le recouvrement des achats effectués au Printemps et réglés au moyen de la carte de paiement Visa Printemps)
+*   **Exécution d'un contrat** (pour la gestion de votre inscription au programme de fidélité)
+*   **Votre consentement** (pour vous adresser des communications commerciales)
+*   **Intérêt légitime des sociétés Printemps** (pour le recouvrement des achats effectués au Printemps et réglés au moyen de la carte de paiement Visa Printemps)
 
   
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
-* Les données traitées dans le cadre du recouvrement sont conservées 15 jours après la clôture du dossier.
+*   3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
+*   Les données traitées dans le cadre du recouvrement sont conservées 15 jours après la clôture du dossier.
 
 LA GESTION DE L'INSCRIPTION A LA NEWSLETTER SUR PRINTEMPS.COM, PRINTEMPS LISTES, CLUB PRINTEMPS
 
@@ -1174,36 +1174,36 @@ LA GESTION DE L'INSCRIPTION A LA NEWSLETTER SUR PRINTEMPS.COM, PRINTEMPS LISTES,
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* Vous envoyer nos newsletters
-* Vous permettre de gérer vos préférences d'abonnement
-* Améliorer la connaissance client grâce à des reportings et statistiques afin de vous envoyer des communications commerciales adaptées à vos préférences et centres d'intérêt. (non applicable pour Printemps Listes)
+*   Vous envoyer nos newsletters
+*   Vous permettre de gérer vos préférences d'abonnement
+*   Améliorer la connaissance client grâce à des reportings et statistiques afin de vous envoyer des communications commerciales adaptées à vos préférences et centres d'intérêt. (non applicable pour Printemps Listes)
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Civilité, nom, prénom
-* Date de naissance (non applicable pour Printemps Listes)
-* Adresse email
-* Numéro de téléphone (non applicable pour Printemps Listes)
-* Les données sur les préférences magasin et les préférences d'abonnement
-* Les données relatives à l'approbation ou au refus de prospection commerciale (sms ou email)
-* Code postal
-* Ville
-* Pays
+*   Civilité, nom, prénom
+*   Date de naissance (non applicable pour Printemps Listes)
+*   Adresse email
+*   Numéro de téléphone (non applicable pour Printemps Listes)
+*   Les données sur les préférences magasin et les préférences d'abonnement
+*   Les données relatives à l'approbation ou au refus de prospection commerciale (sms ou email)
+*   Code postal
+*   Ville
+*   Pays
 
   
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* **Votre consentement**
-* **Intérêt légitime des Sociétés Printemps** (pour améliorer notre connaissance client)
+*   **Votre consentement**
+*   **Intérêt légitime des Sociétés Printemps** (pour améliorer notre connaissance client)
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
-* **Prospect :** 3 ans après la dernière activité mail/sms\*5
+*   **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
+*   **Prospect :** 3 ans après la dernière activité mail/sms\*5
 
   
 
@@ -1241,8 +1241,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
-* **Prospect :** 3 ans après la dernière activité mail/sms\*5
+*   **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
+*   **Prospect :** 3 ans après la dernière activité mail/sms\*5
 
   
 
@@ -1271,15 +1271,15 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* **Votre consentement**
+*   **Votre consentement**
 
   
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
-* **Prospect :** 3 ans après la dernière activité mail/sms\*5
+*   **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
+*   **Prospect :** 3 ans après la dernière activité mail/sms\*5
 
   
 
@@ -1344,8 +1344,8 @@ ENVOI D'OFFRES COMMERCIALES
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* Réaliser des actions promotionnelles (informations sur les temps forts commerciaux, les offres spéciales, invitations aux évènements et salons)
-* Vous adresser par email, par SMS ou par animation/affichage sur le site des communications commerciales pouvant être adaptées à votre profil et à vos préférences (non applicable pour Printemps Listes)
+*   Réaliser des actions promotionnelles (informations sur les temps forts commerciaux, les offres spéciales, invitations aux évènements et salons)
+*   Vous adresser par email, par SMS ou par animation/affichage sur le site des communications commerciales pouvant être adaptées à votre profil et à vos préférences (non applicable pour Printemps Listes)
 
   
 
@@ -1356,27 +1356,27 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Civilité, nom, prénom
-* Adresse email
-* Données relatives à l'adhésion au programme Club Printemps (non applicable pour Printemps Listes)
-* Données relatives à l'approbation ou au refus de prospection commerciale et aux préférences d'abonnement (sms ou email)
-* Code postal
+*   Civilité, nom, prénom
+*   Adresse email
+*   Données relatives à l'adhésion au programme Club Printemps (non applicable pour Printemps Listes)
+*   Données relatives à l'approbation ou au refus de prospection commerciale et aux préférences d'abonnement (sms ou email)
+*   Code postal
 
   
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* **Consentement**
-* **Intérêt légitime des Sociétés Printemps** (pour adresser des communications commerciales aux personnes déjà clientes des sociétés Printemps\*6)
-* \*6 Même si nous serons déçus de vous voir partir, nous vous rappelons que vous pouvez vous opposer à tout moment à la réception de communications commerciales en cliquant sur le lien de désinscription en bas de nos emails, ou en vous référent à la rubrique « quels sont vos droits et comment les exercer € »
-* **Exécution d'un contrat** (pour la participation aux jeux concours et loteries)
+*   **Consentement**
+*   **Intérêt légitime des Sociétés Printemps** (pour adresser des communications commerciales aux personnes déjà clientes des sociétés Printemps\*6)
+*   \*6 Même si nous serons déçus de vous voir partir, nous vous rappelons que vous pouvez vous opposer à tout moment à la réception de communications commerciales en cliquant sur le lien de désinscription en bas de nos emails, ou en vous référent à la rubrique « quels sont vos droits et comment les exercer € »
+*   **Exécution d'un contrat** (pour la participation aux jeux concours et loteries)
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
-* **Prospect :** 3 ans après la dernière activité mail/sms\*5
+*   **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
+*   **Prospect :** 3 ans après la dernière activité mail/sms\*5
 
   
 
@@ -1415,16 +1415,16 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* **Exécution d'un contrat** (pour la participation aux jeux concours et loteries)
-* **Consentement (**pour vous adresser des communications commerciales\*6)
+*   **Exécution d'un contrat** (pour la participation aux jeux concours et loteries)
+*   **Consentement (**pour vous adresser des communications commerciales\*6)
 
 \*6 Même si nous serons déçus de vous voir partir, nous vous rappelons que vous pouvez vous opposer à tout moment à la réception de communications commerciales en cliquant sur le lien de désinscription en bas de nos emails, ou en vous référent à la rubrique « _quels sont vos droits et comment les exercer ?_ »
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
-* **Prospect :** 3 ans après la dernière activité mail/sms\*5
+*   **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
+*   **Prospect :** 3 ans après la dernière activité mail/sms\*5
 
 CIBLAGE PUBLICITAIRE SUR PRINTEMPS.COM
 
@@ -1433,19 +1433,19 @@ CIBLAGE PUBLICITAIRE SUR PRINTEMPS.COM
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* Réaliser du profilage publicitaire par un tiers ou un partenaire au bénéfice des sociétés Printemps
-* Afficher/vous envoyer des offres personnalisées et adaptées à vos préférences, vos besoins, et vos centres d€intérêt
+*   Réaliser du profilage publicitaire par un tiers ou un partenaire au bénéfice des sociétés Printemps
+*   Afficher/vous envoyer des offres personnalisées et adaptées à vos préférences, vos besoins, et vos centres d€intérêt
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Cookies de navigation et d'analyse
-* Adresse email
+*   Cookies de navigation et d'analyse
+*   Adresse email
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* **Votre consentement**
+*   **Votre consentement**
 
 \*Vous pouvez vous opposer au ciblage publicitaire en paramétrant vos préférences cookies afin de gérer les cookies en lien avec le ciblage publicitaire depuis notre centre de gestion des cookies. Nous vous rappelons que le fait de refuser de la publicité ciblée signifie seulement que vous ne serez plus destinataires de publicités pour lesquelles vous êtes spécifiquement visé. Cela n'empêchera pas l'affichage ou la réception d'autres types de publicité, non ciblée.
 
@@ -1454,10 +1454,10 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* Pour les cookies : 13 mois après le dépôt des cookies
-* Pour l'adresse mail :
-* Client : 3 ans après la dernière activité en magasin ou activité mail/sms\*5, ou activité e-commerce.
-* Prospect : 3 ans après la dernière activité mail/sms\*5
+*   Pour les cookies : 13 mois après le dépôt des cookies
+*   Pour l'adresse mail :
+*   Client : 3 ans après la dernière activité en magasin ou activité mail/sms\*5, ou activité e-commerce.
+*   Prospect : 3 ans après la dernière activité mail/sms\*5
 
   
 
@@ -1468,9 +1468,9 @@ LA GESTION DE VOS RENDEZ-VOUS EN LIGNE
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* Gérer le service en ligne de prise de rendez-vous beauté (à l'exception de l'Atelier du sourcil et Coiffirst) sur printemps.com
-* Gérer le service de prise de rendez-vous en ligne avec nos Personal Shoppers sur printemps.com et vous informer par email des services et sessions shopping organisés par nos experts
-* Gérer le service de prise de rendez-vous en ligne pour l'essayage de votre tenue de mariage sur Printemps Listes et printemps.com
+*   Gérer le service en ligne de prise de rendez-vous beauté (à l'exception de l'Atelier du sourcil et Coiffirst) sur printemps.com
+*   Gérer le service de prise de rendez-vous en ligne avec nos Personal Shoppers sur printemps.com et vous informer par email des services et sessions shopping organisés par nos experts
+*   Gérer le service de prise de rendez-vous en ligne pour l'essayage de votre tenue de mariage sur Printemps Listes et printemps.com
 
   
 
@@ -1479,71 +1479,71 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 
 **Pour vos rendez-vous beauté :**
 
-* Civilité, nom, prénom
-* Adresse email
-* Numéro de téléphone portable
-* Numéro de carte fidélité
-* Données relatives à l'approbation ou au refus de prospection commerciale
+*   Civilité, nom, prénom
+*   Adresse email
+*   Numéro de téléphone portable
+*   Numéro de carte fidélité
+*   Données relatives à l'approbation ou au refus de prospection commerciale
 
   
 
 **Pour l'essayage de la tenue de mariage :**
 
-* Date du mariage
-* Type d'essayage
-* Date de rendez-vous
-* Taille de confection
-* Thème du mariage
-* Budget pour la tenue de mariage
-* Type de tenue/modèles de robes souhaités
-* Personne accompagnante pour l'essayage
-* Civilité, nom, prénom
-* Adresse email
-* Adresse postale
-* Numéro de téléphone portable (pour vous confirmer le rendez-vous par SMS)
-* Date de naissance
-* Adresse postale
-* Pays
-* Données relatives à l'approbation ou au refus de prospection commerciale
+*   Date du mariage
+*   Type d'essayage
+*   Date de rendez-vous
+*   Taille de confection
+*   Thème du mariage
+*   Budget pour la tenue de mariage
+*   Type de tenue/modèles de robes souhaités
+*   Personne accompagnante pour l'essayage
+*   Civilité, nom, prénom
+*   Adresse email
+*   Adresse postale
+*   Numéro de téléphone portable (pour vous confirmer le rendez-vous par SMS)
+*   Date de naissance
+*   Adresse postale
+*   Pays
+*   Données relatives à l'approbation ou au refus de prospection commerciale
 
   
 
 **Pour vos rendez-vous sur Printemps.com :**
 
-* Civilité, nom, prénom
-* Numéro de téléphone
-* Pays de résidence
-* Adresse email
-* Date de naissance (si vous adhérez au programme de fidélité Club Printemps)
-* Votre évolution de statut (si vous avez adhéré au programme de fidélité Club Printemps)
-* Vos journées Club Printemps (si vous avez adhéré au programme de fidélité Club Printemps)
-* Date de création de compte
-* Modes de paiement
-* Adresse de livraison
-* Adresse de facturation
-* Historique d'achat
+*   Civilité, nom, prénom
+*   Numéro de téléphone
+*   Pays de résidence
+*   Adresse email
+*   Date de naissance (si vous adhérez au programme de fidélité Club Printemps)
+*   Votre évolution de statut (si vous avez adhéré au programme de fidélité Club Printemps)
+*   Vos journées Club Printemps (si vous avez adhéré au programme de fidélité Club Printemps)
+*   Date de création de compte
+*   Modes de paiement
+*   Adresse de livraison
+*   Adresse de facturation
+*   Historique d'achat
 
   
 
 **Pour la prise de rendez-vous aux évènement Printemps :** 
 
-* Nom, prénom
-* Numéro de téléphone
-* Adresse email
+*   Nom, prénom
+*   Numéro de téléphone
+*   Adresse email
 
   
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* Exécution d'un contrat
-* Consentement (pour vous adresser des offres commerciales)
+*   Exécution d'un contrat
+*   Consentement (pour vous adresser des offres commerciales)
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* Clients n'ayant pas donné leur consentement à la prospection commerciale : Les données sont conservées 3 ans après la prise de rendez-vous.
-* Clients ayant donné leur consentement à la prospection commerciale : 3 ans après la dernière activité mail/sms\*5
+*   Clients n'ayant pas donné leur consentement à la prospection commerciale : Les données sont conservées 3 ans après la prise de rendez-vous.
+*   Clients ayant donné leur consentement à la prospection commerciale : 3 ans après la dernière activité mail/sms\*5
 
 LE SUIVI DE LA RELATION CLIENT
 
@@ -1552,47 +1552,47 @@ LE SUIVI DE LA RELATION CLIENT
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* Gérer vos échanges téléphoniques avec notre service client
-* Gérer les échanges via le Chat, la messagerie instantanée, ou notre messagerie privée sur les réseaux sociaux
-* Gérer les échanges par mail
-* Gérer les échanges en magasin
-* Gérer toute réclamation
-* Vous apporter tout renseignement sur nos Sites, les articles et sur les commandes
-* Vous apporter tout renseignement sur le programme de fidélité Club Printemps
-* Gérer les échanges en ligne avec nos personal shoppers
-* Gérer le suivi d'une liste de cadeaux avec Printemps Listes, d'un don, d'un gagnant à un jeu concours, d'un rendez-vous en ligne, d'une retouche ou de l'utilisation d'une expérience Le Temps Printemps
+*   Gérer vos échanges téléphoniques avec notre service client
+*   Gérer les échanges via le Chat, la messagerie instantanée, ou notre messagerie privée sur les réseaux sociaux
+*   Gérer les échanges par mail
+*   Gérer les échanges en magasin
+*   Gérer toute réclamation
+*   Vous apporter tout renseignement sur nos Sites, les articles et sur les commandes
+*   Vous apporter tout renseignement sur le programme de fidélité Club Printemps
+*   Gérer les échanges en ligne avec nos personal shoppers
+*   Gérer le suivi d'une liste de cadeaux avec Printemps Listes, d'un don, d'un gagnant à un jeu concours, d'un rendez-vous en ligne, d'une retouche ou de l'utilisation d'une expérience Le Temps Printemps
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Civilité, nom, prénom
-* Numéro de téléphone
-* Adresse email
-* Type de réclamation
-* Magasin concerné
-* Votre message à l'attention de notre service client
-* Date de création de compte
-* Date de visite souhaitée ou date de prise de contact avec votre bénéficiaire d'une expérience Le Temps Printemps
-* Historique des réclamations (dates et échanges avec notre service client)
-* Numéro de commande ou référence de réservation
-* Historique des commandes (web et magasins)
+*   Civilité, nom, prénom
+*   Numéro de téléphone
+*   Adresse email
+*   Type de réclamation
+*   Magasin concerné
+*   Votre message à l'attention de notre service client
+*   Date de création de compte
+*   Date de visite souhaitée ou date de prise de contact avec votre bénéficiaire d'une expérience Le Temps Printemps
+*   Historique des réclamations (dates et échanges avec notre service client)
+*   Numéro de commande ou référence de réservation
+*   Historique des commandes (web et magasins)
 
   
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* Exécution d'un contrat
-* Consentement (pour l'enregistrement de vos échanges téléphoniques avec notre service client)
+*   Exécution d'un contrat
+*   Consentement (pour l'enregistrement de vos échanges téléphoniques avec notre service client)
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
-* Prospect : 3 ans après la dernière activité mail/sms\*5
-* Durée de conservation des appels enregistrés : 3 mois
-* Durée de conservation des échanges avec notre service client par mail et par Chat : 24 mois
-* Durée de conservation des messages vocaux laissés sur le répondeur téléphonique du service client Printemps.com : 1 semaine pour les messages vocaux écoutés par le service client, 2 semaines pour les messages vocaux qui n'ont pas pu être traités par le service client
+*   Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
+*   Prospect : 3 ans après la dernière activité mail/sms\*5
+*   Durée de conservation des appels enregistrés : 3 mois
+*   Durée de conservation des échanges avec notre service client par mail et par Chat : 24 mois
+*   Durée de conservation des messages vocaux laissés sur le répondeur téléphonique du service client Printemps.com : 1 semaine pour les messages vocaux écoutés par le service client, 2 semaines pour les messages vocaux qui n'ont pas pu être traités par le service client
 
   
 
@@ -1603,41 +1603,41 @@ L'AMELIORATION DE L'EXPERIENCE CLIENT PRINTEMPS.COM, CLUB PRINTEMPS
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* Mesurer la qualité de nos services
-* Contrôler, améliorer nos Sites et vous proposer des offres et services personnalisés
-* Enregistrer certains échanges téléphoniques et sur le chat avec nos conseillers client afin d'améliorer notre service
-* Gérer votre participation à nos enquêtes de satisfaction
+*   Mesurer la qualité de nos services
+*   Contrôler, améliorer nos Sites et vous proposer des offres et services personnalisés
+*   Enregistrer certains échanges téléphoniques et sur le chat avec nos conseillers client afin d'améliorer notre service
+*   Gérer votre participation à nos enquêtes de satisfaction
 
   
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Civilité, nom, prénom
-* Adresse email
-* Numéro de téléphone
-* Numéro de commande
-* Les données relatives à la localisation (adresse IP de l'ordinateur se connectant au site) pour vous indiquer le magasin le plus proche ou pour vous proposer de vous connecter sur le site du magasin Printemps le plus proche de votre localisation
-* Les données de préférence du magasin Printemps sélectionné
-* Avis client
-* Historique des conversations avec le service client
-* Données de navigation (cookies de performance)
+*   Civilité, nom, prénom
+*   Adresse email
+*   Numéro de téléphone
+*   Numéro de commande
+*   Les données relatives à la localisation (adresse IP de l'ordinateur se connectant au site) pour vous indiquer le magasin le plus proche ou pour vous proposer de vous connecter sur le site du magasin Printemps le plus proche de votre localisation
+*   Les données de préférence du magasin Printemps sélectionné
+*   Avis client
+*   Historique des conversations avec le service client
+*   Données de navigation (cookies de performance)
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* Intérêt légitime des sociétés Printemps
-* Consentement (pour l'enregistrement de vos échanges avec notre service client)
+*   Intérêt légitime des sociétés Printemps
+*   Consentement (pour l'enregistrement de vos échanges avec notre service client)
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
-* Prospect : 3 ans après la dernière activité mail/sms\*5
-* Durée de conservation des appels enregistrés : 3 mois
-* Durée de conservation des échanges avec notre service client par mail et par Chat : 24 mois
-* Durée de conservation des enquêtes de satisfaction : 24 mois
-* Cookies : 13 mois après le dépôt
+*   Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
+*   Prospect : 3 ans après la dernière activité mail/sms\*5
+*   Durée de conservation des appels enregistrés : 3 mois
+*   Durée de conservation des échanges avec notre service client par mail et par Chat : 24 mois
+*   Durée de conservation des enquêtes de satisfaction : 24 mois
+*   Cookies : 13 mois après le dépôt
 
 L'AMELIORATION DE LA CONNAISSANCE CLIENT PRINTEMPS.COM, PRINTEMPS LISTES, CLUB PRINTEMPS, MAGASINS PRINTEMPS
 
@@ -1646,11 +1646,11 @@ L'AMELIORATION DE LA CONNAISSANCE CLIENT PRINTEMPS.COM, PRINTEMPS LISTES, CLUB P
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* Réaliser des études statistiques agrégées, reporting, des segmentations clients et indicateurs de pilotage
-* Partager les données au sein des sociétés Printemps à des fins de connaissance client
-* Enrichir votre profil avec les données relatives à votre navigation internet (cookies, données de navigation, mesure d'audience etc.)
-* Réaliser des analyses relatives au comportement email (ouvertures, clics)
-* Enrichir votre profil si vous réalisez un achat avec les informations de votre compte ou votre carte fidélité
+*   Réaliser des études statistiques agrégées, reporting, des segmentations clients et indicateurs de pilotage
+*   Partager les données au sein des sociétés Printemps à des fins de connaissance client
+*   Enrichir votre profil avec les données relatives à votre navigation internet (cookies, données de navigation, mesure d'audience etc.)
+*   Réaliser des analyses relatives au comportement email (ouvertures, clics)
+*   Enrichir votre profil si vous réalisez un achat avec les informations de votre compte ou votre carte fidélité
 
   
 
@@ -1661,25 +1661,25 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Civilité, nom, prénom
-* Adresse postale
-* Adresse email
-* Numéro de téléphone
-* Date de création de compte
-* Date de naissance
-* Date d'évènement
-* Type d'évènement
-* Pays de résidence
-* Langue
-* Date des commandes
-* Nombre de commandes
-* Fréquence d'achat
-* Produits commandés
-* Marque commandée
-* Montant de la commande
-* Données de navigation (cookies de navigation et de performance)
-* Données CLub Printemps (statut, montant de la cagnotte, avantages)
-* Données d'utilisation des emails et des sms (date d'envoi, ouverture email, clic)
+*   Civilité, nom, prénom
+*   Adresse postale
+*   Adresse email
+*   Numéro de téléphone
+*   Date de création de compte
+*   Date de naissance
+*   Date d'évènement
+*   Type d'évènement
+*   Pays de résidence
+*   Langue
+*   Date des commandes
+*   Nombre de commandes
+*   Fréquence d'achat
+*   Produits commandés
+*   Marque commandée
+*   Montant de la commande
+*   Données de navigation (cookies de navigation et de performance)
+*   Données CLub Printemps (statut, montant de la cagnotte, avantages)
+*   Données d'utilisation des emails et des sms (date d'envoi, ouverture email, clic)
 
   
 
@@ -1688,13 +1688,13 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* Intérêt légitime des sociétés Printemps
+*   Intérêt légitime des sociétés Printemps
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
-* Prospect : 3 ans après la dernière activité mail/sms\*5
+*   Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
+*   Prospect : 3 ans après la dernière activité mail/sms\*5
 
 LA GESTION DES DROITS SUR PRINTEMPS.COM, PRINTEMPS LISTES, CLUB PRINTEMPS, MAGASINS PRINTEMPS
 
@@ -1703,8 +1703,8 @@ LA GESTION DES DROITS SUR PRINTEMPS.COM, PRINTEMPS LISTES, CLUB PRINTEMPS, MAGAS
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* Gérer toute demande d'information, de suppression, de rectification de vos données, d'accès à vos données, d'opposition ou de limitation aux traitements sur vos données, ainsi que toute demande de portabilité de vos données
-* Gérer vos demandes de résiliation et opposition au programme de fidélité Club Printemps, à la prospection commerciale, à nos newsletters
+*   Gérer toute demande d'information, de suppression, de rectification de vos données, d'accès à vos données, d'opposition ou de limitation aux traitements sur vos données, ainsi que toute demande de portabilité de vos données
+*   Gérer vos demandes de résiliation et opposition au programme de fidélité Club Printemps, à la prospection commerciale, à nos newsletters
 
   
 
@@ -1713,20 +1713,20 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Civilité, nom, prénom
-* Numéro de téléphone
-* Adresse postale
-* Adresse email
-* Date de naissance
-* Les données permettant la gestion du compte fidélité Club Printemps (si encartés) : date d'adhésion, type de carte, numéro de carte, statut
-* Les données relatives aux achats effectués : données collectées à l'occasion d'un acte d'achat de la part du titulaire de la carte de fidélité afin de permettre le calcul des points statut et shopping (si encartés), données collectées à l'occasion d'un acte d'achat de la part du titulaire de la carte Printemps Listes
-* Les identifiants et les informations collectées sur l'espace privé (si encartés)
-* Les données de préférence avec le choix des 3 marques préférées (si encartés)
-* Les services statutaires souscrits (si encartés)
-* Les données liées aux avantages acquis par les clients encartés (Journées Club Printemps)
-* Les données relatives à l'approbation ou le refus de la sollicitation commerciale
-* Les problématiques rencontrées par le client et la réponse apportée par le service client
-* Les données relatives au compte Printemps Listes (Carte Printemps Listes/statut, date d'évènement, prolongation/fermeture de compte, atout liberté : remboursement 10% des dons)
+*   Civilité, nom, prénom
+*   Numéro de téléphone
+*   Adresse postale
+*   Adresse email
+*   Date de naissance
+*   Les données permettant la gestion du compte fidélité Club Printemps (si encartés) : date d'adhésion, type de carte, numéro de carte, statut
+*   Les données relatives aux achats effectués : données collectées à l'occasion d'un acte d'achat de la part du titulaire de la carte de fidélité afin de permettre le calcul des points statut et shopping (si encartés), données collectées à l'occasion d'un acte d'achat de la part du titulaire de la carte Printemps Listes
+*   Les identifiants et les informations collectées sur l'espace privé (si encartés)
+*   Les données de préférence avec le choix des 3 marques préférées (si encartés)
+*   Les services statutaires souscrits (si encartés)
+*   Les données liées aux avantages acquis par les clients encartés (Journées Club Printemps)
+*   Les données relatives à l'approbation ou le refus de la sollicitation commerciale
+*   Les problématiques rencontrées par le client et la réponse apportée par le service client
+*   Les données relatives au compte Printemps Listes (Carte Printemps Listes/statut, date d'évènement, prolongation/fermeture de compte, atout liberté : remboursement 10% des dons)
 
   
 
@@ -1735,14 +1735,14 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* Obligation légale
+*   Obligation légale
 
   
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* 3 ans à compter de la réponse définitive à la demande
+*   3 ans à compter de la réponse définitive à la demande
 
 LA PREVENTION ET LA GESTION DE LA FRAUDE ET DES IMPAYES SUR PRINTEMPS.COM ET PRINTEMPS LISTES, DANS LES MAGASINS PRINTEMPS ET POUR CLUB PRINTEMPS
 
@@ -1751,51 +1751,51 @@ LA PREVENTION ET LA GESTION DE LA FRAUDE ET DES IMPAYES SUR PRINTEMPS.COM ET PRI
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* Assurer la sécurité de nos Sites
-* Protéger les transactions contre la fraude. Nous utilisons ainsi notamment une solution fournie par un prestataire tiers afin de détecter toute fraude et de nous assurer que le paiement sera effectué par vos soins ou toute personne que vous aurez autorisée à cet effet. Nous pouvons par ailleurs dans ce cadre être amenés à transmettre certaines données traitées à des prestataires tiers afin de permettre à la transaction d'aboutir
-* Gérer la prévention de la fraude dans le cadre de l'utilisation du programme de fidélité Club Printemps
-* Assurer le contrôle des avantages accordés à nos clients et/ou partenaires commerciaux dans le cadre de nos différents programmes de fidélisation ou de nos partenariats
+*   Assurer la sécurité de nos Sites
+*   Protéger les transactions contre la fraude. Nous utilisons ainsi notamment une solution fournie par un prestataire tiers afin de détecter toute fraude et de nous assurer que le paiement sera effectué par vos soins ou toute personne que vous aurez autorisée à cet effet. Nous pouvons par ailleurs dans ce cadre être amenés à transmettre certaines données traitées à des prestataires tiers afin de permettre à la transaction d'aboutir
+*   Gérer la prévention de la fraude dans le cadre de l'utilisation du programme de fidélité Club Printemps
+*   Assurer le contrôle des avantages accordés à nos clients et/ou partenaires commerciaux dans le cadre de nos différents programmes de fidélisation ou de nos partenariats
 
   
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Titulaire de la carte bancaire
-* Numéro de carte bancaire
-* IP de la transaction
-* Adresse e-mail
+*   Titulaire de la carte bancaire
+*   Numéro de carte bancaire
+*   IP de la transaction
+*   Adresse e-mail
 
   
 
 **Pour la gestion de la fraude Club Printemps :**
 
-* Nom, prénom
-* Adresse email
-* Historique des transactions du titulaire de la carte de fidélité (date et montant des transactions, produits favoris, moyens de paiement, achats détaxe, achats Welcome, utilisation des offres liées à la carte de fidélité)
-* Les données permettant la gestion du compte fidélité Club Printemps (date d'adhésion, type de carte, réclamation client, numéro de compte Club Printemps et/ou CACF, numéro de carte Visa Printemps)
-* L'historique de statut, de la cagnotte et des avantages, niveau de fidélité
-* Magasin principal
+*   Nom, prénom
+*   Adresse email
+*   Historique des transactions du titulaire de la carte de fidélité (date et montant des transactions, produits favoris, moyens de paiement, achats détaxe, achats Welcome, utilisation des offres liées à la carte de fidélité)
+*   Les données permettant la gestion du compte fidélité Club Printemps (date d'adhésion, type de carte, réclamation client, numéro de compte Club Printemps et/ou CACF, numéro de carte Visa Printemps)
+*   L'historique de statut, de la cagnotte et des avantages, niveau de fidélité
+*   Magasin principal
 
   
 
 **Pour la gestion des avantages :**
 
-* Nom, prénom
-* Numéro de passeport
+*   Nom, prénom
+*   Numéro de passeport
 
   
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* Intérêt légitime des sociétés Printemps
+*   Intérêt légitime des sociétés Printemps
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* Conservation des données par notre prestataire de paiement pour la durée nécessaire à l'accomplissement de cette finalité par ce dernier
-* Pour la gestion de la fraude Club Printemps : conservation des données pendant le temps nécessaire à la réalisation de la finalité
+*   Conservation des données par notre prestataire de paiement pour la durée nécessaire à l'accomplissement de cette finalité par ce dernier
+*   Pour la gestion de la fraude Club Printemps : conservation des données pendant le temps nécessaire à la réalisation de la finalité
 
 UTILISATION DU CONTENU GENERE SUR LES RESEAUX SOCIAUX RELATIF A PRINTEMPS.COM, PRINTEMPS LISTES
 
@@ -1804,31 +1804,31 @@ UTILISATION DU CONTENU GENERE SUR LES RESEAUX SOCIAUX RELATIF A PRINTEMPS.COM, P
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* Assurer la promotion de nos produits et de nos services
-* Analyser le contenu que vous pouvez publier en ligne
-* Mieux comprendre vos besoins et vos attentes
-* Réaliser des statistiques (agrégées)
+*   Assurer la promotion de nos produits et de nos services
+*   Analyser le contenu que vous pouvez publier en ligne
+*   Mieux comprendre vos besoins et vos attentes
+*   Réaliser des statistiques (agrégées)
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Usernames and public information
-* Information sent by direct message to our sites.
-* Content of social media posts
+*   Usernames and public information
+*   Information sent by direct message to our sites.
+*   Content of social media posts
 
   
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
-* Intérêt légitime des sociétés Printemps
+*   Intérêt légitime des sociétés Printemps
 
   
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*4
 -----------------------------------------------------------------------
 
-* 1 an
+*   1 an
 
 4\. COMMENT COLLECTONS-NOUS OU RECEVONS-NOUS VOS DONNÉES À CARACTÈRE PERSONNEL ?
 
@@ -1836,8 +1836,8 @@ Combien de temps conservons-nous vos données à caractère personnel ?\*4
 
 Vos données à caractère personnel peuvent être recueillies : 
 
-* **directement** auprès de vous lorsque vous complétez nos formulaires de collecte, questionnaires, en salon externe en magasin ou sur nos Sites printemps.com, listes.printemps.com et dans le cadre de l'adhésion au programme de fidélité Club Printemps (par exemple lorsque vous procédez à la création d'un compte, lorsque vous contactez notre Service Client, lorsque vous participez à un jeu concours, lorsque vous répondez à une enquête de satisfaction, lorsque vous ouvrez une liste ou réalisez un don sur une liste que ce soit au Printemps ou sur le site de zankyou.fr pour la liste 50/50 Shopping & Cash, ou lorsque vous effectuez un achat sur nos Sites ou en magasin, ou lorsque vous prenez un rendez-vous en ligne).
-* **indirectement**, via les données de navigation sur vos appareils (par exemple en utilisant des cookies afin de comprendre votre navigation sur nos Sites), sur les pages consacrées à Printemps, Printemps.com et Printemps Listes, sur les réseaux sociaux, lorsque lesdites données nous sont transmises par les sociétés Printemps, ou par les sociétés organisatrices de salons auxquels les sociétés Printemps peuvent participer (lesdites sociétés organisatrices s'étant engagées à recueillir le consentement des personnes concernées).
+*   **directement** auprès de vous lorsque vous complétez nos formulaires de collecte, questionnaires, en salon externe en magasin ou sur nos Sites printemps.com, listes.printemps.com et dans le cadre de l'adhésion au programme de fidélité Club Printemps (par exemple lorsque vous procédez à la création d'un compte, lorsque vous contactez notre Service Client, lorsque vous participez à un jeu concours, lorsque vous répondez à une enquête de satisfaction, lorsque vous ouvrez une liste ou réalisez un don sur une liste que ce soit au Printemps ou sur le site de zankyou.fr pour la liste 50/50 Shopping & Cash, ou lorsque vous effectuez un achat sur nos Sites ou en magasin, ou lorsque vous prenez un rendez-vous en ligne).
+*   **indirectement**, via les données de navigation sur vos appareils (par exemple en utilisant des cookies afin de comprendre votre navigation sur nos Sites), sur les pages consacrées à Printemps, Printemps.com et Printemps Listes, sur les réseaux sociaux, lorsque lesdites données nous sont transmises par les sociétés Printemps, ou par les sociétés organisatrices de salons auxquels les sociétés Printemps peuvent participer (lesdites sociétés organisatrices s'étant engagées à recueillir le consentement des personnes concernées).
 
   
 
@@ -1865,25 +1865,25 @@ Lorsque nous collectons des données à caractère personnel directement auprès
 
   
 
-* **Les sociétés Printemps et les différents services habilités desdites sociétés** contribuant à la réalisation de chaque finalité détaillée ci-dessus peuvent avoir accès à tout ou partie de vos données à caractère personnel, et notamment :
-* les personnes habilitées au sein de la Direction des Systèmes d'Information,
-* les personnes habilitées au sein de la Direction Marketing,
-* les personnes habilitées au sein du Service Client,
-* les équipes de vente et logistique des sociétés Printemps (y inclus les vendeurs des sociétés Printemps et les démonstrateurs en magasin),
-* les personnes habilitées au sein de la Direction Juridique.
-* dans le cadre de Printemps Listes : les personnes habilitées au sein de l'équipe Printemps Listes Siège et magasins, Printemps Affiliés et les personnes habilitées au sein de la direction financière
+*   **Les sociétés Printemps et les différents services habilités desdites sociétés** contribuant à la réalisation de chaque finalité détaillée ci-dessus peuvent avoir accès à tout ou partie de vos données à caractère personnel, et notamment :
+*   les personnes habilitées au sein de la Direction des Systèmes d'Information,
+*   les personnes habilitées au sein de la Direction Marketing,
+*   les personnes habilitées au sein du Service Client,
+*   les équipes de vente et logistique des sociétés Printemps (y inclus les vendeurs des sociétés Printemps et les démonstrateurs en magasin),
+*   les personnes habilitées au sein de la Direction Juridique.
+*   dans le cadre de Printemps Listes : les personnes habilitées au sein de l'équipe Printemps Listes Siège et magasins, Printemps Affiliés et les personnes habilitées au sein de la direction financière
 
   
 
-* Vos données à caractère personnel peuvent être transmises **aux prestataires auxquels les sociétés Printemps font appel** pour la réalisation de services dans le cadre des finalités mentionnées ci-dessus, par exemple:
-* Nos prestataires d'hébergement, dont nous avons besoin pour stocker l'ensemble de vos données, de maintenance et de support technique
-* Nos prestataires en charge d'assurer la gestion et la sécurité des paiements que vous effectuez sur nos Sites
-* Nos prestataires en charge de vous livrer les produits ou prestations que vous commandez (par exemple, services de livraison ou services postaux)
-* Nos prestataires auxquels nous confions les services de stockage, de préparation, de livraison de nos produits et de gestion des retours des produits
-* Nos prestataires en charge de la relation client
-* Nos prestataires en charge de réaliser des analyses et segmentations, du web analytics, des études marketing et commerciales, et des campagnes publicitaires personnalisées
-* Les services habilités des prestataires techniques et des prestataires financiers du Groupe Printemps
-* Notre service de routage dans le cadre de Printemps Listes pour l'envoi de carte Printemps listes aux bénéficiaires de listes cadeaux
+*   Vos données à caractère personnel peuvent être transmises **aux prestataires auxquels les sociétés Printemps font appel** pour la réalisation de services dans le cadre des finalités mentionnées ci-dessus, par exemple:
+*   Nos prestataires d'hébergement, dont nous avons besoin pour stocker l'ensemble de vos données, de maintenance et de support technique
+*   Nos prestataires en charge d'assurer la gestion et la sécurité des paiements que vous effectuez sur nos Sites
+*   Nos prestataires en charge de vous livrer les produits ou prestations que vous commandez (par exemple, services de livraison ou services postaux)
+*   Nos prestataires auxquels nous confions les services de stockage, de préparation, de livraison de nos produits et de gestion des retours des produits
+*   Nos prestataires en charge de la relation client
+*   Nos prestataires en charge de réaliser des analyses et segmentations, du web analytics, des études marketing et commerciales, et des campagnes publicitaires personnalisées
+*   Les services habilités des prestataires techniques et des prestataires financiers du Groupe Printemps
+*   Notre service de routage dans le cadre de Printemps Listes pour l'envoi de carte Printemps listes aux bénéficiaires de listes cadeaux
 
 5\. QUI SONT LES DESTINATAIRES DE VOS DONNÉES ?
 
@@ -1891,9 +1891,9 @@ Lorsque nous collectons des données à caractère personnel directement auprès
 
 Nos prestataires sont sélectionnés par nos soins en fonction de leurs compétences en termes de sécurité et de confidentialité des données, et se doivent de respecter la règlementation relative aux données à caractère personnel applicable aux sous-traitants. A ce titre, nous concluons avec l'ensemble de ces destinataires des contrats permettant de nous assurer que ces derniers présentent un niveau de sécurité adéquat pour la protection de vos données, et nous transmettons à chacun d'entre eux des instructions de traitement précises. Par ailleurs, nous ne leur fournissons que les informations dont ils ont besoin pour réaliser le service.
 
-* Nous pouvons communiquer **à des tiers** des données à caractère personnel (par exemple : votre adresse email) ou certaines de vos données non identifiantes (par exemple : données sociodémographiques et profil d'achat, cookies ou identifiants techniques) sans qu'il leur soit possible de vous identifier de façon nominative, à des fins de ciblage publicitaire sur des sites de tiers. La base légale de ce traitement de données est l'intérêt légitime des sociétés Printemps. Dans ce cadre, vos données sont traitées par le tiers en question, qui agit en qualité de Responsable de Traitement, et sont soumises à ses conditions générales et sa politique de protection des données à caractère personnel. Le tiers en question doit s'assurer d'avoir recueilli préalablement votre consentement pour vous adresser lesdites communications commerciales. Nous vous recommandons de prendre connaissance des politiques de protection des données personnelles de ces tiers avant de consentir à la communication de vos données au profit de ces derniers. Vous avez la possibilité de refuser ces ciblages publicitaires en paramétrant directement votre compte sur le site desdits tiers.
-* Nous pouvons communiquer **à des réseaux sociaux** des données à caractère personnel (par exemple : adresse email, pays) ou certaines de vos données non identifiantes (cookies) sans qu'il leur soit possible de vous identifier de façon nominative, afin de vous envoyer des publicités personnalisées sur les réseaux sociaux (plus d'informations dans la rubrique « réseaux sociaux »). Ces données servent notamment à établir une correspondance (matching) afin de vous reconnaître en tant que client des sociétés Printemps et de vous adresser de la publicité personnalisée des sociétés Printemps, ou à vous adresser de la publicité ciblée des sociétés Printemps en fonction de vos centres d'intérêt sur les réseaux sociaux. La base légale de ce traitement de données est l'intérêt légitime des sociétés Printemps. Vous avez la possibilité de refuser ces ciblages publicitaires depuis le centre de paramétrage de votre compte utilisateur du réseau social.
-* Nous pouvons communiquer à **notre partenaire Criteo** certaines de vos données à caractère personnel pour nous permettre de relier vos différents terminaux (ordinateurs, téléphone portable ...) et vous fournir une expérience harmonisée sur les différents appareils que vous utilisez pour consulter notre site Internet. Pour en savoir plus sur le dispositif de rapprochement des différents appareils ou vous y opposer vous pouvez vous rendre sur [www.criteo.com/fr/privacy/](http://www.criteo.com/fr/privacy/)
+*   Nous pouvons communiquer **à des tiers** des données à caractère personnel (par exemple : votre adresse email) ou certaines de vos données non identifiantes (par exemple : données sociodémographiques et profil d'achat, cookies ou identifiants techniques) sans qu'il leur soit possible de vous identifier de façon nominative, à des fins de ciblage publicitaire sur des sites de tiers. La base légale de ce traitement de données est l'intérêt légitime des sociétés Printemps. Dans ce cadre, vos données sont traitées par le tiers en question, qui agit en qualité de Responsable de Traitement, et sont soumises à ses conditions générales et sa politique de protection des données à caractère personnel. Le tiers en question doit s'assurer d'avoir recueilli préalablement votre consentement pour vous adresser lesdites communications commerciales. Nous vous recommandons de prendre connaissance des politiques de protection des données personnelles de ces tiers avant de consentir à la communication de vos données au profit de ces derniers. Vous avez la possibilité de refuser ces ciblages publicitaires en paramétrant directement votre compte sur le site desdits tiers.
+*   Nous pouvons communiquer **à des réseaux sociaux** des données à caractère personnel (par exemple : adresse email, pays) ou certaines de vos données non identifiantes (cookies) sans qu'il leur soit possible de vous identifier de façon nominative, afin de vous envoyer des publicités personnalisées sur les réseaux sociaux (plus d'informations dans la rubrique « réseaux sociaux »). Ces données servent notamment à établir une correspondance (matching) afin de vous reconnaître en tant que client des sociétés Printemps et de vous adresser de la publicité personnalisée des sociétés Printemps, ou à vous adresser de la publicité ciblée des sociétés Printemps en fonction de vos centres d'intérêt sur les réseaux sociaux. La base légale de ce traitement de données est l'intérêt légitime des sociétés Printemps. Vous avez la possibilité de refuser ces ciblages publicitaires depuis le centre de paramétrage de votre compte utilisateur du réseau social.
+*   Nous pouvons communiquer à **notre partenaire Criteo** certaines de vos données à caractère personnel pour nous permettre de relier vos différents terminaux (ordinateurs, téléphone portable ...) et vous fournir une expérience harmonisée sur les différents appareils que vous utilisez pour consulter notre site Internet. Pour en savoir plus sur le dispositif de rapprochement des différents appareils ou vous y opposer vous pouvez vous rendre sur [www.criteo.com/fr/privacy/](http://www.criteo.com/fr/privacy/)
 
   
 
@@ -1903,10 +1903,10 @@ Nos prestataires sont sélectionnés par nos soins en fonction de leurs compéte
 
 Par ailleurs, d'autres destinataires peuvent avoir accès à tout ou partie de vos données à caractère personnel selon leur degré d'habilitation et la finalité, à savoir :
 
-* les services de police et les autorités judiciaires notamment en cas de réquisition judiciaire
-* si nous cédons ou transférons tout ou partie de notre entreprise ou de nos actifs, par exemple dans le cadre d'une fusion ou d'une vente, nous pourrons transférer vos données à caractère personnel à l'acquéreur potentiel de cette activité ou de ces actifs. Par conséquent, l'acquéreur agira comme le nouveau Responsable de Traitement, et sa politique de protection des données à caractère personnel régira le traitement de vos données à caractère personnel. Par ailleurs, nous vous informons que les opérations de cette nature peuvent légitimement impliquer la réalisation d'audits préalables par des professionnels et moyennant des garanties et des mesures de sécurité appropriées afin d'assurer le respect de la confidentialité des données auxquelles ils accèdent. En cas de réalisation effective d'une opération de transmission ou de cession de nos actifs contenant vos données à caractère personnel, nous mettrons en ?uvre des procédures d'information permettant de garantir l'exercice des droits dont vous disposez sur vos données à caractère personnel.
-* Lorsque vous donnez votre consentement sur notre site, certains partenaires, tels que Google, peuvent traiter vos données personnelles (ex. : adresse IP, identifiants de navigation) pour des finalités comme la publicité personnalisée ou la mesure d’audience.
-* Pour comprendre comment Google utilise vos données, veuillez consulter : [**https://business.safety.google/privacy/**](https://business.safety.google/privacy/)
+*   les services de police et les autorités judiciaires notamment en cas de réquisition judiciaire
+*   si nous cédons ou transférons tout ou partie de notre entreprise ou de nos actifs, par exemple dans le cadre d'une fusion ou d'une vente, nous pourrons transférer vos données à caractère personnel à l'acquéreur potentiel de cette activité ou de ces actifs. Par conséquent, l'acquéreur agira comme le nouveau Responsable de Traitement, et sa politique de protection des données à caractère personnel régira le traitement de vos données à caractère personnel. Par ailleurs, nous vous informons que les opérations de cette nature peuvent légitimement impliquer la réalisation d'audits préalables par des professionnels et moyennant des garanties et des mesures de sécurité appropriées afin d'assurer le respect de la confidentialité des données auxquelles ils accèdent. En cas de réalisation effective d'une opération de transmission ou de cession de nos actifs contenant vos données à caractère personnel, nous mettrons en ?uvre des procédures d'information permettant de garantir l'exercice des droits dont vous disposez sur vos données à caractère personnel.
+*   Lorsque vous donnez votre consentement sur notre site, certains partenaires, tels que Google, peuvent traiter vos données personnelles (ex. : adresse IP, identifiants de navigation) pour des finalités comme la publicité personnalisée ou la mesure d’audience.
+*   Pour comprendre comment Google utilise vos données, veuillez consulter : [**https://business.safety.google/privacy/**](https://business.safety.google/privacy/)
 
   
 
@@ -1980,8 +1980,8 @@ Vous avez le droit d'obtenir des informations claires, compréhensibles, précis
 
 Vous avez le droit de demander aux sociétés Printemps si elles détiennent des données à caractère personnel sur vous, et demander à ce que nous vous les communiquions, sous réserve de certaines restrictions :
 
-* nous pouvons légitimement ne pas donner suite à votre demande si celle-ci est manifestement infondée, excessive ou répétitive
-* nous pouvons légitimement ne pas donner suite à votre demande si celle-ci porte atteinte aux droits et libertés de tiers ( la demande doit concerner uniquement vos données à caractère personnel et ne peut contrevenir aux droits d'auteur ou au secret des affaires).
+*   nous pouvons légitimement ne pas donner suite à votre demande si celle-ci est manifestement infondée, excessive ou répétitive
+*   nous pouvons légitimement ne pas donner suite à votre demande si celle-ci porte atteinte aux droits et libertés de tiers ( la demande doit concerner uniquement vos données à caractère personnel et ne peut contrevenir aux droits d'auteur ou au secret des affaires).
 
   
 
@@ -1999,9 +1999,9 @@ Vous pouvez exercer votre droit à la rectification de la façon suivante :
 
   
 
-* vous pouvez nous contacter aux coordonnées ci-dessous.
-* si vous avez un compte, vous pouvez modifier vos données dans l'onglet « Mon Compte » sur le site Printemps.com.
-* vous pouvez vous présenter en magasin Printemps pour demander la modification de vos données sur votre compte Club Printemps
+*   vous pouvez nous contacter aux coordonnées ci-dessous.
+*   si vous avez un compte, vous pouvez modifier vos données dans l'onglet « Mon Compte » sur le site Printemps.com.
+*   vous pouvez vous présenter en magasin Printemps pour demander la modification de vos données sur votre compte Club Printemps
 
   
 
