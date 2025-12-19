@@ -317,39 +317,39 @@ L’action résultant des vices rédhibitoires doit être intentée par l’acqu
 **14.5 Principes de fonctionnement de la hiérarchisation:** Nos systèmes de recommandation sont conçus pour vous aider à trouver les produits qui vous correspondent le mieux parmi les milliers d’articles disponibles sur notre plateforme. Son principe repose sur une combinaison d’algorithmes et de critères affinés en permanence afin de garantir que vous vivez une expérience d’achat optimisée.  
 **14.5.1 Principaux paramètres qui influencent la hiérarchisation**
 
-* **Pertinence avec les mots-clés de recherche:** Notre système met en avant des produits qui correspondent aux mots-clés que vous avez saisis pour faire vos recherches, ou à votre comportement de navigation. Il s’agit, notamment, d’évaluer les titres, descriptions, images et catégories des produits afin que ceux-ci soient alignés avec vos saisies, filtres, catégories, tris.
+*   **Pertinence avec les mots-clés de recherche:** Notre système met en avant des produits qui correspondent aux mots-clés que vous avez saisis pour faire vos recherches, ou à votre comportement de navigation. Il s’agit, notamment, d’évaluer les titres, descriptions, images et catégories des produits afin que ceux-ci soient alignés avec vos saisies, filtres, catégories, tris.
     
-* **Popularité:** Les produits fréquemment achetés, bien notés, ou souvent visualisés par d’autres clients peuvent être mis davantage en avant car ces indicateurs suggèrent que les clients en sont satisfaits et s’y intéressent.
+*   **Popularité:** Les produits fréquemment achetés, bien notés, ou souvent visualisés par d’autres clients peuvent être mis davantage en avant car ces indicateurs suggèrent que les clients en sont satisfaits et s’y intéressent.
     
-* **Personnalisation:** Si vous vous êtes identifié·e dans votre compte, il se peut que notre système utilise votre historique de navigation, votre historique d’achats et vos préférences (par ex. taille, style) afin de faire correspondre la hiérarchisation des produits avec vos centres d’intérêts.
+*   **Personnalisation:** Si vous vous êtes identifié·e dans votre compte, il se peut que notre système utilise votre historique de navigation, votre historique d’achats et vos préférences (par ex. taille, style) afin de faire correspondre la hiérarchisation des produits avec vos centres d’intérêts.
     
-* **Prix:** Alors que toutes les gammes de prix sont représentées, il se peut que le système souligne les produits qui s’alignent avec l’historique de vos préférences et/ou les promotions actuelles.
+*   **Prix:** Alors que toutes les gammes de prix sont représentées, il se peut que le système souligne les produits qui s’alignent avec l’historique de vos préférences et/ou les promotions actuelles.
     
-* **Promotions et contenu sponsorisé:** Il se peut que les produits concernés par des promotions spéciales ou qui sont sponsorisés par des vendeurs aient une meilleure visibilité. Les listes des produits sponsorisés sont clairement mises en avant comme tels afin de garantir une transparence maximale.
+*   **Promotions et contenu sponsorisé:** Il se peut que les produits concernés par des promotions spéciales ou qui sont sponsorisés par des vendeurs aient une meilleure visibilité. Les listes des produits sponsorisés sont clairement mises en avant comme tels afin de garantir une transparence maximale.
     
-* **Disponibilité:** Afin que l’expérience d’achat que vous vivez soient améliorée davantage, les produits en stock et disponibles à l’achat immédiat ont la priorité.
+*   **Disponibilité:** Afin que l’expérience d’achat que vous vivez soient améliorée davantage, les produits en stock et disponibles à l’achat immédiat ont la priorité.
     
-* **Indicateurs de durabilité:** Les produits répondant à certains critères de durabilité, fabriqués par exemple dans des matériaux écologiques ou selon des méthodes de fabrication respectueuses de l’environnement, peuvent avoir la préférence si vous avez témoigné un intérêt vis-à-vis de ces caractéristiques.
+*   **Indicateurs de durabilité:** Les produits répondant à certains critères de durabilité, fabriqués par exemple dans des matériaux écologiques ou selon des méthodes de fabrication respectueuses de l’environnement, peuvent avoir la préférence si vous avez témoigné un intérêt vis-à-vis de ces caractéristiques.
     
-* **Pays:** La version de la Boutique Zalando que vous visitez peut avoir une influence sur les produits qui vous sont proposés.
+*   **Pays:** La version de la Boutique Zalando que vous visitez peut avoir une influence sur les produits qui vous sont proposés.
     
 
 **14.5.2 La manière dont les paramètres interagissent:** L’importance relative de ces paramètres peut varier en fonction du contexte de recherche ou de votre session de navigation. Les paramètres les plus pertinents sont : le pays, les informations sur les articles, la sélection de filtres et le tri, par ex. les tailles préférées, la popularité des articles et les préférences, ainsi que les activités d’achat et de navigation. Ci-dessous, nous fournissons un aperçu de la manière dont fonctionne notre hiérarchisation, dont les paramètres principaux et leur interaction qui ont une influence sur l’ordre dans lequel les produits vous sont affichés :
 
-* **Pertinence avec les recherches en premier:** Si vous formulez une demande de recherche spécifique, la pertinence avec cette demande aura davantage de poids, alors que d’autres paramètres, tels que la popularité ou la personnalisation, joueront un rôle secondaire.
+*   **Pertinence avec les recherches en premier:** Si vous formulez une demande de recherche spécifique, la pertinence avec cette demande aura davantage de poids, alors que d’autres paramètres, tels que la popularité ou la personnalisation, joueront un rôle secondaire.
     
-* **Priorité de la personnalisation:** Lorsque vous naviguez sans avoir formulé de demande spécifique, vos interactions précédentes avec la plateforme auront une influence sur la hiérarchisation, en même temps que la popularité et la disponibilité des produits.
+*   **Priorité de la personnalisation:** Lorsque vous naviguez sans avoir formulé de demande spécifique, vos interactions précédentes avec la plateforme auront une influence sur la hiérarchisation, en même temps que la popularité et la disponibilité des produits.
     
-* **Influence des promotions:** Les contenus sponsorisés et les promotions sont intégrés à la hiérarchisation, dans une approche équilibrée, ce qui garantit que leur comportement ne prend pas le pas sur les résultats concrets pouvant s’inscrire dans vos centres d’intérêt.
+*   **Influence des promotions:** Les contenus sponsorisés et les promotions sont intégrés à la hiérarchisation, dans une approche équilibrée, ce qui garantit que leur comportement ne prend pas le pas sur les résultats concrets pouvant s’inscrire dans vos centres d’intérêt.
     
 
 **14.5.3 Transparence et contrôle de l’utilisateur:** Nous nous engageons à vous faire vivre une expérience d’achat transparente. À ces fins :
 
-* **Mise en avant des contenus sponsorisés:** Les produits sponsorisés sont clairement indiqués au moyen d’une « étiquette » qui leur permet de se différencier des articles concrètement hiérarchisés.
+*   **Mise en avant des contenus sponsorisés:** Les produits sponsorisés sont clairement indiqués au moyen d’une « étiquette » qui leur permet de se différencier des articles concrètement hiérarchisés.
     
-* **Options de tri:** Vous pouvez prendre la main sur la hiérarchisation par défaut en utilisant des options de tri tels que « Prix croissant », « Recommandé par les clients », ou « Nouveautés en premier », afin d’adapter l’ordre dans lequel les produits sont affichés avec vos préférences.
+*   **Options de tri:** Vous pouvez prendre la main sur la hiérarchisation par défaut en utilisant des options de tri tels que « Prix croissant », « Recommandé par les clients », ou « Nouveautés en premier », afin d’adapter l’ordre dans lequel les produits sont affichés avec vos préférences.
     
-* **Paramètres de personnalisation:** Vous avez la possibilité de gérer vos préférences de personnalisation, ou de choisir la navigation privée en adaptant les paramètres de votre compte.
+*   **Paramètres de personnalisation:** Vous avez la possibilité de gérer vos préférences de personnalisation, ou de choisir la navigation privée en adaptant les paramètres de votre compte.
     
 
 **14.5.4 Surveillance et mises à jour algorithmiques:** Pour garantir une équité et une pertinence optimales, notre système de recommandation est surveillé et mis à jour régulièrement. Nous menons des tests rigoureux afin d’identifier les biais potentiels, et d’améliorer continuellement l’algorithme afin de l’aligner avec vos besoins et vos attentes.  
