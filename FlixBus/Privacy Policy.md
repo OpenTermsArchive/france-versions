@@ -36,12 +36,12 @@ Pour les candidats à un emploi :
 
 La présente politique de confidentialité est basée sur les définitions suivantes des termes, comme indiqué à l’article 4 du RGPD :
 
-* Les « **données à caractère personnel** » sont toutes les informations qui concernent une personne physique identifiée ou identifiable (la « **personne concernée** »). Une personne est identifiable si elle peut être identifiée directement ou indirectement, en particulier par référence à un identifiant tel qu’un nom, un numéro d’identification, un identifiant en ligne, des données de localisation ou au moyen d’information concernant ses caractéristiques physiques, physiologiques, génétiques, mentales, économiques, culturelles ou sociales (art. 4(1) du RGPD). L’identifiabilité peut également être obtenue en liant ces informations ou d’autres connaissances supplémentaires. Cela ne dépend pas de l’occurrence, de la forme ou de la représentation physique des informations (les photos, vidéos ou enregistrements sonores peuvent également contenir des données à caractère personnel).
-* Le « **traitement** » désigne toute opération dans laquelle des données à caractère personnel sont traitées, que ce soit par des moyens automatisés (c.-à-d. technologiquement) ou non. Cela inclut en particulier la collecte (c.-à-d. la fourniture), l’enregistrement, l’organisation, la structuration, la conservation, l’adaptation ou l’altération, la récupération, la consultation, l’utilisation, la divulgation par transmission, la diffusion ou la mise à disposition, l’alignement, la combinaison, la restriction, l’effacement ou la destruction des données à caractère personnel, ainsi que le changement de définition d’une cible ou d’une finalité qui a été initialement utilisée comme base pour le traitement des données (art. 4(2) du RGPD).
-* Le « **contrôleur** » est la personne physique ou morale, l’autorité publique, l’agence ou autre organisme qui décide, seul ou avec d’autres, des finalités et des moyens de traitement des données à caractère personnel (art. 4(7) du RGPD).
-* Le « **sous-traitant** » est une personne physique ou morale, une autorité publique, une agence ou autre organisme qui traite les données à caractère personnel pour le compte du responsable du traitement, en particulier conformément à ses instructions (art. 4(8) du RGPD).
-* Un « **tiers** » désigne toute personne physique ou morale, autorité publique, agence ou autre organisme autre que la personne concernée, le responsable du traitement, le sous-traitant et les personnes qui, sous l’autorité directe du responsable du traitement ou du sous-traitant, sont autorisées à traiter les données à caractère personnel ; cela inclut également d’autres entités juridiques appartenant au groupe (art. 4(10) du RGPD).
-* Le « **consentement** » de la personne concernée désigne toute indication librement donnée, spécifique, informée et sans ambiguïté des souhaits de la personne concernée par laquelle elle signifie, par une déclaration ou par une action affirmative claire, son accord au traitement des données à caractère personnel la concernant ; (art. 4(11) du RGPD).
+*   Les « **données à caractère personnel** » sont toutes les informations qui concernent une personne physique identifiée ou identifiable (la « **personne concernée** »). Une personne est identifiable si elle peut être identifiée directement ou indirectement, en particulier par référence à un identifiant tel qu’un nom, un numéro d’identification, un identifiant en ligne, des données de localisation ou au moyen d’information concernant ses caractéristiques physiques, physiologiques, génétiques, mentales, économiques, culturelles ou sociales (art. 4(1) du RGPD). L’identifiabilité peut également être obtenue en liant ces informations ou d’autres connaissances supplémentaires. Cela ne dépend pas de l’occurrence, de la forme ou de la représentation physique des informations (les photos, vidéos ou enregistrements sonores peuvent également contenir des données à caractère personnel).
+*   Le « **traitement** » désigne toute opération dans laquelle des données à caractère personnel sont traitées, que ce soit par des moyens automatisés (c.-à-d. technologiquement) ou non. Cela inclut en particulier la collecte (c.-à-d. la fourniture), l’enregistrement, l’organisation, la structuration, la conservation, l’adaptation ou l’altération, la récupération, la consultation, l’utilisation, la divulgation par transmission, la diffusion ou la mise à disposition, l’alignement, la combinaison, la restriction, l’effacement ou la destruction des données à caractère personnel, ainsi que le changement de définition d’une cible ou d’une finalité qui a été initialement utilisée comme base pour le traitement des données (art. 4(2) du RGPD).
+*   Le « **contrôleur** » est la personne physique ou morale, l’autorité publique, l’agence ou autre organisme qui décide, seul ou avec d’autres, des finalités et des moyens de traitement des données à caractère personnel (art. 4(7) du RGPD).
+*   Le « **sous-traitant** » est une personne physique ou morale, une autorité publique, une agence ou autre organisme qui traite les données à caractère personnel pour le compte du responsable du traitement, en particulier conformément à ses instructions (art. 4(8) du RGPD).
+*   Un « **tiers** » désigne toute personne physique ou morale, autorité publique, agence ou autre organisme autre que la personne concernée, le responsable du traitement, le sous-traitant et les personnes qui, sous l’autorité directe du responsable du traitement ou du sous-traitant, sont autorisées à traiter les données à caractère personnel ; cela inclut également d’autres entités juridiques appartenant au groupe (art. 4(10) du RGPD).
+*   Le « **consentement** » de la personne concernée désigne toute indication librement donnée, spécifique, informée et sans ambiguïté des souhaits de la personne concernée par laquelle elle signifie, par une déclaration ou par une action affirmative claire, son accord au traitement des données à caractère personnel la concernant ; (art. 4(11) du RGPD).
 
 ### 1.2 Nom et adresse du contrôleur
 
@@ -74,12 +74,12 @@ Pour des questions d’ordre général sur FlixBus, veuillez contacter [service@
 
 Le traitement des données à caractère personnel est autorisé si au moins une base juridique indiquée ci-dessous est respectée :
 
-* art. 6, paragraphe 1(a) du RGPD : la personne concernée a donné son consentement au traitement des données à caractère personnel la concernant, à une ou plusieurs finalités spécifiques ;
-* art. 6, paragraphe 1(b) du RGPD : le traitement est nécessaire à l’exécution d’un contrat auquel la personne concernée est partie ou à la mise en œuvre de mesures pré‑contractuelles prises à la demande de la personne concernée ;
-* art. 6 paragraphe 1(c) du RGPD : le traitement est nécessaire pour se conformer à une obligation légale à laquelle le responsable du traitement est soumis (p. ex. une obligation légale de conservation) ;
-* art. 6 paragraphe 1(d) du RGPD : le traitement est nécessaire pour protéger les intérêts vitaux de la personne concernée ou d’une autre personne physique ;
-* art. 6 paragraphe 1(e) du RGPD : si le traitement est nécessaire à l’exécution d’une tâche effectuée dans l’intérêt public ou dans l’exercice de l’autorité officielle conférée au responsable du traitement ; ou
-* art. 6 paragraphe 1(f) du RGPD : le traitement est nécessaire pour protéger les intérêts légitimes poursuivis par le responsable du traitement ou par un tiers, à moins que les intérêts ou droits opposés de la personne concernée ne prévalent (en particulier lorsque la personne concernée est un enfant).
+*   art. 6, paragraphe 1(a) du RGPD : la personne concernée a donné son consentement au traitement des données à caractère personnel la concernant, à une ou plusieurs finalités spécifiques ;
+*   art. 6, paragraphe 1(b) du RGPD : le traitement est nécessaire à l’exécution d’un contrat auquel la personne concernée est partie ou à la mise en œuvre de mesures pré‑contractuelles prises à la demande de la personne concernée ;
+*   art. 6 paragraphe 1(c) du RGPD : le traitement est nécessaire pour se conformer à une obligation légale à laquelle le responsable du traitement est soumis (p. ex. une obligation légale de conservation) ;
+*   art. 6 paragraphe 1(d) du RGPD : le traitement est nécessaire pour protéger les intérêts vitaux de la personne concernée ou d’une autre personne physique ;
+*   art. 6 paragraphe 1(e) du RGPD : si le traitement est nécessaire à l’exécution d’une tâche effectuée dans l’intérêt public ou dans l’exercice de l’autorité officielle conférée au responsable du traitement ; ou
+*   art. 6 paragraphe 1(f) du RGPD : le traitement est nécessaire pour protéger les intérêts légitimes poursuivis par le responsable du traitement ou par un tiers, à moins que les intérêts ou droits opposés de la personne concernée ne prévalent (en particulier lorsque la personne concernée est un enfant).
 
 Pour le traitement effectué par nous, nous précisons la base juridique applicable en vertu de la clause 2. Le traitement peut également être fondé sur plusieurs bases juridiques.
 
@@ -89,15 +89,15 @@ Sous certaines conditions, nous transmettons vos données à caractère personne
 
 Comme pour toute grande société, nous utilisons également des prestataires de services nationaux et étrangers en externe pour gérer nos transactions commerciales et travaillons avec des sociétés partenaires dans notre pays et à l’étranger. Parmi ces sociétés, par exemple, des :
 
-* transporteurs (vous trouverez une présentation des transporteurs actuels [ici](https://www.flixbus.fr/selection-conditions-generales-de-reservation)),
-* prestataires de services (informatiques),
-* institutions financières et prestataires de services de paiement,
-* partenaires commerciaux,
-* prestataires de service client (internes/externes),
-* opérateurs en agence,
-* sociétés de sécurité,
-* assureurs (voyage),
-* d’autres partenaires engagés pour nos opérations commerciales (p. ex., auditeurs, banques, compagnies d’assurance, avocats, autorités de contrôle, autres parties participant aux acquisitions de la société).
+*   transporteurs (vous trouverez une présentation des transporteurs actuels [ici](https://www.flixbus.fr/selection-conditions-generales-de-reservation)),
+*   prestataires de services (informatiques),
+*   institutions financières et prestataires de services de paiement,
+*   partenaires commerciaux,
+*   prestataires de service client (internes/externes),
+*   opérateurs en agence,
+*   sociétés de sécurité,
+*   assureurs (voyage),
+*   d’autres partenaires engagés pour nos opérations commerciales (p. ex., auditeurs, banques, compagnies d’assurance, avocats, autorités de contrôle, autres parties participant aux acquisitions de la société).
 
 Les prestataires de services et les sociétés partenaires doivent garantir que des mesures techniques et organisationnelles appropriées sont mises en œuvre de leur part, de manière à ce que le traitement réponde aux exigences légales et que les droits des personnes concernées soient protégés.
 
@@ -198,15 +198,15 @@ Lorsque nous utilisons les sites Web à des fins d’information, nous collecton
 
 Données de journal : lorsque vous consultez nos sites Web, un enregistrement de données de journal (appelé « fichiers de journal de serveur ») est sauvegardé sur notre serveur Web. Il contient les informations suivantes :
 
-* la page à partir de laquelle la page a été demandée (appelée URL de référence),
-* le nom et l’URL de la page demandée,
-* la date et l’heure de la demande d’accès (dans le fuseau horaire du serveur),
-* la version du navigateur Web utilisée,
-* l’adresse IP de l’ordinateur demandeur,
-* la quantité de données transférées,
-* le système d’exploitation,
-* le message indiquant si l’appel a réussi (état d’accès/code d’état HTTP),
-* le décalage avec le fuseau horaire GMT.
+*   la page à partir de laquelle la page a été demandée (appelée URL de référence),
+*   le nom et l’URL de la page demandée,
+*   la date et l’heure de la demande d’accès (dans le fuseau horaire du serveur),
+*   la version du navigateur Web utilisée,
+*   l’adresse IP de l’ordinateur demandeur,
+*   la quantité de données transférées,
+*   le système d’exploitation,
+*   le message indiquant si l’appel a réussi (état d’accès/code d’état HTTP),
+*   le décalage avec le fuseau horaire GMT.
 
 Nous faisons appel à des prestataires de services informatiques pour héberger nos sites Web et pour des évaluations statistiques des données de journal.
 
@@ -230,16 +230,16 @@ La base juridique est l’article 6, paragraphe 1(c) ou (f) du RGPD.
 
 Lors de la réservation de billets pour des services de transport, nous collectons, conservons et traitons les catégories suivantes de données à caractère personnel :
 
-* adresse e-mail,
-* nom et prénom,
-* données de connexion,
-* données de paiement,
-* date de naissance (pour les services de transport où les enfants bénéficient d’un tarif spécial),
-* acceptation des conditions générales concernées,
-* informations de réservation de siège à l’avance,
-* détails des bagages,
-* langue du domaine de réservation,
-* canal de réservation (Web ou application).
+*   adresse e-mail,
+*   nom et prénom,
+*   données de connexion,
+*   données de paiement,
+*   date de naissance (pour les services de transport où les enfants bénéficient d’un tarif spécial),
+*   acceptation des conditions générales concernées,
+*   informations de réservation de siège à l’avance,
+*   détails des bagages,
+*   langue du domaine de réservation,
+*   canal de réservation (Web ou application).
 
 Vous avez également la possibilité de fournir un numéro de téléphone de contact en cas de retards ou de modifications de l’itinéraire de votre voyage (facultatif).
 
@@ -251,8 +251,8 @@ Nous utilisons également certaines de ces données pour les recommandations de 
 
 Lors de la réservation de billets pour des services de transport international, les catégories suivantes de données à caractère personnel sont également collectées en fonction du lieu de départ et d’arrivée :
 
-* informations sur le sexe,
-* pièce d’identité, passeport ou numéro d’identification.
+*   informations sur le sexe,
+*   pièce d’identité, passeport ou numéro d’identification.
 
 Ces données sont traitées pour la réservation, la fourniture et le traitement des services de transport, y compris le service client, ainsi que pour l’exécution des obligations légales.
 
@@ -315,9 +315,9 @@ Vous avez la possibilité de créer un compte client personnel chez nous. Dans l
 
 Pour créer un compte client, les informations obligatoires suivantes sont collectées :
 
-* adresse e-mail,
-* prénom et nom de famille,
-* mot de passe (auto-sélectionné).
+*   adresse e-mail,
+*   prénom et nom de famille,
+*   mot de passe (auto-sélectionné).
 
 Nous utilisons ces données pour gérer votre compte client et émettre des factures.
 
@@ -325,10 +325,10 @@ En outre, vous pouvez également saisir un numéro de téléphone portable dans 
 
 Vous pouvez également choisir de stocker les données supplémentaires suivantes dans votre compte client (facultatif) :
 
-* titre,
-* date de naissance,
-* adresse (code postal, ville et pays),
-* modes de paiement.
+*   titre,
+*   date de naissance,
+*   adresse (code postal, ville et pays),
+*   modes de paiement.
 
 Ces données sont utilisées pour gérer votre compte client et émettre des factures, et peuvent également être utilisées pour envoyer des recommandations de produits personnalisées (clause 2.1.5) et, si vous vous y êtes inscrit, pour envoyer des newsletters (clause 2.1.6).
 
@@ -522,9 +522,9 @@ Pour notre service client, nous faisons appel à des prestataires de service cli
 
 De plus, nous vous proposons un service clientèle par chatbot. Données utilisées :
 
-* Données personnelles, telles que le nom, le prénom, la date de naissance (si nécessaire), le sexe (si nécessaire)
-* Coordonnées : par exemple, adresse e-mail, numéro de téléphone
-* Données techniques : par exemple, adresse IP, identifiant de session
+*   Données personnelles, telles que le nom, le prénom, la date de naissance (si nécessaire), le sexe (si nécessaire)
+*   Coordonnées : par exemple, adresse e-mail, numéro de téléphone
+*   Données techniques : par exemple, adresse IP, identifiant de session
 
 Ce chatbot est un système d’IA. Vos données ne seront pas utilisées à des fins de formation. La base légale pour le traitement de vos données personnelles est l’Article 6 (1) (b), (c) et (f) du RGPD.
 
