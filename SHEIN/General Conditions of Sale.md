@@ -14,9 +14,9 @@ Les Cartes-cadeaux sont livrées, après acceptation du paiement, à l'adresse �
 
 La Carte-cadeau achetée sera envoyée à l'adresse électronique fournie au moment de la commande. La non-réception de la Carte-cadeau par le Client ou le bénéficiaire choisi par le Client ( **»Bénéficiaire»** ) peut être due à l'une des causes suivantes :
 
-* Une adresse e-mail incorrecte ou erronée introduite au moment de l'achat de la Carte-cadeau. Le Client est alors invité à contacter sans délai le [Service Client](https://fr.shein.com/robot) pour confirmer et modifier l'adresse e-mail.
-* La boîte de réception du Client ou du Bénéficiaire est pleine. Si, après s'être assuré qu'il y a suffisamment de place dans la boîte de réception, le Client n'a toujours pas reçu la Carte-cadeau, il est invité à contacter sans délai le [Service Client](https://fr.shein.com/robot) pour une nouvelle livraison.
-* Les emails de SHEIN ont été bloqués par la boîte email du Client ou du Bénéficiaire. Ce dernier est alors invité à vérifier ses courriers indésirables et à ajouter [https://fr.shein.com/](https://fr.shein.com/) à la liste des expéditeurs autorisés, puis à contacter, sans délai, le Service Client pour un nouvel envoi.
+*   Une adresse e-mail incorrecte ou erronée introduite au moment de l'achat de la Carte-cadeau. Le Client est alors invité à contacter sans délai le [Service Client](https://fr.shein.com/robot) pour confirmer et modifier l'adresse e-mail.
+*   La boîte de réception du Client ou du Bénéficiaire est pleine. Si, après s'être assuré qu'il y a suffisamment de place dans la boîte de réception, le Client n'a toujours pas reçu la Carte-cadeau, il est invité à contacter sans délai le [Service Client](https://fr.shein.com/robot) pour une nouvelle livraison.
+*   Les emails de SHEIN ont été bloqués par la boîte email du Client ou du Bénéficiaire. Ce dernier est alors invité à vérifier ses courriers indésirables et à ajouter [https://fr.shein.com/](https://fr.shein.com/) à la liste des expéditeurs autorisés, puis à contacter, sans délai, le Service Client pour un nouvel envoi.
 
 **(2) Cartes-cadeaux promotionnelles**
 
@@ -68,8 +68,8 @@ pour les ventes effectuées par l'intermédiaire de la Marché en ligne, dans Fr
 
 Veuillez noter que:
 
-* Tous les Vendeurs sur la Marketplace agissent en qualité de vendeurs professionnels.
-* Dans certains cas, des sociétés du groupe SHEIN peuvent agir en tant que Vendeurs - et en tant que tels seront liés par ces CGV - cependant, la société Infinite Styles Services Co. Limited est l'Opérateur et ne fait pas partie de la relation contractuelle entre Vous et les Vendeurs.
+*   Tous les Vendeurs sur la Marketplace agissent en qualité de vendeurs professionnels.
+*   Dans certains cas, des sociétés du groupe SHEIN peuvent agir en tant que Vendeurs - et en tant que tels seront liés par ces CGV - cependant, la société Infinite Styles Services Co. Limited est l'Opérateur et ne fait pas partie de la relation contractuelle entre Vous et les Vendeurs.
 
 Si Vous souhaitez passer une commande vers un autre pays européen Vous serez redirigé vers le site Shein approprié et vos achats via ce site local seront soumis à ses conditions générales de vente et d’utilisation.
 
@@ -95,21 +95,21 @@ LE FAIT DE PASSER COMMANDE IMPLIQUE L'ACCEPTATION EXPRESSE DES PRÉSENTES CONDIT
 
 CONTENU
 
-* [**1\. FONCTIONNEMENT DE LA MARKETPLACE**](javascript:;)
-* [**• 2. RÉPARTITION DES OBLIGATIONS ENTRE L'OPÉRATEUR ET LE VENDEUR**](javascript:;)
-* [**3\. CARACTÉRISTIQUES DES PRODUITS**](javascript:;)
-* [**4\. PRIX DES PRODUITS ET FRAIS**](javascript:;)
-* [**5\. COMMENT PASSER UNE COMMANDE**](javascript:;)
-* [**6\. LIVRAISON**](javascript:;)
-* [**7\. VÉRIFICATION DE LA COMMANDE À SON ARRIVÉE**](javascript:;)
-* [**8\. GARANTIE LÉGALE DE CONFORMITÉ**](javascript:;)
-* [**9\. DROIT DE RÉTRACTATION**](javascript:;)
-* [**10\. EXTENSION DU DÉLAI DE RÉTRACTATION**](javascript:;)
-* [**11\. RESPONSABILITÉ**](javascript:;)
-* [**12\. DONNÉES PERSONNELLES**](javascript:;)
-* [**13\. CONTACT**](javascript:;)
-* [**14\. RÈGLEMENT DES LITIGES**](javascript:;)
-* [**15\. DROIT APPLICABLE ET JURIDICTION**](javascript:;)
+*   [**1\. FONCTIONNEMENT DE LA MARKETPLACE**](javascript:;)
+*   [**• 2. RÉPARTITION DES OBLIGATIONS ENTRE L'OPÉRATEUR ET LE VENDEUR**](javascript:;)
+*   [**3\. CARACTÉRISTIQUES DES PRODUITS**](javascript:;)
+*   [**4\. PRIX DES PRODUITS ET FRAIS**](javascript:;)
+*   [**5\. COMMENT PASSER UNE COMMANDE**](javascript:;)
+*   [**6\. LIVRAISON**](javascript:;)
+*   [**7\. VÉRIFICATION DE LA COMMANDE À SON ARRIVÉE**](javascript:;)
+*   [**8\. GARANTIE LÉGALE DE CONFORMITÉ**](javascript:;)
+*   [**9\. DROIT DE RÉTRACTATION**](javascript:;)
+*   [**10\. EXTENSION DU DÉLAI DE RÉTRACTATION**](javascript:;)
+*   [**11\. RESPONSABILITÉ**](javascript:;)
+*   [**12\. DONNÉES PERSONNELLES**](javascript:;)
+*   [**13\. CONTACT**](javascript:;)
+*   [**14\. RÈGLEMENT DES LITIGES**](javascript:;)
+*   [**15\. DROIT APPLICABLE ET JURIDICTION**](javascript:;)
 
 1\. FONCTIONNEMENT DU MARCHÉ
 
@@ -443,12 +443,12 @@ Date :
 
 11.6 Lorsque la loi le permet, le Vendeur ne sera pas responsable dans le cas où l'inexécution de ses obligations est imputable soit au fait imprévisible et insurmontable d'un, soit à un cas de force majeure (tel que défini par la loi applicable) et qui comprend, sans s'y limiter :
 
-* les grèves et autres formes de manifestations ou de blocages qui affectent la production et la livraison des Produits ;
-* troubles civils, révolte, invasion, attaque ou menace terroriste, guerre (déclarée ou non) ou menace ou préparation de guerre.
-* incendie, explosion, tempête, inondation, tremblement de terre, effondrement, épidémie ou toute autre catastrophe naturelle.
-* l'impossibilité d'utiliser le train, le bateau, l'avion, le transport motorisé ou tout autre moyen de transport, public ou privé.
-* l'impossibilité d'utiliser les systèmes de télécommunication publics ou privés.
-* les actes, décrets, lois, règlements ou restrictions de tout gouvernement ou autorité publique.
+*   les grèves et autres formes de manifestations ou de blocages qui affectent la production et la livraison des Produits ;
+*   troubles civils, révolte, invasion, attaque ou menace terroriste, guerre (déclarée ou non) ou menace ou préparation de guerre.
+*   incendie, explosion, tempête, inondation, tremblement de terre, effondrement, épidémie ou toute autre catastrophe naturelle.
+*   l'impossibilité d'utiliser le train, le bateau, l'avion, le transport motorisé ou tout autre moyen de transport, public ou privé.
+*   l'impossibilité d'utiliser les systèmes de télécommunication publics ou privés.
+*   les actes, décrets, lois, règlements ou restrictions de tout gouvernement ou autorité publique.
 
 Les obligations du Vendeur au titre des CGV sont suspendues pendant la durée de la situation de force majeure. Le Vendeur a droit à une prolongation de la période d'exécution de ces obligations égale à la durée de la situation de force majeure. Toutefois, tous les moyens raisonnables seront mis en œuvre pour mettre fin à la situation de force majeure ou pour trouver une solution permettant au Vendeur de remplir ses obligations contractuelles.
 
