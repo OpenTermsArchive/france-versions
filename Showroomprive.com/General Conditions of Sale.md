@@ -67,13 +67,13 @@ Vous vous engagez à créer et utiliser un seul compte. A défaut, en cas de cr�
 
 Pour commander sur notre Site :
 
-1. Connectez-vous à votre compte personnel ;
-2. Profitez de nos ventes en sélectionnant les produits et/ou les Coupons de votre choix étant définis ensemble les « **Articles** ») ;
-3. Prenez connaissance des intitulés et caractéristiques essentielles des différents Articles en consultant les fiches-produits correspondantes ;
-4. Une fois votre shopping terminé vous accédez à une page récapitulant l'ensemble des Articles choisis, ainsi que le prix total de votre commande. Avant de valider votre panier veuillez vérifier que les caractéristiques des Articles correspondent bien à votre choix. Aucune modification ne pourra être effectuée après la passation de votre commande !
-5. Ensuite, si vous commandez des Articles, une fois votre panier validé, choisissez l'adresse et le mode de livraison de votre commande ;
-6. Choisissez votre mode de paiement, acceptez l'intégralité de nos CGV et procédez au paiement sécurisé de votre commande ;
-7. Votre commande est terminée ! Vous recevrez alors un mail de confirmation de votre commande. Si vous avez commandé des Coupons, ils vous seront directement envoyés par mail et seront également téléchargeables dans votre espace client.
+1.  Connectez-vous à votre compte personnel ;
+2.  Profitez de nos ventes en sélectionnant les produits et/ou les Coupons de votre choix étant définis ensemble les « **Articles** ») ;
+3.  Prenez connaissance des intitulés et caractéristiques essentielles des différents Articles en consultant les fiches-produits correspondantes ;
+4.  Une fois votre shopping terminé vous accédez à une page récapitulant l'ensemble des Articles choisis, ainsi que le prix total de votre commande. Avant de valider votre panier veuillez vérifier que les caractéristiques des Articles correspondent bien à votre choix. Aucune modification ne pourra être effectuée après la passation de votre commande !
+5.  Ensuite, si vous commandez des Articles, une fois votre panier validé, choisissez l'adresse et le mode de livraison de votre commande ;
+6.  Choisissez votre mode de paiement, acceptez l'intégralité de nos CGV et procédez au paiement sécurisé de votre commande ;
+7.  Votre commande est terminée ! Vous recevrez alors un mail de confirmation de votre commande. Si vous avez commandé des Coupons, ils vous seront directement envoyés par mail et seront également téléchargeables dans votre espace client.
 
 Veuillez noter que nos offres d'Articles sont valables pendant la durée de la vente évènementielle et dans la limite des stocks disponibles et/ou des quotas des Coupons alloués par les partenaires de Showroomprive. Il arrive parfois qu'un produit commandé ne soit plus en stock ou que le quota de Coupons ait été dépassé. Vous en serez informé par mail, et serez remboursé du montant correspondant dans un délai maximum de quatorze (14) jours après avoir été averti de l'indisponibilité de l'Article. Le remboursement s'effectuera par transaction inversée via le mode de paiement utilisé lors de votre achat initial (bon d'achat et/ou carte bancaire).
 
@@ -81,10 +81,10 @@ Il est précisé que les codes promos et les bons d'achats ne peuvent pas s'appl
 
 Par ailleurs, nous nous réservons le droit d'annuler votre commande pour un motif légitime notamment dans les cas suivants :
 
-1. Lorsque qu'une erreur manifeste s'est glissée sur la description de l'Article/ou le prix (par exemple lorsqu'un prix manifestement dérisoire s'affiche et/ou lorsqu'il existe une erreur sur une des caractéristiques essentielles du produit ou du contenu des Coupons) ;
-2. Lorsqu'il existe un différend relatif au paiement de votre commande ;
-3. Lorsque nous constatons une utilisation frauduleuse de nos avantages et/ou de notre programme de parrainage ;
-4. Lorsque nous constatons la création multiple de comptes pour un seul membre utilisateur (cf. article 2)
+1.  Lorsque qu'une erreur manifeste s'est glissée sur la description de l'Article/ou le prix (par exemple lorsqu'un prix manifestement dérisoire s'affiche et/ou lorsqu'il existe une erreur sur une des caractéristiques essentielles du produit ou du contenu des Coupons) ;
+2.  Lorsqu'il existe un différend relatif au paiement de votre commande ;
+3.  Lorsque nous constatons une utilisation frauduleuse de nos avantages et/ou de notre programme de parrainage ;
+4.  Lorsque nous constatons la création multiple de comptes pour un seul membre utilisateur (cf. article 2)
 
 Nous nous réservons également le droit de prendre toutes mesures utiles afin de faire cesser de telles irrégularités (exemple : blocage ou suppression du compte).
 
@@ -102,8 +102,8 @@ Il est important pour nous que vous ayez confiance dans les prix que nous affich
 
 Lorsqu'il est indiqué à côté du prix barré la mention :« **Prix conseillé** », le prix barré est **un prix de comparaison** que vous pouvez comparer avec notre prix de vente et à partir duquel nous calculons la différence affichée sous forme de pourcentage. Il correspond soit :
 
-* au prix **recommandé/conseillé** par une marque ou un fournisseur de cette marque ;
-* au prix **constaté** chez un ou plusieurs revendeurs représentatifs en France ou de manière exceptionnelle dans un autre pays européen.
+*   au prix **recommandé/conseillé** par une marque ou un fournisseur de cette marque ;
+*   au prix **constaté** chez un ou plusieurs revendeurs représentatifs en France ou de manière exceptionnelle dans un autre pays européen.
 
 Afin de nous assurer de la loyauté de nos prix de comparaison affichés, nous procédons à des vérifications de ces prix par échantillonnage nous permettant de contrôler leur réalité.
 
