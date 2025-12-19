@@ -1,543 +1,550 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
-* [NOS IDEES CADEAUX](https://www.printemps.com/fr/fr/idees-cadeaux-noel)
-    * [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
-    * [Pour lui](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
-    * [Beauté](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
-* PAR PRIX
-    * [Moins de 100€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/0/100)
-    * [Entre 100€ et 200€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/100/200)
-    * [Entre 200€ et 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/200/300)
-    * [Plus de 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/300/1000)
-* [La carte cadeau](https://cartescadeaux.printemps.com/)
+*   [NOS IDEES CADEAUX](https://www.printemps.com/fr/fr/idees-cadeaux-noel)
+    *   [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
+    *   [Pour lui](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
+    *   [Beauté](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
+*   PAR PRIX
+    *   [Moins de 100€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/0/100)
+    *   [Entre 100€ et 200€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/100/200)
+    *   [Entre 200€ et 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/200/300)
+    *   [Plus de 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/300/1000)
+*   [La carte cadeau](https://cartescadeaux.printemps.com/)
     
 
-* [TENUES DE FÊTES](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
-    * [Femme](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
-    * [Homme](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
-    * [Mise en beauté](https://www.printemps.com/fr/fr/maquillage)
-* [LES CALENDRIERS DE L'AVENT](https://www.printemps.com/fr/fr/calendrier-noel)
+*   [TENUES DE FÊTES](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
+    *   [Femme](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
+    *   [Homme](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
+    *   [Mise en beauté](https://www.printemps.com/fr/fr/maquillage)
+*   [LES CALENDRIERS DE L'AVENT](https://www.printemps.com/fr/fr/calendrier-noel)
     
-* [LES COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
+*   [LES COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
     
-* [NOËL AU PRINTEMPS](https://www.printemps.com/fr/fr/noel-au-printemps)
-    
-
-* PLUS D'INSPIRATION
-    * [Les meilleurs calendriers de l'avent beauté 2025 pour attendre Noël](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
-    * [Cadeaux de Noël de dernière minute : Les idées qui feront plaisir à coup sûr](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-noel-derniere-minute)
-    * [Comment décorer une table de Noël : Les idées parfaites](https://www.printemps.com/fr/fr/edito-magazine-actu-comment-decorer-table-noel)
-    * [Cadeaux beauté : Les meilleurs coffrets à glisser sous le sapin](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-beaute-coffrets-noel)
-* 
-
-* [COLLECTION AUTOMNE-HIVER](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
-    
-* [COLLECTION PRINTEMPS-ÉTÉ](https://www.printemps.com/fr/fr/collection-printemps-ete)
-    
-* [DERNIÈRES NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes)
+*   [NOËL AU PRINTEMPS](https://www.printemps.com/fr/fr/noel-au-printemps)
     
 
-* [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
-    * [Sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
-    * [Chaussures](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Chaussures)
-    * [Robes](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Robes)
-    * [Accessoires](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Accessoires)
-    * [Baskets](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Baskets)
-    * [Cabas](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Sacs+cabas)
-
-* [HOMME](https://www.printemps.com/fr/fr/nouveautes-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-homme)
-    * [Vestes](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Vestes)
-    * [Baskets](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Baskets)
-    * [Vêtements](https://www.printemps.com/fr/fr/nouveautes-homme/esp/V%C3%AAtements)
-    * [Accessoires](https://www.printemps.com/fr/fr/nouveautes-homme/esp/Accessoires)
-    * [T-shirts et polos](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Tops+et+t-shirts)
-    * [Manteaux](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Manteaux)
-
-* [BEAUTÉ](https://www.printemps.com/fr/fr/nouveautes-beaute)
-    * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-beaute)
-    * [Parfums](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Parfum)
-    * [Soins](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Soin)
-    * [Maquillage](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Maquillage)
-    * [Accessoires](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Accessoires)
-* [MAISON](https://www.printemps.com/fr/fr/nouveautes-maison)
-    
-* [Souvenir shop](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
+*   PLUS D'INSPIRATION
+    *   [Les meilleurs calendriers de l'avent beauté 2025 pour attendre Noël](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
+    *   [Cadeaux de Noël de dernière minute : Les idées qui feront plaisir à coup sûr](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-noel-derniere-minute)
+    *   [Comment décorer une table de Noël : Les idées parfaites](https://www.printemps.com/fr/fr/edito-magazine-actu-comment-decorer-table-noel)
+    *   [Cadeaux beauté : Les meilleurs coffrets à glisser sous le sapin](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-beaute-coffrets-noel)
+*   
     
 
-* MARQUES
-    * [Topshop](https://www.printemps.com/fr/fr/topshop-femme)
-    * [Our legacy](https://www.printemps.com/fr/fr/ourlegacy)
-    * [Magda Butrym](https://www.printemps.com/fr/fr/magda-butrym-femme)
-    * [Essentiel Antwerp](https://www.printemps.com/fr/fr/essentiel-antwerp-femme)
-    * [Lancel](https://www.printemps.com/fr/fr/lancel-femme)
-    * [Boss](https://www.printemps.com/fr/fr/hugo-boss)
-    * [Ba&sh](https://www.printemps.com/fr/fr/bash-femme)
-    * [Coach](https://www.printemps.com/fr/fr/coach-femme)
-    * [Givenchy Beauty](https://www.printemps.com/fr/fr/givenchy-beaute)
-    * [Maison Sarah Lavoine](https://www.printemps.com/fr/fr/maison-sarah-lavoine-maison)
-    * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/nouveautes/mrk/J%C3%89R%C3%94ME+DREYFUSS)
-
-* DANS LA TENDANCE
-    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
-    * [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
-    * [Les tendances automne-hiver](https://www.printemps.com/fr/fr/edito-magazine-style-tendances-automne-hiver)
-    * [Tendance cuir : les pièces incontournables](https://www.printemps.com/fr/fr/edito-magazine-style-tendance-cuir)
-    * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865)
-
-* [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
-    * [Manteaux](https://www.printemps.com/fr/fr/manteaux-femme)
-    * [Vestes](https://www.printemps.com/fr/fr/vestes-femme)
-    * [Tops et t-shirts](https://www.printemps.com/fr/fr/tops-t-shirts-femme)
-    * [Blouses et chemises](https://www.printemps.com/fr/fr/chemises-femme)
-    * [Mailles et pulls](https://www.printemps.com/fr/fr/mailles-pulls-femme)
-    * [Sweats et hoodies](https://www.printemps.com/fr/fr/sweats-hoodies-femme)
-    * [Jeans](https://www.printemps.com/fr/fr/jeans-femme)
-    * [Pantalons](https://www.printemps.com/fr/fr/pantalons-femme)
-    * [Jupes](https://www.printemps.com/fr/fr/jupes-femme)
-    * [Robes](https://www.printemps.com/fr/fr/robes-femme)
-    * [Robes de soirée](https://www.printemps.com/fr/fr/robes-de-soiree)
-    * [Tailleurs](https://www.printemps.com/fr/fr/tailleurs-femme)
-    * [Sous-vêtements et pyjamas](https://www.printemps.com/fr/fr/sous-vetements-femme)
-    * [Maillots de bain](https://www.printemps.com/fr/fr/maillots-de-bain-femme)
-
-* [SACS](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
-    * [Maroquinerie de luxe](https://www.printemps.com/fr/fr/maroquinerie-de-luxe-femme)
-    * [Nouveautés sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
-    * [Sacs iconiques](https://www.printemps.com/fr/fr/sacs-iconiques)
-    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-femme)
-    * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
-    * [Cabas](https://www.printemps.com/fr/fr/cabas-femme)
-    * [Petite maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-femme)
-    * [Mini sacs](https://www.printemps.com/fr/fr/mini-sacs-femme)
-    * [Pochettes](https://www.printemps.com/fr/fr/pochettes-femme)
-    * [Sacs bourse](https://www.printemps.com/fr/fr/sacs-bourse-femme)
-    * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-femme)
-    * [Bagages](https://www.printemps.com/fr/fr/sacs-voyage-femme)
-
-* [CHAUSSURES](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
-    * [Ballerines et babies](https://www.printemps.com/fr/fr/ballerines-babies)
-    * [Derbies et mocassins](https://www.printemps.com/fr/fr/mocassins-derbies)
-    * [Baskets](https://www.printemps.com/fr/fr/baskets-femme)
-    * [Bottines](https://www.printemps.com/fr/fr/bottines-femme)
-    * [Bottes](https://www.printemps.com/fr/fr/bottes-femme)
-    * [Escarpins](https://www.printemps.com/fr/fr/escarpins-femme)
-    * [Sandales](https://www.printemps.com/fr/fr/sandales-femme)
-    * [Mules](https://www.printemps.com/fr/fr/mules-femme)
-    * [Tongs et claquettes](https://www.printemps.com/fr/fr/tongs-et-claquettes-femme)
-
-* [MONTRES](https://www.printemps.com/fr/fr/montres-femme)
+*   [COLLECTION AUTOMNE-HIVER](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
     
-* [BIJOUX](https://www.printemps.com/fr/fr/bijoux-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/bijoux-femme)
-    * [Boucles d'oreille](https://www.printemps.com/fr/fr/boucles-d-oreille)
-    * [Colliers](https://www.printemps.com/fr/fr/colliers)
-    * [Bagues](https://www.printemps.com/fr/fr/bagues)
-    * [Bracelets](https://www.printemps.com/fr/fr/bracelets)
-* [ACCESSOIRES](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
-    * [Écharpes et foulards](https://www.printemps.com/fr/fr/echarpes-femme)
-    * [Casquettes et chapeaux](https://www.printemps.com/fr/fr/chapeaux-femme)
-    * [Lunettes de soleil](https://www.printemps.com/fr/fr/lunettes-femme)
-    * [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
-    * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
-
-* [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
+*   [COLLECTION PRINTEMPS-ÉTÉ](https://www.printemps.com/fr/fr/collection-printemps-ete)
     
-* [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-femme)
-    
-* [LUXE ET CRÉATEURS](https://www.printemps.com/fr/fr/luxe-et-createurs-femme)
-    
-* [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-femme)
-    
-* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme)
-    
-* [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
-    
-* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
+*   [DERNIÈRES NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes)
     
 
-* TOP MARQUES
-    * [Voir toutes les marques](https://www.printemps.com/fr/fr/marques-femme)
-    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
-    * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme)
-    * [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
-    * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
-    * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
-    * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
-    * [Prada](https://www.printemps.com/fr/fr/prada-femme)
-    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
-    * [Guess](https://www.printemps.com/fr/fr/guess-femme)
-    * 
+*   [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
+    *   [Sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
+    *   [Chaussures](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Chaussures)
+    *   [Robes](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Robes)
+    *   [Accessoires](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Accessoires)
+    *   [Baskets](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Baskets)
+    *   [Cabas](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Sacs+cabas)
 
-* 
+*   [HOMME](https://www.printemps.com/fr/fr/nouveautes-homme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/nouveautes-homme)
+    *   [Vestes](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Vestes)
+    *   [Baskets](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Baskets)
+    *   [Vêtements](https://www.printemps.com/fr/fr/nouveautes-homme/esp/V%C3%AAtements)
+    *   [Accessoires](https://www.printemps.com/fr/fr/nouveautes-homme/esp/Accessoires)
+    *   [T-shirts et polos](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Tops+et+t-shirts)
+    *   [Manteaux](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Manteaux)
 
-* [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
-    * [Manteaux](https://www.printemps.com/fr/fr/manteaux-homme)
-    * [Vestes](https://www.printemps.com/fr/fr/vestes-homme)
-    * [Sweats & hoodies](https://www.printemps.com/fr/fr/sweats-hoodies-homme)
-    * [Mailles et pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme)
-    * [T-shirts](https://www.printemps.com/fr/fr/tee-shirts-homme)
-    * [Polos](https://www.printemps.com/fr/fr/polos-homme)
-    * [Chemises](https://www.printemps.com/fr/fr/chemises-homme)
-    * [Pantalons](https://www.printemps.com/fr/fr/pantalons-homme)
-    * [Jeans](https://www.printemps.com/fr/fr/jeans-homme)
-    * [Shorts](https://www.printemps.com/fr/fr/shorts-homme)
-    * [Maillots de bain](https://www.printemps.com/fr/fr/maillots-de-bain-homme)
-    * [Costumes](https://www.printemps.com/fr/fr/costumes-homme)
-    * [Sous-vêtements et pyjamas](https://www.printemps.com/fr/fr/sous-vetements-homme)
-
-* [BASKETS](https://www.printemps.com/fr/fr/baskets-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/baskets-homme)
-    * [Baskets de luxe](https://www.printemps.com/fr/fr/baskets-luxe-homme)
-    * [Sneakers du moment](https://www.printemps.com/fr/fr/sneakers-du-moment-homme)
-* [CHAUSSURES](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme)
-    * [Mocassins et Derbies](https://www.printemps.com/fr/fr/chaussures-plates-homme)
-    * [Bottines](https://www.printemps.com/fr/fr/bottes-bottines-homme)
-    * [Sandales et Mules](https://www.printemps.com/fr/fr/sandales-et-mules-homme)
-    * [Tongs Et Claquettes](https://www.printemps.com/fr/fr/tongs-et-claquettes-homme)
-
-* [ACCESSOIRES](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
-    * [Bijoux](https://www.printemps.com/fr/fr/bijoux-homme)
-    * [Bonnets et Casquettes](https://www.printemps.com/fr/fr/chapeaux-homme)
-    * [Lunettes De Soleil](https://www.printemps.com/fr/fr/lunettes-homme)
-    * [Ceintures](https://www.printemps.com/fr/fr/ceintures-homme)
-    * [Cravates et Bretelles](https://www.printemps.com/fr/fr/cravates-homme)
-    * [Gants](https://www.printemps.com/fr/fr/gants-homme)
-    * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-homme)
-    * [Écharpes](https://www.printemps.com/fr/fr/echarpes-homme)
-* [MONTRES](https://www.printemps.com/fr/fr/montres-homme)
+*   [BEAUTÉ](https://www.printemps.com/fr/fr/nouveautes-beaute)
+    *   [Voir tout](https://www.printemps.com/fr/fr/nouveautes-beaute)
+    *   [Parfums](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Parfum)
+    *   [Soins](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Soin)
+    *   [Maquillage](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Maquillage)
+    *   [Accessoires](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Accessoires)
+*   [MAISON](https://www.printemps.com/fr/fr/nouveautes-maison)
+    
+*   [Souvenir shop](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
     
 
-* [SACS](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
-    * [Sacoches et sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
-    * [Portefeuilles & porte-cartes](https://www.printemps.com/fr/fr/petite-maroquinerie-homme)
-    * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-homme)
-    * [Pochettes](https://www.printemps.com/fr/fr/pochettes-homme)
-    * [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-homme)
-    * [Cabas](https://www.printemps.com/fr/fr/cabas-homme)
-    * [Bagages](https://www.printemps.com/fr/fr/sacs-voyage-homme)
-    * [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
-    * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
+*   MARQUES
+    *   [Topshop](https://www.printemps.com/fr/fr/topshop-femme)
+    *   [Our legacy](https://www.printemps.com/fr/fr/ourlegacy)
+    *   [Magda Butrym](https://www.printemps.com/fr/fr/magda-butrym-femme)
+    *   [Essentiel Antwerp](https://www.printemps.com/fr/fr/essentiel-antwerp-femme)
+    *   [Lancel](https://www.printemps.com/fr/fr/lancel-femme)
+    *   [Boss](https://www.printemps.com/fr/fr/hugo-boss)
+    *   [Ba&sh](https://www.printemps.com/fr/fr/bash-femme)
+    *   [Coach](https://www.printemps.com/fr/fr/coach-femme)
+    *   [Givenchy Beauty](https://www.printemps.com/fr/fr/givenchy-beaute)
+    *   [Maison Sarah Lavoine](https://www.printemps.com/fr/fr/maison-sarah-lavoine-maison)
+    *   [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/nouveautes/mrk/J%C3%89R%C3%94ME+DREYFUSS)
 
-* [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
+*   DANS LA TENDANCE
+    *   [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
+    *   [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
+    *   [Les tendances automne-hiver](https://www.printemps.com/fr/fr/edito-magazine-style-tendances-automne-hiver)
+    *   [Tendance cuir : les pièces incontournables](https://www.printemps.com/fr/fr/edito-magazine-style-tendance-cuir)
+    *   [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865)
+
+*   [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
+    *   [Manteaux](https://www.printemps.com/fr/fr/manteaux-femme)
+    *   [Vestes](https://www.printemps.com/fr/fr/vestes-femme)
+    *   [Tops et t-shirts](https://www.printemps.com/fr/fr/tops-t-shirts-femme)
+    *   [Blouses et chemises](https://www.printemps.com/fr/fr/chemises-femme)
+    *   [Mailles et pulls](https://www.printemps.com/fr/fr/mailles-pulls-femme)
+    *   [Sweats et hoodies](https://www.printemps.com/fr/fr/sweats-hoodies-femme)
+    *   [Jeans](https://www.printemps.com/fr/fr/jeans-femme)
+    *   [Pantalons](https://www.printemps.com/fr/fr/pantalons-femme)
+    *   [Jupes](https://www.printemps.com/fr/fr/jupes-femme)
+    *   [Robes](https://www.printemps.com/fr/fr/robes-femme)
+    *   [Robes de soirée](https://www.printemps.com/fr/fr/robes-de-soiree)
+    *   [Tailleurs](https://www.printemps.com/fr/fr/tailleurs-femme)
+    *   [Sous-vêtements et pyjamas](https://www.printemps.com/fr/fr/sous-vetements-femme)
+    *   [Maillots de bain](https://www.printemps.com/fr/fr/maillots-de-bain-femme)
+
+*   [SACS](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
+    *   [Maroquinerie de luxe](https://www.printemps.com/fr/fr/maroquinerie-de-luxe-femme)
+    *   [Nouveautés sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
+    *   [Sacs iconiques](https://www.printemps.com/fr/fr/sacs-iconiques)
+    *   [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-femme)
+    *   [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
+    *   [Cabas](https://www.printemps.com/fr/fr/cabas-femme)
+    *   [Petite maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-femme)
+    *   [Mini sacs](https://www.printemps.com/fr/fr/mini-sacs-femme)
+    *   [Pochettes](https://www.printemps.com/fr/fr/pochettes-femme)
+    *   [Sacs bourse](https://www.printemps.com/fr/fr/sacs-bourse-femme)
+    *   [Sacs bananes](https://www.printemps.com/fr/fr/bananes-femme)
+    *   [Bagages](https://www.printemps.com/fr/fr/sacs-voyage-femme)
+
+*   [CHAUSSURES](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
+    *   [Ballerines et babies](https://www.printemps.com/fr/fr/ballerines-babies)
+    *   [Derbies et mocassins](https://www.printemps.com/fr/fr/mocassins-derbies)
+    *   [Baskets](https://www.printemps.com/fr/fr/baskets-femme)
+    *   [Bottines](https://www.printemps.com/fr/fr/bottines-femme)
+    *   [Bottes](https://www.printemps.com/fr/fr/bottes-femme)
+    *   [Escarpins](https://www.printemps.com/fr/fr/escarpins-femme)
+    *   [Sandales](https://www.printemps.com/fr/fr/sandales-femme)
+    *   [Mules](https://www.printemps.com/fr/fr/mules-femme)
+    *   [Tongs et claquettes](https://www.printemps.com/fr/fr/tongs-et-claquettes-femme)
+
+*   [MONTRES](https://www.printemps.com/fr/fr/montres-femme)
     
-* [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme)
+*   [BIJOUX](https://www.printemps.com/fr/fr/bijoux-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/bijoux-femme)
+    *   [Boucles d'oreille](https://www.printemps.com/fr/fr/boucles-d-oreille)
+    *   [Colliers](https://www.printemps.com/fr/fr/colliers)
+    *   [Bagues](https://www.printemps.com/fr/fr/bagues)
+    *   [Bracelets](https://www.printemps.com/fr/fr/bracelets)
+*   [ACCESSOIRES](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
+    *   [Écharpes et foulards](https://www.printemps.com/fr/fr/echarpes-femme)
+    *   [Casquettes et chapeaux](https://www.printemps.com/fr/fr/chapeaux-femme)
+    *   [Lunettes de soleil](https://www.printemps.com/fr/fr/lunettes-femme)
+    *   [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
+    *   [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
+
+*   [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
     
-* [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-homme)
+*   [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-femme)
     
-* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme)
+*   [LUXE ET CRÉATEURS](https://www.printemps.com/fr/fr/luxe-et-createurs-femme)
     
-* [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme)
-    * [Pièces de défilés](https://www.printemps.com/fr/fr/defile-homme)
-    * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison-1865-tout-homme)
-    * [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
-* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
+*   [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-femme)
     
-* [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
+*   [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme)
     
-
-* TOP MARQUES
-    * [Toutes les marques homme](https://www.printemps.com/fr/fr/marques-homme)
-    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
-    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren-homme)
-    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
-    * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
-    * [AMI Paris](https://www.printemps.com/fr/fr/amiparis-homme)
-    * [Prada](https://www.printemps.com/fr/fr/prada-homme)
-    * [Moncler](https://www.printemps.com/fr/fr/moncler-homme)
-    * [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
-    * [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
-    * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    * 
-
-* 
-
-* [L’ESPACE BEAUTÉ](https://www.printemps.com/fr/fr/espace-beaute)
+*   [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
     
-* [CALENDRIERS DE L'AVENT](https://www.printemps.com/fr/fr/calendrier-noel)
-    
-* [PARFUMS](https://www.printemps.com/fr/fr/parfum)
-    * [Voir tout](https://www.printemps.com/fr/fr/parfum)
-    * [Eaux de toilette et parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
-    * [Eaux de cologne](https://www.printemps.com/fr/fr/eaux-de-cologne)
-    * [Extrait de parfum](https://www.printemps.com/fr/fr/extrait-de-parfum)
-    * [Soins parfumés](https://www.printemps.com/fr/fr/soins-parfumes)
-* [MAQUILLAGE](https://www.printemps.com/fr/fr/maquillage)
-    * [Voir tout](https://www.printemps.com/fr/fr/maquillage)
-    * [Teint](https://www.printemps.com/fr/fr/teint)
-    * [Lèvres](https://www.printemps.com/fr/fr/levres)
-    * [Ongles](https://www.printemps.com/fr/fr/ongles)
-    * [Palettes](https://www.printemps.com/fr/fr/palettes)
-
-* [SOINS](https://www.printemps.com/fr/fr/soin)
-    * [Voir tout](https://www.printemps.com/fr/fr/soins)
-    * [Soins visage](https://www.printemps.com/fr/fr/soins-visage)
-    * [Soins du corps](https://www.printemps.com/fr/fr/soins-corps)
-    * [Soins solaires](https://www.printemps.com/fr/fr/soins-solaires)
-    * [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
-* [CHEVEUX](https://www.printemps.com/fr/fr/soins-cheveux)
-    * [Voir tout](https://www.printemps.com/fr/fr/soins-cheveux)
-    * [Shampoing & après-shampoing](https://www.printemps.com/fr/fr/shampoing-apres-shampoing)
-    * [Soins](https://www.printemps.com/fr/fr/masques-et-soins-cheveux)
-    * [Produits de coiffage](https://www.printemps.com/fr/fr/produits-de-coiffage)
-    * [Appareils électroniques](https://www.printemps.com/fr/fr/fers-lisser)
-
-* [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
-    
-* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-beaute)
-    
-* [HOMME](https://www.printemps.com/fr/fr/beaute-homme)
-    
-* [BOUGIES ET PARFUMS D'INTÉRIEUR](https://www.printemps.com/fr/fr/bougie-parfum-d-interieur)
-    
-* [ACCESSOIRES BEAUTÉ](https://www.printemps.com/fr/fr/accessoires-beaute)
-    
-* [COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
-    
-* [Tout l'univers beauté](https://www.printemps.com/fr/fr/toute-selection-beaute)
-    
-* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
-    
-
-* INSPIRATIONS
-    * [Scent Room](https://www.printemps.com/fr/fr/concept-beaute-scent-room)
-    * [Green market](https://www.printemps.com/fr/fr/concept-beaute-green-market)
-    * [K-beauty](https://www.printemps.com/fr/fr/concept-beaute-k-beauty)
-    * [Les meilleurs calendriers de l'Avent 2025](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
-    * [Smoky eyes : le guide complet pour un regard intense](https://www.printemps.com/fr/fr/edito-magazine-beaute-smoky-eyes)
-* SÉLECTIONS
-    * [Meilleures ventes](https://www.printemps.com/fr/fr/meilleures-ventes-beaute)
-    * [Parfums Bestsellers](https://www.printemps.com/fr/fr/parfums-bestsellers)
-    * [Parfums d'exception](https://www.printemps.com/fr/fr/parfum-niche)
-    * [Soins hydratants](https://www.printemps.com/fr/fr/soins-visage-hydratants)
-    * [Soins anti-imperfections](https://www.printemps.com/fr/fr/sos-imperfections)
-    * [Soins anti-âge](https://www.printemps.com/fr/fr/soins-visage/sct/Anti-%C3%A2ge+%26+Anti-ride)
-
-* [TOP MARQUES](https://www.printemps.com/fr/fr/marques-beaute)
-    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/univers-maison-francis-kurkdjian)
-    * [Victoria Beckham](https://www.printemps.com/fr/fr/victoria-beckham-beaute)
-    * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque-beaute)
-    * [Dyson](https://www.printemps.com/fr/fr/univers-dyson)
-    * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
-    * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
-    * [Hermès](https://www.printemps.com/fr/fr/univers-hermes)
-    * [Parfums de marly](https://www.printemps.com/fr/fr/parfum-parfums-de-marly)
-    * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
-    * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-    * 
-
-* 
-
-* [SPÉCIAL BLANC : Jusqu'à -40%](https://www.printemps.com/fr/fr/blanc-dhiver)
-
-* [LINGE DE MAISON](https://www.printemps.com/fr/fr/linge-de-maison)
-
-* [ARTS DE LA TABLE](https://www.printemps.com/fr/fr/arts-de-la-table)
-
-* [DÉCORATION](https://www.printemps.com/fr/fr/decoration)
-
-* [LITERIE](https://www.printemps.com/fr/fr/literie-maison)
-
-* [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance)
-    
-* [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-femme)
-    * [Luxe](https://www.printemps.com/fr/fr/last-chance-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
-    * [Sacs](https://www.printemps.com/fr/fr/last-chance-femme/esp/Sacs)
-    * [Sacs à main](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+%C3%A0+main)
-    * [Sacs bandoulière](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+bandouli%C3%A8re)
-    * [Vêtements](https://www.printemps.com/fr/fr/last-chance-femme/esp/V%C3%AAtements)
-    * [Robes](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Robes)
-    * [Tops & t-shirts](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Tops+et+t-shirts)
-    * [Chaussures](https://www.printemps.com/fr/fr/last-chance-femme/esp/Chaussures)
-    * [Baskets](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Baskets)
-    * [Bijoux](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Bijoux)
-
-* [HOMME](https://www.printemps.com/fr/fr/last-chance-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-homme)
-    * [Vêtements](https://www.printemps.com/fr/fr/last-chance-homme/esp/V%C3%AAtements)
-    * [Chemises](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Chemises)
-    * [Tops & t-shirts](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Tops+et+t-shirts)
-    * [Pantalons](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Pantalons)
-    * [Shorts](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Shorts)
-    * [Chaussures](https://www.printemps.com/fr/fr/last-chance-homme/esp/Chaussures)
-    * [Baskets](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Baskets)
-    * [Sacs](https://www.printemps.com/fr/fr/last-chance-homme/esp/Sacs)
-    * [Accessoires](https://www.printemps.com/fr/fr/last-chance-homme/esp/Accessoires)
-    * [Luxe](https://www.printemps.com/fr/fr/last-chance-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS/BALMAIN)
-
-* [FEMME](https://www.printemps.com/fr/fr/marques-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/marques-femme)
-    * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme)
-    * [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
-    * [Prada](https://www.printemps.com/fr/fr/prada-femme)
-    * [Maje](https://www.printemps.com/fr/fr/maje-femme)
-    * [Moncler](https://www.printemps.com/fr/fr/moncler-femme)
-    * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
-    * [Jonak](https://www.printemps.com/fr/fr/jonak-femme)
-    * [Chloé](https://www.printemps.com/fr/fr/chloe-femme)
-    * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
-    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
-    * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
-    * [March Lab](https://www.printemps.com/fr/fr/marchlab-femme)
-
-* [HOMME](https://www.printemps.com/fr/fr/marques-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/marques-homme)
-    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren-homme)
-    * [Prada](https://www.printemps.com/fr/fr/prada-homme)
-    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
-    * [Moncler](https://www.printemps.com/fr/fr/moncler-homme)
-    * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
-    * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme)
-    * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
-    * [Autry](https://www.printemps.com/fr/fr/autry-homme)
-    * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    * [Ami Paris](https://www.printemps.com/fr/fr/univers-amiparis)
-    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
-    * [Seiko](https://www.printemps.com/fr/fr/seiko-homme)
-
-* [BEAUTÉ](https://www.printemps.com/fr/fr/marques-beaute)
-    * [Voir tout](https://www.printemps.com/fr/fr/marques-beaute)
-    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/univers-maison-francis-kurkdjian)
-    * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
-    * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
-    * [Hermès](https://www.printemps.com/fr/fr/univers-hermes)
-    * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
-    * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
-    * [Creed](https://www.printemps.com/fr/fr/creed-beaute)
-    * [Kilian Paris](https://www.printemps.com/fr/fr/kilian-paris-beaute)
-    * [Stéphanie Humbert Lucas](https://www.printemps.com/fr/fr/stephane-humbert-lucas-beaute)
-    * [Nars](https://www.printemps.com/fr/fr/nars-beaute)
-
-* [MAISON](https://www.printemps.com/fr/fr/marques-maison)
-    * [Au Printemps Paris](https://www.printemps.com/fr/fr/auprintempsparis-maison)
-    * [Maison Sarah Lavoine](https://www.printemps.com/fr/fr/maison-sarah-lavoine-maison)
-    * [10 Corso Como](https://www.printemps.com/fr/fr/10corsocomo-maison)
-    * [Alexandre Turpault](https://www.printemps.com/fr/fr/alexandre-turpault-maison)
-    * [Sabre Paris](https://www.printemps.com/fr/fr/sabre-paris-maison)
-* [Toutes les marques](https://www.printemps.com/fr/fr/marques)
+*   [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
     
 
-* NOUVELLES MARQUES
-    * [Topshop](https://www.printemps.com/fr/fr/topshop-femme)
-    * [Our legacy](https://www.printemps.com/fr/fr/ourlegacy)
-    * [Lancel](https://www.printemps.com/fr/fr/lancel-femme)
-    * [Essentiel Antwerp](https://www.printemps.com/fr/fr/essentiel-antwerp-femme)
-    * [Jean Paul Gaultier](https://www.printemps.com/fr/fr/jean-paul-gaultier-femme)
-    * [Victoria Beckham](https://www.printemps.com/fr/fr/victoria-beckham-femme)
-    * [Rabanne](https://www.printemps.com/fr/fr/rabanne-femme)
-    * [Jil Sander Beauté](https://www.printemps.com/fr/fr/jil-sander-beaute)
-    * [Caudalie](https://www.printemps.com/fr/fr/caudalie-beaute)
-    * [Ba&sh](https://www.printemps.com/fr/fr/bash-femme)
-    * [Hamilton](https://www.printemps.com/fr/fr/hamilton)
-    * [Citizen](https://www.printemps.com/fr/fr/citizen)
+*   TOP MARQUES
+    *   [Voir toutes les marques](https://www.printemps.com/fr/fr/marques-femme)
+    *   [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
+    *   [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme)
+    *   [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
+    *   [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
+    *   [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
+    *   [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
+    *   [Prada](https://www.printemps.com/fr/fr/prada-femme)
+    *   [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
+    *   [Guess](https://www.printemps.com/fr/fr/guess-femme)
+    *   
+        
 
-* TOP MARQUES
-    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865)
-    * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus)
-    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren)
-    * [Autry](https://www.printemps.com/fr/fr/autry)
-    * [Birkenstock](https://www.printemps.com/fr/fr/birkenstock)
-    * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
-    * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
-    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger)
-    * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
-    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/univers-maison-francis-kurkdjian)
-    * [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
-    * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein)
-
-* [Les tendances](https://www.printemps.com/fr/fr/tendances-femme)
-
-* [Le magazine](https://www.printemps.com/fr/fr/edito-magazine)
-
-* [Live shopping](https://www.printemps.com/fr/fr/live-shopping)
-
-* [Podcast](https://www.printemps.com/fr/fr/podcasts)
-
-* [NOS MAGASINS](https://www.printemps.com/fr/fr/magasins)
-    * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
-    * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
-    * [Printemps Haussmann](https://www.printemps.com/fr/fr/printemps-paris-haussmann)
-    * [Printemps Deauville](https://www.printemps.com/fr/fr/printemps-deauville)
-    * [Printemps Grand Var](https://www.printemps.com/fr/fr/printemps-toulon)
-    * [Printemps La Valentine](https://www.printemps.com/fr/fr/printemps-marseille-la-valentine)
-    * [Printemps Les Terrasses du Port](https://www.printemps.com/fr/fr/printemps-marseille-terrasses-port)
-    * [Printemps Lille](https://www.printemps.com/fr/fr/printemps-lille)
-    * [Printemps Lyon](https://www.printemps.com/fr/fr/printemps-lyon)
-    * [Printemps Nation](https://www.printemps.com/fr/fr/printemps-paris-nation)
-    * [Printemps Nancy](https://www.printemps.com/fr/fr/printemps-nancy)
-    * [Printemps Parly 2](https://www.printemps.com/fr/fr/printemps-paris-parly-2)
-    * [Printemps Rennes Alma](https://www.printemps.com/fr/fr/printemps-rennes)
-    * [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
-    * [Printemps Vélizy 2](https://www.printemps.com/fr/fr/printemps-paris-velizy-2)
-
-* [ACTUALITÉS MAGASINS](https://www.printemps.com/fr/fr/edito-magasins)
-    * [Le Printemps se met à l'heure New-yorkaise pour Noël](https://www.printemps.com/fr/fr/edito-magasins-noel-a-new-york-printemps)
-    * [Pour Noël plongez dans l'univers de New-York avec Ferrero Rocher®](https://www.printemps.com/fr/fr/edito-magasins-noel-ferrero-rocher-printemps-haussmann)
-    * [Pour Noël, rendez-vous au "Quartier des Jouets"](https://www.printemps.com/fr/fr/edito-magasins-jouets-printemps-haussmann)
-* [LES RESTAURANTS](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
-    
-* [Souvenir shop](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
+*   
     
 
-* [NOS SERVICES](https://www.printemps.com/fr/fr/a-votre-service)
-    * [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
-    * [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
-    * [Shopping à distance](https://www.printemps.com/fr/fr/shopping-a-distance)
-    * [Click & Collect](https://www.printemps.com/fr/fr/livraisons-retours)
-    * [La carte cadeau](https://cartescadeaux.printemps.com/)
-    * [Carte Visa Printemps](https://www.printemps.com/fr/fr/carte-visa-printemps)
-    * [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
-    * [Evènements au Printemps](https://evenements.printemps.com/)
+*   [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
+    *   [Manteaux](https://www.printemps.com/fr/fr/manteaux-homme)
+    *   [Vestes](https://www.printemps.com/fr/fr/vestes-homme)
+    *   [Sweats & hoodies](https://www.printemps.com/fr/fr/sweats-hoodies-homme)
+    *   [Mailles et pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme)
+    *   [T-shirts](https://www.printemps.com/fr/fr/tee-shirts-homme)
+    *   [Polos](https://www.printemps.com/fr/fr/polos-homme)
+    *   [Chemises](https://www.printemps.com/fr/fr/chemises-homme)
+    *   [Pantalons](https://www.printemps.com/fr/fr/pantalons-homme)
+    *   [Jeans](https://www.printemps.com/fr/fr/jeans-homme)
+    *   [Shorts](https://www.printemps.com/fr/fr/shorts-homme)
+    *   [Maillots de bain](https://www.printemps.com/fr/fr/maillots-de-bain-homme)
+    *   [Costumes](https://www.printemps.com/fr/fr/costumes-homme)
+    *   [Sous-vêtements et pyjamas](https://www.printemps.com/fr/fr/sous-vetements-homme)
 
-* [Nos magasins](https://www.printemps.com/fr/fr/edito-magasins)
-    * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
-    * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
-    * [Printemps Haussmann](https://www.printemps.com/fr/fr/printemps-paris-haussmann)
-    * [Printemps Deauville](https://www.printemps.com/fr/fr/printemps-deauville)
-    * [Printemps Grand Var](https://www.printemps.com/fr/fr/printemps-toulon)
-    * [Printemps La Valentine](https://www.printemps.com/fr/fr/printemps-marseille-la-valentine)
-    * [Printemps Les Terrasses du Port](https://www.printemps.com/fr/fr/printemps-marseille-terrasses-port)
-    * [Printemps Lille](https://www.printemps.com/fr/fr/printemps-lille)
-    * [Printemps Nation](https://www.printemps.com/fr/fr/printemps-paris-nation)
-    * [Printemps Nancy](https://www.printemps.com/fr/fr/printemps-nancy)
-    * [Printemps Parly 2](https://www.printemps.com/fr/fr/printemps-paris-parly-2)
-    * [Printemps Rennes Alma](https://www.printemps.com/fr/fr/printemps-rennes)
-    * [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
-    * [Printemps Vélizy 2](https://www.printemps.com/fr/fr/printemps-paris-velizy-2)
+*   [BASKETS](https://www.printemps.com/fr/fr/baskets-homme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/baskets-homme)
+    *   [Baskets de luxe](https://www.printemps.com/fr/fr/baskets-luxe-homme)
+    *   [Sneakers du moment](https://www.printemps.com/fr/fr/sneakers-du-moment-homme)
+*   [CHAUSSURES](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme)
+    *   [Mocassins et Derbies](https://www.printemps.com/fr/fr/chaussures-plates-homme)
+    *   [Bottines](https://www.printemps.com/fr/fr/bottes-bottines-homme)
+    *   [Sandales et Mules](https://www.printemps.com/fr/fr/sandales-et-mules-homme)
+    *   [Tongs Et Claquettes](https://www.printemps.com/fr/fr/tongs-et-claquettes-homme)
 
-* Actualités magasins
-    * [Le Printemps se met à l'heure New-yorkaise pour Noël](https://www.printemps.com/fr/fr/edito-magasins-noel-a-new-york-printemps)
-    * [Pour Noël plongez dans l'univers de New-York avec Ferrero Rocher®](https://www.printemps.com/fr/fr/edito-magasins-noel-ferrero-rocher-printemps-haussmann)
-    * [Pour Noël, rendez-vous au "Quartier des Jouets"](https://www.printemps.com/fr/fr/edito-magasins-jouets-printemps-haussmann)
+*   [ACCESSOIRES](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
+    *   [Bijoux](https://www.printemps.com/fr/fr/bijoux-homme)
+    *   [Bonnets et Casquettes](https://www.printemps.com/fr/fr/chapeaux-homme)
+    *   [Lunettes De Soleil](https://www.printemps.com/fr/fr/lunettes-homme)
+    *   [Ceintures](https://www.printemps.com/fr/fr/ceintures-homme)
+    *   [Cravates et Bretelles](https://www.printemps.com/fr/fr/cravates-homme)
+    *   [Gants](https://www.printemps.com/fr/fr/gants-homme)
+    *   [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-homme)
+    *   [Écharpes](https://www.printemps.com/fr/fr/echarpes-homme)
+*   [MONTRES](https://www.printemps.com/fr/fr/montres-homme)
+    
 
-* [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+*   [SACS](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
+    *   [Sacoches et sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
+    *   [Portefeuilles & porte-cartes](https://www.printemps.com/fr/fr/petite-maroquinerie-homme)
+    *   [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-homme)
+    *   [Pochettes](https://www.printemps.com/fr/fr/pochettes-homme)
+    *   [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-homme)
+    *   [Cabas](https://www.printemps.com/fr/fr/cabas-homme)
+    *   [Bagages](https://www.printemps.com/fr/fr/sacs-voyage-homme)
+    *   [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
+    *   [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
-* [Souvenir shop](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
+*   [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
+    
+*   [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme)
+    
+*   [L'ENDROIT](https://www.printemps.com/fr/fr/l-endroit-homme)
+    
+*   [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme)
+    
+*   [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme)
+    *   [Pièces de défilés](https://www.printemps.com/fr/fr/defile-homme)
+    *   [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison-1865-tout-homme)
+    *   [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
+*   [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
+    
+*   [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
+    
 
-* [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
+*   TOP MARQUES
+    *   [Toutes les marques homme](https://www.printemps.com/fr/fr/marques-homme)
+    *   [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
+    *   [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren-homme)
+    *   [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
+    *   [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
+    *   [AMI Paris](https://www.printemps.com/fr/fr/amiparis-homme)
+    *   [Prada](https://www.printemps.com/fr/fr/prada-homme)
+    *   [Moncler](https://www.printemps.com/fr/fr/moncler-homme)
+    *   [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
+    *   [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
+    *   [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
+    *   
+        
 
-* [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
+*   
+    
 
-* [Shopping à distance](https://www.printemps.com/fr/fr/shopping-a-distance)
+*   [L’ESPACE BEAUTÉ](https://www.printemps.com/fr/fr/espace-beaute)
+    
+*   [CALENDRIERS DE L'AVENT](https://www.printemps.com/fr/fr/calendrier-noel)
+    
+*   [PARFUMS](https://www.printemps.com/fr/fr/parfum)
+    *   [Voir tout](https://www.printemps.com/fr/fr/parfum)
+    *   [Eaux de toilette et parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
+    *   [Eaux de cologne](https://www.printemps.com/fr/fr/eaux-de-cologne)
+    *   [Extrait de parfum](https://www.printemps.com/fr/fr/extrait-de-parfum)
+    *   [Soins parfumés](https://www.printemps.com/fr/fr/soins-parfumes)
+*   [MAQUILLAGE](https://www.printemps.com/fr/fr/maquillage)
+    *   [Voir tout](https://www.printemps.com/fr/fr/maquillage)
+    *   [Teint](https://www.printemps.com/fr/fr/teint)
+    *   [Lèvres](https://www.printemps.com/fr/fr/levres)
+    *   [Ongles](https://www.printemps.com/fr/fr/ongles)
+    *   [Palettes](https://www.printemps.com/fr/fr/palettes)
 
-* [La carte cadeau](https://cartescadeaux.printemps.com/)
+*   [SOINS](https://www.printemps.com/fr/fr/soin)
+    *   [Voir tout](https://www.printemps.com/fr/fr/soins)
+    *   [Soins visage](https://www.printemps.com/fr/fr/soins-visage)
+    *   [Soins du corps](https://www.printemps.com/fr/fr/soins-corps)
+    *   [Soins solaires](https://www.printemps.com/fr/fr/soins-solaires)
+    *   [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
+*   [CHEVEUX](https://www.printemps.com/fr/fr/soins-cheveux)
+    *   [Voir tout](https://www.printemps.com/fr/fr/soins-cheveux)
+    *   [Shampoing & après-shampoing](https://www.printemps.com/fr/fr/shampoing-apres-shampoing)
+    *   [Soins](https://www.printemps.com/fr/fr/masques-et-soins-cheveux)
+    *   [Produits de coiffage](https://www.printemps.com/fr/fr/produits-de-coiffage)
+    *   [Appareils électroniques](https://www.printemps.com/fr/fr/fers-lisser)
 
-* [Carte Visa Printemps](https://www.printemps.com/fr/fr/carte-visa-printemps)
+*   [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
+    
+*   [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-beaute)
+    
+*   [HOMME](https://www.printemps.com/fr/fr/beaute-homme)
+    
+*   [BOUGIES ET PARFUMS D'INTÉRIEUR](https://www.printemps.com/fr/fr/bougie-parfum-d-interieur)
+    
+*   [ACCESSOIRES BEAUTÉ](https://www.printemps.com/fr/fr/accessoires-beaute)
+    
+*   [COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
+    
+*   [Tout l'univers beauté](https://www.printemps.com/fr/fr/toute-selection-beaute)
+    
+*   [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
+    
 
-* [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
+*   INSPIRATIONS
+    *   [Scent Room](https://www.printemps.com/fr/fr/concept-beaute-scent-room)
+    *   [Green market](https://www.printemps.com/fr/fr/concept-beaute-green-market)
+    *   [K-beauty](https://www.printemps.com/fr/fr/concept-beaute-k-beauty)
+    *   [Les meilleurs calendriers de l'Avent 2025](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
+    *   [Smoky eyes : le guide complet pour un regard intense](https://www.printemps.com/fr/fr/edito-magazine-beaute-smoky-eyes)
+*   SÉLECTIONS
+    *   [Meilleures ventes](https://www.printemps.com/fr/fr/meilleures-ventes-beaute)
+    *   [Parfums Bestsellers](https://www.printemps.com/fr/fr/parfums-bestsellers)
+    *   [Parfums d'exception](https://www.printemps.com/fr/fr/parfum-niche)
+    *   [Soins hydratants](https://www.printemps.com/fr/fr/soins-visage-hydratants)
+    *   [Soins anti-imperfections](https://www.printemps.com/fr/fr/sos-imperfections)
+    *   [Soins anti-âge](https://www.printemps.com/fr/fr/soins-visage/sct/Anti-%C3%A2ge+%26+Anti-ride)
 
-* [Evénements au Printemps](https://evenements.printemps.com/)
+*   [TOP MARQUES](https://www.printemps.com/fr/fr/marques-beaute)
+    *   [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/univers-maison-francis-kurkdjian)
+    *   [Victoria Beckham](https://www.printemps.com/fr/fr/victoria-beckham-beaute)
+    *   [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque-beaute)
+    *   [Dyson](https://www.printemps.com/fr/fr/univers-dyson)
+    *   [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
+    *   [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
+    *   [Hermès](https://www.printemps.com/fr/fr/univers-hermes)
+    *   [Parfums de marly](https://www.printemps.com/fr/fr/parfum-parfums-de-marly)
+    *   [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
+    *   [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
+    *   
+        
 
-* [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
+*   
+    
+
+*   [SPÉCIAL BLANC : Jusqu'à -40%](https://www.printemps.com/fr/fr/blanc-dhiver)
+
+*   [LINGE DE MAISON](https://www.printemps.com/fr/fr/linge-de-maison)
+
+*   [ARTS DE LA TABLE](https://www.printemps.com/fr/fr/arts-de-la-table)
+
+*   [DÉCORATION](https://www.printemps.com/fr/fr/decoration)
+
+*   [LITERIE](https://www.printemps.com/fr/fr/literie-maison)
+
+*   [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance)
+    
+*   [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/last-chance-femme)
+    *   [Luxe](https://www.printemps.com/fr/fr/last-chance-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
+    *   [Sacs](https://www.printemps.com/fr/fr/last-chance-femme/esp/Sacs)
+    *   [Sacs à main](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+%C3%A0+main)
+    *   [Sacs bandoulière](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+bandouli%C3%A8re)
+    *   [Vêtements](https://www.printemps.com/fr/fr/last-chance-femme/esp/V%C3%AAtements)
+    *   [Robes](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Robes)
+    *   [Tops & t-shirts](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Tops+et+t-shirts)
+    *   [Chaussures](https://www.printemps.com/fr/fr/last-chance-femme/esp/Chaussures)
+    *   [Baskets](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Baskets)
+    *   [Bijoux](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Bijoux)
+
+*   [HOMME](https://www.printemps.com/fr/fr/last-chance-homme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/last-chance-homme)
+    *   [Vêtements](https://www.printemps.com/fr/fr/last-chance-homme/esp/V%C3%AAtements)
+    *   [Chemises](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Chemises)
+    *   [Tops & t-shirts](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Tops+et+t-shirts)
+    *   [Pantalons](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Pantalons)
+    *   [Shorts](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Shorts)
+    *   [Chaussures](https://www.printemps.com/fr/fr/last-chance-homme/esp/Chaussures)
+    *   [Baskets](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Baskets)
+    *   [Sacs](https://www.printemps.com/fr/fr/last-chance-homme/esp/Sacs)
+    *   [Accessoires](https://www.printemps.com/fr/fr/last-chance-homme/esp/Accessoires)
+    *   [Luxe](https://www.printemps.com/fr/fr/last-chance-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS/BALMAIN)
+
+*   [FEMME](https://www.printemps.com/fr/fr/marques-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/marques-femme)
+    *   [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme)
+    *   [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
+    *   [Prada](https://www.printemps.com/fr/fr/prada-femme)
+    *   [Maje](https://www.printemps.com/fr/fr/maje-femme)
+    *   [Moncler](https://www.printemps.com/fr/fr/moncler-femme)
+    *   [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
+    *   [Jonak](https://www.printemps.com/fr/fr/jonak-femme)
+    *   [Chloé](https://www.printemps.com/fr/fr/chloe-femme)
+    *   [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
+    *   [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
+    *   [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
+    *   [March Lab](https://www.printemps.com/fr/fr/marchlab-femme)
+
+*   [HOMME](https://www.printemps.com/fr/fr/marques-homme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/marques-homme)
+    *   [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren-homme)
+    *   [Prada](https://www.printemps.com/fr/fr/prada-homme)
+    *   [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
+    *   [Moncler](https://www.printemps.com/fr/fr/moncler-homme)
+    *   [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
+    *   [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme)
+    *   [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
+    *   [Autry](https://www.printemps.com/fr/fr/autry-homme)
+    *   [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
+    *   [Ami Paris](https://www.printemps.com/fr/fr/univers-amiparis)
+    *   [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
+    *   [Seiko](https://www.printemps.com/fr/fr/seiko-homme)
+
+*   [BEAUTÉ](https://www.printemps.com/fr/fr/marques-beaute)
+    *   [Voir tout](https://www.printemps.com/fr/fr/marques-beaute)
+    *   [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/univers-maison-francis-kurkdjian)
+    *   [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
+    *   [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
+    *   [Hermès](https://www.printemps.com/fr/fr/univers-hermes)
+    *   [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
+    *   [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
+    *   [Creed](https://www.printemps.com/fr/fr/creed-beaute)
+    *   [Kilian Paris](https://www.printemps.com/fr/fr/kilian-paris-beaute)
+    *   [Stéphanie Humbert Lucas](https://www.printemps.com/fr/fr/stephane-humbert-lucas-beaute)
+    *   [Nars](https://www.printemps.com/fr/fr/nars-beaute)
+
+*   [MAISON](https://www.printemps.com/fr/fr/marques-maison)
+    *   [Au Printemps Paris](https://www.printemps.com/fr/fr/auprintempsparis-maison)
+    *   [Maison Sarah Lavoine](https://www.printemps.com/fr/fr/maison-sarah-lavoine-maison)
+    *   [10 Corso Como](https://www.printemps.com/fr/fr/10corsocomo-maison)
+    *   [Alexandre Turpault](https://www.printemps.com/fr/fr/alexandre-turpault-maison)
+    *   [Sabre Paris](https://www.printemps.com/fr/fr/sabre-paris-maison)
+*   [Toutes les marques](https://www.printemps.com/fr/fr/marques)
+    
+
+*   NOUVELLES MARQUES
+    *   [Topshop](https://www.printemps.com/fr/fr/topshop-femme)
+    *   [Our legacy](https://www.printemps.com/fr/fr/ourlegacy)
+    *   [Lancel](https://www.printemps.com/fr/fr/lancel-femme)
+    *   [Essentiel Antwerp](https://www.printemps.com/fr/fr/essentiel-antwerp-femme)
+    *   [Jean Paul Gaultier](https://www.printemps.com/fr/fr/jean-paul-gaultier-femme)
+    *   [Victoria Beckham](https://www.printemps.com/fr/fr/victoria-beckham-femme)
+    *   [Rabanne](https://www.printemps.com/fr/fr/rabanne-femme)
+    *   [Jil Sander Beauté](https://www.printemps.com/fr/fr/jil-sander-beaute)
+    *   [Caudalie](https://www.printemps.com/fr/fr/caudalie-beaute)
+    *   [Ba&sh](https://www.printemps.com/fr/fr/bash-femme)
+    *   [Hamilton](https://www.printemps.com/fr/fr/hamilton)
+    *   [Citizen](https://www.printemps.com/fr/fr/citizen)
+
+*   TOP MARQUES
+    *   [Saison 1865](https://www.printemps.com/fr/fr/saison1865)
+    *   [Jacquemus](https://www.printemps.com/fr/fr/jacquemus)
+    *   [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren)
+    *   [Autry](https://www.printemps.com/fr/fr/autry)
+    *   [Birkenstock](https://www.printemps.com/fr/fr/birkenstock)
+    *   [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
+    *   [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
+    *   [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger)
+    *   [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
+    *   [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/univers-maison-francis-kurkdjian)
+    *   [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
+    *   [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein)
+
+*   [Les tendances](https://www.printemps.com/fr/fr/tendances-femme)
+
+*   [Le magazine](https://www.printemps.com/fr/fr/edito-magazine)
+
+*   [Live shopping](https://www.printemps.com/fr/fr/live-shopping)
+
+*   [Podcast](https://www.printemps.com/fr/fr/podcasts)
+
+*   [NOS MAGASINS](https://www.printemps.com/fr/fr/magasins)
+    *   [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
+    *   [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
+    *   [Printemps Haussmann](https://www.printemps.com/fr/fr/printemps-paris-haussmann)
+    *   [Printemps Deauville](https://www.printemps.com/fr/fr/printemps-deauville)
+    *   [Printemps Grand Var](https://www.printemps.com/fr/fr/printemps-toulon)
+    *   [Printemps La Valentine](https://www.printemps.com/fr/fr/printemps-marseille-la-valentine)
+    *   [Printemps Les Terrasses du Port](https://www.printemps.com/fr/fr/printemps-marseille-terrasses-port)
+    *   [Printemps Lille](https://www.printemps.com/fr/fr/printemps-lille)
+    *   [Printemps Lyon](https://www.printemps.com/fr/fr/printemps-lyon)
+    *   [Printemps Nation](https://www.printemps.com/fr/fr/printemps-paris-nation)
+    *   [Printemps Nancy](https://www.printemps.com/fr/fr/printemps-nancy)
+    *   [Printemps Parly 2](https://www.printemps.com/fr/fr/printemps-paris-parly-2)
+    *   [Printemps Rennes Alma](https://www.printemps.com/fr/fr/printemps-rennes)
+    *   [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
+    *   [Printemps Vélizy 2](https://www.printemps.com/fr/fr/printemps-paris-velizy-2)
+
+*   [ACTUALITÉS MAGASINS](https://www.printemps.com/fr/fr/edito-magasins)
+    *   [Le Printemps se met à l'heure New-yorkaise pour Noël](https://www.printemps.com/fr/fr/edito-magasins-noel-a-new-york-printemps)
+    *   [Pour Noël plongez dans l'univers de New-York avec Ferrero Rocher®](https://www.printemps.com/fr/fr/edito-magasins-noel-ferrero-rocher-printemps-haussmann)
+    *   [Pour Noël, rendez-vous au "Quartier des Jouets"](https://www.printemps.com/fr/fr/edito-magasins-jouets-printemps-haussmann)
+*   [LES RESTAURANTS](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+    
+*   [Souvenir shop](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
+    
+
+*   [NOS SERVICES](https://www.printemps.com/fr/fr/a-votre-service)
+    *   [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
+    *   [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
+    *   [Shopping à distance](https://www.printemps.com/fr/fr/shopping-a-distance)
+    *   [Click & Collect](https://www.printemps.com/fr/fr/livraisons-retours)
+    *   [La carte cadeau](https://cartescadeaux.printemps.com/)
+    *   [Carte Visa Printemps](https://www.printemps.com/fr/fr/carte-visa-printemps)
+    *   [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
+    *   [Evènements au Printemps](https://evenements.printemps.com/)
+
+*   [Nos magasins](https://www.printemps.com/fr/fr/edito-magasins)
+    *   [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
+    *   [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
+    *   [Printemps Haussmann](https://www.printemps.com/fr/fr/printemps-paris-haussmann)
+    *   [Printemps Deauville](https://www.printemps.com/fr/fr/printemps-deauville)
+    *   [Printemps Grand Var](https://www.printemps.com/fr/fr/printemps-toulon)
+    *   [Printemps La Valentine](https://www.printemps.com/fr/fr/printemps-marseille-la-valentine)
+    *   [Printemps Les Terrasses du Port](https://www.printemps.com/fr/fr/printemps-marseille-terrasses-port)
+    *   [Printemps Lille](https://www.printemps.com/fr/fr/printemps-lille)
+    *   [Printemps Nation](https://www.printemps.com/fr/fr/printemps-paris-nation)
+    *   [Printemps Nancy](https://www.printemps.com/fr/fr/printemps-nancy)
+    *   [Printemps Parly 2](https://www.printemps.com/fr/fr/printemps-paris-parly-2)
+    *   [Printemps Rennes Alma](https://www.printemps.com/fr/fr/printemps-rennes)
+    *   [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
+    *   [Printemps Vélizy 2](https://www.printemps.com/fr/fr/printemps-paris-velizy-2)
+
+*   Actualités magasins
+    *   [Le Printemps se met à l'heure New-yorkaise pour Noël](https://www.printemps.com/fr/fr/edito-magasins-noel-a-new-york-printemps)
+    *   [Pour Noël plongez dans l'univers de New-York avec Ferrero Rocher®](https://www.printemps.com/fr/fr/edito-magasins-noel-ferrero-rocher-printemps-haussmann)
+    *   [Pour Noël, rendez-vous au "Quartier des Jouets"](https://www.printemps.com/fr/fr/edito-magasins-jouets-printemps-haussmann)
+
+*   [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+
+*   [Souvenir shop](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
+
+*   [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
+
+*   [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
+
+*   [Shopping à distance](https://www.printemps.com/fr/fr/shopping-a-distance)
+
+*   [La carte cadeau](https://cartescadeaux.printemps.com/)
+
+*   [Carte Visa Printemps](https://www.printemps.com/fr/fr/carte-visa-printemps)
+
+*   [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
+
+*   [Evénements au Printemps](https://evenements.printemps.com/)
+
+*   [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
 
 Mise à jour du 26/04/2023
 
@@ -598,37 +605,37 @@ En créant son compte, le Client accepte notre Politique de Protection des Donn�
 
 **Comment créer un compte ?**
 
-1. Rendez-vous sur [www.printemps.com](https://www.printemps.com/fr/fr/www.printemps.com)
-2. Cliquez sur l'onglet « se connecter » en haut à droite de votre écran puis sur « Créer un Compte »
-3. Renseignez votre adresse mail et cliquez sur « Valider »
-4. Un email de confirmation va vous être envoyé. Pour confirmer vos informations et poursuivre votre inscription cliquez sur le lien dans le corps du mail.
-5. Renseignez l'ensemble des champs obligatoires, indiqués par un astérisque.
-6. Cliquez sur « Créer mon Compte ».
+1.  Rendez-vous sur [www.printemps.com](https://www.printemps.com/fr/fr/www.printemps.com)
+2.  Cliquez sur l'onglet « se connecter » en haut à droite de votre écran puis sur « Créer un Compte »
+3.  Renseignez votre adresse mail et cliquez sur « Valider »
+4.  Un email de confirmation va vous être envoyé. Pour confirmer vos informations et poursuivre votre inscription cliquez sur le lien dans le corps du mail.
+5.  Renseignez l'ensemble des champs obligatoires, indiqués par un astérisque.
+6.  Cliquez sur « Créer mon Compte ».
 
   
 
 **Comment me connecter à mon compte ?**
 
-1. Rendez-vous sur www.printemps.com
-2. Cliquez sur l'onglet « se connecter » en haut à droite de votre écran
-3. Remplissez votre adresse email et votre mot de passe
-4. Cliquez sur « Continuer »
+1.  Rendez-vous sur www.printemps.com
+2.  Cliquez sur l'onglet « se connecter » en haut à droite de votre écran
+3.  Remplissez votre adresse email et votre mot de passe
+4.  Cliquez sur « Continuer »
 
   
 
 **Vous avez oublié votre mot de passe :**
 
-1. Cliquez sur « mot de passe oublié ? » dans la partie « Me connecter »
-2. Indiquez votre e-mail, validez et vous recevrez un lien de réinitialisation de votre mot de passe dans votre boîte e-mail dans les minutes qui suivent.
+1.  Cliquez sur « mot de passe oublié ? » dans la partie « Me connecter »
+2.  Indiquez votre e-mail, validez et vous recevrez un lien de réinitialisation de votre mot de passe dans votre boîte e-mail dans les minutes qui suivent.
 
   
 
 **Comment modifier mon mot de passe ?**
 
-1. Identifiez-vous à votre compte
-2. Une fois identifié, cliquez dans votre compte sur « Mes informations personnelles »
-3. Cliquez sur « modifier mon mot de passe ».
-4. Renseignez votre ancien mot de passe puis le nouveau mot de passe, confirmez-le à nouveau et validez. Le Client est informé que son identifiant et son mot de passe sont personnels et confidentiels et à ce titre, il s'engage à conserver son mot de passe secret et à ne pas le divulguer à un tiers, à quelque titre que ce soit.
+1.  Identifiez-vous à votre compte
+2.  Une fois identifié, cliquez dans votre compte sur « Mes informations personnelles »
+3.  Cliquez sur « modifier mon mot de passe ».
+4.  Renseignez votre ancien mot de passe puis le nouveau mot de passe, confirmez-le à nouveau et validez. Le Client est informé que son identifiant et son mot de passe sont personnels et confidentiels et à ce titre, il s'engage à conserver son mot de passe secret et à ne pas le divulguer à un tiers, à quelque titre que ce soit.
 
 Article 2 - commande
 --------------------
@@ -762,10 +769,10 @@ Sauf en cas de force majeure et à l'exclusion de certaines périodes de fortes 
 
   
 
-1. Les commandes seront préparées et expédiées dans les termes et conditions de l'article 3.1 ci-dessus ;
-2. Les délais d'expédition et de livraison sont indiqués à l'article 3.4 ci-dessous en fonction du mode de livraison sélectionné, dans la limite des stocks disponibles des articles commandés. Ces délais courent :
-3. Pour le délai d'expédition : à compter de la date du mail de confirmation de commande ;
-4. Pour le délai de livraison : à compter de la date du mail d'expédition envoyé par la Société au Client
+1.  Les commandes seront préparées et expédiées dans les termes et conditions de l'article 3.1 ci-dessus ;
+2.  Les délais d'expédition et de livraison sont indiqués à l'article 3.4 ci-dessous en fonction du mode de livraison sélectionné, dans la limite des stocks disponibles des articles commandés. Ces délais courent :
+3.  Pour le délai d'expédition : à compter de la date du mail de confirmation de commande ;
+4.  Pour le délai de livraison : à compter de la date du mail d'expédition envoyé par la Société au Client
 
   
 
@@ -939,9 +946,9 @@ Le délai de livraison est en moyenne de 2 à 3 jours.
 
 Le prix varie selon le pays de destination : 
 
-1. 5,90€ en Belgique, Italie, Luxembourg, Pays-Bas, Portugal
-2. 7,90€ en Espagne
-3. 10€ en Autriche et Irlande
+1.  5,90€ en Belgique, Italie, Luxembourg, Pays-Bas, Portugal
+2.  7,90€ en Espagne
+3.  10€ en Autriche et Irlande
 
   
 
@@ -1006,12 +1013,12 @@ Le Client peut effectuer le paiement de sa commande à l'aide des moyens suivant
 
   
 
-* Par cartes bancaires suivantes : Visa, Mastercard, American Express et Visa Printemps.
+*   Par cartes bancaires suivantes : Visa, Mastercard, American Express et Visa Printemps.
 
 Les transactions effectuées sur le Site sont confiées à deux plateformes de paiement en lignes sécurisées :
 
-* INGENICO EPAYMENTS, immatriculée au RCS de Paris sous le numéro B 435 236 898 dont le siège social est situé 28/32 boulevard de Grenelle, 75015 Paris - France, Tél. : + 33 (0) 1 70 70 09 03 et courriel : [support.ecom@ingenico.com](mailto:support.ecom@ingenico.com)
-* ADYEN, une Société enregistrée aux Pays-Bas sous le numéro 34259528 dont le siège social est situé Simon Carmiggeltstraat 6-50, 1011 DJ, Amsterdam, Pays-Bas, Courriel : support@adyen.com
+*   INGENICO EPAYMENTS, immatriculée au RCS de Paris sous le numéro B 435 236 898 dont le siège social est situé 28/32 boulevard de Grenelle, 75015 Paris - France, Tél. : + 33 (0) 1 70 70 09 03 et courriel : [support.ecom@ingenico.com](mailto:support.ecom@ingenico.com)
+*   ADYEN, une Société enregistrée aux Pays-Bas sous le numéro 34259528 dont le siège social est situé Simon Carmiggeltstraat 6-50, 1011 DJ, Amsterdam, Pays-Bas, Courriel : support@adyen.com
 
 Les données de paiement de la carte bancaire du Client (à savoir : numéro de carte, date d'expiration et cryptogramme visuel figurant au verso de la carte) seront cryptées par le prestataire, lequel transmet ces données de paiement vers la banque, en toute confidentialité et les rend inaccessibles à un tiers.
 
@@ -1021,27 +1028,27 @@ A chaque utilisation de l'une des cartes pré-enregistrées, le Client devra sai
 
   
 
-* Par APPLE PAY pour les appareils éligibles
+*   Par APPLE PAY pour les appareils éligibles
 
   
 
-* Par KLARNA PAY OVER TIME - paiement en trois fois pour les transactions dont le montant de la transaction est situé entre 35€ et 1500€ pour les pays de livraison suivants : Autriche, Espagne, France, Irlande, Italie, Pays-Bas et Portugal 
+*   Par KLARNA PAY OVER TIME - paiement en trois fois pour les transactions dont le montant de la transaction est situé entre 35€ et 1500€ pour les pays de livraison suivants : Autriche, Espagne, France, Irlande, Italie, Pays-Bas et Portugal 
 
   
 
-* Par KLARNA PAY OVER TIME - paiement en trois fois pour les transactions dont le montant de la transaction est situé entre GBP 35 et GBP 1500 pour le Royaume-Uni
+*   Par KLARNA PAY OVER TIME - paiement en trois fois pour les transactions dont le montant de la transaction est situé entre GBP 35 et GBP 1500 pour le Royaume-Uni
 
   
 
-* Par compte PayPal, lequel sera automatiquement soumis aux conditions d'utilisation de Service Paypal ainsi qu'au règlement sur le respect de la vie privée de Paypal.
+*   Par compte PayPal, lequel sera automatiquement soumis aux conditions d'utilisation de Service Paypal ainsi qu'au règlement sur le respect de la vie privée de Paypal.
 
   
 
-* Par bon d'achat valable 6 mois sur le Site dont les conditions figurant dans l'article 5, le règlement pouvant être réalisé en totalité ou en partie par l'un de ces modes de paiement.
+*   Par bon d'achat valable 6 mois sur le Site dont les conditions figurant dans l'article 5, le règlement pouvant être réalisé en totalité ou en partie par l'un de ces modes de paiement.
 
   
 
-* Paiement par carte cadeaux Printemps dans les conditions précisées dans les CGU de la carte cadeaux Printemps disponibles ici
+*   Paiement par carte cadeaux Printemps dans les conditions précisées dans les CGU de la carte cadeaux Printemps disponibles ici
 
   
 
@@ -1213,26 +1220,26 @@ Sous ce délai, depuis la France, les retours sont gratuits (sous conditions du 
 
 Pour les autres pays, un montant sera déduit du remboursement suivant le mode de retour choisi.
 
-1. Retour via Colissimo :
-2. 15,00€ (quinze euros) seront déduits du remboursement pour les retours en provenance de : Allemagne, Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas, Portugal
+1.  Retour via Colissimo :
+2.  15,00€ (quinze euros) seront déduits du remboursement pour les retours en provenance de : Allemagne, Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas, Portugal
 
-1. 10 GBP (dix livres sterlings) seront déduits du remboursement pour les retours en provenance du Royaume-Uni
+1.  10 GBP (dix livres sterlings) seront déduits du remboursement pour les retours en provenance du Royaume-Uni
 
   
 
-1. Retour via point relais Chronopost :
-2. 15,00€ (quinze euros) seront déduits du remboursement pour les retours en provenance de : Autriche, Espagne, Irlande,
-3. 10,00€ (dix euros) seront déduits du remboursement pour les retours en provenance de : Belgique, Espagne, Luxembourg, Pays-Bas, Portugal
+1.  Retour via point relais Chronopost :
+2.  15,00€ (quinze euros) seront déduits du remboursement pour les retours en provenance de : Autriche, Espagne, Irlande,
+3.  10,00€ (dix euros) seront déduits du remboursement pour les retours en provenance de : Belgique, Espagne, Luxembourg, Pays-Bas, Portugal
 
 Afin de réaliser le retour, le Client doit suivre les étapes suivantes :
 
   
 
-1. Se connecter à son compte client et accéder à la rubrique "Mes Achats et Retours" puis "Effectuer un retour/échange". Si la commande a été passée en mode Invité, le Client trouvera un lien lui permettant d'accéder au retour dans l’email de confirmation de sa commande.
-2. Effectuer la procédure de retour/échange et imprimer le bon de retour ainsi que l'étiquette de retour.
-3. Emballer soigneusement l’article pour qu'il soit bien protégé pendant le transport. Si l'état de l’emballage utilisé lors de la livraison ne permet pas au Client de le réutiliser pour son retour, il doit utiliser un autre emballage approprié.
-4. Insérer le bon de retour dans le colis, et coller l'étiquette de retour sur l’emballage.
-5. Déposer le colis dans un bureau de poste, relais Chrono 2Shop ou dans un magasin Printemps acceptant les retours.
+1.  Se connecter à son compte client et accéder à la rubrique "Mes Achats et Retours" puis "Effectuer un retour/échange". Si la commande a été passée en mode Invité, le Client trouvera un lien lui permettant d'accéder au retour dans l’email de confirmation de sa commande.
+2.  Effectuer la procédure de retour/échange et imprimer le bon de retour ainsi que l'étiquette de retour.
+3.  Emballer soigneusement l’article pour qu'il soit bien protégé pendant le transport. Si l'état de l’emballage utilisé lors de la livraison ne permet pas au Client de le réutiliser pour son retour, il doit utiliser un autre emballage approprié.
+4.  Insérer le bon de retour dans le colis, et coller l'étiquette de retour sur l’emballage.
+5.  Déposer le colis dans un bureau de poste, relais Chrono 2Shop ou dans un magasin Printemps acceptant les retours.
 
   
 
@@ -1306,8 +1313,8 @@ S'agissant des frais de livraison initiaux :
 
   
 
-1. Si l'ensemble des Produits de la commande sont retournés au titre du droit de rétractation, la Société rembourse également les frais de livraison standard liés à l'envoi de la commande (à l'exception des frais supplémentaires si le Client a choisi un mode de livraison autre que le mode de livraison standard proposé par la Société, et dont le détail figure à l'article 3.3 ci-dessus ainsi que sous le lien Click and Collect, Livraisons et Retours).
-2. En cas de renvoi d'une partie seulement de la commande, le remboursement des frais forfaitaires initiaux d'envoi n'est pas dû.
+1.  Si l'ensemble des Produits de la commande sont retournés au titre du droit de rétractation, la Société rembourse également les frais de livraison standard liés à l'envoi de la commande (à l'exception des frais supplémentaires si le Client a choisi un mode de livraison autre que le mode de livraison standard proposé par la Société, et dont le détail figure à l'article 3.3 ci-dessus ainsi que sous le lien Click and Collect, Livraisons et Retours).
+2.  En cas de renvoi d'une partie seulement de la commande, le remboursement des frais forfaitaires initiaux d'envoi n'est pas dû.
 
   
 
@@ -1564,7 +1571,7 @@ Article 11 - Service client
 
 En cas de difficulté survenant à l'occasion de la commande ou de la livraison des Produits, afin de solliciter un règlement à l'amiable, le Client peut contacter le service client :
 
-* via le formulaire accessible en ligne à l'adresse suivante [**https://support.printemps.com/hc/fr-fr/requests/new**](https://support.printemps.com/hc/fr-fr/requests/new)
+*   via le formulaire accessible en ligne à l'adresse suivante [**https://support.printemps.com/hc/fr-fr/requests/new**](https://support.printemps.com/hc/fr-fr/requests/new)
 
   
 
@@ -1624,23 +1631,23 @@ Les Produits proposés sur le Site internet peuvent être triés selon plusieurs
 
   
 
-* Recommandés : les Produits sont alors classés en fonction de la navigation et de l'historique d'achat du Client dans le cas où celui-ci a accepté la politique de cookies ou à défaut, les produits sont classés par cumul des critères suivants : stock disponibles, date de mise en ligne et quantités vendues. 
+*   Recommandés : les Produits sont alors classés en fonction de la navigation et de l'historique d'achat du Client dans le cas où celui-ci a accepté la politique de cookies ou à défaut, les produits sont classés par cumul des critères suivants : stock disponibles, date de mise en ligne et quantités vendues. 
 
   
 
-* Nouveautés : les nouveaux Produits sont alors mis en avant en premier. 
+*   Nouveautés : les nouveaux Produits sont alors mis en avant en premier. 
 
   
 
-* Prix croissant : les Produits sont classés du prix le plus bas au prix le plus élevé ;
+*   Prix croissant : les Produits sont classés du prix le plus bas au prix le plus élevé ;
 
   
 
-* Prix décroissant : les Produits sont classés du prix le plus élevé au prix le plus bas
+*   Prix décroissant : les Produits sont classés du prix le plus élevé au prix le plus bas
 
   
 
-* Remises : les plus gros pourcentages de remise apparaissent en premier.
+*   Remises : les plus gros pourcentages de remise apparaissent en premier.
 
   
 
