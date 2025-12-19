@@ -29,38 +29,38 @@ Il s’agit d’informations d’identification comme les noms, les adresses él
 
 **Comment nous collectons ces informations** **:** 
 
-* Directement auprès de vous lorsque vous créez un compte, que vous adhérez à un programme (de fidélité) (le cas échéant), que vous vous inscrivez à une liste de diffusion d’e-mails, que vous vous inscrivez ou participez à un événement, ou que vous commandez des produits 
+*   Directement auprès de vous lorsque vous créez un compte, que vous adhérez à un programme (de fidélité) (le cas échéant), que vous vous inscrivez à une liste de diffusion d’e-mails, que vous vous inscrivez ou participez à un événement, ou que vous commandez des produits 
     
 
-* Lorsque vous postulez pour un emploi (voir notre [Avis de confidentialité à l’attention des candidats](https://www.levistrauss.com/candidate-privacy-notice) pour plus d’informations). 
+*   Lorsque vous postulez pour un emploi (voir notre [Avis de confidentialité à l’attention des candidats](https://www.levistrauss.com/candidate-privacy-notice) pour plus d’informations). 
     
 
-* Auprès de tiers, y compris nos franchisés ou d’autres entités qui gèrent des Plateformes ou des sites physiques pour notre compte, ou de fournisseurs de produits ou de listes marketing (lorsque les lois applicables l’autorisent) 
+*   Auprès de tiers, y compris nos franchisés ou d’autres entités qui gèrent des Plateformes ou des sites physiques pour notre compte, ou de fournisseurs de produits ou de listes marketing (lorsque les lois applicables l’autorisent) 
     
 
-* À partir de technologies (comme lorsque vous utilisez l’intelligence artificielle (« **AI** ») que nous pouvons utiliser pour prendre en charge des fonctions telles que les chats) 
+*   À partir de technologies (comme lorsque vous utilisez l’intelligence artificielle (« **AI** ») que nous pouvons utiliser pour prendre en charge des fonctions telles que les chats) 
     
 
 **Pourquoi nous les collectons** **:** 
 
-* Pour vous contacter, par exemple pour vous envoyer des communications de marketing et publicitaires (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications) 
+*   Pour vous contacter, par exemple pour vous envoyer des communications de marketing et publicitaires (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications) 
     
 
-* Pour administrer des loteries, des enquêtes ou des concours 
+*   Pour administrer des loteries, des enquêtes ou des concours 
     
 
-* Veuillez vous reporter à la partie **«** **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
+*   Veuillez vous reporter à la partie **«** **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
     
 
 **Nous les partageons avec :** 
 
-* Des plateformes de médias sociaux de tiers (y compris pour la publicité par le biais de plateformes telles que Meta ou Amazon en utilisant des pixels ou des audiences personnalisées) (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications) 
+*   Des plateformes de médias sociaux de tiers (y compris pour la publicité par le biais de plateformes telles que Meta ou Amazon en utilisant des pixels ou des audiences personnalisées) (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications) 
     
 
-* Des prestataires de services marketing et publicitaires 
+*   Des prestataires de services marketing et publicitaires 
     
 
-* Veuillez vous reporter à la partie **«** **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
+*   Veuillez vous reporter à la partie **«** **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
 
 INFORMATIONS FINANCIÈRES
 
@@ -68,23 +68,23 @@ Il s’agit d’informations telles que les quatre derniers chiffres de votre nu
    
 **Comment nous collectons ces informations** **:** 
 
-* Directement auprès de vous lorsque vous effectuez un achat 
+*   Directement auprès de vous lorsque vous effectuez un achat 
     
 
-* Auprès de tiers, si nécessaire, afin de contribuer au traitement sécurisé de la transaction que vous demandez 
+*   Auprès de tiers, si nécessaire, afin de contribuer au traitement sécurisé de la transaction que vous demandez 
     
 
 **Pourquoi nous les collectons** **:** 
 
-* Veuillez vous reporter à la partie **«** **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
+*   Veuillez vous reporter à la partie **«** **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
     
 
 **Nous les partageons avec :** 
 
-* Des organismes de traitement des paiements et marchands enregistrés 
+*   Des organismes de traitement des paiements et marchands enregistrés 
     
 
-* Veuillez vous reporter à la partie **«** **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
+*   Veuillez vous reporter à la partie **«** **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
 
 AUTRES INFORMATIONS D’IDENTIFICATION
 
@@ -93,35 +93,35 @@ Il s’agit d’informations qui pourraient raisonnablement être utilisées pou
 
 **Comment nous collectons ces informations** **:** 
 
-* Directement auprès de vous lorsque vous créez un compte en ligne ou que vous adhérez à notre programme de fidélité (le cas échéant), lorsque vous utilisez une application mobile proposée ou lorsque vous effectuez des achats en magasin 
+*   Directement auprès de vous lorsque vous créez un compte en ligne ou que vous adhérez à notre programme de fidélité (le cas échéant), lorsque vous utilisez une application mobile proposée ou lorsque vous effectuez des achats en magasin 
     
 
-* À partir de vos références et d’autres sources concernant les candidats à un emploi (voir notre [Avis de confidentialité](https://www.levistrauss.com/candidate-privacy-notice)). 
+*   À partir de vos références et d’autres sources concernant les candidats à un emploi (voir notre [Avis de confidentialité](https://www.levistrauss.com/candidate-privacy-notice)). 
     
 
-* Comme décrit dans un avis ou un consentement séparé, tel qu’une notification contextuelle (pop-up) pour une fonction spéciale de notre application mobile ou des conditions d’inscription pour un événement spécial 
+*   Comme décrit dans un avis ou un consentement séparé, tel qu’une notification contextuelle (pop-up) pour une fonction spéciale de notre application mobile ou des conditions d’inscription pour un événement spécial 
     
 
-* Auprès de tiers, y compris des plateformes de médias sociaux, des partenaires commerciaux et des prestataires de services publicitaires 
+*   Auprès de tiers, y compris des plateformes de médias sociaux, des partenaires commerciaux et des prestataires de services publicitaires 
     
 
 **Pourquoi nous les collectons** **:** 
 
-* Pour proposer et gérer des offres spéciales et des concours, y compris des loteries publicitaires 
+*   Pour proposer et gérer des offres spéciales et des concours, y compris des loteries publicitaires 
     
 
-* Pour vous adresser des communications ainsi que d’autres actions marketing et publicitaires (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications) 
+*   Pour vous adresser des communications ainsi que d’autres actions marketing et publicitaires (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications) 
     
 
-* Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
+*   Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
     
 
 **Nous les partageons avec :** 
 
-* Les prestataires de services marketing et publicitaires  
+*   Les prestataires de services marketing et publicitaires  
     
 
-* Les prestataires de services à la clientèle 
+*   Les prestataires de services à la clientèle 
     
 
 Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
@@ -133,38 +133,38 @@ Ces informations comprennent celles que vous partagez sur nos Plateformes ou ave
 
 **Comment nous collectons ces informations** **:** 
 
-* Directement auprès de vous 
+*   Directement auprès de vous 
     
 
-* Auprès de tiers, y compris des plateformes de médias sociaux, des partenaires commerciaux et des prestataires de services publicitaires 
+*   Auprès de tiers, y compris des plateformes de médias sociaux, des partenaires commerciaux et des prestataires de services publicitaires 
     
 
-* À partir de technologies 
+*   À partir de technologies 
     
 
 **Pourquoi nous les collectons** **:** 
 
-* Pour administrer, promouvoir et améliorer notre présence et les expériences en ligne et en magasin 
+*   Pour administrer, promouvoir et améliorer notre présence et les expériences en ligne et en magasin 
     
 
-* Pour nous aider à comprendre vos intérêts, à personnaliser nos interactions avec vous et à développer notre relation commerciale 
+*   Pour nous aider à comprendre vos intérêts, à personnaliser nos interactions avec vous et à développer notre relation commerciale 
     
 
-* Pour proposer et gérer des offres spéciales et des concours, y compris des loteries publicitaires 
+*   Pour proposer et gérer des offres spéciales et des concours, y compris des loteries publicitaires 
     
 
-* Pour vous adresser des communications ainsi que d’autres actions marketing et publicitaires (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications) 
+*   Pour vous adresser des communications ainsi que d’autres actions marketing et publicitaires (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications) 
     
 
-* Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
+*   Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
     
 
 **Nous les partageons avec :** 
 
-* Les prestataires de services marketing et publicitaires 
+*   Les prestataires de services marketing et publicitaires 
     
 
-* Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
+*   Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
 
 INFORMATIONS AUDIO, VISUELLES ET BIOMÉTRIQUES
 
@@ -172,23 +172,23 @@ Il s’agit de données telles que des enregistrements audio, des films ou des i
    
 **Comment nous collectons ces informations** **:** 
 
-* Directement auprès de vous si vous passez un appel téléphonique enregistré à notre numéro de Service client ou si vous publiez publiquement des images ou des fichiers audio/vidéo portant votre nom et nous identifiant ou nos marques ou utilisant des étiquettes spécifiées par nous (par exemple « _liveinlevis_ »). 
+*   Directement auprès de vous si vous passez un appel téléphonique enregistré à notre numéro de Service client ou si vous publiez publiquement des images ou des fichiers audio/vidéo portant votre nom et nous identifiant ou nos marques ou utilisant des étiquettes spécifiées par nous (par exemple « _liveinlevis_ »). 
     
 
-* Via les caméras de vidéosurveillance dans nos locaux 
+*   Via les caméras de vidéosurveillance dans nos locaux 
     
 
-* Comme décrit dans un avis ou un consentement distinct accompagnant une fonctionnalité, un test, un service ou un événement spéciaux 
+*   Comme décrit dans un avis ou un consentement distinct accompagnant une fonctionnalité, un test, un service ou un événement spéciaux 
     
 
 **Pourquoi nous les collectons** **:** 
 
-* Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
+*   Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
     
 
 **Nous les partageons avec :** 
 
-* Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
+*   Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
 
 INFORMATIONS EN LIGNE TECHNIQUES
 
@@ -196,38 +196,38 @@ Il s’agit des données de navigation (telles que les informations relatives à
    
 **Comment nous collectons ces informations** **:** 
 
-* À partir de votre ordinateur ou de votre appareil lorsque vous interagissez avec nos Plateformes (par exemple, lorsque vous visitez un site Web Levi’s®, nos journaux de serveur enregistrent votre adresse IP et collectent des informations sur la manière dont vous naviguez sur le site) 
+*   À partir de votre ordinateur ou de votre appareil lorsque vous interagissez avec nos Plateformes (par exemple, lorsque vous visitez un site Web Levi’s®, nos journaux de serveur enregistrent votre adresse IP et collectent des informations sur la manière dont vous naviguez sur le site) 
     
 
-* Par le biais de cookies, de balises Web, de pixels, de pixels invisibles, de relecture de session et de technologies de suivi similaires (si vous avez choisi de les utiliser et que la législation applicable l’exige, à moins que la collecte ne se fasse par le biais de cookies strictement nécessaires) 
+*   Par le biais de cookies, de balises Web, de pixels, de pixels invisibles, de relecture de session et de technologies de suivi similaires (si vous avez choisi de les utiliser et que la législation applicable l’exige, à moins que la collecte ne se fasse par le biais de cookies strictement nécessaires) 
     
 
-* À partir des actions que vous entreprenez en réponse à des e-mails marketing, notamment si vous ouvrez un e-mail, si vous vous désabonnez ou si vous achetez un produit dont la promotion est faite dans celui-ci 
+*   À partir des actions que vous entreprenez en réponse à des e-mails marketing, notamment si vous ouvrez un e-mail, si vous vous désabonnez ou si vous achetez un produit dont la promotion est faite dans celui-ci 
     
 
-* Auprès de tiers, y compris des partenaires de collaboration qui aident à développer de nouvelles solutions telles que les fonctionnalités prises en charge par l’IA 
+*   Auprès de tiers, y compris des partenaires de collaboration qui aident à développer de nouvelles solutions telles que les fonctionnalités prises en charge par l’IA 
     
 
 **Pourquoi nous les collectons** **:** 
 
-* Pour rendre votre interaction avec nous plus pratique, par exemple en vous reconnaissant, vous et vos appareils, en assurant l’assistance à la clientèle ou en nous permettant de conserver les sélections de votre panier d’achat lorsque vous naviguez ailleurs et revenez ensuite à la page de commande 
+*   Pour rendre votre interaction avec nous plus pratique, par exemple en vous reconnaissant, vous et vos appareils, en assurant l’assistance à la clientèle ou en nous permettant de conserver les sélections de votre panier d’achat lorsque vous naviguez ailleurs et revenez ensuite à la page de commande 
     
 
-* Pour nous aider à honorer nos engagements contractuels, tels que ceux relatifs à des offres et codes promotionnels 
+*   Pour nous aider à honorer nos engagements contractuels, tels que ceux relatifs à des offres et codes promotionnels 
     
 
-* Pour vous adresser des communications et d’autres formes de marketing et de publicité, y compris par le biais de la publicité comportementale et du suivi inter-appareils (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications) On parle de suivi inter-appareils lorsque des données sont utilisées pour déduire qu’un utilisateur d’un appareil, tel qu’un ordinateur, est la même personne qui utilise un autre appareil, tel qu’un téléphone mobile. Nous pouvons alors diffuser des publicités sur les navigateurs des deux appareils.  
+*   Pour vous adresser des communications et d’autres formes de marketing et de publicité, y compris par le biais de la publicité comportementale et du suivi inter-appareils (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications) On parle de suivi inter-appareils lorsque des données sont utilisées pour déduire qu’un utilisateur d’un appareil, tel qu’un ordinateur, est la même personne qui utilise un autre appareil, tel qu’un téléphone mobile. Nous pouvons alors diffuser des publicités sur les navigateurs des deux appareils.  
     
 
-* Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
+*   Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
     
 
 **Nous les partageons avec :** 
 
-* Les prestataires de services marketing et publicitaires 
+*   Les prestataires de services marketing et publicitaires 
     
 
-* Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
+*   Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
 
 DONNÉES DE GÉOLOCALISATION
 
@@ -236,32 +236,32 @@ Il s’agit du recueil ou de la déduction de votre localisation, comme votre co
    
 **Comment nous collectons ces informations** **:** 
 
-* Directement auprès de vous, comme lorsque vous acceptez le partage de localisation ou que vous utilisez une fonctionnalité telle que Google Maps sur l’une de nos Plateformes pour trouver un itinéraire ou l’emplacement d’un magasin. 
+*   Directement auprès de vous, comme lorsque vous acceptez le partage de localisation ou que vous utilisez une fonctionnalité telle que Google Maps sur l’une de nos Plateformes pour trouver un itinéraire ou l’emplacement d’un magasin. 
     
 
-* Par le biais de technologies, telles qu’une adresse IP utilisée pour recommander les magasins les plus proches de vous. 
+*   Par le biais de technologies, telles qu’une adresse IP utilisée pour recommander les magasins les plus proches de vous. 
     
 
-* Comme décrit dans un avis ou un consentement séparé, par exemple pour une fonctionnalité spéciale ou un événement local 
+*   Comme décrit dans un avis ou un consentement séparé, par exemple pour une fonctionnalité spéciale ou un événement local 
     
 
 **Pourquoi nous les collectons** **:** 
 
-* Pour vous permettre de localiser les magasins à proximité 
+*   Pour vous permettre de localiser les magasins à proximité 
     
 
-* Pour vous adresser des communications ainsi que d’autres actions marketing et publicitaires (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications) 
+*   Pour vous adresser des communications ainsi que d’autres actions marketing et publicitaires (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications) 
     
 
-* Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
+*   Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
     
 
 **Nous les partageons avec :** 
 
-* Les prestataires de services marketing et publicitaires 
+*   Les prestataires de services marketing et publicitaires 
     
 
-* Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
+*   Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
     
 
 **Remarque :** Le service Google Maps est régi par les règles de confidentialité de Google, disponibles à l’adresse [www.google.com/policies/privacy](https://policies.google.com/privacy). 
@@ -273,32 +273,32 @@ Il s’agit notamment de profils que nous développons sur la base des tendances
    
 **Comment nous collectons ces informations** **:** 
 
-* Directement auprès de vous dans le cadre de vos relations avec nous 
+*   Directement auprès de vous dans le cadre de vos relations avec nous 
     
 
-* Par le biais de technologies, telles que des cookies ou des pixels 
+*   Par le biais de technologies, telles que des cookies ou des pixels 
     
 
-* Auprès de tiers, y compris des partenaires commerciaux et des prestataires de services publicitaires 
+*   Auprès de tiers, y compris des partenaires commerciaux et des prestataires de services publicitaires 
     
 
 **Pourquoi nous les collectons** **:** 
 
-* Pour vous adresser des communications et d’autres formes de marketing et de publicité, y compris par le biais de la publicité comportementale et du suivi inter-appareils (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications)  
+*   Pour vous adresser des communications et d’autres formes de marketing et de publicité, y compris par le biais de la publicité comportementale et du suivi inter-appareils (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications)  
     
 
-* Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
+*   Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
     
 
 **Nous les partageons avec :** 
 
-* Les prestataires de services marketing et publicitaires 
+*   Les prestataires de services marketing et publicitaires 
     
 
-* Des plateformes de médias sociaux 
+*   Des plateformes de médias sociaux 
     
 
-* Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
+*   Veuillez vous reporter à la partie **« FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES »** ci-dessous 
 
 INFORMATIONS RELATIVES AUX ENFANTS ET AUX MINEURS
 
@@ -311,51 +311,51 @@ Outre ce qui précède, nous pouvons utiliser tout ou partie des Informations à
 
 **Nous pouvons utiliser ou partager les Informations à caractère personnel que nous collectons pour :** 
 
-* Maintenir la sûreté, la sécurité, la fonctionnalité et l’intégrité de nos Plateformes et autres actifs ou activités 
+*   Maintenir la sûreté, la sécurité, la fonctionnalité et l’intégrité de nos Plateformes et autres actifs ou activités 
     
 
-* Prévenir, enquêter sur ou prendre des mesures concernant une activité illégale, y compris, mais sans s’y limiter, en commettant des tiers pour analyser des transactions en cas de suspicion de fraude ou de vol d’identité 
+*   Prévenir, enquêter sur ou prendre des mesures concernant une activité illégale, y compris, mais sans s’y limiter, en commettant des tiers pour analyser des transactions en cas de suspicion de fraude ou de vol d’identité 
     
 
-* Effectuer des tests, des recherches, des analyses et pour le développement de produits 
+*   Effectuer des tests, des recherches, des analyses et pour le développement de produits 
     
 
-* Administrer, promouvoir et améliorer notre présence en ligne, que ce soit sur notre site Web ou sur notre application mobile, y compris le dépannage des problèmes techniques lorsqu’ils surviennent 
+*   Administrer, promouvoir et améliorer notre présence en ligne, que ce soit sur notre site Web ou sur notre application mobile, y compris le dépannage des problèmes techniques lorsqu’ils surviennent 
     
 
-* Comprendre, améliorer et fournir des expériences personnalisées et simplifiées avec nos Plateformes, notamment en proposant des programmes de fidélité, des recommandations personnalisées, des suggestions d’ajustement, etc. 
+*   Comprendre, améliorer et fournir des expériences personnalisées et simplifiées avec nos Plateformes, notamment en proposant des programmes de fidélité, des recommandations personnalisées, des suggestions d’ajustement, etc. 
     
 
-* Fournir des services en magasin, sur le site Web ou l’application mobile, y compris le traitement des achats, retours et échanges demandés, des paiements, des commandes, de l’expédition des produits et de la fourniture du Service client 
+*   Fournir des services en magasin, sur le site Web ou l’application mobile, y compris le traitement des achats, retours et échanges demandés, des paiements, des commandes, de l’expédition des produits et de la fourniture du Service client 
     
 
-* Effectuer ou réaliser une fusion, une cession, une restructuration, une réorganisation, une dissolution, ou toute autre vente ou tout autre transfert de tout ou partie de nos actifs, que ce soit dans le cadre d’une entreprise en activité ou d’une faillite, d’une liquidation ou d’une procédure similaire, dont les Informations à caractère personnel que nous détenons font partie des actifs transférés 
+*   Effectuer ou réaliser une fusion, une cession, une restructuration, une réorganisation, une dissolution, ou toute autre vente ou tout autre transfert de tout ou partie de nos actifs, que ce soit dans le cadre d’une entreprise en activité ou d’une faillite, d’une liquidation ou d’une procédure similaire, dont les Informations à caractère personnel que nous détenons font partie des actifs transférés 
     
 
-* Mener d’autres initiatives commerciales telles que décrites lors de la collecte de vos Informations à caractère personnel, avec votre consentement ou dans les limites autorisées par la loi 
+*   Mener d’autres initiatives commerciales telles que décrites lors de la collecte de vos Informations à caractère personnel, avec votre consentement ou dans les limites autorisées par la loi 
     
 
-* Se conformer à la loi ou à un processus juridiquement contraignant, par exemple en vertu d’une assignation à comparaître, d’une ordonnance du tribunal, pour faire valoir nos droits légaux ou pour vous protéger, nous protéger ou protéger d’autres personnes contre des blessures ou des dommages, y compris pour la sécurité et la prévention des pertes 
+*   Se conformer à la loi ou à un processus juridiquement contraignant, par exemple en vertu d’une assignation à comparaître, d’une ordonnance du tribunal, pour faire valoir nos droits légaux ou pour vous protéger, nous protéger ou protéger d’autres personnes contre des blessures ou des dommages, y compris pour la sécurité et la prévention des pertes 
     
 
-* Pour administrer des enquêtes et des questionnaires, par exemple à des fins de satisfaction des consommateurs 
+*   Pour administrer des enquêtes et des questionnaires, par exemple à des fins de satisfaction des consommateurs 
     
 
 **Nous partageons vos Informations à caractère personnel avec :** 
 
-* Les Prestataires de services, y compris l’externalisation des opérations, par exemple pour des services uniques ou des points de présence dans un pays ou sur un site ou une plateforme d’hébergement, les prestataires de services et de technologies en nuage, le traitement des cartes de crédit, le marketing et la publicité, l’expédition et la logistique, la résolution des litiges, les prestataires de services de détection et de prévention des fraudes, la gestion des données, les prestataires de services d’analyse et d’autres tiers avec lesquels nous avons des relations contractuelles, 
+*   Les Prestataires de services, y compris l’externalisation des opérations, par exemple pour des services uniques ou des points de présence dans un pays ou sur un site ou une plateforme d’hébergement, les prestataires de services et de technologies en nuage, le traitement des cartes de crédit, le marketing et la publicité, l’expédition et la logistique, la résolution des litiges, les prestataires de services de détection et de prévention des fraudes, la gestion des données, les prestataires de services d’analyse et d’autres tiers avec lesquels nous avons des relations contractuelles, 
     
 
-* Au sein de notre famille de marques et avec des entreprises contrôlant, contrôlées par, ou sous contrôle commun avec LS&Co. (« **Affiliés** »), 
+*   Au sein de notre famille de marques et avec des entreprises contrôlant, contrôlées par, ou sous contrôle commun avec LS&Co. (« **Affiliés** »), 
     
 
-* Les auditeurs, consultants, avocats et autres entités qui utilisent les données pour nous fournir des services professionnels, 
+*   Les auditeurs, consultants, avocats et autres entités qui utilisent les données pour nous fournir des services professionnels, 
     
 
-* Les agences gouvernementales, les services chargés de l’application de la loi, les organismes de réglementation et les tribunaux, lorsque nous sommes tenus de nous conformer aux lois, règlements ou règles applicables, aux demandes des services chargés de l’application de la loi, des organismes de réglementation et d’autres agences gouvernementales ou à un processus juridiquement contraignant, par exemple en vertu d’une assignation à comparaître, d’une ordonnance d’un tribunal, pour faire valoir nos droits légaux ou pour vous protéger, nous protéger ou protéger d’autres personnes contre des blessures ou des dommages 
+*   Les agences gouvernementales, les services chargés de l’application de la loi, les organismes de réglementation et les tribunaux, lorsque nous sommes tenus de nous conformer aux lois, règlements ou règles applicables, aux demandes des services chargés de l’application de la loi, des organismes de réglementation et d’autres agences gouvernementales ou à un processus juridiquement contraignant, par exemple en vertu d’une assignation à comparaître, d’une ordonnance d’un tribunal, pour faire valoir nos droits légaux ou pour vous protéger, nous protéger ou protéger d’autres personnes contre des blessures ou des dommages 
     
 
-* Transferts d’activités, si (i) nous ou nos Affiliés sommes ou pouvons être acquis par, fusionnés avec, ou bénéficier des investissements une autre société, ou (ii) si l’un de nos actifs est ou peut être transféré vers une autre société, que ce soit dans le cadre d’une procédure de faillite ou d’insolvabilité ou autrement, nous pouvons divulguer ou transférer des Informations à caractère personnel à un tiers acquéreur potentiel ou réel ou à un autre tiers concerné.  
+*   Transferts d’activités, si (i) nous ou nos Affiliés sommes ou pouvons être acquis par, fusionnés avec, ou bénéficier des investissements une autre société, ou (ii) si l’un de nos actifs est ou peut être transféré vers une autre société, que ce soit dans le cadre d’une procédure de faillite ou d’insolvabilité ou autrement, nous pouvons divulguer ou transférer des Informations à caractère personnel à un tiers acquéreur potentiel ou réel ou à un autre tiers concerné.  
     
 
 Nous pouvons également anonymiser, agréger ou autrement dépouiller de toutes les caractéristiques permettant une identification les Informations à caractère personnel que nous collectons et nous pouvons utiliser ou partager ces données agrégées et anonymisées avec des tiers à toute fin que nous jugeons appropriée. Nous conservons et utilisons ces informations uniquement de manière dépersonnalisée et ne tenterons pas de les réidentifier, sauf dans les cas autorisés par la loi. 
