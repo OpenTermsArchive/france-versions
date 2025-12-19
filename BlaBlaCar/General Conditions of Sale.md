@@ -1,6 +1,6 @@
-* [BlaBlaBlog](https://blog.blablacar.fr/)
-* [Qui sommes-nous ?](https://blog.blablacar.fr/about-us/ "Qui sommes-nous ?")
-* Conditions générales
+*   [BlaBlaBlog](https://blog.blablacar.fr/)
+*   [Qui sommes-nous ?](https://blog.blablacar.fr/about-us/ "Qui sommes-nous ?")
+*   Conditions générales
 
 Conditions générales
 ====================
@@ -219,10 +219,10 @@ Les informations mentionnées ci-dessous au présent article 4.2.4.1 sont rensei
 
 Afin d’être informé des conditions et modalités listées ci-après veuillez consulter les CGV Train des entreprises ferroviaires concernées [disponibles ici](https://blog.blablacar.fr/conditions-generales-de-transports-des-entreprises-ferroviaires/):
 
-* Conditions d’accès aux vélos ;
-* Perturbations, annulations, correspondances manquées et retards ;
-* Disponibilité des installations à bord, y compris le Wi-Fi et les toilettes, et des services à bord, y compris l’assistance fournie aux passagers par le personnel ;
-* Procédures de récupération des bagages perdus.
+*   Conditions d’accès aux vélos ;
+*   Perturbations, annulations, correspondances manquées et retards ;
+*   Disponibilité des installations à bord, y compris le Wi-Fi et les toilettes, et des services à bord, y compris l’assistance fournie aux passagers par le personnel ;
+*   Procédures de récupération des bagages perdus.
 
 **4.2.4.3 Informations spécifiques aux personnes handicapées et aux personnes à mobilité réduite :**
 
@@ -242,11 +242,11 @@ Les conditions d’accessibilité de la station et à bord et des installations 
 
 Le passager peut trouver les informations suivantes dans les CGV Train de l’Entreprise ferroviaire concernée [disponibles ici](https://blog.blablacar.es/condiciones-generales-de-venta-de-la-empresa-ferroviaria) ou sur son Billet :
 
-* Services et installations à bord, y compris le Wi-Fi
-* Prochaine station
-* Perturbations et retards (planifiés et en temps réel)
-* Principaux services de connexion
-* Problèmes de sécurité et de sûreté
+*   Services et installations à bord, y compris le Wi-Fi
+*   Prochaine station
+*   Perturbations et retards (planifiés et en temps réel)
+*   Principaux services de connexion
+*   Problèmes de sécurité et de sûreté
 
 **4.2.5. Caractère nominatif de la réservation de Place et modalités d’utilisation des Services pour le compte d’un tiers**
 
@@ -274,9 +274,9 @@ Vous avez la possibilité de répondre à un avis qu’un autre Membre a laissé
 
 Vous reconnaissez et acceptez que BlaBlaCar puisse, avant la publication et à l’aide d’outils automatisés ou manuellement, modérer le Contenu Membre tel que défini à l’Article 11.2. Si BlaBlaCar estime que le Contenu Membre enfreint les lois applicables ou les présentes CGU, elle se réserve le droit de :
 
-* empêcher la publication de ce Contenu Membre ou le supprimer
-* envoyer un avertissement au Membre afin de lui rappeler l’obligation de se conformer aux lois applicables ou aux présentes CGU, et/ou
-* prendre les mesures restrictives conformément à l’Article 9 des présentes CGU.
+*   empêcher la publication de ce Contenu Membre ou le supprimer
+*   envoyer un avertissement au Membre afin de lui rappeler l’obligation de se conformer aux lois applicables ou aux présentes CGU, et/ou
+*   prendre les mesures restrictives conformément à l’Article 9 des présentes CGU.
 
 L’utilisation, par BlaBlaCar, de ces outils automatisés ou de la modération manuelle ne saurait être interprétée comme un engagement à contrôler ou une obligation de rechercher activement les activités illégales et/ou le Contenu Membre publié sur la Plateforme et, dans la mesure autorisée par la loi applicable, ne saurait engager la responsabilité de BlaBlaCar à quelque titre que ce soit.
 
@@ -286,9 +286,9 @@ L’échange de messages entre des Membres via notre Plateforme (« Messages �
 
 BlaBlaCar pourra, à l’aide de logiciels et d’algorithmes automatisés, détecter le contenu des Messages à des fins de prévention de la fraude, d’amélioration du service, d’assistance client et d’exécution des contrats conclus avec nos Membres (par exemple les présentes CGU). Si, dans un Message, un contenu qui présente des signes de comportement frauduleux ou illégal ou de contournement de la Plateforme ou qui est, de quelque manière que ce soit, contraire aux présentes CGU, est détecté :
 
-* ce contenu est susceptible de ne pas être publié
-* le Membre qui a envoyé ce Message peut recevoir un avertissement afin de lui rappeler qu’il est tenu de se conformer aux lois applicables ou aux présentes CGU, ou
-* le Compte de ce Membre peut être suspendu conformément à l’Article 9 des présentes CGU.
+*   ce contenu est susceptible de ne pas être publié
+*   le Membre qui a envoyé ce Message peut recevoir un avertissement afin de lui rappeler qu’il est tenu de se conformer aux lois applicables ou aux présentes CGU, ou
+*   le Compte de ce Membre peut être suspendu conformément à l’Article 9 des présentes CGU.
 
 L’utilisation, par BlaBlaCar, de ces logiciels automatisés ne saurait être interprétée comme un engagement à contrôler ou une obligation de rechercher activement les activités illégales et/ou le contenu sur la Plateforme et, dans la mesure autorisée par la loi applicable, ne saurait engager la responsabilité de BlaBlaCar à quelque titre que ce soit.
 
@@ -335,8 +335,8 @@ Veuillez noter que les exclusions prévues par la Directive (UE) 2015/2366 du Pa
 
 En tant que Conducteur, vous donnez instruction :
 
-1. à BlaBlaCar d’ordonner au Fournisseur de la Solution de Paiement Hyperwallet de procéder au virement de la Participation aux Frais, et
-2. au Fournisseur de la Solution de Paiement Hyperwallet de procéder au virement de la Participation aux Frais sur votre compte bancaire ou votre compte PayPal en votre nom et pour votre compte, conformément aux Conditions Générales d’Hyperwallet.
+1.  à BlaBlaCar d’ordonner au Fournisseur de la Solution de Paiement Hyperwallet de procéder au virement de la Participation aux Frais, et
+2.  au Fournisseur de la Solution de Paiement Hyperwallet de procéder au virement de la Participation aux Frais sur votre compte bancaire ou votre compte PayPal en votre nom et pour votre compte, conformément aux Conditions Générales d’Hyperwallet.
 
 Dans le cadre d’un Trajet en Covoiturage, et après acceptation manuelle ou automatique de la Réservation, la totalité de la somme versée par le Passager (Frais de Service et Participation aux Frais) est détenue sur un compte bloqué géré par le Fournisseur de la Solution de Paiement Hyperwallet.
 
@@ -378,11 +378,11 @@ Le paiement de toute Commande réalisée par le biais de la Plateforme s’effec
 
 Les moyens de paiements autorisés sont les suivants :
 
-* carte de crédit (les marques acceptées sont indiquées sur la Plateforme. Si vous disposez d’une carte co-marquée, vous pouvez sélectionner une marque spécifique à l’étape du paiement)
-* PayPal
-* bon d’achat
-* Apple Pay
-* Google Pay
+*   carte de crédit (les marques acceptées sont indiquées sur la Plateforme. Si vous disposez d’une carte co-marquée, vous pouvez sélectionner une marque spécifique à l’étape du paiement)
+*   PayPal
+*   bon d’achat
+*   Apple Pay
+*   Google Pay
 
 Aucune validation de Commande n’intervient avant le paiement effectif et intégral du prix des Prestations sélectionnées par le Client. Si le paiement présente une irrégularité, est incomplet ou s’il n’est pas effectué pour une quelconque raison imputable au Client, la Commande est immédiatement annulée.
 
@@ -416,10 +416,10 @@ L’annulation d’une Place d’un Trajet en Covoiturage par le Conducteur ou l
 
 – En cas d’annulation imputable au Passager :
 
-* Si le Passager annule plus de 24 heures avant l’heure prévue pour le départ telle que mentionnée dans l’Annonce de Covoiturage, le Passager est remboursé du montant de la Participation aux Frais. Les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur ne reçoit aucune somme de quelque nature que ce soit ;
-* Si le Passager annule moins de 24 heures ou 24 heures avant l’heure prévue pour le départ, telle que mentionnée dans l’Annonce de Covoiturage et plus de trente minutes après la Confirmation de Réservation, le Passager est remboursé à hauteur de la moitié de la Participation aux Frais versée lors de la Réservation, les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur recevra 50 % de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet ;
-* Si le Passager annule moins de 24 heures ou 24 heures avant l’heure prévue pour le départ, telle que mentionnée dans l’Annonce de Covoiturage et trente minutes ou moins après la Confirmation de Réservation, le Passager est remboursé de l’intégralité de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet. Les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur ne reçoit aucune somme de quelque nature que ce soit ;
-* Si le Passager annule après l’heure prévue pour le départ, telle que mentionnée dans l’Annonce, ou s’il ne se présente pas au lieu de rendez-vous au plus tard dans un délai de 15 minutes à compter de l’heure convenue, aucun remboursement n’est effectué. Le Conducteur est dédommagé à hauteur de la totalité de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet et les Frais de Service sont conservés par BlaBlaCar.
+*   Si le Passager annule plus de 24 heures avant l’heure prévue pour le départ telle que mentionnée dans l’Annonce de Covoiturage, le Passager est remboursé du montant de la Participation aux Frais. Les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur ne reçoit aucune somme de quelque nature que ce soit ;
+*   Si le Passager annule moins de 24 heures ou 24 heures avant l’heure prévue pour le départ, telle que mentionnée dans l’Annonce de Covoiturage et plus de trente minutes après la Confirmation de Réservation, le Passager est remboursé à hauteur de la moitié de la Participation aux Frais versée lors de la Réservation, les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur recevra 50 % de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet ;
+*   Si le Passager annule moins de 24 heures ou 24 heures avant l’heure prévue pour le départ, telle que mentionnée dans l’Annonce de Covoiturage et trente minutes ou moins après la Confirmation de Réservation, le Passager est remboursé de l’intégralité de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet. Les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur ne reçoit aucune somme de quelque nature que ce soit ;
+*   Si le Passager annule après l’heure prévue pour le départ, telle que mentionnée dans l’Annonce, ou s’il ne se présente pas au lieu de rendez-vous au plus tard dans un délai de 15 minutes à compter de l’heure convenue, aucun remboursement n’est effectué. Le Conducteur est dédommagé à hauteur de la totalité de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet et les Frais de Service sont conservés par BlaBlaCar.
 
 Lorsque l’annulation intervient avant le départ et du fait du Passager, la ou les Places annulée(s) par le Passager pour ledit Trajet en Covoiturage sont de plein droit remises à la disposition d’autres Passagers pouvant les réserver en ligne et en conséquence soumises aux conditions des présentes CGU.
 
@@ -536,8 +536,8 @@ Vous pouvez signaler tout Contenu Membre suspect, inapproprié ou illégal ou un
 
 BlaBlaCar, après avoir été dûment avertie conformément au présent Article ou par les autorités compétentes, supprimera dans les plus brefs délais tout Contenu Membre illégal si :
 
-* ce Contenu Membre est manifestement illégal ou contraire à la réglementation en vigueur ; ou
-* BlaBlaCar considère que celui-ci enfreint les présentes CGU.
+*   ce Contenu Membre est manifestement illégal ou contraire à la réglementation en vigueur ; ou
+*   BlaBlaCar considère que celui-ci enfreint les présentes CGU.
 
 Si tel est le cas, BlaBlaCar se réserve le droit de supprimer le Contenu Membre qui a été dûment signalé, d’une manière suffisamment détaillée et claire, et/ou de suspendre immédiatement le Compte signalé.
 
@@ -640,8 +640,8 @@ Les présentes CGU sont rédigées en français et soumises à la loi française
 
 Vous pouvez contester les décisions que nous sommes susceptibles de prendre concernant :
 
-* le Contenu Membre : par exemple, si nous avons supprimé, restreint la visibilité ou refusé de supprimer tout Contenu Membre que vous fournissez lorsque vous utilisez la Plateforme, ou
-* votre Compte : nous avons suspendu votre accès à la Plateforme,
+*   le Contenu Membre : par exemple, si nous avons supprimé, restreint la visibilité ou refusé de supprimer tout Contenu Membre que vous fournissez lorsque vous utilisez la Plateforme, ou
+*   votre Compte : nous avons suspendu votre accès à la Plateforme,
 
 si nous avons pris de telles décisions parce que le Contenu Membre est illégal ou incompatible avec les présentes CGU. La procédure de contestation est décrite [ici](https://support.blablacar.com/s/article/Comment-contester-une-suppression-de-contenu-ou-une-suspension-de-compte-1729197123027?language=fr).
 
@@ -653,8 +653,8 @@ Vous pouvez également soumettre une demande à un organisme de règlement des l
 
 Conformément aux articles du code de la consommation L.611-1 et suivant, il est prévu que pour tout litige de nature contractuelle n’ayant pu être résolu dans le cadre d’une réclamation préalablement introduite auprès de notre service clients, vous pouvez, en votre qualité de consommateur, recourir gratuitement à la médiation en contactant :
 
-* l’Association Nationale des Médiateurs (ANM) soit par courrier en écrivant au 62, rue Tiquetonne 75002 PARIS soit par e-mail en remplissant le formulaire de saisine en ligne à l’adresse suivante : www.anm-conso.com.
-* plus spécifiquement pour un litige concernant un Trajet en Bus ou en Train, la Médiation Tourisme Voyage (MTV) BP 80 303 75 823 Paris Cedex 17 (France). La plateforme pour saisir ce médiateur est accessible à partir du lien suivant : [https://www.mtv.travel/saisir-le-mediateur/](https://www.mtv.travel/saisir-le-mediateur/)
+*   l’Association Nationale des Médiateurs (ANM) soit par courrier en écrivant au 62, rue Tiquetonne 75002 PARIS soit par e-mail en remplissant le formulaire de saisine en ligne à l’adresse suivante : www.anm-conso.com.
+*   plus spécifiquement pour un litige concernant un Trajet en Bus ou en Train, la Médiation Tourisme Voyage (MTV) BP 80 303 75 823 Paris Cedex 17 (France). La plateforme pour saisir ce médiateur est accessible à partir du lien suivant : [https://www.mtv.travel/saisir-le-mediateur/](https://www.mtv.travel/saisir-le-mediateur/)
 
 Le site internet suivant www.economie.gouv.fr/mediation-conso comporte également toutes informations utiles en cas de litige transfrontalier.
 
@@ -862,8 +862,8 @@ La Plateforme permet aux Membres de publier des Annonces de Covoiturage et consu
 
 Pour créer votre Compte, vous pouvez :
 
-* (i) soit remplir l’ensemble des champs obligatoires figurant sur le formulaire d’inscription ;
-* (ii) soit vous connecter, via notre Plateforme, à votre compte Facebook (ci-après, votre « Compte Facebook »). En utilisant une telle fonctionnalité, vous comprenez que BlaBlaCar aura accès, publiera sur la Plateforme et conservera certaines informations de votre Compte Facebook. Vous pouvez à tout moment supprimer le lien entre votre Compte et votre Compte Facebook par l’intermédiaire de la rubrique « Vérifications » de votre profil. Si vous souhaitez en savoir plus sur l’utilisation de vos données dans le cadre de votre Compte Facebook, consultez notre [Politique de Confidentialité](https://blog.blablacar.fr/about-us/privacy-policy/) et celle de Facebook.
+*   (i) soit remplir l’ensemble des champs obligatoires figurant sur le formulaire d’inscription ;
+*   (ii) soit vous connecter, via notre Plateforme, à votre compte Facebook (ci-après, votre « Compte Facebook »). En utilisant une telle fonctionnalité, vous comprenez que BlaBlaCar aura accès, publiera sur la Plateforme et conservera certaines informations de votre Compte Facebook. Vous pouvez à tout moment supprimer le lien entre votre Compte et votre Compte Facebook par l’intermédiaire de la rubrique « Vérifications » de votre profil. Si vous souhaitez en savoir plus sur l’utilisation de vos données dans le cadre de votre Compte Facebook, consultez notre [Politique de Confidentialité](https://blog.blablacar.fr/about-us/privacy-policy/) et celle de Facebook.
 
 Pour vous inscrire sur la Plateforme, vous devez avoir lu et accepter les présentes CGU ainsi que la [Politique de Confidentialité](https://blog.blablacar.fr/about-us/privacy-policy/).
 
@@ -892,17 +892,17 @@ Lors de la publication de votre Annonce de Covoiturage, vous pouvez indiquer des
 
 Vous n’êtes autorisé à publier une Annonce de Covoiturage que si vous remplissez l’ensemble des conditions suivantes :
 
-* (i) vous êtes titulaire d’un permis de conduire valide ;
-* (ii) vous ne proposez des Annonces de Covoiturage que pour des véhicules dont vous êtes le propriétaire ou que vous utilisez avec l’autorisation expresse du propriétaire, et dans tous les cas, que vous êtes autorisé à utiliser à des fins de covoiturage ;
-* (iii) vous êtes et demeurez le conducteur principal du véhicule, objet de l’Annonce de Covoiturage ;
-* (iv) le véhicule bénéficie d’une assurance au tiers valide ;
-* (v) vous n’avez aucune contre-indication ou incapacité médicale à conduire ;
-* (vi) le véhicule que vous comptez utiliser pour le Trajet est une voiture de tourisme à 4 roues, disposant d’un maximum de 7 places assises, à l’exclusion des voitures dites « sans permis » ;
-* (vii) vous ne comptez pas publier une autre annonce pour le même Trajet en Covoiturage sur la Plateforme ;
-* (viii) vous n’offrez pas plus de Places que celles disponibles dans votre véhicule ;
-* (ix) toutes les Places offertes ont une ceinture de sécurité, et ce même si le véhicule est homologué en présence de sièges dépourvus de ceinture de sécurité ;
-* (x) vous utilisez un véhicule en parfait état de fonctionnement et conforme aux usages et dispositions légales applicables, notamment avec un contrôle technique à jour ;
-* (xi) vous êtes un consommateur et n’agissez pas à titre professionnel.
+*   (i) vous êtes titulaire d’un permis de conduire valide ;
+*   (ii) vous ne proposez des Annonces de Covoiturage que pour des véhicules dont vous êtes le propriétaire ou que vous utilisez avec l’autorisation expresse du propriétaire, et dans tous les cas, que vous êtes autorisé à utiliser à des fins de covoiturage ;
+*   (iii) vous êtes et demeurez le conducteur principal du véhicule, objet de l’Annonce de Covoiturage ;
+*   (iv) le véhicule bénéficie d’une assurance au tiers valide ;
+*   (v) vous n’avez aucune contre-indication ou incapacité médicale à conduire ;
+*   (vi) le véhicule que vous comptez utiliser pour le Trajet est une voiture de tourisme à 4 roues, disposant d’un maximum de 7 places assises, à l’exclusion des voitures dites « sans permis » ;
+*   (vii) vous ne comptez pas publier une autre annonce pour le même Trajet en Covoiturage sur la Plateforme ;
+*   (viii) vous n’offrez pas plus de Places que celles disponibles dans votre véhicule ;
+*   (ix) toutes les Places offertes ont une ceinture de sécurité, et ce même si le véhicule est homologué en présence de sièges dépourvus de ceinture de sécurité ;
+*   (x) vous utilisez un véhicule en parfait état de fonctionnement et conforme aux usages et dispositions légales applicables, notamment avec un contrôle technique à jour ;
+*   (xi) vous êtes un consommateur et n’agissez pas à titre professionnel.
 
 Vous reconnaissez être le seul responsable du contenu de l’Annonce de Covoiturage que vous publiez sur la Plateforme. En conséquence, vous déclarez et garantissez l’exactitude et la véracité de toute information contenue dans votre Annonce de Covoiturage et vous engagez à effectuer le Trajet en Covoiturage selon les modalités décrites dans votre Annonce de Covoiturage.
 
@@ -958,10 +958,10 @@ Les informations mentionnées ci-dessous au présent article 4.2.4.1 sont rensei
 
 Afin d’être informé des conditions et modalités listées ci-après veuillez consulter les CGV Train des entreprises ferroviaires concernées [disponibles ici](https://blog.blablacar.fr/conditions-generales-de-transports-des-entreprises-ferroviaires/):
 
-* Conditions d’accès aux vélos ;
-* Perturbations, annulations, correspondances manquées et retards ;
-* Disponibilité des installations à bord, y compris le Wi-Fi et les toilettes, et des services à bord, y compris l’assistance fournie aux passagers par le personnel ;
-* Procédures de récupération des bagages perdus.
+*   Conditions d’accès aux vélos ;
+*   Perturbations, annulations, correspondances manquées et retards ;
+*   Disponibilité des installations à bord, y compris le Wi-Fi et les toilettes, et des services à bord, y compris l’assistance fournie aux passagers par le personnel ;
+*   Procédures de récupération des bagages perdus.
 
 **4.2.4.3 Informations spécifiques aux personnes handicapées et aux personnes à mobilité réduite :**
 
@@ -981,11 +981,11 @@ Les conditions d’accessibilité de la station et à bord et des installations 
 
 Le passager peut trouver les informations suivantes dans les CGV Train de l’Entreprise ferroviaire concernée [disponibles ici](https://blog.blablacar.es/condiciones-generales-de-venta-de-la-empresa-ferroviaria) ou sur son Billet :
 
-* Services et installations à bord, y compris le Wi-Fi
-* Prochaine station
-* Perturbations et retards (planifiés et en temps réel)
-* Principaux services de connexion
-* Problèmes de sécurité et de sûreté
+*   Services et installations à bord, y compris le Wi-Fi
+*   Prochaine station
+*   Perturbations et retards (planifiés et en temps réel)
+*   Principaux services de connexion
+*   Problèmes de sécurité et de sûreté
 
 **4.2.5. Caractère nominatif de la réservation de Place et modalités d’utilisation des Services pour le compte d’un tiers**
 
@@ -1054,8 +1054,8 @@ Veuillez noter que les exclusions prévues par la Directive (UE) 2015/2366 du Pa
 
 En tant que Conducteur, vous donnez instruction :
 
-1. à BlaBlaCar d’ordonner au Fournisseur de la Solution de Paiement Hyperwallet de procéder au virement de la Participation aux Frais, et
-2. au Fournisseur de la Solution de Paiement Hyperwallet de procéder au virement de la Participation aux Frais sur votre compte bancaire ou votre compte PayPal en votre nom et pour votre compte, conformément aux Conditions Générales d’Hyperwallet.
+1.  à BlaBlaCar d’ordonner au Fournisseur de la Solution de Paiement Hyperwallet de procéder au virement de la Participation aux Frais, et
+2.  au Fournisseur de la Solution de Paiement Hyperwallet de procéder au virement de la Participation aux Frais sur votre compte bancaire ou votre compte PayPal en votre nom et pour votre compte, conformément aux Conditions Générales d’Hyperwallet.
 
 Dans le cadre d’un Trajet en Covoiturage, et après acceptation manuelle ou automatique de la Réservation, la totalité de la somme versée par le Passager (Frais de Service et Participation aux Frais) est détenue sur un compte bloqué géré par le Fournisseur de la Solution de Paiement Hyperwallet.
 
@@ -1097,12 +1097,12 @@ Le paiement de toute Commande réalisée par le biais de la Plateforme s’effec
 
 Les moyens de paiements autorisés sont les suivants :
 
-* carte de crédit (les marques acceptées sont indiquées sur la Plateforme. Si vous disposez d’une carte co-marquée, vous pouvez sélectionner une marque spécifique à l’étape du paiement)
-* PayPal
-* bon d’achat
-* iDEAL
-* Apple Pay
-* Google Pay
+*   carte de crédit (les marques acceptées sont indiquées sur la Plateforme. Si vous disposez d’une carte co-marquée, vous pouvez sélectionner une marque spécifique à l’étape du paiement)
+*   PayPal
+*   bon d’achat
+*   iDEAL
+*   Apple Pay
+*   Google Pay
 
 Aucune validation de Commande n’intervient avant le paiement effectif et intégral du prix des Prestations sélectionnées par le Client. Si le paiement présente une irrégularité, est incomplet ou s’il n’est pas effectué pour une quelconque raison imputable au Client, la Commande est immédiatement annulée.
 
@@ -1136,10 +1136,10 @@ L’annulation d’une Place d’un Trajet en Covoiturage par le Conducteur ou l
 
 – En cas d’annulation imputable au Passager :
 
-* Si le Passager annule plus de 24 heures avant l’heure prévue pour le départ telle que mentionnée dans l’Annonce de Covoiturage, le Passager est remboursé du montant de la Participation aux Frais. Les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur ne reçoit aucune somme de quelque nature que ce soit ;
-* Si le Passager annule moins de 24 heures ou 24 heures avant l’heure prévue pour le départ, telle que mentionnée dans l’Annonce de Covoiturage et plus de trente minutes après la Confirmation de Réservation, le Passager est remboursé à hauteur de la moitié de la Participation aux Frais versée lors de la Réservation, les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur recevra 50 % de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet ;
-* Si le Passager annule moins de 24 heures ou 24 heures avant l’heure prévue pour le départ, telle que mentionnée dans l’Annonce de Covoiturage et trente minutes ou moins après la Confirmation de Réservation, le Passager est remboursé de l’intégralité de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet. Les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur ne reçoit aucune somme de quelque nature que ce soit ;
-* Si le Passager annule après l’heure prévue pour le départ, telle que mentionnée dans l’Annonce, ou s’il ne se présente pas au lieu de rendez-vous au plus tard dans un délai de 15 minutes à compter de l’heure convenue, aucun remboursement n’est effectué. Le Conducteur est dédommagé à hauteur de la totalité de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet et les Frais de Service sont conservés par BlaBlaCar.
+*   Si le Passager annule plus de 24 heures avant l’heure prévue pour le départ telle que mentionnée dans l’Annonce de Covoiturage, le Passager est remboursé du montant de la Participation aux Frais. Les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur ne reçoit aucune somme de quelque nature que ce soit ;
+*   Si le Passager annule moins de 24 heures ou 24 heures avant l’heure prévue pour le départ, telle que mentionnée dans l’Annonce de Covoiturage et plus de trente minutes après la Confirmation de Réservation, le Passager est remboursé à hauteur de la moitié de la Participation aux Frais versée lors de la Réservation, les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur recevra 50 % de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet ;
+*   Si le Passager annule moins de 24 heures ou 24 heures avant l’heure prévue pour le départ, telle que mentionnée dans l’Annonce de Covoiturage et trente minutes ou moins après la Confirmation de Réservation, le Passager est remboursé de l’intégralité de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet. Les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur ne reçoit aucune somme de quelque nature que ce soit ;
+*   Si le Passager annule après l’heure prévue pour le départ, telle que mentionnée dans l’Annonce, ou s’il ne se présente pas au lieu de rendez-vous au plus tard dans un délai de 15 minutes à compter de l’heure convenue, aucun remboursement n’est effectué. Le Conducteur est dédommagé à hauteur de la totalité de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet et les Frais de Service sont conservés par BlaBlaCar.
 
 Lorsque l’annulation intervient avant le départ et du fait du Passager, la ou les Places annulée(s) par le Passager pour ledit Trajet en Covoiturage sont de plein droit remises à la disposition d’autres Passagers pouvant les réserver en ligne et en conséquence soumises aux conditions des présentes CGU.
 
@@ -1341,8 +1341,8 @@ Vous pouvez également présenter, le cas échéant, vos réclamations relatives
 
 Conformément aux articles du code de la consommation L.611-1 et suivant, il est prévu que pour tout litige de nature contractuelle n’ayant pu être résolu dans le cadre d’une réclamation préalablement introduite auprès de notre service clients, vous pouvez, en votre qualité de consommateur, recourir gratuitement à la médiation en contactant :
 
-* l’Association Nationale des Médiateurs (ANM) soit par courrier en écrivant au 62, rue Tiquetonne 75002 PARIS soit par e-mail en remplissant le formulaire de saisine en ligne à l’adresse suivante : www.anm-conso.com.
-* plus spécifiquement pour un litige concernant un Trajet en Bus ou en Train, la Médiation Tourisme Voyage (MTV) BP 80 303 75 823 Paris Cedex 17 (France). La plateforme pour saisir ce médiateur est accessible à partir du lien suivant : [https://www.mtv.travel/saisir-le-mediateur/](https://www.mtv.travel/saisir-le-mediateur/)
+*   l’Association Nationale des Médiateurs (ANM) soit par courrier en écrivant au 62, rue Tiquetonne 75002 PARIS soit par e-mail en remplissant le formulaire de saisine en ligne à l’adresse suivante : www.anm-conso.com.
+*   plus spécifiquement pour un litige concernant un Trajet en Bus ou en Train, la Médiation Tourisme Voyage (MTV) BP 80 303 75 823 Paris Cedex 17 (France). La plateforme pour saisir ce médiateur est accessible à partir du lien suivant : [https://www.mtv.travel/saisir-le-mediateur/](https://www.mtv.travel/saisir-le-mediateur/)
 
 Le site internet suivant www.economie.gouv.fr/mediation-conso comporte également toutes informations utiles en cas de litige transfrontalier.
 
@@ -1640,9 +1640,9 @@ Vous avez la possibilité de répondre à un avis qu’un autre Membre a laissé
 
 Vous reconnaissez et acceptez que BlaBlaCar puisse, avant la publication et à l’aide d’outils automatisés ou manuellement, modérer le Contenu Membre tel que défini à l’Article 11.2. Si BlaBlaCar estime que le Contenu Membre enfreint les lois applicables ou les présentes CGU, elle se réserve le droit de :
 
-* empêcher la publication de ce Contenu Membre ou le supprimer
-* envoyer un avertissement au Membre afin de lui rappeler l’obligation de se conformer aux lois applicables ou aux présentes CGU, et/ou
-* prendre les mesures restrictives conformément à l’Article 9 des présentes CGU.
+*   empêcher la publication de ce Contenu Membre ou le supprimer
+*   envoyer un avertissement au Membre afin de lui rappeler l’obligation de se conformer aux lois applicables ou aux présentes CGU, et/ou
+*   prendre les mesures restrictives conformément à l’Article 9 des présentes CGU.
 
 L’utilisation, par BlaBlaCar, de ces outils automatisés ou de la modération manuelle ne saurait être interprétée comme un engagement à contrôler ou une obligation de rechercher activement les activités illégales et/ou le Contenu Membre publié sur la Plateforme et, dans la mesure autorisée par la loi applicable, ne saurait engager la responsabilité de BlaBlaCar à quelque titre que ce soit.
 
@@ -1652,9 +1652,9 @@ L’échange de messages entre des Membres via notre Plateforme (« Messages �
 
 BlaBlaCar pourra, à l’aide de logiciels et d’algorithmes automatisés, détecter le contenu des Messages à des fins de prévention de la fraude, d’amélioration du service, d’assistance client et d’exécution des contrats conclus avec nos Membres (par exemple les présentes CGU). Si, dans un Message, un contenu qui présente des signes de comportement frauduleux ou illégal ou de contournement de la Plateforme ou qui est, de quelque manière que ce soit, contraire aux présentes CGU, est détecté :
 
-* ce contenu est susceptible de ne pas être publié
-* le Membre qui a envoyé ce Message peut recevoir un avertissement afin de lui rappeler qu’il est tenu de se conformer aux lois applicables ou aux présentes CGU, ou
-* le Compte de ce Membre peut être suspendu conformément à l’Article 9 des présentes CGU.
+*   ce contenu est susceptible de ne pas être publié
+*   le Membre qui a envoyé ce Message peut recevoir un avertissement afin de lui rappeler qu’il est tenu de se conformer aux lois applicables ou aux présentes CGU, ou
+*   le Compte de ce Membre peut être suspendu conformément à l’Article 9 des présentes CGU.
 
 L’utilisation, par BlaBlaCar, de ces logiciels automatisés ne saurait être interprétée comme un engagement à contrôler ou une obligation de rechercher activement les activités illégales et/ou le contenu sur la Plateforme et, dans la mesure autorisée par la loi applicable, ne saurait engager la responsabilité de BlaBlaCar à quelque titre que ce soit.
 
@@ -1699,8 +1699,8 @@ Veuillez noter que les exclusions prévues par la Directive (UE) 2015/2366 du Pa
 
 En tant que Conducteur, vous donnez instruction :
 
-1. à BlaBlaCar d’ordonner au Fournisseur de la Solution de Paiement Hyperwallet de procéder au virement de la Participation aux Frais, et
-2. au Fournisseur de la Solution de Paiement Hyperwallet de procéder au virement de la Participation aux Frais sur votre compte bancaire ou votre compte PayPal en votre nom et pour votre compte, conformément aux Conditions Générales d’Hyperwallet.
+1.  à BlaBlaCar d’ordonner au Fournisseur de la Solution de Paiement Hyperwallet de procéder au virement de la Participation aux Frais, et
+2.  au Fournisseur de la Solution de Paiement Hyperwallet de procéder au virement de la Participation aux Frais sur votre compte bancaire ou votre compte PayPal en votre nom et pour votre compte, conformément aux Conditions Générales d’Hyperwallet.
 
 Dans le cadre d’un Trajet en Covoiturage, et après acceptation manuelle ou automatique de la Réservation, la totalité de la somme versée par le Passager (Frais de Service et Participation aux Frais) est détenue sur un compte bloqué géré par le Fournisseur de la Solution de Paiement Hyperwallet.
 
@@ -1742,10 +1742,10 @@ Le paiement de toute Commande réalisée par le biais de la Plateforme s’effec
 
 Les moyens de paiements autorisés sont les suivants :
 
-* carte de crédit (les marques acceptées sont indiquées sur la Plateforme. Si vous disposez d’une carte co-marquée, vous pouvez sélectionner une marque spécifique à l’étape du paiement)
-* PayPal
-* bon d’achat
-* Apple Pay, Google Pay
+*   carte de crédit (les marques acceptées sont indiquées sur la Plateforme. Si vous disposez d’une carte co-marquée, vous pouvez sélectionner une marque spécifique à l’étape du paiement)
+*   PayPal
+*   bon d’achat
+*   Apple Pay, Google Pay
 
 Aucune validation de Commande n’intervient avant le paiement effectif et intégral du prix des Prestations sélectionnées par le Client. Si le paiement présente une irrégularité, est incomplet ou s’il n’est pas effectué pour une quelconque raison imputable au Client, la Commande est immédiatement annulée.
 
@@ -1779,10 +1779,10 @@ L’annulation d’une Place d’un Trajet en Covoiturage par le Conducteur ou l
 
 – En cas d’annulation imputable au Passager :
 
-* Si le Passager annule plus de 24 heures avant l’heure prévue pour le départ telle que mentionnée dans l’Annonce de Covoiturage, le Passager est remboursé du montant de la Participation aux Frais. Les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur ne reçoit aucune somme de quelque nature que ce soit ;
-* Si le Passager annule moins de 24 heures ou 24 heures avant l’heure prévue pour le départ, telle que mentionnée dans l’Annonce de Covoiturage et plus de trente minutes après la Confirmation de Réservation, le Passager est remboursé à hauteur de la moitié de la Participation aux Frais versée lors de la Réservation, les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur recevra 50 % de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet ;
-* Si le Passager annule moins de 24 heures ou 24 heures avant l’heure prévue pour le départ, telle que mentionnée dans l’Annonce de Covoiturage et trente minutes ou moins après la Confirmation de Réservation, le Passager est remboursé de l’intégralité de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet. Les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur ne reçoit aucune somme de quelque nature que ce soit ;
-* Si le Passager annule après l’heure prévue pour le départ, telle que mentionnée dans l’Annonce, ou s’il ne se présente pas au lieu de rendez-vous au plus tard dans un délai de 15 minutes à compter de l’heure convenue, aucun remboursement n’est effectué. Le Conducteur est dédommagé à hauteur de la totalité de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet et les Frais de Service sont conservés par BlaBlaCar.
+*   Si le Passager annule plus de 24 heures avant l’heure prévue pour le départ telle que mentionnée dans l’Annonce de Covoiturage, le Passager est remboursé du montant de la Participation aux Frais. Les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur ne reçoit aucune somme de quelque nature que ce soit ;
+*   Si le Passager annule moins de 24 heures ou 24 heures avant l’heure prévue pour le départ, telle que mentionnée dans l’Annonce de Covoiturage et plus de trente minutes après la Confirmation de Réservation, le Passager est remboursé à hauteur de la moitié de la Participation aux Frais versée lors de la Réservation, les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur recevra 50 % de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet ;
+*   Si le Passager annule moins de 24 heures ou 24 heures avant l’heure prévue pour le départ, telle que mentionnée dans l’Annonce de Covoiturage et trente minutes ou moins après la Confirmation de Réservation, le Passager est remboursé de l’intégralité de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet. Les Frais de Service demeurent acquis à BlaBlaCar et le Conducteur ne reçoit aucune somme de quelque nature que ce soit ;
+*   Si le Passager annule après l’heure prévue pour le départ, telle que mentionnée dans l’Annonce, ou s’il ne se présente pas au lieu de rendez-vous au plus tard dans un délai de 15 minutes à compter de l’heure convenue, aucun remboursement n’est effectué. Le Conducteur est dédommagé à hauteur de la totalité de la Participation aux Frais par le biais de la Solution de Paiement Hyperwallet et les Frais de Service sont conservés par BlaBlaCar.
 
 Lorsque l’annulation intervient avant le départ et du fait du Passager, la ou les Places annulée(s) par le Passager pour ledit Trajet en Covoiturage sont de plein droit remises à la disposition d’autres Passagers pouvant les réserver en ligne et en conséquence soumises aux conditions des présentes CGU.
 
@@ -1889,8 +1889,8 @@ Vous pouvez signaler tout Contenu Membre suspect, inapproprié ou illégal ou un
 
 BlaBlaCar, après avoir été dûment avertie conformément au présent Article ou par les autorités compétentes, supprimera dans les plus brefs délais tout Contenu Membre illégal si :
 
-* ce Contenu Membre est manifestement illégal ou contraire à la réglementation en vigueur ; ou
-* BlaBlaCar considère que celui-ci enfreint les présentes CGU.
+*   ce Contenu Membre est manifestement illégal ou contraire à la réglementation en vigueur ; ou
+*   BlaBlaCar considère que celui-ci enfreint les présentes CGU.
 
 Si tel est le cas, BlaBlaCar se réserve le droit de supprimer le Contenu Membre qui a été dûment signalé, d’une manière suffisamment détaillée et claire, et/ou de suspendre immédiatement le Compte signalé.
 
@@ -1993,8 +1993,8 @@ Les présentes CGU sont rédigées en français et soumises à la loi française
 
 Vous pouvez contester les décisions que nous sommes susceptibles de prendre concernant :
 
-* le Contenu Membre : par exemple, si nous avons supprimé, restreint la visibilité ou refusé de supprimer tout Contenu Membre que vous fournissez lorsque vous utilisez la Plateforme, ou
-* votre Compte : nous avons suspendu votre accès à la Plateforme,
+*   le Contenu Membre : par exemple, si nous avons supprimé, restreint la visibilité ou refusé de supprimer tout Contenu Membre que vous fournissez lorsque vous utilisez la Plateforme, ou
+*   votre Compte : nous avons suspendu votre accès à la Plateforme,
 
 si nous avons pris de telles décisions parce que le Contenu Membre est illégal ou incompatible avec les présentes CGU. La procédure de contestation est décrite [ici](https://support.blablacar.com/s/article/Comment-contester-une-suppression-de-contenu-ou-une-suspension-de-compte-1729197123027?language=fr).
 
@@ -2006,8 +2006,8 @@ Vous pouvez également soumettre une demande à un organisme de règlement des l
 
 Conformément aux articles du code de la consommation L.611-1 et suivant, il est prévu que pour tout litige de nature contractuelle n’ayant pu être résolu dans le cadre d’une réclamation préalablement introduite auprès de notre service clients, vous pouvez, en votre qualité de consommateur, recourir gratuitement à la médiation en contactant :
 
-* l’Association Nationale des Médiateurs (ANM) soit par courrier en écrivant au 62, rue Tiquetonne 75002 PARIS soit par e-mail en remplissant le formulaire de saisine en ligne à l’adresse suivante : [www.anm-conso.com](https://www.anm-conso.com/site/index.php)
-* plus spécifiquement pour un litige concernant un Trajet en Bus, la Médiation Tourisme Voyage (MTV) BP 80 303 75 823 Paris Cedex 17 (France). La plateforme pour saisir ce médiateur est accessible à partir du lien suivant : [https ://www.mtv.travel/saisir-le-mediateur/](https://www.mtv.travel/saisir-le-mediateur/)
+*   l’Association Nationale des Médiateurs (ANM) soit par courrier en écrivant au 62, rue Tiquetonne 75002 PARIS soit par e-mail en remplissant le formulaire de saisine en ligne à l’adresse suivante : [www.anm-conso.com](https://www.anm-conso.com/site/index.php)
+*   plus spécifiquement pour un litige concernant un Trajet en Bus, la Médiation Tourisme Voyage (MTV) BP 80 303 75 823 Paris Cedex 17 (France). La plateforme pour saisir ce médiateur est accessible à partir du lien suivant : [https ://www.mtv.travel/saisir-le-mediateur/](https://www.mtv.travel/saisir-le-mediateur/)
 
 Le site internet suivant [www.economie.gouv.fr/mediation-conso comporte](https://www.economie/) également toutes informations utiles en cas de litige transfrontalier.
 
