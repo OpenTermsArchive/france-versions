@@ -23,14 +23,14 @@ Vous blesser ou évoquer l'automutilation peut se révéler dangereux, non seule
 
   Par exemple, les comportements suivants (ou leur apologie) sont interdits \[avertissement relatif au contenu\] :
 
-* La glorification et/ou l'incitation à l'automutilation
-* L'incitation aux troubles du comportement alimentaire et le partage de contenu encourageant ces comportements, comme se revendiquer « pro-ana », ou partager votre régime alimentaire qui consiste à ne pas manger pendant trois jours, puis manger avec excès le 4e jour
-* Le partage de détails graphiques de lettres de suicide ou de tentatives de suicide
-* La consommation de drogues dures ou de substances inadaptées à la consommation par l'homme (ex. : capsules de lessive, javel)
-* L'abus de substances légales (ex. : médicaments sur ordonnance, gaz hilarants)
-* Les entailles et autres formes d'automutilation
-* La consommation d'alcool ou de toute autre substance qui entraîne une incapacité
-* La conduite dangereuse ou distraite, y compris l'utilisation d'un téléphone au volant ou la conduite sous influence
+*   La glorification et/ou l'incitation à l'automutilation
+*   L'incitation aux troubles du comportement alimentaire et le partage de contenu encourageant ces comportements, comme se revendiquer « pro-ana », ou partager votre régime alimentaire qui consiste à ne pas manger pendant trois jours, puis manger avec excès le 4e jour
+*   Le partage de détails graphiques de lettres de suicide ou de tentatives de suicide
+*   La consommation de drogues dures ou de substances inadaptées à la consommation par l'homme (ex. : capsules de lessive, javel)
+*   L'abus de substances légales (ex. : médicaments sur ordonnance, gaz hilarants)
+*   Les entailles et autres formes d'automutilation
+*   La consommation d'alcool ou de toute autre substance qui entraîne une incapacité
+*   La conduite dangereuse ou distraite, y compris l'utilisation d'un téléphone au volant ou la conduite sous influence
     
 
   
@@ -41,15 +41,15 @@ Si vous traversez une période difficile, ou si vous avez des raisons de croire 
 
 _Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
 
-* La vente d’activités susceptibles de causer un préjudice en vue d’un gain monétaire (comme les abonnements, les Bits, les dons, etc.) n’est pas autorisée. 
-    * Exemples de comportements interdits : prendre des shots d’alcool pour des abonnements ou faire le « défi de la cannelle » pour une quantité déterminée de Bits.
-* La consommation d’alcool dans les streams est autorisée à condition qu’elle ne soit pas excessive et qu’elle ne risque pas de nuire à la santé.
-    * Exemples de comportements autorisés : « J’ouvre cette bouteille de prosecco à 100 abonnés » ou « Stream arrosé ce soir à 50 nouveaux abonnés ».
-    * Exemples interdit : « Je descends cette bouteille de vodka à 300 abonnés » ou « Je prends un shot tous les 100 Bits ».
-* Conduire de manière dangereuse ou distraite, comme conduire son véhicule tout en interagissant avec le stream et quitter la route du regard ou retirer ses mains du véhicule en marche, n'est jamais acceptable sur Twitch. 
-    * Exemple autorisé : configurer votre appareil ou votre caméra de streaming alors que vous êtes garé dans un endroit sûr avant de prendre la route.
-    * Exemple autorisé : écouter des messages de chat par synthèse vocale et répondre verbalement à voix haute.
-    * Exemple interdit : lire des messages de chat ou toucher physiquement votre caméra ou votre appareil de streaming pendant de longues périodes ou fréquemment au volant.
+*   La vente d’activités susceptibles de causer un préjudice en vue d’un gain monétaire (comme les abonnements, les Bits, les dons, etc.) n’est pas autorisée. 
+    *   Exemples de comportements interdits : prendre des shots d’alcool pour des abonnements ou faire le « défi de la cannelle » pour une quantité déterminée de Bits.
+*   La consommation d’alcool dans les streams est autorisée à condition qu’elle ne soit pas excessive et qu’elle ne risque pas de nuire à la santé.
+    *   Exemples de comportements autorisés : « J’ouvre cette bouteille de prosecco à 100 abonnés » ou « Stream arrosé ce soir à 50 nouveaux abonnés ».
+    *   Exemples interdit : « Je descends cette bouteille de vodka à 300 abonnés » ou « Je prends un shot tous les 100 Bits ».
+*   Conduire de manière dangereuse ou distraite, comme conduire son véhicule tout en interagissant avec le stream et quitter la route du regard ou retirer ses mains du véhicule en marche, n'est jamais acceptable sur Twitch. 
+    *   Exemple autorisé : configurer votre appareil ou votre caméra de streaming alors que vous êtes garé dans un endroit sûr avant de prendre la route.
+    *   Exemple autorisé : écouter des messages de chat par synthèse vocale et répondre verbalement à voix haute.
+    *   Exemple interdit : lire des messages de chat ou toucher physiquement votre caméra ou votre appareil de streaming pendant de longues périodes ou fréquemment au volant.
 
 ### Violence et menaces
 
@@ -57,10 +57,10 @@ Les actes et menaces de violence vont à l'encontre du développement d'une comm
 
   Par exemple, les comportements suivants (ou leur apologie) sont interdits \[avertissement relatif au contenu\] :
 
-* Les tentatives ou menaces d’attaque physique ou de meurtre à l’encontre d’autres personnes
-* Les tentatives ou menaces de piratage, de divulgation des données personnelles, d’attaque DDoS ou de swatting
-* L’utilisation d’armes pour menacer, intimider, blesser physiquement ou tuer d’autres personnes
-* L'incitation à participer à des actes pouvant blesser autrui
+*   Les tentatives ou menaces d’attaque physique ou de meurtre à l’encontre d’autres personnes
+*   Les tentatives ou menaces de piratage, de divulgation des données personnelles, d’attaque DDoS ou de swatting
+*   L’utilisation d’armes pour menacer, intimider, blesser physiquement ou tuer d’autres personnes
+*   L'incitation à participer à des actes pouvant blesser autrui
 
 Dans les situations où un utilisateur perd le contrôle de son stream en raison d’une blessure grave, d’une urgence médicale, d’une intervention policière ou d’une violence grave dont il aurait fait l’objet, nous suspendrons temporairement la chaîne et retirerons le contenu associé.
 
@@ -74,7 +74,7 @@ Le terrorisme et l'extrémisme incitent à la violence et à la diffusion de mes
 
   Par exemple, vous ne pouvez pas \[avertissement relatif au contenu\] : 
 
-* Afficher de la propagande terroriste ou extrémiste (ou partager des liens vers ce type de contenu), y compris des images ou des séquences graphiques de violence terroriste ou extrémiste, même dans le but de dénoncer un tel contenu
+*   Afficher de la propagande terroriste ou extrémiste (ou partager des liens vers ce type de contenu), y compris des images ou des séquences graphiques de violence terroriste ou extrémiste, même dans le but de dénoncer un tel contenu
 
 ### Violence sexuelle chez les adultes
 
@@ -82,9 +82,9 @@ Les actes de violence sexuelle sont des infractions graves. Les contenus et acti
 
   Par exemple, les comportements suivants (ou leur apologie) sont interdits \[avertissement relatif au contenu\] :
 
-* Les actes sexuels non consentis
-* Les actes impliquant d'obliger une personne à commettre un acte sexuel en la menaçant
-* Les attouchements intimes non consentis
+*   Les actes sexuels non consentis
+*   Les actes impliquant d'obliger une personne à commettre un acte sexuel en la menaçant
+*   Les attouchements intimes non consentis
 
 ### Protection des mineurs
 
@@ -92,22 +92,22 @@ Les actes de violence sexuelle sont des infractions graves. Les contenus et acti
 
   Par exemple, les comportements suivants (ou leur apologie) sont interdits \[avertissement relatif au contenu\] :
 
-* Le contenu à caractère sexuel explicite et les images sexualisées de mineurs
-* Le partage de liens vers des sites tiers qui comportent du contenu interdit par cette politique
-* Le contenu qui encourage, promeut, prescrit ou admet la participation à l'exploitation sexuelle ou à la sexualisation des mineurs
-* Le contenu qui constitue ou facilite des interactions inappropriées avec des mineurs, dont le grooming, l'exposition délibérée à des propos ou du contenu à caractère sexuel explicite, et la participation à des conversations à caractère sexuel par message
-* Le contenu qui tente d'exploiter des mineurs en leur soutirant de l'argent, des faveurs ou des images intimes, sous la menace de révéler des images ou des informations privées
-* Le contenu représentant la nudité de mineurs
-* L'identification de victimes présumées de matériel pédopornographie par nom ou image
+*   Le contenu à caractère sexuel explicite et les images sexualisées de mineurs
+*   Le partage de liens vers des sites tiers qui comportent du contenu interdit par cette politique
+*   Le contenu qui encourage, promeut, prescrit ou admet la participation à l'exploitation sexuelle ou à la sexualisation des mineurs
+*   Le contenu qui constitue ou facilite des interactions inappropriées avec des mineurs, dont le grooming, l'exposition délibérée à des propos ou du contenu à caractère sexuel explicite, et la participation à des conversations à caractère sexuel par message
+*   Le contenu qui tente d'exploiter des mineurs en leur soutirant de l'argent, des faveurs ou des images intimes, sous la menace de révéler des images ou des informations privées
+*   Le contenu représentant la nudité de mineurs
+*   L'identification de victimes présumées de matériel pédopornographie par nom ou image
 
   Notes et clarifications concernant les sanctions \[avertissement relatif au contenu\] :
 
 _Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
 
-* Il est interdit de représenter des personnages d’anime fictifs d’apparence enfantine (« lolis »/« shotas ») dans un cadre sexuel, quel qu’il soit. Cela s’applique aux VTubers et dans les jeux où des avatars sont mis en ligne, tels que VRChat, avec des avatars de type enfantin, même si le streamer et l’opérateur de l’avatar sont âgés de plus de 18 ans. 
-* Tout humour à caractère sexuel à l’égard de mineurs entraînera une action immédiate sur votre compte.
-* Déclarer que vous avez moins de 13 ans sur Twitch, même si c’est dans un but humoristique, entraînera la désactivation permanente de votre compte conformément aux lois en vigueur.
-    * Exemples de comportements interdits : écrire dans le chat « haHAA j’ai 12 ans au fait » ou « j’utilise le compte de mon père parce que j’ai 11 ans ».
+*   Il est interdit de représenter des personnages d’anime fictifs d’apparence enfantine (« lolis »/« shotas ») dans un cadre sexuel, quel qu’il soit. Cela s’applique aux VTubers et dans les jeux où des avatars sont mis en ligne, tels que VRChat, avec des avatars de type enfantin, même si le streamer et l’opérateur de l’avatar sont âgés de plus de 18 ans. 
+*   Tout humour à caractère sexuel à l’égard de mineurs entraînera une action immédiate sur votre compte.
+*   Déclarer que vous avez moins de 13 ans sur Twitch, même si c’est dans un but humoristique, entraînera la désactivation permanente de votre compte conformément aux lois en vigueur.
+    *   Exemples de comportements interdits : écrire dans le chat « haHAA j’ai 12 ans au fait » ou « j’utilise le compte de mon père parce que j’ai 11 ans ».
 
 ### Comportements en dehors de nos services
 
@@ -115,23 +115,23 @@ Pour que les streamers et leurs viewers parviennent à créer des communautés d
 
   Par exemple, nous n'acceptons pas les individus ou les organisations responsables des actions suivantes en dehors de Twitch \[avertissement relatif au contenu\] :
 
-* Violence entrainant la mort et extrémisme
-* Activités ou recrutement terroristes
-* Menaces explicites et/ou crédibles de violence de masse (menaces à l’encontre d’un groupe de personnes, d’un événement ou d’un endroit où des personnes se rassemblent)
-* L'adhésion, la gestion ou l'apologie d'un groupe de haine notoire
-* Perpétuation ou complicité active d’actes sexuels non consentants et/ou d’agressions sexuelles
-* L'exploitation sexuelle de mineurs, comme le pédopiégeage (grooming) ou la sollicitation/distribution de matériel pédopornographique
-* Actions mettant directement et explicitement en danger la sécurité physique de membres de la communauté Twitch
-* Menaces explicites et/ou crédibles à l’encontre de Twitch, dont les membres de l’équipe
-* Agents de désinformation préjudiciable ou propagateurs récurrents de désinformation
-* Doxxing (divulgation des données personnelles) : partager des informations personnelles identifiables d'une autre personne avec une intention malveillante, par exemple en révélant les informations suivantes :
-    * Adresse postale
-    * Adresse du domicile
-    * Adresse du lieu de travail ou de l'établissement scolaire 
-    * Emplacement physique
-    * Informations financières sensibles 
-    * Identifications gouvernementales
-* Swatting : signaler délibérément de fausses informations aux services d'urgence pour que la police s'introduise chez une autre personne
+*   Violence entrainant la mort et extrémisme
+*   Activités ou recrutement terroristes
+*   Menaces explicites et/ou crédibles de violence de masse (menaces à l’encontre d’un groupe de personnes, d’un événement ou d’un endroit où des personnes se rassemblent)
+*   L'adhésion, la gestion ou l'apologie d'un groupe de haine notoire
+*   Perpétuation ou complicité active d’actes sexuels non consentants et/ou d’agressions sexuelles
+*   L'exploitation sexuelle de mineurs, comme le pédopiégeage (grooming) ou la sollicitation/distribution de matériel pédopornographique
+*   Actions mettant directement et explicitement en danger la sécurité physique de membres de la communauté Twitch
+*   Menaces explicites et/ou crédibles à l’encontre de Twitch, dont les membres de l’équipe
+*   Agents de désinformation préjudiciable ou propagateurs récurrents de désinformation
+*   Doxxing (divulgation des données personnelles) : partager des informations personnelles identifiables d'une autre personne avec une intention malveillante, par exemple en révélant les informations suivantes :
+    *   Adresse postale
+    *   Adresse du domicile
+    *   Adresse du lieu de travail ou de l'établissement scolaire 
+    *   Emplacement physique
+    *   Informations financières sensibles 
+    *   Identifications gouvernementales
+*   Swatting : signaler délibérément de fausses informations aux services d'urgence pour que la police s'introduise chez une autre personne
 
 Les utilisateurs peuvent contacter l'[équipe d'enquêtes externe de Twitch](mailto:OSIT@twitch.tv) afin de lui signaler les comportements abusifs énumérés ci-dessus et survenus en dehors du site. Ces signalements sont envoyés directement à notre équipe mondiale en charge des enquêtes relatives aux infractions graves signalées en dehors du service et sont traités en toute confidentialité.  
 
@@ -173,19 +173,19 @@ Partager les données sensibles d'une autre personne sans sa permission peut êt
 
   Par exemple, vous ne pouvez pas :
 
-* Partager des informations permettant d'identifier une personne (ex. : chercher l'adresse d'un streamer et la partager dans le chat) 
-* Partager des profils de réseaux sociaux restreints ou privés ou toute information provenant de ces profils
-* Partager du contenu qui porte atteinte aux attentes raisonnables d’une autre personne en matière de vie privée (ex. : streamer depuis un espace privé sans autorisation)
-* Streamer une intrusion non désirée dans une visioconférence privée
+*   Partager des informations permettant d'identifier une personne (ex. : chercher l'adresse d'un streamer et la partager dans le chat) 
+*   Partager des profils de réseaux sociaux restreints ou privés ou toute information provenant de ces profils
+*   Partager du contenu qui porte atteinte aux attentes raisonnables d’une autre personne en matière de vie privée (ex. : streamer depuis un espace privé sans autorisation)
+*   Streamer une intrusion non désirée dans une visioconférence privée
     
 
   Notes et clarifications concernant les sanctions :
 
 _Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
 
-* Demander ou solliciter des informations personnelles susceptibles de porter atteinte à la sécurité d'un utilisateur, physiquement, financièrement ou autre, si le partage n'est pas autorisé sur le chat ou en streaming.
-    * Exemple autorisé : un streamer demande à un viewer sur le chat « C'est quoi ton prénom ? » ou « De quelle région tu viens ? » si la question est pertinente pour la conversation.
-    * Exemple interdit : un streamer demande à son chat : « Partagez vos coordonnées bancaires pour un cadeau ! »
+*   Demander ou solliciter des informations personnelles susceptibles de porter atteinte à la sécurité d'un utilisateur, physiquement, financièrement ou autre, si le partage n'est pas autorisé sur le chat ou en streaming.
+    *   Exemple autorisé : un streamer demande à un viewer sur le chat « C'est quoi ton prénom ? » ou « De quelle région tu viens ? » si la question est pertinente pour la conversation.
+    *   Exemple interdit : un streamer demande à son chat : « Partagez vos coordonnées bancaires pour un cadeau ! »
 
 Courtoisie et respect
 ---------------------
@@ -198,78 +198,78 @@ Nous définissons les « groupes protégés » comme un sous-ensemble de la po
 
   Par exemple, quelle que soit votre intention, vous ne pouvez pas \[avertissement relatif au contenu\] :
 
-* Promouvoir, glorifier, menacer ou prôner la violence, les dommages corporels ou la mort d’une ou de plusieurs personnes ou groupes sur la base d’une caractéristique protégée (y compris l’âge)
-    * Promouvoir ou inciter à la violence à l’encontre d’un groupe protégé (ex. : « Tuez tous les \[groupe protégé\] »)
-    * Promouvoir ou exprimer le désir qu’un groupe protégé soit infecté et/ou meure d’une maladie grave
-    * Inciter au suicide en proférant une insulte haineuse (ex. : « kys (kill yourself) \[insulte haineuse\] »)
-    * Modifier le contenu d’un jeu vidéo afin de promouvoir la violence contre un groupe sur la base d’une caractéristique protégée
-    * Glorifier des crimes haineux spécifiques, des actes de violence de masse et/ou les auteurs de tels actes
-    * Suggérer qu’une victime d’un crime haineux mérite d’être blessée
-* Utiliser des insultes haineuses, non ciblées ou dirigées contre une autre personne. Nous autorisons l'utilisation de certains mots ou termes, qui pourraient autrement enfreindre notre politique, de manière valorisante ou affectueuse, lorsque cette intention est claire. Nous faisons également une exception pour les insultes dans la musique (y compris, si l'utilisateur chante), tant que la chanson elle-même n'est pas haineuse et que les insultes ne sont pas associées à d'autres contenus discriminants ou dénigrants. 
-    * Envoyer à répétition une insulte haineuse dans le chat
-    * Proférer dans le chat une insulte haineuse ciblée et basée sur une caractéristique protégée
-    * Inclure une insulte haineuse dans le contenu du profil
-    * Utiliser une insulte haineuse envers un autre joueur pendant un stream
-* Publier, mettre en ligne ou partager des images ou des symboles haineux, y compris des symboles de groupes haineux établis et des images liées aux nazis.
-    * Streamer avec un drapeau des États confédérés d'Amérique en arrière-plan (compte tenu de son association historique avec l'esclavage et les groupes suprémacistes blancs aux États-Unis, l'affichage de ce symbole dans des contextes non éducatifs va à l'encontre de l'engagement de Twitch à offrir un service inclusif et accueillant pour tous les utilisateurs)
-    * Porter un t-shirt avec la Croix fléchée
-    * Publier une croix gammée ou des symboles SS dans le chat
-* Créer des associations de discours, d'images ou d'émoticônes qui déshumanisent ou perpétuent des stéréotypes et/ou des mèmes négatifs.
-    * Se peindre/maquiller le visage en noir/jaune/brun ou rouge dans le but de représenter la couleur de peau d'une personne
-    * Le contenu perpétuant un stéréotype négatif reconnu sur un groupe protégé en tant que cupide ou stupide
-    * Le contenu perpétuant des associations négatives entre un animal et un groupe protégé, ou comparant un groupe protégé à des animaux perçus comme inférieurs ou impurs
-    * Le contenu comparant un groupe protégé à des insectes, des parasites, des ordures ou des maladies/virus
-    * Le contenu suggérant que les membres d’un groupe protégé sont inhumains, impurs ou des sous-hommes
-    * Le contenu insinuant que les personnes présentant certaines caractéristiques protégées sont des criminels ou des terroristes
-    * La référence à un groupe protégé en tant que propriété ou chose
-    * La référence intentionnelle à une personne en utilisant un pronom ou une forme d’adresse qui ne reflète pas correctement le genre auquel elle s’identifie (ex. : répéter des pronoms erronés après avoir été prié d'arrêter)
-* Créer du contenu qui exprime une infériorité basée sur une caractéristique protégée (ex. : déclarations concernant des déficiences physiques, mentales et morales). 
-    * Le soutien ou la promotion de théories génétiques ou anthropologiques obsolètes et discriminatoires, y compris l’eugénisme
-    * Les allégations de sanction divine pour hostilité envers un groupe protégé 
-    * Les déclarations négatives relatives à la santé mentale, par exemple « \[caractéristique protégée\] est une forme de folie »
-    * Les déclarations négatives relatives à l’hygiène, par exemple « Les \[groupe protégé\] sentent mauvais »
-    * Les expressions mettant en doute la valeur d’un groupe, par exemple « Les \[groupe protégé\] sont inutiles »
-    * Les déclarations suggérant l’infériorité d’un groupe protégé, par exemple « Les \[groupe protégé\] sont tous simplement les pires au jeu »
-    * Les déclarations remettant en question l’intégrité morale d’un groupe protégé, y compris les déclarations suggérant que les membres d’un groupe protégé sont tous des tricheurs
-    * Le contenu qui implique qu’une autre culture contemporaine est primitive 
-* Appeler à l'assujettissement, à la ségrégation ou à l'exclusion, notamment l'exclusion/la ségrégation politique, économique et sociale sur la base d'une caractéristique protégée (y compris l'âge). Nous autorisons toutefois les discussions sur certains sujets tels que la politique d'immigration, le droit de vote des non-ressortissants et la participation sportive professionnelle tant que le contenu n'est pas directement dénigrant sur la base d'une caractéristique protégée.
-    * Le soutien à la privation du droit à la participation politique, par exemple « Les \[groupe protégé\] ne devraient pas être autorisés à voter »
-    * Le soutien à la limitation de la participation sur le lieu de travail, par exemple « Nous ne devrions pas embaucher les \[groupe protégé\] »
-    * Les appels à l’exclusion des services publics, par exemple « Nous ne devrions pas dépenser l’argent des contribuables pour éduquer les \[groupe protégé\] »
-    * Les appels à l’exclusion des services en ligne sur la base d’une caractéristique protégée, notamment les suggestions selon lesquelles un groupe protégé n’a pas sa place sur Twitch
-    * Les appels au contrôle ou à la domination d’un groupe de personnes, notamment la glorification d’une période car un groupe protégé a été assujetti pendant cette période, par exemple « L’esclavage a fait les jours de gloire de l’Amérique »
-* Encourager ou soutenir la domination politique ou économique d'un groupe ethnique ou religieux, y compris soutenir les idéologies suprémacistes/nationalistes blanches. Cela n'inclut pas le soutien aux mouvements d'autodétermination.
-    * Le soutien à l’hégémonie d’un groupe sur la base d’une caractéristique protégée
-    * Les appels à l’augmentation des taux de natalité ou à la restriction de l’immigration pour préserver le pouvoir économique, politique et social d’un groupe 
-* Les expressions de mépris, de haine ou de dégoût basées sur une caractéristique protégée.
-    * Les déclarations selon lesquelles un groupe protégé ne devrait pas exister
-    * Les déclarations rejetant un groupe entier, par exemple « Je n’aime pas les \[groupe protégé\] »
-    * Les déclarations selon lesquelles une caractéristique protégée est répugnante ou dégoûtante, ou provoque la maladie, par exemple « Les \[groupe protégé\] me donnent envie de vomir »
-* Vous moquer de crimes haineux bien documentés ou de leurs victimes, nier leur existence, ou nier les actes documentés de meurtre de masse/génocide contre un groupe protégé.
-    * Le dessin moquant la victime d’un crime haineux
-    * Le déni de l’existence d’un génocide, y compris l’Holocauste
-    * La suggestion qu’un acte documenté de meurtre de masse motivé par une caractéristique protégée était un canular
-* Attribuer une responsabilité non fondée à un groupe protégé ou susciter la peur d’un groupe protégé en ce qui concerne la santé et la sécurité.
-    * Les théories du complot selon lesquelles des personnes ou des groupes sont mauvais, corrompus ou malveillants sur la base d’une caractéristique protégée
-    * Les allégations selon lesquelles un groupe protégé a créé ou propage intentionnellement une maladie
-    * Les déclarations suggérant qu’une caractéristique protégée rend un individu plus susceptible d’être un criminel et/ou un terroriste
-* Encourager le recours à la thérapie de réorientation sexuelle ou y adhérer de manière générale.
-* Soutenir, promouvoir ou appartenir à un groupe haineux, y compris en partageant le contenu de propagande d’un groupe haineux.
-* Créer des comptes dédiés à la haine, par exemple en utilisant des identifiants insultants.
+*   Promouvoir, glorifier, menacer ou prôner la violence, les dommages corporels ou la mort d’une ou de plusieurs personnes ou groupes sur la base d’une caractéristique protégée (y compris l’âge)
+    *   Promouvoir ou inciter à la violence à l’encontre d’un groupe protégé (ex. : « Tuez tous les \[groupe protégé\] »)
+    *   Promouvoir ou exprimer le désir qu’un groupe protégé soit infecté et/ou meure d’une maladie grave
+    *   Inciter au suicide en proférant une insulte haineuse (ex. : « kys (kill yourself) \[insulte haineuse\] »)
+    *   Modifier le contenu d’un jeu vidéo afin de promouvoir la violence contre un groupe sur la base d’une caractéristique protégée
+    *   Glorifier des crimes haineux spécifiques, des actes de violence de masse et/ou les auteurs de tels actes
+    *   Suggérer qu’une victime d’un crime haineux mérite d’être blessée
+*   Utiliser des insultes haineuses, non ciblées ou dirigées contre une autre personne. Nous autorisons l'utilisation de certains mots ou termes, qui pourraient autrement enfreindre notre politique, de manière valorisante ou affectueuse, lorsque cette intention est claire. Nous faisons également une exception pour les insultes dans la musique (y compris, si l'utilisateur chante), tant que la chanson elle-même n'est pas haineuse et que les insultes ne sont pas associées à d'autres contenus discriminants ou dénigrants. 
+    *   Envoyer à répétition une insulte haineuse dans le chat
+    *   Proférer dans le chat une insulte haineuse ciblée et basée sur une caractéristique protégée
+    *   Inclure une insulte haineuse dans le contenu du profil
+    *   Utiliser une insulte haineuse envers un autre joueur pendant un stream
+*   Publier, mettre en ligne ou partager des images ou des symboles haineux, y compris des symboles de groupes haineux établis et des images liées aux nazis.
+    *   Streamer avec un drapeau des États confédérés d'Amérique en arrière-plan (compte tenu de son association historique avec l'esclavage et les groupes suprémacistes blancs aux États-Unis, l'affichage de ce symbole dans des contextes non éducatifs va à l'encontre de l'engagement de Twitch à offrir un service inclusif et accueillant pour tous les utilisateurs)
+    *   Porter un t-shirt avec la Croix fléchée
+    *   Publier une croix gammée ou des symboles SS dans le chat
+*   Créer des associations de discours, d'images ou d'émoticônes qui déshumanisent ou perpétuent des stéréotypes et/ou des mèmes négatifs.
+    *   Se peindre/maquiller le visage en noir/jaune/brun ou rouge dans le but de représenter la couleur de peau d'une personne
+    *   Le contenu perpétuant un stéréotype négatif reconnu sur un groupe protégé en tant que cupide ou stupide
+    *   Le contenu perpétuant des associations négatives entre un animal et un groupe protégé, ou comparant un groupe protégé à des animaux perçus comme inférieurs ou impurs
+    *   Le contenu comparant un groupe protégé à des insectes, des parasites, des ordures ou des maladies/virus
+    *   Le contenu suggérant que les membres d’un groupe protégé sont inhumains, impurs ou des sous-hommes
+    *   Le contenu insinuant que les personnes présentant certaines caractéristiques protégées sont des criminels ou des terroristes
+    *   La référence à un groupe protégé en tant que propriété ou chose
+    *   La référence intentionnelle à une personne en utilisant un pronom ou une forme d’adresse qui ne reflète pas correctement le genre auquel elle s’identifie (ex. : répéter des pronoms erronés après avoir été prié d'arrêter)
+*   Créer du contenu qui exprime une infériorité basée sur une caractéristique protégée (ex. : déclarations concernant des déficiences physiques, mentales et morales). 
+    *   Le soutien ou la promotion de théories génétiques ou anthropologiques obsolètes et discriminatoires, y compris l’eugénisme
+    *   Les allégations de sanction divine pour hostilité envers un groupe protégé 
+    *   Les déclarations négatives relatives à la santé mentale, par exemple « \[caractéristique protégée\] est une forme de folie »
+    *   Les déclarations négatives relatives à l’hygiène, par exemple « Les \[groupe protégé\] sentent mauvais »
+    *   Les expressions mettant en doute la valeur d’un groupe, par exemple « Les \[groupe protégé\] sont inutiles »
+    *   Les déclarations suggérant l’infériorité d’un groupe protégé, par exemple « Les \[groupe protégé\] sont tous simplement les pires au jeu »
+    *   Les déclarations remettant en question l’intégrité morale d’un groupe protégé, y compris les déclarations suggérant que les membres d’un groupe protégé sont tous des tricheurs
+    *   Le contenu qui implique qu’une autre culture contemporaine est primitive 
+*   Appeler à l'assujettissement, à la ségrégation ou à l'exclusion, notamment l'exclusion/la ségrégation politique, économique et sociale sur la base d'une caractéristique protégée (y compris l'âge). Nous autorisons toutefois les discussions sur certains sujets tels que la politique d'immigration, le droit de vote des non-ressortissants et la participation sportive professionnelle tant que le contenu n'est pas directement dénigrant sur la base d'une caractéristique protégée.
+    *   Le soutien à la privation du droit à la participation politique, par exemple « Les \[groupe protégé\] ne devraient pas être autorisés à voter »
+    *   Le soutien à la limitation de la participation sur le lieu de travail, par exemple « Nous ne devrions pas embaucher les \[groupe protégé\] »
+    *   Les appels à l’exclusion des services publics, par exemple « Nous ne devrions pas dépenser l’argent des contribuables pour éduquer les \[groupe protégé\] »
+    *   Les appels à l’exclusion des services en ligne sur la base d’une caractéristique protégée, notamment les suggestions selon lesquelles un groupe protégé n’a pas sa place sur Twitch
+    *   Les appels au contrôle ou à la domination d’un groupe de personnes, notamment la glorification d’une période car un groupe protégé a été assujetti pendant cette période, par exemple « L’esclavage a fait les jours de gloire de l’Amérique »
+*   Encourager ou soutenir la domination politique ou économique d'un groupe ethnique ou religieux, y compris soutenir les idéologies suprémacistes/nationalistes blanches. Cela n'inclut pas le soutien aux mouvements d'autodétermination.
+    *   Le soutien à l’hégémonie d’un groupe sur la base d’une caractéristique protégée
+    *   Les appels à l’augmentation des taux de natalité ou à la restriction de l’immigration pour préserver le pouvoir économique, politique et social d’un groupe 
+*   Les expressions de mépris, de haine ou de dégoût basées sur une caractéristique protégée.
+    *   Les déclarations selon lesquelles un groupe protégé ne devrait pas exister
+    *   Les déclarations rejetant un groupe entier, par exemple « Je n’aime pas les \[groupe protégé\] »
+    *   Les déclarations selon lesquelles une caractéristique protégée est répugnante ou dégoûtante, ou provoque la maladie, par exemple « Les \[groupe protégé\] me donnent envie de vomir »
+*   Vous moquer de crimes haineux bien documentés ou de leurs victimes, nier leur existence, ou nier les actes documentés de meurtre de masse/génocide contre un groupe protégé.
+    *   Le dessin moquant la victime d’un crime haineux
+    *   Le déni de l’existence d’un génocide, y compris l’Holocauste
+    *   La suggestion qu’un acte documenté de meurtre de masse motivé par une caractéristique protégée était un canular
+*   Attribuer une responsabilité non fondée à un groupe protégé ou susciter la peur d’un groupe protégé en ce qui concerne la santé et la sécurité.
+    *   Les théories du complot selon lesquelles des personnes ou des groupes sont mauvais, corrompus ou malveillants sur la base d’une caractéristique protégée
+    *   Les allégations selon lesquelles un groupe protégé a créé ou propage intentionnellement une maladie
+    *   Les déclarations suggérant qu’une caractéristique protégée rend un individu plus susceptible d’être un criminel et/ou un terroriste
+*   Encourager le recours à la thérapie de réorientation sexuelle ou y adhérer de manière générale.
+*   Soutenir, promouvoir ou appartenir à un groupe haineux, y compris en partageant le contenu de propagande d’un groupe haineux.
+*   Créer des comptes dédiés à la haine, par exemple en utilisant des identifiants insultants.
 
   Notes et clarifications concernant les sanctions \[avertissement relatif au contenu\] :
 
 _Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
 
-* Nous vérifions si l’utilisateur signalé appartient au groupe protégé ciblé afin de déterminer si une infraction a été commise.
-    * Nous tenons compte du contexte lorsque nous appliquons des sanctions. L’autodérision utilisée de manière positive ou sur le ton de la plaisanterie peut être traitée différemment de la dérision ciblant quelqu’un d’autre.
-    * L’injure raciale commençant par un « N » n’est jamais autorisée, quelles que soient les circonstances.
-* Évoquer des insultes en contexte pour les condamner est autorisé.
-    * Exemples de comportements autorisés : parler d’une expérience où une insulte a été utilisée contre vous ou que vous avez entendue (par exemple, « J’étais au supermarché et j’ai entendu quelqu’un crier \[insulte\] » ou « J’ai été traité de \[insulte\] au travail par un collègue ».
-* Nous interdisons l'utilisation de certains termes qui ne sont pas forcément nocifs ou insultants en eux-mêmes, mais qui peuvent être utilisés comme injures ou pour dénigrer les autres dans certains contextes. À l'instar des autres termes qui peuvent être utilisés pour désigner un groupe protégé, nous traitons « sionistes » comme un terme désignant des Juifs ou des Israéliens si le mot est utilisé dans un contexte visant à promouvoir le mal ou la violence, ou lorsqu'il est utilisé pour faire des comparaisons déshumanisantes ou perpétuer des stéréotypes antisémites. Les commentaires concernant le sionisme qui concernent le mouvement politique, y compris les critiques, ne constituent pas une infraction à notre politique en matière de comportement haineux. Les commentaires appelant à la violence contre le sionisme en tant que mouvement politique, ou ceux qui enfreindraient nos politiques, ne sont pas autorisés.
+*   Nous vérifions si l’utilisateur signalé appartient au groupe protégé ciblé afin de déterminer si une infraction a été commise.
+    *   Nous tenons compte du contexte lorsque nous appliquons des sanctions. L’autodérision utilisée de manière positive ou sur le ton de la plaisanterie peut être traitée différemment de la dérision ciblant quelqu’un d’autre.
+    *   L’injure raciale commençant par un « N » n’est jamais autorisée, quelles que soient les circonstances.
+*   Évoquer des insultes en contexte pour les condamner est autorisé.
+    *   Exemples de comportements autorisés : parler d’une expérience où une insulte a été utilisée contre vous ou que vous avez entendue (par exemple, « J’étais au supermarché et j’ai entendu quelqu’un crier \[insulte\] » ou « J’ai été traité de \[insulte\] au travail par un collègue ».
+*   Nous interdisons l'utilisation de certains termes qui ne sont pas forcément nocifs ou insultants en eux-mêmes, mais qui peuvent être utilisés comme injures ou pour dénigrer les autres dans certains contextes. À l'instar des autres termes qui peuvent être utilisés pour désigner un groupe protégé, nous traitons « sionistes » comme un terme désignant des Juifs ou des Israéliens si le mot est utilisé dans un contexte visant à promouvoir le mal ou la violence, ou lorsqu'il est utilisé pour faire des comparaisons déshumanisantes ou perpétuer des stéréotypes antisémites. Les commentaires concernant le sionisme qui concernent le mouvement politique, y compris les critiques, ne constituent pas une infraction à notre politique en matière de comportement haineux. Les commentaires appelant à la violence contre le sionisme en tant que mouvement politique, ou ceux qui enfreindraient nos politiques, ne sont pas autorisés.
     
-    * Exemple autorisé : les colons sionistes continuent d'empiéter sur les frontières palestiniennes.
-    * Exemple interdit : \[nom d'animal\] de sioniste.
+    *   Exemple autorisé : les colons sionistes continuent d'empiéter sur les frontières palestiniennes.
+    *   Exemple interdit : \[nom d'animal\] de sioniste.
 
 ### Harcèlement
 
@@ -279,29 +279,29 @@ Nous attendons des streamers qu'ils prennent les mesures nécessaires pour atté
 
   Par exemple, vous ne pouvez pas \[avertissement relatif au contenu\] :
 
-* Souhaiter que quelqu’un souffre ou meure
-    * Ordonner à quelqu’un de se blesser grièvement ou de se suicider
-    * Dire que quelqu’un mérite de contracter une maladie mortelle ou grave
-* Glorifier, soutenir ou exprimer son approbation envers des événements traumatiques passés ou présents d’un individu
-    * Dire à la victime d’un crime violent ou à ses proches qu’elle mérite de souffrir (si cela est basé sur une caractéristique protégée, l’incident sera considéré comme un comportement haineux)
-    * Encourager une personne suicidaire à se suicider
-* Proférer des menaces physiques implicites contre autrui (notez que les menaces explicites de violence sont traitées en vertu de notre politique relative à la violence et aux menaces)
-* Prendre autrui pour cible avec des attaques personnelles graves ou répétées
-    * Envoyer de façon répétée des insultes personnelles à un diffuseur après avoir été banni temporairement de la chaîne
-    * Regarder les chaînes d’autres diffuseurs pendant votre stream et les insulter quant à leur intelligence ou leur apparence
-* Partager des images modifiées ou artistiques négatives pour insulter ou dégrader quelqu’un
-    * Créer des vidéos « deepfake » pour insulter ou dégrader quelqu’un
-    * Dessiner des représentations d’une personne pour l’attaquer ou se moquer d’elle
-* Inciter les spectateurs à cibler une personne avec des insultes, que cette cible soit sur Twitch ou ailleurs
-    * Organiser un raid hostile ou y participer
-    * Ouvrir la chaîne d’un utilisateur pendant un stream et l’attaquer personnellement
-* Établir un contact mal intentionné avec des entreprises ou des individus légitimes
-    * Appeler des services client de manière répétée seulement pour raccrocher ou appeler des restaurants pour passer de fausses commandes
-* Utiliser de façon délibérée et non consensuelle le stream d’une autre personne pour gagner un avantage compétitif dans un jeu multijoueur et perturber sa diffusion
-* Suivre à la trace quelqu’un à des fins de harcèlement ou ne pas respecter l’espace physique qu’une personne a délimité
-    * Diffuser une autre personne qui n’a pas donné son consentement
-    * Diffuser dans un endroit où il est interdit de filmer
-* Créer des comptes dédiés au harcèlement (par exemple, par le biais d’identifiants insultants)
+*   Souhaiter que quelqu’un souffre ou meure
+    *   Ordonner à quelqu’un de se blesser grièvement ou de se suicider
+    *   Dire que quelqu’un mérite de contracter une maladie mortelle ou grave
+*   Glorifier, soutenir ou exprimer son approbation envers des événements traumatiques passés ou présents d’un individu
+    *   Dire à la victime d’un crime violent ou à ses proches qu’elle mérite de souffrir (si cela est basé sur une caractéristique protégée, l’incident sera considéré comme un comportement haineux)
+    *   Encourager une personne suicidaire à se suicider
+*   Proférer des menaces physiques implicites contre autrui (notez que les menaces explicites de violence sont traitées en vertu de notre politique relative à la violence et aux menaces)
+*   Prendre autrui pour cible avec des attaques personnelles graves ou répétées
+    *   Envoyer de façon répétée des insultes personnelles à un diffuseur après avoir été banni temporairement de la chaîne
+    *   Regarder les chaînes d’autres diffuseurs pendant votre stream et les insulter quant à leur intelligence ou leur apparence
+*   Partager des images modifiées ou artistiques négatives pour insulter ou dégrader quelqu’un
+    *   Créer des vidéos « deepfake » pour insulter ou dégrader quelqu’un
+    *   Dessiner des représentations d’une personne pour l’attaquer ou se moquer d’elle
+*   Inciter les spectateurs à cibler une personne avec des insultes, que cette cible soit sur Twitch ou ailleurs
+    *   Organiser un raid hostile ou y participer
+    *   Ouvrir la chaîne d’un utilisateur pendant un stream et l’attaquer personnellement
+*   Établir un contact mal intentionné avec des entreprises ou des individus légitimes
+    *   Appeler des services client de manière répétée seulement pour raccrocher ou appeler des restaurants pour passer de fausses commandes
+*   Utiliser de façon délibérée et non consensuelle le stream d’une autre personne pour gagner un avantage compétitif dans un jeu multijoueur et perturber sa diffusion
+*   Suivre à la trace quelqu’un à des fins de harcèlement ou ne pas respecter l’espace physique qu’une personne a délimité
+    *   Diffuser une autre personne qui n’a pas donné son consentement
+    *   Diffuser dans un endroit où il est interdit de filmer
+*   Créer des comptes dédiés au harcèlement (par exemple, par le biais d’identifiants insultants)
 
 Les streamers doivent toujours penser aux conséquences de leurs propos et de leurs actes sur leur audience ; une attention non désirée peut encourager d'autres personnes à pousser ce comportement jusqu'à l'abus. Par exemple, diffuser d'autres streams Twitch en insultant ces utilisateurs incite souvent les spectateurs à faire de même, et peut donc mener à la suspension de votre compte.  
 
@@ -313,39 +313,39 @@ Twitch s’oppose fermement au harcèlement sexuel. Le harcèlement sexuel n'est
 
   Par exemple, les comportements suivants sont considérés comme du harcèlement sexuel et sont interdits sur Twitch \[avertissement relatif au contenu\] :
 
-* Faire des avances sexuelles indésirées envers une autre personne
-    * Envoyer des chuchotements à une personne pour complimenter son apparence après avoir été prié·e d’arrêter  
-    * Les envois de messages de chat à un autre utilisateur en les qualifiant de « sexy » après avoir été banni temporairement pour un comportement similaire
-    * Demander à une personne d'exposer les parties non sexuelles de son corps, telles que ses pieds, après avoir reçu un avertissement dans le chat
-    * Continuer à poser des questions sur les expériences ou les antécédents sexuels d'une personne après avoir été informé·e que c'était déplacé
-    * Envoyer des photos ou vidéos de nus à une autre personne
-    * Diriger autrui vers du contenu à caractère sexuel explicite
-* Les déclarations d’objectivation non sollicitées concernant les parties du corps ou les pratiques sexuelles d’une autre personne
-    * Faire des déclarations à caractère sexuel sur les seins, les fesses ou les organes génitaux d’une autre personne
-    * Commenter les compétences ou l’absence de compétences sexuelles présumées d’une autre personne
-    * Évoquer son degré d'excitation sexuelle en se basant sur l'apparence d'une autre personne
-* Demander des faveurs sexuelles ou faire des déclarations non sollicitées en référence à des actes sexuels explicites sur une autre personne
-    * Demander à un streamer ou une streameuse de s’exposer ou d’envoyer des photos dénudées
-    * Les chuchotements à d’autres utilisateurs leur demandant d’effectuer des actes sexuels explicites
-    * Les discussions concernant le désir d’effectuer des actes sexuels explicites sur une personnalité publique
-* Faire des déclarations désobligeantes sur les pratiques sexuelles, la moralité sexuelle ou la santé sexuelle présumées d’une autre personne
-    * Les allégations selon lesquelles une personne est sexuellement immorale en raison de sa tenue vestimentaire ou de son apparence physique
-    * Les allégations selon lesquelles la tenue vestimentaire d’une personne a un effet négatif sur ses pratiques sexuelles
-    * Suggérer que la chaîne d’une personne est uniquement populaire ou n’a pas été bannie en raison de faveurs sexuelles
-    * Le ciblage négatif répété d’une autre personne avec des termes à connotation sexuelle, tels que « pute » ou « vierge »
-    * Les allégations selon lesquelles une autre personne a probablement une infection sexuellement transmissible en raison de ses pratiques sexuelles
-* Les tentatives d’obligation d’autres personnes à fournir du contenu ou des faveurs sexuelles par le biais de menaces, de pots-de-vin ou d’autres incitations
-    * Les propositions de promotion de la chaîne d’un utilisateur en échange d’actes sexuels
-    * Les menaces de représailles contre une autre personne si elle ne partage pas d’images ou de vidéos à caractère sexuel
-* Promouvoir ou exprimer le désir de commettre des violences sexuelles à l'encontre d'une autre personne
-    * Exprimer le souhait qu'une autre personne subisse une agression sexuelle
-    * Ordonner à une autre personne de se livrer à des actes sexuels non consensuels
-    * Évoquer le désir de commettre un viol à l'encontre d'une autre personne 
-* Partager ou menacer de partager des images ou des vidéos intimes non consensuelles
-    * Enregistrer délibérément les parties sexuelles ou les activités intimes d'une autre personne à son insu ou sans son consentement
-    * Proposer une vidéo privée d'une autre personne ayant des relations sexuelles sans son autorisation
-    * Partager des images volées d’une personne dénudée sans son consentement
-    * Créer ou partager des images intimes truquées ou « deepfake » d'une personne identifiable
+*   Faire des avances sexuelles indésirées envers une autre personne
+    *   Envoyer des chuchotements à une personne pour complimenter son apparence après avoir été prié·e d’arrêter  
+    *   Les envois de messages de chat à un autre utilisateur en les qualifiant de « sexy » après avoir été banni temporairement pour un comportement similaire
+    *   Demander à une personne d'exposer les parties non sexuelles de son corps, telles que ses pieds, après avoir reçu un avertissement dans le chat
+    *   Continuer à poser des questions sur les expériences ou les antécédents sexuels d'une personne après avoir été informé·e que c'était déplacé
+    *   Envoyer des photos ou vidéos de nus à une autre personne
+    *   Diriger autrui vers du contenu à caractère sexuel explicite
+*   Les déclarations d’objectivation non sollicitées concernant les parties du corps ou les pratiques sexuelles d’une autre personne
+    *   Faire des déclarations à caractère sexuel sur les seins, les fesses ou les organes génitaux d’une autre personne
+    *   Commenter les compétences ou l’absence de compétences sexuelles présumées d’une autre personne
+    *   Évoquer son degré d'excitation sexuelle en se basant sur l'apparence d'une autre personne
+*   Demander des faveurs sexuelles ou faire des déclarations non sollicitées en référence à des actes sexuels explicites sur une autre personne
+    *   Demander à un streamer ou une streameuse de s’exposer ou d’envoyer des photos dénudées
+    *   Les chuchotements à d’autres utilisateurs leur demandant d’effectuer des actes sexuels explicites
+    *   Les discussions concernant le désir d’effectuer des actes sexuels explicites sur une personnalité publique
+*   Faire des déclarations désobligeantes sur les pratiques sexuelles, la moralité sexuelle ou la santé sexuelle présumées d’une autre personne
+    *   Les allégations selon lesquelles une personne est sexuellement immorale en raison de sa tenue vestimentaire ou de son apparence physique
+    *   Les allégations selon lesquelles la tenue vestimentaire d’une personne a un effet négatif sur ses pratiques sexuelles
+    *   Suggérer que la chaîne d’une personne est uniquement populaire ou n’a pas été bannie en raison de faveurs sexuelles
+    *   Le ciblage négatif répété d’une autre personne avec des termes à connotation sexuelle, tels que « pute » ou « vierge »
+    *   Les allégations selon lesquelles une autre personne a probablement une infection sexuellement transmissible en raison de ses pratiques sexuelles
+*   Les tentatives d’obligation d’autres personnes à fournir du contenu ou des faveurs sexuelles par le biais de menaces, de pots-de-vin ou d’autres incitations
+    *   Les propositions de promotion de la chaîne d’un utilisateur en échange d’actes sexuels
+    *   Les menaces de représailles contre une autre personne si elle ne partage pas d’images ou de vidéos à caractère sexuel
+*   Promouvoir ou exprimer le désir de commettre des violences sexuelles à l'encontre d'une autre personne
+    *   Exprimer le souhait qu'une autre personne subisse une agression sexuelle
+    *   Ordonner à une autre personne de se livrer à des actes sexuels non consensuels
+    *   Évoquer le désir de commettre un viol à l'encontre d'une autre personne 
+*   Partager ou menacer de partager des images ou des vidéos intimes non consensuelles
+    *   Enregistrer délibérément les parties sexuelles ou les activités intimes d'une autre personne à son insu ou sans son consentement
+    *   Proposer une vidéo privée d'une autre personne ayant des relations sexuelles sans son autorisation
+    *   Partager des images volées d’une personne dénudée sans son consentement
+    *   Créer ou partager des images intimes truquées ou « deepfake » d'une personne identifiable
 
 Si nécessaire, nous prendrons en compte les mesures (ex. : exclusions temporaires, bannissement de chaînes, signalements utilisateurs, etc.) prises par la ou les personnes ciblées par ces comportements pour identifier les avances et déclarations indésirables, même si elles ne sont pas clairement insultantes. Si vous êtes victime de harcèlement sexuel, nous vous encourageons à nous envoyer un signalement et à utiliser les outils de modération disponibles pour indiquer que le comportement est indésirable. Ces démarches nous aident à identifier que vous vous sentez harcelé·e.
 
@@ -408,9 +408,9 @@ Pour la sécurité de notre communauté, **les utilisateurs doivent respecter to
 
   Par exemple, vous ne pouvez pas \[avertissement relatif au contenu\] :
 
-* Participer à toute forme de trafic d'êtres humains, dont le trafic sexuel, la vente d'enfants, les mariages forcés ou l'esclavage domestique
-* Acheter ou vendre des substances illicites, des armes à feu ou des produits de contrefaçon sur Twitch
-* Participer à un acte de destruction, à la dégradation ou au vol de biens publics ou privés sans autorisation sur Twitch
+*   Participer à toute forme de trafic d'êtres humains, dont le trafic sexuel, la vente d'enfants, les mariages forcés ou l'esclavage domestique
+*   Acheter ou vendre des substances illicites, des armes à feu ou des produits de contrefaçon sur Twitch
+*   Participer à un acte de destruction, à la dégradation ou au vol de biens publics ou privés sans autorisation sur Twitch
 
 ### Droits de propriété intellectuelle
 
@@ -418,21 +418,21 @@ Afin de protéger les droits de propriété intellectuelle d'autrui et de respec
 
   Par exemple, sauf indication contraire dans la loi ou en cas d'autorisation fournie par les ayants droit, vous ne devez pas partager :
 
-* La reprise d'un contenu protégé par des droits d'auteur (ex. : interpréter la chanson protégée d'un autre artiste) 
-* Du contenu d'autres utilisateurs de Twitch ou du contenu d'autres sites
-* Jeux ou contenus piratés sur des serveurs privés non autorisés
-* Films, programmes télévisés ou matchs de sport
-* De la musique que vous ne possédez pas ou que vous n'êtes pas autorisé à partager, y compris de la musique diffusée en fond d'un stream
-* Biens ou services protégés par une marque déposée
-* Des versions alpha/bêta fermées et des jeux en avant-première (Vous êtes tenu de respecter toutes les dates de sortie, embargos et accords de non-divulgation imposés par les éditeurs/développeurs et d'attendre avant de streamer ces jeux jusqu'à ce que tout le monde y soit autorisé. Sauf autorisation préalable, votre chaîne peut faire l'objet d'un retrait DMCA par un détenteur de droits.) 
+*   La reprise d'un contenu protégé par des droits d'auteur (ex. : interpréter la chanson protégée d'un autre artiste) 
+*   Du contenu d'autres utilisateurs de Twitch ou du contenu d'autres sites
+*   Jeux ou contenus piratés sur des serveurs privés non autorisés
+*   Films, programmes télévisés ou matchs de sport
+*   De la musique que vous ne possédez pas ou que vous n'êtes pas autorisé à partager, y compris de la musique diffusée en fond d'un stream
+*   Biens ou services protégés par une marque déposée
+*   Des versions alpha/bêta fermées et des jeux en avant-première (Vous êtes tenu de respecter toutes les dates de sortie, embargos et accords de non-divulgation imposés par les éditeurs/développeurs et d'attendre avant de streamer ces jeux jusqu'à ce que tout le monde y soit autorisé. Sauf autorisation préalable, votre chaîne peut faire l'objet d'un retrait DMCA par un détenteur de droits.) 
 
 [En savoir plus](https://legal.twitch.com/legal/music/) sur nos règles concernant l’utilisation de musique sur votre chaîne Twitch.
 
   Tout contenu non autorisé que des utilisateurs partagent sur Twitch constitue une infraction à nos Conditions d'utilisation et est susceptible d'être supprimé. Des infractions répétées à nos règlements peuvent mener à une suspension permanente du compte concerné. Les ayants droit peuvent exiger que Twitch supprime les contenus non autorisés et/ou impose les sanctions suivantes :
 
-* Pour les œuvres protégées par le droit d'auteur, le processus de notification et de retrait décrit dans nos [règles relatives au respect des copyrights (DMCA)](https://www.twitch.tv/p/legal/dmca-guidelines/).
-* Pour les marques déposées, le processus décrit dans notre [Politique sur les marques déposées](https://www.twitch.tv/p/legal/trademark-policy/).
-* Pour les œuvres protégées par le droit d'auteur dont les ayants droit ont signé des accords avec Twitch, nous sommes susceptibles d'appliquer un processus de signalement et de traitement spécifique, comme le [Processus de signalement de musique](https://www.twitch.tv/p/en/legal/dmca-guidelines/music-reporting-process).
+*   Pour les œuvres protégées par le droit d'auteur, le processus de notification et de retrait décrit dans nos [règles relatives au respect des copyrights (DMCA)](https://www.twitch.tv/p/legal/dmca-guidelines/).
+*   Pour les marques déposées, le processus décrit dans notre [Politique sur les marques déposées](https://www.twitch.tv/p/legal/trademark-policy/).
+*   Pour les œuvres protégées par le droit d'auteur dont les ayants droit ont signé des accords avec Twitch, nous sommes susceptibles d'appliquer un processus de signalement et de traitement spécifique, comme le [Processus de signalement de musique](https://www.twitch.tv/p/en/legal/dmca-guidelines/music-reporting-process).
 
 Contenu sensible
 ----------------
@@ -443,16 +443,16 @@ Bien que nous autorisions la diffusion de différents contenus sur Twitch, tout 
 
   Par exemple, vous ne pouvez pas \[avertissement relatif au contenu\] :
 
-* Montrer du contenu impliquant une mort ou une blessure grave
-* Parcourir 4chan, le dark web ou du contenu pornographique sur Twitch
-* Utiliser des services de chat vidéo aléatoire
+*   Montrer du contenu impliquant une mort ou une blessure grave
+*   Parcourir 4chan, le dark web ou du contenu pornographique sur Twitch
+*   Utiliser des services de chat vidéo aléatoire
 
   Notes et clarifications concernant les sanctions :
 
 _Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
 
-* Le contenu vidéo aléatoire que vous ne pouvez pas contrôler n’est en aucun cas autorisé en raison des risques qu’il présente pour les viewers du stream.
-    * Exemple de comportement interdit : streamer des interactions Ome.tv.
+*   Le contenu vidéo aléatoire que vous ne pouvez pas contrôler n’est en aucun cas autorisé en raison des risques qu’il présente pour les viewers du stream.
+    *   Exemple de comportement interdit : streamer des interactions Ome.tv.
 
 ### Contenu à caractère sexuel
 
@@ -460,16 +460,16 @@ Pour que le contenu sur Twitch soit adapté à divers publics, certains contenus
 
   Par exemple, vous ne pouvez pas montrer, proposer ni promouvoir les contenus suivants \[avertissement – langage explicite\] :
 
-* Le sexe ou la masturbation explicites, simulés, fictifs ou implicites (y compris les actes sexuels oraux, anaux et vaginaux, la masturbation – seul ou à plusieurs – ou les simulations prolongées d'un orgasme, d'un acte sexuel ou de la masturbation)
-    * La nudité adulte sans actes sexuels implicites ou réels est soumise à nos politiques sur la [nudité adulte](https://safety.twitch.tv/s/article/Community-Guidelines#21AdultNudity)
-* L'exposition de fluides corporels sexuels
-* La publicité pour des services sexuels (y compris la prostitution, les services d’escorte, les massages sexuels et les activités sexuelles filmées) ou leur sollicitation
-* Mettre l'accent sur les parties intimes du corps (habillées) telles que les fesses, l'entrejambe ou les seins de façon prolongée.
+*   Le sexe ou la masturbation explicites, simulés, fictifs ou implicites (y compris les actes sexuels oraux, anaux et vaginaux, la masturbation – seul ou à plusieurs – ou les simulations prolongées d'un orgasme, d'un acte sexuel ou de la masturbation)
+    *   La nudité adulte sans actes sexuels implicites ou réels est soumise à nos politiques sur la [nudité adulte](https://safety.twitch.tv/s/article/Community-Guidelines#21AdultNudity)
+*   L'exposition de fluides corporels sexuels
+*   La publicité pour des services sexuels (y compris la prostitution, les services d’escorte, les massages sexuels et les activités sexuelles filmées) ou leur sollicitation
+*   Mettre l'accent sur les parties intimes du corps (habillées) telles que les fesses, l'entrejambe ou les seins de façon prolongée.
     
-* Les violences sexuelles consenties telles que la flagellation ou les coups de fouet sur une autre personne
-    * La violence sexuelle non consensuelle est soumise à nos [politiques sur la violence et l'exploitation sexuelles d'adultes](https://safety.twitch.tv/s/article/Community-Guidelines?#6AdultSexualViolenceandExploitation) 
-* Les descriptions graphiques d'actes sexuels tels que le sexe par téléphone ou l'érotisme
-* Les sex-toys visibles dans un contexte non éducatif, comme pour se vanter de la taille d'un godemiché
+*   Les violences sexuelles consenties telles que la flagellation ou les coups de fouet sur une autre personne
+    *   La violence sexuelle non consensuelle est soumise à nos [politiques sur la violence et l'exploitation sexuelles d'adultes](https://safety.twitch.tv/s/article/Community-Guidelines?#6AdultSexualViolenceandExploitation) 
+*   Les descriptions graphiques d'actes sexuels tels que le sexe par téléphone ou l'érotisme
+*   Les sex-toys visibles dans un contexte non éducatif, comme pour se vanter de la taille d'un godemiché
 
 La liste qui précède n’est pas exhaustive, et Twitch se réserve le droit de supprimer le contenu jugé inapproprié.  
   
@@ -481,23 +481,23 @@ Pour en savoir plus sur les contenus relatifs à la sexualité et aux thèmes se
 
 _Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
 
-* Les liens directs vers des sites Web proposant principalement des contenus à caractère sexuel ne sont pas autorisés dans votre contenu (overlay, bio, chat, etc).
-    * Si des liens vers ce type de contenu par le biais de méthodes telles que les agrégateurs de liens sont découverts, Twitch peut appliquer le descripteur de classification du contenu « Thèmes sexuels » pour une durée déterminée.
-* Nous autorisons certains contenus à caractère sexuel, à condition qu’ils soient de nature éducative, que des descripteurs de classification du contenu soient appliqués au stream et qu’ils n’enfreignent pas nos autres règles, telles que nos règles sur la nudité. 
-    * Exemple de comportement autorisé : votre contenu peut montrer comment appliquer un préservatif sur une banane, à condition que l’intention soit d’éduquer.
-* Il est interdit de positionner votre appareil photo de manière à mettre en évidence les parties intimes du corps.
-    * Exemple de comportement interdit : s’étirer en écartant les jambes à la vue de la caméra pendant de longues périodes.
-* Les représentations artistiques de la nudité ne sont autorisées que dans le cadre de l’art public. 
-    * Exemples de comportements autorisés : montrer une statue nue sur une place publique, ou streamer dans un musée ou une conférence sur l’histoire de l’art.
-* Si du contenu sexuel interdit est partagé accidentellement, votre compte sera quand même suspendu. Si vous ne savez pas si un lien, une photo, une vidéo ou tout autre contenu dans votre stream respecte les Lignes de conduite de la communauté ou non, nous vous suggérons de l’examiner hors champ avant de le diffuser.
-* Si votre chaîne est signalée plusieurs fois en peu de temps pour des contenus à caractère sexuel (ou pour toute autre violation de nos politiques), votre chaîne ne sera pas suspendue dans la mesure où vous n’avez rien fait de mal. Toutes nos sanctions relatives au contenu sexuel sont évaluées et émises manuellement.
-* Les émoticônes, badges et Cheermotes sont également soumis à nos politiques. Étant donné que les émoticônes d’abonnés peuvent être utilisées partout sur Twitch et sont très visibles en dehors de leurs chaînes d’origine, nos règles applicables aux émoticônes peuvent être plus restrictives que les Lignes de conduite de la communauté générales dans certains cas. Veuillez consulter les [Règles pour les émoticônes](https://help.twitch.tv/s/article/emote-guidelines) pour connaître notre politique relative aux émoticônes à caractère sexuel. 
-* Les jeux ayant pour élément central la nudité, la pornographie, le sexe ou la violence sexuelle sont totalement interdits. Les modifications apportées aux graphismes ou au gameplay qui incluent de la nudité ou du contenu à caractère sexuel, y compris les patchs destinés à supprimer la censure dans des jeux autrement autorisés, sont interdites.
-* Pour les jeux dont la nudité n’est pas l’élément central, le descripteur de classification du contenu « Jeux matures » est suffisant pour la nudité occasionnelle. Toutefois, le descripteur de classification du contenu « Thèmes sexuels » doit être appliqué aux jeux qui contiennent de la nudité, sans que ce soit l’élément principal.
-    * Exemple autorisé : streamer Grand Theft Auto V avec le descripteur de classification du contenu « Jeux matures ».
-* Toute activité sexuelle simulée et tout jeu de rôle érotique avec d'autres joueurs dans des jeux en ligne est proscrit. Les jeux qui reposent principalement sur des contenus créés par des utilisateurs, sur des jeux de rôle ou sur des interactions en réalité virtuelle sont également concernés par ces règles.
-    * Exemple de comportement interdit : simuler un acte sexuel sur VRChat.
-* Tant que les exigences en matière de tenue vestimentaire sont respectées, la peinture corporelle sur les seins et les fesses est autorisée avec un descripteur de classification du contenu « Thèmes sexuels ». 
+*   Les liens directs vers des sites Web proposant principalement des contenus à caractère sexuel ne sont pas autorisés dans votre contenu (overlay, bio, chat, etc).
+    *   Si des liens vers ce type de contenu par le biais de méthodes telles que les agrégateurs de liens sont découverts, Twitch peut appliquer le descripteur de classification du contenu « Thèmes sexuels » pour une durée déterminée.
+*   Nous autorisons certains contenus à caractère sexuel, à condition qu’ils soient de nature éducative, que des descripteurs de classification du contenu soient appliqués au stream et qu’ils n’enfreignent pas nos autres règles, telles que nos règles sur la nudité. 
+    *   Exemple de comportement autorisé : votre contenu peut montrer comment appliquer un préservatif sur une banane, à condition que l’intention soit d’éduquer.
+*   Il est interdit de positionner votre appareil photo de manière à mettre en évidence les parties intimes du corps.
+    *   Exemple de comportement interdit : s’étirer en écartant les jambes à la vue de la caméra pendant de longues périodes.
+*   Les représentations artistiques de la nudité ne sont autorisées que dans le cadre de l’art public. 
+    *   Exemples de comportements autorisés : montrer une statue nue sur une place publique, ou streamer dans un musée ou une conférence sur l’histoire de l’art.
+*   Si du contenu sexuel interdit est partagé accidentellement, votre compte sera quand même suspendu. Si vous ne savez pas si un lien, une photo, une vidéo ou tout autre contenu dans votre stream respecte les Lignes de conduite de la communauté ou non, nous vous suggérons de l’examiner hors champ avant de le diffuser.
+*   Si votre chaîne est signalée plusieurs fois en peu de temps pour des contenus à caractère sexuel (ou pour toute autre violation de nos politiques), votre chaîne ne sera pas suspendue dans la mesure où vous n’avez rien fait de mal. Toutes nos sanctions relatives au contenu sexuel sont évaluées et émises manuellement.
+*   Les émoticônes, badges et Cheermotes sont également soumis à nos politiques. Étant donné que les émoticônes d’abonnés peuvent être utilisées partout sur Twitch et sont très visibles en dehors de leurs chaînes d’origine, nos règles applicables aux émoticônes peuvent être plus restrictives que les Lignes de conduite de la communauté générales dans certains cas. Veuillez consulter les [Règles pour les émoticônes](https://help.twitch.tv/s/article/emote-guidelines) pour connaître notre politique relative aux émoticônes à caractère sexuel. 
+*   Les jeux ayant pour élément central la nudité, la pornographie, le sexe ou la violence sexuelle sont totalement interdits. Les modifications apportées aux graphismes ou au gameplay qui incluent de la nudité ou du contenu à caractère sexuel, y compris les patchs destinés à supprimer la censure dans des jeux autrement autorisés, sont interdites.
+*   Pour les jeux dont la nudité n’est pas l’élément central, le descripteur de classification du contenu « Jeux matures » est suffisant pour la nudité occasionnelle. Toutefois, le descripteur de classification du contenu « Thèmes sexuels » doit être appliqué aux jeux qui contiennent de la nudité, sans que ce soit l’élément principal.
+    *   Exemple autorisé : streamer Grand Theft Auto V avec le descripteur de classification du contenu « Jeux matures ».
+*   Toute activité sexuelle simulée et tout jeu de rôle érotique avec d'autres joueurs dans des jeux en ligne est proscrit. Les jeux qui reposent principalement sur des contenus créés par des utilisateurs, sur des jeux de rôle ou sur des interactions en réalité virtuelle sont également concernés par ces règles.
+    *   Exemple de comportement interdit : simuler un acte sexuel sur VRChat.
+*   Tant que les exigences en matière de tenue vestimentaire sont respectées, la peinture corporelle sur les seins et les fesses est autorisée avec un descripteur de classification du contenu « Thèmes sexuels ». 
 
 ### Nudité
 
@@ -505,9 +505,9 @@ _Les notes de sanction sont des exemples supplémentaires de ce qui est autoris�
 
   Par exemple, les comportements suivants (ou leur apologie) sont interdits \[avertissement relatif au contenu\] :
 
-* Les anus exposés ou les fesses entièrement dénudées et exposées
-* Les organes génitaux exposés intégralement ou partiellement
-* Les seins de femmes avec les mamelons exposés (sauf pendant l'allaitement d'un enfant)
+*   Les anus exposés ou les fesses entièrement dénudées et exposées
+*   Les organes génitaux exposés intégralement ou partiellement
+*   Les seins de femmes avec les mamelons exposés (sauf pendant l'allaitement d'un enfant)
 
 Le contenu éducatif d'histoire de l'art ou l'art public qui pourrait présenter des personnages nus est exempté de cette politique. 
 
@@ -557,16 +557,16 @@ Les normes de couverture de la poitrine détaillées ci-dessus ne s’appliquent
 
 _Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
 
-* Lorsque nous évaluons un signalement pour comportement à caractère sexuel, la tenue n’est que l’un des facteurs pris en compte pour déterminer si un comportement est ou non acceptable.
-    * Nous conseillons aux streamers de porter des vêtements qui seraient appropriés en public en fonction du contexte, de l’endroit et de l’activité qu’ils diffusent. Par exemple, une tenue de sport serait appropriée pour un stream de fitness, et un maillot de bain, pour un stream sur une plage publique.
-* La politique sur la tenue vestimentaire s’applique aux VTubers, de la même manière qu’elle s’applique aux autres streamers. 
-* Les organes génitaux, les fesses, les hanches, les mamelons féminins et les dessous de poitrine doivent être couverts en permanence dans les streams généraux. Ces consignes s’appliquent aux modèles de VTubers, mais pas aux personnages de jeux vidéo (y compris ceux mis en ligne dans des jeux tels que VRChat).
-    * Les hanches sont souvent oubliées ; dans le cadre de cette règle, assurez-vous que votre modèle de VTuber couvre également cette zone.
-* Les tenues de festival et de plage peuvent être un peu plus légères lorsqu’elles relèvent de la catégorie concernée ; les hanches et les dessous de poitrine peuvent être visibles, mais les organes génitaux et les mamelons féminins doivent toujours être couverts.
-* Les illustrations statiques ou légèrement animées pour des scènes comme « Le stream va commencer », « Bientôt de retour » ou « Fin du stream » doivent respecter l’ensemble de nos consignes.
-* Si vous vous trouvez dans un « cadre » tel qu’une piscine, un jacuzzi ou une plage (qui peuvent ne pas être réels), la présence d’eau n’est pas nécessaire pour que le contexte soit considéré comme autorisé.
-    * Votre contenu doit toujours figurer dans la bonne catégorie et afficher les descripteurs de classification du contenu appropriés.
-* Si nous ne pouvons pas déterminer si vous êtes vêtu·e ou non, ou si vous laissez entendre que vous n’êtes pas vêtu·e, en utilisant des méthodes telles que des vêtements moulants de la couleur de votre peau, des barres noires ou des zones floues, en vous cachant derrière des accessoires ou hors champ, vous risquez de faire l’objet de sanctions dans le cadre de nos politiques sur les tenues vestimentaires et, éventuellement, sur les contenus à caractère sexuel. 
+*   Lorsque nous évaluons un signalement pour comportement à caractère sexuel, la tenue n’est que l’un des facteurs pris en compte pour déterminer si un comportement est ou non acceptable.
+    *   Nous conseillons aux streamers de porter des vêtements qui seraient appropriés en public en fonction du contexte, de l’endroit et de l’activité qu’ils diffusent. Par exemple, une tenue de sport serait appropriée pour un stream de fitness, et un maillot de bain, pour un stream sur une plage publique.
+*   La politique sur la tenue vestimentaire s’applique aux VTubers, de la même manière qu’elle s’applique aux autres streamers. 
+*   Les organes génitaux, les fesses, les hanches, les mamelons féminins et les dessous de poitrine doivent être couverts en permanence dans les streams généraux. Ces consignes s’appliquent aux modèles de VTubers, mais pas aux personnages de jeux vidéo (y compris ceux mis en ligne dans des jeux tels que VRChat).
+    *   Les hanches sont souvent oubliées ; dans le cadre de cette règle, assurez-vous que votre modèle de VTuber couvre également cette zone.
+*   Les tenues de festival et de plage peuvent être un peu plus légères lorsqu’elles relèvent de la catégorie concernée ; les hanches et les dessous de poitrine peuvent être visibles, mais les organes génitaux et les mamelons féminins doivent toujours être couverts.
+*   Les illustrations statiques ou légèrement animées pour des scènes comme « Le stream va commencer », « Bientôt de retour » ou « Fin du stream » doivent respecter l’ensemble de nos consignes.
+*   Si vous vous trouvez dans un « cadre » tel qu’une piscine, un jacuzzi ou une plage (qui peuvent ne pas être réels), la présence d’eau n’est pas nécessaire pour que le contexte soit considéré comme autorisé.
+    *   Votre contenu doit toujours figurer dans la bonne catégorie et afficher les descripteurs de classification du contenu appropriés.
+*   Si nous ne pouvons pas déterminer si vous êtes vêtu·e ou non, ou si vous laissez entendre que vous n’êtes pas vêtu·e, en utilisant des méthodes telles que des vêtements moulants de la couleur de votre peau, des barres noires ou des zones floues, en vous cachant derrière des accessoires ou hors champ, vous risquez de faire l’objet de sanctions dans le cadre de nos politiques sur les tenues vestimentaires et, éventuellement, sur les contenus à caractère sexuel. 
 
 ### Identifiants et pseudos
 
@@ -574,68 +574,68 @@ Afin de garantir la sécurité et l'inclusivité de notre communauté, **les nom
 
    Par exemple, les identifiants et pseudos créés sur Twitch ne peuvent pas être liés aux sujets suivants \[avertissement relatif au contenu\] :
 
-* Les infractions à la loi (y compris le terrorisme et l'exploitation de mineurs)
-* La violence et les menaces
-* Les comportements haineux
-* Le harcèlement (y compris le harcèlement sexuel)
-* Le partage non autorisé d'informations privées
-* Usurpation d’identité
-* Glorification de tragédies naturelles ou violentes
-* Les comportements autodestructeurs
-* Références à des drogues douces ou dures et à leur consommation abusive (à l'exception de l'alcool, du tabac et du cannabis)
-* Références à des actes ou fluides sexuels, et aux organes génitaux
+*   Les infractions à la loi (y compris le terrorisme et l'exploitation de mineurs)
+*   La violence et les menaces
+*   Les comportements haineux
+*   Le harcèlement (y compris le harcèlement sexuel)
+*   Le partage non autorisé d'informations privées
+*   Usurpation d’identité
+*   Glorification de tragédies naturelles ou violentes
+*   Les comportements autodestructeurs
+*   Références à des drogues douces ou dures et à leur consommation abusive (à l'exception de l'alcool, du tabac et du cannabis)
+*   Références à des actes ou fluides sexuels, et aux organes génitaux
 
   Les comptes dont les identifiants ou pseudos constituent une infraction évidente aux Lignes de conduite de la communauté ou sont symptomatiques d'un comportement malveillant et de mauvaise foi seront suspendus définitivement. Par exemple, vous ne pouvez pas créer un identifiant qui comporte \[avertissement relatif au contenu\] :
 
-* Les références au terrorisme ou à des organisations terroristes
-* Les références au pédopiégeage (grooming) ou à l'exploitation de mineurs
-* Les menaces, les incitations ou appels à la violence envers autrui (à l'exception des références aux jeux vidéo ou à la violence historique non haineuse)
-    * L'incitation à la violence ou au meurtre d'un autre groupe d'individus
-    * La création d'un identifiant contenant des menaces de violence envers un autre individu
-* Les comportements haineux (y compris les insultes et les termes péjoratifs liés à des caractéristiques protégées)
-    * La création d'un identifiant contenant des insultes haineuses
-    * La glorification, la promotion ou la défense de la discrimination, du dénigrement, de la ségrégation, de l'exclusion, de la haine ou du dégoût basées sur des caractéristiques protégées (consultez notre Politique sur le comportement haineux et le harcèlement pour en savoir plus)
-    * La création d'un identifiant contenant des références à des groupes haineux
-    * La raillerie, le déni ou la glorification de crimes haineux ou d'actes de génocide solidement étayés
-* Le harcèlement et le harcèlement sexuel à l'encontre d'une autre personne
-    * La création d'un identifiant contenant une humiliation à caractère sexuel à l'encontre d'une autre personne
-    * La création d'un identifiant contenant des insultes ciblant les pratiques sexuelles d'une autre personne
-    * La création d'un identifiant contenant des attaques personnelles ou injures à l'encontre d'une autre personne
-    * L'utilisation d'un identifiant injurieux à l'encontre d'une autre personne
-    * La raillerie de streamers ou de membres de la communauté (ou de leurs amis ou membres de leur famille décédés)
-* Les menaces et les incitations au suicide et à l'automutilation
-    * La glorification de méthodes d'automutilation (y compris le suicide et les troubles alimentaires)
-    * L'incitation à l'automutilation ou au suicide
-    * Les menaces de suicide
-* La divulgation des informations personnelles d'une autre personne sans son consentement
-    * Les adresses IP, les adresses e-mail
-    * Les adresses postales, personnelles, professionnelles ou scolaires
-    * Les numéros de téléphone personnels ou privés
-    * Les informations financières ou d'identification confidentielles (ex. : les numéros de compte bancaire ou les numéros de pièces d'identité)
-* L'usurpation de l'identité d'un individu, d'une entreprise ou d'une organisation
-    * La tentative de se faire passer pour un employé ou un membre de l'équipe de Twitch
-    * La tentative de se faire passer pour un utilisateur Twitch existant en utilisant un identifiant quasi identique
-    * Une tentative de se faire passer pour un représentant d'une entreprise ou d'une organisation sans autorisation (pour en savoir plus sur les identifiants qui peuvent constituer une infraction légale à une marque déposée, consultez la [Politique sur les marques déposées](https://www.twitch.tv/p/legal/trademark-policy/))
-* Glorification de tragédies naturelles ou violentes
-    * La glorification de références à des catastrophes naturelles précises mortelles (ex. : l'ouragan Katrina)
-    * La glorification d'individus directement responsables de meurtre ou de la mort d'autres personnes (ex. : les tueurs en série)
-    * La glorification de la mort d'individus due à la violence, y compris les suicides et les actes policiers ou gouvernementaux mortels (pour en savoir plus sur nos règles concernant la glorification de la violence sur la base d'un groupe protégé, consultez la section « Comportement haineux »)
+*   Les références au terrorisme ou à des organisations terroristes
+*   Les références au pédopiégeage (grooming) ou à l'exploitation de mineurs
+*   Les menaces, les incitations ou appels à la violence envers autrui (à l'exception des références aux jeux vidéo ou à la violence historique non haineuse)
+    *   L'incitation à la violence ou au meurtre d'un autre groupe d'individus
+    *   La création d'un identifiant contenant des menaces de violence envers un autre individu
+*   Les comportements haineux (y compris les insultes et les termes péjoratifs liés à des caractéristiques protégées)
+    *   La création d'un identifiant contenant des insultes haineuses
+    *   La glorification, la promotion ou la défense de la discrimination, du dénigrement, de la ségrégation, de l'exclusion, de la haine ou du dégoût basées sur des caractéristiques protégées (consultez notre Politique sur le comportement haineux et le harcèlement pour en savoir plus)
+    *   La création d'un identifiant contenant des références à des groupes haineux
+    *   La raillerie, le déni ou la glorification de crimes haineux ou d'actes de génocide solidement étayés
+*   Le harcèlement et le harcèlement sexuel à l'encontre d'une autre personne
+    *   La création d'un identifiant contenant une humiliation à caractère sexuel à l'encontre d'une autre personne
+    *   La création d'un identifiant contenant des insultes ciblant les pratiques sexuelles d'une autre personne
+    *   La création d'un identifiant contenant des attaques personnelles ou injures à l'encontre d'une autre personne
+    *   L'utilisation d'un identifiant injurieux à l'encontre d'une autre personne
+    *   La raillerie de streamers ou de membres de la communauté (ou de leurs amis ou membres de leur famille décédés)
+*   Les menaces et les incitations au suicide et à l'automutilation
+    *   La glorification de méthodes d'automutilation (y compris le suicide et les troubles alimentaires)
+    *   L'incitation à l'automutilation ou au suicide
+    *   Les menaces de suicide
+*   La divulgation des informations personnelles d'une autre personne sans son consentement
+    *   Les adresses IP, les adresses e-mail
+    *   Les adresses postales, personnelles, professionnelles ou scolaires
+    *   Les numéros de téléphone personnels ou privés
+    *   Les informations financières ou d'identification confidentielles (ex. : les numéros de compte bancaire ou les numéros de pièces d'identité)
+*   L'usurpation de l'identité d'un individu, d'une entreprise ou d'une organisation
+    *   La tentative de se faire passer pour un employé ou un membre de l'équipe de Twitch
+    *   La tentative de se faire passer pour un utilisateur Twitch existant en utilisant un identifiant quasi identique
+    *   Une tentative de se faire passer pour un représentant d'une entreprise ou d'une organisation sans autorisation (pour en savoir plus sur les identifiants qui peuvent constituer une infraction légale à une marque déposée, consultez la [Politique sur les marques déposées](https://www.twitch.tv/p/legal/trademark-policy/))
+*   Glorification de tragédies naturelles ou violentes
+    *   La glorification de références à des catastrophes naturelles précises mortelles (ex. : l'ouragan Katrina)
+    *   La glorification d'individus directement responsables de meurtre ou de la mort d'autres personnes (ex. : les tueurs en série)
+    *   La glorification de la mort d'individus due à la violence, y compris les suicides et les actes policiers ou gouvernementaux mortels (pour en savoir plus sur nos règles concernant la glorification de la violence sur la base d'un groupe protégé, consultez la section « Comportement haineux »)
 
   Dans les situations où nous pensons qu’un utilisateur n’est pas mal intentionné, nous procéderons à une réinitialisation de son identifiant ou pseudo au lieu de suspendre définitivement son compte. Par exemple, votre identifiant peut être réinitialisé s’il comporte \[avertissement relatif au contenu\] :
 
-* Les références à des drogues douces ou dures et à leur consommation abusive (à l'exception de l'alcool, du tabac et du cannabis)
-    * Les références explicites à des drogues douces ou à des substances psychoactives (ex. : le peyotl)
-    * Les références explicites à des drogues dures (dont la cocaïne ou l'héroïne)
-    * La glorification explicite de la prise de médicaments dangereux ou sur ordonnance (y compris les pratiques comme la consommation de substance à inhaler)
-* Les références à la pornographie ou au comportement ou contenu sexuellement explicite ou à connotations sexuelles
-    * Les références à des actes sexuels implicites ou explicites
-    * La suggestion d'une stimulation sexuelle explicite
-    * Les références aux organes génitaux ou aux fluides sexuels
-    * Les références aux maladies sexuellement transmissibles et à d'autres types de troubles à caractère sexuel
-    * Les références manifestes aux fétiches sexuels
-* L’emploi de termes liés à une situation de handicap ou à une orientation sexuelle de façon insultante ou négative (rappel : l’utilisation de termes liés à des groupes protégés d’une façon ouvertement haineuse ou péjorative entraînera une suspension définitive. Reportez-vous à la section « Comportement haineux » ci-dessus.)
-    * L'emploi de termes liés à l'autisme ou aux handicaps mentaux de façon négative ou insultante
-    * L'emploi de termes liés à l'orientation sexuelle (ex. : "gay") de façon négative ou insultante
+*   Les références à des drogues douces ou dures et à leur consommation abusive (à l'exception de l'alcool, du tabac et du cannabis)
+    *   Les références explicites à des drogues douces ou à des substances psychoactives (ex. : le peyotl)
+    *   Les références explicites à des drogues dures (dont la cocaïne ou l'héroïne)
+    *   La glorification explicite de la prise de médicaments dangereux ou sur ordonnance (y compris les pratiques comme la consommation de substance à inhaler)
+*   Les références à la pornographie ou au comportement ou contenu sexuellement explicite ou à connotations sexuelles
+    *   Les références à des actes sexuels implicites ou explicites
+    *   La suggestion d'une stimulation sexuelle explicite
+    *   Les références aux organes génitaux ou aux fluides sexuels
+    *   Les références aux maladies sexuellement transmissibles et à d'autres types de troubles à caractère sexuel
+    *   Les références manifestes aux fétiches sexuels
+*   L’emploi de termes liés à une situation de handicap ou à une orientation sexuelle de façon insultante ou négative (rappel : l’utilisation de termes liés à des groupes protégés d’une façon ouvertement haineuse ou péjorative entraînera une suspension définitive. Reportez-vous à la section « Comportement haineux » ci-dessus.)
+    *   L'emploi de termes liés à l'autisme ou aux handicaps mentaux de façon négative ou insultante
+    *   L'emploi de termes liés à l'orientation sexuelle (ex. : "gay") de façon négative ou insultante
 
 Nous procédons à une réinitialisation d'identifiant dans ces situations si nous estimons que les infractions détectées sont involontaires ou accidentelles. Toutefois, si vous renommez un compte à plusieurs reprises en enfreignant notre Politique sur les identifiants, des sanctions supplémentaires seront appliquées, pouvant aller jusqu'à la suspension définitive de votre compte.
 
@@ -663,18 +663,18 @@ Ne créez que des tags qui respectent les autres Conditions d’utilisation et l
 
   Vous trouverez ci-dessous une liste non exhaustive d’exemples des contenus interdits par les Lignes de conduite de la communauté \[avertissement relatif au contenu\] :
 
-* Le comportement haineux, comme les insultes, les symboles et les stéréotypes
-* Le harcèlement, comme les insultes ciblées, l’intimidation, les menaces et l’incitation aux mauvais traitements
-* Les menaces de violence, comme les menaces envers autrui et les menaces de suicide
-* La glorification ou l’encouragement de l’automutilation, notamment le contenu encourageant les troubles alimentaires)
-* Les contenus à caractère sexuel, comme les descriptions d’actes sexuels (sexe, masturbation), l’excitation sexuelle et les gestes
-* La nudité, comme les descriptions de fesses, d’organes génitaux et d’anus
-* Les drogues illégales, comme les références à l’utilisation de drogues illégales, la drogue et le matériel pour en consommer
+*   Le comportement haineux, comme les insultes, les symboles et les stéréotypes
+*   Le harcèlement, comme les insultes ciblées, l’intimidation, les menaces et l’incitation aux mauvais traitements
+*   Les menaces de violence, comme les menaces envers autrui et les menaces de suicide
+*   La glorification ou l’encouragement de l’automutilation, notamment le contenu encourageant les troubles alimentaires)
+*   Les contenus à caractère sexuel, comme les descriptions d’actes sexuels (sexe, masturbation), l’excitation sexuelle et les gestes
+*   La nudité, comme les descriptions de fesses, d’organes génitaux et d’anus
+*   Les drogues illégales, comme les références à l’utilisation de drogues illégales, la drogue et le matériel pour en consommer
 
 En plus des contenus interdits par les Lignes de conduite de la communauté, nous interdisons également les éléments suivants compte tenu de la haute visibilité et de la proéminence des tags sur Twitch :
 
-* La vulgarité, comme les mots ou les expressions obscènes ou explicites
-* Les termes sujets d’abus courants, comme « blanc », « hétéro », « cis » et termes dérivés. La promotion de ces termes a un potentiel d’utilisation abusive ou en lien avec des idéologies discriminatoires, qui ne sont pas autorisées sur Twitch. 
+*   La vulgarité, comme les mots ou les expressions obscènes ou explicites
+*   Les termes sujets d’abus courants, comme « blanc », « hétéro », « cis » et termes dérivés. La promotion de ces termes a un potentiel d’utilisation abusive ou en lien avec des idéologies discriminatoires, qui ne sont pas autorisées sur Twitch. 
 
 Les mauvaises utilisations sérieuses des propositions de tags, y compris les infractions graves aux règles et les propositions répétées de contenus déjà rejetés ou supprimés, peuvent engendrer la suspension de votre compte.
 
@@ -686,8 +686,8 @@ Utiliser le descripteur de classification du contenu « Jeux matures », défi
   
 Le streaming de jeux est interdit si :
 
-* Le jeu viole les Lignes de conduite de la communauté car il contient des propos incitant à la haine raciale, des scènes de nudité ou ouvertement sexuelles, des scènes de violence extrême ou gratuite
-* La classification ESRB officielle est Adultes seulement
+*   Le jeu viole les Lignes de conduite de la communauté car il contient des propos incitant à la haine raciale, des scènes de nudité ou ouvertement sexuelles, des scènes de violence extrême ou gratuite
+*   La classification ESRB officielle est Adultes seulement
 
 Les versions alternatives de jeux Adultes seulement qui reçoivent une classification ESRB Jeunes adultes ou inférieure sont autorisées, ce qui inclut les versions Jeunes adultes de Grand Theft Auto: San Andreas et Fahrenheit: Indigo Prophecy.
 
@@ -699,44 +699,44 @@ Les comptes d’utilisateurs qui diffusent ou mettent en ligne du contenu releva
 
 Cette liste n’est pas exhaustive. Elle est régulièrement mise à jour, et certains jeux peuvent y être ajoutés ou supprimés, par exemple si la classification ESRB d’un jeu change ou si le contenu d’un jeu non classé change. 
 
-* 3DXChat
-* Toutes les plateformes de chat vidéo aléatoires
-* Artificial Girl 1, 2 et 3
-* Artificial Academy 1 et 2
-* Battle Rape
-* BMX XXX
-* Cobra Club
-* Cirminal Girls
-* Dramatical Murder
-* Ethnic Cleansing
-* Genital Jousting
-* Grezzo 1 et 2
-* Harem Party
-* House Party
-* HunieCam Studio
-* HuniePop 1 & 2
-* Kamidori Alchemy Meister
-* Negligee
-* Porno Studio Tycoon
-* Purin to Ohuro
-* Purino Party
-* Radiator 2
-* RapeLay
-* Rinse and Repeat
-* Sakura Angels
-* Sakura Beach 1 et 2
-* Sakura Dungeon
-* Sakura Fantasy
-* Sakura Santa
-* Sakura Spirit
-* Sakura Swim Club
-* Second Life
-* Suck My Dick or Die!
-* The Guy Game
-* The Maiden Rape Assault: Violent Semen Inferno
-* What’s under your blanket !?
-* Witch Trainer
-* Yandere Simulator
+*   3DXChat
+*   Toutes les plateformes de chat vidéo aléatoires
+*   Artificial Girl 1, 2 et 3
+*   Artificial Academy 1 et 2
+*   Battle Rape
+*   BMX XXX
+*   Cobra Club
+*   Cirminal Girls
+*   Dramatical Murder
+*   Ethnic Cleansing
+*   Genital Jousting
+*   Grezzo 1 et 2
+*   Harem Party
+*   House Party
+*   HunieCam Studio
+*   HuniePop 1 & 2
+*   Kamidori Alchemy Meister
+*   Negligee
+*   Porno Studio Tycoon
+*   Purin to Ohuro
+*   Purino Party
+*   Radiator 2
+*   RapeLay
+*   Rinse and Repeat
+*   Sakura Angels
+*   Sakura Beach 1 et 2
+*   Sakura Dungeon
+*   Sakura Fantasy
+*   Sakura Santa
+*   Sakura Spirit
+*   Sakura Swim Club
+*   Second Life
+*   Suck My Dick or Die!
+*   The Guy Game
+*   The Maiden Rape Assault: Violent Semen Inferno
+*   What’s under your blanket !?
+*   Witch Trainer
+*   Yandere Simulator
 
 ### Contenu interdit : jeux d'argent et de hasard
 
@@ -744,20 +744,20 @@ Cette liste n’est pas exhaustive. Elle est régulièrement mise à jour, et ce
 
   Par exemple, les comportements suivants sont interdits sur Twitch :
 
-* Partager un code de parrainage vers un site de machine à sous avec votre chat
-* Inclure une bannière avec un lien vers des jeux de roulette en ligne
-* Recommander lors de votre stream un site comportant des jeux de dés
+*   Partager un code de parrainage vers un site de machine à sous avec votre chat
+*   Inclure une bannière avec un lien vers des jeux de roulette en ligne
+*   Recommander lors de votre stream un site comportant des jeux de dés
 
 De plus, à l'instar de notre [règlement sur les jeux interdits](https://safety.twitch.tv/s/article/Prohibited-Games), **Twitch n'autorise pas le streaming des sites ci-dessous ou le partage de liens vers ceux-ci dans le chat.** Nous prenons en compte de nombreux facteurs afin de déterminer si un site est autorisé ou non, y compris si le site présente les mesures de protection adéquates relatives à la limite de dépôt, la période d'attente ou encore au système de vérification d'âge. Nous vérifions également si les streamers utilisent ou encouragent l'utilisation d'un VPN pour contourner le géoblocage et si le site est agréé aux États-Unis ou dans d'autres juridictions qui fournissent une protection suffisante pour les consommateurs.
 
   Nous n'autorisons pas les sites suivants ou domaines associés :
 
-* stake.com
-* rollbit.com
-* duelbits.com
-* roobet.com
-* blaze.com
-* gamdom.com
+*   stake.com
+*   rollbit.com
+*   duelbits.com
+*   roobet.com
+*   blaze.com
+*   gamdom.com
 
 Nous mettrons cette liste à jour à l'avenir.
 
@@ -765,13 +765,13 @@ Nous mettrons cette liste à jour à l'avenir.
 
 _Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
 
-* Notre politique interdit de promouvoir ou de parrainer des paris de skins, par exemple pour les skins CSGO.
-* Les versions gratuites ou sociales des sites de jeux interdits ne sont pas autorisées non plus.
-* Nous autorisons le streaming de sites web basés sur les ligues fantasy, les paris sportifs et le poker pour le moment.
-* Les images ou logos contenant l'un des sites de jeux de hasard interdits mentionnés ci-dessus ne sont pas autorisés et sont considérés comme des liens directs vers ces sites de jeux.
-    * Exemple interdit : un logo représentant l'un des sites de jeux interdits de la liste apparaissant à l'écran à tout moment ou dans votre bio.
-* La restriction concernant les sites de jeu interdits s'applique, que vous participiez personnellement à des activités de pari ou non. 
-    * Exemple interdit : regarder ou rediffuser le jeu sur l'un des sites de jeux interdits listés ci-dessus. 
+*   Notre politique interdit de promouvoir ou de parrainer des paris de skins, par exemple pour les skins CSGO.
+*   Les versions gratuites ou sociales des sites de jeux interdits ne sont pas autorisées non plus.
+*   Nous autorisons le streaming de sites web basés sur les ligues fantasy, les paris sportifs et le poker pour le moment.
+*   Les images ou logos contenant l'un des sites de jeux de hasard interdits mentionnés ci-dessus ne sont pas autorisés et sont considérés comme des liens directs vers ces sites de jeux.
+    *   Exemple interdit : un logo représentant l'un des sites de jeux interdits de la liste apparaissant à l'écran à tout moment ou dans votre bio.
+*   La restriction concernant les sites de jeu interdits s'applique, que vous participiez personnellement à des activités de pari ou non. 
+    *   Exemple interdit : regarder ou rediffuser le jeu sur l'un des sites de jeux interdits listés ci-dessus. 
 
 Authenticité
 ------------
@@ -782,17 +782,17 @@ L'usurpation d'identité est une pratique malveillante qui mine la confiance dan
 
   Par exemple, vous ne pouvez pas :
 
-* Usurper l'identité du compte d'un partenaire Twitch
-* Prétendre être une célébrité dans le chat d'un streamer
-* Créer une « salle d’attente », c’est-à-dire un stream avec un titre, un tag ou une description le présentant comme une « salle d’attente » pour le stream de quelqu’un d’autre ou du contenu de chaîne ne contenant aucune réaction ni contenu original créé par le ou la propriétaire de la chaîne  
+*   Usurper l'identité du compte d'un partenaire Twitch
+*   Prétendre être une célébrité dans le chat d'un streamer
+*   Créer une « salle d’attente », c’est-à-dire un stream avec un titre, un tag ou une description le présentant comme une « salle d’attente » pour le stream de quelqu’un d’autre ou du contenu de chaîne ne contenant aucune réaction ni contenu original créé par le ou la propriétaire de la chaîne  
      
 
   Notes et clarifications concernant les sanctions :
 
 _Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
 
-* Si vous êtes victime d’une usurpation d’identité en tant que streamer sur Twitch et que le contenu ne remplit pas les conditions requises pour faire l’objet d’une mesure dans le cadre de la [procédure DMCA](https://www.twitch.tv/p/legal/dmca-guidelines/) (comme une marque commerciale), veuillez signaler le stream dans « Usurpation d’identité ». Veuillez fournir des informations complètes dans le rapport.
-    * Nous tenons compte d’un certain nombre de facteurs, tels que les identifiants et les bios, ainsi que du fait que la personne dont l’identité est usurpée envoie ou non le signalement, pour déterminer s’il y a lieu de procéder à des sanctions.
+*   Si vous êtes victime d’une usurpation d’identité en tant que streamer sur Twitch et que le contenu ne remplit pas les conditions requises pour faire l’objet d’une mesure dans le cadre de la [procédure DMCA](https://www.twitch.tv/p/legal/dmca-guidelines/) (comme une marque commerciale), veuillez signaler le stream dans « Usurpation d’identité ». Veuillez fournir des informations complètes dans le rapport.
+    *   Nous tenons compte d’un certain nombre de facteurs, tels que les identifiants et les bios, ainsi que du fait que la personne dont l’identité est usurpée envoie ou non le signalement, pour déterminer s’il y a lieu de procéder à des sanctions.
 
 ### Courriers indésirables, arnaques par e-mail et autres activités malveillantes
 
@@ -800,14 +800,14 @@ Les messages indésirables et autres pratiques trompeuses nuisent à l'expérien
 
   Par exemple, vous ne pouvez pas :
 
-* Publier de grandes quantités de messages ou de signalements utilisateur répétitifs et non désirés
-* Diffuser des publicités non autorisées
-* Vous livrer à l'hameçonnage, partager des programmes malveillants ou des virus
-* Arnaquer quelqu'un ou Twitch
-* Trafiquer vos statistiques d'audience (comme gonfler artificiellement les statistiques de suivi ou le nombre de spectateurs en direct)
-* Vendre ou partager des comptes d'utilisateur, des services ou des fonctionnalités
-* Frauder le système de récompenses de Twitch (comme les Drops ou les points de chaîne)
-* Vous livrer à la tricherie, au piratage, à l'utilisation d'un bot ou à l'altération de fichiers conférant au propriétaire du compte un avantage déloyal dans un jeu multijoueur en ligne
+*   Publier de grandes quantités de messages ou de signalements utilisateur répétitifs et non désirés
+*   Diffuser des publicités non autorisées
+*   Vous livrer à l'hameçonnage, partager des programmes malveillants ou des virus
+*   Arnaquer quelqu'un ou Twitch
+*   Trafiquer vos statistiques d'audience (comme gonfler artificiellement les statistiques de suivi ou le nombre de spectateurs en direct)
+*   Vendre ou partager des comptes d'utilisateur, des services ou des fonctionnalités
+*   Frauder le système de récompenses de Twitch (comme les Drops ou les points de chaîne)
+*   Vous livrer à la tricherie, au piratage, à l'utilisation d'un bot ou à l'altération de fichiers conférant au propriétaire du compte un avantage déloyal dans un jeu multijoueur en ligne
 
 Nous comprenons que les streamers sont parfois victimes d’usurpation de compte, d’arnaque ou de bots spectateurs orchestrés par un tiers malveillant. Nous disposons de méthodes pour détecter la partie responsable et nous ne pénalisons pas les streamers de bonne foi dans ces circonstances.  
  
@@ -816,18 +816,18 @@ Nous comprenons que les streamers sont parfois victimes d’usurpation de compte
 
 _Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
 
-* Les liens vers les profils de réseaux sociaux dans votre bio (À propos de moi) ou dans vos panneaux, y compris les liens vers les plateformes de streaming en direct, sont autorisés. 
-* Vous ne pouvez pas utiliser votre bio (À propos de moi) ou vos panneaux pour mettre activement en avant d’autres plateformes de streaming en direct, y compris de grandes bannières ou des messages encourageant les utilisateurs à regarder votre stream sur d’autres services.
-* Twitch ne doit pas être utilisé pour rediriger les utilisateurs vers un stream en direct sur une autre plateforme ou un autre service. 
-    * Par exemple, vous ne pouvez pas utiliser Twitch pour encourager les spectateurs à utiliser d’autres services de streaminge en live via des liens sur votre bio Twitch, des bannières, des codes QR, des titres de stream, des notifications de lancement de live, des commandes de chat ou d’autres moyens.
-* Les drops sont destinés à être gagnés lors de parties en direct avec votre communauté, et non pas en streamant du contenu sans rapport avec le jeu concerné, comme des images statiques, des rediffusions d’anciennes VoD/vidéos, ou d’autres cas de figure dans lesquels vous n’interagissez pas avec votre communauté.
-    * Exemple de comportement autorisé : streamer un jeu avec des drops et faire une petite pause avec une image statique temporaire « Bientôt de retour ».
-    * Exemple de comportement interdit : utiliser des VoD ou des images statiques pour streamer dans le but principal de faire du « Drop Farming ».
-* [L'audience partagée](https://link.twitch.tv/SharedViewership), qui utilise le chat partagé comme outil, est conçue pour mettre en évidence le nombre total de membres de la communauté présents lorsque deux streamers ou plus collaborent ensemble en direct. L'utilisation abusive de ces outils pour se mettre en avant artificiellement ou augmenter le nombre de vues sans une collaboration appropriée n'est pas autorisée, à quelques exceptions près, comme indiqué ci-dessous.
-    * Exemple autorisé : deux streamers jouent à un jeu et interagissent l'un avec l'autre par le biais du son (par ex : audio de Streamer ensemble ou communications du jeu).
-    * Exemple autorisé : un streamer travaille avec une marque pour apparaître sur son propre compte Twitch en même temps que sur la chaîne officielle de la marque à l'occasion de la sortie de son nouveau jeu ou produit, en utilisant l'audience partagée.
-    * Exemple interdit : deux streamers streament en live avec l'audience partagée, mais sans aucune collaboration active (aucun partage audio ou vidéo). Au lieu de cela, ils « s'hébergent » simplement mutuellement via le chat partagé pour augmenter leur nombre de vues partagées.
-    * Exemple interdit : utiliser le nombre de viewers pour mettre en avant un compte alternatif appartenant au streamer.
+*   Les liens vers les profils de réseaux sociaux dans votre bio (À propos de moi) ou dans vos panneaux, y compris les liens vers les plateformes de streaming en direct, sont autorisés. 
+*   Vous ne pouvez pas utiliser votre bio (À propos de moi) ou vos panneaux pour mettre activement en avant d’autres plateformes de streaming en direct, y compris de grandes bannières ou des messages encourageant les utilisateurs à regarder votre stream sur d’autres services.
+*   Twitch ne doit pas être utilisé pour rediriger les utilisateurs vers un stream en direct sur une autre plateforme ou un autre service. 
+    *   Par exemple, vous ne pouvez pas utiliser Twitch pour encourager les spectateurs à utiliser d’autres services de streaminge en live via des liens sur votre bio Twitch, des bannières, des codes QR, des titres de stream, des notifications de lancement de live, des commandes de chat ou d’autres moyens.
+*   Les drops sont destinés à être gagnés lors de parties en direct avec votre communauté, et non pas en streamant du contenu sans rapport avec le jeu concerné, comme des images statiques, des rediffusions d’anciennes VoD/vidéos, ou d’autres cas de figure dans lesquels vous n’interagissez pas avec votre communauté.
+    *   Exemple de comportement autorisé : streamer un jeu avec des drops et faire une petite pause avec une image statique temporaire « Bientôt de retour ».
+    *   Exemple de comportement interdit : utiliser des VoD ou des images statiques pour streamer dans le but principal de faire du « Drop Farming ».
+*   [L'audience partagée](https://link.twitch.tv/SharedViewership), qui utilise le chat partagé comme outil, est conçue pour mettre en évidence le nombre total de membres de la communauté présents lorsque deux streamers ou plus collaborent ensemble en direct. L'utilisation abusive de ces outils pour se mettre en avant artificiellement ou augmenter le nombre de vues sans une collaboration appropriée n'est pas autorisée, à quelques exceptions près, comme indiqué ci-dessous.
+    *   Exemple autorisé : deux streamers jouent à un jeu et interagissent l'un avec l'autre par le biais du son (par ex : audio de Streamer ensemble ou communications du jeu).
+    *   Exemple autorisé : un streamer travaille avec une marque pour apparaître sur son propre compte Twitch en même temps que sur la chaîne officielle de la marque à l'occasion de la sortie de son nouveau jeu ou produit, en utilisant l'audience partagée.
+    *   Exemple interdit : deux streamers streament en live avec l'audience partagée, mais sans aucune collaboration active (aucun partage audio ou vidéo). Au lieu de cela, ils « s'hébergent » simplement mutuellement via le chat partagé pour augmenter leur nombre de vues partagées.
+    *   Exemple interdit : utiliser le nombre de viewers pour mettre en avant un compte alternatif appartenant au streamer.
 
 ### Contournement d’une suspension
 
@@ -837,13 +837,13 @@ Dans le contexte de cette infraction, « faire participer » est défini comme
 
   Les streamers suspendus ne peuvent pas :
 
-* Créer un nouveau compte dans le but de contourner une suspension appliquée à votre compte principal
+*   Créer un nouveau compte dans le but de contourner une suspension appliquée à votre compte principal
 
 Les streamers autorisés sur Twitch ne peuvent pas :
 
-* Créer une chaîne servant à rediffuser le contenu d’un utilisateur suspendu (ex : les panneaux de la chaîne et son nom sont similaires à ceux de l’utilisateur suspendu et les rediffusions sont présentées sans commentaire)
-* Avoir un entretien en tête-à-tête avec un utilisateur suspendu ou participer à un stream avec un utilisateur suspendu dans un cadre de groupe où l’utilisateur suspendu participe activement au stream
-* Assister à et streamer sur Twitch un événement organisé par ou en l'honneur d'un utilisateur suspendu
+*   Créer une chaîne servant à rediffuser le contenu d’un utilisateur suspendu (ex : les panneaux de la chaîne et son nom sont similaires à ceux de l’utilisateur suspendu et les rediffusions sont présentées sans commentaire)
+*   Avoir un entretien en tête-à-tête avec un utilisateur suspendu ou participer à un stream avec un utilisateur suspendu dans un cadre de groupe où l’utilisateur suspendu participe activement au stream
+*   Assister à et streamer sur Twitch un événement organisé par ou en l'honneur d'un utilisateur suspendu
 
 Il peut arriver que les utilisateurs suspendus apparaissent sur votre stream, en raison de circonstances qui échappent à votre contrôle, telles que des tournois de jeux tiers, ou des interactions limitées dans le cadre de streams IRL. Cependant, nous attendons un effort de votre part pour ne pas les promouvoir activement d’une manière destinée à contourner leur suspension Twitch. **N’oubliez pas que vous êtes responsable de tout le contenu de vos streams, y compris des infractions à nos règles commises par des tiers**.
 
@@ -855,14 +855,14 @@ Cette politique est axée sur les utilisateurs Twitch qui partagent de façon r�
 
   Conformément à cette politique, nous traitons les sujets suivants et continuerons à mettre à jour cette liste à mesure que de nouvelles tendances apparaîtront : 
 
-* La désinformation qui cible les groupes protégés, déjà proscrite dans notre politique sur le harcèlement et les comportements haineux
-* La désinformation préjudiciable sur le secteur de la santé et les théories du complot répandues liées à des traitements dangereux ou à de fausses informations concernant la COVID-19 et le vaccin contre la COVID-19
-    * Les déclarations sur les traitements dont les dangers sont reconnus sans en indiquer les risques
-    * Les fausses informations concernant la COVID-19, ainsi que toute autre Urgence de santé publique de portée internationale (USPPI) déclarée par l'Organisation mondiale de la santé, qui entraînent des préjudices physiques imminents ou sont liées à un vaste complot
-* La désinformation soutenue par des réseaux de conspiration liés à la violence et/ou encourageant la violence
-* La désinformation civique qui nuit à l'intégrité d'un processus civique ou politique
-    * La mise en avant de fausses allégations pouvant être vérifiées liées au résultat d'un processus politique contrôlé (y compris le trucage d'élections, la falsification des bulletins de vote ou du dépouillement et toute autre fraude électorale)\*
-* En cas d'urgence (ex. : feux de forêt, tremblements de terre, fusillades), nous pouvons également prendre des mesures concernant la désinformation susceptible de porter atteinte à la sécurité publique.
+*   La désinformation qui cible les groupes protégés, déjà proscrite dans notre politique sur le harcèlement et les comportements haineux
+*   La désinformation préjudiciable sur le secteur de la santé et les théories du complot répandues liées à des traitements dangereux ou à de fausses informations concernant la COVID-19 et le vaccin contre la COVID-19
+    *   Les déclarations sur les traitements dont les dangers sont reconnus sans en indiquer les risques
+    *   Les fausses informations concernant la COVID-19, ainsi que toute autre Urgence de santé publique de portée internationale (USPPI) déclarée par l'Organisation mondiale de la santé, qui entraînent des préjudices physiques imminents ou sont liées à un vaste complot
+*   La désinformation soutenue par des réseaux de conspiration liés à la violence et/ou encourageant la violence
+*   La désinformation civique qui nuit à l'intégrité d'un processus civique ou politique
+    *   La mise en avant de fausses allégations pouvant être vérifiées liées au résultat d'un processus politique contrôlé (y compris le trucage d'élections, la falsification des bulletins de vote ou du dépouillement et toute autre fraude électorale)\*
+*   En cas d'urgence (ex. : feux de forêt, tremblements de terre, fusillades), nous pouvons également prendre des mesures concernant la désinformation susceptible de porter atteinte à la sécurité publique.
 
 \*Remarque : afin d'évaluer les allégations de désinformation civique, nous travaillons régulièrement avec des spécialistes et nous consultons les informations des commissions électorales, de la certification du Congrès et d'autres sources pertinentes.
 
