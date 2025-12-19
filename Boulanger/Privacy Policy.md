@@ -100,13 +100,13 @@ BOULANGER partage les données de la base client avec les magasins sous enseigne
 
 Dans le cadre de notre activité, nous sommes amenés à faire appel à des sous-traitants, auxquels nous transmettons vos données pour la réalisation des missions qui leurs sont confiées. Boulanger reste responsable du traitement réalisé sur vos données et nous nous assurons de la conformité de l’utilisation de vos informations et des normes de sécurité utilisées. Nous faisons appel à plusieurs catégories de sous- traitants :
 
-* Nos sous-traitants techniques (hébergement, supervision informatique …)
-* Nos sous-traitants logistiques (préparation des commandes, transport ...)
-* Nos sous-traitants de paiement (prévention de la fraude, prise en charge du paiement)
-* Nos sous-traitants en charge de la relation client (plate-forme téléphonique, tchat, avis produit, enquête de satisfaction, sondage, prise de RDV ...)
-* Nos sous-traitants en charge du service après-vente (stations de réparations, gestion des retours produits …)
-* Nos sous-traitants marketing (opérations de prospections, gestion des jeux concours, régies publicitaires, recommandations & personnalisation...)
-* Nos sous-traitants en charge de la gestion des communautés Boulanger (réseau social de la marque et FAQ communautaire)
+*   Nos sous-traitants techniques (hébergement, supervision informatique …)
+*   Nos sous-traitants logistiques (préparation des commandes, transport ...)
+*   Nos sous-traitants de paiement (prévention de la fraude, prise en charge du paiement)
+*   Nos sous-traitants en charge de la relation client (plate-forme téléphonique, tchat, avis produit, enquête de satisfaction, sondage, prise de RDV ...)
+*   Nos sous-traitants en charge du service après-vente (stations de réparations, gestion des retours produits …)
+*   Nos sous-traitants marketing (opérations de prospections, gestion des jeux concours, régies publicitaires, recommandations & personnalisation...)
+*   Nos sous-traitants en charge de la gestion des communautés Boulanger (réseau social de la marque et FAQ communautaire)
 
 ### Nos Prestataires de transport
 
@@ -130,18 +130,18 @@ S’agissant de l’exécution de la livraison, la responsabilité du traitement
 
 Dans le cadre de notre activité, nous sommes amenés à transmettre vos données à d’autres responsables de traitements. Cette transmission intervient lorsque BOULANGER
 
-* Propose des produits ou services vendus pour le compte d’autres sociétés (exemple Marchands de la Marketplace, B’DOM, B’DOM+, le Repreneur dans le cadre du service « Rachat Boulanger » …)
-* Fait intervenir des entreprises qui mettent en œuvre des traitements pour lesquels elles participent à la définition des finalités et des moyens, dans le cadre du paiement (exemple TRANSAX pour la sécurisation des chèques, PAYPAL pour le paiement, Oneytrust pour la sécurisation des transactions réalisées sur le site internet, etc.)
-* Envoie des données personnelles à Oney Bank, partenaire financier de BOULANGER, à des fins de facilitation d’accès des services de Oney Bank (crédit, carte de fidélité …) et d’analyses statistiques
-* Retourne les produits sous garantie constructeur au fabricant : le fabricant est amené à imposer son propre réseau de réparation. Le cas échéant, le constructeur met en place une enquête de satisfaction.
-* Transmet à l’alliance VALIUZ les données vous concernant à des fins statistiques, d’amélioration de notre connaissance client, d’établissement de profil clients, et de personnalisation des communications et, si vous avez consenti au dépôt de cookies publicitaires, à la personnalisation des publicités diffusées sur notre site ou sur des sites externes, y compris pour le compte d’annonceurs tiers
-* Est tenue par une obligation légale (exemple partenaire d’identification des cycles)
+*   Propose des produits ou services vendus pour le compte d’autres sociétés (exemple Marchands de la Marketplace, B’DOM, B’DOM+, le Repreneur dans le cadre du service « Rachat Boulanger » …)
+*   Fait intervenir des entreprises qui mettent en œuvre des traitements pour lesquels elles participent à la définition des finalités et des moyens, dans le cadre du paiement (exemple TRANSAX pour la sécurisation des chèques, PAYPAL pour le paiement, Oneytrust pour la sécurisation des transactions réalisées sur le site internet, etc.)
+*   Envoie des données personnelles à Oney Bank, partenaire financier de BOULANGER, à des fins de facilitation d’accès des services de Oney Bank (crédit, carte de fidélité …) et d’analyses statistiques
+*   Retourne les produits sous garantie constructeur au fabricant : le fabricant est amené à imposer son propre réseau de réparation. Le cas échéant, le constructeur met en place une enquête de satisfaction.
+*   Transmet à l’alliance VALIUZ les données vous concernant à des fins statistiques, d’amélioration de notre connaissance client, d’établissement de profil clients, et de personnalisation des communications et, si vous avez consenti au dépôt de cookies publicitaires, à la personnalisation des publicités diffusées sur notre site ou sur des sites externes, y compris pour le compte d’annonceurs tiers
+*   Est tenue par une obligation légale (exemple partenaire d’identification des cycles)
 
 Vos données
 
-* Sont collectées directement par BOULANGER, nous sommes responsables des informations que nous conservons.
-* Sont transmises à nos partenaires pour les finalités décrites ci-dessus.
-* Notre partenaire est le responsable de traitement des données qui lui sont transmises. Pour tout exercice de vos droits d’accès, de rectification ou d’opposition, nous vous invitons à consulter l’onglet « Mentions Légales » ou « Politique de confidentialité » de l’entreprise partenaire concernée et/ou à consulter les mentions rédigées ci-dessous pour certains de nos partenaires.
+*   Sont collectées directement par BOULANGER, nous sommes responsables des informations que nous conservons.
+*   Sont transmises à nos partenaires pour les finalités décrites ci-dessus.
+*   Notre partenaire est le responsable de traitement des données qui lui sont transmises. Pour tout exercice de vos droits d’accès, de rectification ou d’opposition, nous vous invitons à consulter l’onglet « Mentions Légales » ou « Politique de confidentialité » de l’entreprise partenaire concernée et/ou à consulter les mentions rédigées ci-dessous pour certains de nos partenaires.
 
 BOULANGER ne cèdera pas vos données personnelles à des entreprises dont la finalité est l’acquisition de nouveaux prospects et l’envoi de prospection commerciale par SMS et/ou par Email sans accord exprès de votre part.
 
@@ -222,9 +222,9 @@ Les données traitées par VALIUZ sont pseudonymisées, c'est-à-dire qu’elles
   
 Pour proposer le service décrit ci-dessus, VALIUZ combine les données suivantes : 
 
-* les informations personnelles que vous avez communiquées aux membres de l’alliance (exemple: tranche d’âge, localisation, sexe…), 
-* vos historiques d’achats sur le web et en magasin auprès des membres de l’alliance, 
-* si vous avez accepté le cookie VALIUZ, votre navigation en ligne (pages visitées, produits les plus  consultés, etc), des données librement accessibles au public (open-data) ou issues de base de données fournies par des tiers (exemple: INSEE).
+*   les informations personnelles que vous avez communiquées aux membres de l’alliance (exemple: tranche d’âge, localisation, sexe…), 
+*   vos historiques d’achats sur le web et en magasin auprès des membres de l’alliance, 
+*   si vous avez accepté le cookie VALIUZ, votre navigation en ligne (pages visitées, produits les plus  consultés, etc), des données librement accessibles au public (open-data) ou issues de base de données fournies par des tiers (exemple: INSEE).
 
 Votre numéro de téléphone, votre adresse email, votre adresse postale ou encore vos noms et prénoms ne sont pas transmis aux membres de l’alliance. Un membre de l’alliance qui ne vous connaît pas ne pourra jamais recevoir d’information vous concernant.  VALIUZ ne réutilise pas les données ainsi collectées pour vous adresser des communications et ne gère pas les communications (newsletter) ou publicités qui vous sont adressées par ses membres.  
   
@@ -240,8 +240,8 @@ Les données utilisées par VALIUZ reposent sur un historique de 3 ans maximum. 
 Les données de navigation collectées par le cookie VALIUZ sont conservées 12 mois maximum.    
 Opposition au partage de mes données Boulanger à VALIUZ  
 Si vous souhaitez vous opposer spécifiquement au partage des données par Boulanger aux autres membres de l’alliance VALIUZ, vous pouvez :  
-*  Paramétrer votre opposition depuis votre compte rubrique « Mes consentements » ou nous adresser un email à l’adresse cil@boulanger.com en indiquant expressément « Opposition au partage VALIUZ »
-* Supprimer le cookie VALIUZ (« cookie publicitaire ») en paramétrant vos cookies
+*    Paramétrer votre opposition depuis votre compte rubrique « Mes consentements » ou nous adresser un email à l’adresse cil@boulanger.com en indiquant expressément « Opposition au partage VALIUZ »
+*   Supprimer le cookie VALIUZ (« cookie publicitaire ») en paramétrant vos cookies
   
 Vous pouvez de plus refuser que les publicités diffusées sur les sites tiers soient personnalisées en refusant les cookies publicitaires déposés par ces sites. Opposition globale au service VALIUZ  
 Si vous souhaitez vous opposer au service VALIUZ d’une manière globale et pour toutes les entreprises membres, vous pouvez vous rendre sur le site VALIUZ et renseigner votre adresse Email, en [cliquant ici](https://valiuz.com/mes-droits/)  
@@ -263,8 +263,8 @@ Les communications qui seront envoyées par Boulanger peuvent reposer sur un pro
 
 Un SMS peut être sous forme textuelle ou vocale. La forme vocale est appelée VMS pour « Voice message service ». Le VMS est un message téléphonique pré-enregistré.
 
-* Vous avez la possibilité de vous abonner aux offres BOULANGER en vous inscrivant à notre newsletter.
-* A l’occasion d’une réservation, d’un achat ou d’une intervention service, vous êtes amenés à renseigner votre adresse mail et/ou vote numéro de téléphone portable. Si vous êtes client de BOULANGER, vous recevrez les offres commerciales et les bons plans de la part de BOULANGER par SMS et/ou par Email. **Vous pouvez vous opposer à cette utilisation immédiatement en le signalant au moment de la collecte de vos données** ou plus tard en exerçant votre droit Informatique et Libertés.
+*   Vous avez la possibilité de vous abonner aux offres BOULANGER en vous inscrivant à notre newsletter.
+*   A l’occasion d’une réservation, d’un achat ou d’une intervention service, vous êtes amenés à renseigner votre adresse mail et/ou vote numéro de téléphone portable. Si vous êtes client de BOULANGER, vous recevrez les offres commerciales et les bons plans de la part de BOULANGER par SMS et/ou par Email. **Vous pouvez vous opposer à cette utilisation immédiatement en le signalant au moment de la collecte de vos données** ou plus tard en exerçant votre droit Informatique et Libertés.
 
 ### Par notification Push et réseaux sociaux
 
@@ -285,15 +285,15 @@ BOULANGER peut être amenée à vous contacter par téléphone pour le suivi de 
 
 BOULANGER peut être amenée à vous contacter par SMS et par Email pour les raisons suivantes
 
-* Pour l'envoi de la facture
-* Pour le suivi ou préparation de la commande
-* Pour le suivi du SAV
-* Pour le suivi de votre RDV
-* Pour la dépose d'un avis produit suite à un achat
-* Pour la réalisation d'une enquête de satisfaction suite à un évènement tel que notamment une intervention SAV, un achat, la livraison d'un produit, un appel de votre part à notre service client.
-* Communications liées à votre adhésion au programme de fidélité
-* Communications liées à votre adhésion au programme Infinity
-* En réponse à une demande de renseignement auprès de notre relation client et/ou d’un magasin
+*   Pour l'envoi de la facture
+*   Pour le suivi ou préparation de la commande
+*   Pour le suivi du SAV
+*   Pour le suivi de votre RDV
+*   Pour la dépose d'un avis produit suite à un achat
+*   Pour la réalisation d'une enquête de satisfaction suite à un évènement tel que notamment une intervention SAV, un achat, la livraison d'un produit, un appel de votre part à notre service client.
+*   Communications liées à votre adhésion au programme de fidélité
+*   Communications liées à votre adhésion au programme Infinity
+*   En réponse à une demande de renseignement auprès de notre relation client et/ou d’un magasin
 
 #### [Exercer mes droits sur mes données](#quels_sont_mes_droits_vis_a_vis_de_mes_donnees)
 
@@ -305,26 +305,26 @@ Vous disposez également du droit de formuler une réclamation auprès de la CNI
 
 ### Comment exercer mes droits vis-à-vis de mes données ?
 
-* **Depuis votre compte** : Vous accédez à vos données et votre historique d’achat. Depuis la rubrique « mes consentements » vous pouvez modifier vos choix.
-* **Depuis les liens de désabonnement en bas des Emails ou par STOP SMS**  
+*   **Depuis votre compte** : Vous accédez à vos données et votre historique d’achat. Depuis la rubrique « mes consentements » vous pouvez modifier vos choix.
+*   **Depuis les liens de désabonnement en bas des Emails ou par STOP SMS**  
     Chaque SMS, envoyé de notre initiative, vous informera de la possibilité d’un désabonnement « STOP SMS » à un numéro non surtaxé. Pour des raisons techniques, l’arrêt d’envoi de nos offres n’est pas immédiat. Un délai de 48 maximum est parfois constaté afin d’enregistrer et traiter votre demande
-* **En écrivant** votre demande par courrier postal à Boulanger SA - DPO - , Avenue de la Motte 59810 Lesquin ou à l’adresse courriel - cil@boulanger.com
-* **Par votre inscription sur BLOCTEL**  
+*   **En écrivant** votre demande par courrier postal à Boulanger SA - DPO - , Avenue de la Motte 59810 Lesquin ou à l’adresse courriel - cil@boulanger.com
+*   **Par votre inscription sur BLOCTEL**  
     Conformément aux articles L.223-1 et suivants du code de la consommation, si vous ne souhaitez plus être démarché par téléphone sur le numéro communiqué à Boulanger vous pouvez inscrire à tout moment ce numéro de téléphone sur la liste d’opposition au démarchage téléphonique par Internet sur le site  ⦁ www.bloctel.gouv.fr .
     
-* **\- Push Notification : la désactivation des notifications doit être effectuée directement sur votre appareil**
-* **\- Push notification sur votre téléphone :** vous pouvez à tout moment désactiver les notifications dans les paramétrages de votre téléphone mobile ainsi que dans l'application en vous rendant dans « mon compte » rubrique mes préférences.
-* **\- Push notification sur le WEB :** vous pouvez à tout moment désactiver les notifications dans les paramétrages de votre navigateur internet ou bloquer les notifications directement sur une des notifications reçues
+*   **\- Push Notification : la désactivation des notifications doit être effectuée directement sur votre appareil**
+*   **\- Push notification sur votre téléphone :** vous pouvez à tout moment désactiver les notifications dans les paramétrages de votre téléphone mobile ainsi que dans l'application en vous rendant dans « mon compte » rubrique mes préférences.
+*   **\- Push notification sur le WEB :** vous pouvez à tout moment désactiver les notifications dans les paramétrages de votre navigateur internet ou bloquer les notifications directement sur une des notifications reçues
 
 ### Bon à savoir
 
-* **Le droit d’effacement** c’est le droit pour toute personne à s’opposer, pour des motifs légitimes, à figurer dans un fichier.
-* **Le droit d’accès** c’est le droit pour toute personne d’obtenir la communication de toutes les informations la concernant détenues par BOULANGER.
-* **Le droit de portabilité** c’est le droit d'obtenir que ses données à caractère personnel soient transmises dans un format structuré à elle-même ou directement d'un responsable du traitement à un autre, lorsque cela est techniquement possible
-* **Le droit de rectification** c’est le droit pour toute personne d’obtenir la rectification des informations inexactes la concernant détenues par BOULANGER.
-* **Le droit d’opposition**   
+*   **Le droit d’effacement** c’est le droit pour toute personne à s’opposer, pour des motifs légitimes, à figurer dans un fichier.
+*   **Le droit d’accès** c’est le droit pour toute personne d’obtenir la communication de toutes les informations la concernant détenues par BOULANGER.
+*   **Le droit de portabilité** c’est le droit d'obtenir que ses données à caractère personnel soient transmises dans un format structuré à elle-même ou directement d'un responsable du traitement à un autre, lorsque cela est techniquement possible
+*   **Le droit de rectification** c’est le droit pour toute personne d’obtenir la rectification des informations inexactes la concernant détenues par BOULANGER.
+*   **Le droit d’opposition**   
     Le droit d'opposition s'exerce soit au moment de la collecte d’informations, soit plus tard, en s'adressant au responsable du fichier. En matière de prospection commerciale, toute personne peut s’opposer à tout moment à ce que ses données soient diffusées, transmises ou conservées. Ce droit peut s'exercer sans avoir à justifier d'un motif légitime..
-* **Le droit de définir des directives relatives au sort de mes données à caractère personnel après mon décès.**  
+*   **Le droit de définir des directives relatives au sort de mes données à caractère personnel après mon décès.**  
     En l'absence de directives ou de mention contraire dans lesdites directives, les héritiers de la personne concernée peuvent après son décès exercer les droits sur les données personnelles du défunt.
-* **Le droit de limitation du traitement**  
+*   **Le droit de limitation du traitement**  
     C’est le droit de faire suspendre un traitement le temps qu’une vérification puisse avoir lieu (vérifier l’exactitude des données personnelles, vérifier si les motifs légitimes donnés par la personne prévalent sur ceux du responsable de traitement dans le cas d’une demande d’opposition etc.)
