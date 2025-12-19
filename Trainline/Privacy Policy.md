@@ -16,8 +16,8 @@ Qui sommes-nous et que faisons-nous ?
 
 Nous sommes Trainline. Nous sommes un groupe constitué de sociétés qui mettent leurs efforts en commun pour vous permettre de vous rendre là où vous souhaitez aller : 
 
-* Trainline.com Limited
-* Trainline SAS
+*   Trainline.com Limited
+*   Trainline SAS
 
 Tout comme vous, vos données voyagent. La façon dont nous collectons et utilisons vos données dépend de l'endroit où vous vous rendez et de la compagnie ferroviaire ou de bus avec laquelle vous voyagez. 
 
@@ -26,10 +26,10 @@ Vos données personnelles, nos promesses
 
 Nous accordons une grande importance à vos données personnelles. Nous nous engageons à respecter ces quatre promesses pour protéger vos données lors de toute utilisation de notre site Internet ou de notre application : 
 
-* Nous vous informerons en toute transparence des données personnelles que nous utilisons, de la façon dont nous les utilisons, et surtout, des raisons pour lesquelles nous en avons besoin. 
-* Nous vous laisserons le choix concernant le traitement de vos données et nous vous indiquerons clairement comment nous les utilisons.
-* Nous veillerons à préserver la sécurité de vos données personnelles, en utilisant les meilleurs technologies, personnes et processus possibles. 
-* Nous évitons d'utiliser un vocabulaire trop technique pour vous aider à prendre des décisions éclairées concernant vos données personnelles.
+*   Nous vous informerons en toute transparence des données personnelles que nous utilisons, de la façon dont nous les utilisons, et surtout, des raisons pour lesquelles nous en avons besoin. 
+*   Nous vous laisserons le choix concernant le traitement de vos données et nous vous indiquerons clairement comment nous les utilisons.
+*   Nous veillerons à préserver la sécurité de vos données personnelles, en utilisant les meilleurs technologies, personnes et processus possibles. 
+*   Nous évitons d'utiliser un vocabulaire trop technique pour vous aider à prendre des décisions éclairées concernant vos données personnelles.
 
 Les données personnelles que vous nous fournissez
 -------------------------------------------------
@@ -38,13 +38,13 @@ Il se peut que vous deviez nous fournir certaines données personnelles pour uti
 
 Les données personnelles sont toutes les informations qui permettent de vous identifier. Il peut s'agir d'informations comme : 
 
-* votre nom 
-* votre adresse e-mail ou votre adresse de facturation 
-* votre âge 
-* les informations de votre carte bancaire 
-* votre numéro de téléphone  
-* votre adresse postale
-* les informations relatives aux éventuelles cartes de réduction ou de fidélité utilisées 
+*   votre nom 
+*   votre adresse e-mail ou votre adresse de facturation 
+*   votre âge 
+*   les informations de votre carte bancaire 
+*   votre numéro de téléphone  
+*   votre adresse postale
+*   les informations relatives aux éventuelles cartes de réduction ou de fidélité utilisées 
 
 Les données personnelles d'autres personnes que vous nous fournissez
 --------------------------------------------------------------------
@@ -60,12 +60,12 @@ Nous utilisons vos informations de différentes façons. Ce que nous en faisons 
 
 ### Les informations de votre carte bancaire et l'adresse associée à votre carte
 
-* Nécessaires pour le paiement des billets et le versement des remboursements et des compensations pour les retards, si vous y avez droit.
-* Il se peut que certaines des compagnies de transport avec qui nous travaillons utilisent vos données dans leur propre système de paiement ou de billetterie en ligne afin d'émettre vos billets.
+*   Nécessaires pour le paiement des billets et le versement des remboursements et des compensations pour les retards, si vous y avez droit.
+*   Il se peut que certaines des compagnies de transport avec qui nous travaillons utilisent vos données dans leur propre système de paiement ou de billetterie en ligne afin d'émettre vos billets.
 
 **Base juridique du traitement :** le traitement est nécessaire à l'exécution d'un contrat.
 
-* Pour éviter et détecter les fraudes à votre encontre ou à l'encontre de Trainline.
+*   Pour éviter et détecter les fraudes à votre encontre ou à l'encontre de Trainline.
 
 **Base juridique du traitement :** le traitement est nécessaire à la protection d'un intérêt légitime de Trainline.
 
@@ -73,10 +73,10 @@ Nous utilisons vos informations de différentes façons. Ce que nous en faisons 
 
 Nous pouvons recueillir des données personnelles (y compris votre nom, adresse e-mail, adresse postale et les détails de votre trajet) dans le but de vous aider à voyager.
 
-* Pour garantir la délivrance de vos billets.
-* Pour vous communiquer des informations importantes : confirmations de réservation, messages concernant des perturbations, informations sur un remboursement ou une compensation liée à un retard et messages de service.
-* Pour mettre votre compte à jour (uniquement si vous avez décidé d'en créer un).
-* La compagnie concernée a besoin de ces informations pour créer vos billets et peut avoir besoin de vous contacter en cas de perturbation.
+*   Pour garantir la délivrance de vos billets.
+*   Pour vous communiquer des informations importantes : confirmations de réservation, messages concernant des perturbations, informations sur un remboursement ou une compensation liée à un retard et messages de service.
+*   Pour mettre votre compte à jour (uniquement si vous avez décidé d'en créer un).
+*   La compagnie concernée a besoin de ces informations pour créer vos billets et peut avoir besoin de vous contacter en cas de perturbation.
 
 **Base juridique du traitement :** le traitement est nécessaire à l'exécution d'un contrat.
 
@@ -132,9 +132,9 @@ Si vous choisissez de remplir le formulaire pour recevoir le badge « Bébé à 
 
 ### Date de naissance ou tranche d'âge
 
-* Les compagnies de transport proposent des tarifs différents en fonction de l'âge. Nous utilisons cette information pour nous assurer que vous achetez le bon billet.
+*   Les compagnies de transport proposent des tarifs différents en fonction de l'âge. Nous utilisons cette information pour nous assurer que vous achetez le bon billet.
 
-* Certaines compagnies de transport proposent des tarifs réduits pour les plus jeunes et les seniors. Quand c'est le cas, il se peut que la compagnie concernée ait besoin de votre date de naissance pour s'assurer que vous avez droit à la réduction.
+*   Certaines compagnies de transport proposent des tarifs réduits pour les plus jeunes et les seniors. Quand c'est le cas, il se peut que la compagnie concernée ait besoin de votre date de naissance pour s'assurer que vous avez droit à la réduction.
 
 **Base juridique du traitement :** le traitement est nécessaire à l'exécution d'un contrat.
 
@@ -142,16 +142,16 @@ Si vous choisissez de remplir le formulaire pour recevoir le badge « Bébé à 
 
 Nous pouvons recueillir des données personnelles (y compris votre nom, votre âge, votre adresse e-mail et les informations de votre carte de réduction) lorsque vous achetez ou que vous utilisez des cartes de réduction sur Trainline.
 
-* Nous recueillons ces informations dans le but de vous proposer des cartes de réduction à la vente et de vérifier votre éligibilité à l'achat de certaines cartes.
-* Nous les recueillons également dans le but de pouvoir appliquer une réduction sur vos billets (le cas échéant), ou de cumuler les points de fidélité des programmes auxquels vous adhérez.
-* Nous partageons ces données avec les transporteurs et les émetteurs de cartes de fidélité concernés.
-* Nous partagerons également certaines données (votre nom et votre adresse e-mail) avec ATOC Ltd qui agit comme contrôleur des données indépendant dans le cadre de la vente de cartes de réduction. Les clients concluent un contrat séparé avec ATOC Ltd lors de l'achat d'une carte de réduction. Pour en savoir plus, veuillez consulter la [Politique de confidentialité d'ATOC](https://www.railcard.co.uk/privacy-notice/).
-* ATOC Ltd, qui agit comme contrôleur des données indépendant, utilisera ces données (votre nom et votre adresse e-mail) à des fins de prévention et de lutte contre la fraude. Pour en savoir plus, veuillez consulter la [Politique de confidentialité d'ATOC](https://www.railcard.co.uk/privacy-notice/).
+*   Nous recueillons ces informations dans le but de vous proposer des cartes de réduction à la vente et de vérifier votre éligibilité à l'achat de certaines cartes.
+*   Nous les recueillons également dans le but de pouvoir appliquer une réduction sur vos billets (le cas échéant), ou de cumuler les points de fidélité des programmes auxquels vous adhérez.
+*   Nous partageons ces données avec les transporteurs et les émetteurs de cartes de fidélité concernés.
+*   Nous partagerons également certaines données (votre nom et votre adresse e-mail) avec ATOC Ltd qui agit comme contrôleur des données indépendant dans le cadre de la vente de cartes de réduction. Les clients concluent un contrat séparé avec ATOC Ltd lors de l'achat d'une carte de réduction. Pour en savoir plus, veuillez consulter la [Politique de confidentialité d'ATOC](https://www.railcard.co.uk/privacy-notice/).
+*   ATOC Ltd, qui agit comme contrôleur des données indépendant, utilisera ces données (votre nom et votre adresse e-mail) à des fins de prévention et de lutte contre la fraude. Pour en savoir plus, veuillez consulter la [Politique de confidentialité d'ATOC](https://www.railcard.co.uk/privacy-notice/).
 
 **Base juridique du traitement :** le traitement est nécessaire à l'exécution d'un contrat.
 
-* Si vous avez choisi de recevoir des informations marketing, nous pouvons également utiliser les données ci-dessus pour vous contacter afin de vous proposer des offres, réductions et des conseils pour utiliser au mieux votre carte de réduction ou de fidélité. Veuillez consulter la section marketing ci-dessus pour plus d'informations.
-* Nous pouvons également vous contacter pour vous envoyer des informations de service utiles : par exemple, pour vous avertir que votre carte de réduction arrive ou est arrivée à expiration et pour vous fournir des informations sur les critères d’éligibilité, les restrictions d'utilisation et les tarifs minimums associés à votre carte.
+*   Si vous avez choisi de recevoir des informations marketing, nous pouvons également utiliser les données ci-dessus pour vous contacter afin de vous proposer des offres, réductions et des conseils pour utiliser au mieux votre carte de réduction ou de fidélité. Veuillez consulter la section marketing ci-dessus pour plus d'informations.
+*   Nous pouvons également vous contacter pour vous envoyer des informations de service utiles : par exemple, pour vous avertir que votre carte de réduction arrive ou est arrivée à expiration et pour vous fournir des informations sur les critères d’éligibilité, les restrictions d'utilisation et les tarifs minimums associés à votre carte.
 
 **Base juridique du traitement :** le traitement est nécessaire dans les intérêts légitimes de Trainline et de ses clients.
 
@@ -159,14 +159,14 @@ Nous pouvons recueillir des données personnelles (y compris votre nom, votre â
 
 Nous pouvons recueillir des données personnelles (notamment votre nom, adresse e-mail, les informations relatives à votre voyage et à votre billet, votre mode de paiement, numéro de Photocard et les informations relatives à vos réductions) lorsque vous achetez un Season Ticket chez Trainline.
 
-* Nous partagerons ces données avec les transporteurs ferroviaires britanniques concernés par l'intermédiaire de ATOC Limited (ATOC) et de Rail Settlement Plan (RSP), qui agissent au nom des transporteurs ferroviaires britanniques et qui sont des contrôleurs de données indépendants.
-* Nous collecterons et partagerons ces informations dans le but de : confirmer votre identité ; gérer le billet et résoudre les problèmes liés au Season Ticket ; prévenir la fraude ; et fournir des informations pertinentes sur votre voyage.
-* Nous collecterons et partagerons également ces informations afin de faire respecter les termes du contrat d'abonnement qui vous lie au transporteur ferroviaire britannique concerné.
+*   Nous partagerons ces données avec les transporteurs ferroviaires britanniques concernés par l'intermédiaire de ATOC Limited (ATOC) et de Rail Settlement Plan (RSP), qui agissent au nom des transporteurs ferroviaires britanniques et qui sont des contrôleurs de données indépendants.
+*   Nous collecterons et partagerons ces informations dans le but de : confirmer votre identité ; gérer le billet et résoudre les problèmes liés au Season Ticket ; prévenir la fraude ; et fournir des informations pertinentes sur votre voyage.
+*   Nous collecterons et partagerons également ces informations afin de faire respecter les termes du contrat d'abonnement qui vous lie au transporteur ferroviaire britannique concerné.
 
 **Base juridique du traitement :** le traitement est nécessaire à l'exécution d'un contrat avec Trainline et dans l'intérêt légitime des transporteurs ferroviaires britanniques concernés.
 
-* Si Trainline cessait de vendre des Saison Tickets, les données personnelles (telles qu'énumérées ci-dessus) concernant les clients dont les Season Tickets seraient toujours en cours de validité pourront être transmises aux transporteurs ferroviaires britanniques concernés (via ATOC et RSP).
-* Les transporteurs ferroviaires britanniques concernés pourront utiliser ces informations pour fournir des services d'après-vente, tels que l'émission d'un remboursement, d'un double ou d'un billet de remplacement.
+*   Si Trainline cessait de vendre des Saison Tickets, les données personnelles (telles qu'énumérées ci-dessus) concernant les clients dont les Season Tickets seraient toujours en cours de validité pourront être transmises aux transporteurs ferroviaires britanniques concernés (via ATOC et RSP).
+*   Les transporteurs ferroviaires britanniques concernés pourront utiliser ces informations pour fournir des services d'après-vente, tels que l'émission d'un remboursement, d'un double ou d'un billet de remplacement.
 
 **Base juridique du traitement :** intérêts légitimes de Trainline et des transporteurs ferroviaires britanniques concernés.
 
@@ -209,8 +209,8 @@ Les navigateurs Internet de tous les appareils ainsi que les applications utilis
 
 Votre emplacement peut être déterminé de façon plus ou moins précise grâce :
 
-* **Au système GPS**
-* **À votre adresse IP**[](https://policies.google.com/privacy?hl=en-US#footnote-ip)
+*   **Au système GPS**
+*   **À votre adresse IP**[](https://policies.google.com/privacy?hl=en-US#footnote-ip)
 
 Bien que certaines données de localisation soient collectées automatiquement aux fins précisées ci-dessus, il vous sera demandé si vous souhaitez partager ces informations avec nous quand vous utiliserez un appareil ou navigateur Internet connecté au réseau GPS. Vous pouvez activer ou désactiver cette option dans les paramètres de votre appareil ou de votre navigateur à tout moment.
 
@@ -218,8 +218,8 @@ Bien que certaines données de localisation soient collectées automatiquement a
 
 Quand vous vous connectez à votre compte sur un réseau social comme Facebook ou Google, des cookies sont transmis. Ces cookies peuvent collecter des informations sur votre adresse IP et sur les pages que vous consultez.
 
-* **Adresse IP**
-* **Autres données pouvant permettre de vous identifier**
+*   **Adresse IP**
+*   **Autres données pouvant permettre de vous identifier**
 
 **Base juridique du traitement :** le traitement repose sur le consentement – Vous choisissez de vous connecter, ou non, sur notre site Internet en utilisant Google, Apple ou Facebook.
 
@@ -257,7 +257,7 @@ TPS
 
 Nous pouvons collecter certaines de vos données à caractère personnel, notamment :
 
-* Des informations vous concernant (par exemple votre prénom, votre nom, le nom de votre entreprise, votre adresse e-mail, l'intitulé de votre poste et votre secteur d'activité).
+*   Des informations vous concernant (par exemple votre prénom, votre nom, le nom de votre entreprise, votre adresse e-mail, l'intitulé de votre poste et votre secteur d'activité).
 
 Nous pouvons vous joindre si vous nous contactez avec l'intention d'en savoir plus sur Trainline Partner Solutions ou l'un de nos produits associés, par un canal direct ou à l'aide du formulaire de contact. Nous utilisons aussi vos données à caractère personnel dans le but de vous informer de nos remises, ventes, offres et plus encore. Vous pouvez vous désabonner de ces communications à tout moment en suivant le lien de désabonnement. 
 
