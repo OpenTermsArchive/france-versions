@@ -1,7 +1,7 @@
-* [Terms and Conditions of Use](https://www.deezer.com/legal/cgu)
-* [Offer Terms and Conditions of Use](https://www.deezer.com/legal/premium-service-terms)
-* [Terms and Conditions for the Deezer Service as distributed by its Partners](https://www.deezer.com/legal/partners-term)
-* [Previous Terms and Conditions](https://www.deezer.com/legal/cgu-old)
+*   [Terms and Conditions of Use](https://www.deezer.com/legal/cgu)
+*   [Offer Terms and Conditions of Use](https://www.deezer.com/legal/premium-service-terms)
+*   [Terms and Conditions for the Deezer Service as distributed by its Partners](https://www.deezer.com/legal/partners-term)
+*   [Previous Terms and Conditions](https://www.deezer.com/legal/cgu-old)
 
 Terms of Use
 ============
@@ -115,11 +115,11 @@ Without prejudice to any damages that DEEZER may claim, DEEZER has the right to 
 
 – Does not comply with the Terms and especially:
 
-* Infringes DEEZER’s or any third-party’s intellectual property rights;
-* Bypasses or attempts to bypass the protective technical measures set up by DEEZER, as mentioned in Article 6 above;
-* Uses multiple simultaneous connections with the same account or attempts to do so;
-* Uses a payment method that appears as no longer valid and/or active at any time during the subscription of the Deezer User;
-* Provides false information at the time of his/her subscription to the Deezer Service;
+*   Infringes DEEZER’s or any third-party’s intellectual property rights;
+*   Bypasses or attempts to bypass the protective technical measures set up by DEEZER, as mentioned in Article 6 above;
+*   Uses multiple simultaneous connections with the same account or attempts to do so;
+*   Uses a payment method that appears as no longer valid and/or active at any time during the subscription of the Deezer User;
+*   Provides false information at the time of his/her subscription to the Deezer Service;
 
 – Carries on activities prejudicial to DEEZER’s commercial interests;
 
