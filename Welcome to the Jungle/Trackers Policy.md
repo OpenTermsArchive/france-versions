@@ -39,8 +39,8 @@ Le dépôt des cookies sur votre terminal suppose le recueil de votre consenteme
 
 Vous pouvez néanmoins les paramétrer à tout moment en cliquant sur le lien suivant :
 
-* Pour le site welcometothejungle.com : Paramétrer les cookies.
-* Pour le site solutions.welcometothejungle.com : Paramétrer les cookies
+*   Pour le site welcometothejungle.com : Paramétrer les cookies.
+*   Pour le site solutions.welcometothejungle.com : Paramétrer les cookies
 
 La suppression de cookies fonctionnels, qui sont nécessaires à la fourniture de contenus par Welcome to the Jungle, peut vous empêcher d’accéder à certains contenus du Site.
 
@@ -54,10 +54,10 @@ Vous avez également la possibilité de gérer le dépôt de cookies à l’aide
 
 La gestion des cookies diffère selon la configuration de chaque navigateur. Pour plus de détails, cliquez sur les liens ci-dessous.
 
-* Pour Internet Explorer : [https://support.microsoft.com/en-gb/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d](https://www.welcometothejungle.com/fr/pages/via%20ce%20lien)
-* Pour Safari : [https://support.apple.com/en-gb/guide/safari/sfri11471/mac](https://www.welcometothejungle.com/fr/pages/via%20ce%20lien)
-* Pour Google Chrome : [https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en](https://www.welcometothejungle.com/fr/pages/via%20ce%20lien)
-* Pour Firefox : [https://support.mozilla.org/fr/kb/protection-renforcee-contre-pistage-firefox-ordinateur](https://www.welcometothejungle.com/fr/pages/via%20ce%20lien)
+*   Pour Internet Explorer : [https://support.microsoft.com/en-gb/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d](https://www.welcometothejungle.com/fr/pages/via%20ce%20lien)
+*   Pour Safari : [https://support.apple.com/en-gb/guide/safari/sfri11471/mac](https://www.welcometothejungle.com/fr/pages/via%20ce%20lien)
+*   Pour Google Chrome : [https://support.google.com/chrome/answer/95647?hl=fr&hlrm=en](https://www.welcometothejungle.com/fr/pages/via%20ce%20lien)
+*   Pour Firefox : [https://support.mozilla.org/fr/kb/protection-renforcee-contre-pistage-firefox-ordinateur](https://www.welcometothejungle.com/fr/pages/via%20ce%20lien)
 
 Ce paramétrage sera susceptible de modifier votre navigation sur Internet et vos conditions d’accès à certains services nécessitant l’utilisation de cookies.
 
@@ -71,8 +71,8 @@ Vous pouvez décider de modifier le paramétrage de confidentialité de votre sm
 
 Pour paramétrer vos réglages de confidentialité :
 
-* Système Apple : [https://support.apple.com/fr-fr/HT201265](https://www.welcometothejungle.com/fr/pages/via%20ce%20lien)
-* Système Android : [https://support.google.com/chrome/answer/95647](https://www.welcometothejungle.com/fr/pages/via%20ce%20lien)
+*   Système Apple : [https://support.apple.com/fr-fr/HT201265](https://www.welcometothejungle.com/fr/pages/via%20ce%20lien)
+*   Système Android : [https://support.google.com/chrome/answer/95647](https://www.welcometothejungle.com/fr/pages/via%20ce%20lien)
 
 **3\. Quel type de cookies utilisons-nous ?**
 ---------------------------------------------
