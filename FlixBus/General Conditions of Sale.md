@@ -33,9 +33,9 @@ Le partenaire contractuel pour la réservation des trajets (vendeur de titre de 
 
 **4.1** Les titres de transport peuvent être payés de différente manière selon le type de réservation :
 
-* Sur Internet : PayPal, mandat, carte bancaire (Mastercard/Visa/Amex), virement immédiat, iDeal, Postfinance, Carte Bleue, Dotpay, Google Pay, Apple Pay. Pour chaque réservation, nous nous réservons le droit de proposer des modes de paiement précis et de renvoyer à d’autres modes de paiement.
-* À bord des véhicules : En espèces.
-* Points de vente : toutes nos agences offrent selon leur localisation un éventail de modes de règlement, un paiement en espèces reste possible dans tous les cas. Si le point de vente est au véhicule de transport, les méthodes de paiement peuvent se limiter au paiement en espèces ou par carte de crédit uniquement.
+*   Sur Internet : PayPal, mandat, carte bancaire (Mastercard/Visa/Amex), virement immédiat, iDeal, Postfinance, Carte Bleue, Dotpay, Google Pay, Apple Pay. Pour chaque réservation, nous nous réservons le droit de proposer des modes de paiement précis et de renvoyer à d’autres modes de paiement.
+*   À bord des véhicules : En espèces.
+*   Points de vente : toutes nos agences offrent selon leur localisation un éventail de modes de règlement, un paiement en espèces reste possible dans tous les cas. Si le point de vente est au véhicule de transport, les méthodes de paiement peuvent se limiter au paiement en espèces ou par carte de crédit uniquement.
 
 **4.2** Achats par carte de crédit   
   
@@ -156,59 +156,59 @@ II Dispositions dérogatoires des pays
 
 **1.  Suède**
 
-* **Concernant 4.1 :** En Suède, seuls les paiements par carte sont acceptés à bord des véhicules (MasterCard, Visa, American Express, Maestro, Visa Électron, V Pay, JCB, Diners Club, China Union Pay). En outre, en Suède, le billet de transport peut être acquis auprès du conducteur de bus via des systèmes de paiement mobiles, basés sur la technologie NFC. (par ex., Swish, Mobile Pay, Apple Pay, Android Pay).
+*   **Concernant 4.1 :** En Suède, seuls les paiements par carte sont acceptés à bord des véhicules (MasterCard, Visa, American Express, Maestro, Visa Électron, V Pay, JCB, Diners Club, China Union Pay). En outre, en Suède, le billet de transport peut être acquis auprès du conducteur de bus via des systèmes de paiement mobiles, basés sur la technologie NFC. (par ex., Swish, Mobile Pay, Apple Pay, Android Pay).
 
 **2.  Pologne**
 
-* **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en Pologne.
-* **Concernant 4.4.1 et 4.4.2 :** Ces dispositions ne s’appliquent pas pour les liaisons effectuées par la société FlixBus Polska sp. z.o.o.
-* **Concernant 5.1 :** Le contrat de transport ne peut être modifié qu'en annulant le trajet et en achetant un nouveau billet. Ne pas utiliser son billet ne constitue pas une annulation du trajet et ne permet pas de demander un remboursement pour les trajets opérés par FlixBus Polska sp. z o.o. ou tout autre transporteur ayant son siège en Pologne.
-* **Concernant 5.3 :** En Pologne, le passager ou la passagère peut opter pour un bon d'achat ou un remboursement. Le remboursement sera effectué sur le mode de paiement utilisé lors de la transaction.
-* **Concernant 5.6 :** Les frais d’annulation ne s’appliquent pas aux correspondances opérées par FlixBus Polska sp. z o.o. ou tout Transporteur ayant son siège social en Pologne.
-* **Concernant 6 :** Pour les paiements en zloty polonais, les frais de service s'élèvent à 3,99 PLN.
+*   **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en Pologne.
+*   **Concernant 4.4.1 et 4.4.2 :** Ces dispositions ne s’appliquent pas pour les liaisons effectuées par la société FlixBus Polska sp. z.o.o.
+*   **Concernant 5.1 :** Le contrat de transport ne peut être modifié qu'en annulant le trajet et en achetant un nouveau billet. Ne pas utiliser son billet ne constitue pas une annulation du trajet et ne permet pas de demander un remboursement pour les trajets opérés par FlixBus Polska sp. z o.o. ou tout autre transporteur ayant son siège en Pologne.
+*   **Concernant 5.3 :** En Pologne, le passager ou la passagère peut opter pour un bon d'achat ou un remboursement. Le remboursement sera effectué sur le mode de paiement utilisé lors de la transaction.
+*   **Concernant 5.6 :** Les frais d’annulation ne s’appliquent pas aux correspondances opérées par FlixBus Polska sp. z o.o. ou tout Transporteur ayant son siège social en Pologne.
+*   **Concernant 6 :** Pour les paiements en zloty polonais, les frais de service s'élèvent à 3,99 PLN.
 
 **3. République tchèque**
 
-* **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en République tchèque.
-* **Concernant 5.4 :** Les frais d'annulation ne s'appliquent pas aux tarifs payés en couronnes tchèques.
-* **Concernant 7 :** Tout litige potentiel entre  FlixBus CZ s.r.o. et un passager doit être porté devant un tribunal de République tchèque.
+*   **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en République tchèque.
+*   **Concernant 5.4 :** Les frais d'annulation ne s'appliquent pas aux tarifs payés en couronnes tchèques.
+*   **Concernant 7 :** Tout litige potentiel entre  FlixBus CZ s.r.o. et un passager doit être porté devant un tribunal de République tchèque.
 
 **4\. Royaume-Uni**
 
-* **Concernant 5.6 :** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons exploitées par FlixBus UK Limited ou par tout autre transporteur ayant son siège social au Royaume-Uni.
+*   **Concernant 5.6 :** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons exploitées par FlixBus UK Limited ou par tout autre transporteur ayant son siège social au Royaume-Uni.
 
 **5\. France**
 
-* **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en France.
-* **Concernant 5.6 :** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons effectuées en France par FlixBus France SARL ou tout autre Transporteur ayant son siège social en France.
+*   **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en France.
+*   **Concernant 5.6 :** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons effectuées en France par FlixBus France SARL ou tout autre Transporteur ayant son siège social en France.
 
 **6\. Portugal**
 
-* **Concernant 5.6 :** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons effectuées au Portugal par FlixBus Portugal Unipessoal LDA ou tout autre Transporteur ayant son siège social au Portugal.
+*   **Concernant 5.6 :** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons effectuées au Portugal par FlixBus Portugal Unipessoal LDA ou tout autre Transporteur ayant son siège social au Portugal.
 
 **7\. Ukraine**
 
-* **Concernant 4.5.1 :** Le prix total du billet indiqué sur la boutique en ligne comprend tous les frais de paiement qui sont facturés par des fournisseurs tiers (du côté de FlixBus) concernant le mode de paiement que vous avez choisi et que vous devez payer, ainsi que la taxe de vente légale.   
+*   **Concernant 4.5.1 :** Le prix total du billet indiqué sur la boutique en ligne comprend tous les frais de paiement qui sont facturés par des fournisseurs tiers (du côté de FlixBus) concernant le mode de paiement que vous avez choisi et que vous devez payer, ainsi que la taxe de vente légale.   
     Nonobstant toute disposition contraire énoncée dans les présentes, le prix total indiqué sur la boutique en ligne dû par le client ne peut inclure aucun frais bancaire et/ou de l’institution financière du client, qui peuvent être facturés en plus en vertu des politiques ou lois pertinentes liées à cette banque/institution financière sans que FlixBus en ait connaissance et soit impliqué, causés par, y compris, mais de façon non limitative, la double conversion appliquée par la banque/institution financière concernée du client. Ainsi, les Parties aux présentes conviennent et confirment que le prix total à payer par le client peut être facturé en sus et que FlixBus n’a aucun lien et ne sera pas responsable de ces frais supplémentaires.
 
 **8\. Danemark**
 
-* **Concernant 4.1 :** Les ventes à bord ne sont pas disponibles au Danemark.
+*   **Concernant 4.1 :** Les ventes à bord ne sont pas disponibles au Danemark.
 
 **9\. Belgique**
 
-* **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en Belgique.
+*   **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en Belgique.
 
 **10\. Pays-Bas**
 
-* **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes aux Pays-Bas.
+*   **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes aux Pays-Bas.
 
 **11\. Luxembourg**
 
-* **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes au Luxembourg.
+*   **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes au Luxembourg.
 
 **12\. Hongrie**
 
-* **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en Hongrie.
+*   **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en Hongrie.
 
 * * *
