@@ -45,18 +45,18 @@ Nous avons désigné un Délégué à la Protection des Données Personnelles (D
 
 📊 **Détail des Données collectées :**
 
-* Adresse IP
-* Cookies
-* Logs
-* Données de connexion
-* Données de navigation et comportement sur le Site
+*   Adresse IP
+*   Cookies
+*   Logs
+*   Données de connexion
+*   Données de navigation et comportement sur le Site
 
 _Pour plus d’informations, veuillez consulter notre [Politique de Gestion des Cookies](https://www.welcometothejungle.com/fr/pages/cookies-policy)._
 
 👥 **Personnes concernées :**
 
-* Lecteurs
-* Membres
+*   Lecteurs
+*   Membres
 
 * * *
 
@@ -64,18 +64,18 @@ _Pour plus d’informations, veuillez consulter notre [Politique de Gestion des 
 
 📊 **Détail des Données collectées :**
 
-* Civilité
-* Prénom
-* Nom
-* Adresse email
-* Numéro de téléphone
-* Date de naissance
-* Ville ou région
-* Photo de profil
+*   Civilité
+*   Prénom
+*   Nom
+*   Adresse email
+*   Numéro de téléphone
+*   Date de naissance
+*   Ville ou région
+*   Photo de profil
 
 👥 **Personnes concernées :**
 
-* Membres
+*   Membres
 
 * * *
 
@@ -83,19 +83,19 @@ _Pour plus d’informations, veuillez consulter notre [Politique de Gestion des 
 
 📊 **Détail des Données collectées :**
 
-* Formation
-* Expérience professionnelle
-* Secteur d’activité
-* CV
-* Lettre de motivation
-* Documents téléchargés par le Membre
-* Emploi et caractéristique de l’emploi recherché
-* Compétences professionnelles
-* Lien vers réseaux sociaux professionnels et informations extraites à partir du lien partagé
+*   Formation
+*   Expérience professionnelle
+*   Secteur d’activité
+*   CV
+*   Lettre de motivation
+*   Documents téléchargés par le Membre
+*   Emploi et caractéristique de l’emploi recherché
+*   Compétences professionnelles
+*   Lien vers réseaux sociaux professionnels et informations extraites à partir du lien partagé
 
 👥 **Personnes concernées :**
 
-* Membres
+*   Membres
 
 * * *
 
@@ -123,15 +123,15 @@ _Les différentes utilisations de vos Données Personnelles dépendra des foncti
 
 🎯 **Sous-finalités :**
 
-* Création d’un profil membre sur notre Site ;
-* Remplissage automatique du profil membre à partir des informations renseignées et documents, CV et lettres de motivation téléchargés par le Membre ;
-* Amélioration de l’expérience candidat en proposant des offres d’emploi personnalisées et adaptées à l’historique de recherche sur notre Site ;
-* Traitement des demandes de renseignement et assistance dans le cadre de votre utilisation de nos Services.
+*   Création d’un profil membre sur notre Site ;
+*   Remplissage automatique du profil membre à partir des informations renseignées et documents, CV et lettres de motivation téléchargés par le Membre ;
+*   Amélioration de l’expérience candidat en proposant des offres d’emploi personnalisées et adaptées à l’historique de recherche sur notre Site ;
+*   Traitement des demandes de renseignement et assistance dans le cadre de votre utilisation de nos Services.
 
 ⚖️ **Bases juridiques :**
 
-* Exécution contractuelle
-* Intérêt légitime
+*   Exécution contractuelle
+*   Intérêt légitime
 
 * * *
 
@@ -139,14 +139,14 @@ _Les différentes utilisations de vos Données Personnelles dépendra des foncti
 
 🎯 **Sous-finalités :**
 
-* Postuler, sauvegarder, importer, gérer et suivre vos candidatures au sein de votre espace membre ;
-* Être contacté directement par des recruteurs en rendant visible vos informations et en leur permettant d’identifier les candidats pertinents grâce aux informations des profils membres et à leur utilisation du site
+*   Postuler, sauvegarder, importer, gérer et suivre vos candidatures au sein de votre espace membre ;
+*   Être contacté directement par des recruteurs en rendant visible vos informations et en leur permettant d’identifier les candidats pertinents grâce aux informations des profils membres et à leur utilisation du site
 
 ⚖️ **Bases juridiques :**
 
-* Exécution contractuelle
-* Intérêt légitime
-* Consentement
+*   Exécution contractuelle
+*   Intérêt légitime
+*   Consentement
 
 * * *
 
@@ -154,15 +154,15 @@ _Les différentes utilisations de vos Données Personnelles dépendra des foncti
 
 🎯 **Sous-finalités :**
 
-* Envoi de communications via email sur votre utilisation de nos Services et notamment de votre espace membre et candidatures ;
-* Envoi de communications via email sur les nouveautés produit ou toutes informations importantes sur Welcome to the Jungle ;
-* Envoi de la newsletter Media qui répertorie les différents articles et sujets d’actualités ;
-* Envoi de communications transactionnelles et notamment mise à jour juridique ou sécurité.
+*   Envoi de communications via email sur votre utilisation de nos Services et notamment de votre espace membre et candidatures ;
+*   Envoi de communications via email sur les nouveautés produit ou toutes informations importantes sur Welcome to the Jungle ;
+*   Envoi de la newsletter Media qui répertorie les différents articles et sujets d’actualités ;
+*   Envoi de communications transactionnelles et notamment mise à jour juridique ou sécurité.
 
 ⚖️ **Bases juridiques :**
 
-* Intérêt légitime
-* Consentement
+*   Intérêt légitime
+*   Consentement
 
 * * *
 
@@ -170,14 +170,14 @@ _Les différentes utilisations de vos Données Personnelles dépendra des foncti
 
 🎯 **Sous-finalités :**
 
-* Réalisation d’enquêtes de satisfaction et collecte de feedback à des fins d’amélioration de nos Services et notamment de pouvoir vous proposer une meilleure expérience, plus intuitive et personnalisée ;
-* Utilisation de vos Données pour produire des résultats qui ne permettent pas de vous identifier directement et notamment des statistiques sur nos membres et leurs utilisations de nos Services;
-* Utilisation de vos Données Personnelles pour développer, entraîner et améliorer nos fonctionnalités et Services liés au recrutement, y compris reposant sur l’intelligence artificielle, par exemple le remplissage automatique du profil membre ou l’identification de candidats par les recruteurs
+*   Réalisation d’enquêtes de satisfaction et collecte de feedback à des fins d’amélioration de nos Services et notamment de pouvoir vous proposer une meilleure expérience, plus intuitive et personnalisée ;
+*   Utilisation de vos Données pour produire des résultats qui ne permettent pas de vous identifier directement et notamment des statistiques sur nos membres et leurs utilisations de nos Services;
+*   Utilisation de vos Données Personnelles pour développer, entraîner et améliorer nos fonctionnalités et Services liés au recrutement, y compris reposant sur l’intelligence artificielle, par exemple le remplissage automatique du profil membre ou l’identification de candidats par les recruteurs
 
 ⚖️ **Bases juridiques :**
 
-* Consentement
-* Intérêts légitimes de Welcome to the Jungle de développer et d’améliorer ses fonctionnalités afin de rendre ses Services plus attractifs et utiles.
+*   Consentement
+*   Intérêts légitimes de Welcome to the Jungle de développer et d’améliorer ses fonctionnalités afin de rendre ses Services plus attractifs et utiles.
 
 * * *
 
@@ -185,17 +185,17 @@ _Les différentes utilisations de vos Données Personnelles dépendra des foncti
 
 🎯 **Sous-finalités :**
 
-* Administration générale du Site afin d’assurer son bon fonctionnement et sa sécurité ;
-* Traitement des demandes de renseignement via les différents formulaires disponibles sur notre Site ;
-* Réalisation de statistiques, suivi de l’activité, analyse de la fréquentation et des pages consultées ;
-* Amélioration du Site et Services et proposition d’un contenu performant pour vous et votre ordinateur ;
-* Dépôt des cookies conformément aux choix effectués via notre bandeau cookies ;
-* Résolution de tout litige ou anomalie dans le cadre de l’utilisation de nos Services et notamment lutter contre la fraude en ligne.
+*   Administration générale du Site afin d’assurer son bon fonctionnement et sa sécurité ;
+*   Traitement des demandes de renseignement via les différents formulaires disponibles sur notre Site ;
+*   Réalisation de statistiques, suivi de l’activité, analyse de la fréquentation et des pages consultées ;
+*   Amélioration du Site et Services et proposition d’un contenu performant pour vous et votre ordinateur ;
+*   Dépôt des cookies conformément aux choix effectués via notre bandeau cookies ;
+*   Résolution de tout litige ou anomalie dans le cadre de l’utilisation de nos Services et notamment lutter contre la fraude en ligne.
 
 ⚖️ **Bases juridiques :**
 
-* Intérêt légitime
-* Consentement
+*   Intérêt légitime
+*   Consentement
 
 * * *
 
@@ -261,8 +261,8 @@ Vous disposez d’un droit d’accès aux Données vous concernant, du droit d�
 
 Vous avez également la possibilité de vous opposer, à tout moment :
 
-* Aux traitements à des fins de prospection commerciale, mis en œuvre par WTTJ ;
-* Pour des raisons tenant à votre situation particulière, aux traitements fondés sur l’intérêt légitime de WTTJ.
+*   Aux traitements à des fins de prospection commerciale, mis en œuvre par WTTJ ;
+*   Pour des raisons tenant à votre situation particulière, aux traitements fondés sur l’intérêt légitime de WTTJ.
 
 Vous pouvez exercer vos droits de rectification et de suppression directement au sein de votre Espace Membre (pour plus d’informations sur ce processus vous pouvez consulter nos [Conditions Générales d’Utilisation](https://www.welcometothejungle.com/fr/pages/terms).
 
