@@ -51,9 +51,9 @@ Pour les Livraisons en boutique, un courriel vous sera envoyé dès l'arrivée d
 
 4\. Au cas où nous serions dans l'impossibilité de respecter le délai de livraison initialement prévu et figurant dans le Courriel de Livraison, nous vous en informerons dès que possible, en indiquant en même temps un nouveau délai de livraison estimé, sans encourir de responsabilité à votre égard, étant toutefois précisé que vous pouvez annuler votre commande si le délai total de livraison dépasse trente (30) jours. Pour annuler votre commande, vous devez nous envoyer un courriel via le formulaire de contact https://www.lacoste.com/fr/contactus. Nous recréditerons alors la carte bancaire ou le compte Paypal utilisé pour passer la commande, dans les quatorze (14) jours de la réception du courriel notifiant son annulation. Après une telle période de quatorze (14) jours, le montant de la commande sera majoré de :
 
-* 10%, si le remboursement à lieu entre le 15ème et le 30ème jour suivant la demande d'annulation ;
-* 20 % si le remboursement à lieu entre le 31ème et le 60ème jour suivant la demande d'annulation ;
-* 50% si le remboursement à lieu après le 61ème jour.
+*   10%, si le remboursement à lieu entre le 15ème et le 30ème jour suivant la demande d'annulation ;
+*   20 % si le remboursement à lieu entre le 31ème et le 60ème jour suivant la demande d'annulation ;
+*   50% si le remboursement à lieu après le 61ème jour.
 
   
 
@@ -97,10 +97,10 @@ Les prix indiqués sur le Site Web sont en euros et n'incluent pas les frais d'e
 
 Nos frais d'expédition sont les suivants :
 
-* Livraison Standard : € 4,95 offerte dès 99€ d'achat
-* Livraison Express : € 9,95
-* Livraison en point relais : € 3,95
-* Livraison en 48H en Boutique Lacoste : € 0
+*   Livraison Standard : € 4,95 offerte dès 99€ d'achat
+*   Livraison Express : € 9,95
+*   Livraison en point relais : € 3,95
+*   Livraison en 48H en Boutique Lacoste : € 0
 
   
 
@@ -160,8 +160,8 @@ La revente de Cartes Cadeaux est interdite.
 
   
 
-* Carte Cadeau achetée en Boutique : **valable un (1) an à compter de sa date d'achat**.
-* Carte Cadeau digitale : **valable un (1) an à compter de sa réception par e-mail.**
+*   Carte Cadeau achetée en Boutique : **valable un (1) an à compter de sa date d'achat**.
+*   Carte Cadeau digitale : **valable un (1) an à compter de sa réception par e-mail.**
 
   
 
@@ -173,10 +173,10 @@ La durée de validité de la Carte Cadeau ne pourra être prolongée, même dans
 
   
 
-* Sur le **Site Lacoste** en format digital : https://cartecadeau.lacoste.com.
-* En **Boutiques Lacoste** en format physique.
-* Sur les **sites** de vente à distance **de distribution partenaires** en format digital.
-* Sur le **site internet Seconde Main** lors de la génération de votre crédit (se référer au CGV Seconde Main).
+*   Sur le **Site Lacoste** en format digital : https://cartecadeau.lacoste.com.
+*   En **Boutiques Lacoste** en format physique.
+*   Sur les **sites** de vente à distance **de distribution partenaires** en format digital.
+*   Sur le **site internet Seconde Main** lors de la génération de votre crédit (se référer au CGV Seconde Main).
 
   
 
@@ -202,11 +202,11 @@ A ce titre, le client accepte que l’exécution commence sans délai à partir 
 
 **Pour procéder à l’achat d’une Carte Cadeau digitale sur le Site, il convient de :**
 
-* Renseigner le nom, prénom et l’adresse e-mail de l’acheteur ainsi que celui du bénéficiaire si le Client souhaite l'envoyer vers un bénéficiaire ;
-* Sélectionner un montant compris entre 25 € et 300 € ;
-* Accepter les Conditions Générales de Vente ;
-* Choisir un moyen de paiement disponible ;
-* Confirmer la commande.
+*   Renseigner le nom, prénom et l’adresse e-mail de l’acheteur ainsi que celui du bénéficiaire si le Client souhaite l'envoyer vers un bénéficiaire ;
+*   Sélectionner un montant compris entre 25 € et 300 € ;
+*   Accepter les Conditions Générales de Vente ;
+*   Choisir un moyen de paiement disponible ;
+*   Confirmer la commande.
 
   
 
@@ -224,18 +224,18 @@ Vous pouvez **utiliser votre Carte Cadeau physique ou digitale** pour l'achat de
 
 **En Boutique :**
 
-* Trouvez la Boutique la plus proche sur : https://www.lacoste.com/fr/stores.
-* En Boutique, plusieurs Cartes Cadeaux peuvent être cumulées dans la limite de 1000 €.
-* Un moyen de paiement complémentaire peut être ajouté si le solde ne couvre pas la totalité de l'achat.
+*   Trouvez la Boutique la plus proche sur : https://www.lacoste.com/fr/stores.
+*   En Boutique, plusieurs Cartes Cadeaux peuvent être cumulées dans la limite de 1000 €.
+*   Un moyen de paiement complémentaire peut être ajouté si le solde ne couvre pas la totalité de l'achat.
 
   
 
 **Sur le Site Lacoste.com :**
 
-* Sur le site, une seule Carte Cadeau peut être utilisée par achat.
-* Elle est utilisable en une ou plusieurs fois jusqu'à épuisement du solde, dans la limite de sa validité.
-* Le paiement se fait automatiquement à hauteur du solde disponible.
-* Un moyen de paiement complémentaire peut être ajouté si le solde ne couvre pas l'achat.
+*   Sur le site, une seule Carte Cadeau peut être utilisée par achat.
+*   Elle est utilisable en une ou plusieurs fois jusqu'à épuisement du solde, dans la limite de sa validité.
+*   Le paiement se fait automatiquement à hauteur du solde disponible.
+*   Un moyen de paiement complémentaire peut être ajouté si le solde ne couvre pas l'achat.
 
   
 
@@ -247,9 +247,9 @@ La Carte Cadeau n'est pas acceptée comme moyen de paiement sur https://secondem
 
   
 
-* **Le montant remboursé est recrédité sous forme d'une nouvelle Carte Cadeau**.
-* En cas de remboursement partiel, une nouvelle Carte Cadeau est émise pour le montant correspondant.
-* Aucun remboursement en liquide, sauf disposition légale.
+*   **Le montant remboursé est recrédité sous forme d'une nouvelle Carte Cadeau**.
+*   En cas de remboursement partiel, une nouvelle Carte Cadeau est émise pour le montant correspondant.
+*   Aucun remboursement en liquide, sauf disposition légale.
 
   
 
@@ -279,8 +279,8 @@ Vous êtes responsable de la protection des éléments de votre Carte (code-barr
 
 **En cas de perte ou vol** :
 
-* Lacoste n'a aucune obligation de remplacement.
-* Seul le solde disponible au moment de la déclaration peut être recrédité sous forme d'une nouvelle Carte Cadeau.
+*   Lacoste n'a aucune obligation de remplacement.
+*   Seul le solde disponible au moment de la déclaration peut être recrédité sous forme d'une nouvelle Carte Cadeau.
 
   
 
@@ -378,9 +378,9 @@ Lorsque la commande est effectuée sur le site www.lacoste.com ou par téléphon
 
 Pour tout achat effectué sur le site www.lacoste.com ou par téléphone via un conseiller du Service Client, les demandes de rétractation et produits afférents, devront être, au choix du client :
 
-* soit retournés physiquement dans la même boutique Lacoste que celle où le Retrait/la Livraison a eu lieu physiquement,
-* en effectuant votre déclaration de retour via votre compte client « mes commandes et retours web » sur le site Lacoste : www.lacoste.com
-* ou en effectuant votre déclaration de retour via l’email d’expédition de votre commande en cliquant sur «effectuer mon retour».
+*   soit retournés physiquement dans la même boutique Lacoste que celle où le Retrait/la Livraison a eu lieu physiquement,
+*   en effectuant votre déclaration de retour via votre compte client « mes commandes et retours web » sur le site Lacoste : www.lacoste.com
+*   ou en effectuant votre déclaration de retour via l’email d’expédition de votre commande en cliquant sur «effectuer mon retour».
 
   
 
@@ -414,12 +414,12 @@ Les produits qui ont été portés, lavés ou abimés ne peuvent pas nous être 
 
 A défaut de remboursement sous ce délai, les sommes que nous vous devrions produiront intérêts aux conditions suivantes :
 
-* 10 jours après l'expiration du délai : taux d'intérêt légal ;
-* 10-20 jours de retard : taux d'intérêt de 5% ;
-* 20-30 jours de retard : taux d'intérêt de 10% ;
-* 30-60 jours de retard : taux d'intérêt de 20% ;
-* 60-90 jours de retard : taux d'intérêt de 50% ;
-* Au-delà de 90 jours : 5 points supplémentaires par nouveau mois de retard.
+*   10 jours après l'expiration du délai : taux d'intérêt légal ;
+*   10-20 jours de retard : taux d'intérêt de 5% ;
+*   20-30 jours de retard : taux d'intérêt de 10% ;
+*   30-60 jours de retard : taux d'intérêt de 20% ;
+*   60-90 jours de retard : taux d'intérêt de 50% ;
+*   Au-delà de 90 jours : 5 points supplémentaires par nouveau mois de retard.
 
   
 
