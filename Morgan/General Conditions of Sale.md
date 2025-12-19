@@ -70,11 +70,11 @@ Les composants électroniques seront détruits à l'usage (3 à 5 lavages). L'In
   
 Dans l’hypothèse selon laquelle l’achat de cartes cadeaux physiques et/ou virtuelles serait possible sur le Site, la Fiche précisera les conditions d’utilisation de ladite carte, étant précisé ce qui suit :
 
-* L’Internaute devra choisir le montant dont il souhaite créditer la carte, étant précisé que ce montant devra correspondre à un nombre entier (il n’est pas possible de choisir un montant comprenant des centimes d’euros) et ne pourra être inférieur à 5 (cinq) euros, ni excéder 150 (cent cinquante) euros ;
-* Pour l’achat d’une carte cadeau physique, il sera possible d’y saisir un message et une signature ;
-* Il n’est possible d’acquérir qu’une seule carte cadeau par panier ;
-* Les cartes cadeaux sont utilisables uniquement sur le Site et les Points de vente limités au Territoire à l’exclusion de tout corner de grands magasins. Il ne sera toutefois pas possible d’acheter une carte cadeau avec une carte cadeau ou un chèque fidélité.
-* Le Vendeur attire l’attention de l’Internaute sur le fait qu’aucune réduction ne sera applicable pour l’achat d’une carte cadeau.
+*   L’Internaute devra choisir le montant dont il souhaite créditer la carte, étant précisé que ce montant devra correspondre à un nombre entier (il n’est pas possible de choisir un montant comprenant des centimes d’euros) et ne pourra être inférieur à 5 (cinq) euros, ni excéder 150 (cent cinquante) euros ;
+*   Pour l’achat d’une carte cadeau physique, il sera possible d’y saisir un message et une signature ;
+*   Il n’est possible d’acquérir qu’une seule carte cadeau par panier ;
+*   Les cartes cadeaux sont utilisables uniquement sur le Site et les Points de vente limités au Territoire à l’exclusion de tout corner de grands magasins. Il ne sera toutefois pas possible d’acheter une carte cadeau avec une carte cadeau ou un chèque fidélité.
+*   Le Vendeur attire l’attention de l’Internaute sur le fait qu’aucune réduction ne sera applicable pour l’achat d’une carte cadeau.
 
 Pour tout achat d’une carte cadeau virtuelle sur le Site, l’Internaute recevra ladite carte cadeau virtuelle par email, sur l’adresse mail qu’il aura communiquée au Vendeur, associée à un code à treize (13) chiffres. Pour l’achat d’une carte cadeau physique sur le Site, l’Internaute recevra ladite carte cadeau par courrier à l’adresse postale qu’il aura communiquée sur le Site lors de la validation de la commande, associée à un code à treize (13) chiffres.  
 
@@ -176,11 +176,11 @@ Le paiement du Produit s’effectuera en Point de Vente lors de son retrait.
 
 Pour toute passation de commande sur le Site, l’Internaute aura le choix entre l’une des options décrite ci-après, soit : (i) passer commande en utilisant son Compte-Client via son Espace Client ou (ii) passer commande sans utilisation d’un Compte-Client selon les modalités précisées ci-après :
 
-* La création d’un Compte-Client est possible directement sur le Site ou par l’intermédiaire d’un compte Google depuis le Site (si ces services existent).  
+*   La création d’un Compte-Client est possible directement sur le Site ou par l’intermédiaire d’un compte Google depuis le Site (si ces services existent).  
       
     Les conditions de création d’un Compte-Client sont définies aux Conditions Générales d’Utilisation du Compte-Client accessibles [ici](https://www.morgandetoi.fr/conditions-generales-espace-client).
 
-* Commande sans création de compte  
+*   Commande sans création de compte  
       
     Il est précisé que l’Internaute n’aura pas l’obligation de créer un Compte-Client pour passer commande. S’il décide de ne pas créer de compte, l’Internaute devra uniquement renseigner, sur la page dédiée, tous les champs signalés par un astérisque et notamment : sa civilité, ses nom et prénom, son adresse e-mail, son code postal et son adresse de livraison/facturation seront demandés dans le cas où il choisirait la livraison à domicile. L’Internaute s’engage à renseigner son profil avec des informations exactes et à jour et dégage le Vendeur de toute responsabilité du fait de l’inexactitude des informations communiquées.
 
@@ -261,27 +261,27 @@ Au cas où l’Internaute a passé sa commande sans création de compte, celui-c
 L'Internaute a la faculté de payer selon les modes de paiement détaillés ci-après (selon disponibilité desdits modes de paiement sur le Site, au moment du paiement de la Commande). Il est précisé, qu’il est possible de passer via Google Pay et Apple Pay.  
 Pour rappel, le Vendeur accepte, pour l’achat d’une carte cadeau, uniquement le paiement par carte bancaire ou Paypal,
 
-* **Par carte bancaire :** Carte Bleue, Visa, Mastercard, émises dans les pays membres de l’Union Européenne
+*   **Par carte bancaire :** Carte Bleue, Visa, Mastercard, émises dans les pays membres de l’Union Européenne
     
     L'Internaute doit indiquer son numéro de carte figurant au recto de celle-ci (16 chiffres), la date de validité ainsi que les trois derniers chiffres figurant au dos de celle-ci. Au moment de la saisie, le Site est en mode crypté et toutes les informations véhiculées sont codées. Aucune de ces données ne transitent en clair sur Internet.  
     Ce mode de paiement intègre obligatoirement le système de vérification 3D Secure (en cas de problèmes rencontrés avec 3D Secure, l’Internaute doit contacter sa banque).  
     L’Internaute aura la possibilité, s’il le souhaite, d’enregistrer les coordonnées de sa carte bancaire au sein de son espace-client au moment de la première utilisation de sa carte bancaire. Les données liées à la carte bancaire de l’Internaute seront traitées conformément à l’article 16 « Charte de confidentialité des données à caractère personnel et politique relative aux cookies » accessible [ici](https://www.morgandetoi.fr/politique-cookies).
     
-* **Par PayPal en 1 à 4 fois** :   
+*   **Par PayPal en 1 à 4 fois** :   
     L’Internaute devra faire le nécessaire afin d’obtenir tout renseignement sur cette modalité de paiement, pour l’apprécier au regard de ses propres capacités de remboursement et ainsi éviter un risque de surendettement.  
     L’Internaute doit se créer / s’identifier à son compte auprès de la société Alma.  
     Ce sont uniquement les conditions générales de ventes et/ou d’utilisation ainsi que la politique de confidentialité de Paypal qui s’appliquent (Pour plus d’information : l’Internaute peut consulter le site de Paypal).  
     L’Internaute devra valider le paiement sur son compte Paypal avant de terminer la commande sur le Site.  
     Paypal deviendra alors son unique interlocuteur pour toute question ou demande relative à ce mode de paiement. L’Internaute devra faire le nécessaire afin d’obtenir tout renseignement sur cette modalité de paiement, pour l’apprécier au regard de ses propres capacités de remboursement et ainsi éviter un risque de surendettement.
     
-* **Par Carte cadeaux Morgan :**   
+*   **Par Carte cadeaux Morgan :**   
     Le numéro de la carte cadeau figurant au verso de la carte (13 chiffres) est à indiquer dans le champ réservé à cet effet. La carte cadeau sera débitée lors de la Confirmation de commande. En cas d’annulation totale ou partielle, une nouvelle carte cadeau sera expédiée pour le montant du remboursement.  
     Il est possible de régler la commande en utilisant plusieurs Cartes Cadeaux Cache-Cache.   
     Pour tout paiement partiel par Carte(s) Cadeau(x) Morgan (en utilisant une ou plusieurs Cartes Cadeaux Morgan), de compléter son paiement par un seul autre moyen de paiement, comme suit :   
     \-    Carte bancaire ou Paypal ; Ou,  
     \-    Klarna ou Alma : sous réserve que (1) la commande ne comporte pas d’achat Carte(s) Cadeau(x) Morgan  et que le reste à payer, déduction faite du montant payé par Carte(s) Cadeau(x) Morgan, soit compris entre 50 euros et 3 000 euros. 
     
-* **Par Alma en 3 fois sans frais**    
+*   **Par Alma en 3 fois sans frais**    
     L’Internaute devra faire le nécessaire afin d’obtenir tout renseignement sur cette modalité de paiement, pour l’apprécier au regard de ses propres capacités de remboursement et ainsi éviter un risque de surendettement.  
     Valable uniquement pour une demande de paiement en 3x sans frais d’un montant compris entre 50 euros et 3 000 euros ;   
     Ce sont uniquement les conditions générales de ventes et/ou d’utilisation ainsi que la politique de confidentialité d’Alma qui s’appliquent (Pour plus d’information : l’Internaute peut consulter le site d’Alma).  
@@ -290,7 +290,7 @@ Pour rappel, le Vendeur accepte, pour l’achat d’une carte cadeau, uniquement
     Alma deviendra alors son unique interlocuteur pour toute question ou demande relative à ce mode de paiement.   
     Toute résiliation des présentes qui lient le Vendeur et l’Internaute, entraine la résiliation des conditions contractuelles entre Alma et l’Internaute.
     
-* **Par Klarna en 3 fois sans frais**  
+*   **Par Klarna en 3 fois sans frais**  
     L’Internaute devra faire le nécessaire afin d’obtenir tout renseignement sur cette modalité de paiement, pour l’apprécier au regard de ses propres capacités de remboursement et ainsi éviter un risque de surendettement.  
     Valable uniquement pour une demande de paiement en 3x sans frais d’un montant compris entre 50 euros et 3 000 euros ;   
     L’Internaute doit se créer / s’identifier à son compte auprès de la société Klarna.  
@@ -327,14 +327,14 @@ Pour mettre en œuvre son Droit de rétractation, l'Internaute devra retourner a
 
 L’Internaute devra retourner le(s) Produit(s) :
 
-* Soit gratuitement en déposant son colis :  
+*   Soit gratuitement en déposant son colis :  
      
-    * Dans le Point de vente de son choix situé sur le Territoire ; OU
-    * Dans l’un des points UPS Access Point\* dont la liste figure sur [https://www.ups.com/dropoff/?loc=fr\_BE](https://www.ups.com/dropoff/?loc=fr_BE) .
+    *   Dans le Point de vente de son choix situé sur le Territoire ; OU
+    *   Dans l’un des points UPS Access Point\* dont la liste figure sur [https://www.ups.com/dropoff/?loc=fr\_BE](https://www.ups.com/dropoff/?loc=fr_BE) .
 
 _\*en utilisant l’étiquette de retour (à imprimer et apposer sur le colis), disponible via le Compte Client de l’Internaute ou, en l’absence de Compte Client, via le lien disponible dans l’email de confirmation de commande qu’il aura reçu._
 
-* Soit par voie postale à l'adresse suivante- étant précisé que les frais de retours sont à la charge de l'Internaute :
+*   Soit par voie postale à l'adresse suivante- étant précisé que les frais de retours sont à la charge de l'Internaute :
 
 C-LOG E-VALLEY  
 Retours E-commerce – morgandetoi.be  
@@ -364,7 +364,7 @@ Le Vendeur se réserve le droit de refuser tout Produit retourné qui serait dé
 
 Le Vendeur est tenu des défauts de conformité du (des) Produit(s) à la commande de l’Internaute dans les conditions des articles L 217-4 et suivants du Code de la consommation et des défauts cachés de la chose vendue dans les conditions prévues aux articles 1641 et suivants du Code civil.
 
-* La garantie légale de conformité (articles L 217-4 et suivants du Code de la consommation) :  
+*   La garantie légale de conformité (articles L 217-4 et suivants du Code de la consommation) :  
       
     Cette garantie peut être actionnée par l'Internaute dans le cas où le Produit ne correspondrait pas aux caractéristiques précisées dans sa commande.  
       
@@ -373,7 +373,7 @@ Le Vendeur est tenu des défauts de conformité du (des) Produit(s) à la comman
     En cas d’application de la garantie de non-conformité, l’Internaute pourra choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coûts prévues par l’article L 217-9 du Code de la consommation.  
      
     
-* La garantie contre les vices cachés (articles 1641 et suivants du Code civil) :  
+*   La garantie contre les vices cachés (articles 1641 et suivants du Code civil) :  
       
     Cette garantie peut être actionnée dans le cas où le Produit est endommagé ou affecté par un défaut de matière, de conception ou de fabrication rendant le Produit impropre à l'utilisation.  
       
@@ -418,11 +418,11 @@ Le Vendeur a procédé à une déclaration auprès de l’Agence de l’environn
   
 Pour la société Cafan, les numéros d’identifications sont les suivants :  
 
-* Auprès de REFASHION : FR214190\_11UAWM  
+*   Auprès de REFASHION : FR214190\_11UAWM  
     
-* Auprès de CITEO Emballages : R214190\_01TYTP  
+*   Auprès de CITEO Emballages : R214190\_01TYTP  
     
-* Auprès de CITEO Papiers : FR214190\_03PIFO»  
+*   Auprès de CITEO Papiers : FR214190\_03PIFO»  
     
   
   
@@ -471,9 +471,9 @@ En cas de différend relatif à la conclusion, l'exécution, ou la fin d'une com
   
 Faute de parvenir à un accord amiable avec le Vendeur, et conformément aux dispositions de l’article L 152-2 du Code de la Consommation, l’Internaute pourra initier gratuitement une procédure de médiation auprès :
 
-* Du Médiateur de la Fédération du e-commerce et de la vente à distance (FEVAD) - 60 rue la Boétie – 75008 Paris – [relationconso@fevad.com](mailto:relationconso@fevad.com), [www.fevad.com](http://www.fevad.com/)). Pour connaître les modalités de saisine du Médiateur de la FEVAD, [cliquez ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/).  
+*   Du Médiateur de la Fédération du e-commerce et de la vente à distance (FEVAD) - 60 rue la Boétie – 75008 Paris – [relationconso@fevad.com](mailto:relationconso@fevad.com), [www.fevad.com](http://www.fevad.com/)). Pour connaître les modalités de saisine du Médiateur de la FEVAD, [cliquez ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/).  
      
-* Ou sur la plateforme de résolution des litiges mise en ligne par la Commission Européenne  
+*   Ou sur la plateforme de résolution des litiges mise en ligne par la Commission Européenne  
     [https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage](https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage).
     
 
