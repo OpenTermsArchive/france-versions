@@ -18,23 +18,23 @@ Le stockage et l'accès aux cookies qui peuvent être définis en relation avec 
 Sommaire
 --------
 
-1. [Informations personnelles recueillies par Twitch vous concernant](#personal-information-twitch-collects-about-you)
-2. [Utilisation des informations personnelles par Twitch](#how-twitch-uses-personal-information)
-3. [Twitch et la divulgation de renseignements personnels](#when-twitch-discloses-personal-information)
-4. [Droits des personnes concernées et vos choix](#data-subject-rights-and-your-choices)
-5. [Fermeture et suppression de compte](#account-closure-and--deletion)
-6. [Sites Web et services tiers](#third-party-services-and-websites)
-7. [Extensions et applications](#extensions-and-applications)
-8. [Annonceurs et fournisseurs de services analytiques](#advertisers-and-analytics-providers)
-9. [Ne pas suivre](#do-not-track)
-10. [Sécurité des données](#data-security)
-11. [Conservation de vos données](#retention-of-your-information)
-12. [Protection de la vie privée des enfants](#childrens-privacy)
-13. [Fusion ou vente](#merger-or-sale)
-14. [Transferts de données internationaux](#international-data-transfers)
-15. [Modifications et mises à jour de la présente Notice sur la Protection de vos informations personnelles](#changes-and-updates-to-this-privacy-notice)
-16. [Informations de contact Twitch](#twitch-contact-information)
-17. [Informations supplémentaires pour certaines juridictions](#additional-information-for-certain-jurisdictions)
+1.  [Informations personnelles recueillies par Twitch vous concernant](#personal-information-twitch-collects-about-you)
+2.  [Utilisation des informations personnelles par Twitch](#how-twitch-uses-personal-information)
+3.  [Twitch et la divulgation de renseignements personnels](#when-twitch-discloses-personal-information)
+4.  [Droits des personnes concernées et vos choix](#data-subject-rights-and-your-choices)
+5.  [Fermeture et suppression de compte](#account-closure-and--deletion)
+6.  [Sites Web et services tiers](#third-party-services-and-websites)
+7.  [Extensions et applications](#extensions-and-applications)
+8.  [Annonceurs et fournisseurs de services analytiques](#advertisers-and-analytics-providers)
+9.  [Ne pas suivre](#do-not-track)
+10.  [Sécurité des données](#data-security)
+11.  [Conservation de vos données](#retention-of-your-information)
+12.  [Protection de la vie privée des enfants](#childrens-privacy)
+13.  [Fusion ou vente](#merger-or-sale)
+14.  [Transferts de données internationaux](#international-data-transfers)
+15.  [Modifications et mises à jour de la présente Notice sur la Protection de vos informations personnelles](#changes-and-updates-to-this-privacy-notice)
+16.  [Informations de contact Twitch](#twitch-contact-information)
+17.  [Informations supplémentaires pour certaines juridictions](#additional-information-for-certain-jurisdictions)
 
 Informations personnelles recueillies par Twitch vous concernant
 ----------------------------------------------------------------
@@ -88,13 +88,13 @@ Pour toute autre demande de révision, de mise à jour, de suppression ou de lim
 
 Nous nous conformerons aux demandes valides d'exercer vos droits de personne concernée conformément aux lois applicables dans votre région. Veuillez noter que dans certaines circonstances, il se peut que nous ayons besoin de continuer à traiter vos informations pour certains intérêts légitimes ou pour nous conformer à une obligation légale. Si ces droits s’appliquent à vous, ils peuvent vous permettre de faire les demandes suivantes :
 
-* Obtenir l'accès à ou une copie de certaines informations personnelles que nous détenons vous concernant.
-* Empêcher le traitement de vos informations personnelles à des fins de prospection (y compris tout traitement de prospection fondée sur le profilage).
-* Mettre à jour les informations personnelles qui sont obsolètes ou inexactes.
-* La suppression de certaines informations personnelles que nous détenons vous concernant.
-* Limiter la façon dont nous traitons et divulguons des informations personnelles spécifiques vous concernant.
-* Le transfert de vos informations personnelles à un fournisseur de services tiers.
-* Révoquer le consentement que vous avez fourni précédemment pour le traitement de vos informations personnelles.
+*   Obtenir l'accès à ou une copie de certaines informations personnelles que nous détenons vous concernant.
+*   Empêcher le traitement de vos informations personnelles à des fins de prospection (y compris tout traitement de prospection fondée sur le profilage).
+*   Mettre à jour les informations personnelles qui sont obsolètes ou inexactes.
+*   La suppression de certaines informations personnelles que nous détenons vous concernant.
+*   Limiter la façon dont nous traitons et divulguons des informations personnelles spécifiques vous concernant.
+*   Le transfert de vos informations personnelles à un fournisseur de services tiers.
+*   Révoquer le consentement que vous avez fourni précédemment pour le traitement de vos informations personnelles.
 
 Pour en savoir plus sur la façon d'exercer ces droits, cliquez ici. Le cas échéant, vous pouvez déposer une plainte auprès de l'autorité de contrôle de la protection des données du pays dans lequel vous êtes établi. Vous pouvez également vous adresser aux tribunaux locaux si vous estimez que vos droits ont été violés.
 
