@@ -471,11 +471,11 @@ Le Client est invité à signaler toute utilisation frauduleuse de toute informa
 
 De même, toute personne estimant qu’il y a violation, sur le Site, d’un droit dont il serait titulaire peut le signaler à XANDRIE SA (conformément à l’Article 6-1-5 de la loi du 21 juin 2004 n°2004-575 pour la confiance dans l’économie numérique) par courrier avec accusé de réception, précisant les informations suivantes :
 
-* son identité de notifiant : s’il s’agit d’une personne physique : nom, prénom, date de naissance, nationalité, domicile et profession. S’il s’agit d’une personne morale : sa forme, sa dénomination sociale, son siège social et l’organe qui la représente légalement ;
+*   son identité de notifiant : s’il s’agit d’une personne physique : nom, prénom, date de naissance, nationalité, domicile et profession. S’il s’agit d’une personne morale : sa forme, sa dénomination sociale, son siège social et l’organe qui la représente légalement ;
 
-* la description des faits litigieux et leur localisation précise sur le Site ;
+*   la description des faits litigieux et leur localisation précise sur le Site ;
 
-* les motifs pour lesquels le contenu doit être retiré comprenant la mention des dispositions légales applicables ;
+*   les motifs pour lesquels le contenu doit être retiré comprenant la mention des dispositions légales applicables ;
 
 Le notifiant est informé de ce que XANDRIE SA dispose de la possibilité de retirer, conformément à la loi, toute information ou contenu, ou d’en rendre l’accès impossible, et ce dès lors qu’elle prend connaissance de leur caractère manifestement illicite.
 
@@ -633,13 +633,13 @@ En conséquence, aucune demande de rétractation, d'annulation ou de rembourseme
 
 En cas de violation manifeste des CGUV par le Client, XANDRIE SA se réserve le droit de supprimer ou désactiver temporairement le compte du Client, sans préavis ni indemnité, notamment en cas :
 
-* d'atteinte aux intérêts de XANDRIE SA et / ou à ses droits de propriété intellectuelle ;
+*   d'atteinte aux intérêts de XANDRIE SA et / ou à ses droits de propriété intellectuelle ;
 
-* de fourniture d'informations erronées lors de l'inscription au Site ;
+*   de fourniture d'informations erronées lors de l'inscription au Site ;
 
-* de contournement ou tentative de contournement des mesures techniques de protection mises en place sur le Site ;
+*   de contournement ou tentative de contournement des mesures techniques de protection mises en place sur le Site ;
 
-* du non-paiement total ou partiel des factures adressées au Client.
+*   du non-paiement total ou partiel des factures adressées au Client.
 
 Il est également loisible au Client de faire supprimer son compte. Pour ce faire, le Client effectuera une demande avec [le formulaire de contact en ligne](https://www.qobuz.com/support-client/contact) et XANDRIE SA supprimera alors le compte du Client dans un délai maximum de quarante-huit (48) heures après réception dudit courriel.
 
@@ -663,9 +663,9 @@ Conformément au Règlement (UE) 2017/1128 relatif à la portabilité transfront
 
 Les parties font expressément élection de domicile :
 
-* Pour XANDRIE SA, son siège social ;
+*   Pour XANDRIE SA, son siège social ;
 
-* Pour le Client, son domicile indiqué lors de la souscription de son abonnement ou de toute modification ultérieure notifiée par lettre recommandée avec avis de réception.
+*   Pour le Client, son domicile indiqué lors de la souscription de son abonnement ou de toute modification ultérieure notifiée par lettre recommandée avec avis de réception.
 
 * * *
 
@@ -721,7 +721,7 @@ Le Client bénéficie d'un droit d'utilisation personnel du service, limité aux
 
 Pour toute information, notes Service Clients est à votre disposition via :
 
-* La [FAQ](https://help.qobuz.com/hc/fr) Qobuz
+*   La [FAQ](https://help.qobuz.com/hc/fr) Qobuz
 
 \- La messagerie instantanée en ligne présente sur [le site](https://www.qobuz.com/store-router/discover), ouverte de 9h30 à 12h et de 14h30 à 17h30, GMT +1.
 
@@ -742,9 +742,9 @@ De plus, la Commission européenne a mis en place une plateforme de résolution 
 
 En cas de litige, les parties conviennent de rechercher une conciliation avant d’engager une action en justice. Si aucun accord amiable n’est trouvé entre XANDRIE SA et le Client, les parties élisent expressément domicile :
 
-* Pour XANDRIE SA, à son siège social ;
+*   Pour XANDRIE SA, à son siège social ;
 
-* Pour le Client, à l'adresse indiquée lors de la souscription, ou lors de toute modification ultérieure notifiée par lettre recommandée avec accusé de réception.
+*   Pour le Client, à l'adresse indiquée lors de la souscription, ou lors de toute modification ultérieure notifiée par lettre recommandée avec accusé de réception.
 
 * * *
 
@@ -995,9 +995,9 @@ Si le Client a souscrit une période d’essai ou un Abonnement payant par l’i
 
 Les présentes CGUV régissent les offres d’abonnement payant HI-FI SUBLIME, STUDIO SUBLIME ou SUBLIME SOLO (ci-après dénommées « l’offre SUBLIME SOLO »), donnant accès :
 
-* au service de streaming QOBUZ sans publicité permettant au Client d'écouter l'ensemble des titres du catalogue musical du Site en vraie qualité CD et en qualité Hi-Res (24-bits et jusqu’à 192 kHz) sur un (1) seul appareil d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté) ;
+*   au service de streaming QOBUZ sans publicité permettant au Client d'écouter l'ensemble des titres du catalogue musical du Site en vraie qualité CD et en qualité Hi-Res (24-bits et jusqu’à 192 kHz) sur un (1) seul appareil d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté) ;
 
-* aux Albums en qualité CD et Hi-Res 24-bit en téléchargement permanent, à un tarif préférentiel, selon les conditions prévues dans les CGUV Téléchargement QOBUZ.
+*   aux Albums en qualité CD et Hi-Res 24-bit en téléchargement permanent, à un tarif préférentiel, selon les conditions prévues dans les CGUV Téléchargement QOBUZ.
 
 Pour bénéficier de l’offre SUBLIME SOLO, tout Client du Site devra avoir préalablement consulté et accepté sans restriction ni réserves les présentes CGUV.
 
@@ -1038,9 +1038,9 @@ Si le Client a souscrit une période d’essai ou un Abonnement payant par l’i
 
 Les présentes CGUV portent sur l‘abonnement payant SUBLIME DUO (ci-après dénommé "l’offre SUBLIME DUO"), donnant accès :
 
-* au service de streaming QOBUZ sans publicité permettant au Client d'écouter l'ensemble des titres du catalogue musical du Site en vraie qualité CD et en qualité Hi-Res (24-bits et jusqu’à 192 kHz) sur trois (3) appareils d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté) ;
+*   au service de streaming QOBUZ sans publicité permettant au Client d'écouter l'ensemble des titres du catalogue musical du Site en vraie qualité CD et en qualité Hi-Res (24-bits et jusqu’à 192 kHz) sur trois (3) appareils d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté) ;
 
-* aux Albums en qualité CD et Hi-Res 24-bit en téléchargement permanent, à un tarif préférentiel, selon les conditions prévues dans les CGUV Téléchargement QOBUZ.
+*   aux Albums en qualité CD et Hi-Res 24-bit en téléchargement permanent, à un tarif préférentiel, selon les conditions prévues dans les CGUV Téléchargement QOBUZ.
 
 Pour bénéficier de l’offre SUBLIME DUO, tout Client du Site devra avoir préalablement consulté et accepté sans restriction ni réserves les présentes CGUV.
 
@@ -1119,9 +1119,9 @@ Si le Client a souscrit une période d’essai ou un Abonnement payant par l’i
 
 Les présentes CGUV portent sur les abonnements payants SUBLIME FAMILLE (ci-après dénommés "l’offre SUBLIME FAMILLE") donnant accès :
 
-* au service de streaming QOBUZ sans publicité permettant au Client d'écouter l'ensemble des titres du catalogue musical du Site en vraie qualité CD et en qualité Hi-Res (24-bits et jusqu’à 192 kHz) sur six (6) appareils d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté) ;
+*   au service de streaming QOBUZ sans publicité permettant au Client d'écouter l'ensemble des titres du catalogue musical du Site en vraie qualité CD et en qualité Hi-Res (24-bits et jusqu’à 192 kHz) sur six (6) appareils d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté) ;
 
-* aux Albums en qualité CD et Hi-Res 24-bit en téléchargement permanent, à un tarif préférentiel, selon les conditions prévues dans les CGUV Téléchargement QOBUZ.
+*   aux Albums en qualité CD et Hi-Res 24-bit en téléchargement permanent, à un tarif préférentiel, selon les conditions prévues dans les CGUV Téléchargement QOBUZ.
 
 Pour bénéficier de l’offre SUBLIME FAMILLE, tout Client du Site devra avoir préalablement consulté et accepté sans restriction ni réserves les présentes CGUV.
 
