@@ -92,9 +92,9 @@ Il appartient au Client de vérifier l’exactitude de la commande et de signale
 #### 7.2.1 : Paiement usuel
 
   
-* Paiement par carte bancaire sur le site  
+*   Paiement par carte bancaire sur le site  
     Le Client fournit le numéro de sa carte bancaire associé à la date d'expiration et au code CVX.Il valide finalement sa commande en cliquant sur le bouton « Confirmer »Pour sécuriser le paiement, dans certains cas, la confirmation du paiement ne se fait qu’après avoir saisi un code 3D-Secure fourni par la banque. En cochant la case Mémoriser, le Client accepte que le numéro de sa carte bancaire associé à la date d'expiration soient conservés pour de prochains achats.
-* Paypal  
+*   Paypal  
     Pour tout détenteur d’un compte Paypal, le paiement se fait en ligne, par ce compte, en indiquant simplement l’adresse email et le mot de passe Paypal.  
     Ainsi, les informations financières du Client ne sont jamais communiquées à SPARTOO. PayPal crypte et protège le numéro de carte une fois pour toutes.
 
@@ -102,13 +102,13 @@ Il appartient au Client de vérifier l’exactitude de la commande et de signale
 
   
 Ne sont pas acceptées : les cartes American Express, les cartes exclusivement de retrait, les cartes à autorisation systématique (Electron, Maestro, Cirrus…), les cartes virtuelles (e-carte) et les cartes prépayées.  
-* Paiement par virement (également appelé transfert bancaire)  
+*   Paiement par virement (également appelé transfert bancaire)  
     Il suffit de sélectionner "transfert bancaire" et de confirmer la commande à l'étape numéro 5. Un email sera envoyé comportant les coordonnées bancaires de SPARTOO et un rappel du montant de la commande, avec un numéro unique de transaction à préciser à la banque lorsque le virement sera effectué. La commande sera préparée une fois le virement bancaire reçu (il faut compter environ 5 jours ouvrés, en fonction des délais inter-bancaires).
-* Paiement par Cado Carte  
+*   Paiement par Cado Carte  
     Le paiement par cado carte est possible. Le client devra rentrer les numéros de sa cado carte et sa date d'expiration comme pour un règlement par carte bancaire. Pour ce mode de paiement, le montant de la commande doit être égal ou inférieur au montant de la cado carte, le Client pourra utiliser le solde pour une prochaine commande dans le délai de validité de la cado carte.
-* Paiement par Carte Cadeau  
+*   Paiement par Carte Cadeau  
     Le paiement par carte cadeau est possible. Le Client devra renseigner dans Coupon de réduction le numéro de la carte. Si le montant de la commande est supérieur au montant de la carte cadeau, le Client devra compléter le règlement par un autre moyen de paiement. Si le montant de la commande est inférieur au montant de la carte cadeau, le Client pourra utiliser le solde pour une prochaine commande dans le délai de validité de la carte cadeau.
-* Paiement en 3 fois  
+*   Paiement en 3 fois  
     Spartoo se laisse le choix de proposer le paiement en 3 mensualités aux clients. Ce mode de paiement est alors disponible pour les commandes supérieures à 50€. Un tiers du montant de l'achat est débité immédiatement, le second tiers un mois après l'achat et le solde 2 mois après l'achat.  
     Cette prestation sera facturée 4.99€ lors du premier débit.  
       
@@ -123,9 +123,9 @@ Ne sont pas acceptées : les cartes American Express, les cartes exclusivement d
     La carte bancaire utilisée pour le règlement ne doit pas expirer dans les 4 mois à venir à compter de la première mensualité. Dans un tel cas, la commande sera annulée. Le paiement en 3 fois ne sera pas possible. Il faudra alors procéder par paiement normal en carte bleue ou par Paypal.  
       
     En cas de rupture totale sur une commande payée en trois fois, la commande est annulée, le Client est remboursé des sommes versées y compris les frais de dossier de 5 euros et les échéances sont annulées.
-* Paiement par Bancontact/Mistercash (Belgique)  
+*   Paiement par Bancontact/Mistercash (Belgique)  
     Le paiement se fait en ligne, en indiquant votre numéro de carte et sa date d’expiration dans la fenêtre dédié Bancontact/Mistercash. Ensuite, le Client n’a plus qu’à suivre les instructions pour sécuriser son paiement. Ainsi, les informations financières du Client ne sont jamais communiquées à SPARTOO.
-* Paiement par Klarna  
+*   Paiement par Klarna  
     Le paiement peut se faire par Klarna. Klarna est un fournisseur de services, offrant au client un service de crédit pour ses achats. Klarna propose un paiement en trois fois sans frais.  
       
     Ce mode de paiement permet au client de répartir le paiement de ses achats sur 3 versements. Ainsi, les paiements sont automatiquement prélevés sur la carte de débit/crédit enregistrée par le client jusqu’à ce que la totalité du montant de la commande soit payée. Le premier paiement sera prélevé lors de la passation de la commande. Les deux autres paiements seront prélevés tous les 30 jours, une fois le premier paiement réalisé.  
@@ -604,7 +604,7 @@ Les avantages de l'abonnement Spartoo Premium ne s'appliquent pas **aux produits
   
 Les avantages du Spartoo Premium sont les suivants:  
 
-* France Métropolitaine, Corse, Monaco, Belgique, Luxembourg et Suisse :
+*   France Métropolitaine, Corse, Monaco, Belgique, Luxembourg et Suisse :
 
 \- 10% de réduction immédiate sur tous les articles en dehors de la période de soldes.  
 \- 5% de réduction immédiate sur tous les articles pendant la période de soldes.  
@@ -613,14 +613,14 @@ Les avantages du Spartoo Premium sont les suivants:
 \- L'ASSURTOO : assurance contre le dommage matériel accidentel de vos chaussures  
 \- Des offres exclusives : réductions supplémentaires pendant les journées réservées aux clients Premium.  
 
-* DROM-COM :
+*   DROM-COM :
 
 \- 10% de réduction immédiate sur tous les articles en dehors de la période de soldes.  
 \- 5% de réduction immédiate sur tous les articles pendant la période de soldes.  
 \- Le Paiement en 3 fois sans frais dès 60€ d'achat  
 \- Des offres exclusives : réductions supplémentaires pendant les journées réservées aux clients Premium.  
 
-* Andorre :
+*   Andorre :
 
 \- 10% de réduction immédiate sur tous les articles en dehors de la période de soldes.  
 \- 5% de réduction immédiate sur tous les articles pendant la période de soldes.  
