@@ -23,95 +23,95 @@ Sur la base du contrat qui nous lie, d’une obligation légale, de notre intér
 
   
 
-* Finalités des traitements : Exécution des commandes passées sur le Site Web, par téléphone ou en Boutiques
+*   Finalités des traitements : Exécution des commandes passées sur le Site Web, par téléphone ou en Boutiques
 
 Gestion de la relations clients (téléphone, emails, chat), de la création de compte, du suivi des commandes, des retours produits et des remboursements
 
 Gestion des réclamations clients ou questions relatives aux produits (garantie)
 
-* Fondements des traitements :
+*   Fondements des traitements :
 
 Exécution du contrat passé entre un Client et Lacoste
 
   
 
-* Finalités des traitements : Gestion des opérations de paiement et émission d’une facture
-* Fondements des traitements : Exécution du contrat passé entre un Client et Lacoste
+*   Finalités des traitements : Gestion des opérations de paiement et émission d’une facture
+*   Fondements des traitements : Exécution du contrat passé entre un Client et Lacoste
 
   
 
-* Finalités des traitements : Lutte contre la fraude
-* Fondements des traitements : Intérêt légitime de Lacoste
+*   Finalités des traitements : Lutte contre la fraude
+*   Fondements des traitements : Intérêt légitime de Lacoste
 
   
 
-* Finalités des traitements : Gestion des opérations de livraisons
-* Fondements des traitements : Exécution du contrat passé entre un Client et Lacoste
+*   Finalités des traitements : Gestion des opérations de livraisons
+*   Fondements des traitements : Exécution du contrat passé entre un Client et Lacoste
 
   
 
-* Finalités des traitements : Gestion des réclamations ou questions relatives aux produits ou à notre marque
-* Fondements des traitements : Intérêt légitime de Lacoste
+*   Finalités des traitements : Gestion des réclamations ou questions relatives aux produits ou à notre marque
+*   Fondements des traitements : Intérêt légitime de Lacoste
 
   
 
-* Finalités des traitements : Gestion et amélioration du compte client, notamment en proposant de nouvelles fonctionnalités ou de nouveaux services
-* Fondements des traitements : Intérêt légitime de Lacoste afin d’améliorer le service
+*   Finalités des traitements : Gestion et amélioration du compte client, notamment en proposant de nouvelles fonctionnalités ou de nouveaux services
+*   Fondements des traitements : Intérêt légitime de Lacoste afin d’améliorer le service
 
   
 
-* Finalités des traitements : Gestion de la satisfaction client par l’intermédiaire d’évaluations clients sur les produits et sur la performance du service clients
-* Fondements des traitements : Intérêt légitime de Lacoste afin d’améliorer les produits et le service
+*   Finalités des traitements : Gestion de la satisfaction client par l’intermédiaire d’évaluations clients sur les produits et sur la performance du service clients
+*   Fondements des traitements : Intérêt légitime de Lacoste afin d’améliorer les produits et le service
 
   
 
-* Finalités des traitements : Enregistrement des échanges entre le service clients et le client par téléphone ou tchat, à des fins d’amélioration du service
-* Fondements des traitements : Intérêt légitime de Lacoste afin d’améliorer la qualité du service
+*   Finalités des traitements : Enregistrement des échanges entre le service clients et le client par téléphone ou tchat, à des fins d’amélioration du service
+*   Fondements des traitements : Intérêt légitime de Lacoste afin d’améliorer la qualité du service
 
   
 
-* Finalités des traitements : Opérations de statistiques, d’analyse, de sélection et de segmentation des clients afin d’améliorer la connaissance des clients
-* Fondements des traitements : Intérêt légitime de Lacoste de mieux connaître ses clients, afin notamment d’adapter ses offres aux clients
+*   Finalités des traitements : Opérations de statistiques, d’analyse, de sélection et de segmentation des clients afin d’améliorer la connaissance des clients
+*   Fondements des traitements : Intérêt légitime de Lacoste de mieux connaître ses clients, afin notamment d’adapter ses offres aux clients
 
   
 
-* Finalités des traitements : Développement et amélioration du Site Web
-* Fondements des traitements : Intérêt légitime de Lacoste afin d’améliorer le service
+*   Finalités des traitements : Développement et amélioration du Site Web
+*   Fondements des traitements : Intérêt légitime de Lacoste afin d’améliorer le service
 
   
 
-* Finalités des traitements : Gestion des demandes liées à l’exercice de vos droits
-* Fondements des traitements : Obligation légale
+*   Finalités des traitements : Gestion des demandes liées à l’exercice de vos droits
+*   Fondements des traitements : Obligation légale
 
   
 
-* Finalités des traitements : Envoi d’offres commerciales ciblées concernant les produits et services existants ou nouveaux par voie électronique (par email, par notifications mobiles ou sur le Site Web, sur les réseaux sociaux, sur d’autres sites internet), par téléphone (appel & SMS) ou en Boutique
-* Fondements des traitements : Consentement du Client
+*   Finalités des traitements : Envoi d’offres commerciales ciblées concernant les produits et services existants ou nouveaux par voie électronique (par email, par notifications mobiles ou sur le Site Web, sur les réseaux sociaux, sur d’autres sites internet), par téléphone (appel & SMS) ou en Boutique
+*   Fondements des traitements : Consentement du Client
 
   
 
-* Finalités des traitements : Envoi d’offres commerciales concernant les produits et services via courrier postal
-* Fondements des traitements : Consentement du Client
+*   Finalités des traitements : Envoi d’offres commerciales concernant les produits et services via courrier postal
+*   Fondements des traitements : Consentement du Client
 
   
 
-* Finalités des traitements : Mesure de fréquentation du Sites Web (mobile et desktop)
-* Fondements des traitements : Consentement du client
+*   Finalités des traitements : Mesure de fréquentation du Sites Web (mobile et desktop)
+*   Fondements des traitements : Consentement du client
 
   
 
-* Finalités des traitements : Mise à disposition d’outils de partage sur les réseaux sociaux
-* Fondements des traitements : Consentement du client
+*   Finalités des traitements : Mise à disposition d’outils de partage sur les réseaux sociaux
+*   Fondements des traitements : Consentement du client
 
   
 
-* Finalités des traitements : Analyse du comportement du client sur le Site Web ou dans les Boutiques, et ses réactions aux campagnes marketing afin d’améliorer et personnaliser les produits et les services, et de les proposer sous forme de communication commerciale et/ou de publicité
-* Fondements des traitements : Consentement du client
+*   Finalités des traitements : Analyse du comportement du client sur le Site Web ou dans les Boutiques, et ses réactions aux campagnes marketing afin d’améliorer et personnaliser les produits et les services, et de les proposer sous forme de communication commerciale et/ou de publicité
+*   Fondements des traitements : Consentement du client
 
   
 
-* Finalités des traitements : Gestion du service de reprise d’Articles de seconde main en Boutiques Participantes, comprenant la collecte des Articles et l’émission de bons d’achat. À cette fin, Lacoste fait appel à la société FAUME, agissant en qualité de sous-traitant, qui collecte et traite pour le compte de Lacoste certaines données (nom, prénom, adresse e-mail).
-* Fondements des traitements : Exécution du contrat passé entre un Client et Lacoste
+*   Finalités des traitements : Gestion du service de reprise d’Articles de seconde main en Boutiques Participantes, comprenant la collecte des Articles et l’émission de bons d’achat. À cette fin, Lacoste fait appel à la société FAUME, agissant en qualité de sous-traitant, qui collecte et traite pour le compte de Lacoste certaines données (nom, prénom, adresse e-mail).
+*   Fondements des traitements : Exécution du contrat passé entre un Client et Lacoste
 
 Newsletters
 
