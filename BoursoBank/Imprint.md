@@ -4,15 +4,15 @@ Mentions légales et conditions générales d'utilisation
 Table des matières :
 --------------------
 
-* [MENTIONS LÉGALES](#general-information "MENTIONS LÉGALES")
-* [PROPRIÉTÉ INTELLECTUELLE](#intellectual-property "PROPRIÉTÉ INTELLECTUELLE")
-* [INFORMATIONS](#information "INFORMATIONS")
-* [POLITIQUE DE MODÉRATION SUR LE SITE BOURSORAMA.COM](#moderation-policy "POLITIQUE DE MODÉRATION SUR LE SITE BOURSORAMA.COM")
-* [REPORT DES ABUS SUR LE SITE BOURSORAMA.COM](#reporting-abuse "REPORT DES ABUS SUR LE SITE BOURSORAMA.COM")
-* [LIENS HYPERTEXTES](#hyperlinks "LIENS HYPERTEXTES")
-* [COOKIES](#cookies "COOKIES")
-* [SÉCURITÉ](#security "SÉCURITÉ")
-* [DIGITAL SERVICES ACT](#digital-services-act "DIGITAL SERVICES ACT")
+*   [MENTIONS LÉGALES](#general-information "MENTIONS LÉGALES")
+*   [PROPRIÉTÉ INTELLECTUELLE](#intellectual-property "PROPRIÉTÉ INTELLECTUELLE")
+*   [INFORMATIONS](#information "INFORMATIONS")
+*   [POLITIQUE DE MODÉRATION SUR LE SITE BOURSORAMA.COM](#moderation-policy "POLITIQUE DE MODÉRATION SUR LE SITE BOURSORAMA.COM")
+*   [REPORT DES ABUS SUR LE SITE BOURSORAMA.COM](#reporting-abuse "REPORT DES ABUS SUR LE SITE BOURSORAMA.COM")
+*   [LIENS HYPERTEXTES](#hyperlinks "LIENS HYPERTEXTES")
+*   [COOKIES](#cookies "COOKIES")
+*   [SÉCURITÉ](#security "SÉCURITÉ")
+*   [DIGITAL SERVICES ACT](#digital-services-act "DIGITAL SERVICES ACT")
 
 1\. Mentions légales
 --------------------
@@ -58,8 +58,8 @@ BOURSORAMA vous confère un droit d'usage privé, non collectif et non exclusif,
 
 Vous vous engagez en conséquence à :
 
-* ne télécharger sur votre terminal les Informations que pour un usage personnel et limité dans le temps ;
-* n'imprimer sur support papier les pages des Espaces téléchargées qu'à la condition que lesdites copies soient strictement limitées à un usage personnel.
+*   ne télécharger sur votre terminal les Informations que pour un usage personnel et limité dans le temps ;
+*   n'imprimer sur support papier les pages des Espaces téléchargées qu'à la condition que lesdites copies soient strictement limitées à un usage personnel.
 
 Vous vous interdisez notamment de modifier, copier, reproduire, télécharger, diffuser, transmettre, exploiter commercialement et/ou distribuer de quelque façon que ce soit les pages des Espaces et de l’Assistant Eliott, ou les codes informatiques des éléments composant les Espaces et de l’Assistant Eliott.
 
@@ -86,9 +86,9 @@ BOURSORAMA et, le cas échéant ses partenaires et fournisseurs de flux, s'effor
 
 En particulier, certains des produits et services proposés par BOURSORAMA fonctionnent avec de l'intelligence artificielle et peuvent à ce titre contenir et/ou générer des informations qui ne sont pas totalement précises, complètes ou pertinentes, voire qui peuvent être erronées :
 
-* L'Assistant Eliott : Les réponses apportées par l'Assistant Eliott peuvent ne pas être suffisamment pertinentes ou peuvent être inexactes. Par exemple, l’Assistant Eliott peut être involontairement biaisé car formé sur un modèle pré-entrainé mis à disposition par un tiers. Les Informations sont communiquées à titre indicatif et ne sauraient être assimilées à de quelconques conseils ou recommandations.
-* Le sous-titrage automatique de vidéos : certaines des vidéos diffusées par BOURSORAMA sont sous-titrées automatiquement grâce à un outil fourni par un tiers. Du fait de cette automatisation, BOURSORAMA ne peut garantir l'absence d'erreurs ou d'omissions dans la transcription écrite de l'audio.
-* Les vidéos IA Libertify (la valeur vue par l'IA, la société vue par l'IA, top 5 IA, une semaine en bourse...) : ces vidéos sont créées exclusivement par Libertify. Elles sont communiquées à titre indicatif, sans valeur contractuelle, et ne sauraient être assimilées à de quelconques conseils en investissement ou de recommandations d'acheter, de vendre, ou de continuer à détenir un investissement.
+*   L'Assistant Eliott : Les réponses apportées par l'Assistant Eliott peuvent ne pas être suffisamment pertinentes ou peuvent être inexactes. Par exemple, l’Assistant Eliott peut être involontairement biaisé car formé sur un modèle pré-entrainé mis à disposition par un tiers. Les Informations sont communiquées à titre indicatif et ne sauraient être assimilées à de quelconques conseils ou recommandations.
+*   Le sous-titrage automatique de vidéos : certaines des vidéos diffusées par BOURSORAMA sont sous-titrées automatiquement grâce à un outil fourni par un tiers. Du fait de cette automatisation, BOURSORAMA ne peut garantir l'absence d'erreurs ou d'omissions dans la transcription écrite de l'audio.
+*   Les vidéos IA Libertify (la valeur vue par l'IA, la société vue par l'IA, top 5 IA, une semaine en bourse...) : ces vidéos sont créées exclusivement par Libertify. Elles sont communiquées à titre indicatif, sans valeur contractuelle, et ne sauraient être assimilées à de quelconques conseils en investissement ou de recommandations d'acheter, de vendre, ou de continuer à détenir un investissement.
 
 BOURSORAMA, et ses partenaires ainsi que les fournisseurs de flux déclinent toute responsabilité quant à l'utilisation qui pourrait en être faite de ces produits et services fonctionnant avec de l'intelligence artificielle.
 
@@ -108,27 +108,27 @@ Les Informations diffusées par les partenaires de BOURSORAMA et par les fournis
 
 En conséquence, BOURSORAMA décline toute responsabilité :
 
-* pour toute imprécision, inexactitude ou omission liées aux Informations publiées par ses partenaires et fournisseurs de flux ;
-* pour tous dommages résultant d'une intrusion frauduleuse d'un tiers ayant entraîné une modification des Informations diffusées par ses partenaires et fournisseurs de flux ;
-* pour tous dommages, directs ou indirects, qu'elles qu'en soient les causes, origines, nature ou conséquences, résultant de l'usage des Informations fournies par ses partenaires et fournisseurs de flux ou de l'impossibilité d'y accéder, de l'usage d'autres sites qui leur sont liés par des liens hypertextes
-* pour toute atteinte aux droits que des tiers, personnes physiques ou morales, pourraient détenir notamment en matière de propriété intellectuelle, de droit à l'image ou au respect de la vie privée et en relation avec les Informations diffusées par ses partenaires et fournisseurs de flux.
+*   pour toute imprécision, inexactitude ou omission liées aux Informations publiées par ses partenaires et fournisseurs de flux ;
+*   pour tous dommages résultant d'une intrusion frauduleuse d'un tiers ayant entraîné une modification des Informations diffusées par ses partenaires et fournisseurs de flux ;
+*   pour tous dommages, directs ou indirects, qu'elles qu'en soient les causes, origines, nature ou conséquences, résultant de l'usage des Informations fournies par ses partenaires et fournisseurs de flux ou de l'impossibilité d'y accéder, de l'usage d'autres sites qui leur sont liés par des liens hypertextes
+*   pour toute atteinte aux droits que des tiers, personnes physiques ou morales, pourraient détenir notamment en matière de propriété intellectuelle, de droit à l'image ou au respect de la vie privée et en relation avec les Informations diffusées par ses partenaires et fournisseurs de flux.
 
 BOURSORAMA diffuse notamment les Informations financières dont les droits de diffusion ont été concédés par les fournisseurs de flux suivants :
 
-* **SIX**
-* **ICE**
-* **EURONEXT**
-    * Les Informations financières d'Euronext ou tout fournisseur de flux spécifiquement mentionnés sur les Espaces sont la propriété d'Euronext ou des fournisseurs de flux et sont protégées par le copyright et les lois sur la propriété intellectuelle.
-    * L'autorisation de télécharger, copier, sauvegarder et éditer les pages Web, leur contenu ou les résultats générés ou visualisés par les outils d'affichage, partiellement ou entièrement, est accordée uniquement pour un usage personnel et non commercial. Les mentions du copyright ou les noms de la marque ne doivent pas être omis ou modifiés.
-* **DOW JONES**
-    * Les indices Dow Jones IndexesTM sont compilés, calculés et distribués par Dow Jones & Company, Inc et font l'objet d'une concession de licence en vue de leur utilisation.
-* **FTSE**
-    * BOURSORAMA est autorisée par licence concédée par la société FTSE International Limited (FTSE) à publier les indices du FTSE. Le FTSE ne saurait être responsable de toute erreur ou omission dans les indices du FTSE. Les indices du FTSE sont calculés conformément à un ensemble de règles de base établies par le FTSE conjointement avec l'Institut et la Faculté des Actuaires. Tous les copyright et droits d'auteur dans les valeurs et la liste des composants des indices sont acquis à FTSE ou à BOURSORAMA.
-* **MORNINGSTAR**
-    * Les Informations fournies par Morningstar sont la propriété de Morningstar ou de ses partenaires et leur réutilisation en dehors des Espaces est soumise à l'accord exprès de Morningstar.
-    * La responsabilité de Morningstar ne pourra en aucune façon être retenue du fait de tous retards, interruptions, omissions, préjudices indirects ou pertes, résultant de l'utilisation que vous faites des Informations Morningstar accessibles sur les Espaces, et notamment vos décisions d'investissements.
-    * Les Informations fournies par Morningstar ne constituent en aucun cas, une offre de produits et/ou de services, ni une offre et/ou une recommandation et/ou une sollicitation d'offre d'achat ou de vente et plus largement ne sauraient en aucune circonstance constituer une recommandation d'investissement ou de transaction (achat/vente) de produits financiers.
-    * Il est rappelé que les performances passées ne peuvent préjuger des performances futures. Les informations fournies par Morningstar ne peuvent être utilisées à des fins contraires aux lois applicables, aux bonnes mœurs et en violation des droits des tiers.
+*   **SIX**
+*   **ICE**
+*   **EURONEXT**
+    *   Les Informations financières d'Euronext ou tout fournisseur de flux spécifiquement mentionnés sur les Espaces sont la propriété d'Euronext ou des fournisseurs de flux et sont protégées par le copyright et les lois sur la propriété intellectuelle.
+    *   L'autorisation de télécharger, copier, sauvegarder et éditer les pages Web, leur contenu ou les résultats générés ou visualisés par les outils d'affichage, partiellement ou entièrement, est accordée uniquement pour un usage personnel et non commercial. Les mentions du copyright ou les noms de la marque ne doivent pas être omis ou modifiés.
+*   **DOW JONES**
+    *   Les indices Dow Jones IndexesTM sont compilés, calculés et distribués par Dow Jones & Company, Inc et font l'objet d'une concession de licence en vue de leur utilisation.
+*   **FTSE**
+    *   BOURSORAMA est autorisée par licence concédée par la société FTSE International Limited (FTSE) à publier les indices du FTSE. Le FTSE ne saurait être responsable de toute erreur ou omission dans les indices du FTSE. Les indices du FTSE sont calculés conformément à un ensemble de règles de base établies par le FTSE conjointement avec l'Institut et la Faculté des Actuaires. Tous les copyright et droits d'auteur dans les valeurs et la liste des composants des indices sont acquis à FTSE ou à BOURSORAMA.
+*   **MORNINGSTAR**
+    *   Les Informations fournies par Morningstar sont la propriété de Morningstar ou de ses partenaires et leur réutilisation en dehors des Espaces est soumise à l'accord exprès de Morningstar.
+    *   La responsabilité de Morningstar ne pourra en aucune façon être retenue du fait de tous retards, interruptions, omissions, préjudices indirects ou pertes, résultant de l'utilisation que vous faites des Informations Morningstar accessibles sur les Espaces, et notamment vos décisions d'investissements.
+    *   Les Informations fournies par Morningstar ne constituent en aucun cas, une offre de produits et/ou de services, ni une offre et/ou une recommandation et/ou une sollicitation d'offre d'achat ou de vente et plus largement ne sauraient en aucune circonstance constituer une recommandation d'investissement ou de transaction (achat/vente) de produits financiers.
+    *   Il est rappelé que les performances passées ne peuvent préjuger des performances futures. Les informations fournies par Morningstar ne peuvent être utilisées à des fins contraires aux lois applicables, aux bonnes mœurs et en violation des droits des tiers.
 
 4\. Politique de modération sur le site BOURSORAMA.COM
 ------------------------------------------------------
@@ -147,10 +147,10 @@ BOURSORAMA répond en cela à la définition de l'article 6.I.2 de la loi n° 20
 
 Conformément à l'article 16 du DSA, la connaissance des faits litigieux est présumée acquise par BOURSORAMA lorsqu'il lui est notifié les éléments suivants :
 
-* « une explication suffisamment étayée des raisons pour lesquelles le particulier ou l’entité allègue que les informations en question sont du contenu illicite;
-* une indication claire de l’emplacement électronique exact de ces informations, comme l’URL ou les URL exact(s), et, le cas échéant, des informations complémentaires permettant d’identifier le contenu illicite en fonction du type de contenu et du type spécifique de service d’hébergement;
-* le nom et l’adresse de courrier électronique du particulier ou de l’entité soumettant la notification, sauf dans le cas d’informations considérées comme impliquant une des infractions visées aux articles 3 à 7 de la directive 2011/93/UE;
-* une déclaration confirmant que le particulier ou l’entité soumettant la notification pense, de bonne foi, que les informations et les allégations qu’elle contient sont exactes et complètes. »
+*   « une explication suffisamment étayée des raisons pour lesquelles le particulier ou l’entité allègue que les informations en question sont du contenu illicite;
+*   une indication claire de l’emplacement électronique exact de ces informations, comme l’URL ou les URL exact(s), et, le cas échéant, des informations complémentaires permettant d’identifier le contenu illicite en fonction du type de contenu et du type spécifique de service d’hébergement;
+*   le nom et l’adresse de courrier électronique du particulier ou de l’entité soumettant la notification, sauf dans le cas d’informations considérées comme impliquant une des infractions visées aux articles 3 à 7 de la directive 2011/93/UE;
+*   une déclaration confirmant que le particulier ou l’entité soumettant la notification pense, de bonne foi, que les informations et les allégations qu’elle contient sont exactes et complètes. »
 
 BOURSORAMA réagit donc uniquement a posteriori dès lors que lui est signalé le caractère prétendument illicite ou indélicat d'un contenu dans les conditions prévues à l’article 16 du DSA indiquées ci-dessus et met en œuvre promptement les mesures nécessaires pour que le contenu ne soit plus accessible.
 
@@ -179,17 +179,17 @@ BOURSORAMA n'est pas responsable de l'altération, la perte ou la transmission a
 
 En conséquence, la responsabilité de BOURSORAMA ne peut être engagée dans les cas suivants :
 
-* interruptions momentanées d'une durée de quelques minutes pour la mise à jour des Espaces et/ou de l’Assistant Eliott.
-* difficultés de fonctionnement ou interruption momentanée des Espaces et/ou de l’Assistant Eliott indépendamment de la volonté de BOURSORAMA notamment en cas d'interruption des services d'électricité ou de communications électroniques.
-* interruptions momentanées des Espaces et/ou de l’Assistant Eliott nécessaires aux évolutions ou maintenance.
-* défaillance ou dysfonctionnements du réseau Internet dans la transmission de messages ou documents.
+*   interruptions momentanées d'une durée de quelques minutes pour la mise à jour des Espaces et/ou de l’Assistant Eliott.
+*   difficultés de fonctionnement ou interruption momentanée des Espaces et/ou de l’Assistant Eliott indépendamment de la volonté de BOURSORAMA notamment en cas d'interruption des services d'électricité ou de communications électroniques.
+*   interruptions momentanées des Espaces et/ou de l’Assistant Eliott nécessaires aux évolutions ou maintenance.
+*   défaillance ou dysfonctionnements du réseau Internet dans la transmission de messages ou documents.
 
 Vous acceptez les caractéristiques et les limites de l'Internet, et en particulier vous reconnaissez :
 
-* que vous avez connaissance de la nature de l'Internet, en particulier de ses performances techniques et des temps de réponse pour consulter, interroger ou transférer des contenus.
-* que la communication de vos éventuels codes d'accès ou d'une manière générale de toute information jugée confidentielle est faite sous votre propre responsabilité.
-* qu'il vous appartient de prendre toutes mesures nécessaires pour vous assurer que les caractéristiques techniques de votre ordinateur vous permettent la consultation des Informations.
-* qu'il vous appartient de prendre toutes les mesures appropriées de façon à protéger vos propres données et/ou logiciels de la contamination par des éventuels virus circulant à travers les Espaces et/ou l’Assistant Eliott.
+*   que vous avez connaissance de la nature de l'Internet, en particulier de ses performances techniques et des temps de réponse pour consulter, interroger ou transférer des contenus.
+*   que la communication de vos éventuels codes d'accès ou d'une manière générale de toute information jugée confidentielle est faite sous votre propre responsabilité.
+*   qu'il vous appartient de prendre toutes mesures nécessaires pour vous assurer que les caractéristiques techniques de votre ordinateur vous permettent la consultation des Informations.
+*   qu'il vous appartient de prendre toutes les mesures appropriées de façon à protéger vos propres données et/ou logiciels de la contamination par des éventuels virus circulant à travers les Espaces et/ou l’Assistant Eliott.
 
 BOURSORAMA ne garantit pas que les Espaces et l’Assistant Eliott soient sans erreurs ni que toutes les imperfections feront l'objet de corrections.
 
@@ -228,8 +228,8 @@ Téléphone professionel
 Les données personnelles recueillies dans le présent formulaire sont obligatoires et font l'objet d’un traitement dont le responsable est Boursorama. Elles sont traitées pour répondre aux réglementations en vigueur.  
 Vous disposez notamment d'un droit d'accès et de rectification à vos données personnelles. Ces droits peuvent être exercés, en précisant vos nom, prénom, email, date de naissance et votre code postal, notamment en adressant une demande à l'adresse suivante :
 
-* soit en utilisant votre espace sécurisé en vous identifiant sur votre « Compte Membre » accessible en ligne au moyen du formulaire mis à votre disposition en bas de page de la rubrique «mes infos persos ». Le Membre recevra alors après vérification de son adresse e-mail, le rapport de données personnelles sur sa messagerie,
-* soit en complétant une demande en cliquant [ici](https://clients.boursobank.com/mon-profil/parametres-de-confidentialite/client-ou-pas), pour exercer votre droit d’accès.
+*   soit en utilisant votre espace sécurisé en vous identifiant sur votre « Compte Membre » accessible en ligne au moyen du formulaire mis à votre disposition en bas de page de la rubrique «mes infos persos ». Le Membre recevra alors après vérification de son adresse e-mail, le rapport de données personnelles sur sa messagerie,
+*   soit en complétant une demande en cliquant [ici](https://clients.boursobank.com/mon-profil/parametres-de-confidentialite/client-ou-pas), pour exercer votre droit d’accès.
 
 Pour plus d'information, vous pouvez contacter le Délégué à la Protection des Données à l'adresse suivante : dpo@boursorama.fr.  
 Si vous estimez, après nous avoir contactés, que vos droits sur vos Données ne sont pas respectés, vous pouvez adresser une réclamation à : Commission Nationale Informatique et des Libertés (CNIL) - 3, place de Fontenoy, TSA 80715, 75334 Paris Cedex 07.  
