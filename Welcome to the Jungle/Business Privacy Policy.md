@@ -47,16 +47,16 @@ Nous avons désigné un Délégué à la Protection des Données Personnelles (D
 
 📊 **Détail des Données collectées :**
 
-* Adresse IP
-* Cookies
-* Logs
-* Données de connexion et de navigation
+*   Adresse IP
+*   Cookies
+*   Logs
+*   Données de connexion et de navigation
 
 _Pour plus d’informations, veuillez consulter notre [Politique de Gestion des Cookies](https://www.welcometothejungle.com/fr/pages/cookies-policy)._
 
 👥 **Personnes concernées :**
 
-* Utilisateurs
+*   Utilisateurs
 
 * * *
 
@@ -64,18 +64,18 @@ _Pour plus d’informations, veuillez consulter notre [Politique de Gestion des 
 
 📊 **Détail des Données collectées :**
 
-* Civilité
-* Prénom
-* Nom
-* Adresse email professionnelle
-* Numéro de téléphone professionnel
-* Secteur d’activité
-* Poste
-* Entreprise actuelle
+*   Civilité
+*   Prénom
+*   Nom
+*   Adresse email professionnelle
+*   Numéro de téléphone professionnel
+*   Secteur d’activité
+*   Poste
+*   Entreprise actuelle
 
 👥 **Personnes concernées :**
 
-* Utilisateurs du Site Solutions _(prospects)_
+*   Utilisateurs du Site Solutions _(prospects)_
 
 * * *
 
@@ -83,20 +83,20 @@ _Pour plus d’informations, veuillez consulter notre [Politique de Gestion des 
 
 📊 **Détail des Données collectées :**
 
-* Civilité
-* Prénom
-* Nom
-* Adresse email professionnelle
-* Numéro de téléphone professionnel
-* Secteur d’activité
-* Poste
-* Entreprise actuelle
-* Langue
-* Photo de profil
+*   Civilité
+*   Prénom
+*   Nom
+*   Adresse email professionnelle
+*   Numéro de téléphone professionnel
+*   Secteur d’activité
+*   Poste
+*   Entreprise actuelle
+*   Langue
+*   Photo de profil
 
 👥 **Personnes concernées :**
 
-* Utilisateurs du Produit _(clients)_
+*   Utilisateurs du Produit _(clients)_
 
 * * *
 
@@ -124,13 +124,13 @@ _Les différentes utilisations de vos Données Personnelles dépendra des foncti
 
 🎯 **Sous-finalités :**
 
-* Commande de nos ressources (eBook, trendbook, guide, etc) via notre Site Solutions
-* Inscription à nos événements ou téléchargement du replay sur notre Site Solutions
+*   Commande de nos ressources (eBook, trendbook, guide, etc) via notre Site Solutions
+*   Inscription à nos événements ou téléchargement du replay sur notre Site Solutions
 
 ⚖️ **Bases juridiques :**
 
-* Exécution contractuelle
-* Consentement
+*   Exécution contractuelle
+*   Consentement
 
 * * *
 
@@ -138,16 +138,16 @@ _Les différentes utilisations de vos Données Personnelles dépendra des foncti
 
 🎯 **Sous-finalités :**
 
-* Réalisation de campagnes de prospection BtoB (email, téléphone) ;
-* Envoi de communications via email sur votre utilisation de nos Services ;
-* Envoi de communications promotionnelles via email sur les nouveautés produit ou toutes informations importantes sur Welcome to the Jungle ;
-* Envoi de la newsletter qui répertorie les différents articles et sujets d’actualités ;
-* Envoi de communications transactionnelles et notamment mise à jour juridique ou sécurité.
+*   Réalisation de campagnes de prospection BtoB (email, téléphone) ;
+*   Envoi de communications via email sur votre utilisation de nos Services ;
+*   Envoi de communications promotionnelles via email sur les nouveautés produit ou toutes informations importantes sur Welcome to the Jungle ;
+*   Envoi de la newsletter qui répertorie les différents articles et sujets d’actualités ;
+*   Envoi de communications transactionnelles et notamment mise à jour juridique ou sécurité.
 
 ⚖️ **Bases juridiques :**
 
-* Intérêt légitime
-* Consentement
+*   Intérêt légitime
+*   Consentement
 
 * * *
 
@@ -155,12 +155,12 @@ _Les différentes utilisations de vos Données Personnelles dépendra des foncti
 
 🎯 **Sous-finalités :**
 
-* Réalisation d’enquêtes de satisfaction et collecte de feedback à des fins d’amélioration de nos Services et notamment de pouvoir vous proposer une meilleure expérience, plus intuitive et personnalisée ;
-* Utilisation de vos Données pour produire des résultats qui ne permettent pas de vous identifier directement et notamment des statistiques sur nos membres et leurs utilisations de nos Services.
+*   Réalisation d’enquêtes de satisfaction et collecte de feedback à des fins d’amélioration de nos Services et notamment de pouvoir vous proposer une meilleure expérience, plus intuitive et personnalisée ;
+*   Utilisation de vos Données pour produire des résultats qui ne permettent pas de vous identifier directement et notamment des statistiques sur nos membres et leurs utilisations de nos Services.
 
 ⚖️ **Bases juridiques :**
 
-* Consentement
+*   Consentement
 
 * * *
 
@@ -168,17 +168,17 @@ _Les différentes utilisations de vos Données Personnelles dépendra des foncti
 
 🎯 **Sous-finalités :**
 
-* Administration générale du Site afin d’assurer son bon fonctionnement et sa sécurité ;
-* Traitement des demandes de renseignement via les différents formulaires disponibles sur notre Site ;
-* Réalisation de statistiques, suivi de l’activité, analyse de la fréquentation et des pages consultées ;
-* Amélioration du Site et Services et proposition d’un contenu performant pour vous et votre ordinateur ;
-* Dépôt des cookies conformément aux choix effectués via notre bandeau cookies ;
-* Résolution de tout litige ou anomalie dans le cadre de l’utilisation de nos Services et notamment lutter contre la fraude en ligne.
+*   Administration générale du Site afin d’assurer son bon fonctionnement et sa sécurité ;
+*   Traitement des demandes de renseignement via les différents formulaires disponibles sur notre Site ;
+*   Réalisation de statistiques, suivi de l’activité, analyse de la fréquentation et des pages consultées ;
+*   Amélioration du Site et Services et proposition d’un contenu performant pour vous et votre ordinateur ;
+*   Dépôt des cookies conformément aux choix effectués via notre bandeau cookies ;
+*   Résolution de tout litige ou anomalie dans le cadre de l’utilisation de nos Services et notamment lutter contre la fraude en ligne.
 
 ⚖️ **Bases juridiques :**
 
-* Intérêt légitime
-* Consentement
+*   Intérêt légitime
+*   Consentement
 
 * * *
 
@@ -189,12 +189,12 @@ Traitement effectués uniquement lors de l’utilisation du Produit :
 
 🎯 **Sous-finalités :**
 
-* Création et gestion de votre profil membre sur notre Produit ;
-* Traitement des demandes de renseignement et assistance dans le cadre de votre utilisation de nos Services.
+*   Création et gestion de votre profil membre sur notre Produit ;
+*   Traitement des demandes de renseignement et assistance dans le cadre de votre utilisation de nos Services.
 
 ⚖️ **Bases juridiques :**
 
-* Exécution contractuelle
+*   Exécution contractuelle
 
 * * *
 
@@ -202,15 +202,15 @@ Traitement effectués uniquement lors de l’utilisation du Produit :
 
 🎯 **Sous-finalités :**
 
-* Paiement des Services et suivi de la facturation ;
-* Gestion des impayés et du contentieux ;
-* Tenue des registres comptables et justificatifs légaux ;
-* Gestion du suivi commercial.
+*   Paiement des Services et suivi de la facturation ;
+*   Gestion des impayés et du contentieux ;
+*   Tenue des registres comptables et justificatifs légaux ;
+*   Gestion du suivi commercial.
 
 ⚖️ **Bases juridiques :**
 
-* Exécution contractuelle
-* Obligation légale
+*   Exécution contractuelle
+*   Obligation légale
 
 * * *
 
@@ -271,8 +271,8 @@ Vous disposez d’un droit d’accès aux Données vous concernant, du droit d�
 
 Vous avez également la possibilité de vous opposer, à tout moment :
 
-* Aux traitements à des fins de prospection commerciale, mis en œuvre par WTTJ ;
-* Pour des raisons tenant à votre situation particulière, aux traitements fondés sur l’intérêt légitime de WTTJ.
+*   Aux traitements à des fins de prospection commerciale, mis en œuvre par WTTJ ;
+*   Pour des raisons tenant à votre situation particulière, aux traitements fondés sur l’intérêt légitime de WTTJ.
 
 Ces droits peuvent être exercés à tout moment en contactant le Délégué à la protection des données (DPO) à l’adresse [privacy@wttj.co](mailto:privacy@wttj.co).
 
