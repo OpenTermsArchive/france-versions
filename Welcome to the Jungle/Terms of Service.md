@@ -31,19 +31,19 @@ Nous pouvons être amenée à modifier les présentes Conditions Générales d�
 
 Lorsque vous naviguez sur le site vous pouvez, sans avoir à créer un Espace Membre :
 
-* Rechercher, explorer et visionner des pages d’entreprises et obtenir des renseignements (informations, vidéos, offres, actualités, etc) sur ces dernières via leurs pages (ci-après “**Vitrine(s) Entreprise(s)**”) ;
-* Consulter des offres d’emploi ;
-* Explorer des articles et du contenu sur le thème de l’emploi et du recrutement ;
-* Télécharger nos ressources et notamment nos Ebooks et guides sur le thème de la marque employeur et du recrutement ;
-* Vous inscrire pour assister à nos événements ou télécharger le replay ;
-* Demander une démonstration de notre produit et à être recontacté par nos équipes.
+*   Rechercher, explorer et visionner des pages d’entreprises et obtenir des renseignements (informations, vidéos, offres, actualités, etc) sur ces dernières via leurs pages (ci-après “**Vitrine(s) Entreprise(s)**”) ;
+*   Consulter des offres d’emploi ;
+*   Explorer des articles et du contenu sur le thème de l’emploi et du recrutement ;
+*   Télécharger nos ressources et notamment nos Ebooks et guides sur le thème de la marque employeur et du recrutement ;
+*   Vous inscrire pour assister à nos événements ou télécharger le replay ;
+*   Demander une démonstration de notre produit et à être recontacté par nos équipes.
 
 Lorsque vous créez un compte sur notre site (ci-après “**Espace Membre**”) vous pourrez bénéficier de l’expérience complète proposée par Welcome to the Jungle et notamment :
 
-* Créer et renseigner votre profil membre pour bénéficier d’un accompagnement personnalisé dans votre recherche d’emploi ;
-* Être contacté par des recruteurs lorsque vous donnez votre consentement à rendre visibles les informations de votre profil, sur la base des données manuellement et automatiquement renseignées dans votre profil et de vos données d’utilisation du Site ;
-* Parcourir, comparer et postuler aux offres d’emploi disponibles sur le Site ;
-* Gérer l’avancement de l’ensemble de vos candidatures au sein de votre Espace Membre.
+*   Créer et renseigner votre profil membre pour bénéficier d’un accompagnement personnalisé dans votre recherche d’emploi ;
+*   Être contacté par des recruteurs lorsque vous donnez votre consentement à rendre visibles les informations de votre profil, sur la base des données manuellement et automatiquement renseignées dans votre profil et de vos données d’utilisation du Site ;
+*   Parcourir, comparer et postuler aux offres d’emploi disponibles sur le Site ;
+*   Gérer l’avancement de l’ensemble de vos candidatures au sein de votre Espace Membre.
 
 Les Services sont des services gratuits pour les Utilisateurs du Site. La diffusion d’offres d’emploi et l’accès à notre produit sont payants pour les recruteurs.
 
@@ -57,8 +57,8 @@ Lorsque l’Utilisateur se crée un Espace Membre il a la possibilité de s’in
 Votre mot de passe doit être solide et respecter nos exigences en matière de sécurité, il devra rester strictement personnel et confidentiel.  
 Vous êtes le seul responsable des actions résultant de l’utilisation de votre Espace Membre, indistinctement que vous en soyez à l’origine ou non. C’est pourquoi vous garantissez :
 
-* ne permettre à aucun tiers d’utiliser à votre place ou pour votre compte votre Espace Membre ;
-* prendre toutes les mesures appropriées afin d’assurer la sécurité, la confidentialité de votre mot de passe et de votre identifiant.
+*   ne permettre à aucun tiers d’utiliser à votre place ou pour votre compte votre Espace Membre ;
+*   prendre toutes les mesures appropriées afin d’assurer la sécurité, la confidentialité de votre mot de passe et de votre identifiant.
 
 En cas de perte ou de vol de vos identifiants de connexion, veuillez en avertir immédiatement Welcome to the Jungle via le formulaire de contact disponible sur notre Site. Les conséquences directes ou indirectes résultant d’une notification tardive ou de l’absence de notification en cas de perte ou de vol de vos identifiants et mot de passe relèvent de votre entière responsabilité.
 
@@ -105,22 +105,22 @@ Dans le cadre de l’utilisation des Services, l’Utilisateur est le seul respo
 
 Les Utilisateurs, lorsqu’ils utilisent les services s’engagent à :
 
-* Se conformer aux stipulations décrites dans les CGU, aux lois en vigueur, et à respecter les droits des tiers ;
-* D’utiliser le Site conformément à sa destination et de ne pas nuire à son bon fonctionnement ;
-* Ne pas développer, prendre en charge ou utiliser des logiciels, des dispositifs, des scripts, des robots ou tout autre moyen ou processus (notamment des robots d’indexation, des modules d’extension de navigateur et compléments, ou toute autre technologie) visant à effectuer du web scraping des services ou à copier par ailleurs des Vitrines Entreprises et d’autres données des services ;
-* Ne pas violer les droits de propriété intellectuelle ou d’autres droits de Welcome to the Jungle, ce qui comprend, mais sans s’y limiter, (i) la copie ou la distribution de nos photos et vidéos disponibles sur les Vitrines Entreprise (ii) la copie ou la distribution de nos articles et tout autre contenus médias (iii) l’utilisation du terme “Welcome to the Jungle” ou de nos logos ;
-* Ne pas faire de l’ingénierie inverse, décompiler, désassembler, déchiffrer ou, de manière générale, tenter d’obtenir le code source des services ou de toute technologie connexe qui n’est pas en open source ;
-* Ne pas utiliser la technique du “framing”, de la “mise en miroir” ou, d’une manière générale, simuler l’apparence ou le fonctionnement du Site ainsi que des Vitrines Entreprise ;
-* Ne pas perturber le fonctionnement des Services ou imposer une charge disproportionnée sur ceux-ci (spam, attaque par déni de service, virus, algorithme de jeu).
+*   Se conformer aux stipulations décrites dans les CGU, aux lois en vigueur, et à respecter les droits des tiers ;
+*   D’utiliser le Site conformément à sa destination et de ne pas nuire à son bon fonctionnement ;
+*   Ne pas développer, prendre en charge ou utiliser des logiciels, des dispositifs, des scripts, des robots ou tout autre moyen ou processus (notamment des robots d’indexation, des modules d’extension de navigateur et compléments, ou toute autre technologie) visant à effectuer du web scraping des services ou à copier par ailleurs des Vitrines Entreprises et d’autres données des services ;
+*   Ne pas violer les droits de propriété intellectuelle ou d’autres droits de Welcome to the Jungle, ce qui comprend, mais sans s’y limiter, (i) la copie ou la distribution de nos photos et vidéos disponibles sur les Vitrines Entreprise (ii) la copie ou la distribution de nos articles et tout autre contenus médias (iii) l’utilisation du terme “Welcome to the Jungle” ou de nos logos ;
+*   Ne pas faire de l’ingénierie inverse, décompiler, désassembler, déchiffrer ou, de manière générale, tenter d’obtenir le code source des services ou de toute technologie connexe qui n’est pas en open source ;
+*   Ne pas utiliser la technique du “framing”, de la “mise en miroir” ou, d’une manière générale, simuler l’apparence ou le fonctionnement du Site ainsi que des Vitrines Entreprise ;
+*   Ne pas perturber le fonctionnement des Services ou imposer une charge disproportionnée sur ceux-ci (spam, attaque par déni de service, virus, algorithme de jeu).
 
 Les Utilisateurs, lorsqu’ils postulent à des offres d’emploi s’engagent à :
 
-* Communiquer des informations et notamment un CV exact, à jour, conforme à la réalité, honnête et loyal ;
-* Ne pas utiliser le Site pour envoyer massivement des messages non sollicités et notamment ne pas publier des CV publicitaires ou ayant pour but la promotion de produits ou services ;
-* Postuler de manière professionnelle et à un rythme raisonnable à la même offre diffusée via notre Site, notamment de pas postuler plusieurs fois par jour à la même offre d’emploi ;
-* Ne pas importer et diffuser via le Site, notamment via des liens externes, des propos ou des contenus illicites, et notamment tous contenus contrefaisants, diffamatoires, injurieux, insultants obscènes, offensants, discriminatoires, violents, xénophobes ou incitant à la haine raciale ou tout autre contenu contraire aux bonnes mœurs et aux règles de bienséance ;
-* ne pas envoyer des messages à caractère diffamatoire ou injurieux aux Recruteur ou à WTTJ ;
-* Ne pas divulguer via les Services des informations personnelles (textes, photos et vidéos) de tiers sans leur consentement.
+*   Communiquer des informations et notamment un CV exact, à jour, conforme à la réalité, honnête et loyal ;
+*   Ne pas utiliser le Site pour envoyer massivement des messages non sollicités et notamment ne pas publier des CV publicitaires ou ayant pour but la promotion de produits ou services ;
+*   Postuler de manière professionnelle et à un rythme raisonnable à la même offre diffusée via notre Site, notamment de pas postuler plusieurs fois par jour à la même offre d’emploi ;
+*   Ne pas importer et diffuser via le Site, notamment via des liens externes, des propos ou des contenus illicites, et notamment tous contenus contrefaisants, diffamatoires, injurieux, insultants obscènes, offensants, discriminatoires, violents, xénophobes ou incitant à la haine raciale ou tout autre contenu contraire aux bonnes mœurs et aux règles de bienséance ;
+*   ne pas envoyer des messages à caractère diffamatoire ou injurieux aux Recruteur ou à WTTJ ;
+*   Ne pas divulguer via les Services des informations personnelles (textes, photos et vidéos) de tiers sans leur consentement.
 
 En cas de manquement à une ou plusieurs de ces obligations, Welcome to the Jungle pourra suspendre immédiatement l’accès à l’Espace Membre et plus généralement aux Services.
 
@@ -135,9 +135,9 @@ Welcome to the Jungle pourra limiter ou suspendre l’accès à un ou plusieurs 
 
 De plus, nous ne garantissons pas :
 
-* que le fonctionnement des Services sera ininterrompu, exempt de toute erreur ou sûr ;
-* l’exhaustivité ni l’exactitude du contenu et des informations proposés via le Site ;
-* que les Services proposés seront conformes aux besoins des Utilisateurs.
+*   que le fonctionnement des Services sera ininterrompu, exempt de toute erreur ou sûr ;
+*   l’exhaustivité ni l’exactitude du contenu et des informations proposés via le Site ;
+*   que les Services proposés seront conformes aux besoins des Utilisateurs.
 
 ### 6.2 Dans le cadre de l’utilisation des Services et du Site
 
@@ -145,10 +145,10 @@ Nous vous rappelons que l’utilisation des Services et du Site est faite sous v
 
 De plus, WTTJ ne pourra pas être tenu responsable :
 
-* de toute conséquence qui pourrait survenir au cours, ou à l’issue, de rencontres ou prises de contact entre des Membres et des recruteurs, à la suite à l’utilisation des Services ;
-* des dommages directs et/ou indirects qui pourraient résulter de l’utilisation de contenus, données ou informations de toute nature, accessibles à partir de liens hypertextes disponibles sur le Site et renvoyant vers des sites tiers. Il vous incombe de contrôler que les informations figurant sur ces sites web partenaires sont exactes, complètes et conformes à la réglementation. Étant rappelé que l’application des présentes CGU ne s’étend pas aux sites tiers ;
-* des éléments en dehors de notre contrôle et des dommages qui pourraient en découler sur votre environnement technique et notamment, vos ordinateurs, logiciels, équipements réseaux et tout autre matériel utilisé pour accéder ou utiliser notre Site ainsi que nos Services ;
-* de toute perte ou altération de données, de toute perte de profit, de chiffre d’affaires, d’opportunité, de temps ou de tout dommage indirect, que ladite perte ou ledit dommage soit dû à une négligence, ou à toute autre cause, en lien avec l’exécution ou la non-exécution des CGU.
+*   de toute conséquence qui pourrait survenir au cours, ou à l’issue, de rencontres ou prises de contact entre des Membres et des recruteurs, à la suite à l’utilisation des Services ;
+*   des dommages directs et/ou indirects qui pourraient résulter de l’utilisation de contenus, données ou informations de toute nature, accessibles à partir de liens hypertextes disponibles sur le Site et renvoyant vers des sites tiers. Il vous incombe de contrôler que les informations figurant sur ces sites web partenaires sont exactes, complètes et conformes à la réglementation. Étant rappelé que l’application des présentes CGU ne s’étend pas aux sites tiers ;
+*   des éléments en dehors de notre contrôle et des dommages qui pourraient en découler sur votre environnement technique et notamment, vos ordinateurs, logiciels, équipements réseaux et tout autre matériel utilisé pour accéder ou utiliser notre Site ainsi que nos Services ;
+*   de toute perte ou altération de données, de toute perte de profit, de chiffre d’affaires, d’opportunité, de temps ou de tout dommage indirect, que ladite perte ou ledit dommage soit dû à une négligence, ou à toute autre cause, en lien avec l’exécution ou la non-exécution des CGU.
 
 De plus, il convient de préciser que nous n’intervenons pas dans le processus de sélection des candidats. Dès lors, WTTJ ne pourra en aucun cas être assimilée à un employeur, un organisme professionnel, cabinet de recrutement ou chasseur de têtes ou à un mandataire de ce dernier.
 
@@ -160,10 +160,10 @@ Nos clients sont responsables du contenu qui apparaît sur leur Vitrine Entrepri
 
 Nous n’exerçons aucun contrôle en amont sur :
 
-* Les contenus que vous importez ou publiez via les Services et votre Espace Membre (leur légalité, leur caractère adapté, leur exactitude, leur pertinence ou leur actualité) ;
-* Les contenus importés et publiés par les recruteurs (leur légalité, leur caractère adapté, leur exactitude, leur pertinence ou leur actualité) sur leur Vitrine Entreprise (interviews, articles, commentaires, actualités, etc) ;
-* Les offres d’emploi publiées par les recruteurs sur le Site, leur contenu, le processus de recrutement, les entretiens, et décisions prises à l’issue du processus de candidature ;
-* La capacité ou la qualité des recruteurs ou candidats.
+*   Les contenus que vous importez ou publiez via les Services et votre Espace Membre (leur légalité, leur caractère adapté, leur exactitude, leur pertinence ou leur actualité) ;
+*   Les contenus importés et publiés par les recruteurs (leur légalité, leur caractère adapté, leur exactitude, leur pertinence ou leur actualité) sur leur Vitrine Entreprise (interviews, articles, commentaires, actualités, etc) ;
+*   Les offres d’emploi publiées par les recruteurs sur le Site, leur contenu, le processus de recrutement, les entretiens, et décisions prises à l’issue du processus de candidature ;
+*   La capacité ou la qualité des recruteurs ou candidats.
 
 Nous avons cependant rédigé une [Charte de Recrutement](https://www.welcometothejungle.com/fr/pages/recruitment-charter) afin de rappeler à nos Clients le cadre juridique ainsi que les valeurs d’éthique, de professionnalisme et les bonnes pratiques que nous jugeons essentielles à une expérience de recrutement réussie et valorisante pour tous.
 
@@ -197,8 +197,8 @@ Toute reproduction, diffusion ou utilisation de tout ou partie du contenu du Sit
 
 De même, vous vous interdisez de :
 
-* Procéder à des extractions par transfert temporaire ou permanent, ou d’utiliser par la mise à disposition au public, la totalité ou une partie substantielle en termes quantitatifs ou qualitatifs de notre Site et autres bases de données visibles sur notre Site, à des fins commerciales ou autres ;
-* Exploiter, commercialiser ou distribuer tout élément constitutif du Site et de ses Services, notamment les informations visibles sur le Site et toute autre base de données.
+*   Procéder à des extractions par transfert temporaire ou permanent, ou d’utiliser par la mise à disposition au public, la totalité ou une partie substantielle en termes quantitatifs ou qualitatifs de notre Site et autres bases de données visibles sur notre Site, à des fins commerciales ou autres ;
+*   Exploiter, commercialiser ou distribuer tout élément constitutif du Site et de ses Services, notamment les informations visibles sur le Site et toute autre base de données.
 
 ### 7.2 Propriété intellectuelle des Utilisateurs du Site
 
