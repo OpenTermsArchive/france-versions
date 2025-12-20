@@ -306,7 +306,7 @@ Toutes les informations personnelles que vous fournissez dans le cadre de votre 
 
 disponible ici https://volumental.com/policy/privacy-policy.
 
-* Certains de nos prestataires de services et autres tiers avec lesquels nous partageons certaines données à caractère personnel vous concernant, comme décrit ci-dessus, sont situés dans des pays hors du Royaume-Uni ou de l'EEE. Lorsque nous transférons vos données à caractère personnel en dehors du Royaume-Uni ou de l'EEE, nous utilisons des mesures de sécurité appropriées pour protéger vos données à caractère personnel conformément à la législation applicable en matière de protection des données. Veuillez consulter la section 8. Transferts internationaux de données à caractère personnel pour plus d'informations.
+*   Certains de nos prestataires de services et autres tiers avec lesquels nous partageons certaines données à caractère personnel vous concernant, comme décrit ci-dessus, sont situés dans des pays hors du Royaume-Uni ou de l'EEE. Lorsque nous transférons vos données à caractère personnel en dehors du Royaume-Uni ou de l'EEE, nous utilisons des mesures de sécurité appropriées pour protéger vos données à caractère personnel conformément à la législation applicable en matière de protection des données. Veuillez consulter la section 8. Transferts internationaux de données à caractère personnel pour plus d'informations.
 
 **7\. Quelles mesures New Balance prend-elle pour sécuriser mes données à caractère personnel ?**
 -------------------------------------------------------------------------------------------------
@@ -406,13 +406,13 @@ N'oubliez pas que vous êtes responsable de la protection du nom d'utilisateur e
 
 Si vous avez des questions ou des inquiétudes concernant la présente politique de confidentialité, ou si vous souhaitez exercer l'un de vos droits susmentionnés en matière de confidentialité, veuillez contacter New Balance à:
 
-* en appelant notre ligne gratuite du service client au 800 596342; ou 0805 109946;
-* l'adresse : [privacy@newbalance.com](mailto:privacy@newbalance.com).
+*   en appelant notre ligne gratuite du service client au 800 596342; ou 0805 109946;
+*   l'adresse : [privacy@newbalance.com](mailto:privacy@newbalance.com).
 
 Si vous n'êtes pas satisfait de notre réponse à votre demande ou réclamation, ou si vous estimez que notre utilisation de vos données à caractère personnel ne respecte pas la loi applicable en matière de protection des données, vous pouvez porter plainte auprès d’une autorité chargée de la protection des données. Par exemple, si vous habitez en France, vous pouvez déposer une plainte auprès de l'Commission Nationale de l'Informatique et des Libertés - CNIL:
 
-* en écrivant à l'adresse suivante : 3 Place de Fontenoy, TSA 80715 – 75334 Paris, Cedex 07 ;
-* en téléphonant au : +33 1 53 73 22 22
+*   en écrivant à l'adresse suivante : 3 Place de Fontenoy, TSA 80715 – 75334 Paris, Cedex 07 ;
+*   en téléphonant au : +33 1 53 73 22 22
 
 Vous n'aurez aucuns frais à payer pour accéder à vos données à caractère personnel (ou pour exercer l'un de vos autres droits). Nous pourrons toutefois facturer des frais raisonnables si votre requête est manifestement infondée, excessive ou répétée ; nous pourrons également refuser de répondre à votre demande dans de tels cas.
 
@@ -509,7 +509,7 @@ De plus, si vous avez accepté de recevoir des communications marketing de notre
 
 Nous utilisons également les informations recueillies par les cookies de ciblage/publicitaires pour afficher des publicités ciblées à des audiences similaires (c'est-à-dire des consommateurs qui partagent des caractéristiques avec vous, telles que des préférences en matière de running) via les plateformes de réseaux sociaux et les sociétés de publicité, ainsi que d'autres prestataires de services de marketing ciblé (qui peuvent être déterminés par la plateforme). Consultez les politiques de chaque plateforme pour plus d'informations sur ces types de publicités.
 
-* Veuillez noter que des tiers peuvent également placer des cookies tiers, sur lesquels nous n'avons aucun contrôle. Ces tiers comprennent des réseaux publicitaires et des fournisseurs de services externes, tels que des services d'analyse du trafic web, nos filiales et sociétés affiliées, les agences de publicité avec lesquelles nous travaillons en partenariat et les fournisseurs de services de marketing ciblé. Ces cookies sont susceptibles d'être des cookies analytiques/de performance ou des cookies de ciblage/publicitaires. 
+*   Veuillez noter que des tiers peuvent également placer des cookies tiers, sur lesquels nous n'avons aucun contrôle. Ces tiers comprennent des réseaux publicitaires et des fournisseurs de services externes, tels que des services d'analyse du trafic web, nos filiales et sociétés affiliées, les agences de publicité avec lesquelles nous travaillons en partenariat et les fournisseurs de services de marketing ciblé. Ces cookies sont susceptibles d'être des cookies analytiques/de performance ou des cookies de ciblage/publicitaires. 
 
 **4\. Comment puis-je gérer mes préférences en matière de cookies ?**
 ---------------------------------------------------------------------
@@ -833,7 +833,7 @@ Toutes les informations personnelles que vous fournissez dans le cadre de votre 
 
 disponible ici https://volumental.com/policy/privacy-policy.
 
-* Certains de nos prestataires de services et autres tiers avec lesquels nous partageons certaines données à caractère personnel vous concernant, comme décrit ci-dessus, sont situés dans des pays hors du Royaume-Uni ou de l'EEE. Lorsque nous transférons vos données à caractère personnel en dehors du Royaume-Uni ou de l'EEE, nous utilisons des mesures de sécurité appropriées pour protéger vos données à caractère personnel conformément à la législation applicable en matière de protection des données. Veuillez consulter la section 8. Transferts internationaux de données à caractère personnel pour plus d'informations.
+*   Certains de nos prestataires de services et autres tiers avec lesquels nous partageons certaines données à caractère personnel vous concernant, comme décrit ci-dessus, sont situés dans des pays hors du Royaume-Uni ou de l'EEE. Lorsque nous transférons vos données à caractère personnel en dehors du Royaume-Uni ou de l'EEE, nous utilisons des mesures de sécurité appropriées pour protéger vos données à caractère personnel conformément à la législation applicable en matière de protection des données. Veuillez consulter la section 8. Transferts internationaux de données à caractère personnel pour plus d'informations.
 
 **7\. Quelles mesures New Balance prend-elle pour sécuriser mes données à caractère personnel ?**
 -------------------------------------------------------------------------------------------------
@@ -920,13 +920,13 @@ N'oubliez pas que vous êtes responsable de la protection du nom d'utilisateur e
 
 Si vous avez des questions ou des inquiétudes concernant la présente politique de confidentialité, ou si vous souhaitez exercer l'un de vos droits susmentionnés en matière de confidentialité, veuillez contacter New Balance à:
 
-* en appelant notre ligne gratuite du service client au 800 596342; ou 0805 109946;
-* l'adresse : [privacy@newbalance.com](mailto:privacy@newbalance.com).
+*   en appelant notre ligne gratuite du service client au 800 596342; ou 0805 109946;
+*   l'adresse : [privacy@newbalance.com](mailto:privacy@newbalance.com).
 
 Si vous n'êtes pas satisfait de notre réponse à votre demande ou réclamation, ou si vous estimez que notre utilisation de vos données à caractère personnel ne respecte pas la loi applicable en matière de protection des données, vous pouvez porter plainte auprès d’une autorité chargée de la protection des données. Par exemple, si vous habitez en France, vous pouvez déposer une plainte auprès de l'Commission Nationale de l'Informatique et des Libertés - CNIL:
 
-* en écrivant à l'adresse suivante : 3 Place de Fontenoy, TSA 80715 – 75334 Paris, Cedex 07 ;
-* en téléphonant au : +33 1 53 73 22 22
+*   en écrivant à l'adresse suivante : 3 Place de Fontenoy, TSA 80715 – 75334 Paris, Cedex 07 ;
+*   en téléphonant au : +33 1 53 73 22 22
 
 Vous n'aurez aucuns frais à payer pour accéder à vos données à caractère personnel (ou pour exercer l'un de vos autres droits). Nous pourrons toutefois facturer des frais raisonnables si votre requête est manifestement infondée, excessive ou répétée ; nous pourrons également refuser de répondre à votre demande dans de tels cas.
 
@@ -1023,7 +1023,7 @@ De plus, si vous avez accepté de recevoir des communications marketing de notre
 
 Nous utilisons également les informations recueillies par les cookies de ciblage/publicitaires pour afficher des publicités ciblées à des audiences similaires (c'est-à-dire des consommateurs qui partagent des caractéristiques avec vous, telles que des préférences en matière de running) via les plateformes de réseaux sociaux et les sociétés de publicité, ainsi que d'autres prestataires de services de marketing ciblé (qui peuvent être déterminés par la plateforme). Consultez les politiques de chaque plateforme pour plus d'informations sur ces types de publicités.
 
-* Veuillez noter que des tiers peuvent également placer des cookies tiers, sur lesquels nous n'avons aucun contrôle. Ces tiers comprennent des réseaux publicitaires et des fournisseurs de services externes, tels que des services d'analyse du trafic web, nos filiales et sociétés affiliées, les agences de publicité avec lesquelles nous travaillons en partenariat et les fournisseurs de services de marketing ciblé. Ces cookies sont susceptibles d'être des cookies analytiques/de performance ou des cookies de ciblage/publicitaires. 
+*   Veuillez noter que des tiers peuvent également placer des cookies tiers, sur lesquels nous n'avons aucun contrôle. Ces tiers comprennent des réseaux publicitaires et des fournisseurs de services externes, tels que des services d'analyse du trafic web, nos filiales et sociétés affiliées, les agences de publicité avec lesquelles nous travaillons en partenariat et les fournisseurs de services de marketing ciblé. Ces cookies sont susceptibles d'être des cookies analytiques/de performance ou des cookies de ciblage/publicitaires. 
 
 **4\. Comment puis-je gérer mes préférences en matière de cookies ?**
 ---------------------------------------------------------------------
