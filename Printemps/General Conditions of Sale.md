@@ -24,10 +24,11 @@
     
 
 *   PLUS D'INSPIRATION
-    *   [Les meilleurs calendriers de l'avent beauté 2025 pour attendre Noël](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
+    *   [Les plus belles idées cadeaux](https://www.printemps.com/fr/fr/edito-magazine-actu-idees-cadeaux-noel)
     *   [Cadeaux de Noël de dernière minute : Les idées qui feront plaisir à coup sûr](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-noel-derniere-minute)
     *   [Comment décorer une table de Noël : Les idées parfaites](https://www.printemps.com/fr/fr/edito-magazine-actu-comment-decorer-table-noel)
     *   [Cadeaux beauté : Les meilleurs coffrets à glisser sous le sapin](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-beaute-coffrets-noel)
+    *   [Tenues de fête : comment bien porter le doré et l'argenté](https://www.printemps.com/fr/fr/edito-magazine-actu-porter-dore-argent-fetes)
 *   
     
 
@@ -240,10 +241,6 @@
     
 *   [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme)
     
-*   [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme)
-    *   [Pièces de défilés](https://www.printemps.com/fr/fr/defile-homme)
-    *   [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison-1865-tout-homme)
-    *   [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
 *   [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
     
 *   [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
@@ -318,7 +315,6 @@
     *   [Scent Room](https://www.printemps.com/fr/fr/concept-beaute-scent-room)
     *   [Green market](https://www.printemps.com/fr/fr/concept-beaute-green-market)
     *   [K-beauty](https://www.printemps.com/fr/fr/concept-beaute-k-beauty)
-    *   [Les meilleurs calendriers de l'Avent 2025](https://www.printemps.com/fr/fr/edito-magazine-beaute-calendriers-de-l-avent)
     *   [Smoky eyes : le guide complet pour un regard intense](https://www.printemps.com/fr/fr/edito-magazine-beaute-smoky-eyes)
 *   SÉLECTIONS
     *   [Meilleures ventes](https://www.printemps.com/fr/fr/meilleures-ventes-beaute)
