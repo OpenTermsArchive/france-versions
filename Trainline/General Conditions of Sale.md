@@ -1,7 +1,7 @@
 Conditions générales de vente
 =============================
 
-Dernière mise à jour en novembre 2025.
+Dernière mise à jour en décembre 2025.
 
 Vous trouverez dans ces Conditions générales de vente des informations sur nos services de réservation et sur la façon dont vous pouvez gérer vos réservations, notamment concernant les échanges, remboursements et annulations, ainsi que les moyens de paiement.
 
@@ -110,7 +110,7 @@ Si vous souhaitez déposer une réclamation, vous pouvez le faire via le formula
 
 Si vous voyagez au Royaume-Uni avec une compagnie ferroviaire britannique, vous pouvez poser votre question à l'un de nos agents via notre [chat en ligne](https://support.thetrainline.com/en/support/tickets/new?chat). Le chat est actuellement accessible tous les jours de la semaine, de 8 h à 22 h (heure du Royaume-Uni).
 
-Si vous souhaitez déposer une réclamation, vous pouvez le faire via notre chat en ligne.
+Lors de l'utilisation de l'application, vous pouvez également avoir accès à des outils automatisés ou basés sur l'IA conçus pour fournir des informations générales sur les voyages, ainsi qu'une assistance client. Pour en savoir plus sur ces outils, y compris leurs limites et leur disponibilité, veuillez vous référer à la section 3 des présentes conditions générales de vente.
 
 ### 2.3 Nous appeler
 
@@ -161,7 +161,39 @@ Nous ne pouvons discuter des détails de la réservation qu'avec la personne qui
 3\. Nos services
 ----------------
 
-### 3.1 Utilisation de nos services
+### 3.1 Fonctionnalités d'assistance au voyage
+
+Uniquement pour les trajets au Royaume-Uni, Trainline peut fournir un ensemble de fonctionnalités d'assistance au voyage conçues pour vous aider à gérer votre déplacement. Notamment :
+
+a) des options de changement de train (Train Swap) pour les billets éligibles ;
+
+b) des notifications Delay Repay.
+
+En plus de ce qui précède, Trainline peut également fournir une gamme de services d'assistance destinés à vous aider au cours de votre voyage. Ces services incluent des outils fournissant des informations prédictives ou en temps réel sur la ponctualité de votre train, sur les retards ou perturbations éventuels, ou sur les options alternatives disponibles.
+
+Vous pouvez également recevoir des informations d'assistance au voyage concernant les compensations en cas de retard, les mises à jour en direct ou les niveaux de fréquentation.
+
+Vous pouvez interagir avec des assistants qui offrent un service client de haut niveau et fournissent des réponses générées par l'IA à vos questions sur votre voyage.
+
+Comment certaines informations d'assistance au voyage sont générées automatiquement, elles peuvent parfois être inexactes, incomplètes ou indisponibles et ne doivent pas être considérées comme des informations de voyage faisant autorité.
+
+Vous ne devez pas saisir d'informations personnelles sensibles (y compris les détails de carte de paiement) dans des outils automatisés ou alimentés par l'IA.
+
+Ces fonctionnalités nécessitent une connexion Internet active et peuvent être indisponibles ou limitées lorsque la connectivité réseau est faible ou inexistante.
+
+**3.1.a Train Swap**
+
+En fonction des conditions de votre billet, Train Swap vous permet de changer de train avant le départ. La disponibilité dépend de votre type de billet (par exemple : billets flexibles). Pour les billets Advance, le service Train Swap peut nécessiter l'achat d'un nouveau billet pour remplacer votre billet d'origine.
+
+La disponibilité du service Train Swap dépend des règles du transporteur et des conditions du service d'assistance, et des frais supplémentaires peuvent s'appliquer. Après un échange réussi, Trainline mettra à jour votre réservation et affichera les informations de voyage pour votre nouveau trajet.
+
+**3.1.b Delay Repay**
+
+Pour les trajets éligibles au Royaume-Uni, Trainline peut vous informer lorsque vous avez droit à une compensation en raison de retards et peut afficher un montant estimé et indicatif de la compensation en fonction des données de retard en temps réel.
+
+L'éligibilité et les montants de compensation définitifs sont déterminés uniquement par le transporteur concerné. Les demandes restent soumises au processus et à l'approbation du transporteur.
+
+### 3.2 Utilisation de nos services
 
 Via notre site Web [www.thetrainline.com](http://www.trainline.com/) (que nous appellerons notre « site Web ») et nos applications mobiles iOS et Android (que nous appellerons nos « applis »), vous pouvez consulter les horaires et les prix des billets de train ou de bus, acheter des cartes de réduction et réserver des billets directement (nous appellerons ce service notre « service de réservation »). Pour télécharger notre application, veuillez vous rendre sur l'Apple Store, sur Google Play ou sur la plate-forme Huawei AppGallery.
 
@@ -179,7 +211,7 @@ Tous les transporteurs offrent des systèmes de tarification différents et les 
 
 Vous pouvez utiliser des cartes de réduction et/ou de fidélité pour les passagers éligibles via notre service de réservation. Pour plus d'informations, veuillez consulter les conditions générales des transporteurs. Vous trouverez des informations sur les cartes de réduction [ici](#railcards).
 
-### 3.2 Création d'un compte ou paiement en tant qu'invité(e)
+### 3.3 Création d'un compte ou paiement en tant qu'invité(e)
 
 Quand vous réservez des billets avec nous, vous pouvez finaliser la commande en tant qu'invité(e) ou créer un compte personnel (Mon compte). Nous pouvons refuser la création d’un compte ou un accès au service de réservation pour toute raison légitime.
 
@@ -193,7 +225,7 @@ Il est important que l'adresse e-mail que vous nous communiquez soit correcte, c
 
 Nous nous réservons le droit de désactiver un compte, ou toute fonctionnalité du compte, à tout moment et sans notification préalable, si nous pensons qu'il y a pu avoir utilisation abusive de votre part, y compris si nous soupçonnons une activité frauduleuse.
 
-### 3.3 Réservations de groupe
+### 3.4 Réservations de groupe
 
 Vous pouvez réserver des billets pour un groupe de personnes (le « passager »/les « passagers ») via notre service de réservation. Vous êtes responsable des renseignements personnels fournis pour chaque passager et vous devez vous assurer que ces passagers consentent au partage de ces informations. Des informations comme les noms des passagers seront peut-être utilisées pour émettre vos billets. Il est également possible que les transporteurs vérifient certaines informations pour déterminer si ces passagers peuvent voyager avec eux. Veuillez donc vous assurer que les informations fournies sont correctes – nous ne pourrons être tenus responsables de toute faute de frappe ou d'orthographe que vous pourriez faire.
 
@@ -523,7 +555,7 @@ Si vous avez réservé un billet échangeable (cela sera indiqué au cours du pr
 
 Si le train pour lequel vous aviez réservé un billet est annulé ou retardé, vous pourriez avoir droit à une compensation ou à un remboursement, en fonction du transporteur concerné. Pour en savoir plus sur les demandes de remboursement en cas de train annulé, rendez-vous [ici](https://support.thetrainline.com/fr/support/solutions/articles/78000000497-mon-train-a-%C3%A9t%C3%A9-annul%C3%A9-puis-je-obtenir-un-remboursement-) et pour les demandes de compensation en cas de retard [ici](https://support.thetrainline.com/fr/support/solutions/articles/78000000554-mon-train-a-du-retard-ai-je-droit-%C3%A0-un-d%C3%A9dommagement-).
 
-Si vous voyagez en train en France et que vous subissez un retard ou une annulation, il se peut que nous vous adressions une notification pour vous indiquer que vous avez droit à une compensation. Cependant, bien que nous fassions tout notre possible pour vérifier que votre voyage vous donne ce droit, la réception de cette notification ne garantit pas que votre demande sera approuvée ni que vous recevrez effectivement une compensation. Il se peut que votre voyage ne réponde pas aux critères de compensation définis par le transporteur.  
+Si vous voyagez en train, Trainline peut vous informer si vous êtes éligible à une compensation en cas de retard ou d'annulation de votre trajet. Cependant, bien que nous fassions tout notre possible pour vérifier que votre voyage vous donne ce droit, la réception de cette notification ne garantit pas que votre demande sera approuvée ni que vous recevrez effectivement une compensation. Il se peut que votre voyage ne réponde pas aux critères de compensation définis par le transporteur.  
 
 Nous pourrons vous offrir une compensation ou un remboursement au nom du transporteur, si nous avons sa permission. Si ce n'est pas le cas, vous pourrez [le contacter](https://support.thetrainline.com/fr/support/solutions/articles/78000000554-mon-train-a-du-retard-ai-je-droit-%C3%A0-un-d%C3%A9dommagement-) et lui adresser directement votre demande.
 
@@ -832,7 +864,11 @@ Nous agissons en tant qu'agent officiel pour le compte des opérateurs. Nous ne 
 
 Vous serez financièrement responsable de toutes les réservations effectuées avec nous via votre compte, ainsi que de toute perte encourue en cas de violation de votre part des conditions générales ou d'une utilisation frauduleuse de notre service de réservation. Cela est aussi valable si vous autorisez une autre personne à utiliser votre compte pour effectuer une réservation.
 
-Nous ne sommes pas responsables des pertes ou dommages qui ne sont pas prévisibles. Les pertes ou dommages sont prévisibles si leur survenue était inéluctable ou bien si vous et nous savions, au moment de la conclusion du contrat, qu'ils allaient se produire. Nous ne sommes pas non plus responsables des pertes subies qui ne sont pas liées à notre service de réservation. Trainline n'est pas responsable des pertes ou des dommages causés par le retard ou la suppression d'un train, y compris en cas de correspondance manquée. Par exemple, nous ne sommes pas tenus de prendre en charge une nuit d'hôtel, les frais engagés pour poursuivre votre voyage (un trajet en taxi ou en avion par exemple) ou encore l'annulation d'un événement à cause de la suppression ou du retard de votre train. Aucune disposition des présentes Conditions générales de vente ne limite ou n'exclut notre responsabilité en cas de décès ou de blessures corporelles causés par notre négligence ou celle de nos employés, agents ou sous-traitants (selon le cas) ; ou par un acte frauduleux ou une déclaration frauduleuse de notre part ou de celle de nos employés.
+Nous ne sommes pas responsables des pertes ou dommages qui ne sont pas prévisibles. Les pertes ou dommages sont prévisibles si leur survenue était inéluctable ou bien si vous et nous savions, au moment de la conclusion du contrat, qu'ils allaient se produire. Nous ne sommes pas non plus responsables des pertes subies qui ne sont pas liées à notre service de réservation.
+
+Trainline n'est pas responsable des pertes ou des dommages causés par le retard ou la suppression d'un train, y compris en cas de correspondance manquée. Par exemple, nous ne sommes pas tenus de prendre en charge une nuit d'hôtel, les frais engagés pour poursuivre votre voyage (un trajet en taxi ou en avion par exemple) ou encore l'annulation d'un événement à cause de la suppression ou du retard de votre train. Nous ne sommes pas non plus responsables des pertes ou dommages résultant de votre utilisation des fonctionnalités facultatives d'assistance au voyage décrites dans la rubrique 3.1. Ces fonctionnalités ne sont fournies que pour des raisons de commodité et reposent sur des données du transporteur, des sources tierces ou des modèles prédictifs, qui peuvent être inexacts, incomplets ou indisponibles.
+
+Aucune disposition des présentes Conditions générales de vente ne limite ou n'exclut notre responsabilité en cas de décès ou de blessures corporelles causés par notre négligence ou celle de nos employés, agents ou sous-traitants (selon le cas) ; ou par un acte frauduleux ou une déclaration frauduleuse de notre part ou de celle de nos employés.
 
 12\. Autres informations importantes
 ------------------------------------
