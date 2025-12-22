@@ -3,21 +3,21 @@ Déclaration de confidentialité
 
 Transavia
 
-_version avril 2025_
+_version décembre 2025_
 
 La présente déclaration de confidentialité décrit la façon dont nous recueillons et utilisons vos données personnelles. Cette déclaration de confidentialité s’applique à toutes les données personnelles que Transavia traite lorsque des clients utilisent notre site Web et nos applis mobiles, réservent un vol ou nous contactent. Nous traitons vos données personnelles principalement pour gérer votre réservation et vos achats,  organiser votre voyage et pour répondre à vos questions. Nous utilisons également vos données personnelles pour vous proposer des offres répondant à vos attentes et préférences.  
   
 Dans cette déclaration de confidentialité, nous communiquons plus d’informations concernant les données personnelles que nous collectons et utilisons et nous expliquons quels sont vos droits. Veuillez cliquer sur la section appropriée ci-dessous pour en savoir plus.
 
-*   [1\. Qui sommes-nous ?](#id-39cd19f5-3692-4aa5-bfdc-83992bed2cf6)
-*   [2\. Les types de données personnelles que nous traitons](#id-d11c587d-add9-4906-bd62-b988e6bafbaf)
-*   [3\. Comment recueillons-nous vos données ?](#id-1862086e-ed3c-4855-8db9-21fa6d4fe6e1)
-*   [4\. Fins auxquelles nous utilisons vos données](#id-051d8e9a-8afa-43b9-addd-f84b3a567812)
-*   [5 Transmission ou partage de données avec des parties tierces](#id-cf68e985-6909-4334-83c1-f71490332a74)
-*   [Sécurité et conservation](#id-b9b801f8-7b5d-41fc-9038-33440419ad0c)
-*   [7\. Le transfert international de vos données](#id-a930856d-0de3-447b-951f-42600f983782)
-*   [8\. Vos droits](#id-faa4a8f5-6018-49c3-8ec5-51183bfd9322)
-*   [9\. Comment cette déclaration de confidentialité est-elle mise à jour ?](#id-82c39aef-5217-4430-bd09-1d9093a37d0d)
+*   [1\. Qui sommes-nous ?](#id-d77e51d0-69ed-4de4-9fac-9b0c9023904e)
+*   [2\. Les types de données personnelles que nous traitons](#id-e564753b-7991-4804-b4b1-dd65b08f0617)
+*   [3\. Comment recueillons-nous vos données ?](#id-9ee43fd2-7395-40e9-bfbe-9615f97ec4bd)
+*   [4\. Fins auxquelles nous utilisons vos données](#id-383ae3ab-a3ae-424b-ac57-c67cb93e93e7)
+*   [5 Transmission ou partage de données avec des parties tierces](#id-67781255-ceb4-4d25-be4e-14b1d26f5a6f)
+*   [Sécurité et conservation](#id-a5e51eaa-7135-425e-ac1e-697f2b28d66e)
+*   [7\. Le transfert international de vos données](#id-c920fafb-9bad-4371-8098-3a6889e5ce09)
+*   [8\. Vos droits](#id-ee8c49cc-14a9-4ee4-8389-cc72dc36c367)
+*   [9\. Comment cette déclaration de confidentialité est-elle mise à jour ?](#id-ccd8eb67-38a2-428e-8330-651ac9bfa9c9)
 
 1\. Qui sommes-nous ?
 ---------------------
@@ -46,21 +46,21 @@ Déclaration de confidentialité
 
 Transavia
 
-_version avril 2025_
+_version décembre 2025_
 
 La présente déclaration de confidentialité décrit la façon dont nous recueillons et utilisons vos données personnelles. Cette déclaration de confidentialité s’applique à toutes les données personnelles que Transavia traite lorsque des clients utilisent notre site Web et nos applis mobiles, réservent un vol ou nous contactent. Nous traitons vos données personnelles principalement pour gérer votre réservation et vos achats,  organiser votre voyage et pour répondre à vos questions. Nous utilisons également vos données personnelles pour vous proposer des offres répondant à vos attentes et préférences.  
   
 Dans cette déclaration de confidentialité, nous communiquons plus d’informations concernant les données personnelles que nous collectons et utilisons et nous expliquons quels sont vos droits. Veuillez cliquer sur la section appropriée ci-dessous pour en savoir plus.
 
-*   [1\. Qui sommes-nous ?](#id-39cd19f5-3692-4aa5-bfdc-83992bed2cf6)
-*   [2\. Les types de données personnelles que nous traitons](#id-d11c587d-add9-4906-bd62-b988e6bafbaf)
-*   [3\. Comment recueillons-nous vos données ?](#id-1862086e-ed3c-4855-8db9-21fa6d4fe6e1)
-*   [4\. Fins auxquelles nous utilisons vos données](#id-051d8e9a-8afa-43b9-addd-f84b3a567812)
-*   [5 Transmission ou partage de données avec des parties tierces](#id-cf68e985-6909-4334-83c1-f71490332a74)
-*   [Sécurité et conservation](#id-b9b801f8-7b5d-41fc-9038-33440419ad0c)
-*   [7\. Le transfert international de vos données](#id-a930856d-0de3-447b-951f-42600f983782)
-*   [8\. Vos droits](#id-faa4a8f5-6018-49c3-8ec5-51183bfd9322)
-*   [9\. Comment cette déclaration de confidentialité est-elle mise à jour ?](#id-82c39aef-5217-4430-bd09-1d9093a37d0d)
+*   [1\. Qui sommes-nous ?](#id-d77e51d0-69ed-4de4-9fac-9b0c9023904e)
+*   [2\. Les types de données personnelles que nous traitons](#id-e564753b-7991-4804-b4b1-dd65b08f0617)
+*   [3\. Comment recueillons-nous vos données ?](#id-9ee43fd2-7395-40e9-bfbe-9615f97ec4bd)
+*   [4\. Fins auxquelles nous utilisons vos données](#id-383ae3ab-a3ae-424b-ac57-c67cb93e93e7)
+*   [5 Transmission ou partage de données avec des parties tierces](#id-67781255-ceb4-4d25-be4e-14b1d26f5a6f)
+*   [Sécurité et conservation](#id-a5e51eaa-7135-425e-ac1e-697f2b28d66e)
+*   [7\. Le transfert international de vos données](#id-c920fafb-9bad-4371-8098-3a6889e5ce09)
+*   [8\. Vos droits](#id-ee8c49cc-14a9-4ee4-8389-cc72dc36c367)
+*   [9\. Comment cette déclaration de confidentialité est-elle mise à jour ?](#id-ccd8eb67-38a2-428e-8330-651ac9bfa9c9)
 
 1\. Qui sommes-nous ?
 ---------------------
@@ -196,6 +196,11 @@ ii. Canaux : nous utilisons divers canaux de communication tels que le courrier 
 
 *   E-mails relatifs à la réservation : si vous réservez un vol, vous recevrez plusieurs e-mails concernant votre réservation (par exemple, votre confirmation de réservation, des informations sur l'enregistrement et l'embarquement). Ces e-mails contiennent des publicités et des offres adaptées à vous-même et à votre vol. Vous pouvez toujours vous désabonner des publicités et offres personnalisées (voir point iv ci-dessous).
 *   Informations pertinentes et publicités personnalisées sur des sites Web, des applications mobiles et par le biais des plateformes de réseaux sociaux : nous pouvons ajouter les informations que nous recueillons par le biais de cookies et d’autres technologies similaires (pour plus d’information, voir 2.1(h) ci-dessus) à d’autres informations dont nous disposons déjà vous concernant. Ainsi, nous pouvons personnaliser notre site Web et notre application mobile et les rendre plus pertinents pour vous, tout en vous présentant des publicités et des offres personnalisées par le biais d’une approche par groupe-cible (groupe de personnes/segments d’audience) sur les plateformes de réseaux sociaux que vous utilisez. Nous pouvons également utiliser vos données personnelles pour vous exclure de publicités qui ne sont plus pertinentes pour vous.Nous utilisons les services de Census pour gérer les données collectées et créer des segments de visites des utilisateurs sur la base de groupes-cibles. Afin de déterminer nos groupes-cibles pour des campagnes spécifiques, nous pouvons utiliser des données recueillies à l’occasion de vos interactions avec notresite Web, sur l’ applicationmobile ou d’autres supports numériques.Ensuite, nous pouvons synchroniser ces segments en temps réel avec plusieurs plateformes de réseaux sociaux comme Google, Meta, DeployTeq, Pega, Xandr et TikTok. Pour permettre à ces plateformes de déterminer si vous avez un compte, nous pouvons partager certaines données, comme une adresse électronique pseudonymisée (chiffrée). Avec Census, nous pouvons également vous reconnaître sur la base de ces informations sur les différentes plateformes de réseaux sociaux que vous utilisez. Cela nous aide à déterminer plus précisément quels groupes-cibles sont pertinents pour certaines campagnes spécifiques. Consultez la politique de respect de la vie privée de ces plateformes de réseaux sociaux pour plus d’informations.
+*   Sur la base de votre consentement, nous utilisons le TikTok Pixel sur notre site Web. Cette technologie nous aide à mesurer l'efficacité de nos publicités sur TikTok, à optimiser nos campagnes et à vous montrer des publicités plus pertinentes sur cette plateforme.  
+      
+    Grâce au TikTok Pixel, les informations relatives à votre utilisation de notre site Web, comme les pages visitées ou les réservations effectuées, peuvent être associées à une adresse e-mail pseudonymisée (hachurée). Ces données sont utilisées par TikTok pour créer des groupes cibles, mesurer les conversions et analyser les performances des publicités.  
+      
+    Le traitement n'a lieu qu'après que vous avez donné votre consentement par le biais de notre bannière de cookies. Vous pouvez retirer ou modifier ce consentement à tout moment par le biais des paramètres des cookies sur notre site Web.
 *   Ciblage personnalisé du public par le biais de Meta : vous pouvez choisir de recevoir des publicités et des offres personnalisées sur les plateformes de réseaux sociaux que vous utilisez .Par exemple, nous utilisons le programme Facebook Custom Audience. Ce programme nous permet, entre autres, d’intégrer des publicités et des offres personnalisées à votre fil d’actualités sur les plateformes Meta, dont Facebook Messenger et Instagram. Nous pouvons également utiliser ce programme pour vous exclure de campagnes publicitaires sur les plateformes Meta, par exemple si vous avez déjà reçu ce type de publicités ou d’offres par e-mail. Pour permettre à Meta de déterminer si vous avez un compte Meta, nous partageons votre adresse électronique pseudonymisée (chiffrée)avec Meta. Nous ne partageons pas d’autres données avec Meta. À son tour, Meta nous transmet uniquement des données agrégées concernant l’efficacité d’une campagne publicitaire. Ce sont des données qui ne peuvent pas conduire directement à vous. Ainsi, nous faisons de notre mieux pour traiter vos données personnelles en toute sécurité et de manière confidentielle. Afin de déterminer notre groupe-cible pour une campagne Meta spécifique, nous pouvons utiliser vos données de réservation ou les données que nous collectons lorsque vous utilisez notre site Web, notre application mobile ou d’autres supports numériques. De plus, Meta peut utiliser les données personnelles qu’elle collecte vous concernant pour constituer un groupe-cible comparable. Cela nous permet de toucher un nouveau groupe-cible par le biais de Meta. Découvrez comment Meta utilise vos informations dans le cadre de son programme de ciblage personnalisé et comment vous pouvez contrôler la façon dont les informations vous concernant sont utilisées par Meta pour personnaliser les publicités que vous voyez. Vous pouvez également consulter la politique de protection de la vie privée de Meta.
 
 Si vous ne voulez plus être inclus(e) dans les programmes que nous utilisons pour notre approche adaptée par groupe-cible sur les réseaux sociaux, vous pouvez refuser l’utilisation de cookies dans les paramètres ou options de votre navigateur. Pour plus d’informations, veuillez également consulter notre [politique en matière de cookies](http://www.transavia.com/fr-FR/juridique/politique-sur-les-cookies/).
