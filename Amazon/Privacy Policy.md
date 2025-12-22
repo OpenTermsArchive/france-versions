@@ -1,11 +1,13 @@
 Notice : Protection de vos informations personnelles
 ====================================================
 
-Dernière mise à jour le 09 janvier 2025.
+Dernière mise à jour : le 22 décembre 2025.
 
 [Consultez les versions précédentes des Notices de protection de vos informations personnelles](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q).
 
 Nous savons que vous êtes attentifs à l'utilisation et au partage de vos informations personnelles et vous remercions de la confiance que vous nous accordez pour les traiter scrupuleusement, avec précaution, et à bon escient. Cette Notice décrit nos procédés de collecte et d'utilisation de vos informations personnelles via les sites, appareils, produits, services, points de vente physiques, magasins en ligne et applications d'Amazon faisant référence à la présente Notice (ci-après ensemble les « Services Amazon »).
+
+Veuillez également consulter la [politique relative aux cookies](https://www.amazon.fr/-/en/gp/help/customer/display.html?nodeId=GVASXV5UZ64R4Y25) et la politique relative aux [publicités basées sur vos centres d'intérêt](https://www.amazon.fr/-/en/gp/help/customer/display.html?nodeId=G64JFZVFDY66XG9K).
 
 *   [Responsables du traitement](#GUID-45AD78C8-97B0-4FAC-BB81-E55E7DCE1304__SECTION_C3B64DECA2D4454AB5B9FB2C9AC73782)
 *   [Quelles informations personnelles Amazon Europe collecte-t-elle sur ses clients ?](#GUID-45AD78C8-97B0-4FAC-BB81-E55E7DCE1304__SECTION_FD17AEA6AEA148A4A4AFE5E17AF68B1F)
