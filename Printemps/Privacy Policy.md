@@ -86,7 +86,7 @@
 *   DANS LA TENDANCE
     *   [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
     *   [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
-    *   [Comment porter le manteau ceinturé ?](https://www.printemps.com/fr/fr/edito-magazine-style-tendance-cuir)
+    *   [Comment porter le manteau ceinturé ?](https://www.printemps.com/fr/fr/edito-magazine-style-manteau-ceinture-hiver)
     *   [Les bonnes résolutions bien-être de 2026](https://www.printemps.com/fr/fr/edito-magazine-actu-bonnes-resolutions-nouvelle-annee)
 
 *   [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
