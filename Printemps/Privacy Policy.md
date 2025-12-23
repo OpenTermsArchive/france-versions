@@ -86,9 +86,8 @@
 *   DANS LA TENDANCE
     *   [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
     *   [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
-    *   [Les tendances automne-hiver](https://www.printemps.com/fr/fr/edito-magazine-style-tendances-automne-hiver)
-    *   [Tendance cuir : les pièces incontournables](https://www.printemps.com/fr/fr/edito-magazine-style-tendance-cuir)
-    *   [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865)
+    *   [Comment porter le manteau ceinturé ?](https://www.printemps.com/fr/fr/edito-magazine-style-tendance-cuir)
+    *   [Les bonnes résolutions bien-être de 2026](https://www.printemps.com/fr/fr/edito-magazine-actu-bonnes-resolutions-nouvelle-annee)
 
 *   [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     *   [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
@@ -342,6 +341,7 @@ TENUES DE FÊTE](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
     *   [Green market](https://www.printemps.com/fr/fr/concept-beaute-green-market)
     *   [K-beauty](https://www.printemps.com/fr/fr/concept-beaute-k-beauty)
     *   [Smoky eyes : le guide complet pour un regard intense](https://www.printemps.com/fr/fr/edito-magazine-beaute-smoky-eyes)
+    *   [Skincare : soins et conseils pour affronter le froid](https://www.printemps.com/fr/fr/edito-magazine-beaute-peau-seche-hiver-soins-conseils)
 *   SÉLECTIONS
     *   [Meilleures ventes](https://www.printemps.com/fr/fr/meilleures-ventes-beaute)
     *   [Parfums Bestsellers](https://www.printemps.com/fr/fr/parfums-bestsellers)
@@ -581,6 +581,8 @@ ARMANI/PRIVÉ](https://www.printemps.com/fr/fr/armani-collection-beaute)
 *   [Evénements au Printemps](https://evenements.printemps.com/)
 
 *   [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
+
+ [![Image d'illustration](https://media-cdn.printemps.com/image/37/7/8704377.jpg)](https://cartescadeaux.printemps.com/)
 
   
 
