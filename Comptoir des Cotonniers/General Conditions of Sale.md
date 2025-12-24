@@ -78,6 +78,7 @@ Nous ne livrons pas les destinations suivantes pour des raisons de formalités d
 \- les îles Aland (Finlande),  
 \- le Mont Athos (Grèce),  
 \- Campione d'Italia, Livigno, San Marin et le Vatican (Italie),  
+\-Suisse,  
 \- Grande-Bretagne.
 
 **6.2 Délais de livraison** Comptoir des Cotonniers met tout en œuvre pour que la commande soit livrée dans les meilleurs délais. Les commandes enregistrées sur le Site le vendredi à partir de 13 heures, le samedi ou le dimanche ne seront traitées que le lundi suivant. Les commandes enregistrées sur le Site un jour férié seront traitées le jour ouvré suivant.  
