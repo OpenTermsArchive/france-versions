@@ -23,6 +23,11 @@ Conditions de réservation
 *   La vente, la réservation et le paiement à partir de la carte de crédit ou de débit sont effectués simultanément.  
      
 
+PAIEMENT EN ESPÈCES
+
+*   Certains guichets de vente de billets et comptoirs d’aéroport n’acceptent plus les paiements en espèces. Veuillez vous assurer de pouvoir payer avec une carte de crédit ou de débit acceptée internationalement.  
+     
+
 **Paiement par virement**
 
 *   L'émission du billet est effectuée après la vérification du paiement.
