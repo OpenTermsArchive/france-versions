@@ -147,8 +147,6 @@
     *   [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
     *   [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
 
-*   [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
-    
 *   [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-femme)
     
 *   [LUXE ET CRÉATEURS](https://www.printemps.com/fr/fr/luxe-et-createurs-femme)
@@ -230,8 +228,6 @@
     *   [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     *   [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
-*   [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
-    
 *   [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme)
     
 *   [LUXE ET CRÉATEURS](https://www.printemps.com/fr/fr/luxe-et-createurs-homme)
@@ -293,8 +289,6 @@
     *   [Produits de coiffage](https://www.printemps.com/fr/fr/produits-de-coiffage)
     *   [Appareils électroniques](https://www.printemps.com/fr/fr/fers-lisser)
 
-*   [NOS IDEES CADEAUX DE NOËL](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
-    
 *   [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-beaute)
     
 *   [HOMME](https://www.printemps.com/fr/fr/beaute-homme)
