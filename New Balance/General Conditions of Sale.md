@@ -306,16 +306,16 @@ En l’absence d’accord amiable, le consommateur a la possibilité de saisir g
 
 La saisine du médiateur de la consommation doit être effectuée:
 
-* soit en remplissant le formulaire prévu à cet effet sur le site internet d’AME CONSO : [www.mediationconso-ame.com](https://www.mediationconso-ame.com/);
-* ou par courrier adressé à AME CONSO, 197 Boulevard Saint-Germain - 75007 PARIS.
+*   soit en remplissant le formulaire prévu à cet effet sur le site internet d’AME CONSO : [www.mediationconso-ame.com](https://www.mediationconso-ame.com/);
+*   ou par courrier adressé à AME CONSO, 197 Boulevard Saint-Germain - 75007 PARIS.
 
 Toutefois, nous ne participons généralement pas aux systèmes ADR et préférons résoudre les plaintes directement avec vous ou, si cela n’est pas possible, régler votre plainte par la voie judiciaire. 
 
 18.9 **Pour répondre aux exigences françaises en matière de recyclage**, New Balance a signé un contrat avec CITEO (emballages), et enregistré auprès de Re-fashion (chaussures et textile).
 
-* ADEME: 81319482600018
-* Identifiant Unique CITEO : FR270202\_01JNBH
-* Identifiant Unique Re-Fashion : 50001963300022
+*   ADEME: 81319482600018
+*   Identifiant Unique CITEO : FR270202\_01JNBH
+*   Identifiant Unique Re-Fashion : 50001963300022
 
   
 
@@ -799,16 +799,16 @@ En l’absence d’accord amiable, le consommateur a la possibilité de saisir g
 
 La saisine du médiateur de la consommation doit être effectuée:
 
-* soit en remplissant le formulaire prévu à cet effet sur le site internet d’AME CONSO : [www.mediationconso-ame.com](https://www.mediationconso-ame.com/);
-* ou par courrier adressé à AME CONSO, 197 Boulevard Saint-Germain - 75007 PARIS.
+*   soit en remplissant le formulaire prévu à cet effet sur le site internet d’AME CONSO : [www.mediationconso-ame.com](https://www.mediationconso-ame.com/);
+*   ou par courrier adressé à AME CONSO, 197 Boulevard Saint-Germain - 75007 PARIS.
 
 Toutefois, nous ne participons généralement pas aux systèmes ADR et préférons résoudre les plaintes directement avec vous ou, si cela n’est pas possible, régler votre plainte par la voie judiciaire. 
 
 18.9 **Pour répondre aux exigences françaises en matière de recyclage**, New Balance a signé un contrat avec CITEO (emballages), et enregistré auprès de Re-fashion (chaussures et textile).
 
-* ADEME: 81319482600018
-* Identifiant Unique CITEO : FR270202\_01JNBH
-* Identifiant Unique Re-Fashion : 50001963300022
+*   ADEME: 81319482600018
+*   Identifiant Unique CITEO : FR270202\_01JNBH
+*   Identifiant Unique Re-Fashion : 50001963300022
 
   
 
