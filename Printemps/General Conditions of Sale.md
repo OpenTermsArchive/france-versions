@@ -1,5 +1,17 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
+*   [Voir tout](https://www.printemps.com/fr/fr/avant-premieres)
+
+*   [\-10% supplémentaires au panier\*](https://www.printemps.com/fr/fr/booster-club-printemps)
+
+*   [FEMME](https://www.printemps.com/fr/fr/avant-premieres-femme)
+
+*   [HOMME](https://www.printemps.com/fr/fr/avant-premieres-homme)
+
+*   [BEAUTÉ](https://www.printemps.com/fr/fr/avant-premieres-beaute)
+
+*   [MAISON](https://www.printemps.com/fr/fr/avant-premieres-maison)
+
 *   [NOS IDEES CADEAUX](https://www.printemps.com/fr/fr/idees-cadeaux-noel)
     *   [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
     *   [Pour lui](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
@@ -147,6 +159,8 @@
     *   [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
     *   [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
 
+*   [AVANT-PREMIÈRES : -10% supplémentaires](https://www.printemps.com/fr/fr/avant-premieres-femme)
+    
 *   [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-femme)
     
 *   [LUXE ET CRÉATEURS](https://www.printemps.com/fr/fr/luxe-et-createurs-femme)
@@ -228,6 +242,8 @@
     *   [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     *   [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
+*   [AVANT-PREMIÈRES : -10% supplémentaires](https://www.printemps.com/fr/fr/avant-premieres-homme)
+    
 *   [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme)
     
 *   [LUXE ET CRÉATEURS](https://www.printemps.com/fr/fr/luxe-et-createurs-homme)
@@ -259,6 +275,8 @@
 *   
     
 
+*   [AVANT-PREMIÈRES : -10% supplémentaires](https://www.printemps.com/fr/fr/avant-premieres-beaute)
+    
 *   [L’ESPACE BEAUTÉ](https://www.printemps.com/fr/fr/espace-beaute)
     
 *   [CALENDRIERS DE L'AVENT](https://www.printemps.com/fr/fr/calendrier-noel)
@@ -344,34 +362,6 @@
 *   [DÉCORATION](https://www.printemps.com/fr/fr/decoration)
 
 *   [LITERIE](https://www.printemps.com/fr/fr/literie-maison)
-
-*   [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance)
-    
-*   [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
-    *   [Voir tout](https://www.printemps.com/fr/fr/last-chance-femme)
-    *   [Luxe](https://www.printemps.com/fr/fr/last-chance-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
-    *   [Sacs](https://www.printemps.com/fr/fr/last-chance-femme/esp/Sacs)
-    *   [Sacs à main](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+%C3%A0+main)
-    *   [Sacs bandoulière](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+bandouli%C3%A8re)
-    *   [Vêtements](https://www.printemps.com/fr/fr/last-chance-femme/esp/V%C3%AAtements)
-    *   [Robes](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Robes)
-    *   [Tops & t-shirts](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Tops+et+t-shirts)
-    *   [Chaussures](https://www.printemps.com/fr/fr/last-chance-femme/esp/Chaussures)
-    *   [Baskets](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Baskets)
-    *   [Bijoux](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Bijoux)
-
-*   [HOMME](https://www.printemps.com/fr/fr/last-chance-homme)
-    *   [Voir tout](https://www.printemps.com/fr/fr/last-chance-homme)
-    *   [Vêtements](https://www.printemps.com/fr/fr/last-chance-homme/esp/V%C3%AAtements)
-    *   [Chemises](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Chemises)
-    *   [Tops & t-shirts](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Tops+et+t-shirts)
-    *   [Pantalons](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Pantalons)
-    *   [Shorts](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Shorts)
-    *   [Chaussures](https://www.printemps.com/fr/fr/last-chance-homme/esp/Chaussures)
-    *   [Baskets](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Baskets)
-    *   [Sacs](https://www.printemps.com/fr/fr/last-chance-homme/esp/Sacs)
-    *   [Accessoires](https://www.printemps.com/fr/fr/last-chance-homme/esp/Accessoires)
-    *   [Luxe](https://www.printemps.com/fr/fr/last-chance-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS/BALMAIN)
 
 *   [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     *   [Voir tout](https://www.printemps.com/fr/fr/marques-femme)
@@ -479,9 +469,7 @@
     *   [Printemps Vélizy 2](https://www.printemps.com/fr/fr/printemps-paris-velizy-2)
 
 *   [ACTUALITÉS MAGASINS](https://www.printemps.com/fr/fr/edito-magasins)
-    *   [Le Printemps se met à l'heure New-yorkaise pour Noël](https://www.printemps.com/fr/fr/edito-magasins-noel-a-new-york-printemps)
-    *   [Pour Noël plongez dans l'univers de New-York avec Ferrero Rocher®](https://www.printemps.com/fr/fr/edito-magasins-noel-ferrero-rocher-printemps-haussmann)
-    *   [Pour Noël, rendez-vous au "Quartier des Jouets"](https://www.printemps.com/fr/fr/edito-magasins-jouets-printemps-haussmann)
+    
 *   [LES RESTAURANTS](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
     
 *   [Souvenir shop](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
@@ -514,9 +502,6 @@
     *   [Printemps Vélizy 2](https://www.printemps.com/fr/fr/printemps-paris-velizy-2)
 
 *   Actualités magasins
-    *   [Le Printemps se met à l'heure New-yorkaise pour Noël](https://www.printemps.com/fr/fr/edito-magasins-noel-a-new-york-printemps)
-    *   [Pour Noël plongez dans l'univers de New-York avec Ferrero Rocher®](https://www.printemps.com/fr/fr/edito-magasins-noel-ferrero-rocher-printemps-haussmann)
-    *   [Pour Noël, rendez-vous au "Quartier des Jouets"](https://www.printemps.com/fr/fr/edito-magasins-jouets-printemps-haussmann)
 
 *   [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
 
