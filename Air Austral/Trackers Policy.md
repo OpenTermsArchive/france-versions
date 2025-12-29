@@ -19,7 +19,7 @@ Les données recueillies sont conservées par Air Austral pour une durée de 6 m
 **Puis-je m'opposer à l'enregistrement des cookies ?**  
 Vous pouvez vous opposer à l'enregistrement de ces "cookies" de façon globale ou au cas par cas en ajustant les paramètres de votre navigateur. Nous vous invitons à vous reporter à la procédure figurant dans les règles d'utilisation de votre navigateur.
 
-[Gestion des cookies](https://www.air-austral.com/mentions-legales.html?chash=9a5b99ffcfb8fbd144443832cc52d302#)
+[Gestion des cookies](https://www.air-austral.com/mentions-legales.html?_gl=1%2A15us61r%2A_gcl_au%2AMjE5NTk0OTA0LjE3NjQ0OTM3MDg#)
 
 Nous vous informons néanmoins que si vous choisissez de refuser tout type de cookies, certaines fonctionnalités du site pourraient ne pas être accessibles.
 
