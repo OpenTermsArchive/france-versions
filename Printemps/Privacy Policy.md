@@ -355,23 +355,15 @@
     *   [Parfums de marly](https://www.printemps.com/fr/fr/parfum-parfums-de-marly)
     *   [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     *   [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-    *    [![Image d'illustration](https://media-cdn.printemps.com/image/52/1/8699521.png)
-        
-        ARMANI/PRIVÉ](https://www.printemps.com/fr/fr/armani-collection-beaute)
+    *    [![Image d'illustration](https://media-cdn.printemps.com/image/30/9/8804309.jpg)](https://www.printemps.com/fr/fr/avant-premieres-beaute)
         
 
-*    [![Image d'illustration](https://media-cdn.printemps.com/image/52/1/8699521.png)
-    
-    ARMANI/PRIVÉ](https://www.printemps.com/fr/fr/armani-collection-beaute)
+*    [![Image d'illustration](https://media-cdn.printemps.com/image/30/9/8804309.jpg)](https://www.printemps.com/fr/fr/avant-premieres-beaute)
     
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/52/1/8699521.png)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/30/9/8804309.jpg)](https://www.printemps.com/fr/fr/avant-premieres-beaute)
 
-ARMANI/PRIVÉ](https://www.printemps.com/fr/fr/armani-collection-beaute)
-
- [![Image d'illustration](https://media-cdn.printemps.com/image/52/1/8699521.png)
-
-ARMANI/PRIVÉ](https://www.printemps.com/fr/fr/armani-collection-beaute)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/30/9/8804309.jpg)](https://www.printemps.com/fr/fr/avant-premieres-beaute)
 
 *   [SPÉCIAL BLANC : Jusqu'à -40%](https://www.printemps.com/fr/fr/blanc-dhiver)
 
