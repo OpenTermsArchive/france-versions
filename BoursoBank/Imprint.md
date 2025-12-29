@@ -41,7 +41,7 @@ BOURSORAMA met à disposition, sur le site www.BOURSOBANK.COM et sur l’applica
 
 La navigation sur les Espaces et l’utilisation de l’Assistant Eliott sont soumises à la réglementation en vigueur. Toute utilisation des Espaces, y compris le cas échéant de l’Assistant Eliott, vaut acceptation inconditionnelle de la part de tout internaute du contenu des présentes conditions.
 
-Si vous souhaitez nous contacter, veuillez vous rendre à la rubrique « [Contactez-nous](https://www.boursorama.com/contact/membres "Contactez-nous (nouvelle fenêtre)") » en bas de page des sites ou à la rubrique « aide et contact » de l’application mobile. Dans le cas où l’Assistant Eliott ne serait pas en mesure de répondre à vos questions, celui-ci pourra vous proposer de discuter avec un conseiller.
+Si vous souhaitez nous contacter, veuillez vous rendre à la rubrique « [Contactez-nous](https://www.boursorama.com/contact/clients "Contactez-nous (nouvelle fenêtre)") » en bas de page des sites ou à la rubrique « aide et contact » de l’application mobile. Dans le cas où l’Assistant Eliott ne serait pas en mesure de répondre à vos questions, celui-ci pourra vous proposer de discuter avec un conseiller.
 
 L'utilisation des Espaces et de l’Assistant Eliott est régie par la loi française.
 
@@ -140,7 +140,7 @@ Pour plus d'informations, veuillez consulter les [CGU Membres](https://www.bours
 5\. Report des abus sur le site BOURSORAMA.COM
 ----------------------------------------------
 
-Si vous constatez ou estimez qu'un contenu du site BOURSORAMA.COM présente un caractère manifestement illicite, vous pouvez le signaler à BOURSORAMA en vous rendant dans la rubrique « [Contactez-nous](https://www.boursorama.com/contact/membres "Contactez-nous (nouvelle fenêtre)") » en bas de page du site, dans l'onglet « Communauté Boursorama » ou en nous écrivant à l'adresse suivante : [support\_technique@boursorama.fr](mailto:support_technique@boursorama.fr "Ecrire à support_technique@boursorama.fr").
+Si vous constatez ou estimez qu'un contenu du site BOURSORAMA.COM présente un caractère manifestement illicite, vous pouvez le signaler à BOURSORAMA en vous rendant dans la rubrique « [Contactez-nous](https://www.boursorama.com/contact/clients "Contactez-nous (nouvelle fenêtre)") » en bas de page du site, dans l'onglet « Communauté Boursorama » ou en nous écrivant à l'adresse suivante : [support\_technique@boursorama.fr](mailto:support_technique@boursorama.fr "Ecrire à support_technique@boursorama.fr").
 
 BOURSORAMA ne peut être considéré comme ayant la qualité d'éditeur des Informations du site BOURSORAMA.COM mais exclusivement celle d'hébergeur qui consiste à mettre à la disposition des membres du forum et des fournisseurs de flux des moyens techniques permettant le stockage direct et permanent d'informations destinées à être communiquées au public.  
 BOURSORAMA répond en cela à la définition de l'article 6.I.2 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (« LCEN ») modifiée par le règlement européen sur les services numériques du 19 octobre 2022 (« DSA »).
@@ -237,4 +237,4 @@ Pour en savoir plus, vous pouvez consulter la Politique de protection des donné
 
 Aucune réclamation client ne sera traitée via cette adresse.
 
-Les réclamations clients doivent être adressées via les canaux indiqués à la rubrique « [Contactez-nous](https://www.boursorama.com/contact/membres "Contactez-nous (nouvelle fenêtre)") » en bas de page des sites
+Les réclamations clients doivent être adressées via les canaux indiqués à la rubrique « [Contactez-nous](https://www.boursorama.com/contact/clients "Contactez-nous (nouvelle fenêtre)") » en bas de page des sites
