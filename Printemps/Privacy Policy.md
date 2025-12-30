@@ -287,8 +287,6 @@
     
 *   [L’ESPACE BEAUTÉ](https://www.printemps.com/fr/fr/espace-beaute)
     
-*   [CALENDRIERS DE L'AVENT](https://www.printemps.com/fr/fr/calendrier-noel)
-    
 *   [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     *   [Voir tout](https://www.printemps.com/fr/fr/parfum)
     *   [Eaux de toilette et parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
