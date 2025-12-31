@@ -178,8 +178,8 @@ Le Client peut choisir entre la résolution de la vente ou une réduction du pri
 Les demandes au titre de ces garanties doivent être adressées à : [serviceclient@aigle.com](mailto:serviceclient@aigle.com) ou par courrier postal à l’adresse suivante :
 
 Aigle Service Clients  
-17 rue Saint-Denis  
-92600 Asnières-sur-Seine – France
+57 Boulevard de Montmorency  
+75016 - Paris – France
 
 ARTICLE 11. RESPONSABILITÉ
 --------------------------
@@ -254,7 +254,7 @@ Le Client peut également recourir à la plateforme européenne de règlement en
 ARTICLE 19. INFORMATIONS LÉGALES
 --------------------------------
 
-Le Site est édité par Aigle International, société anonyme au capital de 34 004 000 euros, immatriculée au R.C.S. de Nanterre sous le numéro 314 397 712, dont le siège social est situé au 17/23 rue Saint-Denis – 92100 Boulogne-Billancourt.
+Le Site est édité par Aigle International, société anonyme au capital de 34 004 000 euros, immatriculée au R.C.S. de Nanterre sous le numéro 314 397 712, dont le siège social est situé au 57 boulevard de Montmorency, 75016 Paris.
 
 Le Site est hébergé par Salesforce Commerce Cloud.
 
