@@ -1344,7 +1344,7 @@ Les détails complets de nos frais applicables sont indiqués dans notre tableau
 
 La mise en commun ou le partage d’allocations de Bagages enregistrés achetées au préalable sont autorisés avec d’autres personnes inscrites sur la même réservation de vol lorsque les passagers s’enregistrent ensemble.  
 
-Tout passager dépassant sa propre autorisation de bagage devra s’acquitter de frais d’excédent de bagages au taux applicable au jour du voyage. Le taux applicable à ce jour est de 12 £/12 € par kilogramme (ou monnaie locale équivalente).  
+Tout passager dépassant sa propre autorisation de bagage devra s’acquitter de frais d’excédent de bagages au taux applicable au jour du voyage. Le taux applicable à ce jour est de 13 £/13 € par kilogramme (ou monnaie locale équivalente).  
 
 Dans les aéroports disposant de bornes en libre service, vous devez payer les frais de bagages enregistrés et/ou les frais d’excédent de bagages et déposer vos Bagages enregistrés à un comptoir de dépôt des bagages au plus tard 40 minutes avant l’heure de départ prévue.  
 
@@ -1573,7 +1573,7 @@ Conformément aux exigences réglementaires (CAT.OP.MPA.155), notre personnel na
 
 **Restriction de sièges**  
 
-Pour des raisons de sécurité, les clients nécessitant un des types d’assistance spéciale d’aéroport figurant ci-dessous doivent être assis à côté d’une fenêtre A MOINS QUE le siège à côté de la fenêtre ne soit occupé par un compagnon de voyage ou que la charge de vol permette d’avoir des sièges vides entre le client handicapé et la fenêtre.\*  
+Pour des raisons de sécurité, les clients nécessitant un des types d’assistance d’aéroport figurant ci-dessous doivent être assis à côté d’une fenêtre A MOINS QUE le siège à côté de la fenêtre ne soit occupé par un compagnon de voyage ou que la charge de vol permette d’avoir des sièges vides entre le client handicapé et la fenêtre.\*
 
 Les passagers des catégories ci-dessous doivent occuper les sièges spécifiques attribués à bord afin de garantir la sécurité de tous les passagers en cas d’évacuation d’urgence de l’avion.  
 
@@ -1593,15 +1593,15 @@ Les passagers nécessitant les types d’assistance répertoriés ci-dessous doi
 
 **Passager présentant un handicap cognitif ou non visible nécessitant une assistance.**
 
-**Type d’assistance (DPNA)** Les passagers qui réservent avec le code de type d’assistance DPNA doivent contacter notre équipe d’assistance spéciale et lui préciser le type et le niveau d’assistance requis.
+**Type d’assistance (DPNA)** Type d’assistance (DPNA) Les passagers qui réservent avec le code de type d’assistance DPNA doivent contacter notre équipe Assistance voyage et lui préciser le type et le niveau d’assistance requis.
 
 **Passagers non-voyants/malvoyants nécessitant une assistance**  
 
 **Type d’assistance (BLND)** Passager non-voyant/malvoyant nécessitant un déambulateur dans l’aéroport (départ et arrivée) jusqu’à son siège et des consignes de sécurité particulières de la part du personnel de cabine.  
 
-Le type d’assistance spéciale réservé figure sur la carte d’embarquement en ligne. Si la mention (**PRM Seat**) est indiquée, un siège spécifique est alors réservé pour cette personne en cabine.  Lors de l’embarquement, le personnel de cabine accompagnera le passager jusqu’à son siège. Dans le cas où un passager est aidé par un accompagnateur, le personnel s’efforcera de leur attribuer des sièges adjacents.  
+Le type d’assistance réservé figure sur la carte d’embarquement en ligne. Si la mention (**PRM Seat**) est indiquée, un siège spécifique est alors réservé pour cette personne en cabine.  Lors de l’embarquement, le personnel de cabine accompagnera le passager jusqu’à son siège. Dans le cas où un passager est aidé par un accompagnateur, le personnel s’efforcera de leur attribuer des sièges adjacents.  
 
-Les passagers nécessitant tout autre type d’assistance ne se voient PAS attribuer de siège spécifique à bord et peuvent choisir leur siège à l’embarquement ou réserver un siège au moment de la commande. Remarque : les passagers nécessitant une assistance spéciale, quelle qu’elle soit, ne sont pas autorisés à s’asseoir à proximité des issues de secours.  
+Les passagers nécessitant tout autre type d’assistance ne se voient PAS attribuer de siège spécifique à bord et peuvent choisir leur siège à l’embarquement ou réserver un siège au moment de la commande. Remarque : les passagers nécessitant une assistance, quelle qu’elle soit, ne sont pas autorisés à s’asseoir à proximité des issues de secours.  
 
 **Sièges**  
 
@@ -1611,25 +1611,25 @@ Les passagers à mobilité réduite, non-voyants/malvoyants ou déficients intel
 
 Le chef de cabine reste le seul à pouvoir prendre la décision finale eu égard à l’attribution des sièges en cabine ou de tout problème pouvant survenir dans l’avion.  
 
-**Réservation d’une assistance aérienne spéciale**  
+**Réserver une assistance à l’aéroport**
 
-Les passagers ayant besoin d’une assistance spéciale peuvent réserver ces services à l’avance sur notre site Web jusqu’à 48 heures avant le vol. Après ce délai et jusqu’à 12 heures avant le départ du vol prévu, les passagers doivent contacter notre Ligne d’assistance spéciale (aux horaires d’ouverture). Si le passager ne réserve pas l’assistance requise au moins 48 heures à l’avance, le service peut ne pas être disponible. L’équipe d’assistance de l’aéroport fera toutefois tout son possible pour assurer le service demandé.  
+Si vous avez besoin d’assistance à l’aéroport, vous pouvez réserver une assistance sur notre site internet jusqu’à 48 heures avant votre vol. Après cette période, vous pouvez réserver une assistance jusqu’à 12 heures avant le départ du vol prévu en contactant notre ligne Assistance voyage (aux horaires d’ouverture). Si le passager ne réserve pas l’assistance requise au moins 48 heures à l’avance, le service peut ne pas être disponible. L’équipe d’assistance de l’aéroport fera toutefois tout son possible pour assurer le service demandé.
 
-Afin de bénéficier du service d’assistance réservé, les passagers doivent se présenter au guichet d’assistance spéciale 1 heure 40 avant le départ du vol.  
+Afin de bénéficier du service d’assistance réservé, les passagers doivent se présenter au guichet d’assistance 1 heure 40 avant le départ du vol.  
 
-Veuillez conserver votre carte d’embarquement ou reçu d’assistance aérienne spéciale afin de le présenter à votre arrivée à l’aéroport de destination pour bénéficier du service d’assistance réservé.
+Vous devez conserver votre carte d’embarquement ou le reçu de la demande d’assistance à présenter à l’aéroport de destination afin d’y obtenir de l’assistance.
 
 **Cliquer ici pour une liste d’Options d’assistance****.**
 
-**Réservation d’une assistance spéciale**  
+**Réservation d’une assistance voyage**  
 
 **Voyage avec des équipements de mobilité et/ou équipements médicaux**    
 
 Les passagers à mobilité réduite sont autorisés à transporter gratuitement deux équipements de mobilité ainsi que l’équipement médical nécessaire pour la durée de leur séjour.
 
-Les passagers souhaitant transporter des équipements médicaux dans leurs « bagages enregistrés » doivent contacter notre  Ligne d’assistance spéciale pour recevoir une lettre de « dérogation relative aux bagages enregistrés » à présenter au comptoir de dépôt des bagages.  
+Les passagers souhaitant transporter des équipements médicaux dans leurs « bagages enregistrés » doivent contacter notre  ligne Assistance voyage pour recevoir une lettre de « dérogation relative aux bagages enregistrés » à présenter au comptoir de dépôt des bagages.  
 
-Les passagers souhaitant transporter des équipements médicaux dans leurs « bagages en cabine » doivent contacter notre  Ligne d’assistance spéciale pour recevoir une lettre de « dérogation relative aux bagages en cabine » à présenter à la porte d’embarquement.
+Les passagers souhaitant transporter des équipements médicaux dans leurs « bagages en cabine » doivent contacter notre  ligne Assistance voyage pour recevoir une lettre de « dérogation relative aux bagages en cabine » à présenter à la porte d’embarquement.
 
 **Fauteuils roulant de couloir à bord**  
 
@@ -1670,7 +1670,7 @@ Lorsqu’un passager à mobilité réduite voyage avec un accompagnateur, nous 
 
 Chaque accompagnateur adulte valide ne peut s’occuper que d’un seul passager à mobilité réduite et doit acheter un billet adulte au tarif en vigueur.  
 
-Afin de bénéficier du service d’assistance réservé, les passagers doivent se présenter au guichet d’assistance spéciale de l’aéroport au moins 1 heure 40 avant le départ du vol.
+Afin de bénéficier du service d’assistance réservé, les passagers doivent se présenter au guichet d’assistance de l’aéroport au moins 1 heure 40 avant le départ du vol.
 
 PASSAGERS NON-VOYANTS OU MALVOYANTS
 
@@ -1725,7 +1725,7 @@ Lignes directrices spécifiques pour l’entrée des chiens guide / d’assistan
 
 *   Le chien guide/d’assistance doit voyager en cabine et doit s’asseoir sur le sol aux pieds du passager. Un maximum de quatre chiens guides/d’assistance sont autorisés par vol. Le chien, les récipients et la nourriture sont transportés gratuitement.
 
-*   Tout passager souhaitant voyager avec son chien guide/d’assistance à bord doit nous aviser au préalable, de préférence le jour de la réservation. Vous pouvez le faire en ligne ou en contactant notre  ligne d’assistance spéciale.
+*   Tout passager souhaitant voyager avec son chien guide/d’assistance à bord doit nous aviser au préalable, de préférence le jour de la réservation. Vous pouvez le faire en ligne ou en contactant notre ligne Assistance voyage.
 
 *   Un harnais approprié (qui doit être fourni par le propriétaire) doit être attaché à la ceinture de sécurité des propriétaires ou à la boucle de la ceinture de sécurité et doit être utilisé pour permettre au chien d’être efficacement retenu lors du décollage, de l’atterrissage et en cas de turbulence. D’autres dispositifs avec des points d’attache alternatifs permettant que le chien soit adéquatement retenu peuvent être utilisés. Tout aménagement qui garantit au chien d’assistance une sécurité maximale est acceptable.
 
@@ -1784,11 +1784,11 @@ OXYGÈNE
 
 =========
 
-Pour des raisons de sécurité, nous n’autorisons pas les passagers à apporter leur propre oxygène à bord. Si l’utilisation d’oxygène est nécessaire pendant le vol, le passager doit en faire la demande trois jours au plus tard avant le vol pour voyager directement avec nous par l’intermédiaire de votre centre d’appel local ou en écrivant un message électronique à notre équipe d’Assistance spéciale , de préférence le jour de la réservation pour un tarif indiqué dans le Tableau des Tarifs.\*
+Pour des raisons de sécurité, les passagers ne peuvent pas emporter leur propre oxygène à bord. Si vous avez besoin d’utiliser de l’oxygène à des fins médicales pendant le vol, vous devez nous en faire la demande, sans frais, au moment de votre réservation. Si vous n’en faites pas la demande au moment de la réservation, vous devrez le solliciter au moins trois jours avant votre voyage en contactant votre centre d’appels local ou en envoyant un e-mail à notre équipe Assistance voyage. Dans ce cas, vous devrez payer des frais pour l’oxygène.
 
 Les passagers ayant besoin d’oxygène doivent être munis d’une lettre en anglais de leur médecin (datée de moins de 2 semaines avant la date de vol prévue) confirmant qu’ils sont aptes à voyager, qu’ils n’ont pas besoin d’un approvisionnement continu en oxygène pendant plus de 250 minutes à 2 litres par minute et que l’oxygène que nous fournissons est adapté à leurs besoins.  
 
-Sans cette lettre, les passagers ne seront pas autorisés à voyager.
+Sans cette lettre, les passagers ne seront pas autorisés à voyager.Pour des raisons de sécurité, les passagers ne peuvent pas emporter leur propre oxygène à bord. Si vous avez besoin d’utiliser de l’oxygène à des fins médicales pendant le vol, vous devez nous en faire la demande, sans frais, au moment de votre réservation. Si vous n’en faites pas la demande au moment de la réservation, vous devrez le solliciter au moins trois jours avant votre voyage en contactant votre centre d’appels local ou en envoyant un e-mail à notre équipe Assistance voyage. Dans ce cas, vous devrez payer des frais pour l’oxygène.
 
 MALADIES INFECTIEUSES ET MALADIES DE LA PEAU
 
@@ -1916,7 +1916,7 @@ Pour des raisons de sécurité, pour être autorisé à avoir un siège de sorti
 
 5\. Ne pas avoir réservé un siège supplémentaire (de confort ou pour un article additionnel) ;  
 
-6\. Ne pas nécessiter une assistance spéciale d’aucune sorte de la part de l’aéroport.  
+6\. Ne pas nécessiter une assistance d’aucune sorte de la part de l’aéroport.  
 
 Pour des raisons de sécurité, un maximum de 2 enfants peut être assis dans une rangée (un de chaque côté de l’allée centrale).  
 
