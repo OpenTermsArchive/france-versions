@@ -2,8 +2,6 @@
 
 *   [Voir tout](https://www.printemps.com/fr/fr/avant-premieres)
 
-*   [\-10% supplémentaires au panier\*](https://www.printemps.com/fr/fr/booster-club-printemps)
-
 *   [FEMME](https://www.printemps.com/fr/fr/avant-premieres-femme)
 
 *   [HOMME](https://www.printemps.com/fr/fr/avant-premieres-homme)
@@ -11,38 +9,6 @@
 *   [BEAUTÉ](https://www.printemps.com/fr/fr/avant-premieres-beaute)
 
 *   [MAISON](https://www.printemps.com/fr/fr/avant-premieres-maison)
-
-*   [NOS IDEES CADEAUX](https://www.printemps.com/fr/fr/idees-cadeaux-noel)
-    *   [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle)
-    *   [Pour lui](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui)
-    *   [Beauté](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
-*   PAR PRIX
-    *   [Moins de 100€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/0/100)
-    *   [Entre 100€ et 200€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/100/200)
-    *   [Entre 200€ et 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/200/300)
-    *   [Plus de 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/300/1000)
-*   [La carte cadeau](https://cartescadeaux.printemps.com/)
-    
-
-*   [TENUES DE FÊTES](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee)
-    *   [Femme](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-femme)
-    *   [Homme](https://www.printemps.com/fr/fr/tenue-de-soiree-exigee-homme)
-    *   [Mise en beauté](https://www.printemps.com/fr/fr/maquillage)
-*   [LES CALENDRIERS DE L'AVENT](https://www.printemps.com/fr/fr/calendrier-noel)
-    
-*   [LES COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
-    
-*   [NOËL AU PRINTEMPS](https://www.printemps.com/fr/fr/noel-au-printemps)
-    
-
-*   PLUS D'INSPIRATION
-    *   [Les plus belles idées cadeaux](https://www.printemps.com/fr/fr/edito-magazine-actu-idees-cadeaux-noel)
-    *   [Cadeaux de Noël de dernière minute : Les idées qui feront plaisir à coup sûr](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-noel-derniere-minute)
-    *   [Comment décorer une table de Noël : Les idées parfaites](https://www.printemps.com/fr/fr/edito-magazine-actu-comment-decorer-table-noel)
-    *   [Cadeaux beauté : Les meilleurs coffrets à glisser sous le sapin](https://www.printemps.com/fr/fr/edito-magazine-actu-cadeaux-beaute-coffrets-noel)
-    *   [Tenues de fête : comment bien porter le doré et l'argenté](https://www.printemps.com/fr/fr/edito-magazine-actu-porter-dore-argent-fetes)
-*   
-    
 
 *   [COLLECTION AUTOMNE-HIVER](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
     
@@ -159,7 +125,7 @@
     *   [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
     *   [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
 
-*   [AVANT-PREMIÈRES : -10% supplémentaires](https://www.printemps.com/fr/fr/avant-premieres-femme)
+*   [AVANT-PREMIÈRES : Jusqu'à -50%](https://www.printemps.com/fr/fr/avant-premieres-femme)
     
 *   [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-femme)
     
@@ -185,15 +151,15 @@
     *   [Prada](https://www.printemps.com/fr/fr/prada-femme)
     *   [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     *   [Guess](https://www.printemps.com/fr/fr/guess-femme)
-    *    [![Image d'illustration](https://media-cdn.printemps.com/image/30/6/8804306.jpg)](https://www.printemps.com/fr/fr/avant-premieres-femme)
+    *    [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-femme)
         
 
-*    [![Image d'illustration](https://media-cdn.printemps.com/image/30/6/8804306.jpg)](https://www.printemps.com/fr/fr/avant-premieres-femme)
+*    [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-femme)
     
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/30/6/8804306.jpg)](https://www.printemps.com/fr/fr/avant-premieres-femme)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-femme)
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/30/6/8804306.jpg)](https://www.printemps.com/fr/fr/avant-premieres-femme)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-femme)
 
 *   [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     *   [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -246,7 +212,7 @@
     *   [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     *   [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
-*   [AVANT-PREMIÈRES : -10% supplémentaires](https://www.printemps.com/fr/fr/avant-premieres-homme)
+*   [AVANT-PREMIÈRES : Jusqu'à -50%](https://www.printemps.com/fr/fr/avant-premieres-homme)
     
 *   [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme)
     
@@ -273,17 +239,17 @@
     *   [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
     *   [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
     *   [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    *    [![Image d'illustration](https://media-cdn.printemps.com/image/30/6/8804306.jpg)](https://www.printemps.com/fr/fr/avant-premieres-homme)
+    *    [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-homme)
         
 
-*    [![Image d'illustration](https://media-cdn.printemps.com/image/30/6/8804306.jpg)](https://www.printemps.com/fr/fr/avant-premieres-homme)
+*    [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-homme)
     
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/30/6/8804306.jpg)](https://www.printemps.com/fr/fr/avant-premieres-homme)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-homme)
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/30/6/8804306.jpg)](https://www.printemps.com/fr/fr/avant-premieres-homme)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-homme)
 
-*   [AVANT-PREMIÈRES : -10% supplémentaires](https://www.printemps.com/fr/fr/avant-premieres-beaute)
+*   [AVANT-PREMIÈRES : Jusqu'à -50%](https://www.printemps.com/fr/fr/avant-premieres-beaute)
     
 *   [L’ESPACE BEAUTÉ](https://www.printemps.com/fr/fr/espace-beaute)
     
@@ -353,15 +319,15 @@
     *   [Parfums de marly](https://www.printemps.com/fr/fr/parfum-parfums-de-marly)
     *   [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     *   [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-    *    [![Image d'illustration](https://media-cdn.printemps.com/image/30/9/8804309.jpg)](https://www.printemps.com/fr/fr/avant-premieres-beaute)
+    *    [![Image d'illustration](https://media-cdn.printemps.com/image/36/3/8826363.jpg)](https://www.printemps.com/fr/fr/avant-premieres-beaute)
         
 
-*    [![Image d'illustration](https://media-cdn.printemps.com/image/30/9/8804309.jpg)](https://www.printemps.com/fr/fr/avant-premieres-beaute)
+*    [![Image d'illustration](https://media-cdn.printemps.com/image/36/3/8826363.jpg)](https://www.printemps.com/fr/fr/avant-premieres-beaute)
     
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/30/9/8804309.jpg)](https://www.printemps.com/fr/fr/avant-premieres-beaute)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/36/3/8826363.jpg)](https://www.printemps.com/fr/fr/avant-premieres-beaute)
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/30/9/8804309.jpg)](https://www.printemps.com/fr/fr/avant-premieres-beaute)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/36/3/8826363.jpg)](https://www.printemps.com/fr/fr/avant-premieres-beaute)
 
 *   [SPÉCIAL BLANC : Jusqu'à -40%](https://www.printemps.com/fr/fr/blanc-dhiver)
 
@@ -533,7 +499,7 @@
 
 *   [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/30/6/8804306.jpg)](https://www.printemps.com/fr/fr/avant-premieres)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres)
 
   
 
