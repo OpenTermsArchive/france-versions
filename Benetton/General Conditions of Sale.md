@@ -8,9 +8,9 @@ Les présentes conditions générales de vente (aussi dénommées « CGV » ci-d
 Le vendeur, comme désigné ci-dessous, se réserve le droit de ne pas donner suite à des commandes provenant de sujets ne rentrant pas dans la définition légale de « consommateur ». Dans tous les cas, si l’acquéreur n’est pas qualifiable de consommateur, le Contrat sera régi par la loi italienne, à l’exclusion de la Convention de Vienne du 1980 sur la vente internationale de marchandises.  
   
 Le Client prend acte que :  
-\- le Site est propriété de Benetton Group S.r.l. à actionnaire unique, dont le siège est à Via Villa Minelli 1 - Ponzano Veneto (TV) – Italie, Capital Social en Euro 200 000 000,00 entièrement libéré, Numéro de TVA 03490770264, Code Fiscal/Registre des Entreprises de Treviso-Belluno n. 03490770264, Registre Economique Administratif n. 276862 ;  
+\- le Site est propriété de Benetton e-commerce s.r.l. à actionnaire unique, dont le siège est à Via della Cartiera 1, Villorba (TV), CAP 31020 – Italie, Capital Social en Euro 200 000 000,00 entièrement libéré, Numéro de TVA 05576840267, Code Fiscal/Registre des Entreprises de Treviso-Belluno n. 05576840267, Registre Economique Administratif n. 276862 ;  
   
-\- le vendeur des Produits, qui est partie contractuelle avec le Client selon les termes des présentes CGV est : BENETTON GROUP S.R.L. à actionnaire unique, dont le siège est à Ponzano Veneto (TV), Via Villa Minelli n. 1, Capital Social en Euro 200 000 000,00 entièrement libéré, Code Fiscal/Registre des Entreprises de Treviso-Belluno n. 03490770264, (désigné par la suite comme « le Vendeur »)  
+\- le vendeur des Produits, qui est partie contractuelle avec le Client selon les termes des présentes CGV est : Benetton e-commerce s.r.l. à actionnaire unique, dont le siège est à Via della Cartiera 1, Villorba (TV), CAP 31020, Capital Social en Euro 200 000 000,00 entièrement libéré, Code Fiscal/Registre des Entreprises de Treviso-Belluno n. 05576840267, (désigné par la suite comme « le Vendeur »)  
   
 \- Les commandes peuvent être passées seulement par des personnes majeures et ne se trouvant pas en condition d’incapacité légale.  
   
