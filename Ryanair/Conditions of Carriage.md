@@ -499,9 +499,20 @@ Il vous sera demandé de payer une contrepartie pour le transport de bagages enr
 
 Vous pouvez transporter des cigarettes électroniques ou des dispositifs de vapotage à bord, mais leur utilisation est strictement interdite à tout moment pendant le vol.
 
-**8.4.2** Bagages intelligents (avec batteries au lithium intégrées – 100 Wh maximum)
+**8.4.2** Bagages intelligents en cabine (avec batteries au lithium intégrées de 100 Wh maximum)
 
-Vous pouvez emporter un bagage intelligent (bagage cabine équipé d’une batterie au lithium intégrée et d’un port de chargement) en guise de bagage à main.
+Vous pouvez emporter un bagage intelligent (un bagage en cabine avec une batterie au lithium intégrée et un port de chargement) en guise de bagage à main, dans le respect des conditions suivantes :
+
+Si la batterie est amovible :
+
+*   elle doit être retirée et ;
+*   placée dans un petit bagage en cabine sous le siège devant vous ou sur vous.
+*   la batterie retirée ne doit pas dépasser 100 Wh.
+
+Si la batterie n’est pas amovible :
+
+*   elle ne doit pas dépasser 2,7 Wh ;
+*   les bagages intelligents avec des batteries non amovibles de plus de 2,7 Wh ne sont pas autorisés à bord.
 
 **8.4.3** Appareils électroniques et batteries de rechange en cabine (100 Wh maximum)   
  
@@ -509,13 +520,15 @@ Vous pouvez emporter un bagage intelligent (bagage cabine équipé d’une batte
 *   Vous pouvez transporter jusqu’à 15 appareils électroniques personnels (y compris, mais sans s’y limiter : smartphones, tablettes, ordinateurs portables, appareils photo, consoles de jeux portables, écouteurs, batteries externes).    
       
     
-*   Vous pouvez également transporter jusqu’à 20 batteries au lithium de rechange, à condition qu’elles ne dépassent pas 100 Wh chacune.    
-      
-    
-*   Les batteries de rechange et les batteries externes doivent être conservées dans votre bagage à main uniquement (elles ne sont pas autorisées dans les bagages enregistrés).    
-      
-    
+*   Les batteries de rechange au lithium (y compris les blocs d’alimentation) doivent être protégées individuellement pour éviter les courts-circuits en les plaçant dans leur emballage d’origine ou en isolant les bornes en les scotchant ou en plaçant chaque batterie dans un sac en plastique ou une pochette de protection séparés et en les transportant dans un bagage à main uniquement.
+*   Vous pouvez également transporter jusqu’à 20 batteries au lithium de rechange, à condition qu’elles ne dépassent pas 100 Wh chacune.  
+*   Les batteries de rechange au lithium, y compris les blocs d’alimentation amenés en cabine,
+    *   ne doivent pas être utilisées pour charger ou alimenter d’autres appareils électroniques portables pendant la circulation au sol, le décollage ou l’atterrissage.
+    *   ne doivent pas dépasser 100 Wh.
+    *   ne doivent pas être placées dans le bagage en cabine rangé dans le compartiment au-dessus de votre tête.
+    *   doivent être placées dans le bagage en cabine sous le siège devant vous ou sur vous.  
 *   Les dispositifs ou les batteries de plus de 100 Wh ne sont pas autorisés en cabine ou en soute (à l’exception des batteries de chaise roulante électrique).
+*   Les batteries de rechange, y compris les blocs d’alimentation, ne sont pas autorisées dans les bagages enregistrés. 
 
 8.5 Objets interdits en cabine
 
@@ -600,8 +613,10 @@ Tout objet tranchant se trouvant dans vos bagages enregistrés doit être solide
 Un bagage intelligent (un bagage avec une batterie au lithium intégrée et un port de chargement) peut être enregistré comme bagage en soute uniquement si la batterie au lithium est retirée avant l'enregistrement du bagage au comptoir dépose-bagages ou à la porte d'embarquement.
 
 *   La batterie ne doit en aucun cas être mise en soute.
-*   Une fois retirée, la batterie doit être transportée en cabine.
-*   Seules les batteries au lithium d'une puissance maximale de 100 Wh sont autorisées.   
+*   La batterie retirée doit être emportée en cabine et placée dans un petit bagage à ranger sous le siège devant vous ou sur vous.
+*   Les batteries retirées ne doivent pas être placées dans les compartiments situés au-dessus de votre tête.
+*   Si la batterie n’est pas amovible, le bagage n’est pas autorisé en tant que bagage enregistré.
+*   Seules les batteries au lithium d’une puissance maximale de 100 Wh sont autorisées en cabine.
 
 **8.6.9** Les détails sur notre service de dépose-bagage express sont disponibles dans nos règlements concernant les bagages enregistrés.
 
@@ -637,11 +652,11 @@ Un bagage intelligent (un bagage avec une batterie au lithium intégrée et un p
 *   passeports et autres documents d'identité/de voyage.
     
 
-Pour des raisons de sécurité, les articles suivants ne doivent pas être placés dans les bagages enregistrés. Ils doivent être transportés avec vous en  
-cabine (dans votre bagage à main ou sur vous) :  
+Pour des raisons de sécurité, les articles suivants ne doivent pas être placés dans les bagages enregistrés. Ils doivent être transportés avec vous en cabine (dans votre bagage à main ou sur vous) :  
 
-*   appareils électroniques personnels, tels que les ordinateurs portables, les tablettes et les téléphones portables ;
-*   batteries au lithium et batteries externes de rechange (elles ne doivent pas dépasser 100 Wh chacune et ne sont autorisées qu'en bagage cabine) ;
+*   Les appareils électroniques personnels, tels que les ordinateurs portables, les tablettes et les téléphones portables, lorsqu’ils sont allumés.
+*   Batteries de rechange au lithium et blocs d’alimentation (d’une puissance maximale de 100 Wh chacun et autorisés uniquement dans les petits bagages en cabine rangés sous le siège devant vous ou sur vous)
+*   Les batteries de rechange au lithium ne doivent pas être placées dans les compartiments situés au-dessus de votre tête.
 *   allumettes de sûreté ou briquets dont le combustible/fluide est entièrement absorbé dans un solide, destinés à être utilisés par une personne. Ils ne doivent être portés que sur la personne 
 *   cigarettes électroniques (cigarettes électroniques/vapoteuses).
 
@@ -738,8 +753,8 @@ Liquides et solides inflammables, substances provoquant des réactions chimiques
 
 **Articles interdits alimentés par batterie**
 
-Véhicules alimentés par batterie lithium-ion, y compris les hoverboards, trottinettes électriques, segways et dispositifs similaires. Seuls les fauteuils roulants électriques et aides à la mobilité conformes à nos réglementations sont acceptés. (Ajouter le lien)  
-Valises intelligentes dont la batterie lithium n’a pas été retirée. Si retirée, la batterie (max 100Wh) doit être transportée en cabine.
+*   Véhicules alimentés par batterie au lithium-ion, y compris les hoverboards, les trottinettes électriques, les vélos électriques, les segways et les appareils similaires. Seules les chaises roulantes électriques et les aides à la mobilité conformes à nos réglementations sont acceptées.
+*   Valises intelligentes dont la batterie lithium n’a pas été retirée. Si retirée, la batterie (max 100Wh) doit être transportée en cabine.
 
 **Autres articles interdits** 
 
