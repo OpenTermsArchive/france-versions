@@ -143,14 +143,13 @@
 *   TOP MARQUES
     *   [Voir toutes les marques](https://www.printemps.com/fr/fr/marques-femme)
     *   [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
+    *   [Au Printemps Paris](https://www.printemps.com/fr/fr/auprintempsparis-femme)
     *   [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme)
-    *   [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
     *   [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
     *   [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
     *   [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
+    *   [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
     *   [Prada](https://www.printemps.com/fr/fr/prada-femme)
-    *   [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
-    *   [Guess](https://www.printemps.com/fr/fr/guess-femme)
     *    [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-femme)
         
 
@@ -234,10 +233,10 @@
     *   [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
     *   [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
     *   [AMI Paris](https://www.printemps.com/fr/fr/amiparis-homme)
+    *   [Au Printemps Paris](https://www.printemps.com/fr/fr/auprintempsparis-homme)
     *   [Prada](https://www.printemps.com/fr/fr/prada-homme)
     *   [Moncler](https://www.printemps.com/fr/fr/moncler-homme)
     *   [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
-    *   [Paul Smith](https://www.printemps.com/fr/fr/paul-smith-homme)
     *   [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
     *    [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-homme)
         
@@ -348,7 +347,7 @@
     *   [Moncler](https://www.printemps.com/fr/fr/moncler-femme)
     *   [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
     *   [Jonak](https://www.printemps.com/fr/fr/jonak-femme)
-    *   [Chloé](https://www.printemps.com/fr/fr/chloe-femme)
+    *   [Au Printemps Paris](https://www.printemps.com/fr/fr/auprintempsparis-femme)
     *   [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
     *   [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
     *   [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
