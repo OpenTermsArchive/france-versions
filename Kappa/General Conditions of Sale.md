@@ -202,7 +202,7 @@ Les retours de Produits et les remboursements se feront selon les modalités pr�
 
 Le Client doit vérifier que le contenu du colis est conforme à sa Commande.
 
-Si le ou les Produit(s) livré(s) n’est (ne sont) pas conforme(s) à la Commande du fait de KAPPA FRANCE, le Client pourra, conformément aux dispositions ci-dessous (ARTICLE 8) et dans un délai de soixante (60) jours à compter de la date de la commande demander son remboursement. En cas d'impossibilité de remplacer le ou les Produit(s), KAPPA FRANCE procédera au remboursement.
+Si le ou les Produit(s) livré(s) n’est (ne sont) pas conforme(s) à la Commande du fait de KAPPA FRANCE, le Client pourra, conformément aux dispositions ci-dessous (ARTICLE 8) et dans un délai de quatorze (14) jours à compter de la date de la commande demander son remboursement. En cas d'impossibilité de remplacer le ou les Produit(s), KAPPA FRANCE procédera au remboursement.
 
 Les remboursements se feront selon les modalités prévues au 8.3.
 
@@ -210,7 +210,7 @@ Les remboursements se feront selon les modalités prévues au 8.3.
 
 **8.1 Rétractation**
 
-Le Client ayant la qualité de consommateur, dispose d'un délai de rétractation de soixante (60) jours à compter de la commande du ou des Produit(s) commandé(s), sans avoir à justifier de motifs.
+Le Client ayant la qualité de consommateur, dispose d'un délai de rétractation de quatorze (14) jours à compter de la commande du ou des Produit(s) commandé(s), sans avoir à justifier de motifs.
 
 Dans ce cas, le Client informe KAPPA FRANCE de sa décision au moyen d'une déclaration écrite dénuée d'ambiguïté, par exemple en renvoyant le formulaire ci-dessous par email (service.clients@kappa.fr) ou par courrier (à l’adresse 41 rue de Bobby Sands, 44800 SAINT-HERBLAIN) :
 
@@ -230,7 +230,7 @@ Date : … (à compléter)
 
 Signature du consommateur : … (uniquement en cas de notification du présent formulaire sur papier)
 
-Si les conditions ci-dessus sont remplies, KAPPA FRANCE procèdera au remboursement des paiements reçus du Client au titre de la Commande pour les Produits visés (hors frais de livraison). Ce remboursement sera effectué par crédit sur le compte bancaire du Client correspondant à la carte bancaire ayant servi au paiement dans un délai de soixante (60) jours à compter de la date de l’exercice du droit de rétractation et sous réserve du bon retour du Produit.
+Si les conditions ci-dessus sont remplies, KAPPA FRANCE procèdera au remboursement des paiements reçus du Client au titre de la Commande pour les Produits visés (hors frais de livraison). Ce remboursement sera effectué par crédit sur le compte bancaire du Client correspondant à la carte bancaire ayant servi au paiement dans un délai de quatorze (14) jours à compter de la date de l’exercice du droit de rétractation et sous réserve du bon retour du Produit.
 
 **8.2 Produits personnalisés**
 
@@ -238,9 +238,9 @@ Le Client est informé que le présent droit de rétractation n'est pas applicab
 
 **8.3 Retour – remboursement**
 
-Tout article qui ne vous conviendrait pas peut vous être remboursé, vous disposez de 60 jours à compter de la date de commande pour effectuer le retour.
+Tout article qui ne vous conviendrait pas peut vous être remboursé, vous disposez de 14 jours à compter de la date de commande pour effectuer le retour.
 
-Les frais de retour des articles sont à votre charge. Les Produits doivent être renvoyés par le Client dans un délai de soixante (60) jours suivant la date de notification de la rétractation ou la date de la confirmation par KAPPA FRANCE de l’accord de retour en cas de non-conformité, et dans les conditions suivantes :
+Les frais de retour des articles sont à votre charge. Les Produits doivent être renvoyés par le Client dans un délai de quatorze (14) jours suivant la date de notification de la rétractation ou la date de la confirmation par KAPPA FRANCE de l’accord de retour en cas de non-conformité, et dans les conditions suivantes :
 
 *   Dans leur emballage d’origine ;
 *   Complets (accessoires, notices) ;
@@ -252,7 +252,7 @@ Les Produits qui ne seraient pas retournés dans les délais et dans les conditi
 
 A réception du colis, KAPPA FRANCE jugera du parfait état de la marchandise retournée. Si le retour est refusé par KAPPA FRANCE, les Produits seront alors retournés au Client aux frais de KAPPA FRANCE sans que Le Client puisse exiger une quelconque compensation ou droit à remboursement.
 
-Si les conditions ci-dessus sont remplies, KAPPA FRANCE procèdera au remboursement des paiements reçus du Client au titre de la Commande pour les Produits visés (hors frais de livraison et frais de retours déduits). Ce remboursement sera effectué par crédit sur le compte bancaire du Client correspondant à la carte bancaire ayant servi au paiement dans un délai de soixante (60) jours à compter de la date de l’exercice du droit de rétractation et sous réserve du bon retour du Produit.
+Si les conditions ci-dessus sont remplies, KAPPA FRANCE procèdera au remboursement des paiements reçus du Client au titre de la Commande pour les Produits visés (hors frais de livraison et frais de retours déduits). Ce remboursement sera effectué par crédit sur le compte bancaire du Client correspondant à la carte bancaire ayant servi au paiement dans un délai de quatorze (14) jours à compter de la date de l’exercice du droit de rétractation et sous réserve du bon retour du Produit.
 
 **ARTICLE 9 – DISPONIBILITE DU SITE**
 
