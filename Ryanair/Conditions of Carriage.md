@@ -953,7 +953,13 @@ ARTICLE 13 - FORMALITÉS ADMINISTRATIVES
 
 ==========================
 
-Avant le voyage, vous devez présenter tous les documents d’entrée, de sortie, les documents sanitaires et autres exigés par la législation, les réglementations, les ordonnances, les obligations ou autres exigences des pays concernés et nous permettre d’en faire et d’en conserver des copies. Nous nous réservons le droit de vous refuser l’accès à bord si vous ne respectez pas ces exigences et celles énoncées dans nos Règlements ou s’il s’avère que vos documents de voyage ne sont pas en règle (cliquer ici pour accéder au Règlement concernant les documents de voyage).
+Avant l’embarquement, vous devez présenter tous les documents de sortie, d’entrée, sanitaires et autres requis par la loi ou la réglementation des pays concernés. Pour les passagers voyageant vers le Royaume-Uni, cela peut inclure une autorisation de voyage électronique (ETA).
+
+Vous devez également nous autoriser à effectuer et à conserver des copies de ces documents. Nous pouvons refuser le transport si:
+
+*   vous n’avez pas les documents de voyage requis ;
+*   vous ne respectez pas nos réglementations en matière de documents de voyage ; ou
+*   vos documents ne semblent pas valides.
 
 13.3 REFUS D’ENTRÉE
 
