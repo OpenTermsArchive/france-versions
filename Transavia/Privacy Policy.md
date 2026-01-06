@@ -9,15 +9,15 @@ La présente déclaration de confidentialité décrit la façon dont nous recuei
   
 Dans cette déclaration de confidentialité, nous communiquons plus d’informations concernant les données personnelles que nous collectons et utilisons et nous expliquons quels sont vos droits. Veuillez cliquer sur la section appropriée ci-dessous pour en savoir plus.
 
-*   [1\. Qui sommes-nous ?](#id-3ad2f32b-86d7-4a19-a9fc-4a70bef57583)
-*   [2\. Les types de données personnelles que nous traitons](#id-4f2ac446-59d0-40dd-966c-5880bb609dc9)
-*   [3\. Comment recueillons-nous vos données ?](#id-e862beb1-9c40-4d06-bf1b-9457f334d6c1)
-*   [4\. Fins auxquelles nous utilisons vos données](#id-e470f637-6e6f-43de-a6d8-32eccead5b94)
-*   [5 Transmission ou partage de données avec des parties tierces](#id-50deef6d-0f24-4c16-9ad7-f5090a4b20ba)
-*   [Sécurité et conservation](#id-f7c6f813-5b29-4e20-9c83-b70276c6436d)
-*   [7\. Le transfert international de vos données](#id-2c4065bc-2c05-4476-b324-0c54f975eebd)
-*   [8\. Vos droits](#id-85cbe0d7-4513-46bc-9526-63da8369756b)
-*   [9\. Comment cette déclaration de confidentialité est-elle mise à jour ?](#id-86113b15-d1d9-403b-87ff-efa43f0ee4d9)
+*   [1\. Qui sommes-nous ?](#id-61306761-e302-43e0-8c29-3ee7fb5ca110)
+*   [2\. Les types de données personnelles que nous traitons](#id-ec4b089a-56a4-4ed4-8c47-6e45be303177)
+*   [3\. Comment recueillons-nous vos données ?](#id-b5ed1e70-7773-4f6c-a03f-55478ca68846)
+*   [4\. Fins auxquelles nous utilisons vos données](#id-76181602-8c94-42b7-9f36-d8a91c6e58c6)
+*   [5 Transmission ou partage de données avec des parties tierces](#id-6d1c892b-ac54-4b15-afcd-b1f3c44435bb)
+*   [Sécurité et conservation](#id-4f529050-5b2e-4090-b2d0-478d0d81b8f8)
+*   [7\. Le transfert international de vos données](#id-437d2dd8-ede4-40e3-ab33-0c2f49aa15ad)
+*   [8\. Vos droits](#id-28b02486-7d82-41b8-828e-b73be0c7bcd1)
+*   [9\. Comment cette déclaration de confidentialité est-elle mise à jour ?](#id-77bcfe6e-920f-4c98-a745-d3987e71e111)
 
 1\. Qui sommes-nous ?
 ---------------------
@@ -52,15 +52,15 @@ La présente déclaration de confidentialité décrit la façon dont nous recuei
   
 Dans cette déclaration de confidentialité, nous communiquons plus d’informations concernant les données personnelles que nous collectons et utilisons et nous expliquons quels sont vos droits. Veuillez cliquer sur la section appropriée ci-dessous pour en savoir plus.
 
-*   [1\. Qui sommes-nous ?](#id-3ad2f32b-86d7-4a19-a9fc-4a70bef57583)
-*   [2\. Les types de données personnelles que nous traitons](#id-4f2ac446-59d0-40dd-966c-5880bb609dc9)
-*   [3\. Comment recueillons-nous vos données ?](#id-e862beb1-9c40-4d06-bf1b-9457f334d6c1)
-*   [4\. Fins auxquelles nous utilisons vos données](#id-e470f637-6e6f-43de-a6d8-32eccead5b94)
-*   [5 Transmission ou partage de données avec des parties tierces](#id-50deef6d-0f24-4c16-9ad7-f5090a4b20ba)
-*   [Sécurité et conservation](#id-f7c6f813-5b29-4e20-9c83-b70276c6436d)
-*   [7\. Le transfert international de vos données](#id-2c4065bc-2c05-4476-b324-0c54f975eebd)
-*   [8\. Vos droits](#id-85cbe0d7-4513-46bc-9526-63da8369756b)
-*   [9\. Comment cette déclaration de confidentialité est-elle mise à jour ?](#id-86113b15-d1d9-403b-87ff-efa43f0ee4d9)
+*   [1\. Qui sommes-nous ?](#id-61306761-e302-43e0-8c29-3ee7fb5ca110)
+*   [2\. Les types de données personnelles que nous traitons](#id-ec4b089a-56a4-4ed4-8c47-6e45be303177)
+*   [3\. Comment recueillons-nous vos données ?](#id-b5ed1e70-7773-4f6c-a03f-55478ca68846)
+*   [4\. Fins auxquelles nous utilisons vos données](#id-76181602-8c94-42b7-9f36-d8a91c6e58c6)
+*   [5 Transmission ou partage de données avec des parties tierces](#id-6d1c892b-ac54-4b15-afcd-b1f3c44435bb)
+*   [Sécurité et conservation](#id-4f529050-5b2e-4090-b2d0-478d0d81b8f8)
+*   [7\. Le transfert international de vos données](#id-437d2dd8-ede4-40e3-ab33-0c2f49aa15ad)
+*   [8\. Vos droits](#id-28b02486-7d82-41b8-828e-b73be0c7bcd1)
+*   [9\. Comment cette déclaration de confidentialité est-elle mise à jour ?](#id-77bcfe6e-920f-4c98-a745-d3987e71e111)
 
 1\. Qui sommes-nous ?
 ---------------------
