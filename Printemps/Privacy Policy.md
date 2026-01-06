@@ -1,15 +1,5 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
-*   [Voir tout](https://www.printemps.com/fr/fr/avant-premieres)
-
-*   [FEMME](https://www.printemps.com/fr/fr/avant-premieres-femme)
-
-*   [HOMME](https://www.printemps.com/fr/fr/avant-premieres-homme)
-
-*   [BEAUTÉ](https://www.printemps.com/fr/fr/avant-premieres-beaute)
-
-*   [MAISON](https://www.printemps.com/fr/fr/avant-premieres-maison)
-
 *   [COLLECTION AUTOMNE-HIVER](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
     
 *   [COLLECTION PRINTEMPS-ÉTÉ](https://www.printemps.com/fr/fr/collection-printemps-ete)
