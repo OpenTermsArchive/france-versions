@@ -393,7 +393,7 @@ Cette dernière disposition ne s’applique pas pour la Suisse, Andorre, Monaco 
 
   
 
-\- France Métropolitaine, Corse et Monaco : retour gratuit par réseau Relais Colis ou Mondial Relay. Offert par SPARTOO. Tous les autres modes de retour seront à la charge du client.  
+\- France Métropolitaine, Corse et Monaco : retour gratuit par réseau Chrono Relais (Shop2Shop) ou Mondial Relay. Offert par SPARTOO. Tous les autres modes de retour seront à la charge du client.  
 \- Belgique : retour gratuit avec BPost. Offert par SPARTOO. Tous les autres modes de retour seront à la charge du client.  
 \- Luxembourg : Le mode de retour seront à la charge du client.  
 \- Andorre, Suisse et DROM-COM : transporteur au choix du client. Retour à la charge du client.  
