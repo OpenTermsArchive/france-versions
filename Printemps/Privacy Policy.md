@@ -1,5 +1,53 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
+*   [SOLDES : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes)
+    
+*   [\-20€ dès 200€ d'achats\*](https://www.printemps.com/fr/fr/booster-soldes-20)
+    
+*   [FEMME](https://www.printemps.com/fr/fr/soldes-femme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/soldes-femme)
+    *   [Luxe](https://www.printemps.com/fr/fr/soldes-luxe-femme)
+    *   [Vêtements](https://www.printemps.com/fr/fr/soldes-pret-a-porter-femme)
+    *   [Accessoires](https://www.printemps.com/fr/fr/soldes-accessoires-femme)
+    *   [Chaussures](https://www.printemps.com/fr/fr/soldes-chaussures-femme)
+    *   [Baskets](https://www.printemps.com/fr/fr/soldes-sneakers-femme)
+    *   [Manteaux](https://www.printemps.com/fr/fr/soldes-manteaux-femme)
+    *   [Pulls](https://www.printemps.com/fr/fr/soldes-pulls-femme)
+*   [BEAUTÉ](https://www.printemps.com/fr/fr/soldes-beaute)
+    *   [Voir tout](https://www.printemps.com/fr/fr/soldes-beaute)
+
+*   [HOMME](https://www.printemps.com/fr/fr/soldes-homme)
+    *   [Voir tout](https://www.printemps.com/fr/fr/soldes-homme)
+    *   [Luxe](https://www.printemps.com/fr/fr/soldes-luxe-homme)
+    *   [Vêtements](https://www.printemps.com/fr/fr/soldes-pret-a-porter-homme)
+    *   [Accessoires](https://www.printemps.com/fr/fr/soldes-accessoires-homme)
+    *   [Chaussures](https://www.printemps.com/fr/fr/soldes-chaussures-homme)
+    *   [Baskets](https://www.printemps.com/fr/fr/soldes-sneakers-homme)
+    *   [Manteaux](https://www.printemps.com/fr/fr/soldes-manteaux-homme)
+    *   [Pulls](https://www.printemps.com/fr/fr/soldes-pulls-homme)
+
+*   [REMISES](https://www.printemps.com/fr/fr/soldes)
+    *   [\-30%](https://www.printemps.com/fr/fr/soldes/sld/-30%25)
+    *   [\-40%](https://www.printemps.com/fr/fr/soldes/sld/-40%25)
+    *   \-50%
+
+*   TOP MARQUES
+    *   [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren)
+    *   [Saison 1865](https://www.printemps.com/fr/fr/saison1865)
+    *   [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger)
+    *   [Levi's](https://www.printemps.com/fr/fr/levis)
+    *   [Ugg](https://www.printemps.com/fr/fr/ugg)
+    *   [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein)
+    *   [![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes)
+        
+
+*   [![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes)
+    
+
+[![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes)
+
+[![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes)
+
 *   [COLLECTION AUTOMNE-HIVER](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
     
 *   [COLLECTION PRINTEMPS-ÉTÉ](https://www.printemps.com/fr/fr/collection-printemps-ete)
@@ -54,6 +102,16 @@
     *   [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
     *   [Comment porter le manteau ceinturé ?](https://www.printemps.com/fr/fr/edito-magazine-style-manteau-ceinture-hiver)
     *   [Les bonnes résolutions bien-être de 2026](https://www.printemps.com/fr/fr/edito-magazine-actu-bonnes-resolutions-nouvelle-annee)
+
+*   [SOLDES : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes-femme)
+    *   [Luxe](https://www.printemps.com/fr/fr/soldes-luxe-femme)
+    *   [Sacs](https://www.printemps.com/fr/fr/soldes-sacs-femme)
+    *   [Vêtements](https://www.printemps.com/fr/fr/soldes-pret-a-porter-femme)
+    *   [Accessoires](https://www.printemps.com/fr/fr/soldes-accessoires-femme)
+    *   [Chaussures](https://www.printemps.com/fr/fr/soldes-chaussures-femme)
+    *   [Baskets](https://www.printemps.com/fr/fr/soldes-sneakers-femme)
+    *   [Manteaux](https://www.printemps.com/fr/fr/soldes-manteaux-femme)
+    *   [Pulls](https://www.printemps.com/fr/fr/soldes-pulls-femme)
 
 *   [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     *   [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
@@ -115,7 +173,7 @@
     *   [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
     *   [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
 
-*   [AVANT-PREMIÈRES : Jusqu'à -50%](https://www.printemps.com/fr/fr/avant-premieres-femme)
+*   [SOLDES : -20€ dès 200€ d'achats](https://www.printemps.com/fr/fr/booster-soldes-20-femme)
     
 *   [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-femme)
     
@@ -140,15 +198,24 @@
     *   [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
     *   [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
     *   [Prada](https://www.printemps.com/fr/fr/prada-femme)
-    *    [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-femme)
+    *   [![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-femme)
         
 
-*    [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-femme)
+*   [![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-femme)
     
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-femme)
+[![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-femme)
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-femme)
+[![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-femme)
+
+*   [SOLDES : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes-homme)
+    *   [Luxe](https://www.printemps.com/fr/fr/soldes-luxe-homme)
+    *   [Vêtements](https://www.printemps.com/fr/fr/soldes-pret-a-porter-homme)
+    *   [Accessoires](https://www.printemps.com/fr/fr/soldes-accessoires-homme)
+    *   [Chaussures](https://www.printemps.com/fr/fr/soldes-chaussures-homme)
+    *   [Baskets](https://www.printemps.com/fr/fr/soldes-sneakers-homme)
+    *   [Manteaux](https://www.printemps.com/fr/fr/soldes-manteaux-homme)
+    *   [Pulls](https://www.printemps.com/fr/fr/soldes-pulls-homme)
 
 *   [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     *   [Voir tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -201,7 +268,7 @@
     *   [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     *   [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
-*   [AVANT-PREMIÈRES : Jusqu'à -50%](https://www.printemps.com/fr/fr/avant-premieres-homme)
+*   [SOLDES : -20€ dès 200€ d'achats](https://www.printemps.com/fr/fr/booster-soldes-20-homme)
     
 *   [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme)
     
@@ -228,17 +295,19 @@
     *   [Moncler](https://www.printemps.com/fr/fr/moncler-homme)
     *   [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
     *   [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    *    [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-homme)
+    *   [![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-femme)
         
 
-*    [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-homme)
+*   [![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-femme)
     
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-homme)
+[![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-femme)
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres-homme)
+[![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-femme)
 
-*   [AVANT-PREMIÈRES : Jusqu'à -50%](https://www.printemps.com/fr/fr/avant-premieres-beaute)
+*   [SOLDES - jusqu'à -50%](https://www.printemps.com/fr/fr/soldes-beaute)
+    
+*   [\-20€ dès 200€ d'achats\*](https://www.printemps.com/fr/fr/booster-soldes-20-beaute)
     
 *   [L’ESPACE BEAUTÉ](https://www.printemps.com/fr/fr/espace-beaute)
     
@@ -308,15 +377,15 @@
     *   [Parfums de marly](https://www.printemps.com/fr/fr/parfum-parfums-de-marly)
     *   [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     *   [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-    *    [![Image d'illustration](https://media-cdn.printemps.com/image/36/3/8826363.jpg)](https://www.printemps.com/fr/fr/avant-premieres-beaute)
+    *    [![Image d'illustration](https://media-cdn.printemps.com/image/55/5/8836555.jpg)](https://www.printemps.com/fr/fr/offre-beaute)
         
 
-*    [![Image d'illustration](https://media-cdn.printemps.com/image/36/3/8826363.jpg)](https://www.printemps.com/fr/fr/avant-premieres-beaute)
+*    [![Image d'illustration](https://media-cdn.printemps.com/image/55/5/8836555.jpg)](https://www.printemps.com/fr/fr/offre-beaute)
     
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/36/3/8826363.jpg)](https://www.printemps.com/fr/fr/avant-premieres-beaute)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/55/5/8836555.jpg)](https://www.printemps.com/fr/fr/offre-beaute)
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/36/3/8826363.jpg)](https://www.printemps.com/fr/fr/avant-premieres-beaute)
+ [![Image d'illustration](https://media-cdn.printemps.com/image/55/5/8836555.jpg)](https://www.printemps.com/fr/fr/offre-beaute)
 
 *   [SPÉCIAL BLANC : Jusqu'à -40%](https://www.printemps.com/fr/fr/blanc-dhiver)
 
@@ -488,7 +557,7 @@
 
 *   [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
 
- [![Image d'illustration](https://media-cdn.printemps.com/image/36/4/8826364.jpg)](https://www.printemps.com/fr/fr/avant-premieres)
+[![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes)
 
   
 
