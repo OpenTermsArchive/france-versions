@@ -198,15 +198,15 @@
     *   [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
     *   [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
     *   [Prada](https://www.printemps.com/fr/fr/prada-femme)
-    *   [![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-femme)
+    *   [![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-homme)
         
 
-*   [![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-femme)
+*   [![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-homme)
     
 
-[![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-femme)
+[![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-homme)
 
-[![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-femme)
+[![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-homme)
 
 *   [SOLDES : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes-homme)
     *   [Luxe](https://www.printemps.com/fr/fr/soldes-luxe-homme)
@@ -295,15 +295,15 @@
     *   [Moncler](https://www.printemps.com/fr/fr/moncler-homme)
     *   [Lacoste](https://www.printemps.com/fr/fr/lacoste-homme)
     *   [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    *   [![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-femme)
+    *   [![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-homme)
         
 
-*   [![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-femme)
+*   [![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-homme)
     
 
-[![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-femme)
+[![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-homme)
 
-[![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-femme)
+[![Image d'illustration](https://media-cdn.printemps.com/image/88/5/8823885.jpg)](https://www.printemps.com/fr/fr/soldes-homme)
 
 *   [SOLDES - jusqu'à -50%](https://www.printemps.com/fr/fr/soldes-beaute)
     
