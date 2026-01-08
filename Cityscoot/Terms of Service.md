@@ -4,11 +4,11 @@ d’utilisation du service
 
 Dernière mise à jour le 1 février 2023
 
-Les présentes Conditions Générales d’Utilisation du Service (ci-après nommées « CGUS ») définissent, à compter de leur acceptation par le Client, les conditions d’accès et d’utilisation du Service CITYSCOOT, tels que ces termes sont définis ci-après.
+Les présentes Conditions Générales d’Utilisation du Service (ci-après nommées « CGUS ») définissent, à compter de leur acceptation par le Client, les conditions d’accès et d’utilisation du Service Sitedeparis-sportif, tels que ces termes sont définis ci-après.
 
-CITYSCOOT est un service de mobilité électrique proposé par la société CITYSCOOT, société par actions simplifiée au capital de 16 100 903,80 euros, immatriculée au RCS de Paris sous le numéro, dont le siège social est situé 8 rue Bayen, 75017 Paris. Ce service a pour objet de proposer à ses Utilisateurs une offre de déplacement en scooter électrique par le recours à une Location courte durée de scooters électriques en libre-service. Toute utilisation du Service CITYSCOOT implique le respect des CGUS par l’Utilisateur.
+Sitedeparis-sportif est un service de mobilité électrique proposé par la société Sitedeparis-sportif, société par actions simplifiée au capital de 16 100 903,80 euros, immatriculée au RCS de Paris sous le numéro, dont le siège social est situé 8 rue Bayen, 75017 Paris. Ce service a pour objet de proposer à ses Utilisateurs une offre de déplacement en scooter électrique par le recours à une Location courte durée de scooters électriques en libre-service. Toute utilisation du Service Sitedeparis-sportif implique le respect des CGUS par l’Utilisateur.
 
-Les présentes CGUS sont destinées aux Utilisateurs du Service CITYSCOOT sur le territoire français. Les Utilisateurs souhaitant accéder au Service dans un autre pays sont invités à consulter les CGUS du pays concerné sur le Site Internet [www.cityscoot.eu.com](https://www.cityscoot.eu.com/) et à les accepter dans l’Application. Par ailleurs, les Utilisateurs souhaitant accéder au Service CITYSCOOT dans une autre ville seront susceptibles d’être invités dans l’Application à lire et accepter les CGUS applicables dans cette ville.
+Les présentes CGUS sont destinées aux Utilisateurs du Service Sitedeparis-sportif sur le territoire français. Les Utilisateurs souhaitant accéder au Service dans un autre pays sont invités à consulter les CGUS du pays concerné sur le Site Internet [www.Sitedeparis-sportif.eu.com](https://www.cityscoot.eu.com/) et à les accepter dans l’Application. Par ailleurs, les Utilisateurs souhaitant accéder au Service Sitedeparis-sportif dans une autre ville seront susceptibles d’être invités dans l’Application à lire et accepter les CGUS applicables dans cette ville.
 
   **ARTICLE 1 – DÉFINITIONS**
 
@@ -22,11 +22,11 @@ désigne le(s) Casque(s) homologué(s), les Documents de Bord et les charlottes 
 
 **« Application »**
 
-désigne l’application mobile de CITYSCOOT (ou l’application mobile d’un partenaire tiers le cas échéant) qui permet notamment à l’Utilisateur de réserver un Scooter.
+désigne l’application mobile de Sitedeparis-sportif (ou l’application mobile d’un partenaire tiers le cas échéant) qui permet notamment à l’Utilisateur de réserver un Scooter.
 
 **« Casque »**
 
-désigne les casques appartenant à CITYSCOOT, situés sous la selle et/ou dans le Citycase (top-case) lorsqu’il est installé et activé, et mis à la disposition de l’Utilisateur.
+désigne les casques appartenant à Sitedeparis-sportif , situés sous la selle et/ou dans le Citycase (top-case) lorsqu’il est installé et activé, et mis à la disposition de l’Utilisateur.
 
 « **Citycase** »
 
@@ -34,7 +34,7 @@ désigne le top-case installé sur le Scooter et contenant un Casque lorsqu’il
 
 **« Client »**
 
-désigne toute personne physique majeure ayant créé son compte CITYSCOOT en renseignant son email et un mot de passe et ayant accepté les présentes CGUS. Le Client ne peut utiliser le Service qu’à compter de la finalisation de son Inscription au Service.
+désigne toute personne physique majeure ayant créé son compte Sitedeparis-sportif en renseignant son email et un mot de passe et ayant accepté les présentes CGUS. Le Client ne peut utiliser le Service qu’à compter de la finalisation de son Inscription au Service.
 
 **« Code de Réservation »**
 
@@ -50,7 +50,7 @@ désigne l’ensemble des documents suivants : la copie du certificat d’assura
 
 **« Espace Personnel »**
 
-désigne l’espace de gestion en ligne accessible par l’Utilisateur ayant un compte Cityscoot via une rubrique « Mon compte », accessible sur le Site Internet [www.cityscoot.eu.com](https://www.cityscoot.eu.com/)  ou depuis l’Application après authentification, depuis lequel l’Utilisateur a notamment la possibilité de gérer ses informations personnelles, de consulter son historique de Locations et ses factures CITYSCOOT, ou d’acheter des minutes de Location prépayées.
+désigne l’espace de gestion en ligne accessible par l’Utilisateur ayant un compte Sitedeparis-sportif via une rubrique « Mon compte », accessible sur le Site Internet [www.Sitedeparis-sportif .eu.com](https://www.cityscoot.eu.com/)  ou depuis l’Application après authentification, depuis lequel l’Utilisateur a notamment la possibilité de gérer ses informations personnelles, de consulter son historique de Locations et ses factures Sitedeparis-sportif , ou d’acheter des minutes de Location prépayées.
 
 **« Identifiants »**
 
@@ -58,15 +58,15 @@ désigne l’adresse email (et le cas échéant le numéro de téléphone portab
 
 **« Inscription »**
 
-désigne le processus d’enregistrement d’un futur Utilisateur au Service CITYSCOOT, dans les conditions mentionnées à l’article 5.1 des présentes CGUS. L’Inscription au Service CITYSCOOT est gratuite.
+désigne le processus d’enregistrement d’un futur Utilisateur au Service Sitedeparis-sportif , dans les conditions mentionnées à l’article 5.1 des présentes CGUS. L’Inscription au Service Sitedeparis-sportif est gratuite.
 
 **« Location »**
 
-désigne le temps d’utilisation du Scooter par un Utilisateur. La Location démarre dès la saisie du Code de Réservation sur le Scooter et se termine à l’initiative de l’Utilisateur (via le bouton FIN du clavier du Scooter ou via l’Application (si celle-ci le permet), une fois le Scooter verrouillé et la diode « Libre » allumée sur le Scooter) sous réserve du respect de la procédure de restitution du Scooter visée à l’article 7.4.6 ou à l’initiative de CITYSCOOT dans les cas prévus à l’article 7.4.8.
+désigne le temps d’utilisation du Scooter par un Utilisateur. La Location démarre dès la saisie du Code de Réservation sur le Scooter et se termine à l’initiative de l’Utilisateur (via le bouton FIN du clavier du Scooter ou via l’Application (si celle-ci le permet), une fois le Scooter verrouillé et la diode « Libre » allumée sur le Scooter) sous réserve du respect de la procédure de restitution du Scooter visée à l’article 7.4.6 ou à l’initiative de Sitedeparis-sportif dans les cas prévus à l’article 7.4.8.
 
 **« Programme de Fidélité »**
 
-désigne le programme de fidélité de CITYSCOOT visé à l’article 14.2.
+désigne le programme de fidélité de Sitedeparis-sportif visé à l’article 14.2.
 
 **« Pause »**
 
@@ -78,27 +78,27 @@ désigne l’action de réserver un Scooter via l’Application avant la Locatio
 
 **« Scooter »**
 
-désigne l’un des scooters électriques identifié par sa plaque d’immatriculation ou son numéro personnel et mis à la disposition des Utilisateurs par CITYSCOOT.
+désigne l’un des scooters électriques identifié par sa plaque d’immatriculation ou son numéro personnel et mis à la disposition des Utilisateurs par Sitedeparis-sportif .
 
-**« Service » ou « Service CITYSCOOT »**
+**« Service » ou « Service Sitedeparis-sportif »**
 
-désigne le service de location de courte durée de Scooters en libre-service proposé par la société CITYSCOOT ou par toute société contrôlée par CITYSCOOT au sens de l’article L.233-3 du Code de commerce.
+désigne le service de location de courte durée de Scooters en libre-service proposé par la société Sitedeparis-sportif ou par toute société contrôlée par Sitedeparis-sportif au sens de l’article L.233-3 du Code de commerce.
 
 **« Service Client »**
 
-désigne le centre d’information et d’assistance de CITYSCOOT mis à disposition des Utilisateurs pour répondre à leurs questions et réclamations via différents canaux définis à l’article 7.2.
+désigne le centre d’information et d’assistance de Sitedeparis-sportif mis à disposition des Utilisateurs pour répondre à leurs questions et réclamations via différents canaux définis à l’article 7.2.
 
 **« Site Internet »**
 
-désigne le site web du Service CITYSCOOT disponible à l’adresse [www.cityscoot.eu.com](https://www.cityscoot.eu.com/) .
+désigne le site web du Service Sitedeparis-sportif disponible à l’adresse [www.Sitedeparis-sportif.eu.com](https://www.sitedeparis-sportif.eu.com/) .
 
 **« Utilisateur »**
 
-désigne tout Client, remplissant l’ensemble des conditions énoncées à l’article 4 des présentes, ayant créé un compte CITYSCOOT ou un compte dans l’application d’un partenaire tiers, et finalisé son Inscription lui permettant d’utiliser et de bénéficier du Service CITYSCOOT dans les conditions des présentes CGUS.
+désigne tout Client, remplissant l’ensemble des conditions énoncées à l’article 4 des présentes, ayant créé un compte Sitedeparis-sportif ou un compte dans l’application d’un partenaire tiers, et finalisé son Inscription lui permettant d’utiliser et de bénéficier du Service Sitedeparis-sportif dans les conditions des présentes CGUS.
 
-**« Zone CITYSCOOT »**
+**« Zone Sitedeparis-sportif »**
 
-désigne une zone géographique définie par CITYSCOOT à l’intérieur de laquelle l’Utilisateur peut terminer sa Location en restituant le Scooter sur un emplacement public autorisé au stationnement des deux roues motorisés de son choix situé à l’intérieur de cette zone. Les Zones CITYSCOOT sont visibles dans l’Application. Sur le Scooter, un voyant lumineux jaune situé sur le guidon s’illumine lorsqu’il est situé en dehors de cette zone. CITYSCOOT se réserve le droit de modifier l’étendue géographique d’une Zone CITYSCOOT à tout moment.
+désigne une zone géographique définie par Sitedeparis-sportif à l’intérieur de laquelle l’Utilisateur peut terminer sa Location en restituant le Scooter sur un emplacement public autorisé au stationnement des deux roues motorisés de son choix situé à l’intérieur de cette zone. Les Zones Sitedeparis-sportif sont visibles dans l’Application. Sur le Scooter, un voyant lumineux jaune situé sur le guidon s’illumine lorsqu’il est situé en dehors de cette zone. Sitedeparis-sportif se réserve le droit de modifier l’étendue géographique d’une Zone Sitedeparis-sportif à tout moment.
 
 **ARTICLE 2 – OBJET**
 
@@ -112,7 +112,7 @@ Toute minute de Location entamée est comptabilisée et facturée comme une minu
 
 Le prix à la minute, le prix des packs et le prix de l’abonnement sont indiqués en ANNEXE 1.
 
-Les prix et les pénalités applicables sont ceux en vigueur au jour de la Réservation. Ils peuvent être modifiés à tout moment par CITYSCOOT dans les conditions (notamment de consentement) fixées à l’article 17.2 des présentes CGUS.
+Les prix et les pénalités applicables sont ceux en vigueur au jour de la Réservation. Ils peuvent être modifiés à tout moment par Sitedeparis-sportif dans les conditions (notamment de consentement) fixées à l’article 17.2 des présentes CGUS.
 
 Les packs de minutes sont valables 365 jours à compter de leur achat.
 
@@ -133,13 +133,13 @@ Pour utiliser le Service, l’Utilisateur doit remplir l’ensemble des conditio
 (ii) passeport quelle que soit la langue, sous réserve qu’il soit libellé en alphabet latin ; ou  
 (iii) titre de séjour français (uniquement pour des personnes résidant en France).
 
-*   Ne pas être débiteur auprès de CITYSCOOT de sommes dont il ne se serait pas acquitté au titre d’une précédente inscription ou Location auprès de CITYSCOOT.
+*   Ne pas être débiteur auprès de Sitedeparis-sportif de sommes dont il ne se serait pas acquitté au titre d’une précédente inscription ou Location auprès de Sitedeparis-sportif.
 
 *   Disposer d’un smartphone fonctionnant sous une version Android ou iOS compatible avec l’Application.
 
 *   Transmettre par voie électronique les informations relatives à une ou plusieurs cartes bancaires Visa ou Mastercard en cours de validité.
 
-CITYSCOOT se réserve la possibilité d’effectuer des contrôles périodiques afin de s’assurer du respect des conditions d’accès au Service susvisées.
+Sitedeparis-sportif se réserve la possibilité d’effectuer des contrôles périodiques afin de s’assurer du respect des conditions d’accès au Service susvisées.
 
 La détention d’un permis « blanc » ou à validité restreinte, ou d’une déclaration de perte ou de vol du permis de conduire ne permettent ni l’accès au Service ni l’utilisation du Service.
 
@@ -158,7 +158,7 @@ Pour s’inscrire et acquérir la qualité d’Utilisateur, le Client doit impé
 *   une adresse e-mail valide,
 *   son adresse de domiciliation complète,
 *   un mot de passe respectant les préconisations de sécurité de À ce titre, l’Utilisateur est invité à choisir un mot de passe distinct de celui utilisé pour d’autres comptes ou services et à changer régulièrement de mot de passe (une à deux fois par an), afin de garantir une sécurité optimale et de se prémunir contre tout risque de fraude,
-*   avoir consulté et accepté les présentes CGUS ainsi que la [Politique de Confidentialité](https://www.cityscoot.eu/politique-de-confidentialite) de CITYSCOOT accessibles sur l’Application et sur le Site Internet [cityscoot.eu.com](https://www.cityscoot.eu.com/),
+*   avoir consulté et accepté les présentes CGUS ainsi que la [Politique de Confidentialité](https://www.cityscoot.eu/politique-de-confidentialite) de Sitedeparis-sportif accessibles sur l’Application et sur le Site Internet sitedeparis-sportif.eu.com,
 *   s’il souhaite recevoir une initiation à la prise en main d’un Scooter,
 *   le numéro d’une ou plusieurs de ses cartes bancaires Visa ou Mastercard en cours de validité sur l’interface de paiement sécurisée pour le paiement ultérieur des factures.
 
@@ -176,19 +176,19 @@ L’Inscription est sans limite de durée tant que l’Utilisateur respecte l’
 
 Le Service étant sans engagement, l’Utilisateur est libre de cesser d’utiliser le Service à tout moment.
 
-À cet effet, l’Utilisateur peut se désinscrire à tout moment en faisant la demande au Service Client par courrier électronique à. Le solde de minutes prépayées ou offertes, s’il est positif, ainsi que tout autre avantage acquis par l’Utilisateur, le cas échéant, au titre du Programme de Fidélité de CITYSCOOT, seront définitivement perdus par l’Utilisateur et ne lui seront en aucun cas remboursés.
+À cet effet, l’Utilisateur peut se désinscrire à tout moment en faisant la demande au Service Client par courrier électronique à. Le solde de minutes prépayées ou offertes, s’il est positif, ainsi que tout autre avantage acquis par l’Utilisateur, le cas échéant, au titre du Programme de Fidélité de Sitedeparis-sportif, seront définitivement perdus par l’Utilisateur et ne lui seront en aucun cas remboursés.
 
-La désinscription n’est effective qu’à compter de l’acquittement complet de toutes les sommes dues par l’Utilisateur à CITYSCOOT.
+La désinscription n’est effective qu’à compter de l’acquittement complet de toutes les sommes dues par l’Utilisateur à Sitedeparis-sportif.
 
 **5.5 Caractère personnel de l’Inscription**
 
 L’Inscription est strictement personnelle au Client et incessible.
 
-Le Client s’engage à informer dans les plus brefs délais le Service Client de Cityscoot au (ou par courrier électronique à ) et à lui adresser le cas échéant le récépissé de son dépôt de plainte en cas de perte et/ou de vol du ou des smartphone(s) sur le(s)quel(s) il a téléchargé l’Application, en cas d’utilisation par un tiers de ses Identifiants ou en cas de perte de leur caractère confidentiel pour quelque raison que ce soit.
+Le Client s’engage à informer dans les plus brefs délais le Service Client de Sitedeparis-sportif au (ou par courrier électronique à ) et à lui adresser le cas échéant le récépissé de son dépôt de plainte en cas de perte et/ou de vol du ou des smartphone(s) sur le(s)quel(s) il a téléchargé l’Application, en cas d’utilisation par un tiers de ses Identifiants ou en cas de perte de leur caractère confidentiel pour quelque raison que ce soit.
 
 **ARTICLE 6 – DROIT DE RÉTRACTATION**
 
-En acceptant les présentes CGUS, l’Utilisateur accepte que le contrat entre lui et CITYSCOOT consistant en la mise à disposition du Scooter en location courte durée, soit exécuté dès la confirmation de sa première Réservation, et renonce expressément à son droit de rétraction, conformément aux dispositions des articles L.221-25 et L.221-28 du Code de la consommation.
+En acceptant les présentes CGUS, l’Utilisateur accepte que le contrat entre lui et Sitedeparis-sportif consistant en la mise à disposition du Scooter en location courte durée, soit exécuté dès la confirmation de sa première Réservation, et renonce expressément à son droit de rétraction, conformément aux dispositions des articles L.221-25 et L.221-28 du Code de la consommation.
 
 En cas d’achat de « pack minutes », l’Utilisateur a la faculté d’exercer un droit de rétractation dans un délai de quatorze (14) jours à compter de la date de l’achat.
 
@@ -231,13 +231,13 @@ Les Utilisateurs peuvent contacter le Service Client comme suit :
 
 Par téléphone au , de 8h à 23h et 7jours/7, notamment en cas de sinistre, de dysfonctionnement du Service, pour signaler un incident technique.
 
-Par courrier électronique à pour poser une question liée à son Inscription, sa facturation, son compte CITYSCOOT, ou faire part d’un problème technique rencontré sur le Scooter ou sur l’Application de CITYSCOOT, ou plus généralement apporter un commentaire.
+Par courrier électronique à pour poser une question liée à son Inscription, sa facturation, son compte Sitedeparis-sportif, ou faire part d’un problème technique rencontré sur le Scooter ou sur l’Application de Sitedeparis-sportif, ou plus généralement apporter un commentaire.
 
 **7.3 Informations sur les Scooters et la Réservation**
 
 Sur l’Application, l’Utilisateur peut :
 
-*   Visualiser le positionnement et l’autonomie des Scooters disponibles dans les Zones CITYSCOOT
+*   Visualiser le positionnement et l’autonomie des Scooters disponibles dans les Zones Sitedeparis-sportif
 *   Visualiser la présence d’un Citycase et d’un second Casque sur les Scooters
 *   Procéder à la Réservation d’un Scooter
 *   Annuler sa Réservation dans un délai maximal de dix (10) minutes à compter de sa Réservation
@@ -293,7 +293,7 @@ Pour bénéficier de l’option d’arrêt temporaire du Scooter, l’Utilisateu
 
 *   Béquiller le Scooter sur un emplacement autorisé.
 *   Ouvrir la selle en appuyant sur le bouton « Casque » situé à gauche du guidon si l’Utilisateur afin de ranger le Casque.
-*   Retirer tous Accessoires de l’Utilisateur du Scooter, CITYSCOOT ne pouvant aucunement être tenue responsable de tout effet oublié ou volé.
+*   Retirer tous Accessoires de l’Utilisateur du Scooter, Sitedeparis-sportif ne pouvant aucunement être tenue responsable de tout effet oublié ou volé.
 *   Fermer la selle et vérifier que celle-ci est verrouillée.
 *   Appuyer sur le bouton “Pause” depuis l’Application.
 *   Attendre l’extinction du compteur
@@ -304,36 +304,36 @@ Les minutes de Location continuent à courir pendant la période de Pause.
 
 Pour restituer le Scooter et mettre fin à sa Location, l’Utilisateur doit :
 
-*   S’assurer d’être dans une Zone CITYSCOOT (voyant orange « HORS ZONE » éteint).
+*   S’assurer d’être dans une Zone Sitedeparis-sportif (voyant orange « HORS ZONE » éteint).
 *   S’assurer des conditions de stationnement autorisées dans la commune et dans la zone de restitution du Scooter et les respecter.
 *   S’assurer d’avoir stationné le Scooter sur une place autorisée.
 *   Béquiller le Scooter.
 *   Ouvrir la selle en appuyant sur le bouton « Casque » situé à gauche du guidon.
 *   Ranger le Casque sous la selle dans la position indiquée par le sticker situé sous la selle.
 *   Ranger le second Casque dans le Citycase.
-*   Retirer tous Accessoires de l’Utilisateur du Scooter, CITYSCOOT ne pouvant aucunement être tenue responsable de tout effet oublié ou volé.
+*   Retirer tous Accessoires de l’Utilisateur du Scooter, Sitedeparis-sportif ne pouvant aucunement être tenue responsable de tout effet oublié ou volé.
 *   Fermer la selle et le Citycase et vérifier que ceux-ci sont verrouillés.
 *   Presser le bouton FIN situé sur le clavier ou cliquer sur « Terminer ma location » dans l’Application.
 *   Vérifier que la diode verte « LIBRE » est allumée.
 
 Si l’un des voyants orange ou rouge s’allume ou clignote sur le clavier du Scooter, la procédure n’a pas été respectée et l’Utilisateur doit contrôler que toutes les étapes constituant la procédure de restitution ont été effectuées.
 
-Il est de la responsabilité de l’Utilisateur de contrôler que la fin de sa Location est effective. CITYSCOOT ne pourra être tenue responsable d’une facturation prolongée en cas de mauvaise restitution du Scooter.
+Il est de la responsabilité de l’Utilisateur de contrôler que la fin de sa Location est effective. Sitedeparis-sportif ne pourra être tenue responsable d’une facturation prolongée en cas de mauvaise restitution du Scooter.
 
 7.4.7 État des lieux à la restitution du Scooter
 
-L’Utilisateur s’engage à signaler au Service Client tout dégât, même mineur, inexistant lors de la Prise du Scooter et qu’il aura observé sur le Scooter au moment de la restitution, via la rubrique dédiée de l’Application, ou par téléphone. L’Utilisateur s’engage, dans la mesure du possible, à prendre des photos des dégâts constatés et les transmettre par l’intermédiaire du formulaire de Contact dans l’Application ou par courrier électronique au Service Client de CITYSCOOT.
+L’Utilisateur s’engage à signaler au Service Client tout dégât, même mineur, inexistant lors de la Prise du Scooter et qu’il aura observé sur le Scooter au moment de la restitution, via la rubrique dédiée de l’Application, ou par téléphone. L’Utilisateur s’engage, dans la mesure du possible, à prendre des photos des dégâts constatés et les transmettre par l’intermédiaire du formulaire de Contact dans l’Application ou par courrier électronique au Service Client de Sitedeparis-sportif.
 
-7.4.8 Fin de Location déclenchée par CITYSCOOT
+7.4.8 Fin de Location déclenchée par Sitedeparis-sportif
 
-CITYSCOOT se réserve le droit de suspendre l’accès au Service sans préavis et d’annuler une Réservation ou de mettre fin à une Location dans les cas suivants, sans qu’aucune indemnité ne soit due à l’Utilisateur :
+Sitedeparis-sportif se réserve le droit de suspendre l’accès au Service sans préavis et d’annuler une Réservation ou de mettre fin à une Location dans les cas suivants, sans qu’aucune indemnité ne soit due à l’Utilisateur :
 
 *   Problème technique ou incident de sécurité affectant l’utilisation du Service ou la gestion des Scooters.
 *   Fermeture exceptionnelle du Service sur décision d’une autorité compétente ou pour tout motif impérieux.
 *   Force majeure.
 *   Panne, accident ou détection automatique de choc du Scooter concerné.
 *   Suspension ou désactivation du compte de l’Utilisateur ou de son accès au Service conformément à l’article 15 des présentes CGUS.
-*   Pause longue du Scooter si CITYSCOOT n’arrive pas à contacter l’Utilisateur.
+*   Pause longue du Scooter si Sitedeparis-sportif n’arrive pas à contacter l’Utilisateur.
 *   Vol du Scooter pendant une Location.
 
    
@@ -343,13 +343,13 @@ CITYSCOOT se réserve le droit de suspendre l’accès au Service sans préavis 
 
 La procédure d’assistance doit être déclenchée par l’Utilisateur en cas d’accident corporel et/ou matériel, de panne ou de crevaison par un appel au Service Client au (coût d’un appel local depuis un portable français).
 
-La procédure d’assistance implique des démarches et diagnostics de CITYSCOOT auxquelles l’Utilisateur apportera son concours.
+La procédure d’assistance implique des démarches et diagnostics de Sitedeparis-sportif auxquelles l’Utilisateur apportera son concours.
 
 7.5.2 Actions et responsabilité de l’Utilisateur et du Service Client
 
 1.  a) Accident corporel ou matériel
 
-L’Utilisateur doit obligatoirement contacter par téléphone le Service Client CITYSCOOT au quelle que soit la nature de l’accident, sous réserve qu’il ne soit pas victime d’un accident corporel l’empêchant de satisfaire à cette obligation.
+L’Utilisateur doit obligatoirement contacter par téléphone le Service Client Sitedeparis-sportif au quelle que soit la nature de l’accident, sous réserve qu’il ne soit pas victime d’un accident corporel l’empêchant de satisfaire à cette obligation.
 
 En cas d’accident corporel, l’Utilisateur doit en priorité contacter les services d’urgence (SAMU, pompiers) ainsi que les services de police.
 
@@ -359,9 +359,9 @@ Dans la mesure où l’Utilisateur est dans la capacité de le faire, il :
 *   Met tout en œuvre pour limiter la gêne ou le danger éventuel causé par le Scooter accidenté aux autres usagers de la voie publique et/ou véhicules.
 *   Reste à proximité du Scooter jusqu’à sa prise en charge par les services de secours.
 *   Rédige lisiblement, même en cas de seuls dégâts matériels n’impliquant pas un tiers, un constat amiable (dont un exemplaire vierge est présent sous la selle du Scooter) détaillant les circonstances de l’accident, contresigné le cas échéant par le ou les conducteurs du ou des autres véhicules impliqués dans l’accident.
-*   Envoie le constat amiable par courrier postal, dans les plus brefs délais et au maximum dans les 5 jours ouvrés après la survenance du sinistre, à l’adresse suivante : CITYSCOOT, Service Sinistres, 8 rue Bayen, 75017 Paris.
-*   Indique au Service Client les circonstances exactes du sinistre, ses causes connues ou présumées, les noms et adresses des personnes lésées et si possible des témoins, par courrier électronique ou par courrier simple à CITYSCOOT, 8 rue Bayen, 75017 Paris.
-*   Collabore avec l’assureur de CITYSCOOT par tous moyens requis par l’assureur, en fournissant des informations sincères, justes et précises.
+*   Envoie le constat amiable par courrier postal, dans les plus brefs délais et au maximum dans les 5 jours ouvrés après la survenance du sinistre, à l’adresse suivante : Sitedeparis-sportif, Service Sinistres, 8 rue Bayen, 75017 Paris.
+*   Indique au Service Client les circonstances exactes du sinistre, ses causes connues ou présumées, les noms et adresses des personnes lésées et si possible des témoins, par courrier électronique ou par courrier simple à Sitedeparis-sportif, 8 rue Bayen, 75017 Paris.
+*   Collabore avec l’assureur de Sitedeparis-sportif par tous moyens requis par l’assureur, en fournissant des informations sincères, justes et précises.
 
 1.  b) Panne du Scooter ou crevaison
 
@@ -379,11 +379,11 @@ En cas de vol du Scooter ou de vandalisme survenu pendant la Location, l’Utili
 
 Le Service Client indiquera à l’Utilisateur la marche à suivre en fonction du diagnostic effectué.
 
-L’Utilisateur est tenu de déposer plainte auprès du commissariat de police ou de la brigade de gendarmerie compétent(e) et d’envoyer à CITYSCOOT, 8 rue Bayen, 75017 Paris, dans les quarante-huit (48) heures ouvrées suivant l’incident, le récépissé de dépôt de plainte reçu du commissariat de police ou de la brigade de gendarmerie ainsi qu’une déclaration explicitant les circonstances du vol ou de la dégradation du Scooter.
+L’Utilisateur est tenu de déposer plainte auprès du commissariat de police ou de la brigade de gendarmerie compétent(e) et d’envoyer à Sitedeparis-sportif, 8 rue Bayen, 75017 Paris, dans les quarante-huit (48) heures ouvrées suivant l’incident, le récépissé de dépôt de plainte reçu du commissariat de police ou de la brigade de gendarmerie ainsi qu’une déclaration explicitant les circonstances du vol ou de la dégradation du Scooter.
 
 1.  d) Détection automatique de choc
 
-Le Scooter est équipé d’un dispositif électronique permettant à CITYSCOOT de détecter en temps réel toute inclinaison inhabituelle du Scooter. En cas de détection de choc ou de chute, CITYSCOOT se réserve le droit de contacter immédiatement l’Utilisateur pour en diagnostiquer la provenance et prendre les mesures d’assistance nécessaires.
+Le Scooter est équipé d’un dispositif électronique permettant à Sitedeparis-sportif de détecter en temps réel toute inclinaison inhabituelle du Scooter. En cas de détection de choc ou de chute, Sitedeparis-sportif se réserve le droit de contacter immédiatement l’Utilisateur pour en diagnostiquer la provenance et prendre les mesures d’assistance nécessaires.
 
 7.5.3 Fin de Location en cas d’accident
 
@@ -397,36 +397,36 @@ Néanmoins, le Scooter reste sous l’entière responsabilité de l’Utilisateu
 
 L’Utilisateur s’engage à s’acquitter de toutes les sommes dont il serait redevable dans le cadre de l’utilisation du Service, et notamment :
 
-*   Le prix d’utilisation du Service CITYSCOOT,
+*   Le prix d’utilisation du Service Sitedeparis-sportif,
 *   Les contraventions et conséquences pécuniaires des éventuelles infractions au Code de la route qu’il aura commises,
 *   Les franchises d’assurance en cas de sinistre ; lesquelles sont énumérées à l’ANNEXE 3,
 *   Les pénalités énumérées à ANNEXE 2 des présentes CGUS.
 
-L’Utilisateur s’engage à être à jour de ses obligations financières vis-à-vis de CITYSCOOT pendant toute la durée de la relation contractuelle.
+L’Utilisateur s’engage à être à jour de ses obligations financières vis-à-vis de Sitedeparis-sportif pendant toute la durée de la relation contractuelle.
 
-Les éléments dus par l’Utilisateur identifiés ci-dessus feront l’objet d’une facturation complémentaire, qui sera adressée à l’Utilisateur dans les trois (3) mois suivant la date de prise de connaissance par CITYSCOOT des faits donnant lieu à leur exigibilité.
+Les éléments dus par l’Utilisateur identifiés ci-dessus feront l’objet d’une facturation complémentaire, qui sera adressée à l’Utilisateur dans les trois (3) mois suivant la date de prise de connaissance par Sitedeparis-sportif des faits donnant lieu à leur exigibilité.
 
 **8.2 Paiement de la Location**
 
 Le prix de la Location, défini conformément à l’ANNEXE 1, est exigible à la fin de chaque Location, sauf en cas de pack de minutes (paiement lors de l’achat) ou d’abonnement (paiement le premier jour de chaque période mensuelle).
 
-CITYSCOOT émet une facture après chaque achat et après chaque utilisation du Service non entièrement couverte par un crédit de minutes (donc supposant un nouveau paiement). Le prélèvement sera effectué sur la carte bancaire de l’Utilisateur dont les coordonnées ont été saisies au moment de l’Inscription, dans l’intervalle de temps indiqué sur la facture.
+Sitedeparis-sportif émet une facture après chaque achat et après chaque utilisation du Service non entièrement couverte par un crédit de minutes (donc supposant un nouveau paiement). Le prélèvement sera effectué sur la carte bancaire de l’Utilisateur dont les coordonnées ont été saisies au moment de l’Inscription, dans l’intervalle de temps indiqué sur la facture.
 
 En cas d’utilisation du Service couverte par un crédit de minutes, l’Utilisateur a accès à son solde de minutes offertes ou prépayées sur son compte dans l’Application.
 
-En cas de rejet du prélèvement, l’Utilisateur peut régler sa facture directement à CITYSCOOT depuis son Espace Personnel. La régularisation d’un incident de paiement par paiement direct permettra le déblocage de l’accès au Service de l’Utilisateur, sauf si le blocage résulte également du non-respect d’autres stipulations des présentes CGUS.
+En cas de rejet du prélèvement, l’Utilisateur peut régler sa facture directement à Sitedeparis-sportif depuis son Espace Personnel. La régularisation d’un incident de paiement par paiement direct permettra le déblocage de l’accès au Service de l’Utilisateur, sauf si le blocage résulte également du non-respect d’autres stipulations des présentes CGUS.
 
 **8.3 Mise à jour des moyens de paiement**
 
-L’Utilisateur s’engage à mettre à jour ses coordonnées et informations bancaires au fur et à mesure de leurs éventuels changements, de manière à ce que les informations de l’Utilisateur à disposition de CITYSCOOT soient à jour pendant toute la durée de la relation contractuelle.
+L’Utilisateur s’engage à mettre à jour ses coordonnées et informations bancaires au fur et à mesure de leurs éventuels changements, de manière à ce que les informations de l’Utilisateur à disposition de Sitedeparis-sportif soient à jour pendant toute la durée de la relation contractuelle.
 
 En cas d’expiration de sa carte bancaire, l’Utilisateur s’engage, quinze (15) jours avant l’expiration de ladite carte, à mettre à jour ses coordonnées bancaires dans son Espace Personnel. Cette mise à jour doit intervenir dès réception de la nouvelle carte bancaire et avant l’expiration de la précédente.
 
-En cas de non-respect de cette obligation ou d’invalidité de la carte bancaire de l’Utilisateur pour quelque cause que ce soit, CITYSCOOT pourra suspendre l’accès au Service jusqu’à régularisation de la situation par l’Utilisateur. Pendant la suspension de l’accès au Service, l’Utilisateur reste néanmoins redevable des échéances de ses factures impayées.
+En cas de non-respect de cette obligation ou d’invalidité de la carte bancaire de l’Utilisateur pour quelque cause que ce soit, Sitedeparis-sportif pourra suspendre l’accès au Service jusqu’à régularisation de la situation par l’Utilisateur. Pendant la suspension de l’accès au Service, l’Utilisateur reste néanmoins redevable des échéances de ses factures impayées.
 
 **8.4 Autorisation de prélèvement sur la carte bancaire**
 
-En saisissant ses références de carte bancaire lors de son Inscription ou dans le cadre de toute mise à jour de ses informations bancaires dans son Espace Personnel, l’Utilisateur consent à CITYSCOOT une autorisation de prélèvement sur carte bancaire pour tous montants dus par l’Utilisateur conformément aux présentes CGUS (et notamment, sans que cette liste ne soit exhaustive, les frais de Location, les pénalités, la franchise en cas d’accident ou de vol sans tiers responsable).
+En saisissant ses références de carte bancaire lors de son Inscription ou dans le cadre de toute mise à jour de ses informations bancaires dans son Espace Personnel, l’Utilisateur consent à Sitedeparis-sportif une autorisation de prélèvement sur carte bancaire pour tous montants dus par l’Utilisateur conformément aux présentes CGUS (et notamment, sans que cette liste ne soit exhaustive, les frais de Location, les pénalités, la franchise en cas d’accident ou de vol sans tiers responsable).
 
 Une empreinte de la carte bancaire de l’Utilisateur est indispensable pour valider l’Inscription et autoriser le prélèvement des montants dus.
 
@@ -436,7 +436,7 @@ Les factures de l’Utilisateur seront mises à sa disposition par voie électro
 
 L’Utilisateur peut télécharger ses factures via son Espace Personnel.
 
-L’Utilisateur reconnaît et accepte qu’en cas de Location d’un Scooter dans un pays autre que la France où le Service est disponible, CITYSCOOT pourra communiquer les informations le concernant, et notamment ses données bancaires, aux fins de la facturation par l’entité locale de CITYSCOOT dans le pays concerné.
+L’Utilisateur reconnaît et accepte qu’en cas de Location d’un Scooter dans un pays autre que la France où le Service est disponible, Sitedeparis-sportif pourra communiquer les informations le concernant, et notamment ses données bancaires, aux fins de la facturation par l’entité locale de Sitedeparis-sportif dans le pays concerné.
 
 **ARTICLE 9 – OBLIGATIONS DE L’UTILISATEUR**
 
@@ -450,7 +450,7 @@ L’Utilisateur est tenu de vérifier, lors de l’accès au Scooter, la présen
 
 Il lui est par ailleurs interdit de fumer, boire et manger ou téléphoner une fois sur le Scooter.
 
-CITYSCOOT préconise le port d’effets vestimentaires adaptés à l’utilisation de ce type de véhicules, étant précisé qu’ils ne sont pas fournis (mis à part le gilet jaune dont le port est facultatif et le Casque dont le port est obligatoire). Il est rappelé à l’Utilisateur que le port de gants est obligatoire conformément à l’article R. 431-1-2 du Code de la Route. L’Utilisateur doit posséder des gants homologués au sens de l’article précité et les porter lors de la conduite du Scooter.
+Sitedeparis-sportif préconise le port d’effets vestimentaires adaptés à l’utilisation de ce type de véhicules, étant précisé qu’ils ne sont pas fournis (mis à part le gilet jaune dont le port est facultatif et le Casque dont le port est obligatoire). Il est rappelé à l’Utilisateur que le port de gants est obligatoire conformément à l’article R. 431-1-2 du Code de la Route. L’Utilisateur doit posséder des gants homologués au sens de l’article précité et les porter lors de la conduite du Scooter.
 
 Par ailleurs, l’Utilisateur doit restituer le Scooter selon la procédure décrite à l’article 7.4.6.
 
@@ -477,7 +477,7 @@ L’Utilisateur ne pourra utiliser le Scooter ou permettre à quiconque de l’u
 
 **9.3 Conducteur autorisé du Scooter**
 
-Le Scooter ne pourra être conduit que par l’Utilisateur qui a loué le Scooter. L’Utilisateur s’engage à ne laisser conduire le Scooter par aucune autre personne que lui-même et ce, même si cette personne est elle-même un Utilisateur du Service CITYSCOOT. Si l’Utilisateur ne respecte pas cet engagement, les pénalités prévues à l’ANNEXE 2 des présentes CGUS s’appliqueront. De même, l’Utilisateur n’est pas autorisé à permettre à un tiers (en ce compris un membre de sa famille) l’utilisation de son identifiant et du mot de passe associé pour avoir accès au Service.
+Le Scooter ne pourra être conduit que par l’Utilisateur qui a loué le Scooter. L’Utilisateur s’engage à ne laisser conduire le Scooter par aucune autre personne que lui-même et ce, même si cette personne est elle-même un Utilisateur du Service Sitedeparis-sportif. Si l’Utilisateur ne respecte pas cet engagement, les pénalités prévues à l’ANNEXE 2 des présentes CGUS s’appliqueront. De même, l’Utilisateur n’est pas autorisé à permettre à un tiers (en ce compris un membre de sa famille) l’utilisation de son identifiant et du mot de passe associé pour avoir accès au Service.
 
 Toute utilisation de l’Application avec les Identifiants de l’Utilisateur est réputée avoir été faite par l’Utilisateur lui-même.
 
@@ -487,7 +487,7 @@ En cas de perte ou de vol de son mot de passe, il est de la responsabilité de l
 
 L’Utilisateur demeure exclusivement et entièrement responsable de toute utilisation du Service effectuée via son compte.
 
-L’Utilisateur s’engage à mettre à jour ses coordonnées au fur et à mesure des éventuels changements, de manière à ce que les informations de l’Utilisateur à disposition de CITYSCOOT soient à jour pendant toute la durée de la relation contractuelle.
+L’Utilisateur s’engage à mettre à jour ses coordonnées au fur et à mesure des éventuels changements, de manière à ce que les informations de l’Utilisateur à disposition de Sitedeparis-sportif soient à jour pendant toute la durée de la relation contractuelle.
 
 **9.4 Permis de conduire**
 
@@ -495,7 +495,7 @@ Si l’Utilisateur est dans la situation de devoir détenir un permis de conduir
 
 L’Utilisateur s’engage à détenir tout document ou permis visé à l’article 4 lui permettant d’établir sa capacité à conduire le Scooter. Le document ou permis doit être valablement délivré par les autorités compétentes du pays dont il ressort ou dans lequel il réside. Ces titres ne doivent être ni suspendus, ni annulés, ni retirés, ni expirés au moment de l’Inscription ainsi qu’au moment de chaque Location d’un Scooter. Il en est de même pour les éventuels documents complémentaires requis pour la conduite des Scooters.
 
-Il est rappelé que les Utilisateurs titulaires d’un permis de conduire délivré par un pays en dehors de l’Union européenne, et qui n’est pas libellé en langue française, sont obligés de se munir d’une traduction officielle en français de leur permis de conduire et du permis international si ce dernier est requis pour permettre à l’Utilisateur d’utiliser un Scooter en France. Cette traduction (ainsi que leur pièce d’identité) peut leur être demandée en cas de contrôle par CITYSCOOT ou par une autorité compétente.
+Il est rappelé que les Utilisateurs titulaires d’un permis de conduire délivré par un pays en dehors de l’Union européenne, et qui n’est pas libellé en langue française, sont obligés de se munir d’une traduction officielle en français de leur permis de conduire et du permis international si ce dernier est requis pour permettre à l’Utilisateur d’utiliser un Scooter en France. Cette traduction (ainsi que leur pièce d’identité) peut leur être demandée en cas de contrôle par Sitedeparis-sportif ou par une autorité compétente.
 
 **9.5 Capacité de conduite**
 
@@ -509,15 +509,15 @@ Le Scooter ne pourra circuler que sur les voies autorisées aux véhicules de ca
 
 L’Utilisateur est seul et entier responsable des dommages aux personnes et aux biens (en ce compris au Scooter) causés par l’utilisation qui est faite du Scooter durant toute la durée de la Location.
 
-L’Utilisateur est tenu de restituer le Scooter dans le même état que celui où il était avant la Location. En cas de perte ou de dommages survenus pendant la période de Location, l’Utilisateur devra indemniser CITYSCOOT des préjudices et frais encourus dans la limite d’une franchise forfaitaire de 500 euros (hors casque), sauf si la perte ou les dommages sont imputables à un tiers, qui pourra être prélevée sur la carte bancaire de l’Utilisateur. Cette évaluation sera faite sur la base du prix des pièces détachées accessible [ici](https://www.cityscoot.eu/prix-des-pieces-detachees). Cette liste de prix est fournie à titre indicatif, seul fait foi le prix communiqué à l’Utilisateur lors de la réparation.
+L’Utilisateur est tenu de restituer le Scooter dans le même état que celui où il était avant la Location. En cas de perte ou de dommages survenus pendant la période de Location, l’Utilisateur devra indemniser Sitedeparis-sportif des préjudices et frais encourus dans la limite d’une franchise forfaitaire de 500 euros (hors casque), sauf si la perte ou les dommages sont imputables à un tiers, qui pourra être prélevée sur la carte bancaire de l’Utilisateur. Cette évaluation sera faite sur la base du prix des pièces détachées accessible [ici](https://www.cityscoot.eu/prix-des-pieces-detachees). Cette liste de prix est fournie à titre indicatif, seul fait foi le prix communiqué à l’Utilisateur lors de la réparation.
 
 **9.8 Non-respect des présentes CGUS**
 
-En cas de non-respect des obligations de l’Utilisateur des présentes CGUS, de son fait ou par des personnes sous sa responsabilité (passager éventuel), l’Utilisateur sera tenu d’indemniser CITYSCOOT pour toute responsabilité et pour toute perte, tous dommages et intérêts et toute dépense que CITYSCOOT pourrait subir du fait du manquement de l’Utilisateur, en particulier si les manquements de l’Utilisateur entraînent l’exclusion de la garantie d’assurance souscrite par CITYSCOOT (sans préjudice de l’application éventuelle des pénalités additionnelles prévues en ANNEXE 2). Cette disposition est non-exclusive de tout autre recours que pourrait avoir CITYSCOOT à l’encontre des passagers ou tiers au titre de leur responsabilité respective.
+En cas de non-respect des obligations de l’Utilisateur des présentes CGUS, de son fait ou par des personnes sous sa responsabilité (passager éventuel), l’Utilisateur sera tenu d’indemniser Sitedeparis-sportif pour toute responsabilité et pour toute perte, tous dommages et intérêts et toute dépense que  Sitedeparis-sportif pourrait subir du fait du manquement de l’Utilisateur, en particulier si les manquements de l’Utilisateur entraînent l’exclusion de la garantie d’assurance souscrite par Sitedeparis-sportif (sans préjudice de l’application éventuelle des pénalités additionnelles prévues en ANNEXE 2). Cette disposition est non-exclusive de tout autre recours que pourrait avoir Sitedeparis-sportif  à l’encontre des passagers ou tiers au titre de leur responsabilité respective.
 
   **ARTICLE 10 – ASSURANCES**
 
-Durant la durée de la Location, l’Utilisateur bénéfice, sous réserve des cas d’exclusion visés au présent article, de l’assurance souscrite par CITYSCOOT couvrant la responsabilité civile, la garantie individuelle du conducteur et la garantie Défense Pénale et Recours Suite à Accident, l’incendie, le vol ou tentative de vol du Scooter, le vandalisme, ainsi que les dommages et assistance au Scooter. Le coût de l’assurance est pris en compte dans le prix de la Location.
+Durant la durée de la Location, l’Utilisateur bénéfice, sous réserve des cas d’exclusion visés au présent article, de l’assurance souscrite par Sitedeparis-sportif couvrant la responsabilité civile, la garantie individuelle du conducteur et la garantie Défense Pénale et Recours Suite à Accident, l’incendie, le vol ou tentative de vol du Scooter, le vandalisme, ainsi que les dommages et assistance au Scooter. Le coût de l’assurance est pris en compte dans le prix de la Location.
 
 L’ensemble des garanties et des franchises applicables est détaillé en ANNEXE 3.
 
@@ -611,7 +611,7 @@ Désigne le bénéficiaire des garanties d’assurance telles que décrites à l
 *   **Le paiement des amendes et des indemnités fourrières.**
 *   **Les dommages provoqués ou aggravés par le transport avec le Scooter de matières inflammables, explosives, corrosives ou comburantes ;**
 *   **Les dommages causés par le Scooter lorsqu’il transporte des sources de rayonnements ionisants destinées à être utilisées hors d’une installation nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le sinistre ;**
-*   **Les dommages subis par le détenteur du Scooter en cas de vol, d’abus de confiance ou de conduite sans l´autorisation de CITYSCOOT ;**
+*   **Les dommages subis par le détenteur du Scooter en cas de vol, d’abus de confiance ou de conduite sans l´autorisation de Sitedeparis-sportif;**
 *   **Les dommages ou le vol des Accessoires de l’Utilisateur ;**
 *   **Les dommages subis par les garagistes, les courtiers, les vendeurs et dépanneurs de véhicules automobiles, les personnes pratiquant le contrôle de leur bon fonctionnement, ainsi que leurs préposés lors des réparations, remorquages, dépannages, contrôles ou vente du Scooter ;**
 *   **Les dommages engageant votre responsabilité et survenus au cours d’épreuves, courses, compétitions ou leurs essais, soumis par la réglementation en vigueur à l’autorisation préalable des pouvoirs publics.**
@@ -645,11 +645,11 @@ On entend par « vous » :
 
 2.  Quel est le rôle de l’Assureur ?
 
-En cas d’accident de la circulation impliquant le véhicule loué auprès de Cityscoot, nous vous apportons aide et assistance pour :
+En cas d’accident de la circulation impliquant le véhicule loué auprès de Sitedeparis-sportif, nous vous apportons aide et assistance pour :
 
 1.  Assurer votre défense
 
-Lorsque vous faites l’objet de poursuites pénales devant les tribunaux répressifs alors que le véhicule loué auprès de Cityscoot est utilisé dans les conditions prévues par ce contrat.
+Lorsque vous faites l’objet de poursuites pénales devant les tribunaux répressifs alors que le véhicule loué auprès de Sitedeparis-sportif est utilisé dans les conditions prévues par ce contrat.
 
 1.  Exercer votre recours
 
@@ -1223,35 +1223,35 @@ Pour plus d’informations sur les procédures légales applicables en cas d’i
 
 **11.1** **Processus applicable en cas d’infraction au Code de la Route**
 
-En cas de notification à CITYSCOOT d’un procès-verbal d’infraction au Code de la Route par l’Utilisateur, CITYSCOOT indiquera aux autorités compétentes l’identité de l’Utilisateur contrevenant. Il incombera à l’Utilisateur de payer l’amende correspondante, sous réserve de son droit de contester l’infraction dans les conditions prévues par la loi.
+En cas de notification à Sitedeparis-sportif d’un procès-verbal d’infraction au Code de la Route par l’Utilisateur, Sitedeparis-sportif indiquera aux autorités compétentes l’identité de l’Utilisateur contrevenant. Il incombera à l’Utilisateur de payer l’amende correspondante, sous réserve de son droit de contester l’infraction dans les conditions prévues par la loi.
 
 **11.2 Frais correspondants**
 
-CITYSCOOT facturera à l’Utilisateur la somme forfaitaire prévue à l’ANNEXE 2 des présentes CGUS s’entendant par procès-verbal reçu au titre des frais de dossier occasionnés par le traitement dudit procès-verbal, ainsi que les frais liés à la mise en fourrière du Scooter tels que prévus à l’ANNEXE 2, le cas échéant.
+Sitedeparis-sportif facturera à l’Utilisateur la somme forfaitaire prévue à l’ANNEXE 2 des présentes CGUS s’entendant par procès-verbal reçu au titre des frais de dossier occasionnés par le traitement dudit procès-verbal, ainsi que les frais liés à la mise en fourrière du Scooter tels que prévus à l’ANNEXE 2, le cas échéant.
 
-  **ARTICLE 12 – RESPONSABILITÉ DE CITYSCOOT**
+  **ARTICLE 12 – RESPONSABILITÉ DE Sitedeparis-sportif**
 
-CITYSCOOT s’engage à fournir un Scooter comprenant les Accessoires du Scooter, notamment un Casque homologué et les Documents de Bord.
+Sitedeparis-sportif s’engage à fournir un Scooter comprenant les Accessoires du Scooter, notamment un Casque homologué et les Documents de Bord.
 
-CITYSCOOT ne pourra être tenue responsable de la perte ou des dommages aux Accessoires de l’Utilisateur.
+Sitedeparis-sportif ne pourra être tenue responsable de la perte ou des dommages aux Accessoires de l’Utilisateur.
 
-CITYSCOOT ne pourra être tenue responsable des dommages aux personnes et aux biens (en ce compris le Scooter) causés par l’utilisation d’un Scooter par un tiers.
+Sitedeparis-sportif ne pourra être tenue responsable des dommages aux personnes et aux biens (en ce compris le Scooter) causés par l’utilisation d’un Scooter par un tiers.
 
-Il est rappelé que la fourniture du Service, de l’Application et du Site internet ne constituent qu’une obligation de moyens pour CITYSCOOT.
+Il est rappelé que la fourniture du Service, de l’Application et du Site internet ne constituent qu’une obligation de moyens pour Sitedeparis-sportif.
 
-Le Service CITYSCOOT reposant sur un principe de libre-service, CITYSCOOT ne peut être tenue responsable vis-à-vis de l’Utilisateur de l’absence ponctuelle de Scooters disponibles à la Location ou de niveau de charge de la batterie du Scooter réservé par l’Utilisateur.
+Le Service Sitedeparis-sportif  reposant sur un principe de libre-service, Sitedeparis-sportif ne peut être tenue responsable vis-à-vis de l’Utilisateur de l’absence ponctuelle de Scooters disponibles à la Location ou de niveau de charge de la batterie du Scooter réservé par l’Utilisateur.
 
-La responsabilité de CITYSCOOT est limitée aux préjudices certains, directs et prévisibles.
+La responsabilité de Sitedeparis-sportif est limitée aux préjudices certains, directs et prévisibles.
 
-En outre, lors de l’Inscription, de la Réservation ou de la Location, l’Utilisateur accepte que le Service Client et/ou l’utilisation du Service puisse(nt) être perturbé(s) ou rendu(s) temporairement inopérant(s) et que la responsabilité de CITYSCOOT ne puisse pas être engagée notamment dans les cas suivants :
+En outre, lors de l’Inscription, de la Réservation ou de la Location, l’Utilisateur accepte que le Service Client et/ou l’utilisation du Service puisse(nt) être perturbé(s) ou rendu(s) temporairement inopérant(s) et que la responsabilité de Sitedeparis-sportif ne puisse pas être engagée notamment dans les cas suivants :
 
 *   Mauvaise utilisation ou dysfonctionnement du réseau Internet.
 *   Virus informatique transmis par le réseau Internet.
 *   Interruption des services accessibles sur le réseau Internet.
 *   Perturbation et/ou indisponibilité totale ou partielle des réseaux GSM/GPRS/3G/4G.
 *   Impossibilité de fournir le Service parce que le module de communication présent dans le Scooter est situé dans une zone géographique non couverte par le réseau GSM/GPRS/3G ou dans une zone d’ombre à l’intérieur d’une zone géographique couverte.
-*   Perturbations causées par des travaux d’entretien, de renforcement, de réaménagement ou d’extension des installations des réseaux GSM/GPRS/3G par l’opérateur de télécommunication utilisé par CITYSCOOT.
-*   Aléas de propagation des ondes électromagnétiques, cessation des licences d’exploitation du service de l’opérateur de télécommunication utilisé par CITYSCOOT sur décision de l’autorité publique ou d’un cas fortuit.
+*   Perturbations causées par des travaux d’entretien, de renforcement, de réaménagement ou d’extension des installations des réseaux GSM/GPRS/3G par l’opérateur de télécommunication utilisé par Sitedeparis-sportif.
+*   Aléas de propagation des ondes électromagnétiques, cessation des licences d’exploitation du service de l’opérateur de télécommunication utilisé par Sitedeparis-sportif sur décision de l’autorité publique ou d’un cas fortuit.
 *   Transmission des signaux radioélectriques affectée par les contraintes ou les limites des normes techniques imposées aux opérateurs de radiotéléphonie par les autorités réglementaires ou les groupements normatifs compétents.
 *   Impossibilité de fournir le Service en raison d’une panne ou d’un mauvais fonctionnement des satellites GPS ou d’une coupure d’électricité ou d’intempéries.
 *   Échec de géolocalisation imputable à une dégradation du signal GSM/GPRS/3G4G ou du signal GPS, due notamment à la couverture nuageuse ou à la canopée.
@@ -1259,46 +1259,46 @@ En outre, lors de l’Inscription, de la Réservation ou de la Location, l’Uti
 *   Force majeure au sens de l’article 1218 du Code civil.
 *   Tout cas mentionné à l’article 7.4.8 des CGUS.
 
-CITYSCOOT se réserve le droit d’interrompre totalement ou partiellement le Service, sans préavis et pour une durée déterminée ou indéterminée en cas d’événement exceptionnel tel qu’une avarie matérielle, une panne technique, un problème de sécurité, une manifestation sur la voie publique, une modification des règles de circulation ou des conditions climatiques défavorables, sans préavis et sans qu’aucune indemnité ne soit due à l’Utilisateur.
+Sitedeparis-sportif se réserve le droit d’interrompre totalement ou partiellement le Service, sans préavis et pour une durée déterminée ou indéterminée en cas d’événement exceptionnel tel qu’une avarie matérielle, une panne technique, un problème de sécurité, une manifestation sur la voie publique, une modification des règles de circulation ou des conditions climatiques défavorables, sans préavis et sans qu’aucune indemnité ne soit due à l’Utilisateur.
 
-CITYSCOOT peut arrêter définitivement le Service dans une ville ou une zone géographique quelconque à tout moment, sans qu’aucune indemnité autre que le remboursement des minutes prépayées ne soit due à l’Utilisateur. Si les circonstances le permettent, l’arrêt définitif du Service sera notifié aux Utilisateurs suivant un préavis raisonnable.
+Sitedeparis-sportif peut arrêter définitivement le Service dans une ville ou une zone géographique quelconque à tout moment, sans qu’aucune indemnité autre que le remboursement des minutes prépayées ne soit due à l’Utilisateur. Si les circonstances le permettent, l’arrêt définitif du Service sera notifié aux Utilisateurs suivant un préavis raisonnable.
 
   **ARTICLE 13 – DONNÉES PERSONNELLES – DÉMARCHAGE TÉLÉPHONIQUE**
 
-Dans le cadre du Service, CITYSCOOT est amenée à collecter et traiter certaines données personnelles des Clients. En créant un compte CITYSCOOT et/ou en utilisant le Service, le Client reconnaît et accepte le traitement de ses données personnelles par CITYSCOOT conformément à la loi applicable et aux stipulations de la [Politique de Confidentialité](https://www.cityscoot.eu/politique-de-confidentialite) de CITYSCOOT.
+Dans le cadre du Service, Sitedeparis-sportif est amenée à collecter et traiter certaines données personnelles des Clients. En créant un compte Sitedeparis-sportif et/ou en utilisant le Service, le Client reconnaît et accepte le traitement de ses données personnelles par Sitedeparis-sportif conformément à la loi applicable et aux stipulations de la [Politique de Confidentialité](https://www.cityscoot.eu/politique-de-confidentialite) de Sitedeparis-sportif.
 
 Le Client dispose d’un droit à s’inscrire sur la liste d’opposition au démarchage téléphonique (article L. 223-1 du Code de la consommation).
 
 Ce droit est exerçable en se rendant sur le site internet [bloctel.gouv.fr](https://www.bloctel.gouv.fr/) ou en écrivant à l’adresse suivante : Wordline – Service Bloctel – CS 61311 – 41013 Blois.
 
-**ARTICLE 14 – OFFRES PROMOTIONNELLES DE CITYSCOOT**
+**ARTICLE 14 – OFFRES PROMOTIONNELLES DE Sitedeparis-sportif**
 
-CITYSCOOT peut proposer, à son entière discrétion, des offres promotionnelles qui sont soumises aux présentes CGUS sauf mention contraire dans les conditions spécifiques de l’offre.
+Sitedeparis-sportif peut proposer, à son entière discrétion, des offres promotionnelles qui sont soumises aux présentes CGUS sauf mention contraire dans les conditions spécifiques de l’offre.
 
-CITYSCOOT se réserve le droit de suspendre, modifier ou annuler ces offres promotionnelles à tout moment.
+Sitedeparis-sportif se réserve le droit de suspendre, modifier ou annuler ces offres promotionnelles à tout moment.
 
 **14.1 Codes promotionnels**
 
-En cas de mise à disposition par CITYSCOOT d’un code promotionnel ouvrant droit à un crédit, une réduction du prix ou tout autre avantage, le titulaire reconnaît et accepte que le code promotionnel :
+En cas de mise à disposition par Sitedeparis-sportif d’un code promotionnel ouvrant droit à un crédit, une réduction du prix ou tout autre avantage, le titulaire reconnaît et accepte que le code promotionnel :
 
-*   est utilisable une (1) seule fois et uniquement sur le Site Internet et/ou sur l’Application de CITYSCOOT (sauf indication contraire) ;
+*   est utilisable une (1) seule fois et uniquement sur le Site Internet et/ou sur l’Application de Sitedeparis-sportif (sauf indication contraire) ;
 *   n’est pas cumulable avec d’autres codes promotionnels ;
 *   est valable pendant une durée déterminée qui sera communiquée en même temps que le code promotionnel ;
 *   peut expirer avant son utilisation si un délai d’expiration est indiqué lors de l’attribution du code ;
-*   ne peut être mis à disposition du public sauf autorisation expresse de CITYSCOOT ;
+*   ne peut être mis à disposition du public sauf autorisation expresse de Sitedeparis-sportif;
 *   ne peut faire l’objet d’un marchandage, se monnayer ou encore être converti en espèce.
 
 L’utilisation du code promotionnel peut aussi être soumise à des conditions supplémentaires qui seront communiquées dans le cadre de l’offre.
 
-Toute utilisation du code promotionnel autre que celle prévue par CITYSCOOT est prohibée. Les codes promotionnels sont incessibles et indivisibles. Ils ne sauraient être remboursés et/ou échangés. Sauf indication contraire, les codes promotionnels d’un tiers ne sont pas utilisables dans l’Application.
+Toute utilisation du code promotionnel autre que celle prévue par Sitedeparis-sportif est prohibée. Les codes promotionnels sont incessibles et indivisibles. Ils ne sauraient être remboursés et/ou échangés. Sauf indication contraire, les codes promotionnels d’un tiers ne sont pas utilisables dans l’Application.
 
-L’utilisation de tout code promotionnel émis par un tiers et applicable au Service CITYSCOOT est soumise aux conditions d’utilisation établies par ce tiers.
+L’utilisation de tout code promotionnel émis par un tiers et applicable au Service Sitedeparis-sportif est soumise aux conditions d’utilisation établies par ce tiers.
 
-En cas d’utilisation frauduleuse, illégale ou contraire aux présentes CGUS et/ou aux conditions spécifiques de l’offre, CITYSCOOT se réserve le droit de décliner ou réduire l’avantage lié au code promotionnel et de prélever tout montant dû par l’Utilisateur en conséquence.
+En cas d’utilisation frauduleuse, illégale ou contraire aux présentes CGUS et/ou aux conditions spécifiques de l’offre, Sitedeparis-sportif se réserve le droit de décliner ou réduire l’avantage lié au code promotionnel et de prélever tout montant dû par l’Utilisateur en conséquence.
 
-**14.2 Programme de Fidélité de CITYSCOOT**
+**14.2 Programme de Fidélité de Sitedeparis-sportif**
 
-Le Programme de Fidélité de CITYSCOOT (« Bonus Fidélité ») est réservé aux Utilisateurs ayant un compte CITYSCOOT. Il a pour objet de permettre aux Utilisateurs de cumuler des minutes offertes en fonction de leur statut.
+Le Programme de Fidélité de Sitedeparis-sportif (« Bonus Fidélité ») est réservé aux Utilisateurs ayant un compte Sitedeparis-sportif. Il a pour objet de permettre aux Utilisateurs de cumuler des minutes offertes en fonction de leur statut.
 
 14.2.1 Comptabilisation des minutes roulées
 
@@ -1310,7 +1310,7 @@ Ne sont pas comptabilisées : les minutes offertes (issues d’un code promotion
 
 Si l’une ou plusieurs des Locations de l’Utilisateur effectuées sur le mois en cours sont remboursées, intégralement ou partiellement, le programme de fidélité déduira du nombre de minutes comptabilisées les minutes remboursées ou recréditées, entrainant une modification potentielle du statut de fidélité de l’Utilisateur.
 
-En cas de défaut ou d’incident de paiement, CITYSCOOT se réserve le droit de déduire les minutes non-payées du montant des minutes cumulées par l’Utilisateur et d’ajuster son statut de fidélité en conséquence.
+En cas de défaut ou d’incident de paiement, Sitedeparis-sportif se réserve le droit de déduire les minutes non-payées du montant des minutes cumulées par l’Utilisateur et d’ajuster son statut de fidélité en conséquence.
 
 14.2.2 Statut de fidélité
 
@@ -1350,24 +1350,24 @@ Les minutes gratuites sont attribuées personnellement à l’Utilisateur et ne 
 
 L’Utilisateur sera informé de l’attribution des minutes gratuites par courrier électronique. L’Utilisateur peut également consulter le nombre de minutes comptabilisées par lui et le solde de ses minutes gratuites dans son Espace Personnel, rubrique « Solde de minutes ».
 
-Il est précisé qu’en se désinscrivant du Service CITYSCOOT, l’Utilisateur perd le bénéfice de toutes ses minutes gratuites accumulées et, plus généralement, de tous les avantages du programme de fidélité.
+Il est précisé qu’en se désinscrivant du Service Sitedeparis-sportif, l’Utilisateur perd le bénéfice de toutes ses minutes gratuites accumulées et, plus généralement, de tous les avantages du programme de fidélité.
 
 14.2.6 Responsabilité
 
-CITYSCOOT est exonérée de toute responsabilité pour les conséquences directes ou indirectes des éventuelles anomalies et dysfonctionnements du programme de fidélité CITYSCOOT, quelles que soient leurs causes. En cas de dysfonctionnement ou d’anomalie dudit programme, le bénéfice du cumul de minutes et des avantages acquis par l’Utilisateur sera prolongé d’une durée équivalente à celle du dysfonctionnement ou de l’anomalie.
+Sitedeparis-sportif est exonérée de toute responsabilité pour les conséquences directes ou indirectes des éventuelles anomalies et dysfonctionnements du programme de fidélité Sitedeparis-sportif, quelles que soient leurs causes. En cas de dysfonctionnement ou d’anomalie dudit programme, le bénéfice du cumul de minutes et des avantages acquis par l’Utilisateur sera prolongé d’une durée équivalente à celle du dysfonctionnement ou de l’anomalie.
 
-**ARTICLE 15 – SUSPENSION OU RÉSILIATION DE L’ACCÈS AU SERVICE CITYSCOOT**
+**ARTICLE 15 – SUSPENSION OU RÉSILIATION DE L’ACCÈS AU SERVICE Sitedeparis-sportif**
 
-CITYSCOOT se réserve le droit de suspendre temporairement l’accès au Service à un Utilisateur en cas de suspension du Service par CITYSCOOT pour quelque cause que ce soit. Le solde de crédit « minutes » est maintenu pendant toute la durée de la suspension.
+Sitedeparis-sportif se réserve le droit de suspendre temporairement l’accès au Service à un Utilisateur en cas de suspension du Service par Sitedeparis-sportif pour quelque cause que ce soit. Le solde de crédit « minutes » est maintenu pendant toute la durée de la suspension.
 
-CITYSCOOT se réserve le droit de suspendre l’accès de l’Utilisateur au Service et/ou résilier son Inscription et ce, sans qu’aucune indemnité ne soit due à l’Utilisateur, dans les circonstances suivantes :
+Sitedeparis-sportif se réserve le droit de suspendre l’accès de l’Utilisateur au Service et/ou résilier son Inscription et ce, sans qu’aucune indemnité ne soit due à l’Utilisateur, dans les circonstances suivantes :
 
 *   Utilisation avérée ou présomption d’utilisation des Identifiants d’un Utilisateur par un tiers. En cas de présomption d’utilisation par un tiers, l’accès sera seulement suspendu jusqu’à ce qu’il ait été déterminé si le compte est utilisé par un tiers ou non ; s’il s’avère que oui, le compte sera résilié ;
 *   Utilisation abusive ou frauduleuse du Service ;
 *   Falsification, omission ou inexactitude des informations ou documentations transmises par un Utilisateur ou par un tiers agissant pour le compte d’un Utilisateur ;
 *   L’absence de mise à jour des informations concernant l’Utilisateur dans son Espace Personnel ;
 *   Divulgation ou utilisation illicite des coordonnées du compte de l’Utilisateur ;
-*   Mise en œuvre de tout procédé technique ayant pour objet ou effet de contourner les présentes CGUS ou porter préjudice aux intérêts de CITYSCOOT ou ses Utilisateurs ;
+*   Mise en œuvre de tout procédé technique ayant pour objet ou effet de contourner les présentes CGUS ou porter préjudice aux intérêts de Sitedeparis-sportif ou ses Utilisateurs ;
 *   Incident ou défaut de paiement de l’Utilisateur ou d’invalidité de la carte bancaire de l’Utilisateur non régularisé dans un délai de quinze (15) jours, étant précisé que l’accès au Service pourra être suspendu pendant ce délai de régularisation ;
 *   Mauvaise utilisation du Scooter ;
 *   Non-respect par l’Utilisateur du Code de la route ou de l’une de ses obligations essentielles, notamment relatives à la sécurité, au titre des présentes CGUS ;
@@ -1377,7 +1377,7 @@ CITYSCOOT se réserve le droit de suspendre l’accès de l’Utilisateur au Ser
 
 Les CGUS sont exclusivement régies par le droit français.
 
-Conformément aux dispositions de l’article L.611-1 et suivants du Code de la consommation, pour tout litige de nature contractuelle entre l’Utilisateur et CITYSCOOT, n’ayant pu être résolu dans le cadre d’une réclamation préalablement introduite auprès du Service Client, l’Utilisateur a la possibilité de recourir gratuitement au Médiateur de la consommation qui sera le médiateur du Conseil national des professions de l’automobile (CNPA) :
+Conformément aux dispositions de l’article L.611-1 et suivants du Code de la consommation, pour tout litige de nature contractuelle entre l’Utilisateur et Sitedeparis-sportif, n’ayant pu être résolu dans le cadre d’une réclamation préalablement introduite auprès du Service Client, l’Utilisateur a la possibilité de recourir gratuitement au Médiateur de la consommation qui sera le médiateur du Conseil national des professions de l’automobile (CNPA) :
 
 *   en le saisissant directement en ligne sur le site [mediateur-cnpa.fr](http://www.mediateur-cnpa.fr/)
 
@@ -1387,13 +1387,13 @@ ou bien
 
 par courrier à : M. le Médiateur du Conseil national des professions de l’automobile, 43 bis, route de Vaugirard – CS 80016 – 92197 Meudon Cedex ou par courriel à :
 
-Si la procédure de médiation n’a pu aboutir à un accord amiable entre les parties, le différend découlant de l’Inscription au Service CITYSCOOT ou de son utilisation sera soumis à la compétence exclusive des tribunaux français.
+Si la procédure de médiation n’a pu aboutir à un accord amiable entre les parties, le différend découlant de l’Inscription au Service Sitedeparis-sportif ou de son utilisation sera soumis à la compétence exclusive des tribunaux français.
 
 **ARTICLE 17 – COMMUNICATION DES CGUS AUX UTILISATEURS – MODIFICATION**
 
 **17.1 Communication et acceptation des Conditions Générales d’Utilisation du Service**
 
-Les CGUS sont soumises au Client pour acceptation lors de la création de son compte CITYSCOOT.
+Les CGUS sont soumises au Client pour acceptation lors de la création de son compte Sitedeparis-sportif.
 
 Il peut à tout moment prendre connaissance des CGUS en vigueur sur le Site Internet et/ou sur l’Application.
 
@@ -1401,7 +1401,7 @@ De surcroît, les CGUS sont envoyées à l’Utilisateur par courrier électroni
 
 **17.2 Modification des CGUS**
 
-Les présentes CGUS (en ce compris les tarifs et les pénalités applicables) pourront être mises à jour à la discrétion de CITYSCOOT. Leur mise à jour sera immédiatement portée à la connaissance de l’Utilisateur par courrier électronique et entrera en vigueur 3 jours après cette notification, date à laquelle la mise à jour sera de nouveau notifiée sur l’Application.
+Les présentes CGUS (en ce compris les tarifs et les pénalités applicables) pourront être mises à jour à la discrétion de Sitedeparis-sportif Leur mise à jour sera immédiatement portée à la connaissance de l’Utilisateur par courrier électronique et entrera en vigueur 3 jours après cette notification, date à laquelle la mise à jour sera de nouveau notifiée sur l’Application.
 
 Lors de la notification sur l’Application, l’Utilisateur sera invité à accepter les Conditions Générales d’Utilisation modifiées avant de pouvoir effectuer sa prochaine Réservation. S’il refuse de les accepter, l’Utilisateur sera libre de ne plus utiliser le Service à l’issue du délai de 3 jours susvisé et de se désinscrire, au plus tard à l’expiration dudit délai, en suivant la procédure décrite à l’article 5.4 ci-dessus.
 
@@ -1409,9 +1409,9 @@ Toute modification des présentes CGUS sera réputée acceptée et immédiatemen
 
 **ARTICLE 18 – DISPOSITIONS SPÉCIFIQUES APPLICABLES AUX UTILISATEURS UBER**
 
-**Le Service est accessible via l’application Uber dans les villes de Paris et Nice (et les villes limitrophes appartenant à la Zone Cityscoot).**
+**Le Service est accessible via l’application Uber dans les villes de Paris et Nice (et les villes limitrophes appartenant à la Zone Sitedeparis-sportif).**
 
-Les dispositions spécifiques suivantes s’appliquent à tout Utilisateur remplissant l’ensemble des conditions énoncées à l’article 4 des présentes et accédant au Service CITYSCOOT via l’application d’Uber (l’« **Utilisateur Uber** »), conformément aux conditions générales d’Uber et aux présentes CGUS.
+Les dispositions spécifiques suivantes s’appliquent à tout Utilisateur remplissant l’ensemble des conditions énoncées à l’article 4 des présentes et accédant au Service Sitedeparis-sportif via l’application d’Uber (l’« **Utilisateur Uber** »), conformément aux conditions générales d’Uber et aux présentes CGUS.
 
 Les Utilisateurs Uber sont invités à prendre connaissance de l’ensemble des présentes CGUS, en ce compris les dispositions spécifiques qui leur sont applicables en vertu du présent article 18 ci-dessous, et des conditions générales d’Uber.
 
@@ -1419,7 +1419,7 @@ Les Utilisateurs Uber sont invités à prendre connaissance de l’ensemble des 
 
 L’article 2 des présentes CGUS est complété comme suit :
 
-Les personnes souhaitant avoir accès au Service CITYSCOOT via un compte Uber sont invitées à consulter également les conditions générales d’Uber.
+Les personnes souhaitant avoir accès au Service Sitedeparis-sportif via un compte Uber sont invitées à consulter également les conditions générales d’Uber.
 
 **18.2 Non-application de l’article 5 des CGUS aux Utilisateurs Uber**
 
@@ -1431,13 +1431,13 @@ Les modalités d’inscription sur l’application d’Uber sont détaillées da
 
 Les dispositions de l’article 7.1 des CGUS ne s’appliquent pas aux Utilisateurs Uber.
 
-Les Utilisateurs Uber n’ont pas d’Espace Personnel dans l’Application de CITYSCOOT mais peuvent consulter les informations les concernant et gérer leurs informations personnelles dans l’application d’Uber.
+Les Utilisateurs Uber n’ont pas d’Espace Personnel dans l’Application de Sitedeparis-sportif mais peuvent consulter les informations les concernant et gérer leurs informations personnelles dans l’application d’Uber.
 
 **18.4 Modification de l’article 7.2 des CGUS**
 
 L’article 7.2 est CGUS est complété comme suit :
 
-En cas de sinistre, de dysfonctionnement du Service, ou d’incident technique, l’Utilisateur Uber est invité à prendre contact avec le service client de CITYSCOOT par téléphone au , 24h/24 et 7jours/7.
+En cas de sinistre, de dysfonctionnement du Service, ou d’incident technique, l’Utilisateur Uber est invité à prendre contact avec le service client de Sitedeparis-sportif par téléphone au , 24h/24 et 7jours/7.
 
 Pour toute question liée à son compte Uber, l’application d’Uber, la facturation et le paiement du Service, l’Utilisateur Uber est invité à prendre contact avec le service client d’Uber.
 
@@ -1451,7 +1451,7 @@ Les Utilisateurs Uber sont invités à prendre connaissance des modalités de fa
 
 Les dispositions de l’article 11.1 des CGUS sont remplacées par les dispositions suivantes applicables aux Utilisateurs Uber :
 
-En cas de notification d’un procès-verbal d’infraction au Code de la Route pour le compte de l’Utilisateur Uber, CITYSCOOT informera Uber et l’Utilisateur Uber par courriel, de l’existence du procès-verbal. A la suite de cette notification, CITYSCOOT se réserve le droit d’acquitter l’amende auprès de l’autorité compétente et facturera dans ce cas l’Utilisateur Uber du montant de l’amende ainsi que de toute somme forfaitaire prévue en ANNEXE 2 des CGUS au titre des frais de dossier occasionnés par le traitement du procès-verbal, ainsi que des frais liés à la mise éventuelle en fourrière du véhicule.
+En cas de notification d’un procès-verbal d’infraction au Code de la Route pour le compte de l’Utilisateur Uber, Sitedeparis-sportif informera Uber et l’Utilisateur Uber par courriel, de l’existence du procès-verbal. A la suite de cette notification, Sitedeparis-sportif se réserve le droit d’acquitter l’amende auprès de l’autorité compétente et facturera dans ce cas l’Utilisateur Uber du montant de l’amende ainsi que de toute somme forfaitaire prévue en ANNEXE 2 des CGUS au titre des frais de dossier occasionnés par le traitement du procès-verbal, ainsi que des frais liés à la mise éventuelle en fourrière du véhicule.
 
 **18.7 Modification de l’article 17 des CGUS**
 
@@ -1496,7 +1496,7 @@ Les montants des pénalités ci-dessous, contraventions exceptées, sont tous TV
 
 **Abandon du Scooter pendant la location hors zone**
 
-La Location reste effective sans plafonnement de facturation jusqu’à la restitution du Scooter par l’Utilisateur ou, si ce dernier refuse, jusqu’à sa récupération par CITYSCOOT. En sus de la Location consommée jusqu’à la prise en charge effective du Scooter par CITYSCOOT ou par un dépanneur mandaté par CITYSCOOT (effectuée dans un délai maximum de 48heures), l’Utilisateur sera facturé des frais de rapatriement du Scooter au sein de la Zone CITYSCOOT (ou à l’atelier) établis en fonction de localisation du scooter :
+La Location reste effective sans plafonnement de facturation jusqu’à la restitution du Scooter par l’Utilisateur ou, si ce dernier refuse, jusqu’à sa récupération par Sitedeparis-sportif. En sus de la Location consommée jusqu’à la prise en charge effective du Scooter par Sitedeparis-sportif ou par un dépanneur mandaté par Sitedeparis-sportif (effectuée dans un délai maximum de 48heures), l’Utilisateur sera facturé des frais de rapatriement du Scooter au sein de la Zone Sitedeparis-sportif (ou à l’atelier) établis en fonction de localisation du scooter :
 
 – Dans les villes limitrophes non incluses dans la zone : 100 €
 
@@ -1504,7 +1504,7 @@ La Location reste effective sans plafonnement de facturation jusqu’à la resti
 
 **Restitution du Scooter dans une zone privée non accessible au public**
 
-L’Utilisateur responsable de la restitution du Scooter dans la zone privée non accessible au public sera facturé 20 € par heure à compter de la fin de sa Location (y compris pendant les heures de fermeture du service) jusqu’au dépôt du Scooter dans une zone accessible au public au sein de la Zone CITYSCOOT
+L’Utilisateur responsable de la restitution du Scooter dans la zone privée non accessible au public sera facturé 20 € par heure à compter de la fin de sa Location (y compris pendant les heures de fermeture du service) jusqu’au dépôt du Scooter dans une zone accessible au public au sein de la Zone Sitedeparis-sportif
 
 \+ 150€ de frais de déplacement.
 
@@ -1515,17 +1515,17 @@ L’Utilisateur responsable de la restitution du Scooter dans la zone privée no
 30€ de frais de déplacement
 
 **Défaut de Paiement**  
-Défaut de paiement des sommes dues à CITYSCOOT par l’Utilisateur.
+Défaut de paiement des sommes dues à Sitedeparis-sportif par l’Utilisateur.
 
 Frais de gestion de 30 €
 
 \+ Suspension de l’accès au Service jusqu’au paiement des sommes dues.
 
-**Panne de batterie** due à la négligence de l’Utilisateur et entrainant l’intervention de CITYSCOOT ou d’un dépanneur mandaté par CITYSCOOT.
+**Panne de batterie** due à la négligence de l’Utilisateur et entrainant l’intervention de Sitedeparis-sportif ou d’un dépanneur mandaté par Sitedeparis-sportif.
 
-Frais de rapatriement du Scooter au sein de la Zone CITYSCOOT (ou à l’atelier) établis en fonction de localisation du scooter :
+Frais de rapatriement du Scooter au sein de la Zone Sitedeparis-sportif (ou à l’atelier) établis en fonction de localisation du scooter :
 
-– Dans les villes incluses (partiellement ou totalement) dans la zone Cityscoot : 50 €
+– Dans les villes incluses (partiellement ou totalement) dans la zone Sitedeparis-sportif : 50 €
 
 – Dans les villes limitrophes non incluses dans la zone : 100 €
 
@@ -1535,13 +1535,13 @@ Frais de rapatriement du Scooter au sein de la Zone CITYSCOOT (ou à l’atelier
 
 Facturation de 150 € couvrant le remplacement du casque et les frais d’intervention
 
-**Non-respect par l’Utilisateur de la procédure d’assistance définie en 7.5 / Sinistre non déclaré par l’Utilisateur / Documentation et/ou évènement non communiqué(s) à CITYSCOOT dans les 48h suivant le sinistre ou suivant la demande de CITYSCOOT / Vol non déclaré aux autorités de Police**
+**Non-respect par l’Utilisateur de la procédure d’assistance définie en 7.5 / Sinistre non déclaré par l’Utilisateur / Documentation et/ou évènement non communiqué(s) à Sitedeparis-sportif dans les 48h suivant le sinistre ou suivant la demande de Sitedeparis-sportif / Vol non déclaré aux autorités de Police**
 
 Frais de gestion de 250 €
 
 \+ Frais de rapatriement du scooter :
 
-– Dans les villes incluses (partiellement ou totalement) dans la zone Cityscoot : 50 €
+– Dans les villes incluses (partiellement ou totalement) dans la zone Sitedeparis-sportif : 50 €
 
 – Dans les villes limitrophes non incluses dans la zone : 100 €
 
@@ -1550,11 +1550,11 @@ Frais de gestion de 250 €
 \+ Suspension immédiate de l’accès au Service.
 
 **Omission ou inexactitude des renseignements fournis par l’Utilisateur**  
-au moment de l’Inscription au Service ou de l’accès au Service pouvant conduire à une modification des garanties apportées par le contrat d’assurance ou pouvant résulter en un préjudice subi par CITYSCOOT.
+au moment de l’Inscription au Service ou de l’accès au Service pouvant conduire à une modification des garanties apportées par le contrat d’assurance ou pouvant résulter en un préjudice subi par Sitedeparis-sportif
 
 Frais de gestion de 30 €
 
-\+ Réparation par l’Utilisateur du préjudice subi par CITYSCOOT ou tout autre tiers résultant directement de l’inexactitude ou de l’omission des données fournies par l’Utilisateur.
+\+ Réparation par l’Utilisateur du préjudice subi par Sitedeparis-sportif ou tout autre tiers résultant directement de l’inexactitude ou de l’omission des données fournies par l’Utilisateur.
 
 \+ Suspension immédiate de l’accès au Service
 
@@ -1569,7 +1569,7 @@ Facturation au dernier Utilisateur ayant stationné le scooter :
 
 – Des frais de fourrière réels plafonnées à une journée de garde.
 
-– Du montant de la Location éventuellement en cours jusqu’au retour du Scooter au sein de la Zone CITYSCOOT ou dans les ateliers CITYSCOOT.
+– Du montant de la Location éventuellement en cours jusqu’au retour du Scooter au sein de la Zone Sitedeparis-sportif ou dans les ateliers Sitedeparis-sportif.
 
 **Contraventions**  
 Infraction pour Stationnement, Mauvaise conduite, Excès de vitesse, Non-respect du Code de la Route.
@@ -1585,7 +1585,7 @@ Sommes dues au titre de la Franchise (voir Annexe 3) :
 
 \+ Frais de rapatriement du Scooter :
 
-– Dans les villes incluses (partiellement ou totalement) dans la zone Cityscoot : 50 €
+– Dans les villes incluses (partiellement ou totalement) dans la zone Sitedeparis-sportif : 50 €
 
 – Dans les villes limitrophes non incluses dans la zone : 100 €
 
