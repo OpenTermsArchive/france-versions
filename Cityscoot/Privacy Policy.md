@@ -3,9 +3,9 @@ Politique de confidentialité
 
 Dernière mise à jour le 30 novembre 2023
 
-Le Site www.cityscoot.eu.com, l’Application et le service Cityscoot (ci-après « nos Services ») sont proposés par la société CITYSCOOT, société par actions simplifiées, immatriculée au RCS de Paris sous le numéro dont le siège social est situé 8 rue Bayen, 75017 Paris pour la France et CITYSCOOT ITALIA S.R.L. (société en liquidation), domiciliée à Milan (Italie), Via Washington , enregistré sous le N° MI – pour l’Italie (ci-après « Cityscoot » ou « Nous »).
+Le Site www.Sitedeparis-sportif.eu.com, l’Application et le service Sitedeparis-sportif (ci-après « nos Services ») sont proposés par la société Sitedeparis-sportif, société par actions simplifiées, immatriculée au RCS de Paris sous le numéro dont le siège social est situé 8 rue Bayen, 75017 Paris pour la France et Sitedeparis-sportif ITALIA S.R.L. (société en liquidation), domiciliée à Milan (Italie), Via Washington , enregistré sous le N° MI – pour l’Italie (ci-après « Sitedeparis-sportif » ou « Nous »).
 
-Cityscoot s’engage à protéger la vie privée de tous les visiteurs, Clients et Utilisateurs de ses Services. Elle s’engage à ce que la collecte et le traitement de vos données soient effectués conformément au Règlement Général sur la Protection des Données (RGPD) et la Loi dite « Informatique et Libertés ».
+Sitedeparis-sportif s’engage à protéger la vie privée de tous les visiteurs, Clients et Utilisateurs de ses Services. Elle s’engage à ce que la collecte et le traitement de vos données soient effectués conformément au Règlement Général sur la Protection des Données (RGPD) et la Loi dite « Informatique et Libertés ».
 
 La Politique de confidentialité présente nos engagements et les principes fondamentaux que nous appliquons à la protection des données personnelles. Elle vous informe des procédés de collecte et d’utilisation de vos données, des options et des droits dont vous bénéficiez. Elle complète les Conditions Générales d’Utilisation du Service. Les termes commençant par une majuscule non définis aux présentes ont le sens qui leur est donné dans lesdites Conditions Générales d’Utilisation.
 
@@ -23,7 +23,7 @@ Conformément à nos Conditions Générales d’Utilisation, l’accès à nos S
 **Quelles sont les données personnelles traitées ?**
 ----------------------------------------------------
 
-Lors de votre création d’un compte CITYSCOOT, de votre Inscription, de l’utilisation de nos Services ou de l’achat de coupons effectué sur le site cityscoot.eu.com/for-employees, les données personnelles suivantes sont susceptibles d’être collectées et traitées :
+Lors de votre création d’un compte Sitedeparis-sportif, de votre Inscription, de l’utilisation de nos Services ou de l’achat de coupons effectué sur le site Sitedeparis-sportif.eu.com/for-employees, les données personnelles suivantes sont susceptibles d’être collectées et traitées :
 
 *   Des données personnelles d’identification (nom, prénom, date de naissance, selfie, pièce d’identité, permis de conduire, BCR) ;
 *   Des données personnelles de contact (e-mail, adresse postale, numéro de téléphone) ;
@@ -35,7 +35,7 @@ Lors de votre création d’un compte CITYSCOOT, de votre Inscription, de l’ut
 **À quel moment collectons-nous vos données personnelles ?**
 ------------------------------------------------------------
 
-Les données personnelles sont issues des informations que vous nous communiquez directement lors de votre Inscription à nos Services ou, si vous y accédez via votre compte Uber, celles que ce dernier nous communiquera (nom, adresse e-mail, numéro de téléphone, le numéro du scooter que vous souhaitez réserver, votre date de naissance et adresse postale en cas d’infraction routière), ou à l’occasion d’un achat effectué sur le site cityscoot.eu.com/for-employees.
+Les données personnelles sont issues des informations que vous nous communiquez directement lors de votre Inscription à nos Services ou, si vous y accédez via votre compte Uber, celles que ce dernier nous communiquera (nom, adresse e-mail, numéro de téléphone, le numéro du scooter que vous souhaitez réserver, votre date de naissance et adresse postale en cas d’infraction routière), ou à l’occasion d’un achat effectué sur le site Sitedeparis-sportif.eu.com/for-employees.
 
 L’historique de vos trajets est collecté lors de l’utilisation de nos Services.
 
@@ -50,9 +50,9 @@ Lors de la collecte de vos données, vous êtes notamment informés :
 
 *   Des objectifs du recueil de ces données (finalités) ;
 *   Si certaines données doivent être obligatoirement renseignées ou si celles-ci sont facultatives et le cas échéant, des conséquences du défaut de renseignement de données obligatoires (à défaut de renseignement de données obligatoires, l’accès aux Services sera impossible) ;
-*   De la qualité de responsable de traitement de Cityscoot ;
-*   [De vos droits](https://www.cnil.fr/fr/comprendre-vos-droits) et de la façon de les exercer auprès de Cityscoot ;
-*   Du fondement juridique justifiant la licéité du traitement (par exemple, si le traitement est fondé sur votre consentement, ou sur la nécessité de respecter une obligation légale, ou sur la nécessité de l’exécution du contrat qui nous lie, sur l’intérêt légitime de Cityscoot ou d’un tiers…) ;
+*   De la qualité de responsable de traitement de Sitedeparis-sportif ;
+*   [De vos droits](https://www.cnil.fr/fr/comprendre-vos-droits) et de la façon de les exercer auprès de Sitedeparis-sportif ;
+*   Du fondement juridique justifiant la licéité du traitement (par exemple, si le traitement est fondé sur votre consentement, ou sur la nécessité de respecter une obligation légale, ou sur la nécessité de l’exécution du contrat qui nous lie, sur l’intérêt légitime de Sitedeparis-sportif ou d’un tiers…) ;
 *   Des catégories de personnes habilitées à avoir accès à vos données (c’est-à-dire les destinataires de vos données) ;
 *   Si nous envisageons un transfert hors Union Européenne de vos données, nous mettons en place des garanties et vous informons de ces garanties assurant la conformité de ces transferts avec la Règlementation Informatique et Libertés ;
 *   Des durées de conservation ou lorsque cela n’est pas possible des critères utilisés pour déterminer cette durée ;
@@ -115,7 +115,7 @@ Qui sont les destinataires de vos données ?
 
 Sont destinataires des données :
 
-*   Cityscoot, ses filiales, sociétés affiliées, les services concernés par le traitement de votre inscription, notre service clientèle ;
+*   Sitedeparis-sportif, ses filiales, sociétés affiliées, les services concernés par le traitement de votre inscription, notre service clientèle ;
 *   nos prestataires et sous-traitants, notamment aux fins de traitement de vos paiements ou d’authentification de vos documents ;
 *   notre compagnie d’assurance (et/ou notre société de courtage) en cas de sinistres et de vols ;
 *   les autorités de police compétentes en cas d’infraction ;
@@ -129,7 +129,7 @@ Si vous accéder à nos Services via votre compte Uber :
 Les transferts des données hors UE
 ----------------------------------
 
-Cityscoot est susceptible de recourir notamment à un service de stockage et partage de fichiers et à un prestataire de gestion des droits, dont les serveurs ou systèmes peuvent être situés en dehors de l’Espace Economique Européen (EEE), entraînant le transfert des Données en dehors du territoire de l’EEE.
+Sitedeparis-sportif est susceptible de recourir notamment à un service de stockage et partage de fichiers et à un prestataire de gestion des droits, dont les serveurs ou systèmes peuvent être situés en dehors de l’Espace Economique Européen (EEE), entraînant le transfert des Données en dehors du territoire de l’EEE.
 
 Ces transferts sont encadrés par des garanties appropriées de maintien de la confidentialité, de l’intégrité et de la sécurité des Données conformément à la Réglementation Informatique et Libertés. Vous pouvez obtenir copie des garanties de protection en contactant le responsable de traitement par voie électronique ou auprès de notre délégué à la protection des données .
 
@@ -164,7 +164,7 @@ Pour plus d’information : [https://www.cnil.fr/fr/les-droits-pour-maitriser-
 
 **Exercer ses droits**
 
-L’exercice de ces droits s’effectue à tout moment, auprès de Cityscoot, à l’aide d’une pièce d’identité par voie électronique :
+L’exercice de ces droits s’effectue à tout moment, auprès de Sitedeparis-sportif, à l’aide d’une pièce d’identité par voie électronique :
 
 **Réclamation auprès de la CNIL**
 
