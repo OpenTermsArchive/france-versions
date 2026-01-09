@@ -48,7 +48,7 @@ c) Nous nous réservons le droit, sans préavis, d'annuler les Cartes-cadeaux sa
 
 CONDITIONS GÉNÉRALES DE VENTE
 
-**Version du 31 juillet 2025**
+**Version du 9 janvier 2026**
 
 Bienvenue sur le marché en ligne de Shein France.
 
@@ -75,7 +75,7 @@ Si Vous souhaitez passer une commande vers un autre pays européen Vous serez re
 
 Pour pouvoir effectuer une commande sur le Site, le Client déclare être âgé d’au moins 18 ans. Il est précisé que les Produits sont destinés à une utilisation personnelle du Client, sans aucun rapport direct avec son activité professionnelle. Le Client s’engage à ne pas procéder à des achats de Produits en vue de les revendre.
 
-Avant d'effectuer un achat, le Client sera invité à lire attentivement les présentes CGV, à les [imprimer](https://files-c.ltwebstatic.com/ccc/2025/12/19/17661247983895913079.pdf) ou à les sauvegarder électroniquement et à les accepter. Le fait pour un Client de passer une commande implique son acceptation expresse et sans réserve tant des présentes Conditions Générales de Vente que des Conditions Générales d'Utilisation applicables à l'utilisation de la Marketplace (ci-après dénommées conjointement **« T&Cs »** ), sauf dans la mesure où cela serait contraire à la loi. Les CGV peuvent être modifiées à tout moment par SHEIN. En tout état de cause, les CGV applicables sont celles en vigueur au moment de la passation de la commande par le Client. . Il incombe au Client de vérifier les CGV en cas de modification à chaque fois qu'il utilise la Marketplace.
+Avant d'effectuer un achat, le Client sera invité à lire attentivement les présentes CGV, à les  [](https://files-c.ltwebstatic.com/ccc/2025/12/19/17661247983895913079.pdf)[imprimer](https://files-c.ltwebstatic.com/ccc/2026/01/09/176795974365857706.pdf)[](https://files-c.ltwebstatic.com/ccc/2025/12/19/17661247983895913079.pdf) ou à les sauvegarder électroniquement et à les accepter. Le fait pour un Client de passer une commande implique son acceptation expresse et sans réserve tant des présentes Conditions Générales de Vente que des Conditions Générales d'Utilisation applicables à l'utilisation de la Marketplace (ci-après dénommées conjointement **« T&Cs »** ), sauf dans la mesure où cela serait contraire à la loi. Les CGV peuvent être modifiées à tout moment par SHEIN. En tout état de cause, les CGV applicables sont celles en vigueur au moment de la passation de la commande par le Client. . Il incombe au Client de vérifier les CGV en cas de modification à chaque fois qu'il utilise la Marketplace.
 
 Le Client comprend et accepte que les conditions suivantes de la Marketplace font partie intégrale des présentes :
 
@@ -267,7 +267,7 @@ Le Client est tenu de vérifier l'état des Produits à réception de la livrais
 
 (1) Le Client doit s'assurer que les Produits qui lui ont été livrés correspondent à la commande passée. En cas de réception de produits erronés (différents de ceux achetés par le Client) ou d'erreur sur les quantités, le Client doit informer le [service clientèle](https://fr.shein.com/robot) conformément au présent article.
 
-(2) Le Client devra formuler auprès du Vendeur, via le [Service Client](https://fr.shein.com/robot) , dans les 48 jours après réception du colis, toute réclamation d'erreur de livraison et/ou d'erreur et/ou de non-conformité des Produits en nature ou en qualité par rapport à la commande, ceci n'affectant pas les droits statutaires du Client.
+(2) Le Client devra formuler auprès du Vendeur, via le [Service Client](https://fr.shein.com/robot) , toute réclamation d'erreur de livraison et/ou d'erreur et/ou de non-conformité des Produits en nature ou en qualité par rapport à la commande, ceci n'affectant pas les droits statutaires du Client.
 
 (3) Les frais de renvoi des Produits sont à la charge du Vendeur, qui remboursera le Client dans les quatorze (14) jours suivant la réception des Produits renvoyés.
 
