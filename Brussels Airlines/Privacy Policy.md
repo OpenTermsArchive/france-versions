@@ -313,5 +313,10 @@ Veuillez consulter la page suivante pour obtenir tous les détails sur les infor
 
 En savoir plus sur Travel ID
 
-**Dernière mise à jour : mars 2025  
+5\. Autres législations applicables en matière de protection des données
+------------------------------------------------------------------------
+
+*   **Benin**: Extrait de délibération **n°2025-401/AT/APDP/DST/SC du 28 août 2025** émis par l'Autorité de Protection des Données Personnelles au Benin (APDP).
+
+**Dernière mise à jour : janvier 2026  
 **
