@@ -1,7 +1,7 @@
 **Conditions Générales de Vente LCOMMERCE**
 -------------------------------------------
 
-**Mis à jour : 30 Octobre 2025**
+**Mis à jour : 12 Janvier 2026**
 
 ### **PARTIE 1**
 
@@ -246,7 +246,7 @@ Le paiement en 3 ou 4 fois par carte bancaire permet au Client de régler la Com
 
 *   un apport obligatoire, débité́ le jour de la confirmation de l’expédition de la Commande correspondant à̀ un tiers ou à̀ un quart de la Commande,
     
-*   deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la Commande, prélevées à 30 et 60 jours après pour le paiement en 3 fois et à 30, 60 et 90 jours après pour le paiement en 4 fois, lesquelles comprennent le cas échéant des frais correspondants à 1,64% du montant total de la Commande pour un paiement en 3 fois ou à 2,46 % pour un paiement en 4 fois (dans la limite de 25€ maximum pour un paiement en 3 fois et de 50€ maximum pour un paiement en 4 fois).
+*   deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la Commande, prélevées à 30 et 60 jours après pour le paiement en 3 fois et à 30, 60 et 90 jours après pour le paiement en 4 fois, lesquelles comprennent le cas échéant des frais correspondants à 1,67% du montant total de la Commande pour un paiement en 3 fois ou à 2,50 % pour un paiement en 4 fois (dans la limite de 25€ maximum pour un paiement en 3 fois et de 50€ maximum pour un paiement en 4 fois).
     
 
 Exemple de paiement en 3 fois : 
@@ -275,7 +275,17 @@ Lorsque le retour d'un produit porteur d'un Ticket E.Leclerc entraîne le rembou
 
 De la même façon, en cas de perte du produit par LCOMMERCE avant la livraison d'un produit porteur d'un Ticket E.Leclerc, le montant du Ticket E.Leclerc sera déduit du remboursement et restera disponible sur la carte E.Leclerc.
 
-**ARTICLE 11. LIVRAISON (hors offres Marketplacesauf précision contraire)** 
+**ARTICLE 11. CODE PROMOTIONNEL (hors Offres Marketplace et Offres Click&Collect)**
+
+Un code promotionnel constitue un code numérique ou alphanumérique permettant au Client de bénéficier d'une réduction tarifaire sur un produit, une catégorie de produits ou sur le montant du panier en fonction des modalités d’utilisation de chaque code promotionnel. Pour que la réduction s'applique, le Client est tenu de renseigner ledit code promotionnel dans l'interface prévue à cet effet au cours du processus de commande.
+
+Dans le cas où le Client fait l’usage d’un code promotionnel permettant de bénéficier d’une réduction de prix en pourcentage ou en valeur fixe sur un produit, une catégorie de produit ou sur le panier, ce code promotionnel n’est pas cumulable avec une autre promotion ou réduction existante quelle qu'elle soit et seule la réduction découlant de l’usage du code promotionnel sera applicable.
+
+Les codes promotionnels sont utilisables uniquement pour les produits vendus par LCOMMERCE, à l’exclusion des Offres Marketplace, des Offres Click&Collect, ainsi que pour les précommandes, les livres et le vin.
+
+Lorsque le retour d'un produit porteur d'un code promotionnel entraîne le remboursement du produit, seul le montant effectivement payé par le Client lui sera remboursé, le montant du code promotionnel n'étant pas quant à lui versé au Client.
+
+**ARTICLE 12. LIVRAISON (hors offres Marketplacesauf précision contraire)** 
 
 Les dispositions du présent article ne sont pas valables pour les produits proposés dans le cadre de l'Offre Marketplace, sauf précision contraire. 
 
@@ -287,11 +297,11 @@ Les conditions, frais et délais de livraison, diffèrent en fonction du mode de
 
 Le Client est informé, au moment de la passation de la Commande, du/des modes de livraisons disponibles ainsi que du/des délais et tarifs applicables au mode de livraison choisi.
 
-**11.1 Les différents modes de livraison** 
+**12.1 Les différents modes de livraison** 
 
 LCOMMERCE propose, en fonction de la taille du colis et de l'adresse de livraison, les modes de livraison suivants :
 
-11.1.1 Livraison à domicile standard
+12.1.1 Livraison à domicile standard
 
 Ce service est assuré par Colissimo. Les Commandes sont livrées à domicile du lundi au samedi dans les 1 à 2 jours ouvrés qui suivent l’expédition du colis. 
 
@@ -320,7 +330,7 @@ Si le Client a reprogrammé une nouvelle livraison à son domicile, il devra s�
 
 En cas de nouvelle absence, le colis sera déposé soit en bureau de Poste dans lequel il sera disponible pendant 14 jours calendaires, soit en point de retrait pour un délai de 7 jours ouvrés après la livraison. Passé ce délai, le colis sera renvoyé  à l’expéditeur et remis en stock. Le Client sera, alors, remboursé du montant de sa Commande dès réception du colis dans les entrepôts. Aucune réexpédition ne sera possible et le cas échéant une nouvelle Commande devra être passée.
 
-11.1.2 Livraison à domicile Express 
+12.1.2 Livraison à domicile Express 
 
 Ce service est assuré par Chronopost. Les Commandes sont livrées à domicile du lundi au samedi avant 13h (hors période de fin d'année lors de laquelle les livraisons s'étendent jusqu'à 18h).
 
@@ -342,7 +352,7 @@ Le jour de la livraison, le Client recevra un e-mail et un SMS annonçant un cr�
 Si le Client est absent lors du passage du transporteur, un avis de passage sera déposé dans sa boîte aux lettres et son colis sera déposé dans un point d’instance (Relais Chronopost ou bureau de poste). Le Client sera également informé par e-mail et/ou SMS.  
 Le colis sera à disposition du Client pendant 8 jours ouvrés suivant son dépôt au point d’instance. Passé ce délai, le colis sera renvoyé  à l’expéditeur et remis en stock. Le Client sera, alors, remboursé du montant de sa Commande dès réception du colis dans les entrepôts et des frais de port. Aucune réexpédition ne sera possible et le cas échéant une nouvelle Commande devra être passée.
 
-11.1.3 Livraison en point de retrait magasin E.Leclerc (en fonction de la nature du produit) 
+12.1.3 Livraison en point de retrait magasin E.Leclerc (en fonction de la nature du produit) 
 
 Les retraits de produits en magasin ne sont possibles que dans des magasins E.Leclerc de France Métropolitaine. Les produits sont uniquement disponibles dans le magasin que le Client a indiqué au cours du processus de Commande.
 
@@ -350,7 +360,7 @@ Pour retirer sa Commande, le Client doit attendre d’avoir reçu son courrier �
 
 Au moment de retirer sa Commande, le Client doit présenter une preuve de son identité ainsi que sa facture ou le numéro de référence de sa Commande.
 
-11.1.4 Livraison en point de retrait en dehors du magasin E.Leclerc (en fonction de la nature du produit)
+12.1.4 Livraison en point de retrait en dehors du magasin E.Leclerc (en fonction de la nature du produit)
 
 Ce service est assuré par Chronopost. Les Commandes sont livrées sous 24h à 48h (hors dimanche et jours fériés) dans le point de retrait choisi par le Client.
 
@@ -360,7 +370,7 @@ Le Client sera informé de la disponibilité de son colis par e-mail et/ou par S
 
 Le Client dispose d'un délai de 10 jours ouvrés à compter de la mise à disposition de son colis pour le retirer. Passé ce délai, le colis sera automatiquement renvoyé à l’expéditeur. Dans ce cas, le Client sera remboursé du montant de sa commande et des frais de port.
 
-11.1.5 Livraison de produits volumineux sur rendez-vous
+12.1.5 Livraison de produits volumineux sur rendez-vous
 
 _Ce service est assuré par VIR by Jacky Perrenot._ 
 
@@ -375,7 +385,7 @@ Lorsque le Client réalise une commande d’un ou de produits dits volumineux (p
 *   Livraison Mise en service (LE), dans la pièce d’utilisation : Les Commandes sont livrées par le transporteur et acheminées par ce dernier dans la pièce d’utilisation, y compris à l’étage. Le déballage, la reprise des emballages, ainsi que le montage de l’appareil sont compris dans la prestation. 
     
 
-**11.2 Les modalités de livraison** 
+**12.2 Les modalités de livraison** 
 
 Les livraisons sont disponibles pour la France Métropolitaine, Corse incluse (ci-après le "Territoire"). 
 
@@ -383,9 +393,9 @@ Le Client choisit une adresse de livraison nécessairement située sur le Territ
 
 Les livraisons ne sont opérées qu’en fonction des disponibilités des produits ou services, dans l’ordre d’arrivée des Commandes.
 
-**11.3 Délais et retard de livraison** 
+**12.3 Délais et retard de livraison** 
 
-11.3.1 Applicable à toutes les Offres
+12.3.1 Applicable à toutes les Offres
 
 Les délais de livraison sont disponibles sur le Site et peuvent varier en fonction de la disponibilité des biens ayant fait l’objet de la Commande. Les délais de livraison s’entendent en jours ouvrés et correspondent aux délais moyens de préparation et d’acheminement de la Commande sur le Territoire. Les délais de livraison courent à compter de la date de confirmation de la Commande par LCOMMERCE.
 
@@ -404,7 +414,7 @@ Lorsque le contrat est résolu dans les conditions ci-avant LCOMMERCE rembourser
 
 Si le Client est livré avant la réception par LCOMMERCE de la lettre recommandée avec accusé de réception dénonçant le contrat, cette dénonciation ne sera pas prise en compte. 
 
-11.3.2 Applicable aux Offres LCOMMERCE uniquement
+12.3.2 Applicable aux Offres LCOMMERCE uniquement
 
 LCOMMERCE ne peut être tenue responsable d’un retard ou défaut de livraison lié à un cas de force majeure ou à un évènement échappant à son contrôle qui rendrait l’exécution du contrat impossible ou plus onéreuse, étant entendu que sont considérés comme tels, à titre indicatif et non limitatif, émeute, révolution, mobilisation, guerre, épidémie, prescriptions officielles, difficultés de transport, perturbations dans l'exploitation, incendies et autres cas similaires.
 
@@ -414,7 +424,7 @@ A défaut pour le Client de prendre livraison de son colis lors de sa présentat
 
 LCOMMERCE ne procédera pas à la réexpédition dudit colis. Le Client est remboursé et doit repasser une Commande.
 
-**ARTICLE 12. RECEPTION DES PRODUITS (hors Offres Marketplace)** 
+**ARTICLE 13. RECEPTION DES PRODUITS (hors Offres Marketplace)** 
 
 Les dispositions du présent article ne sont pas valables pour les produits proposés dans le cadre de l'Offre Marketplace. 
 
@@ -438,7 +448,7 @@ Le Client peut faire une réclamation en ligne via l'espace "Mes commandes" disp
 
 Le Client devra fournir à LCOMMERCE toute justification quant à la réalité des anomalies constatées.
 
-**ARTICLE 13. PRÉCOMMANDES (hors Offres Marketplace)** 
+**ARTICLE 14. PRÉCOMMANDES (hors Offres Marketplace)** 
 
 Les dispositions du présent article ne sont pas valables pour les produits proposés dans le cadre de l'Offre Marketplace. 
 
@@ -466,7 +476,7 @@ Au bout de quinze jours à compter de la date de réception en magasin ou en poi
 
 Le Site peut proposer certains Bonus de précommandes consistant en des contenus virtuels et/ou physiques additionnels aux produits précommandés. Cette Offre de Bonus de Précommande peut être consultée sur la page dédiée et le Bonus sera fourni conformément aux modalités de l'Offre concernée.
 
-**ARTICLE 14.RÉTRACTATION, REMBOURSEMENT OU ÉCHANGE (hors Offres Marketplace)**
+**ARTICLE 15.RÉTRACTATION, REMBOURSEMENT OU ÉCHANGE (hors Offres Marketplace)**
 
 Les dispositions du présent article peuvent différer dans le cadre des Offres Marketplace, à l'exception du droit de rétractation légal dans les conditions rappelées au présent article.
 
@@ -535,7 +545,7 @@ Conformément à la réglementation en vigueur, le droit de rétractation ne peu
 *   les produit dangereux au sens de la réglementation de type inflammable ou explosif pour des raisons de sécurité (par exemple les recharges de gaz) ; 
     
 
-**ARTICLE 15. PROPRIETE INTELLECTUELLE** 
+**ARTICLE 16. PROPRIETE INTELLECTUELLE** 
 
 Les textes, dénominations, marques ou autres signes distinctifs, images et représentations graphiques contenus sur le Site sont protégés par des droits de propriété intellectuelle (ci-après les « Droits de Propriété Intellectuelle »).
 
@@ -547,7 +557,7 @@ LCOMMERCE ne saurait être tenue pour responsable de tout dommage, direct ou ind
 
 La vente des produits n’emporte aucune cession ou concession de droits intellectuels.
 
-**ARTICLE 16. TRAITEMENT DES DONNEES A CARACTERE PERSONNEL** 
+**ARTICLE 17. TRAITEMENT DES DONNEES A CARACTERE PERSONNEL** 
 
 Les données à caractère personnel recueillies auprès du Client lors d'un achat sur le Site font l’objet d’un traitement informatique dont le responsable est la société auteur de l'offre, à savoir soit LCOMMERCE soit un Vendeur Tiers. Cette collecte a pour finalité de fournir les produits et services achetés, d'assurer le service après-vente associé et de remplir les obligations de garantie, sur la base de l'exécution du contrat de vente.
 
@@ -565,7 +575,7 @@ LCOMMERCE a désigné un délégué à la protection des données, qui peut êtr
 
 S'agissant de l'éventuel délégué à la protection des données désigné par un Vendeur Tiers, le Client est invité à contacter directement le Vendeur Tiers concerné. 
 
-**ARTICLE 17. RESPONSABILITE** 
+**ARTICLE 18. RESPONSABILITE** 
 
 Les produits proposés sont conformes à la législation française en vigueur.
 
@@ -573,7 +583,7 @@ Le Client est invité à se reporter au descriptif et à la notice de montage de
 
 Le Client est invité à utiliser son produit conformément aux conditions d'utilisation indiquées dans la notice transmise par le fournisseur, ainsi que dans les cas d'utilisation raisonnablement prévisibles. La responsabilité de LCOMMERCE ou du Vendeur Tiers concerné ne saurait être engagée en cas d'endommagement du bien suite à une mauvaise utilisation, à la dégradation intentionnelle ou à une utilisation négligente des instructions et des conditions du fabricant.
 
-**ARTICLE 18. ENVIRONNEMENT : REPRISE 1 POUR 1 (hors Offres Marketplace et Offres Click&Collect)** 
+**ARTICLE 19. ENVIRONNEMENT : REPRISE 1 POUR 1 (hors Offres Marketplace et Offres Click&Collect)** 
 
 Conformément à l'article L541-10-8 du Code de l'environnement, LCOMMERCE reprend gratuitement, ou fait reprendre gratuitement pour son compte, les produits usagés que lui cède le Client, dans la limite de la quantité et du type d'équipement vendu par LCOMMERCE pour les filières REP suivantes : 
 
@@ -605,11 +615,11 @@ Les déchets de produits usagés ne doivent pas être jetés avec les déchets m
 
 Les prix de vente comprennent le cas échéant le coût de l'éco-participation à la charge du Client et instituée par la réglementation en vigueur pour contribuer à l'élimination des déchets électriques et électroniques.
 
-**ARTICLE 19. GARANTIES LEGALES**
+**ARTICLE 20. GARANTIES LEGALES** 
 
-19.1 Indépendamment de la garantie commerciale, LCOMMERCE ou le Vendeur Tiers concerné est tenu aux défauts de conformité des produits, y compris ceux intégrant des contenus numériques, dans les conditions des articles L. 217-3 et suivants du Code de la consommation et des défauts cachés de la chose vendue dans les conditions prévues aux [articles 1641 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006441924&dateTexte=&categorieLien=cid) du Code civil.
+20.1 Indépendamment de la garantie commerciale, LCOMMERCE ou le Vendeur Tiers concerné est tenu aux défauts de conformité des produits, y compris ceux intégrant des contenus numériques, dans les conditions des articles L. 217-3 et suivants du Code de la consommation et des défauts cachés de la chose vendue dans les conditions prévues aux [articles 1641 et suivants](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006441924&dateTexte=&categorieLien=cid) du Code civil.
 
-19.1.1 Dispositions applicables aux contrats de vente de biens meubles corporels.
+20.1.1 Dispositions applicables aux contrats de vente de biens meubles corporels.
 
 Le consommateur dispose d'un délai de deux ans à compter de la délivrance du bien pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité. Durant ce délai, le consommateur n'est tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci.
 
@@ -647,7 +657,7 @@ Le vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie
 
 Le consommateur bénéficie également de la garantie légale des vices cachés en application des [articles 1641 à 1649 du code civil](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006441924&dateTexte=&categorieLien=cid), pendant une durée de deux ans à compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le bien est conservé ou à un remboursement intégral contre restitution du bien.
 
-19.1.2 Dispositions applicables aux opérations de fourniture ponctuelle du contenu numérique ou du service numérique, ou une série d'opérations de fourniture distinctes
+20.1.2 Dispositions applicables aux opérations de fourniture ponctuelle du contenu numérique ou du service numérique, ou une série d'opérations de fourniture distinctes
 
 Le consommateur dispose d'un délai de deux ans à compter de la fourniture du contenu numérique ou du service numérique pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité. Durant un délai d'un an à compter de la date de fourniture, le consommateur n'est tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci.
 
@@ -679,7 +689,7 @@ Le professionnel qui fait obstacle de mauvaise foi à la mise en œuvre de la ga
 
 Le consommateur bénéficie, en outre, de la garantie légale des vices cachés en application des [articles 1641 à 1649 du code civil](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006441924&dateTexte=&categorieLien=cid), pendant une durée de deux ans à compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le contenu numérique ou le service numérique est conservé ou à un remboursement intégral contre renonciation au contenu numérique ou au service numérique. 
 
-19.1.3 Dispositions applicables aux opérations de fourniture continue de contenu numérique ou du service numérique
+20.1.3 Dispositions applicables aux opérations de fourniture continue de contenu numérique ou du service numérique
 
 La garantie légale de conformité donne au consommateur droit à la mise en conformité du contenu numérique ou du service numérique sans retard injustifié suivant sa demande, sans frais et sans inconvénient majeur pour lui.
 
@@ -709,7 +719,7 @@ Le professionnel qui fait obstacle de mauvaise foi à la mise en œuvre de la ga
   
 Le consommateur bénéficie également de la garantie légale des vices cachés en application des [articles 1641 à 1649 du code civil](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006070721&idArticle=LEGIARTI000006441924&dateTexte=&categorieLien=cid), pendant une durée de deux ans à compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le contenu numérique ou le service numérique est conservé, ou à un remboursement intégral contre renonciation au contenu numérique ou au service numérique.
 
-**19.2**. Pour être conforme à la Commande, le produit doit répondre aux critères suivants :
+**20.2**. Pour être conforme à la Commande, le produit doit répondre aux critères suivants :
 
 *   être propre à l'usage habituellement attendu d'un bien de même type, 
     
@@ -734,9 +744,9 @@ Toutefois, LCOMMERCE ou le Vendeur Tiers concerné peut ne pas procéder selon l
 
 Tout refus par LCOMMERCE ou le Vendeur Tiers de procéder selon le choix du Client ou de mettre le bien en conformité, est motivé par écrit ou sur support durable.
 
-**ARTICLE 20. RÉCLAMATION**
+**ARTICLE 21. RÉCLAMATION** 
 
-**20.1 Pour les offres LCOMMERCE**
+**21.1 Pour les offres LCOMMERCE**
 
 Les dispositions du présent article ne sont pas valables pour les produits proposés dans le cadre de l'Offre Marketplace et du Click&Collect.
 
@@ -756,7 +766,7 @@ Conformément aux dispositions du Code de la consommation concernant le règleme
 
 La Commission européenne met à disposition une plateforme en ligne de résolution des différends à laquelle vous pouvez accéder ici: [**https://consumer-redress.ec.europa.eu/index\_fr**](https://ec.europa.eu/consumers/odr/).
 
-**20.2 Pour les Offres Marketplace**
+**21.2 Pour les Offres Marketplace**
 
 En cas de réclamation, le Client pourra utiliser les différents modes de contact suivants :
 
@@ -778,7 +788,7 @@ Le Vendeur Tiers réglera par lui-même le litige l'opposant à son Client, LCOM
 
 Dans l’hypothèse où le Vendeur Tiers et son Client ne parviendraient pas à trouver une solution amiable ou si le Vendeur Tiers ne répond pas à la demande de son Client dans un délai de huit (8) jours, LCOMMERCE interviendra, à la demande expresse du Client par le biais de son service client (commande@serviceclients.leclerc), afin de rappeler au Vendeur Tiers ses obligations et en recherchant une solution au litige.
 
-**20.3 Pour les Offres Click&Collect**
+**21.3 Pour les Offres Click&Collect**
 
 En cas de réclamation, le Client pourra utiliser les différents modes de contact suivants :
 
@@ -793,7 +803,7 @@ Conformément aux dispositions du Code de la consommation concernant le règleme
 
 La Commission européenne met à disposition une plateforme en ligne de résolution des différends à laquelle vous pouvez accéder ici:  https://consumer-redress.ec.europa.eu/index\_fr . 
 
-**ARTICLE 21. LOI APPLICABLE ET JURIDICTIONS COMPETENTES** 
+**ARTICLE 22. LOI APPLICABLE ET JURIDICTIONS COMPETENTES** 
 
 La loi française est seule applicable aux présentes conditions générales de vente à l’exception des cas ou un tribunal d’un autre pays serait compétent en raison des règles de droit international privé.
 
@@ -801,5 +811,6 @@ Tout litige, quelle qu’en soit la nature, peut être soumis à la juridiction 
 
 Historique des Conditions générales de vente : 
 
-*   [(Ancienne Version) - CGV 21 10 2025](https://media.e.leclerc/LEN/document/2025%2010%2021%20-%20CGV%20Lcommerce.docx?vh=5793e5&func=proxy)
-*   [(Ancienne version) - CGV 25 05 2023](https://media.e.leclerc/LEN/document/2023%2005%2025%20-%20CGV%20Lcommerce?vh=5169e1&func=proxy)
+*   [(Ancienne Version) - CGV 30 Octobre 2025](https://media.e.leclerc/LEN/document/2025%2010%2030%20-%20CGV%20Lcommerce%20.docx?vh=387cea&func=proxy)
+*   [(Ancienne Version) - CGV 21 Octobre 2025](https://media.e.leclerc/LEN/document/2025%2010%2021%20-%20CGV%20Lcommerce.docx?vh=5793e5&func=proxy)
+*   [(Ancienne version) - CGV 25 Mai 2023](https://media.e.leclerc/LEN/document/2023%2005%2025%20-%20CGV%20Lcommerce?vh=5169e1&func=proxy)
