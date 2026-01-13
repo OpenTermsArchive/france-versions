@@ -3,11 +3,11 @@ POLITIQUE DE PROTECTION DE LA VIE PRIVÉE
 
 ### 1.**QUI EST LE TITULAIRE DU TRAITEMENT DE VOS DONNÉES PERSONNELLES**
 
-Le Responsable du Traitement de vos données personnelles est **Benetton E-Commerce S.r.l.**, sis à Via della Cartiera 1, Villorba (TV), CAP 31020, Italie, benettongroup@legalmail.it. Benetton E-Commerce S.r.l. est titulaire des sites web benetton.com, inside.benetton.com, sisley.com, familycard.benetton.com, blackcard.sisley.com, benettongroup.com (nommés ci-après “Properties digitali”).  
+Le Responsable du Traitement de vos données personnelles est **Benetton Group S.r.l.**, sis à Villa Minelli, 1 - 31050 Ponzano (TV), Italie, benettongroup@legalmail.it. Benetton Group S.r.l. est titulaire des sites web benetton.com, inside.benetton.com, sisley.com, familycard.benetton.com, blackcard.sisley.com, benettongroup.com (nommés ci-après “Properties digitali”).  
   
 Vous pouvez contacter le Titulaire du Traitement par écrit à l'adresse ci-dessus.  
   
-Vous pouvez également contacter directement le Responsable de la protection des données personnelles de Benetton E-Commerce S.r.l. à l'adresse e-mail rpd@benetton.it, ou en écrivant à l'adresse suivante : Responsabile Protezione Dati, Benetton E-Commerce S.r.l., Via della Cartiera 1, Villorba (TV), CAP 31020, Italie.
+Vous pouvez également contacter directement le Responsable de la protection des données personnelles de Benetton Group S.r.l. à l'adresse e-mail rpd@benetton.it, ou en écrivant à l'adresse suivante : Responsabile Protezione Dati, Benetton Group S.r.l., Villa Minelli, 1 - 31050 Ponzano (TV), Italie.
 
   
   
