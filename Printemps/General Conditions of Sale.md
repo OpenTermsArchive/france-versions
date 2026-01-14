@@ -1,8 +1,6 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Saison 1865](https://www.printemps.com/fr/fr/saison1865) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Rabanne](https://www.printemps.com/fr/fr/rabanne-femme) [Dyson](https://www.printemps.com/fr/fr/univers-dyson)
 
-*   [SOLDES : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes)
-    
-*   [\-20€ dès 200€ d'achats\*](https://www.printemps.com/fr/fr/booster-soldes-20)
+*   [SOLDES : jusqu'à -60%](https://www.printemps.com/fr/fr/soldes)
     
 *   [FEMME](https://www.printemps.com/fr/fr/soldes-femme)
     *   [Voir tout](https://www.printemps.com/fr/fr/soldes-femme)
@@ -99,7 +97,7 @@
     *   [Comment porter le manteau ceinturé ?](https://www.printemps.com/fr/fr/edito-magazine-style-manteau-ceinture-hiver)
     *   [Les bonnes résolutions bien-être de 2026](https://www.printemps.com/fr/fr/edito-magazine-actu-bonnes-resolutions-nouvelle-annee)
 
-*   [SOLDES : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes-femme)
+*   [SOLDES : jusqu'à -60%](https://www.printemps.com/fr/fr/soldes-femme)
     *   [Luxe](https://www.printemps.com/fr/fr/soldes-luxe-femme)
     *   [Sacs](https://www.printemps.com/fr/fr/soldes-sacs-femme)
     *   [Vêtements](https://www.printemps.com/fr/fr/soldes-pret-a-porter-femme)
@@ -169,8 +167,6 @@
     *   [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
     *   [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
 
-*   [SOLDES : -20€ dès 200€ d'achats](https://www.printemps.com/fr/fr/booster-soldes-20-femme)
-    
 *   [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-femme)
     
 *   [LUXE ET CRÉATEURS](https://www.printemps.com/fr/fr/luxe-et-createurs-femme)
@@ -200,7 +196,7 @@
 *   
     
 
-*   [SOLDES : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes-homme)
+*   [SOLDES : jusqu'à -60%](https://www.printemps.com/fr/fr/soldes-homme)
     *   [Luxe](https://www.printemps.com/fr/fr/soldes-luxe-homme)
     *   [Vêtements](https://www.printemps.com/fr/fr/soldes-pret-a-porter-homme)
     *   [Accessoires](https://www.printemps.com/fr/fr/soldes-accessoires-homme)
@@ -260,8 +256,6 @@
     *   [Accessoires de sacs et bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     *   [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
-*   [SOLDES : -20€ dès 200€ d'achats](https://www.printemps.com/fr/fr/booster-soldes-20-homme)
-    
 *   [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme)
     
 *   [LUXE ET CRÉATEURS](https://www.printemps.com/fr/fr/luxe-et-createurs-homme)
@@ -293,9 +287,7 @@
 *   
     
 
-*   [SOLDES - jusqu'à -50%](https://www.printemps.com/fr/fr/soldes-beaute)
-    
-*   [\-20€ dès 200€ d'achats\*](https://www.printemps.com/fr/fr/booster-soldes-20-beaute)
+*   [SOLDES - jusqu'à -60%](https://www.printemps.com/fr/fr/soldes-beaute)
     
 *   [L’ESPACE BEAUTÉ](https://www.printemps.com/fr/fr/espace-beaute)
     
