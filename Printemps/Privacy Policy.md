@@ -1,4 +1,4 @@
-[Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
+[Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Saison 1865](https://www.printemps.com/fr/fr/saison1865) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Rabanne](https://www.printemps.com/fr/fr/rabanne-femme) [Dyson](https://www.printemps.com/fr/fr/univers-dyson)
 
 *   [SOLDES : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes)
     
@@ -338,8 +338,6 @@
     *   [Appareils électroniques](https://www.printemps.com/fr/fr/fers-lisser)
 
 *   [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-beaute)
-    
-*   [HOMME](https://www.printemps.com/fr/fr/beaute-homme)
     
 *   [BOUGIES ET PARFUMS D'INTÉRIEUR](https://www.printemps.com/fr/fr/bougie-parfum-d-interieur)
     
