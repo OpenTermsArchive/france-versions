@@ -349,8 +349,6 @@
     *   [Smoky eyes : le guide complet pour un regard intense](https://www.printemps.com/fr/fr/edito-magazine-beaute-smoky-eyes)
     *   [Skincare : soins et conseils pour affronter le froid](https://www.printemps.com/fr/fr/edito-magazine-beaute-peau-seche-hiver-soins-conseils)
 *   SÉLECTIONS
-    *   [Meilleures ventes](https://www.printemps.com/fr/fr/meilleures-ventes-beaute)
-    *   [Parfums Bestsellers](https://www.printemps.com/fr/fr/parfums-bestsellers)
     *   [Parfums d'exception](https://www.printemps.com/fr/fr/parfum-niche)
     *   [Soins hydratants](https://www.printemps.com/fr/fr/soins-visage-hydratants)
     *   [Soins anti-imperfections](https://www.printemps.com/fr/fr/sos-imperfections)
