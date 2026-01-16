@@ -1,7 +1,7 @@
 **Conditions Générales de Vente LCOMMERCE**
 -------------------------------------------
 
-**Mis à jour : 12 Janvier 2026**
+**Mis à jour : 15 Janvier 2026**
 
 ### **PARTIE 1**
 
@@ -257,23 +257,37 @@ Exemple de paiement en 4 fois : 
 
 \- **avec frais** : Pour un achat de 400,00 €, apport de 110,00 € puis 3 mensualités de 100€. Crédit sur 3 mois au TAEG fixe de 22,63%. Coût du financement : 10,00€, dans la limite de 60 € maximum.
 
-**ARTICLE 10. TICKET LECLERC (hors Offres Marketplace)** 
+**ARTICLE 10. TICKET LECLERC**
 
-10.1 Les dispositions du présent article sont uniquement valables pour les produits proposés dans le cadre de l'Offre LCOMMERCE. 
+10.1 Cagnottage des Tickets Leclerc (hors Offres Marketplace)
 
-Les Tickets E.Leclerc ne sont donc pas utilisables pour les produits proposés dans le cadre de l’Offre Marketplace et de l’Offre Click&Collect. 
+Les dispositions du présent article sont uniquement valables pour les produits proposés dans le cadre de l'Offre LCOMMERCE. 
+
+Les Tickets E.Leclerc ne sont donc pas applicables pour les produits proposés dans le cadre de l’Offre Marketplace . 
+
+Les Tickets E.Leclerc sont automatiquement crédités sur le compte du Client et sont utilisables dès le lendemain en magasin physique et sur les sites drive.leclerc, traiteur.leclerc , chezmoi.leclerc et e.leclerc.
 
 Les détenteurs de la Carte E.Leclerc peuvent cumuler des bons d'achats Tickets E.Leclerc en fonction des produits achetés et des offres promotionnelles en cours. 
 
-Ces Tickets E.Leclerc sont automatiquement crédités sur le compte du Client et sont utilisables dès le lendemain en magasin physique et sur les sites drive.leclerc, traiteur.leclerc et chezmoi.leclerc.
+10.2 Decagnottage des Tickets Leclerc sur le site e.leclerc (hors Offres Marketplace et Hors Offre Click&Collect)
 
-Le Client est libre de choisir le montant des Tickets E.Leclerc qu’il souhaite utiliser en fonction du montant de ticket Leclerc disponible sur sa carte de fidélité.
+Le Client est libre de choisir le montant des Tickets E.Leclerc qu’il souhaite utiliser en fonction du montant de ticket Leclerc disponible sur sa carte de fidélité. 
 
-Seul le prix du produit peut être payé avec les Tickets E.Leclerc, à l’exclusion des frais de livraison.
+Malgré tout, en cas d'utilisation des Tickets E.Leclerc, un paiement minimal de 1 € devra être réglé par carte bancaire pour valider la transaction.
 
-Lorsque le retour d'un produit porteur d'un Ticket E.Leclerc entraîne le remboursement du produit, le montant du Ticket E.Leclerc sera déduit du remboursement et restera disponible sur la Carte E.Leclerc.
+Seul le prix du produit peut être payé avec les Tickets E.Leclerc, à l’exclusion des frais de livraison. L’utilisation des Tickets est applicable uniquement aux commandes mono article en quantité unique. L’utilisation des Tickets Leclerc ne peut être effectuée sur les précommandes. 
+
+En cas de retour d'un produit porteur de Ticket E.Leclerc entraînant le remboursement du produit, le montant du Ticket E.Leclerc sera déduit du remboursement et restera disponible sur la Carte E.Leclerc.
 
 De la même façon, en cas de perte du produit par LCOMMERCE avant la livraison d'un produit porteur d'un Ticket E.Leclerc, le montant du Ticket E.Leclerc sera déduit du remboursement et restera disponible sur la carte E.Leclerc.
+
+En cas de retour d'un produit ayant été payé en tout ou partie avec les Tickets E.Leclerc, alors le montant débité sur la carte de fidélité sera automatiquement recrédité.
+
+De la même façon, en cas de perte du produit par LCOMMERCE avant la livraison d'un produit ayant été payé en tout ou partie avec les Tickets E.Leclerc, le montant débité sur la carte de fidélité sera automatiquement recrédité.
+
+10.3 Utilisation des Tickets Leclerc sur les sites drive.leclerc, traiteur.leclerc et chezmoi.leclerc.
+
+Pour plus d’informations, voir les conditions d’utilisation sur les sites drive.leclerc, traiteur.leclerc et chezmoi.leclerc.
 
 **ARTICLE 11. CODE PROMOTIONNEL (hors Offres Marketplace et Offres Click&Collect)**
 
@@ -811,6 +825,7 @@ Tout litige, quelle qu’en soit la nature, peut être soumis à la juridiction 
 
 Historique des Conditions générales de vente : 
 
+*   [(Ancienne Version) - CGV 12 Janvier 2026](https://media.e.leclerc/LEN/document/2026%2001%2012%20-%20CGV%20Lcommerce%20.docx?vh=bf6d4a&func=proxy)
 *   [(Ancienne Version) - CGV 30 Octobre 2025](https://media.e.leclerc/LEN/document/2025%2010%2030%20-%20CGV%20Lcommerce%20.docx?vh=387cea&func=proxy)
 *   [(Ancienne Version) - CGV 21 Octobre 2025](https://media.e.leclerc/LEN/document/2025%2010%2021%20-%20CGV%20Lcommerce.docx?vh=5793e5&func=proxy)
 *   [(Ancienne version) - CGV 25 Mai 2023](https://media.e.leclerc/LEN/document/2023%2005%2025%20-%20CGV%20Lcommerce?vh=5169e1&func=proxy)
