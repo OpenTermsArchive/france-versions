@@ -1,130 +1,139 @@
 Politique de confidentialité de Starlink
 ========================================
 
-_Dernière mise à jour le 1er mai 2023_
+**Nous avons mis à jour notre Politique de confidentialité. Pour en savoir plus, consultez la [FAQ Starlink](https://starlink.com/support/article/b82cf54a-8e57-917a-bd06-2765642f4a64).**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Nous ne vendons pas sciemment vos données à caractère personnel, mais nous devons vous informer de ce que nous recueillons auprès de vous et de l'usage que nous en faisons. Nous pouvons mettre à jour la présente politique de temps à autre. En continuant à utiliser ce site, vous acceptez les conditions mises à jour. Si vous utilisez les services Starlink par l’intermédiaire de l'abonnement de votre organisation, veuillez demander à l'administrateur de votre organisation des informations sur la manière dont nous traitons vos données à caractère personnel.
+_Dernière mise à jour le 15 janvier 2026_
 
-1.  #### Quelles sont les données à caractère personnel que nous recueillons ?
+La présente Politique de confidentialité mondiale (la « Politique ») explique comment Starlink et ses filiales et sociétés affiliées (collectivement, « Starlink » ou « nous ») collectent, utilisent, partagent et protègent vos informations personnelles lorsque vous utilisez notre site Web (le « Site ») ou communiquez avec nous au sujet de nos services de télécommunications Internet par satellite (les « Services »).
+
+Veuillez lire attentivement la présente Politique avant d’utiliser nos Services, de visiter notre Site ou de nous fournir vos informations personnelles. En visitant notre Site, en utilisant nos Services ou en nous fournissant vos informations personnelles, vous reconnaissez avoir lu et compris la présente Politique. Si vous n’êtes pas d’accord avec une partie de la présente Politique, veuillez ne pas utiliser nos Services, visiter notre Site ou nous fournir vos informations personnelles.
+
+Si vous êtes un abonné Starlink Entreprise, veuillez consulter l’administrateur de votre compte pour obtenir des informations sur la façon dont nous traitons vos informations personnelles.
+
+1.  #### Quelles sont les données personnelles que nous collectons ?
     
-    En fonction de la manière dont vous interagissez avec notre site web, nous pouvons recueillir les données à caractère personnel suivantes à votre sujet, que nous avons regroupées comme suit :
+    En fonction de la manière dont vous interagissez avec notre Site ou utilisez nos Services, nous pouvons collecter les informations personnelles suivantes vous concernant, que nous avons regroupées comme suit : !!réduire Cliquez ici pour en savoir plus.
     
-    *   **Données d'identité**, qui peuvent inclure le prénom, le nom de famille et le titre.
-    *   **Coordonnées**, qui peuvent inclure l'adresse de livraison/service, l'adresse électronique et les numéros de téléphone.
-    *   **Données du profil**, qui peuvent inclure le nom d'utilisateur et le mot de passe, les achats ou les commandes que vous avez effectués, les demandes de service client, vos intérêts, vos préférences, vos commentaires et vos réponses à des enquêtes, ainsi que vos préférences en matière de réception de communications marketing et non marketing de notre part.
-    *   **Données financières**, qui comprennent les données relatives aux cartes de paiement.
-    *   **Données de transaction**, qui comprennent des détails sur les paiements effectués en votre faveur et par vous, ainsi que d'autres détails sur les produits et services que vous avez achetés chez nous.
-    *   **Données techniques du site web**, notamment les données suivantes si vous utilisez notre portail et nos services en ligne : l'adresse de protocole Internet (IP), le type et la version du navigateur, le fuseau horaire et la localisation (voir ci-dessous), le type et la version des plug-ins du navigateur, le système d'exploitation et la plateforme, ainsi que la manière dont vous utilisez notre portail et nos services en ligne et interagissez avec eux.
-    *   **Données techniques du client**, notamment les données sur le débit qui vous est fourni au fil du temps, la connectivité du service, la latence, les mesures de qualité, les données sur l'obstruction du ciel, l'orientation et la localisation de l'appareil, les mesures de qualité du WiFi, les informations sur l'appareil WiFi et les informations sur l'adresse IP publique qui vous a été attribuée au fil du temps.
-    *   **Données de localisation** (géolocalisation non précise), notamment votre emplacement général afin de vous fournir les biens et services appropriés.
-    *   **Données de communication**, notamment des informations audio, électroniques ou visuelles, toutes les données contenues dans les fichiers téléchargés, envoyés par e-mail ou autrement fournies par vous, le contenu de vos communications avec nous, que ce soit par e-mail, par les réseaux sociaux, par téléphone ou autrement, et les déductions que nous pouvons faire à partir d'autres données à caractère personnel que nous recueillons.
+    *   **Données d'identité**, telles que le prénom, le nom et le titre.
+    *   **Données de contact**, telles que l’adresse de livraison du service, l’adresse e-mail et le numéro de téléphone.
+    *   **Données de profil**, telles que le nom d'utilisateur et le mot de passe, les achats ou les commandes que vous avez effectués, les demandes de service à la clientèle, vos centres d'intérêt, vos commentaires et vos réponses aux enquêtes, ainsi que vos préférences en matière de réception de communications commerciales et non commerciales de notre part.
+    *   **Données financières**, telles que les détails de la carte de paiement et l'adresse de facturation.
+    *   **Données de transaction**, telles que les détails sur les paiements que vous avez effectués et reçus et d’autres détails sur les produits et services que vous avez achetés chez nous.
+    *   **Données techniques du site Web**, telles que l’adresse IP, le type et la version du navigateur, le réglage du fuseau horaire et l’emplacement (discutés plus en détail ci-dessous), les types et versions de plug-ins du navigateur, le système d’exploitation et la plateforme, et les façons dont vous utilisez ou interagissez avec notre portail et nos services en ligne.
+    *   **Données techniques du client**, telles que les données sur le débit qui vous est fourni au fil du temps, la connectivité du service, la latence, les mesures de qualité, les données sur l’obstruction du ciel, l’orientation et l’emplacement de l’appareil, les mesures de qualité Wi-Fi, les informations sur l’appareil Wi-Fi et les informations sur l’adresse IP publique qui vous est attribuée au fil du temps.
+    *   **Données de localisation**, telles que votre emplacement général (pas votre géolocalisation précise) afin de vous fournir des biens et des services appropriés.
+    *   **Les données de communication**, telles que les données audio, électroniques ou visuelles, toutes les données contenues dans les fichiers que vous avez téléchargés, envoyés par e-mail ou fournis d’une autre manière, le contenu de vos communications avec nous, que ce soit par e-mail, sur les réseaux sociaux, par téléphone ou d’une autre manière, et les déductions que nous pouvons faire à partir d’autres données personnelles que nous collectons. Réduire
+2.  #### Comment collectons-nous vos données personnelles ?
     
-2.  #### Comment recueillons-nous vos données à caractère personnel ?
+    Nous pouvons collecter vos informations personnelles à partir des sources suivantes : !!réduire Cliquez ici pour en savoir plus.
     
-    Nous pouvons recueillir vos données à caractère personnel à partir des sources suivantes :
+    *   **Directement auprès de vous** : par exemple, si vous créez un compte, ou si vous demandez ou achetez des produits, des services ou des informations auprès de nous.
+        
+    *   **De la part de tiers** : par exemple, nous pouvons travailler avec des partenaires commerciaux, des sous-traitants, des réseaux publicitaires, des fournisseurs d’analyses et des fournisseurs d’informations de recherche, qui peuvent nous fournir des informations personnelles vous concernant.
+        
+    *   **Par le biais de cookies et d'autres technologies de suivi en ligne** – Nous et nos prestataires de services opérant en notre nom collectons des informations sur votre activité, ou sur l'activité des appareils qui vous sont associés, sur notre Site et nos applications, en utilisant des technologies de suivi telles que les cookies, les cookies Flash, les pixels, les balises, les kits de développement logiciel, les interfaces de programme d'application, les identifiants d'appareil et les balises Web. Vous trouverez des informations supplémentaires sur les technologies de suivi et leurs utilisations à l’adresse suivante : [http://www.Cookiepro.com](http://www.cookiepro.com/). Ces données de suivi peuvent être utilisées à plusieurs fins différentes, notamment pour :
+        
+        *   Fournir des fonctionnalités utiles pour simplifier votre expérience lorsque vous revenez sur notre Site et nos applications (par exemple, en mémorisant vos informations d’expédition pour de futurs achats de produits) ;
+        *   Fournir du contenu pertinent et de la publicité ciblée en fonction de vos préférences, de votre utilisation du service et de votre emplacement ;
+        *   Surveiller, évaluer et optimiser l'utilisation et le fonctionnement de notre Site et de nos applications ; et
+        *   Analyser le trafic sur notre Site et sur des sites tiers.
+    *   Nous pouvons, par le biais de cookies et d’autres technologies de suivi en ligne, collecter des informations chaque fois que vous visitez notre site. Nous pouvons le faire indépendamment du fait que vous ayez un compte Starlink enregistré ou que vous soyez connecté à ce compte, et nous pouvons associer ces données de suivi à votre compte d’abonné (si vous en avez un), auquel cas nous les traiterons comme des informations personnelles. Les fournisseurs de services qui collectent des données de suivi en notre nom peuvent vous donner la possibilité de choisir de ne pas être suivi en ligne. L’utilisation de ces informations de suivi par un tiers dépend de la politique de confidentialité de ce tiers. Nous ne répondons pas aux signaux Do Not Track (« DNT ») qui nous sont envoyés par votre navigateur pour le moment. Pour en savoir plus sur le fonctionnement de la fonctionnalité DNT, veuillez consulter le site [http://allaboutdnt.com/](http://allaboutdnt.com/).
+        
+    *   Nous ne faisons pas la publicité de produits et services tiers sur notre Site, mais nous faisons la publicité des services Starlink sur des sites Web tiers, des plateformes de réseaux sociaux et d’autres applications. Ces sites Web et applications tiers peuvent également collecter des informations sur votre activité sur notre site et nos applications, ou sur les appareils qui vous sont associés. Le suivi des données collectées par nos sites Web et plateformes publicitaires nous aide à déterminer les publicités que nous pouvons utiliser sur les plateformes et à analyser les améliorations apportées à notre stratégie publicitaire.
+        
+    *   Notre Site utilise des cookies propriétaires et tiers pour vous fournir les services et ressources que vous avez pu demander sur notre Site. Nous classons ces cookies dans les catégories suivantes :
+        
+        *   **Cookies strictement nécessaires** : utilisés pour fournir nos Services, applications et autres fonctionnalités essentielles de notre Site.
+        *   **Cookies fonctionnels** : utilisés de manière limitée pour permettre à notre Site de fournir des fonctionnalités et une personnalisation améliorées. Si vous n’autorisez pas ces cookies, certains ou tous ces services peuvent ne pas fonctionner correctement.
+        *   **Cookies de performance** : utilisés pour compter le trafic des visiteurs sur notre site afin que nous puissions mesurer et améliorer les performances de notre site. Si vous n’autorisez pas ces cookies, nous ne saurons pas quand vous avez visité notre site et nous ne serons pas en mesure de surveiller les mesures de performance.
+        *   **Cookies de ciblage** : utilisés par nous et nos partenaires publicitaires pour suivre l’efficacité d’annonces spécifiques sur des propriétés tierces par rapport aux commandes des clients Starlink. Nos partenaires publicitaires tiers peuvent utiliser ces cookies pour établir un profil de vos centres d’intérêt afin de vous présenter des publicités pertinentes sur d’autres sites Web et plateformes tiers. Ils ne stockent pas directement d'informations personnelles vous concernant, mais ils peuvent identifier de manière unique votre navigateur et votre appareil Internet. Si vous n’autorisez pas ces cookies, vous verrez beaucoup moins de publicités ciblées.
+    *   Vous avez le contrôle sur les données personnelles que vous souhaitez que nous collections par le biais de cookies et d’autres technologies de suivi et avez la possibilité de choisir vos préférences en ce qui concerne notre utilisation des cookies et des technologies dans vos interactions avec notre Site. Selon votre emplacement, vous pouvez avoir la possibilité d’ajuster vos préférences de différentes manières. Par exemple, il se peut qu’un avis s’affiche lors de votre première visite sur notre site pour vous demander de choisir vos préférences. Vous pouvez également modifier vos préférences à tout moment sur notre site en cliquant sur le lien [Préférences en matière de confidentialité](https://https//starlink.com/) en bas de la page. La plupart des navigateurs vous offrent également la possibilité de bloquer, de supprimer ou de désactiver les cookies, et votre appareil mobile peut vous permettre de désactiver la transmission d’identifiants uniques et de données de localisation. Si vous choisissez de refuser les cookies ou de bloquer les identifiants de l’appareil, certaines fonctionnalités de notre Site peuvent ne pas être disponibles, ou certaines fonctionnalités peuvent être limitées ou indisponibles. Veuillez consulter les pages d'aide de votre navigateur ou de votre appareil mobile pour obtenir de l'aide sur la modification de vos paramètres. Réduire
+        
+3.  #### Comment et pourquoi utilisons-nous les informations personnelles ?
     
-    *   **Nous pouvons recueillir vos données à caractère personnel directement auprès de vous**. Par exemple, si vous ouvrez un compte ou si vous nous demandez des produits, des services ou des données ou si vous les achetez chez nous.
-        
-    *   **Nous pouvons également recueillir des données à caractère personnel auprès de tiers**. Par exemple, nous pouvons travailler avec des partenaires commerciaux, des sous-traitants, des réseaux publicitaires, des fournisseurs d'analyses et des fournisseurs d'informations de recherche, qui peuvent nous fournir des données à caractère personnel vous concernant.
-        
-    *   **Par l’intermédiaire de cookies et d'autres technologies de suivi en ligne** - Nous et nos prestataires de services opérant en notre nom recueillons des informations sur votre activité, ou l'activité des appareils qui vous sont associés, sur nos sites et applications, à l'aide de technologies de suivi telles que les cookies, les cookies Flash, les pixels, les balises, les kits de développement logiciel, les interfaces de programme d'application, les identificateurs d'appareil et les balises Web. Des informations supplémentaires sur les technologies de suivi et leur utilisation sont disponibles à l'adresse suivante : http;//www. Cookiepro.com. Ces données de suivi peuvent être utilisées à différentes fins, notamment pour :
-        
-        *   vous proposer des fonctions utiles pour simplifier votre expérience lorsque vous revenez sur nos sites et applications (par exemple en mémorisant vos données de livraison pour vos futurs achats de produits) ;
-            
-        *   vous proposer un contenu pertinent et des publicités ciblées en fonction de vos préférences, de l'utilisation que vous faites de nos services et de l'endroit où vous vous trouvez ;
-            
-        *   contrôler, évaluer et optimiser l'utilisation et le fonctionnement de nos sites et applications ; et
-            
-        *   analyser le trafic sur nos sites et sur les sites de tiers.
-            
-    *   Nous pouvons recueillir des données, que vous soyez ou non connecté ou inscrit à un compte, et nous pouvons associer ces données de suivi à votre compte d'abonné (si vous en avez un), auquel cas nous les traiterons comme des données à caractère personnel. Les prestataires de services qui recueillent des données de suivi en notre nom peuvent vous donner la possibilité de choisir de ne pas être suivi en ligne. L'utilisation de ces données de suivi par un tiers dépend de la politique de confidentialité de ce tiers. Pour l'instant, nous ne répondons pas aux signaux « Do Not Track » (« DNT ») qui nous sont envoyés par votre navigateur. Pour en savoir plus sur le fonctionnement des signaux DNT, veuillez consulter [http://allaboutdnt.com/](http://allaboutdnt.com/).
-        
-    *   Nous ne faisons pas de publicité pour des produits et services de tiers sur nos sites web, mais nous faisons de la publicité pour les services Starlink sur des sites web de tiers, des réseaux sociaux et d'autres applications. Ces sites web et applications de tiers peuvent également collecter des informations sur votre activité sur nos sites web et applications, ou sur les appareils qui vous sont associés. Les données de suivi recueillies par nos sites web et plateformes publicitaires nous aident à déterminer les publicités que nous pouvons utiliser sur les plateformes et à analyser les améliorations apportées à notre stratégie publicitaire.
-        
-    *   Catégories de cookies. Notre site web utilise des cookies de première et de troisième partie pour mettre à votre disposition les services et les ressources que vous avez demandés sur notre site web. Nous classons ces cookies dans les catégories suivantes :
-        
-        *   **Cookies strictement nécessaires** - utilisés pour proposer les services, applications et autres fonctionnalités essentielles de notre site web.
-            
-        *   **Cookies fonctionnels** - utilisés de manière limitée pour permettre à notre site web de proposer une fonctionnalité et une personnalisation améliorées. Si vous n'autorisez pas ces cookies, certains ou tous ces services peuvent ne pas fonctionner correctement.
-            
-        *   **Cookies de performance** - utilisés pour compter le nombre de visiteurs sur notre site afin de mesurer et d'améliorer la performance de notre site web. Si vous n'autorisez pas ces cookies, nous ne saurons pas quand vous avez visité notre site et nous ne pourrons pas contrôler les paramètres de performance.
-            
-        *   **Cookies de ciblage** - utilisés par nous et nos partenaires publicitaires pour suivre l'efficacité des différentes publicités sur les biens de tiers pour les commandes des clients de Starlink. Nos partenaires publicitaires tiers peuvent utiliser ces cookies pour établir un profil de vos intérêts afin de vous montrer des publicités pertinentes sur d'autres sites et plateformes. Ils ne stockent pas directement de données à caractère personnel vous concernant, mais peuvent identifier de manière unique votre navigateur et votre appareil Internet. Si vous n'autorisez pas ces cookies, vous verrez des publicités beaucoup moins ciblées.
-            
-        
-        Vous avez le contrôle des données à caractère personnel que vous souhaitez nous voir recueillir par l’intermédiaire des cookies et d'autres technologies de suivi et vous avez la possibilité de choisir vos préférences en ce qui concerne l'utilisation de cookies et de technologies dans vos interactions avec notre site web. Selon l'endroit où vous vous trouvez, vous pouvez avoir la possibilité d'ajuster vos préférences de différentes manières. Par exemple, lors de votre première visite sur notre site web, vous pouvez recevoir un avis vous demandant de choisir vos préférences. Vous pouvez également modifier vos préférences à tout moment sur notre site web en cliquant sur le lien de Préférences en matière de protection de la vie privée au bas de la page. La plupart des navigateurs vous permettent également de bloquer, de supprimer ou de désactiver les cookies, et votre appareil mobile peut vous permettre de désactiver la transmission des identifiants uniques et des données de localisation. Si vous choisissez de rejeter les cookies ou de bloquer les identificateurs d'appareils, il se peut que certaines fonctionnalités de notre site ne soient pas disponibles, ou que certaines fonctionnalités soient limitées ou indisponibles. Veuillez consulter les pages d'aide de votre navigateur ou de votre appareil mobile pour obtenir de l'aide sur la modification de vos paramètres.
-        
+    Dans la mesure permise par la loi applicable, nous pouvons utiliser vos informations personnelles : !!réduire Cliquez ici pour en savoir plus.
     
-3.  #### Comment et pourquoi utilisons-nous les données à caractère personnel ?
-    
-    Dans la mesure où la loi applicable le permet, nous pouvons utiliser vos données à caractère personnel :
-    
-    *   à des fins commerciales associées aux biens et services que nous fournissons ;
+    *   aux fins commerciales spécifiques liées aux biens et services que nous fournissons ;
     *   pour traiter et livrer les commandes des clients ;
-    *   pour gérer les paiements, les frais et les débits ;
-    *   pour gérer notre relation avec les clients, par exemple en communiquant avec eux au sujet de nos biens et services, en fournissant un service client et en les informant des modifications apportées à nos conditions ou à notre politique de protection de la vie privée ;
-    *   pour administrer et protéger notre entreprise et nos services, y compris le dépannage, l'analyse des données, les tests, la maintenance du système, l'assistance, les rapports et l'hébergement des données ;
-    *   pour détecter, prévenir ou traiter la fraude, la sécurité ou les problèmes techniques, y compris en contrôlant et en faisant respecter nos conditions d'utilisation, nos politiques d'utilisation appropriée et nos politiques de confidentialité ;
+    *   pour gérer les paiements, les frais et les coûts ;
+    *   pour gérer notre relation avec les clients, par exemple en communiquant avec eux au sujet de nos biens et services ou en les informant des modifications apportées à nos mentions légales ;
+    *   pour améliorer nos capacités de service à la clientèle ;
+    *   pour administrer et protéger notre entreprise et nos services, notamment via la résolution de problèmes, et effectuer l’analyse des données, les tests, la maintenance du système, assurer l’assistance, le reporting et l’hébergement des données ;
+    *   pour détecter, prévenir ou traiter de toute autre manière les problèmes de fraude, de sécurité ou techniques, notamment en surveillant et en faisant respecter nos mentions légales, y compris nos Conditions d’utilisation, nos politiques d’utilisation appropriée et nos politiques de confidentialité applicables ;
     *   pour défendre nos intérêts en cas de litige ;
-    *   pour nous conformer de bonne foi aux lois applicables, aux procédures légales et légitimes des autorités publiques ;
+    *   pour se conformer de bonne foi aux lois applicables, aux procédures juridiques et aux demandes légitimes du gouvernement ;
+    *   pour entraîner nos modèles d'apprentissage automatique ou d'intelligence artificielle aux fins décrites dans la présente politique;
     *   pour comprendre ce qui peut intéresser un client ;
-    *   pour adresser des nouvelles, des offres et d'autres contenus pertinents à un client et mesurer et comprendre l'efficacité du contenu ;
-    *   demander et permettre à un client de répondre à une enquête ; et
-    *   utiliser l'analyse des données pour déboguer, optimiser et améliorer nos produits et services, notre marketing, nos relations avec les clients et nos expériences.
+    *   pour fournir des actualités, des offres promotionnelles et d’autres contenus pertinents à un client, ainsi que pour mesurer et comprendre l’efficacité du contenu ;
+    *   pour demander et permettre à un client de répondre à une enquête ; et
+    *   pour utiliser l’analyse des données pour déboguer, optimiser et améliorer nos produits et services, notre marketing, nos relations clients et nos expériences.
     
-4.  #### Avec qui partageons-nous les données à caractère personnel ?
+    Lorsque les informations recueillies auprès de vous ou à votre sujet ne vous identifient pas spécifiquement en tant que personne (par exemple, lorsqu’elles ont été dépersonnalisées), nous pouvons utiliser ces informations à n’importe quelle fin, y compris pour améliorer nos services, dans la mesure permise par la loi applicable.
     
-    Nous pouvons partager vos données à caractère personnel avec les catégories de personnes suivantes :
+4.  #### Avec qui partageons-nous les informations personnelles ?
     
-    *   **Nos prestataires de services** : Nous pouvons partager vos données à caractère personnel avec nos sociétés affiliées et nos prestataires de services aux fins décrites ci-dessus. Par exemple, nous pouvons faire appel à des prestataires de services pour héberger et maintenir nos services en ligne, effectuer des services de sauvegarde et de stockage, traiter les paiements, transmettre des communications et effectuer des services de publicité ou d'analyse.
-        
-    *   **Organismes ou autorités publics, régulateurs et conseillers professionnels** : Lorsque la loi applicable l'exige, nous pouvons également être amenés à transférer vos données à caractère personnel à des organismes ou autorités publics et à des régulateurs (par exemple les autorités fiscales, les tribunaux et les autorités publiques).
-        
-    *   **Organisations concernées par les transferts d'activités** : Si nous vendons, fusionnons ou réorganisons notre entreprise, nous nous attendons à ce que les données à caractère personnel que nous avons recueillies soient transférées à l'entité survivante ou acquéreuse conformément à la loi applicable.
-        
+    Nous pouvons partager vos informations personnelles avec les catégories de personnes suivantes :
     
-    Nous pouvons également partager vos données à caractère personnel avec des tiers sur la base de votre demande ou de votre consentement par écrit.
+    !!réduire Cliquez ici pour en savoir plus.
     
-    En tant que client des services Starlink, vous pouvez partager des informations avec des tiers (par exemple lorsque vous envoyez un e-mail ou communiquez avec un site web tiers). Dans ce contexte, nous ne partageons pas de données à caractère personnel ; vous utilisez notre service pour partager des données et nous vous connectons simplement à Internet.
+    *   **Nos fournisseurs de services** : nous pouvons partager vos informations personnelles avec nos sociétés affiliées, nos fournisseurs de services et nos collaborateurs tiers aux fins décrites ci-dessus (par exemple, l'hébergement et la maintenance de nos services en ligne, la prestation de services de sauvegarde et de stockage, le traitement des paiements, la transmission de communications, la prestation de services de publicité ou d'analyse, ou le traitement de vos demandes relatives aux droits à la vie privée) et, dans des cas limités, pour former des modèles d'intelligence artificielle, y compris à leurs propres fins indépendantes.
+    *   **Organismes gouvernementaux ou d’application de la loi, organismes de réglementation, conseillers professionnels ou auditeurs** : lorsque la loi applicable l’exige, ou lorsque nous le jugeons nécessaire pour protéger toute personne de la mort ou de blessures corporelles graves, nous pouvons également transférer vos informations personnelles à des organismes gouvernementaux de réglementation ou à des organismes d’application de la loi en réponse à des demandes de ces entités.
+    *   **Organisations impliquées dans des transferts d'entreprise** : si nous vendons, fusionnons ou réorganisons notre entreprise, nous nous attendons à ce que les informations personnelles que nous avons collectées soient transférées à l'entité survivante ou acquéreuse conformément à la loi applicable.
     
-5.  #### Comment protégeons-nous les données à caractère personnel ?
+    Nous pouvons également partager vos informations personnelles avec des tiers sur la base de votre demande ou de votre consentement écrit.
     
-    Nous mettons en œuvre des procédures technologiques, physiques et administratives pour protéger vos données à caractère personnel contre la perte, l'utilisation abusive, l'accès non autorisé, la divulgation, l'altération et la destruction, en tenant compte des risques liés au traitement et à la nature des données à caractère personnel. Nous chiffrons les données envoyées via les services Starlink vers et depuis votre équipement Starlink.
+    En tant que client Starlink, vous pouvez partager des informations avec des tiers (par exemple, lorsque vous envoyez un e-mail ou communiquez avec un site Web tiers). Dans ce contexte, nous ne partageons pas d'informations personnelles ; vous utilisez nos services pour partager des données et nous vous connectons simplement à Internet.
     
-    Bien que nous nous efforcions de sécuriser les données, nous ne pouvons pas garantir que nos mesures de sécurité empêcheront toute tentative non autorisée d'accès, d'utilisation ou de divulgation des données à caractère personnel. Nous avons mis en place des procédures pour faire face à toute violation présumée des données à caractère personnel et nous vous informerons, ainsi que tout organisme de réglementation applicable, d'une violation lorsque nous sommes légalement tenus de le faire.
+
+Réduire
+
+5.  #### Comment protégeons-nous les informations personnelles ?
     
-6.  #### Vos droits en matière de protection de la vie privée
+    Nous mettons en œuvre des procédures technologiques, physiques et administratives pour protéger vos informations personnelles contre la perte, l’utilisation abusive, l’accès non autorisé, la divulgation, l’altération et la destruction, en tenant compte des risques liés au traitement et de la nature des informations personnelles. Nous chiffrons également les informations transmises vers et depuis votre équipement Starlink, et nous formons nos employés sur l’importance de la confidentialité et de la sécurité.
     
-    Vous pouvez avoir le droit de mettre à jour ou d'effacer certaines données à caractère personnel que nous détenons à votre sujet, ou d’y accéder, ou encore de restreindre ou de vous opposer à la manière dont nous les utilisons. Si vous disposez de ces droits et si vous faites une demande légitime, nous ferons ce que vous demandez. Pour exercer ces droits, veuillez nous contacter en utilisant les coordonnées figurant dans la section « Nous contacter » ci-dessous. Pour votre sécurité, nous pouvons être amenés à vous demander certaines informations afin de nous assurer que la demande émane bien de vous et non d'une personne qui n'a pas le droit de l’émettre. Pour plus d'informations sur les droits qui peuvent s'appliquer à vous, veuillez consulter l'avis de confidentialité propre à votre pays.
+    Bien que nous nous efforçons d’assurer la sécurité des informations, nous ne pouvons pas garantir que nos mesures de sécurité empêcheront toute tentative non autorisée d’accès, d’utilisation ou de divulgation des informations personnelles. Nous maintenons des procédures pour traiter toute violation présumée des données personnelles, et nous vous informerons, ainsi que tout organisme de réglementation applicable, d’une violation lorsque nous sommes légalement tenus de le faire.
     
-    *   Si vous êtes résident d'un État américain qui vous accorde certains droits en ce qui concerne vos données à caractère personnel, notre **[Avis de confidentialité de l’État américain](https://www.starlink.com/legal/documents/DOC-1008-22119-60)** s’applique également à vous. Veuillez noter que l'Avis de confidentialité de l'État américain ne s'applique que dans les États qui disposent d'une loi complète sur la protection de la vie privée, tels que la Californie, le Colorado, la Virginie, le Connecticut et l'Utah.
-        
-    *   Si vous êtes situé dans **l'Espace économique européen, le Royaume-Uni** ou la **Suisse** (collectivement l’« EEE+ »), notre [Avis de confidentialité EEE+](https://www.starlink.com/legal/documents/DOC-1009-83220-61) s'applique également à vous.
-        
-    *   Si vous êtes situé au **Mexique**, notre [Avis de confidentialité pour le Mexique](https://www.starlink.com/legal/documents/DOC-1007-52792-69) s'applique également à vous.
-        
-    *   Si vous êtes situé au **Brésil**, notre [Avis de confidentialité LGPD](https://www.starlink.com/legal/documents/DOC-1033-43987-74) s'applique également à vous.
-        
+6.  #### Vos droits en matière de confidentialité
     
-    Pour refuser les messages marketing, veuillez nous envoyer un e-mail à [privacy@spacex.com](mailto:privacy@spacex.com) ou en suivant les instructions incluses dans l’e-mail ou la correspondance textuelle. Veuillez noter que, même si vous vous désabonnez de certaines correspondances, nous pouvons être amenés à vous contacter pour vous communiquer des informations transactionnelles ou administratives importantes dans la mesure où la loi le permet. En outre, si vous retirez votre consentement, si vous vous opposez au traitement, ou si vous choisissez de ne pas nous confier certaines données à caractère personnel, nous pouvons être dans l'incapacité de vous proposer tout ou partie de nos services.
+    Vous pouvez avoir des droits légaux pour accéder, mettre à jour ou effacer certaines informations personnelles que nous détenons à votre sujet, ou pour restreindre ou vous opposer à la manière dont nous les utilisons. Si vous disposez de tels droits et que vous faites une demande légitime, nous ferons ce que vous demandez. Pour exercer ces droits, veuillez nous envoyer un e-mail à l’adresse [privacy@spacex.com](mailto:privacy@spacex.com). Pour votre sécurité, nous pouvons vous demander des informations spécifiques pour nous assurer que la demande provient de vous et non de quelqu’un qui n’a pas le droit de la recevoir.
     
-7.  #### Vie privée des enfants
+    Pour en savoir plus sur les droits qui peuvent s’appliquer à vous, veuillez consulter les addenda à la politique spécifique à votre pays :
     
-    Nous ne recueillons ni ne sollicitons sciemment aucune donnée à caractère personnel auprès d'enfants de moins de 16 ans. Si nous apprenons que nous avons recueilli des données à caractère personnel auprès d'un enfant, nous prendrons rapidement des mesures pour supprimer ces données. Si vous êtes un parent ou un tuteur légal et que vous pensez que votre enfant nous a communiqué ses données à caractère personnel, vous pouvez nous envoyer un e-mail à [privacy@spacex.com](mailto:privacy@spacex.com) ou nous contacter à l'aide des coordonnées figurant dans la rubrique « Nous contacter » ci-dessous.
+    *   Si vous résident d’un État américain qui vous confère certains droits concernant vos informations personnelles, notre [Déclaration de confidentialité de l’État américain](https://www.starlink.com/legal/documents/DOC-1008-22119-60) s’applique également à vous. Veuillez noter que l’Avis de confidentialité de l’État américain ne s’applique que dans les États qui ont une loi complète sur la protection de la vie privée, tels que la **Californie**, le **Colorado**, la **Virginie**, le **Connecticut** et l’**Utah**.
+    *   Si vous vous trouvez dans l’**Espace économique européen**, au **Royaume-Uni** ou en **Suisse** (collectivement, « **EEE+** »), notre [Avis de confidentialité EEE+](https://www.starlink.com/legal/documents/DOC-1009-83220-61) s’applique également à vous.
+    *   Si vous vous trouvez au **Mexique**, notre [Avis de confidentialité pour le Mexique](https://www.starlink.com/legal/documents/DOC-1007-52792-69) s’applique à vous.
+    *   Si vous vous trouvez au **Brésil**, notre [Avis de confidentialité LGPD](https://www.starlink.com/legal/documents/DOC-1033-43987-74) s’applique à vous.
+    *   Si vous vous trouvez au **Nigéria**, notre [Avis de confidentialité pour le Nigéria](https://www.starlink.com/legal/documents/DOC-DF-1906-75496-66) s’applique à vous.
+    *   Si vous vous trouvez en **Corée du Sud**, notre [Avis de confidentialité pour la Corée du Sud](https://www.starlink.com/legal/documents/DOC-DF-1909-87689-76) s’applique à vous.
+    
+    Pour vous désabonner des communications marketing, veuillez nous envoyer un e-mail à l’adresse [privacy@spacex.com](mailto:privacy@spacex.com) ou, le cas échéant, en suivant les instructions incluses dans l’e-mail ou le SMS. Veuillez noter que, même si vous vous désabonnez de certaines correspondances, nous pouvons toujours avoir besoin de vous contacter pour vous communiquer des informations transactionnelles ou administratives importantes, dans la mesure où la loi le permet.
+    
+    Pour désactiver l’utilisation de vos données pour l’entraînement de modèles d’intelligence artificielle par des collaborateurs tiers, veuillez accéder à vos paramètres utilisateur et cocher l’option correspondante.
+    
+7.  #### Confidentialité des enfants
+    
+    Nous ne collectons ni ne sollicitons sciemment aucune information personnelle auprès d'enfants de moins de 16 ans. Si nous apprenons que nous avons collecté des informations personnelles auprès d'un enfant, nous prendrons rapidement des mesures pour supprimer ces informations. Si vous êtes un parent ou un tuteur légal et que vous pensez que votre enfant nous a fourni ses données personnelles, vous pouvez nous envoyer un e-mail à l’adresse [privacy@spacex.com](mailto:privacy@spacex.com) ou nous contacter en utilisant les coordonnées indiquées dans la section « Nous contacter » ci-dessous.
     
 8.  #### Conservation des données
     
-    Nous conserverons vos données à caractère personnel aussi longtemps que nécessaire pour atteindre les objectifs pour lesquels elles ont été recueillies ou pour toute période de conservation plus longue requise par la loi. Les données relatives au compte Starlink sont généralement conservées pendant la durée de vie du compte + 2 ans, à moins qu'une période de conservation plus longue ne soit requise par la loi.
+    Nous conserverons vos données personnelles aussi longtemps que nécessaire pour atteindre les objectifs pour lesquels elles ont été collectées ou pour toute période de conservation plus longue requise par la loi. Les informations du compte Starlink sont généralement conservées pendant toute la durée de vie du compte + 2 ans, sauf si une période de conservation plus longue est requise par la loi.
     
-9.  #### Sites web de tiers
+9.  #### Sites Web tiers
     
-    Nous ne sommes pas responsables des pratiques employées par les sites web ou les services liés à notre site web ou à partir de celui-ci, y compris les données ou leur contenu. Nous vous encourageons à vous renseigner et à poser des questions avant de divulguer des données à caractère personnel à des tiers, étant donné que toute donnée à caractère personnel divulguée sera soumise à la politique de confidentialité du tiers concerné.
+    Nous ne sommes pas responsables des pratiques employées par les sites Web ou services tiers liés à notre Site, y compris les informations ou le contenu qu’ils contiennent. Nous vous encourageons à vous renseigner et à poser des questions avant de divulguer des informations personnelles à des tiers, car toute information personnelle divulguée sera soumise à la politique de confidentialité du tiers concerné.
     
-10.  #### Nous contacter
+10.  #### Modifications apportées à la présente Politique
      
-     **E-mail** : [privacy@spacex.com](mailto:privacy@spacex.com)
+     Nous pouvons mettre à jour la présente Politique pour refléter les changements dans nos pratiques, les exigences légales et les offres de services, veuillez donc la consulter régulièrement. Votre utilisation continue de notre Site ou de nos Services indique votre acceptation des conditions mises à jour.
      
-     **Courrier postal** : Space Exploration Technologies Corp, à l’attention de : Privacy/Legal, 1 Rocket Road, Hawthorne, CA 90250
+
+NOUS CONTACTER
+
+**E-mail :** [privacy@spacex.com](mailto:privacy@spacex.com)
+
+**Courrier postal :** Space Exploration Technologies Corp., Attn: Privacy/Legal, 1 Rocket Road, Hawthorne, CA 90250
 
 - - -
 
