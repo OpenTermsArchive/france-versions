@@ -1,5 +1,5 @@
-InControl Package Privacy Policy
---------------------------------
+Politique en matière de confidentialité d'InControl
+---------------------------------------------------
 
   Website terms and conditions of supply
 
