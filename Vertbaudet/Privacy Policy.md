@@ -1,7 +1,7 @@
 Protection de la vie privée & Cookies
 =====================================
 
-#### Mise à jour du 11/09/2025
+#### Mise à jour du 05/12/2025
 
 Ce document comprend l’ensemble des engagements pris par VERTBAUDET pour protéger votre vie privée et plus précisément les données personnelles qu’elle collecte et traite dans le cadre de votre navigation sur son site internet www.vertbaudet.fr (ci-après « le Site »). Par ailleurs, VERTBAUDET intervient en qualité de sous-traitant de Envie de Fraise pour tous les traitements de données personnelles. A ce titre, les présentes dispositions s’appliquent aux données personnelles des Clients de la société Envie de Fraise.
 
@@ -33,7 +33,7 @@ Informations personnelles
 
 **VERTBAUDET** s'engage à protéger la vie privée des personnes utilisant son Site et la confidentialité des informations personnelles fournies, conformément aux règles suivantes :  
   
-le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 (règlement européen sur la protection des données) abrogeant la Directive 95/46/CE et applicable à partir du 25 mai 2018, ci-après « RGPD », le cas échéant, les textes adoptés au sein de l’Union européenne et les lois locales susceptibles de s’appliquer aux données à caractère personnel traitées dans le cadre de l’activité de VERTBAUDET,  
+le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 (règlement européen sur la protection des données) abrogeant la Directive 95/46/CE et applicable à partir du 25 mai 2018, ci-après « RGPD », le cas échéant, les textes adoptés au sein de l’Union européenne et les lois locales susceptibles de s’appliquer aux données à caractère personnel traitées dans le cadre de l’activité de VERTBAUDET  
 les textes et décisions émanant d’autorités européennes de supervision indépendantes,  
 tout texte relevant de la vie privée et du secret professionnel.  
 
@@ -67,7 +67,7 @@ Lors de la mise en œuvre des traitements de données à caractère personnel vo
   
 Lors de la mise en œuvre des traitements de données à caractère personnel vous concernant pour l’exécution des commandes passées via la Marketplace (voir détail les CC et CGU) ou dans le cadre de la personnalisation de l’expérience client.  
   
-Les conditions de traitement de ces données et informations personnelles par les Vendeurs présents sur la Marketplace sont accessibles sur la fiche/page spécifique propre à chaque Vendeur en cliquant sur le nom de ce dernier indiqué par le lien « Vendu et expédié par X ».   
+Les conditions de traitement de ces données et informations personnelles par les Vendeurs présents sur la Marketplace sont accessibles sur la fiche/page spécifique propre à chaque Vendeur en cliquant sur le nom de ce dernier indiqué par le lien « Vendu et expédié par X »  
   
 Conformément à l’article 26 du RGPD, VERTBAUDET a conclu un accord de responsabilité avec les Vendeurs présents sur la Marketplace qui permet notamment de définir les obligations respectives de chaque Co-responsable de traitement.  
   
@@ -84,7 +84,7 @@ VERTBAUDET met en œuvre des traitements de données à caractère personnel vou
 
 Conformément à la réglementation applicable, tous nos traitements de données à caractère personnel reposent sur une base légale énoncée à l’article 6 du RGPD.
 
-Les informations personnelles que vous nous transmettez dans le cadre de la création de compte ou d’une commande sont utilisées pour les traitements suivants :
+Les informations personnelles que vous nous transmettez dans le cadre de la création de compte ou d’une commande sont utilisées pour les traitements suivants :
 
 *   Pour la gestion des commandes en magasin et en ligne (à l'exception des produits de la Marketplace) : le traitement, le suivi, la livraison, la facturation, le service après-vente et la garantie des commandes.  
     Le fondement juridique est l'exécution d'un contrat auquel vous êtes partie.
@@ -98,11 +98,11 @@ Les informations personnelles que vous nous transmettez dans le cadre de la cré
 *   Pour le suivi des commandes initiées en magasin : la relance et le suivi des commandes par mail ou téléphone.  
     Le fondement juridique est l'exécution d'une mesure précontractuelle.
     
+*   Pour l’exécution du Programme de Fidélité : gestion du Programme de Fidélité, attribution de points, suivi de l’utilisation de la cagnotte et des différents avantages.  
+    Le fondement juridique est votre consentement lorsque nécessaire, ou l‘intérêt légitime de VERTBAUDET de fidéliser sa clientèle.
+    
 *   Pour la gestion des demandes de renseignements : le traitement et le suivi de vos demandes.  
     Le fondement juridique est l'exécution d'un contrat ou une mesure précontractuelle à votre demande, ou l'intérêt légitime de VERTBAUDET, selon les circonstances.
-    
-*   Pour l’exécution du Programme de Fidélité : gestion du Programme de Fidélité, attribution de points, suivi de l’utilisation de la cagnotte et des différents avantages.  
-    Le fondement juridique est est votre consentement lorsque nécessaire, ou l‘intérêt légitime de VERTBAUDET de fidéliser sa clientèle.
     
 *   Pour la prospection commerciale par VERTBAUDET : l'envoi de communications commerciales, le contact pour finaliser des achats, la gestion de jeux-concours et événements.  
     Le fondement juridique est l'intérêt légitime de VERTBAUDET ou votre consentement, selon les circonstances.
@@ -110,7 +110,7 @@ Les informations personnelles que vous nous transmettez dans le cadre de la cré
 *   Pour la personnalisation des services de VERTBAUDET : l'offre personnalisée, la publicité ciblée, les recommandations de produits, l'amélioration de la connaissance du client.  
     Le fondement juridique est l'intérêt légitime de VERTBAUDET ou votre consentement, selon les circonstances.
     
-*   Pour l’information du retour en stocke d’un produit.  
+*   Pour l’information du retour en stock d’un produit.  
     Le fondement juridique est votre consentement
     
 *   Pour la gestion des réclamations, impayés, précontentieux et contentieux (hors litiges de la Marketplace).  
@@ -128,13 +128,14 @@ Les informations personnelles que vous nous transmettez dans le cadre de la cré
 *   Pour la prospection commerciale par les partenaires de VERTBAUDET.  
     Le fondement juridique est votre consentement.
     
-*   Pour le bon fonctionnement et l'amélioration du site : la réalisation de statistiques, d'analyses marketing, l'amélioration de la navigation, l'adaptation du site à votre terminal.  
+*   Pour le bon fonctionnement et l'amélioration du site : la réalisation de statistiques, d'analyses marketing, l'amélioration de la navigation, l'adaptation du site à votre terminal.  
     Le fondement juridique est votre consentement lorsque nécessaire, ou l'intérêt légitime de VERTBAUDET.
     
 
 Lors de vos visites sur notre Site, nous pouvons vous demander des informations par le biais de questionnaires, formulaires, notamment lors de la création de votre compte client.  
   
-Les informations demandées, signalées par un astérisque, sont requises aux fins de la réalisation de la prestation fournie par VERTBAUDET. Elles sont nécessaires au traitement de vos demandes. En cas de non réponse, VERTBAUDET ne pourra réaliser la prestation.  
+Les informations demandées, signalées par un astérisque, sont requises aux fins de la réalisation de la prestation fournie par VERTBAUDET. Elles sont nécessaires au traitement de vos demandes.  
+En cas de non réponse, VERTBAUDET ne pourra réaliser la prestation.  
   
 Les autres informations sont destinées à mieux vous connaître et sont, par conséquent, facultatives. Vous êtes libres de ne pas y répondre.
 
@@ -146,7 +147,7 @@ Seul le personnel de VERTBAUDET spécifiquement habilité est légitime à mettr
 
 #### 2.2.2 Sous-traitants
 
-Certaines données, notamment personnelles, pourront être communiquées de manière sécurisée aux partenaires techniques actuels ou futurs de VERTBAUDET pour l'exécution de tâches sous-traitées strictement nécessaires à la réalisation des prestations et obligations de VERTBAUDET selon les finalités définies précédemment, telles que :  
+Certaines données, notamment personnelles, pourront être communiquées de manière sécurisée aux partenaires techniques actuels ou futurs de VERTBAUDET pour l'exécution de tâches sous-traitées strictement nécessaires à la réalisation des prestations et obligations de VERTBAUDET selon les finalités définies précédemment, telles que:  
   
 la gestion de votre compte,  
 l’exécution de vos commandes,  
@@ -156,16 +157,16 @@ la lutte contre la fraude,
 la réalisation des paiements,  
 pour certains aspects du service après-vente ou encore pour réaliser des enquêtes de satisfaction.
 
-Les sous-traitants et prestataires de VERTBAUDET sont soumis à des obligations de confidentialité et de sécurité et prennent notamment les engagements suivants :
+Les Sous-traitants et prestataires de VERTBAUDET sont soumis à des obligations de confidentialité et de sécurité et prennent notamment les engagements suivants:
 
-1.  traiter les données uniquement pour la ou les seule(s) finalité(s) qui fait/font l’objet de la sous-traitance ;
+1.  traiter les données uniquement pour la ou les seule(s) finalité(s) qui fait/font l’objet de la sous-traitance;
     
 2.  traiter les données conformément aux instructions documentées de VERTBAUDET ;
     
 3.  garantir la confidentialité des données à caractère personnel traitées dans le cadre des présentes ;
     
-4.  veiller à ce que leur personnel VERTBAUDET autorisé à traiter les données à caractère personnel :  
-    \- s’engage à respecter la confidentialité ou soit soumise à une obligation légale appropriée de confidentialité  
+4.  veiller à ce que leur personnel autorisé à traiter les données à caractère personnel :  
+    \- s’engage à respecter la confidentialité ou soit soumis à une obligation légale appropriée de confidentialité  
     \- reçoive la formation nécessaire en matière de protection des données à caractère personnel
     
 5.  prendre en compte, s’agissant de ses outils, produits, applications ou services, les principes de protection des données dès la conception et de protection des données par défaut
@@ -173,19 +174,22 @@ Les sous-traitants et prestataires de VERTBAUDET sont soumis à des obligations 
   
   
 
-### 2.3. Tiers
+### 2.2.3 Tiers
 
 Sauf opposition de votre part lors du recueil de vos données, VERTBAUDET peut également partager vos données personnelles à des tiers :  
   
 
-Si vous achetez des produits sur la Marketplace, vos données seront partagées avec les Vendeurs afin d’exécuter votre commande. Nous vous invitons à consulter la Politique de Confidentialité du Vendeur mentionné par « vendu et expédié par » ;  
-Avec les partenaires commerciaux de VERTBAUDET (y compris les autres enseignes du groupe VERTBAUDET) qui pourront vous envoyer leurs offres commerciales par courrier ou, si vous y avez explicitement consenti, par mail. Les secteurs d’activité de ces partenaires sont les suivants :   caritatif, humanitaire, culture, édition, cinéma, loisirs, sport, voyages, tourisme, hébergement, textile, prêt à porter, maroquinerie, équipements de la personne, hygiène, santé, beauté, énergie (Gaz, fioul, électricité…),  banque, assurance, crédit, alimentaire, restauration, vins, agences conseil, activités agricoles, optique, aides auditives, services à la personne, formation, écoles, téléphonie, internet, informatique, services aux entreprises, grande distribution, électroménager, service informatique, évènementiel, immobilier, activités artisanales, automobile, moto, bâtiment, construction, aménagement extérieur, aménagement intérieur, habitat, organismes publics, informatique et éditeurs de logiciels, études et sondages, presse, médias, jouets commerce de détails, petits commerces de proximité ;  
-Vos données personnelles peuvent être partagées avec des tiers responsables du traitement des données. Ces données peuvent également être transmises à d'autres parties, telles que des revendeurs, des distributeurs et des sous-traitants, afin de vérifier votre identité. Ces tiers fournissent des services de vérification d'identité, tels que la vérification ou la validation de l'identité des personnes (eIDV : Electronic ID Verification), dans le but de lutter contre le blanchiment d'argent, la fraude et le terrorisme. En outre, la vérification de l'âge et des coordonnées de contact est également effectuée.  
-Avec des tiers susceptibles de déposer des cookies sur vos appareils, avec votre consentement. Pour plus d’informations, veuillez consulter l’Article 6 de la présente ;  
+Si vous achetez des produits sur la Marketplace, vos données seront partagées avec les Vendeurs afin d’exécuter votre commande. Nous vous invitons à consulter la Politique de Confidentialité du Vendeur mentionné par « vendu et expédié par »  
+Avec les partenaires commerciaux de VERTBAUDET (y compris les autres enseignes du groupe VERTBAUDET) qui pourront vous envoyer leurs offres commerciales par mail si vous l’avez explicitement accepté ou par courrier ;  
+Les secteurs d’activité de ces partenaires sont les suivants :   caritatif, humanitaire, culture, édition, cinéma, loisirs, sport, voyages, tourisme, hébergement, textile, prêt à porter, maroquinerie, équipements de la personne, hygiène, santé, beauté, énergie (Gaz, fioul, électricité…),  banque, assurance, crédit, alimentaire, restauration, vins, agences conseil, activités agricoles, optique, aides auditives, services à la personne, formation, écoles, téléphonie, internet, informatique, services aux entreprises, grande distribution, électroménager, service informatique, évènementiel, immobilier, activités artisanales, automobile, moto, bâtiment, construction, aménagement extérieur, aménagement intérieur, habitat, organismes publics, informatique et éditeurs de logiciels, études et sondages, presse, médias, jouets commerce de détails, petits commerces de proximité ;  
+Vos données personnelles peuvent être partagées avec des tiers responsables du traitement des données. Ces données peuvent également être transmises à d'autres parties, telles que des revendeurs, des distributeurs et des sous-traitants, afin de vérifier votre identité. Ces tiers fournissent des services de vérification d'identité, tels que la vérification ou la validation de l'identité des personnes (eIDV : Electronic ID Verification), dans le but de lutter contre le blanchiment d'argent, la fraude et le terrorisme. En outre, la vérification de l'âge et des coordonnées de contact est également effectuée.  
+Les partenaires commerciaux sont GOOGLE (https://policies.google.com/privacy?hl=fr), META (https://www.facebook.com/privacy/policy/?entry\_point=data\_policy\_redirect&entry=0), JOKO (WYLR - https://home.joko.com/fr/legal/politique-de-confidentialite) ou déterminés par les intermédiaires suivants : MV GROUP, (https://mes-datas.fr/advertisers/6183be17a9ae59006d3bad01). MKD ( https://mkdgroupe.com/donnees-personnelles/), IDAIA (https://www.idaia.group/fr/listing-clients), EMB (https://www.emb-europe.com/fr/mentions-legales-et-politique-de-confidentialite), MARKET ESPACE ( https://www.marketespace.fr/vie-privee/, https://partenaires.marketespace.fr/).  
+  
+Avec des tiers susceptibles de déposer des cookies sur vos appareils, avec votre consentement. Pour plus d’informations, veuillez consulter l’Article 6 de la présente ;  
 Avec les autorités, sur demande et dans les limites permises par la loi.  
 Avec ses ayants droit.
 
-### 2.4. Hébergement de vos données personnelles
+### 2.3. Hébergement de vos données personnelles
 
 #### Sont-elles transférées en dehors de l’Union Européenne ?
 
@@ -193,13 +197,13 @@ VERTBAUDET est présent à travers différents pays mais vos données personnell
   
 VERTBAUDET prendra alors naturellement des mesures appropriées pour maintenir la sécurité des informations personnelles pendant le transfert et à la réception de ces informations. Les sous-traitants et prestataires seront liés par contrat avec VERTBAUDET, qui intègrera les clauses contractuelles types (telles que publiées par la Commission Européenne). VERTBAUDET exige par ailleurs de ses sous-traitants et prestataires qu’ils garantissent un niveau de sécurité, de confidentialité et de protection suffisant de la vie privée et des droits fondamentaux.
 
-### 2.5. Durée de conservation des données personnelles
+### 2.4. Durée de conservation des données personnelles
 
 VERTBAUDET a fixé la durée de conservation de vos données personnelles :
 
-*   1\. 3 ans pour les prospects (n’ayant jamais effectué d’achat auprès de VERTBAUDET et de ses partenaires), à compter de la date du dernier contact avec notre marque
+*   3 ans pour les prospects (n’ayant jamais effectué d’achat auprès de VERTBAUDET et de ses partenaires), à compter de la date du dernier contact avec notre marque
     
-*   2\. 5 ans pour les clients (ayant déjà effectué un achat), à compter de la date du dernier achat
+*   5 ans pour les clients (ayant déjà effectué un achat), à compter de la date du dernier achat
     
 
 Néanmoins, pour certains types de traitement, la conservation des données fait l’objet de durées de conservation spécifiques (par exemple, l’enregistrement des conversations téléphoniques au service relation client sont conservés pendant une durée de 6 jours, les factures liées aux achats sont conservées 10 ans, les données collectées dans le cadre de la gestion du Programme de Fidélité sont conservées pendant la durée d’adhésion au Programme).
@@ -219,10 +223,10 @@ Nous nous engageons à assurer la sécurité de vos données à caractère perso
 Pour les données collectées sur le Site Internet, nous utilisons le protocole sécurisé SSL (Secure Socket Layer) qui vous garantit un haut niveau de protection.  
 Afin d´assurer la sécurité des paiements, VERTBAUDET utilise les services des prestataires certifiés PCI-DSS.  
 Cette norme est un standard de sécurité international dont les objectifs sont d’assurer la confidentialité et l’intégrité des données des porteurs de cartes, et ainsi de sécuriser la protection des données cartes et de transaction.  
-Lorsque vous réglez une commande par carte bancaire, notre système de prise de commande se connecte en temps réel avec le système de nos prestataires de paiement, qui collectent vos données et procède aux diverses vérifications pour éviter les abus et les fraudes. Les données sont stockées sur les serveurs de ces prestataires de paiement et ne sont à aucun moment transmises sur les serveurs de VERTBAUDET.  
+Lorsque vous réglez une commande par carte bancaire, notre système de prise de commande se connecte en temps réel avec le système de nos prestataires de paiement, qui collectent vos données, et procède aux diverses vérifications pour éviter les abus et les fraudes. Les données sont stockées sur les serveurs de ces prestataires de paiement et ne sont à aucun moment transmises sur les serveurs de VERTBAUDET.  
 Ainsi, lorsque vous indiquez votre numéro de carte bancaire, les recherches d'autorisation sont automatiquement transmises en mode crypté. Les autorisations et données sont alors vérifiées auprès de votre banque afin d'éviter les abus et les fraudes.
 
-Lors de votre paiement, vous avez la possibilité de sauvegarder les coordonnées de votre carte de paiement afin de faciliter vos futurs achats sur le Site Internet. Ces informations sont ainsi enregistrées et sécurisées auprès de nos partenaires soumis à la norme de sécurité dite « PCI-DSS » (Payment Card Industry Data Security Standard). Vous pouvez consulter la liste de vos cartes enregistrées (en mode masqué), mais également supprimer tout ou partie de son contenu.
+Lors de votre paiement, vous avez la possibilité de sauvegarder les coordonnées de votre carte de paiement afin de faciliter vos futurs achats sur le Site Internet. Ces informations sont ainsi enregistrées et sécurisées auprès de nos partenaires soumis à la norme de sécurité dite « PCI-DSS » (Payment Card Industry Data Security Standard). Vous pouvez consulter la liste de vos cartes enregistrées (en mode masqué), mais également supprimer tout ou partie de son contenu.
 
 Afin de pouvoir débiter le compte lors de la facturation ou de la créditer suite à un retour, nos prestataires de paiement gardent les données bancaires associées au n° d’autorisation, le temps nécessaire à la réalisation de la transaction et au traitement des éventuelles réclamations (retours, litiges).
 
@@ -236,7 +240,8 @@ VERTBAUDET vous adressera ses offres commerciales par email, sms, mms, watsapp s
 Par ailleurs, si vous passez une commande et n'avez pas au préalable exprimé votre souhait de ne pas recevoir de la prospection commerciale, nous pourrons utiliser votre email afin de vous adresser des offres commerciales pour des produits similaires à ceux commandés.  
 En cas d'envoi d'email de prospection VERTBAUDET, l'expéditeur VERTBAUDET sera clairement identifié et la nature de la proposition commerciale sera indiquée dans l'objet du message. En fin de chaque message, vous aurez la possibilité de vous désabonner de nos emails de prospection par simple clic.
 
-Enfin, en nous communiquant votre numéro de téléphone, vous acceptez d'être contacté pour toute nécessité relative à votre commande mais également pour des propositions commerciales par téléphone ou WhatsApp. Vous pouvez vous opposer au démarchage téléphonique des sociétés dont vous n’êtes pas client en vous inscrivant sur www.bloctel.gouv.fr.  
+Enfin, en nous communiquant votre numéro de téléphone, vous pouvez être contacté pour toute nécessité relative à votre commande mais également, si vous l’avez accepté, pour des propositions commerciales par téléphone ou WhatsApp.  
+Vous pouvez vous opposer au démarchage téléphonique des sociétés dont vous n’êtes pas client en vous inscrivant sur [www.bloctel.gouv.fr](https://www.bloctel.gouv.fr/).  
 Dans le cadre du suivi de la qualité et de la formation de notre service clients, certains appels téléphoniques (entrants et sortants) sont susceptibles d’être écoutés et/ou enregistrés.
 
 ### 4.2. Bannières sur des sites partenaires
@@ -371,11 +376,10 @@ Les partenaires de Vertbaudet, ci-dessous listés, déposent des cookies dans le
 *   Ividence : [http://www.ividence.com/legal/](http://www.ividence.com/legal/)
 *   Microsoft Advertising : [https://privacy.microsoft.com/fr-fr/privacystatement](https://privacy.microsoft.com/fr-fr/privacystatement)
 *   MediaMath : [http://www.mediamath.com/fr/politique-de-confidentialite/](http://www.mediamath.com/fr/politique-de-confidentialite/)
-*   Target2Sell : [contact@target2sell.com](https://www.vertbaudet.fr/page/contact@target2sell.com)
+*   8\. iAdvize : [https://www.iadvize.com/fr/vie-privee/](https://www.iadvize.com/fr/vie-privee/)
 *   iAdvize : [https://www.iadvize.com/fr/vie-privee/](https://www.iadvize.com/fr/vie-privee/)
 *   Bazaarvoice : [https://www.bazaarvoice.com/legal/privacy-policy/](https://www.bazaarvoice.com/legal/privacy-policy/)
 *   GlobalSign : [https://downloads.globalsign.com/acton/attachment/2674/f-0a47/1/-/-/-/-/GlobalSign-Privacy-Policy.pdf](https://downloads.globalsign.com/acton/attachment/2674/f-0a47/1/-/-/-/-/GlobalSign-Privacy-Policy.pdf)
-*   Sensefuel : [https://www.sensefuel.com/fr/mentions-legales/](https://www.sensefuel.com/fr/mentions-legales/)
 *   Taboola : [https://www.taboola.com/fr/cookie-policy](https://www.taboola.com/fr/cookie-policy)
 *   Kenshoo : [https://www.kenshoo.fr/privacy-policy/](https://www.kenshoo.fr/privacy-policy/)
 *   Effiliation : [https://www.effiliation.com/mentions/](https://www.effiliation.com/mentions/)
@@ -387,8 +391,22 @@ Les partenaires de Vertbaudet, ci-dessous listés, déposent des cookies dans le
 *   Pinterest : [https://policy.pinterest.com/fr/cookies](https://policy.pinterest.com/fr/cookies)
 *   Commander Acts : [https://www.commandersact.com/fr/vie-privee/](https://www.commandersact.com/fr/vie-privee/)
 *   Powerspace : [https://powerspace.com/privacy/](https://powerspace.com/privacy/)
+*   ThankYou Analytics : [https://thankyouanalytics.com/fr/charte-sur-le-respect-de-la-vie-privee/](https://thankyouanalytics.com/fr/charte-sur-le-respect-de-la-vie-privee/)
+*   Effinity: [https://www.effinity.fr/politique-de-confidentialite/](https://www.effinity.fr/politique-de-confidentialite/)
+*   RTB House: [https://www.rtbhouse.com/privacy-center/](https://www.rtbhouse.com/privacy-center/)
+*   Tik Tok: [https://www.tiktok.com/legal/page/eea/privacy-policy/fr](https://www.tiktok.com/legal/page/eea/privacy-policy/fr)
+*   Pinterest: [https://policy.pinterest.com/en/privacy-policy](https://policy.pinterest.com/en/privacy-policy)
+*   Dataïads: [https://www.dataiads.io/en/rgpd](https://www.dataiads.io/en/rgpd)
+*   Bing: [https://www.microsoft.com/en-us/privacy](https://www.microsoft.com/en-us/privacy)
+*   Seedtag: [https://www.seedtag.com/fr/cookies-policy/](https://www.seedtag.com/fr/cookies-policy/)
+*   Qwarry: [https://www.qwarry.com/politique-de-confidentialite](https://www.qwarry.com/politique-de-confidentialite)
+*   Skeepers: [https://www.skeepers.io/app/uploads/sites/2/2023/12/Politique-de-confidentialite-et-des-cookies-SKEEPERS-COMMUNITY-1.pdf](https://www.skeepers.io/app/uploads/sites/2/2023/12/Politique-de-confidentialite-et-des-cookies-SKEEPERS-COMMUNITY-1.pdf)
+*   Algolia: [https://www.algolia.com/policies/privacy](https://www.algolia.com/policies/privacy)
+*   Content Square : [https://contentsquare.com/fr-fr/privacy-center/](https://contentsquare.com/fr-fr/privacy-center/)
+*   Wonderpush: [https://docs.wonderpush.com/docs/privacy-policy-faq](https://docs.wonderpush.com/docs/privacy-policy-faq)
 *   Epsilon : Epsilon utilise les cookies (ou autre type de données) avoir accès / stocker des informations sur l'appareil du consommateur (avec la possibilité pour l’utilisateur de consentir ou non à l’utilisation de ces données) au titre des finalités suivantes : Stocker et/ou accéder à des informations sur un terminal, sélectionner des publicités standard, créer un profil personnalisé de publicités, sélectionner des publicités personnalisées, créer un profil pour afficher un contenu personnalisé, sélectionner du contenu personnalisé, mesurer la performance des publicités, exploiter des études de marché afin de générer des données d’audience, développer et améliorer les produits, assurer la sécurité, prévenir la fraude et déboguer, diffuser techniquement les publicités ou le contenu, mettre en correspondance et combiner des sources de données hors ligne, relier différents terminaux, recevoir et utiliser des caractéristiques d’identification d’appareil envoyées automatiquement.  
     Vous pouvez consulter la politique d’Epsilon/Conversant en matière de vie privée [ici](https://www.epsilon.com/emea/privacy-policy).
+*   Klarna : Les cookies strictement nécessaires sont indispensables au fonctionnement du site web et ne peuvent être désactivés dans nos systèmes. Ils ne sont généralement définis qu'en réponse à des actions de votre part qui constituent une demande de services, telles que la définition de vos préférences en matière de confidentialité, la connexion ou le remplissage de formulaires. Afin de garantir la sécurité du service et de prévenir la fraude, nous collectons également les empreintes digitales des appareils, y compris, mais sans s'y limiter, le nom de votre navigateur, votre adresse IP, votre fuseau horaire, vos préférences linguistiques et la disponibilité des services.
 
 7\. Vos droits
 --------------
