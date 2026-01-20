@@ -1395,7 +1395,7 @@ DEPOSE-BAGAGE EXPRESS
 
 =======================
 
-Si vous achetez des bagages enregistrés avec un tarif standard ou dans le cadre d’un forfait tarifaire, vous pouvez bénéficier du Dépose-bagage express pour un montant de 5 € (voir Tableau des tarifs). Le service Dépose-bagage express vous permettra d’éviter la file d’attente au comptoir de dépôt des bagages standard et de laisser votre bagage au comptoir Flexi Plus.
+Si vous achetez des bagages enregistrés avec un tarif standard ou dans le cadre d’un forfait tarifaire, vous pouvez bénéficier gratuitement du service de Dépose-bagages express. Le service Dépose-bagage express vous permettra d’éviter la file d’attente au comptoir de dépôt des bagages standard et de laisser votre bagage au comptoir Flexi Plus.
 
 Le service Dépose-bagage express doit être acheté pour tous les bagages enregistrés sur la réservation. Il se peut que vous ne puissiez pas l’acheter pour certains bagages enregistrés.
 
