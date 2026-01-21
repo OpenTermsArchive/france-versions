@@ -5,7 +5,7 @@ Conformément aux dispositions de la loi n° 2004-575 du 21 juin 2004 pour la co
 
 ### **Édition du site** 
 
-Le site legalstart.fr est édité par la société Yolaw S.A.S., au capital social de 11 051,85 € euros, immatriculée au Registre du commerce et des sociétés de Paris sous le n° 753 892 926 et dont le siège social est situé 50, rue d'Hauteville, 75010, Paris (Siret n° 753 892 926 00035 et TVA intracommunautaire n° FR18753892926).
+Le site legalstart.fr est édité par la société Yolaw SAS., au capital social de 12.576.947,40 €, immatriculée au Registre du commerce et des sociétés de Paris sous le n°900 758 343 et dont le siège social est situé 50, rue d’Hauteville, 75010, Paris (Siret n°900 7583 430 0017 et TVA intracommunautaire n° FR56900758343).
 
 ### **Responsable de publication** 
 
