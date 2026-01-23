@@ -332,7 +332,7 @@ Partenaires via leur marque cobrandée ou via un lien hypertexte renvoyant vers 
 
 
 
-Elles sont valables à compter du 25 novembre 2025. Cette édition annule et remplace les versions
+Elles sont valables à compter du 22 janvier 2026. Cette édition annule et remplace les versions
 
 antérieures.
 
@@ -786,7 +786,7 @@ cas être présenté sur un autre support (électronique, écran...).
 
 o Une bonne qualité de l'impression est nécessaire. En cas d'incident ou de mauvaise
 
-qualité d'impression, l’Utilisateur doit imprimer à nouveau le fichier « .pdf ».
+qualité d'impression, l’Utilisateur doit imprimer à nouveau le fichier « .pdf».
 
 
 
@@ -1112,7 +1112,7 @@ forme de bons voyages. Les demandes de remboursement devront être adressées
 
 directement à chaque transporteur concerné qui disposera d’un délai de 30 jours à
 
-compter de la réception de votre demande pour y procéder ;
+compter de la réception de votre demande pour y procéder;
 
 - ou vous pourrez poursuivre votre voyage ou être réacheminé vers votre destination finale
 
@@ -1272,7 +1272,7 @@ AUX PRESTATIONS VENDUES PAR LES PARTENAIRES DE
 
 SNCF CONNECT
 
-Article 6. PRESTATIONS « LOCATION de Voiture »
+Article 6. PRESTATIONS «LOCATION de Voiture »
 
 
 
@@ -1550,13 +1550,13 @@ De même, le règlement de tout billet de mobilité permettant de Vous déplacer
 
 travail à votre domicile ou dans le cadre d’un de vos déplacements professionnels pourra être
 
-effectué avec la carte Betterway, ALD Move, Mooncard, Roadmate ou Pluxee. Ces cartes font
+effectué à l’aide d’une carte dédiée à la mobilité professionnelle. Ces cartes font partie d’un
 
-partie d’un service proposé aux entreprises au bénéfice des Utilisateurs, salariés de l’entreprise.
+service proposé aux entreprises au bénéfice des Utilisateurs, salariés de l’entreprise. Ces Cartes
 
-Ces Cartes sont destinées à être utilisées conformément à leurs finalités d’utilisation déterminées
+sont destinées à être utilisées conformément à leurs finalités d’utilisation déterminées par
 
-par l’Employeur et limitées à la réservation et au paiement des seuls billets de mobilité
+l’Employeur et limitées à la réservation et au paiement des seuls billets de mobilité
 
 professionnelle.
 
@@ -1570,13 +1570,23 @@ charge, une action civile et/ou pénale pouvant, le cas échéant, être entrepr
 
 
 
-Afin d’assurer la sécurité des transactions et des consommateurs, SNCF Connect, par le biais de
+En cas de remboursement, lorsque plusieurs cartes de paiement ont été utilisées pour un même
 
-son sous-traitant ReD (Retail Decisions), se réserve la possibilité de bloquer toute commande
+dossier voyage, tout remboursement sera effectué sur chacune des cartes concernées,
 
 17
 
 
+
+proportionnellement aux montants réglés, et non en totalité sur la dernière carte utilisée, sauf
+
+dispositions contraires prévues par la loi ou par les présentes conditions.
+
+
+
+Afin d’assurer la sécurité des transactions et des consommateurs, SNCF Connect, par le biais de
+
+son sous-traitant ReD (Retail Decisions), se réserve la possibilité de bloquer toute commande
 
 apparaissant comme frauduleuse ou ne présentant pas toutes les garanties nécessaires en termes
 
@@ -1674,6 +1684,8 @@ billets, ce complément ne pourra être réglé que par carte bancaire. Le règl
 
 Vacances Connect ne sera pas accepté.
 
+18
+
 
 
 Enfin, dans le cas où votre échange donnerait lieu à un remboursement en votre faveur, le
@@ -1683,8 +1695,6 @@ remboursement sera réalisé en bons d’achat dématérialisés émis par le tr
 même en cas d’annulation de vos billets. Cette règle s’applique que Vous ayez payé vos billets en
 
 partie ou en totalité par Chèque-Vacances Connect.
-
-18
 
 
 
@@ -1966,7 +1976,7 @@ jours à compter de sa conclusion et tant qu’aucune garantie n’a été mise 
 
 
 
-Article 15. INFORMATIONS, RÉCLAMATIONS ET MÉDIATION
+Article 15. INFORMATIONS,RÉCLAMATIONS ET MÉDIATION
 
 15.1 POUR LES PRESTATIONS PROPOSÉES PAR SNCF CONNECT AU NOM
 
