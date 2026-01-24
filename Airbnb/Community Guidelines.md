@@ -2677,58 +2677,94 @@ Nous exigeons de tous les hôtes de logements qu'ils respectent nos [règles de 
 Dans cet article
 
 *   [Suspensions d'annonces](#section-heading-0)
-*   [Réservations existantes](#section-heading-1)
-*   [Après la période de suspension](#section-heading-2)
-*   [Suppression d'annonces](#section-heading-3)
-*   [Contester les infractions et les suppressions d'annonces](#section-heading-4)
+*   [Suppression d'annonces](#section-heading-1)
+*   [Restrictions de compte](#section-heading-2)
+*   [Suppression de compte](#section-heading-3)
+*   [Suppression d'annonces et de comptes suite à un signalement](#section-heading-4)
 *   [Autres mesures d'application des règles d'Airbnb sur les annonces et les comptes](#section-heading-5)
 
 Suspensions d'annonces  
 
 -------------------------
 
-Vous pouvez identifier les annonces suspendues en accédant à la section [Problèmes liés aux annonces](https://www.airbnb.fr/insights/listing-issues) dans [Analyses](https://www.airbnb.fr/performance/quality/overall). Tant que votre annonce est suspendue, elle n'apparaîtra pas dans les résultats de recherche et vous ne pourrez pas recevoir de nouvelles réservations. Vous devez également vous familiariser avec nos [règles de base pour les hôtes](https://www.airbnb.fr/help/article/2895) et consulter les conseils de notre [Centre de ressources](https://www.airbnb.fr/resources/hosting-homes).
+Vous pouvez identifier les annonces suspendues en accédant à [Problèmes liés aux annonces](https://www.airbnb.fr/insights/listing-issues) trouvés dans [Informations](https://www.airbnb.fr/performance/quality/overall). Tant que votre annonce est suspendue, elle n'apparaîtra pas dans les résultats de recherche et vous ne pourrez pas recevoir de nouvelles réservations. Vous devez également vous familiariser avec nos [règles de base pour les hôtes d'un logement](https://www.airbnb.fr/help/article/2895) et consulter les conseils de notre [Centre de ressources](https://www.airbnb.fr/resources/hosting-homes).
 
 Vous aurez la possibilité de réactiver votre annonce une fois la période de suspension terminée. Selon la nature du problème, nous pourrons également vous demander de fournir des preuves suffisantes indiquant que le problème est résolu. 
 
-Réservations existantes
------------------------
+### Réservations existantes
 
 Vous pouvez continuer à accueillir vos voyageurs pour les réservations en cours et à venir, qui ne seront pas affectées par la suspension de votre annonce.
 
-Après la période de suspension
-------------------------------
+### Après la période de suspension
 
-Si votre annonce est éligible à la réactivation, vous pouvez la réactiver en vous connectant à votre compte et en suivant les étapes qui s'affichent. Une fois réactivée, votre annonce apparaîtra à nouveau dans les résultats de recherche et vous pourrez accepter de nouvelles réservations. Veuillez noter que même après la réactivation, votre annonce pourrait être suspendue à nouveau ou supprimée de la plate-forme si les voyageurs continuent à signaler des problèmes.
-
-Si votre annonce est en attente de suppression, elle ne pourra être réactivée que si vous faites appel avec succès.  
+Si votre annonce est éligible à la réactivation, vous pouvez la réactiver en vous connectant à votre compte et en suivant les étapes qui s'affichent. Une fois réactivée, votre annonce apparaîtra à nouveau dans les résultats de recherche et vous pourrez accepter de nouvelles réservations. Veuillez noter que même après la réactivation, votre annonce pourrait être suspendue à nouveau ou supprimée de la plate-forme si les voyageurs continuent à signaler des problèmes.  
 
 Suppression d'annonces
 ----------------------
 
-Les annonces qui ont été identifiées pour suppression seront affichées dans **les problèmes d'annonce** trouvés dans **Informations**. Une fois votre annonce supprimée d'Airbnb, elle ne sera plus accessible dans vos **annonces**.
+Les annonces qui ont été identifiées pour suppression seront affichées dans **[Problèmes](https://www.airbnb.fr/insights/listing-issues)** trouvés dans l'annonce dans **[Analyses](https://www.airbnb.fr/performance/quality/overall)**. Si votre annonce est en attente de suppression, elle ne pourra pas recevoir de nouvelles réservations et ne pourra pas être réactivée, sauf si vous faites appel avec succès. Pour comprendre pourquoi l'annonce a été supprimée, consultez les problèmes signalés dans [Problèmes](https://www.airbnb.fr/insights/listing-issues) liés à l'annonce dans [Informations](https://www.airbnb.fr/performance/quality/overall).
 
-Contester les infractions et les suppressions d'annonces
---------------------------------------------------------
+Si votre annonce est en attente de suppression, elle sera supprimée à la date indiquée, sauf si vous faites appel avec succès. Pendant cette période, nous vous demandons de continuer à honorer les réservations existantes en respectant nos [règles de base pour les hôtes de logements](https://www.airbnb.fr/help/article/2895). Les réservations pour les logements dont l'arrivée est prévue après la date de retrait seront annulées.  
 
-Vous pouvez faire appel de la suppression d'une annonce ou d'une autre décision en [nous contactant](https://www.airbnb.fr/help/contact_us) directement ou via le lien fourni pour démarrer la procédure d'appel. Lors de l'examen des appels, nous prendrons en compte tous les détails supplémentaires que vous fournissez, tels que des informations nouvelles ou corrigées, des infractions à notre [Politique](https://www.airbnb.fr/help/article/548/) en matière de commentaires ou d'autres circonstances pertinentes liées à la ou aux infractions.
+Une fois votre annonce supprimée d'Airbnb, elle ne sera plus accessible dans l'**[onglet Annonces](https://www.airbnb.fr/hosting/listings)** .
 
-Pour faire appel, vous devrez fournir :
+Restrictions de compte
+----------------------
+
+Si votre compte (en tant qu'hôte ou co-hôte) est restreint, vous recevrez des notifications par e-mail et dans le produit. Pour comprendre ce qui a causé la restriction du compte, consultez les problèmes signalés dans [Problèmes de l'](https://www.airbnb.fr/insights/listing-issues)annonce trouvés dans [Informations](https://www.airbnb.fr/performance/quality/overall). Tout problème signalé pour une réservation où vous étiez le [propriétaire de l'annonce ou un co-hôte disposant d'un accès intégral](https://www.airbnb.fr/help/article/1536) peut contribuer à la restriction.
+
+Pendant que votre compte est restreint, vous pouvez :
+
+*   Non éligible au statut de Superhôte
+*   Impossibilité de participer au réseau de co-hôtes
+*   Impossibilité de publier ou de co-héberger de nouvelles annonces
+*   Payé selon un calendrier différent, par exemple après la date de départ de votre voyageur
+
+Vous devez également vous familiariser avec nos [règles de base pour les hôtes d'un logement](https://www.airbnb.fr/help/article/2895) et consulter les conseils de notre [Centre de ressources](https://www.airbnb.fr/resources/hosting-homes).
+
+Veuillez noter que même après la levée d'une restriction, votre compte peut être à nouveau restreint ou supprimé de la plate-forme si les voyageurs continuent à signaler des problèmes.
+
+Suppression de compte
+---------------------
+
+Vous recevrez un e-mail et des notifications dans le produit pour vous avertir que votre compte est en attente de suppression et vous recevrez un lien pour faire appel. Pendant que votre compte est en attente de suppression, les annonces dont vous êtes [propriétaire](https://www.airbnb.fr/help/article/1536) n'apparaîtront pas dans les résultats de recherche et ne pourront pas recevoir de nouvelles réservations.
+
+Pour comprendre pourquoi le compte a été supprimé, consultez les problèmes signalés dans [Problèmes de](https://www.airbnb.fr/insights/listing-issues) l'annonce trouvés dans les [Informations](https://www.airbnb.fr/performance/quality/overall). Tout problème signalé pour une réservation où vous étiez le propriétaire de l'annonce ou un co-hôte disposant d'un accès intégral peut contribuer à la suppression du compte.
+
+**Propriétaires d'annonces** : si votre compte est supprimé, les réservations pour vos annonces dont les dates d'arrivée sont postérieures à la date de suppression seront annulées.
+
+**Co-hôtes disposant d'un accès intégral** : les propriétaires d'annonces avec lesquels vous travaillez actuellement en tant que co-hôte disposant d'un accès intégral recevront des notifications par e-mail indiquant que votre compte est en attente de suppression. 
+
+Si votre compte est en attente de suppression, il sera supprimé à la date communiquée, sauf si vous faites appel avec succès. Pendant cette période, nous vous demandons de continuer à honorer les réservations existantes en respectant nos [règles de base pour les hôtes de logements](https://www.airbnb.fr/help/article/2895). Une fois votre compte supprimé, vous ne pourrez plus accueillir de voyageurs ni gérer des logements en tant que co-hôte sur Airbnb. Toutes les annonces dont vous êtes propriétaire seront supprimées.
+
+Suppression d'annonces et de comptes suite à un signalement
+-----------------------------------------------------------
+
+Vous pouvez faire appel de la suppression d'une annonce ou d'un compte en [nous contactant](https://www.airbnb.fr/help/contact_us) directement ou en utilisant le lien fourni pour lancer la procédure d'appel avant la date limite. Lors de l'examen des appels, nous prendrons en compte tous les détails supplémentaires que vous fournissez, tels que des informations nouvelles ou corrigées, des infractions à notre [Politique](https://www.airbnb.fr/help/article/548/) en matière de commentaires ou d'autres circonstances pertinentes liées à la ou aux infractions. Pour consulter toutes les infractions liées à la suppression d'une annonce ou d'un compte, rendez-vous dans la section [Problèmes](https://www.airbnb.fr/insights/listing-issues) liés à l'annonce, sous l'onglet [Informations](https://www.airbnb.fr/performance/quality/overall).
+
+Pour faire appel de la suppression d'une annonce, vous devrez fournir :
 
 *   Le nom de l'annonce
-*   Les codes de réservation pour les séjours où les problèmes ont été signalés, qui se trouvent dans l'onglet Réservations
-*   Les rapports de problèmes spécifiques que vous souhaitez contester et pourquoi
+*   Les codes de réservation pour les séjours où les problèmes ont été signalés et que vous contestez
+*   Pourquoi vous faites appel des signalements de problèmes spécifiques
+*   Toute documentation pertinente à l'appui de votre appel
+
+Pour faire appel de la suppression d'un compte, vous devrez fournir :
+
+*   Le nom du compte
+*   Les codes de réservation pour les séjours où les problèmes ont été signalés et que vous contestez
+*   Pourquoi vous faites appel des signalements de problèmes spécifiques
 *   Toute documentation pertinente à l'appui de votre appel
 
 Les circonstances qui ne sont pas considérées comme des motifs d'appel comprennent :
 
 *   « Le commentaire du voyageur était injuste. » Le désaccord avec un commentaire de voyageur n'est pas un motif suffisant pour faire appel d'une décision en vertu de cette politique. Les commentaires ne peuvent être supprimés que s'ils enfreignent notre [Politique en matière de commentaires](https://www.airbnb.fr/help/article/2673).
-*   « C'était un problème ponctuel. » Les suppressions pour non-respect de nos règles de base pour les hôtes sont basées sur des violations répétées ou graves, plutôt que sur un seul incident mineur.
+*   « C'était un problème ponctuel. » Les suppressions pour non-respect de nos [règles de base pour les hôtes de logements](https://www.airbnb.fr/help/article/2895) sont basées sur des manquements répétés ou graves, plutôt que sur un seul incident mineur.
 
 Autres mesures d'application des règles d'Airbnb sur les annonces et les comptes
 --------------------------------------------------------------------------------
 
-En plus des mesures que nous pouvons prendre en cas de non-respect de nos [règles de base pour les hôtes](https://www.airbnb.fr/help/article/2895), Airbnb peut suspendre ou supprimer des annonces ou des comptes individuels en cas de non-respect de nos autres [conditions](https://www.airbnb.fr/help/feature/2) ou [politiques](https://www.airbnb.fr/help/feature/1).
+En plus des mesures que nous pouvons prendre en cas de non-respect de nos [règles de base pour les hôtes de logements](https://www.airbnb.fr/help/article/2895), Airbnb peut suspendre ou supprimer des annonces ou des comptes individuels en cas de non-respect de nos autres [conditions](https://www.airbnb.fr/help/feature/2) ou [politiques](https://www.airbnb.fr/help/feature/1).
 
 Cet article vous a-t-il été utile ?
 
