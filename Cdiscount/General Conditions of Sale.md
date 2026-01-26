@@ -1514,7 +1514,7 @@ _CONDITIONS GENERALES D’UTILISATION DU SERVICE DE MICRO-DON URCT URCT_
 
 Un Rien C’est Tout est une association à but non lucratif reconnue d’intérêt général et régie par la loi du 1er juillet 1901 dont le siège social est situé 30, rue Desse à Bordeaux (33000), France (ci-après « **URCT** »).
 
-Elle a pour objet de rendre le don accessible à tous et de développer, en collaboration avec des associations partenaires qu’elle identifie (les « **Associations Partenaires** »), des projets solidaires ayant une utilité et un impact social en faveur de quatre grandes causes : le droit à la dignité, l’enfance et l’éducation, la santé et l’environnement (les « **Causes URCT** »).
+Elle a pour objet de rendre le don accessible à tous et de développer, en collaboration avec des associations partenaires qu’elle identifie (les « **Associations Partenaires** »), des projets solidaires ayant une utilité et un impact social en faveur de quatre grandes causes : le droit à la dignit��, l’enfance et l’éducation, la santé et l’environnement (les « **Causes URCT** »).
 
 Dans cette optique, URCT a noué un partenariat avec Cdiscount afin de proposer aux clients de Cdiscount d’effectuer, lors de leurs achats en ligne sur le site [www.cdiscount.com](https://www.cdiscount.com/) (ci-après le « **Site** »), des dons d’un montant minimum de 1 euro en faveur d’Associations Partenaires (le « **Partenariat** »).
 
