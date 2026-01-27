@@ -110,4 +110,4 @@ Certains formulaires de ce site utilisent le service [reCaptcha](https://www.goo
   
   
 
-© 2025 IntraMuros SAS
+© 2026 IntraMuros SAS
