@@ -313,19 +313,21 @@ Les tarifs applicables sont ceux qui sont publiés par le Transporteur ou calcul
 
 **5.2. Taxes, redevances, frais de services et surcharges**
 
-Les prix sont publiés toutes taxes comprises – y compris les taxes et les redevances perçues pour le compte d’un tiers (gouvernement, administration, aéroport, sûreté…), la contribution environnementale et les frais de service – à l’exception de certaines taxes d'aéroport perçues localement.
+Les prix sont publiés toutes taxes comprises (TTC). Ils incluent notamment les taxes et redevances perçues pour le compte de tiers (gouvernements, autorités publiques, gestionnaires d’aéroports, sûreté, etc.), la contribution environnementale, matérialisée par la surcharge transporteur (code YR), et les frais de service, à l’exception de certaines taxes d’aéroport éventuellement perçues localement.
 
-Tous frais, taxes ou redevances imposés par un gouvernement, par toute autre autorité ou par le gestionnaire d'un aéroport seront à votre charge. Lors de l'achat du Billet, le Passager est avisé de ces frais, taxes ou redevances, qui s'ajoutent aux Tarifs et apparaissent séparément sur le Billet. Ils sont en constante évolution et peuvent être créés (ou augmentés) après la date d'achat du Billet, auquel cas vous serez obligé(e) d'acquitter le montant correspondant. Inversement, si les frais, taxes ou redevances, acquittées lors de l’achat en ligne sont réduits ou supprimés, vous aurez le droit d’être remboursé. En ce qui concerne les modalités de remboursement, nous vous renvoyons à l’Article 13 des présentes conditions.
+Tous frais, taxes, redevances ou surcharges imposés par un gouvernement, une autorité publique ou le gestionnaire d’un aéroport sont à la charge du Passager. Lors de l’achat du Billet, le Passager est informé de ces éléments, qui s’ajoutent au tarif et apparaissent de manière distincte sur le Billet.
 
-La contribution environnement est une composante du prix du billet hors taxe payée par le passager au moment de la réservation de son vol sur les lignes Marseille et Nice. Celle-ci correspond en 2024 à un montant forfaitaire de 2 euros par vol et est appliquée aux passagers non-résidents et non remboursable, le prix du tarif résident étant fixe et déterminé par les obligations de service public.
+Ces frais, taxes, redevances et surcharges sont susceptibles d’évoluer et peuvent être créés ou augmentés après la date d’achat du Billet. Dans ce cas, le Passager pourra être tenu d’acquitter le montant correspondant. Inversement, si les frais, taxes ou redevances acquittés lors de l’achat sont réduits ou supprimés, le Passager pourra prétendre à leur remboursement, conformément aux modalités prévues à l’Article 13 des présentes Conditions Générales de Transport.
 
-Cette contribution environnement vise à couvrir la hausse significative des coûts résultant de l’application des différentes obligations environnementales ayant trait à la compensation et à la limitation des émissions carbone et découlant de :
+La contribution environnementale est une composante du prix du billet hors taxes payée par le Passager au moment de la réservation, quelle que soit la destination.  
+Elle correspond à un montant forfaitaire par vol et s’applique aux passagers non-résidents. Cette contribution n’est pas remboursable.  
+Le prix du tarif résident étant fixe et déterminé dans le cadre des obligations de service public, cette contribution ne lui est pas applicable.
 
-                  La Directive 2003/87/CE du Parlement européen et du Conseil du 13 octobre 2003 établissant un système d'échange de quotas d'émission de gaz à effet de serre dans la Communauté (SEQE-UE) ;
+La contribution environnementale vise à couvrir notamment la hausse significative des coûts résultant de la mise en œuvre des obligations environnementales, en particulier celles liées à la compensation et à la limitation des émissions de carbone, découlant notamment de :
 
-             La loi n° 2021-1104 du 22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets, dite loi « Climat et Résilience » et ;
-
-           Les taxes induites par les obligations sur le carburant durable (TIRUERT)".
+*   la Directive 2003/87/CE du Parlement européen et du Conseil du 13 octobre 2003 établissant un système d’échange de quotas d’émission de gaz à effet de serre dans l’Union européenne (SEQE-UE) ;
+*   la loi n° 2021-1104 du 22 août 2021, dite loi « Climat et Résilience » ;
+*   les obligations relatives à l’incorporation de carburants durables, notamment la TIRUERT.
 
 **5.3. Tarifs**
 
