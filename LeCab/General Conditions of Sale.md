@@ -1,6 +1,9 @@
 Conditions Générales de Vente
 =============================
 
+Conditions Générales de Vente
+-----------------------------
+
 Introduction
 ------------
 
@@ -23,7 +26,7 @@ Voiture désigne la voiture qui sera utilisée lors de l’exécution du service
 
 Client désigne toute personne ayant installé ou utilisant l’Application et / ou en ayant commandé le Service, pour lui-même et / ou pour un tiers, et qui bénéficie des droits et obligations prévus par les Conditions Générales.
 
-Société désigne SnapCar une SAS (Société par Action Simplifiée) au capital de 117 972,20 euros, dont le Siège Social est situé au 91 rue Jean Jaurès 92800 Puteaux Cedex, immatriculée au Tribunal de Commerce de Nanterre sous le numéro 749 816 328.
+Société désigne SnapCar une SAS (Société par Action Simplifiée) au capital de 117 972,20 euros, dont le Siège Social est situé au 91 rue Jean Jaurès 92800 Puteaux Cedex, immatriculée au Tribunal de Commerce de Nanterre sous le numéro 749 816 328.
 
 Chauffeur désigne le chauffeur qui exécutera le service et qui dispose de toutes les autorisations requises par la loi française pour conduire une voiture.
 
@@ -37,7 +40,7 @@ Prix minimum signifie le prix minimum qui sera à la charge du Client pour le Se
 
 Service signifie le transport du Client par la Société par l’intermédiaire du Chauffeur et de la Voiture sous les Conditions Générales de Vente. La performance du service est assujettie à la réglementation applicable selon les autorités gouvernementales.
 
-Site désigne le site Internet de la Société dont l’adresse est [https://www.lecab.fr/,](https://www.lecab.fr/) disponible en français
+Site désigne le site Internet de la Société dont l’adresse est [https://www.lecab.fr/](https://www.lecab.fr/), disponible en français
 
 2 - Utilisation de l'Application
 --------------------------------
@@ -46,7 +49,7 @@ Le Client doit être légalement autorisé à utiliser l’Application et à avo
 
 L’Application est attribuée sous forme de licence au Client (et non vendue), uniquement pour un usage personnel et non-commercial. La licence est assujettie à l’approbation des Conditions Générales au préalable par le Client. La licence accordée au Client est limitée à une licence non exclusive et non transférable pour utiliser l’Application. Le Client ne peut céder, transférer, sous-louer la licence, ni copier, vendre, transférer ou exploiter commercialement l’Application.
 
-Les Conditions Générales de Vente s’appliquent à un Client qui utilise l’Application. Les Conditions Générales de Vente sont disponibles sur l’Application et / ou sur le site Web à l’adresse suivante : https://www.lecab.fr/conditions-generales-de-vente
+Les Conditions Générales de Vente s’appliquent à un Client qui utilise l’Application. Les Conditions Générales de Vente sont disponibles sur l’Application et / ou sur le site Web à l’adresse suivante : [https://www.lecab.fr/conditions-generales-de-vente](https://www.lecab.fr/conditions-generales-de-vente)
 
 En utilisant l’Application le Client sera en mesure de :
 
@@ -68,17 +71,15 @@ Pour effectuer une Réservation sur l’Application, le Client doit également e
 
 L’utilisation de l’Application elle-même est gratuite, seul le service réservé au moyen de l’Application fait l’objet d’une facturation.
 
-Si le Client perd ou se fait voler le mobile sur lequel l’Application est installée, ou s’il se fait dérober les Codes d’Accès, le Client doit immédiatement contacter la Société à l’adresse e-mail [contact@lecab.fr](mailto:contact@snapcar.com) La Société décline toute responsabilité des conséquences d’un vol ou d’une perte.
+Si le Client perd ou se fait voler le mobile sur lequel l’Application est installée, ou s’il se fait dérober les Codes d’Accès, le Client doit immédiatement contacter la Société à l’adresse e-mail contact@lecab.fr La Société décline toute responsabilité des conséquences d’un vol ou d’une perte.
 
 3 - Service
 -----------
 
-### Territoire
-
+**Territoire**  
 Le service n’est disponible que sur les territoires énumérés dans l’Application et / ou le site Internet. La Société n’effectuera aucun Service en dehors de ce territoire. La Société se réserve le droit de modifier à tout moment l’étendue du territoire sur lequel le Service est disponible. La Société peut suspendre ou interrompre le Service à tout moment et sans préavis, sur tout ou partie du territoire.
 
-### Réservation
-
+**Réservation**  
 Le Service est disponible uniquement via l’Application et fait l’objet d’une Réservation préalable. Le Client devra réserver le Service pour une heure et un lieu définis. Le Client bénéficie d’un tarif forfaitaire, hors frais d’attente et hors changement d’itinéraire, lorsqu’il saisit la destination du Service (la prestation de transport). Ce tarif forfaitaire est annoncé à l’avance lors de la Réservation.
 
 Avant de réserver, le Client doit lire attentivement les Conditions Générales de Vente. Le Client accepte expressément que la Réservation du Service constitue son acceptation des tarifs de la Société et des Conditions Générales. Avant de confirmer sa Réservation, le Client aura la possibilité de vérifier qu’il n’y ait pas d’erreur dans la saisie des données. Le Client aura alors la possibilité, si nécessaire, de modifier ces données et de valider sa Réservation.
@@ -87,40 +88,35 @@ Si la Société peut effectuer le Service dans les conditions demandées par le 
 
 La Société ne garantit pas que le Service sera disponible à l’heure et à la date choisies par le Client. Dans ce cas, la demande de Réservation par le Client sera rejetée sans que la Société soit tenue responsable.
 
-### Les conditions d’annulation sans frais
-
+**Les conditions d’annulation sans frais**  
 Après la confirmation de la Réservation, les conditions d’annulation sont prévues sans frais pour les cas suivants uniquement :
 
-– Course en immédiat : la modification ou l’annulation de la course n’entraîne pas de frais si celle-ci est effectuée dans les 5 minutes après la confirmation de réservation. 
+– Course en immédiat : la modification ou l’annulation de la course n’entraîne pas de frais si celle-ci est effectuée dans les 5 minutes après la confirmation de réservation.
 
 – Course à l’avance : la modification ou l’annulation de la course n’entraîne pas de frais si celle-ci intervient au moins 30 minutes avant l’heure de prise en charge de la course.
 
-### Utilisation d’une carte bancaire valide
-
+**Utilisation d’une carte bancaire valide**  
 L’utilisation d’une carte bancaire valide est nécessaire pour la Réservation, à l’exception des salariés autorisés pour les entreprises bénéficiant du paiement centralisé. Le transfert des données bancaires est sécurisé. Les détails de la carte bancaire communiqués par le Client lors de la Réservation doivent être valides entre la date de Réservation et la date de l’exécution du Service. En précisant ses coordonnées bancaires, le Client accepte expressément que la Société débite le compte du Prix final après la fin du Service, sans qu’une autre approbation du Client soit nécessaire. Si la carte bancaire n’est pas ou plus valide, le compte du Client sera bloqué.
 
 Prise en charge: heure et lieu prévus.
 
 Si le Client n’est pas présent, ne se présente pas ou ne peut pas être trouvé par le Chauffeur malgré ses efforts à l’endroit et à l’heure prévus du pick-up, le Service sera considéré comme annulé. Les frais d’annulation et le temps d’attente seront alors facturés. Le Chauffeur n’est pas dans l’obligation d’attendre le Client après l’heure de la Réservation ni de conduire à un point de prise en charge qui n’est pas l’endroit indiqué lors de la Réservation. Si le Chauffeur attend ou conduit jusqu’à un nouvel emplacement (ce qu’il n’a aucune obligation de faire), le Client sera facturé à compter de la date et du lieu indiqués dans la Réservation. Si le Client ne peut pas localiser le Chauffeur ou a besoin d’aide, il peut prend contact avec la Société
 
-### Itinéraire
-
+**Itinéraire**  
 Le Chauffeur choisira l’itinéraire qu’il considère comme étant le plus approprié. Sauf indication contraire par le Client au début du Service, il sera considéré que le Client a accepté l’itinéraire. Si le Client préfère un autre itinéraire, il en informe le Chauffeur au début de la course et le Chauffeur suivra cet itinéraire.
 
 La Société et le Chauffeur se réservent le droit de refuser des arrêts supplémentaires pendant la course.
 
-Les frais supplémentaires s’appliquent lorsque le Service dépasse la destination prévue lors de la Réservation, lorsque le Client sollicite des arrêts ou des détours, lorsqu’il y a des temps d’attente au-delà de l’horaire prévu pour la Réservation ou lorsque la course n’était initialement pas forfaitaire, par exemple si aucune destination précise n’était spécifiée. Il n’y a pas d’obligation pour le Chauffeur d’accepter les modifications par rapport à ce qui était indiqué lors de la Réservation. 
+Les frais supplémentaires s’appliquent lorsque le Service dépasse la destination prévue lors de la Réservation, lorsque le Client sollicite des arrêts ou des détours, lorsqu’il y a des temps d’attente au-delà de l’horaire prévu pour la Réservation ou lorsque la course n’était initialement pas forfaitaire, par exemple si aucune destination précise n’était spécifiée. Il n’y a pas d’obligation pour le Chauffeur d’accepter les modifications par rapport à ce qui était indiqué lors de la Réservation.
 
-### Bagages – passagers
-
+**Bagages – passagers**  
 Le poids total des bagages est limité à ce qui est compatible avec le véhicule utilisé, dans la limite de l’espace accessible. La Société ne sera pas tenue responsable de toute perte de bagages pendant ou après le Service. Les effets personnels du Client sont sous la responsabilité du Client et la Société ne sera pas tenue responsable de toute perte ou détérioration de ces effets.
 
 Le nombre maximum de passagers dans la Voiture (y compris le Chauffeur) ne doit pas dépasser le nombre maximal de passagers mentionné dans les spécifications techniques de la Voiture. Le Chauffeur et / ou la Société se réserve le droit de refuser un passager dépassant ces limites.
 
 Le conducteur et / ou de la Société se réserve le droit de refuser les animaux.
 
-### Autres
-
+**Autres**  
 La Société maintient une stricte politique non-fumeur dans l’ensemble de ses Voitures. La consommation d’alcool n’est pas autorisée dans la Voiture. Le Conducteur et / ou la Société ont le droit de refuser de transporter tout passager qui est pensé être sous l’influence de l’alcool ou de drogues et dont le comportement constitue une menace pour le Chauffeur, la Voiture ou tout autre passager.
 
 La Société peut choisir, sans le consentement du Client, de sous-traiter, transférer ou céder tout ou une partie du Service à un tiers de son choix, sans en aviser au préalable le Client.
@@ -185,7 +181,7 @@ Toutefois, la Société ne garantit pas que l’utilisation de l’Application e
 
 – Les transactions en retard ou différées et la transmission de l’information relative à une Réservation,
 
-– Des erreurs ou des retards dans les systèmes de communication en dehors de son contrôle, 
+– Des erreurs ou des retards dans les systèmes de communication en dehors de son contrôle,
 
 – Tout autre problème, erreur, retard, ou perte résultant de raisons techniques inhérentes à l’utilisation d’Internet et des communications électroniques ou pour toute autre raison que ce soit,
 
@@ -195,7 +191,7 @@ Bien que la Société fasse tout son possible pour assurer la ponctualité de se
 
 La Société ne sera pas responsable si, au cours de l’exécution du Service, pour une raison quelconque, la Société ne peut exercer pleinement le Service commandé par le Client. Dans ce cas, le Client ne sera pas facturé, même, pour éviter tout doute, pour la partie des Services qui aura été effectuée.
 
-Toutes les réclamations ou autres communications requises ou autorisées en vertu des présentes doivent être faites directement depuis l’Application ou signalées par email à l’adresse suivante : [contact@lecab.fr](mailto:contact@snapcar.com)
+Toutes les réclamations ou autres communications requises ou autorisées en vertu des présentes doivent être faites directement depuis l’Application ou signalées par email à l’adresse suivante : contact@lecab.fr
 
 Le Client reconnaît expressément que la responsabilité de la Société sera limitée au montant du Prix final ou, le Prix final n’est pas déterminé, au montant du Prix forfaitaire annoncé lors de la réservation ou à défaut à un maximum de 25 Euros si aucun de ces éléments n’est connu.
 
@@ -216,7 +212,7 @@ Tout retard ou manquement de la Société à assurer ou à exécuter à tout mom
 
 Toutes les notifications ou autres communications requises ou autorisées en vertu des présentes clauses doivent être adressées par écrit et seront considérées livrées (a) si transmises par e-mail, 12 heures après l’envoi, (b) envoyées par courrier recommandé ou par poste certifiée, 48 heures après l’envoi ou (c) si envoyées par courrier express à la réception et au plus tard 48 heures après l’envoi.
 
-L’adresse e-mail de la Société est [contact@lecab.fr](mailto:contact@snapcar.com) et l’adresse postale est la suivante :
+L’adresse e-mail de la Société est contact@lecab.fr et l’adresse postale est la suivante :
 
 LeCab
 
@@ -244,17 +240,17 @@ En conformité avec les dispositions de la loi du 6 Janvier 1978, le traitement 
 
 Les Clients ont le droit à tout moment d’accéder, de modifier, de rectifier et de supprimer des données personnelles, ce droit peut être exercé directement par l’intermédiaire de l’Application et / ou le site Web de la Société ou en écrivant à l’adresse mentionnée ci-dessus.
 
-La politique de confidentialité est détaillée ici : [**lire le détail**](https://lecab.fr/politique-de-confidentialite/)**.**
+La politique de confidentialité est détaillée ici : [lire le détail](https://lecab.fr/politique-de-confidentialite/).
 
 13 – Droit d’opposition
 -----------------------
 
-Conformément aux dispositions de l’article L221-16 du Code de la consommation, La Société indique au Client qu’il peut s’inscrire gratuitement sur la liste d’opposition au démarchage téléphonique prévue à l’article [L. 223-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032221443&dateTexte=&categorieLien=cid) s’il ne souhaite pas faire l’objet de prospection commerciale par cette voie.
+Conformément aux dispositions de l’article L221-16 du Code de la consommation, La Société indique au Client qu’il peut s’inscrire gratuitement sur la liste d’opposition au démarchage téléphonique prévue à l’article [L. 223-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042155931) s’il ne souhaite pas faire l’objet de prospection commerciale par cette voie.
 
 14 – Litiges
 ------------
 
-En cas de réclamation ou de litige liés aux services proposés, le Client peut écrire directement à la Société à l’adresse : [contact@lecab.fr](mailto:contact@lecab.fr), en vue de tenter de parvenir à un règlement amiable.
+En cas de réclamation ou de litige liés aux services proposés, le Client peut écrire directement à la Société à l’adresse : contact@lecab.fr, en vue de tenter de parvenir à un règlement amiable.
 
 En application des dispositions de l’article L111-1 du Code de la consommation, le Client est informé de ce qu’il a également le droit de recourir gratuitement à un médiateur de la consommation.
 
@@ -266,4 +262,4 @@ ASSOCIATION DE MEDIATION TOURISME VOYAGE
 
 Conformément aux dispositions de l’article 14.1 du Règlement (UE) n°524/2013 du Parlement européen et du Conseil du 21 mai 2013, la Société informe le Client de l’existence d’une plateforme mise en ligne par la Commission européenne ayant pour objet de recueillir les éventuelles réclamations issues d’un achat en ligne des consommateurs européens et de transmettre ensuite les cas reçus aux éditeurs nationaux compétents.
 
-Cette plateforme européenne est disponible via le lien suivant : [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/).
+Cette plateforme européenne est disponible via le lien suivant : [http://ec.europa.eu/consumers/odr/](https://consumer-redress.ec.europa.eu/site-relocation_en).
