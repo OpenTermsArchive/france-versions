@@ -5,7 +5,7 @@ Les versions anglaises remplacent les traductions en cas d'ambiguïté.
 **Privacy Notice**
 ------------------
 
-_**Last Modified: November 19th,**_ **2025**
+_**Last Modified: January 30,**_ **2026**
 
 **NOTE:** This Privacy Notice is drafted in English. If this Privacy Notice is offered in any language other than English it shall be for information purposes only and, in case of conflict between the English-language version and any translation thereof, the English-language version will prevail.
 
@@ -112,14 +112,14 @@ We process personal information for the purposes described below.
     
 *   **Platform Safety**: To promote safety and security on Pornhub. We use the information we collect to help protect Pornhub users from harm and provide safe, secure product.
     
-*   **Compliance:** We may process any of the categories of data mentioned herein to enforce this Privacy Notice, our Terms and Conditions and to comply with any legal obligations, namely but not limited to responding to your data subject requests, to verify the age of users having access to Pornhub, to respond to content reports, and to comply with applicable content moderation and complaint handling obligations.
+*   **Compliance:** We may process any of the categories of data mentioned herein to enforce this Privacy Notice, our Terms and Conditions and to comply with any legal obligations, namely but not limited to responding to your data subject requests, to verify the age of users having access to Pornhub, to respond to content reports, and to comply with applicable content moderation and complaint handling obligations as well as obligations to provide information to researchers under the EU Digital Services Act (**DSA**).
     
 *   **Hash Values:** We may create hash values from any of the categories of data we process, such as infringing or illegal content to detect, prevent, and combat illegal activities including fraud, sexual assault, or exploitation. We reserve the right to share any hashes with law enforcement agencies. 
     
 *   **Information you provide**: We will process Contact Data and user submitted personal information in any other way we may describe when you provide the information or for any other purpose with your consent provided separately from this Privacy Notice.
     
 
-### **6\. Our Legal Bases under Canadian and European Union (EU) Privacy Law**
+### **6\. Our Legal Bases under Canadian, UK and European Union (EU) Privacy Law**
 
 To the extent required by applicable laws, we process your personal data only when: 
 
@@ -135,7 +135,7 @@ To the extent required by applicable laws, we process your personal data only wh
     
 *   It is used to protect your or others’ vital interests: for example, in case of emergency or to prevent a crime or fraud.
     
-*   It is used for tasks carried out in the public interest: for example, to combat unlawful behavior where it is in the public interest to do so and where the public interest is laid down by applicable law.
+*   It is used for tasks carried out in the public interest: for example, to combat unlawful behavior where it is in the public interest to do so and where the public interest is laid down by applicable law (e.g. where we are obliged to disclose data to researchers under the DSA on the basis of a substantial public interest).
     
 
 Depending on the circumstances, we may rely on different legal bases when processing your same information for different purposes. If you reside outside the European Economic Area (“EEA”), Switzerland or the United Kingdom (“UK”), the legal bases on which we rely may differ from those listed above.
@@ -155,6 +155,8 @@ We disclose your personal information when necessary to perform the services or 
 *   **Service providers:** We disclose certain categories of personal information to our authorized service providers to enable us to provide our services to you pursuant to our Terms & Conditions. These service providers may use your information only to perform these tasks on our behalf, such as identity and document authenticity verification including biometric processing, age verification, risk and fraud detection and mitigation, customer service, marketing and advertising, customization of content, analytics, security, hosting or supporting Pornhub’s functionality. These service providers have limited access to personal information needed to perform their functions but are not permitted to process such information for any other purposes. Where required under applicable laws, we have entered into data processing agreements with such service providers to ensure that personal information is only processed securely within our instructions. You can view the list of our third-party service providers acting as our processors [here](https://www.pornhub.com/information/processors).
     
 *   **Legal successors:** We may disclose all categories of personal information we process to a buyer or other successor in the event of a merger, acquisition or sale or transfer of some or all our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding. Such transactions may be in our legitimate interest, particularly our interest in making decisions that enable our business to develop. 
+    
+*   **Researchers and Digital Services Coordinators:** We share information with researchers where this is legally required to comply with data access requirements under the DSA. This may include all categories of personal data that are necessary for the purpose of conducting the research. For access requests by unvetted researchers, this is limited to information that is publicly accessible.
     
 *   **To comply with the law or protect our rights or the rights of third parties:** We access, preserve and share personal information with regulators, public authorities, law enforcement, government agencies, out-of-court dispute settlement bodies or others where we reasonably believe such disclosure is needed to: 
     
