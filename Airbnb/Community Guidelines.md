@@ -2975,11 +2975,11 @@ Conditions et critères relatifs aux expériences et services Airbnb
 
 ========================================================================
 
-Les hôtes de services et d'expériences Airbnb, y compris les co-hôtes d'expériences qui participent à l'animation, doivent répondre aux conditions et critères applicables avant la publication de leur annonce, et doivent continuer à les respecter après sa mise en ligne. Airbnb déterminera à sa seule discrétion si un service ou une expérience répond aux conditions et critères. Le respect de ces derniers ne constitue pas une garantie d'approbation et de publication.
+Les hôtes de services et d'expériences Airbnb, y compris les co-hôtes, doivent répondre aux conditions et critères applicables avant la publication de leur annonce, et doivent continuer à les respecter après sa mise en ligne. Airbnb détermine à sa seule discrétion si un service ou une expérience répond aux conditions et critères. Le respect de ces derniers ne constitue pas une garantie d'approbation.
 
 Tous les hôtes et co-hôtes doivent également se conformer aux [Conditions de service d'Airbnb](https://www.airbnb.fr/help/article/2908), aux [Conditions supplémentaires applicables aux hôtes proposant des services et des expériences](https://www.airbnb.fr/help/article/2870), ainsi qu'aux [Politiques de la communauté](https://www.airbnb.fr/help/feature/1).
 
-Certains types d'activités ne sont pas autorisés sur Airbnb et d'autres sont soumis à des restrictions. En savoir plus sur [les interdictions et les restrictions en matière d'activités](https://www.airbnb.fr/help/article/3875).
+Certaines activités sont interdites ou soumises à des restrictions sur Airbnb. En savoir plus sur [les interdictions et les restrictions en matière d'activités](https://www.airbnb.fr/help/article/3875).
 
 Dans cet article
 
@@ -2989,49 +2989,58 @@ Dans cet article
 Conditions requises avant de publier une annonce de service ou d'expérience
 ---------------------------------------------------------------------------
 
-Les services et les expériences proposés sur Airbnb sont [vérifiés](https://www.airbnb.fr/help/article/3901) pour s'assurer qu'ils répondent à nos critères. Pour proposer un service ou une expérience sur Airbnb, votre annonce et vous-même devez répondre aux conditions et critères suivants.[](https://www.airbnb.fr/help/article/3089/)
+Les services et les expériences proposés sur Airbnb sont [vérifiés](https://www.airbnb.fr/help/article/3901) pour s'assurer qu'ils répondent à nos critères. Pour proposer un service ou une expérience sur Airbnb, l'hôte et l'annonce doivent répondre aux conditions et critères suivants.[](https://www.airbnb.fr/help/article/3089/)
 
 ### Critères pour les hôtes de services et d'expériences
 
-*   **Vérification d'identité et d'antécédents :** les hôtes doivent effectuer notre procédure de [vérification d'identité](https://www.airbnb.fr/help/article/1237) et, le cas échéant, ils peuvent faire l'objet d'une [vérification d'antécédents](https://www.airbnb.fr/help/article/3909) judiciaires ou d'autres vérifications.
-*   **Agrément ou certification :** les hôtes doivent disposer [d'agréments, d'assurances](https://www.airbnb.fr/help/article/3892) et de certifications valides en fonction de l'activité. Les hôtes peuvent être tenus de fournir une preuve que ces documents et assurances sont à jour.
+*   **Identité et antécédents :** les hôtes doivent effectuer notre procédure de [vérification d'identité](https://www.airbnb.fr/help/article/1237) et, le cas échéant, ils peuvent faire l'objet d'une [vérification d'antécédents](https://www.airbnb.fr/help/article/3909) judiciaires ou d'autres vérifications.
+*   **Agrément et certification :** les hôtes doivent disposer [d'agréments, d'assurances](https://www.airbnb.fr/help/article/3892) et de certifications valides en fonction de l'activité. Les hôtes peuvent être tenus de fournir une preuve que ces documents et assurances sont à jour.
+*   **Expériences organisées par des entreprises :** les hôtes professionnels doivent disposer [d'agréments et d'assurances](https://www.airbnb.fr/help/article/3892) valides pour leur activité et s'assurer que leur personnel qui accueille les voyageurs répond également à ces critères. Les hôtes professionnels doivent également vérifier l'identité et, le cas échéant, les antécédents judiciaires des membres de leur personnel.
 
 ### Services : critères de base
 
-*   **Expérience :** un minimum de 2 ans d'expérience dans la catégorie concernée ou 5 ans pour les chefs sans diplôme culinaire.
-*   **Réputation :** les hôtes doivent jouir d'une excellente réputation professionnelle, comme en témoignent les remarques élogieuses des voyageurs, en plus de considérations supplémentaires accordées aux récompenses et aux articles dans des publications, ou d'autres formes de reconnaissance.
-*   **Portfolio :** un portfolio de photos qui met en valeur l'expérience professionnelle de l'hôte est nécessaire pour les catégories suivantes : photographie, chefs privés, services de traiteur, plats préparés, coachs privés, coiffure, maquillage et mani-pédi.
+*   **Expérience :** un minimum de 2 ans d'expérience pertinente, de formation, de réalisations professionnelles et d'expertise.
+*   **Réputation :** excellente réputation professionnelle, reflétée dans les commentaires des voyageurs. Une attention particulière est accordée aux récompenses et aux mentions dans des publications, ou à d'autres formes de reconnaissance.
+*   **Portfolio :** des photos démontrant l'expérience professionnelle sont nécessaires pour les catégories suivantes : photographie, chefs privés, services de traiteur, plats préparés, coachs privés, coiffure, maquillage et mani-pédi.
 
-### Services : critères relatifs aux annonces
+### Services : critères relatifs à l'annonce
 
-*   **Photos :** vous devez envoyer au moins 5 photos de qualité en couleur, dont une photo pour chaque offre, qui donnent une idée claire et réaliste du service que vous proposez. Pour les photographes, au moins 15 photos de votre portfolio sont nécessaires. Pour les annonces relatives aux massages et aux soins bien-être, vous devez utiliser les photos sélectionnées par Airbnb.
-*   **Titre :** votre titre doit préciser en quoi consiste le service et qui le propose.
-*   **Expertise :** indiquez de quels atouts uniques vous disposez pour proposer ce service. Allez droit au but en faisant preuve de concision et de précision.
-*   **Offres :** vous devez proposer un minimum de 3 offres (entrée de gamme, standard et premium) par annonce. Par exemple, un prix d'entrée de gamme peut s'élever à 50 € ou moins pour un service de courte durée, une offre premium correspondra à votre prix le plus élevé, et votre offre standard peut représenter une moyenne. Chaque offre doit disposer de sa propre image, qui doit être facilement identifiable en miniature. Dans la description de chaque offre, nous vous recommandons de mettre en avant des détails spécifiques tels que les ingrédients, les techniques, l'équipement ou les matériaux utilisés, afin que les voyageurs sachent ce qu'ils réservent.
+*   **Photos :** au moins 5 [photos de qualité](https://www.airbnb.fr/e/ser-host-photo), dont une pour chaque offre, qui donnent une idée claire du service proposé aux voyageurs. Pour les photographes, au moins 15 photos de votre portfolio sont nécessaires. Pour les annonces relatives aux massages et aux soins bien-être, vous devez utiliser les photos approuvées par Airbnb.
+*   **Titre :** précisez clairement en quoi consiste le service et qui le propose.
+*   **Description :** décrivez clairement ce que les voyageurs vivront.
+*   **Expertise :** indiquez de quels atouts uniques vous disposez pour proposer ce service. Faites preuve de concision et de précision.
+*   **Offres :** proposez au moins une offre par annonce. Nous recommandons d'en proposer 3 (entrée de gamme, standard et premium) par annonce. Par exemple, une annonce de service comportant 3 offres peut avoir un prix d'entrée de gamme de 50 dollars US ou moins pour un service de courte durée, une offre standard à un prix intermédiaire et une offre premium au prix le plus élevé. Chaque offre doit inclure une description claire et détaillée ainsi que sa propre image miniature. Mettez en avant des détails spécifiques tels que les ingrédients, les techniques, l'équipement ou les matériaux utilisés, afin que les voyageurs sachent exactement ce qu'ils réservent.
 
 ### Expériences : critères de base
 
-*   **Savoir-faire :** l'hôte a suivi une formation officielle ou possède un autre type d'expérience pertinente (exemples : études, formation ou apprentissage, antécédents familiaux ou patrimoine).
-*   **Activité :** l'activité est liée à ce qui fait la réputation d'une ville et à sa culture, sa cuisine ou ses habitants. L'expérience doit encourager la participation et les échanges entre les voyageurs et l'hôte.
-*   **Lieu :** le lieu de l'expérience doit être sûr, propre et confortable, et doit comporter toutes les fonctions nécessaires pour mener à bien l'activité. Il doit s'agir d'un type de lieu généralement utilisé pour cette activité, et sa taille doit être adaptée à la taille du groupe.
+*   **Savoir-faire :** l'hôte a suivi une formation officielle ou possède une expérience pertinente. Pour évaluer ce critère, nous vérifions si l'hôte remplit au moins l'une des conditions suivantes :
+    *   Au moins 5 ans d'expérience pratique dans son domaine.
+    *   Connaissances transmises de génération en génération, antécédents familiaux ou patrimoine.
+    *   Couverture médiatique, presse ou approbation de points de vente établis démontrant un leadership dans son domaine.
+
+Les hôtes professionnels doivent s'assurer que le personnel qui accueille les voyageurs est correctement formé et possède les agréments, l'expérience et la formation nécessaires.
+
+*   **Activité :** elle est liée à ce qui fait la réputation d'une ville et à sa culture, sa cuisine ou ses habitants. L'expérience est liée à l'expertise de l'hôte. Elle encourage la participation et les échanges entre les voyageurs et l'hôte.
+*   **Lieu :** le lieu de l'expérience doit être sûr, propre et confortable. Toutes les fonctionnalités nécessaires à l'activité sont incluses. Il doit s'agir d'un lieu généralement utilisé pour cette activité et sa taille doit être adaptée au groupe.
 
 ### Expériences : critères relatifs aux annonces
 
-*   **Photos :** vous devez envoyer au moins 5 photos de qualité en couleur avec votre proposition, et en ajouter d'autres si nécessaire pour définir des attentes claires.
-*   **Titre :** il est recommandé de mettre l'accent sur l'objectif principal de l'expérience dans le titre et de commencer par un verbe d'action tel que « explorez », « découvrez » ou « goûtez ».
-*   **Description :** étoffez le titre en mettant en avant l'attrait de l'expérience et en permettant aux voyageurs de savoir ce qui les attend.
-*   **Récapitulatif :** décrivez les différentes activités de l'expérience, du début à la fin, afin que les voyageurs comprennent le déroulement de l'expérience et puissent décider si elle leur convient. Pour chaque annonce, ajoutez jusqu'à 5 activités (minimum requis : une activité).
+*   **Photos :** au moins 5 [photos de qualité en couleur](https://www.airbnb.fr/e/host-experiences-photo-guide-hpc) sans texte sur les images. Ajoutez des photos, si nécessaire, pour définir des attentes claires. Incluez une photo distincte pour chaque activité de votre expérience.
+*   **Titre :** mettez l'accent sur l'objectif principal de l'expérience et commencez par un verbe d'action tel que « Explorez », « Découvrez » ou « Goûtez ». Assurez-vous que le titre reflète clairement la nature de l'expérience.
+*   **Description :** utilisez un langage qui complète le titre, met en évidence l'attrait de l'expérience et aide les voyageurs à savoir à quoi s'attendre.
+*   **Programme :** décrivez les différentes activités de l'expérience, du début à la fin, afin que les voyageurs en comprennent le déroulement et puissent décider si elle leur convient. Incluez au moins 3 activités et suffisamment de détails pour définir des attentes claires. Chaque programme ne doit couvrir qu'une seule expérience.
 
 Obligations après la publication d'une annonce de service ou d'expérience
 -------------------------------------------------------------------------
 
-Pour continuer à proposer une expérience ou un service sur Airbnb, votre annonce et vous-même devez répondre aux conditions et critères suivants de manière permanente :
+Pour continuer à proposer un service ou une expérience sur Airbnb, votre annonce et vous-même devez répondre aux conditions et critères suivants de manière permanente :
 
 *   Les hôtes doivent honorer les réservations effectuées et communiquer avec les voyageurs en temps opportun avant la réservation. Si tel n'est pas le cas, la [Politique en cas d'annulation par l'hôte](https://www.airbnb.fr/help/article/2039) pour les services et les expériences précise les frais et autres conséquences qui peuvent s'appliquer. Les remboursements des voyageurs seront traités conformément à la [Politique de remboursement des services et des expériences](https://www.airbnb.fr/help/article/2278).
 *   Les hôtes doivent également proposer des services et des expériences sûrs et de qualité. En savoir plus sur les [règles de base pour les hôtes et les politiques de sécurité relatives à l'accueil de voyageurs pour les services et les expériences](https://www.airbnb.fr/help/article/3855) d'Airbnb.
 *   Airbnb examine les remarques des voyageurs, les annulations par les hôtes et les signalements à l'assistance utilisateurs concernant la sécurité et la qualité des services et des expériences. Les mesures que nous pouvons prendre comprennent l'envoi d'avertissements, la suspension ou la suppression d'annonces, ou la suppression de comptes d'hôtes.
-*   Les hôtes d'expériences sont tenus de s'assurer que tous les co-hôtes qui animent les expériences respectent également ces conditions et critères.
-*   Notre communauté repose sur la confiance, c'est pour cela qu'[Airbnb vérifie l'identité des voyageurs qui effectuent une réservation](https://www.airbnb.fr/help/article/1237). Nous recommandons aux hôtes de ne pas mêler des voyageurs Airbnb à ceux d'autres plateformes lors du même créneau d'une expérience.
+*   Les hôtes de services et d'expériences sont tenus de s'assurer que tous les co-hôtes qui animent les services et les expériences respectent également ces conditions et critères.
+*   Les hôtes professionnels sont tenus de s'assurer que tous les membres de leur personnel qui accueillent les voyageurs respectent également ces conditions et critères.
+*   Notre communauté repose sur la confiance, c'est pour cela qu'[Airbnb vérifie l'identité des voyageurs qui effectuent une réservation](https://www.airbnb.fr/help/article/1237). Pour préserver cette confiance, nous recommandons aux hôtes de ne pas mêler des voyageurs Airbnb à ceux d'autres plateformes lors du même créneau d'une expérience.
 *   Si un hôte décide de faire appel à un assistant sur place afin de l'aider à animer l'activité, il doit en informer les voyageurs à l'avance, comme l'indiquent [les règles de base pour les hôtes et les politiques de sécurité relatives à l'accueil de voyageurs](https://www.airbnb.fr/help/article/3855) d'Airbnb.
 
 N'oubliez pas : si vous apportez des modifications importantes à votre annonce (par exemple, concernant le lieu ou les offres) après sa publication, l'expérience devra [être vérifiée à nouveau](https://www.airbnb.fr/help/article/3901).
