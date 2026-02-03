@@ -227,7 +227,7 @@ Délai : Livraison garantis en 4 jours ouvrés
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats | 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats |
+| 3.99 € si inférieur à 30.00 € d'achats  <br>3.99 € si inférieur à 30.00 € d'achats  <br>3.99 € si inférieur à 30.00 € d'achats  <br>3.99 € si inférieur à 30.00 € d'achats  <br>3.99 € si inférieur à 30.00 € d'achats  <br>3.99 € si inférieur à 30.00 € d'achats  <br>3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats | 3.99 € si inférieur à 30.00 € d'achats  <br>3.99 € si inférieur à 30.00 € d'achats  <br>3.99 € si inférieur à 30.00 € d'achats  <br>3.99 € si inférieur à 30.00 € d'achats  <br>3.99 € si inférieur à 30.00 € d'achats  <br>3.99 € si inférieur à 30.00 € d'achats  <br>3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats |
 
   
 **Livraison avec le service Colis Prive**  
@@ -265,7 +265,7 @@ Délai : Livraison garantis en 4 jours ouvrés
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats | 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats |
+| 3.99 € si inférieur à 30.00 € d'achats  <br>3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats | 3.99 € si inférieur à 30.00 € d'achats  <br>3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats |
 
   
 **Livraison avec le service BPost Mercury**  
@@ -312,7 +312,7 @@ Délai : Livraison garantis en 4 jours ouvrés
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats | 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats |
+| 3.99 € si inférieur à 30.00 € d'achats  <br>3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats | 3.99 € si inférieur à 30.00 € d'achats  <br>3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats |
 
   
 **Livraison avec le service B-Post**  
