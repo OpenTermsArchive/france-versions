@@ -145,7 +145,7 @@ Le client est conscient et accepte que les demandes de Retour doivent être pré
 \- les frais de retour sont entièrement à la charge du client ;  
 \- le Vendeur ne sera en aucun cas responsable de la détérioration ou du vol éventuel du colis et n’effectuera aucun remboursement si de tels événements se produisent.  
   
-Le Client a pour obligation de suivre correctement les instructions fournies dans le colis contenant la marchandise et indiquées sur le Site (sur la page Retours gratuits) pour effectuer un retour. En cas de dépôt du colis dans un centre de collecte, le Client devra fournir son numéro de téléphone, nécessaire comme preuve de livraison et pour suivre le colis.  
+Le Client a pour obligation de suivre correctement les instructions fournies dans le colis contenant la marchandise et indiquées sur le Site pour effectuer un retour. En cas de dépôt du colis dans un centre de collecte, le Client devra fournir son numéro de téléphone, nécessaire comme preuve de livraison et pour suivre le colis.  
   
 Si le produit montre des signes d’usure ou s’il a été utilisé ou altéré par rapport à sa condition d’origine de quelque façon que ce soit, le Vendeur se réserve le droit de ne pas accepter le retour. Plus particulièrement, si le retour ne pouvait être accepté, car non conforme aux conditions ci-dessus, le Client pourra choisir de réobtenir les produits achetés à ses frais. Dans le cas où le Client refuserait cette expédition, le Vendeur se réserve le droit de conserver les produits et le montant correspondant à leur prix d’achat.  
   
