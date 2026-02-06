@@ -57,8 +57,8 @@ Airbnb Payments UK Ltd. est autorisé et régulé par l'Autorité de bonne condu
 **Partie contractante relative aux services de paiement destinés aux utilisateurs dont le lieu de résidence se trouve dans l'Espace économique européen :**
 
 Airbnb Payments Luxembourg S.A.  
-4, rue Henri Schnadt  
-L-2530 Luxembourg
+1er étage Bâtiment Oksigen, 2 Rue Edward Steichen  
+L-2540 Luxembourg
 
 Luxembourg
 
