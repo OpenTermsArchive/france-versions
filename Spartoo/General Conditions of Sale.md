@@ -257,6 +257,15 @@ Délai : Livraison garantis en 2 jours ouvrés
 | 5.99 € si inférieur à 30.00 € d'achats  <br>4.99 € à partir de 80.00 € d'achats | 5.99 € si inférieur à 30.00 € d'achats  <br>4.99 € à partir de 80.00 € d'achats |
 
   
+**Livraison avec le service Livraison Domicile Standard**  
+Délai : Livraison garantis en 4 jours ouvrés  
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 5.99 € si inférieur à 79.99 € d'achats  <br>Gratuit à partir de 79.99 € d'achats | 4.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats |
+
+  
 **Belgique**  
   
 **Livraison avec le service Mondial Relay**  
@@ -283,7 +292,7 @@ Délai : Livraison garantis en 5 jours ouvrés
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 5.99 € si inférieur à 19.99 € d'achats  <br>Gratuit à partir de 19.99 € d'achats | 5.99 € si inférieur à 19.99 € d'achats  <br>Gratuit à partir de 19.99 € d'achats  <br>Gratuit à partir de 39.99 € d'achats |
+| 7.99 € à partir de 0.00 € d'achats  <br>7.99 € à partir de 0.00 € d'achats  <br>7.99 € à partir de 0.00 € d'achats  <br>7.99 € à partir de 0.00 € d'achats | 7.99 € à partir de 0.00 € d'achats  <br>7.99 € à partir de 0.00 € d'achats  <br>7.99 € à partir de 0.00 € d'achats  <br>7.99 € à partir de 0.00 € d'achats |
 
   
 **Livraison avec le service UPS Express Saver**  
@@ -293,7 +302,7 @@ Délai: dépend du code postal, est indiqué sur la page de paiement, et est val
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 8.99 € à partir de 0.00 € d'achats  <br>8.99 € à partir de 0.00 € d'achats | 8.99 € à partir de 0.00 € d'achats  <br>8.99 € à partir de 0.00 € d'achats |
+| 8.99 € à partir de 0.00 € d'achats  <br>8.99 € à partir de 0.00 € d'achats  <br>8.99 € à partir de 0.00 € d'achats  <br>8.99 € à partir de 0.00 € d'achats  <br>8.99 € à partir de 0.00 € d'achats  <br>8.99 € à partir de 0.00 € d'achats | 8.99 € à partir de 0.00 € d'achats  <br>8.99 € à partir de 0.00 € d'achats  <br>8.99 € à partir de 0.00 € d'achats  <br>8.99 € à partir de 0.00 € d'achats  <br>8.99 € à partir de 0.00 € d'achats  <br>8.99 € à partir de 0.00 € d'achats |
 
   
 **Luxembourg**  
