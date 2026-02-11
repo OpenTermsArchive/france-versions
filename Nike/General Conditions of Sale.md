@@ -1,6 +1,6 @@
 **CONDITIONS DE VENTE**
 
-Dernière mise à jour : Novembre 2025
+Dernière mise à jour : Février 2026
 
 **1.    INTRODUCTION & APPLICABILITÉ**
 
@@ -18,7 +18,7 @@ Veuillez lire attentivement les présentes Conditions de vente et vérifier que 
 
 Si vous avez des réclamations ou des questions, y compris, sans limitation notamment en ce qui concerne, les présentes Conditions de vente, veuillez nous contacter via la section « Nous contacter » de notre site Internet.
 
-1.3.        VENDEUR OFFICIEL
+1.3.        UE VENDEUR OFFICIEL
 
 Les présentes Conditions générales de vente constituent un accord juridiquement contraignant entre vous et **NIKE RETAIL B.V.** (« **NIKE** », « **nous** », « **notre** » ou « **nos** »), dont le siège social est situé à Colosseum 1, 1213 NL Hilversum, Pays-Bas, en qualité de vendeur officiel pour tous les achats.
 
@@ -45,6 +45,8 @@ Si vous effectuez des achats dans ou à partir de l'un des pays mentionnés ci-d
 \[Voir les conditions générales **pour le [Portugal](#PORTUGAL)**\]
 
 \[Voir les conditions applicables **en [Espagne](#SPAIN)**\]
+
+\[Voir les conditions applicables **pour le [Royaume-Uni](#UK)**\]
 
 1.5.        CONDITIONS SUPPLEMENTAIRES
 
@@ -579,3 +581,13 @@ Dans le cadre de votre réclamation au titre de la garantie, NIKE peut vous dema
 Dans la mesure où la loi le permet et sauf indication contraire dans les présentes Conditions générales de vente, nous déclinons toute responsabilité pour les dommages indirects ou consécutifs, y compris, sans limitation, toute perte de chiffre d'affaires, perte de profit, perte de clientèle, perte d'opportunités ou perte de données.
 
 Les limitations énoncées dans la présente section 11 ne limitent ni n'excluent la responsabilité en cas de décès ou de blessure corporelle, ou si cela résulte d'une négligence grave, d'une fraude, d'une faute intentionnelle ou d'une faute grave de la part de NIKE ou d'autres membres du groupe NIKE, ou pour toute autre question pour laquelle la responsabilité ne peut être exclue ou limitée en vertu de la loi applicable.
+
+**ROYAUME-UNI**
+
+La section 1.3 est entièrement remplacée par :
+
+Les présentes Conditions générales de vente constituent un accord juridiquement contraignant entre vous et **NIKE RETAIL UK** (« **NIKE** », « **nous** », « **notre** » ou « **nos** »), dont le siège social au Royaume-Uni est situé à l'adresse suivante : **4 Handyside Street, Londres, N1C 4DJ**, en tant que vendeur officiel pour tous les achats effectués par des consommateurs britanniques.
+
+Vous acceptez les présentes Conditions générales de vente avec **NIKE**. **NIKE** est responsable de la fourniture de vos biens/services, du respect de vos droits et obligations et du traitement de vos droits légaux et de vos réclamations.
+
+Certaines dispositions des présentes Conditions générales de vente sont également dans l'intérêt d'autres sociétés du Groupe NIKE (à savoir Nike Inc., NIKE et leurs filiales). D'autres sociétés du Groupe NIKE peuvent contribuer à la fourniture de services ou à l'application des présentes Conditions générales de vente, mais cela n'affecte pas vos droits légaux et ne crée pas d'obligations supplémentaires pour vous en tant que consommateur.
