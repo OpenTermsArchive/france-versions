@@ -543,7 +543,7 @@ Les termes non définis dans la présente Politique de confidentialité ont la m
 ANNEXE 1
 --------
 
-« **Sociétés affiliées** » désigne l'une des entités indiquées dans le tableau ci-dessous et HotelTonight LLC.
+« **Sociétés affiliées** » désigne les entités indiquées dans le tableau ci-dessous et HotelTonight LLC.
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -576,6 +576,10 @@ ANNEXE 1
 |     | Réserver, participer à ou proposer un Service ou une Expérience sur la Plateforme Airbnb. | Airbnb Beyond Limited(+) | 25 North Wall Quay<br><br>Dublin 1, D01 H104<br><br>Irlande |
 |     | Toute autre activité. | Airbnb Ireland UC(+) | 25 North Wall Quay<br><br>Dublin 1, D01 H104<br><br>Irlande |
 | **Israël ou Territoires palestiniens(-)** | Services de paiement pour toute activité. | Airbnb Payments UK Ltd. | 280 Bishopsgate<br><br>Londres, EC2M 4AG<br><br>Royaume-Uni |
+|     | Réserver ou proposer certains hôtels ou hébergements traditionnels pour lesquels Airbnb Travel, LLC est identifié au cours du processus de paiement ou de publication de l'annonce. | Airbnb Limited LLC | 888 Brannan Street<br><br>San Francisco, CA 94103<br><br>États-Unis |
+|     | Réserver ou proposer des hébergements situés aux États-Unis pour des séjours de 28 nuits ou plus lorsque Airbnb Stays, Inc. est identifié lors du processus de paiement ou de publication d'annonce. | Airbnb Stays, Inc. | 888 Brannan Street<br><br>San Francisco, CA 94103<br><br>États-Unis |
+|     | Réserver ou proposer des hébergements où Luxury Retreats International ULC est identifié lors du processus de paiement ou de publication d'annonce ou dans toute autre surface de produit. | Luxury Retreats International ULC | 5530 rue Saint-Patrick, Suite 2210<br><br>Montréal, Québec, H4E 1A8<br><br>Canada |
+|     | Réserver ou proposer des Services ou des Expériences. | Airbnb Beyond LLC | 888 Brannan Street<br><br>San Francisco, CA 94103<br><br>États-Unis |
 |     | Toute autre activité. | Airbnb Limited LLC | 888 Brannan Street<br><br>San Francisco, CA 94103<br><br>États-Unis |
 | **Japon** | Services de paiement pour toute activité. | Airbnb Payments UK Ltd. | 280 Bishopsgate<br><br>Londres, EC2M 4AG<br><br>Royaume-Uni |
 |     | Réservation ou offre de tout Service hôte en dehors du Japon. | Airbnb Ireland UC(+) | 25 North Wall Quay<br><br>Dublin 1, D01 H104<br><br>Irlande |
@@ -624,7 +628,7 @@ ANNEXE 1
 
 (+) Si vous réservez ou proposez un hôtel ou un hébergement traditionnel et Airbnb Travel, LLC est identifié comme l'entité contractante, Airbnb Ireland UC et Airbnb Travel, LLC agissent en tant que co-responsables du traitement. Si vous réservez ou proposez un Service ou une Expérience et Airbnb Beyond Limited est identifié comme l'entité contractante, Airbnb Ireland UC et Airbnb Beyond Limited agissent en tant que co-responsables du traitement. Si vous réservez un hébergement de longue durée aux États-Unis et Airbnb Stays, Inc. est l'entité contractante, Airbnb Ireland UC et Airbnb Stays Inc. agissent en tant que co-responsables du traitement. Contactez Airbnb Travel, LLC et Airbnb Stays, Inc. au 888 Brannan Street, San Francisco, CA 94103, États-Unis. Si vous utilisez Airbnb pour réserver ou héberger un séjour caritatif lié aux programmes d'Airbnb.org, ou pour faire un don à Airbnb.org, alors Airbnb Ireland/Airbnb Global Services Limited et Airbnb.org agissent en tant que co-responsables du traitement aux fins de ces transactions. Vous pouvez consulter la Politique de confidentialité d'Airbnb.org [ici](https://www.airbnb.fr/help/article/3820).
 
-(-) Si vous réservez ou proposez des Hébergements ou menez toute autre activité, en dehors des Services de paiement, en Israël ou dans les Territoires palestiniens à compter du 20 avril 2026, votre responsable du traitement est Airbnb Limited LLC, 888 Brannan Street, San Francisco, CA 94103.
+(-) Si vous réservez ou proposez un hébergement situé en Israël ou dans les Territoires palestiniens, à compter du 20 avril 2026, votre responsable du traitement est Airbnb Limited LLC situé au 888 Brannan Street, San Francisco, CA 94103, États-Unis. Si vous réservez ou proposez des Services ou des Expériences ayant lieu en Israël ou dans les Territoires palestiniens, à compter du 20 avril 2026, votre responsable du traitement est Airbnb Beyond LLC situé au 888 Brannan Street, San Francisco, CA 94103, États-Unis.  
 
 Consultez la [version précédente de cette page](https://www.airbnb.fr/help/article/2859/).
 
