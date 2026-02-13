@@ -543,12 +543,12 @@ Les termes non définis dans la présente Politique de confidentialité ont la m
 ANNEXE 1
 --------
 
-« **Sociétés affiliées** » désigne les entités indiquées dans le tableau ci-dessous et HotelTonight LLC.
+« **Sociétés affiliées** » désigne l'une des entités indiquées dans le tableau ci-dessous et HotelTonight LLC.
 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | **VOTRE PAYS DE RÉSIDENCE OU D'ÉTABLISSEMENT** | **VOTRE ACTIVITÉ SUR LA PLATEFORME AIRBNB(-)** | **VOTRE RESPONSABLE DU TRAITEMENT** | **ADRESSE POSTALE** |
-| **Australie** | Services de paiement dans le cadre de la réservation d'un Service hôte ou de l'achat d'une Assurance Voyageur. | Airbnb Payments Australia Pty. Ltd.\* | 58 Gipps Street<br><br>Collingwood VIC 3066 Australie |
+| **Australie** | Services de paiement dans le cadre de la réservation d'un Service d'hôte. | Airbnb Payments Australia Pty. Ltd.\* | 58 Gipps Street<br><br>Collingwood VIC 3066 Australie |
 |     | Services de paiement pour toute autre activité. | Airbnb Payments UK Ltd. | 280 Bishopsgate<br><br>Londres, EC2M 4AG<br><br>Royaume-Uni |
 |     | Réserver ou proposer certains hôtels ou hébergements traditionnels pour lesquels Airbnb Travel, LLC est identifié au cours du processus de paiement ou de publication de l'annonce. | Airbnb Travel, LLC | 888 Brannan Street<br><br>San Francisco, CA 94103<br><br>États-Unis |
 |     | Réserver ou proposer des hébergements situés aux États-Unis pour des séjours de 28 nuits ou plus lorsque Airbnb Stays, Inc. est identifié lors du processus de paiement ou de publication d'annonce. | Airbnb Stays, Inc. | 888 Brannan Street<br><br>San Francisco, CA 94103<br><br>États-Unis |
