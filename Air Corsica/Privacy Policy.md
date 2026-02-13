@@ -359,7 +359,7 @@ Vous avez de plus le droit de déposer une plainte auprès de la Commission nati
 
 Nous proposons à nos clients réguliers une carte d’abonnement payante leur permettant de bénéficier de tarifs préférentiels. Les détails du programme sont disponibles à l’adresse Internet suivante : « https://www.aircorsica.com/aircorsicaplus.html »
 
-La souscription à ce programme se fait à l’adresse Internet suivante : « [https://www.aircorsicaplus.com/](https://www.aircorsicaplus.com/) ». La personne désirant y souscrire est invitée à compléter un formulaire contenant les données suivantes : 
+La souscription à ce programme se fait à l’adresse Internet suivante : « [https://www.aircorsica.com/](https://www.aircorsica.com/cartes-abonnement/aircorsicaplus)[cartes-abonnement/aircorsicaplus](https://www.aircorsica.com/cartes-abonnement/aircorsicaplus) ». La personne désirant y souscrire est invitée à compléter un formulaire contenant les données suivantes : 
 
 *   Civilité
     
@@ -462,7 +462,7 @@ Le traitement effectué par nos soins s’intègre complètement dans le process
 
 Nous vous offrons la possibilité de déposer un dossier de réclamation suite à une difficulté rencontrée lors d’un vol Air Corsica. Nous mettons pour cela un site Internet spécifique dédié au recueil de vos demandes. Pour plus d’informations : [https://www.aircorsica.com/litiges-reclamations.html](https://www.aircorsica.com/litiges-reclamations.html)
 
-La constitution de votre dossier de réclamation s’effectue à l’adresse internet suivante : [https://support.aircorsica.com/formulaire/identification/](https://serviceclient.aircorsica.com/)
+La constitution de votre dossier de réclamation s’effectue à l’adresse internet suivante : [https://support.aircorsica.com/formulaire/identification/](https://serviceclient.aircorsica.com/s/)
 
 Il vous sera proposé de compléter un formulaire comprenant les données suivantes : 
 
@@ -487,7 +487,7 @@ Il vous sera proposé de compléter un formulaire comprenant les données suivan
 
 Ces données personnelles servent à constituer votre dossier de réclamation. Ces données sont stockées de manière sécurisée par nos soins sur nos propres serveurs.
 
-Le dépôt d’une réclamation entraîne l’acceptation des conditions générales d’utilisations du service disponibles à l’adresse internet suivante : [https://serviceclient.aircorsica.com/](https://serviceclient.aircorsica.com/)
+Le dépôt d’une réclamation entraîne l’acceptation des conditions générales d’utilisations du service disponibles à l’adresse internet suivante : [https://serviceclient.aircorsica.com/](https://serviceclient.aircorsica.com/s/)[s/](https://serviceclient.aircorsica.com/s/)
 
 Si votre réclamation devait aboutir à une indemnisation de notre part, vous seriez alors invités dans un second temps à saisir vos coordonnées bancaires pour versement.
 
