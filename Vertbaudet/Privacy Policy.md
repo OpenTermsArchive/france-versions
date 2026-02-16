@@ -14,7 +14,7 @@ DEFINITIONS
   
 **Marketplace :** désigne la plateforme en ligne accessible à l’adresse suivante : https://www.vertbaudet.fr/ et constituée des pages web, Services et fonctionnalités proposés aux Utilisateurs  
   
-**Programme de fidélité  :** désigne le Programme de Fidélité VERTBAUDET intitulé ![Club Vertbaudet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)  
+**Programme de fidélité  :** désigne le Programme de Fidélité VERTBAUDET intitulé ![Club Vertbaudet](https://media.vertbaudet.fr/medias/44/0/33715/144402754/logo-club-vb-vert.svg)  
   
 **Responsable de traitement :** Au sens du RGPD, le responsable de traitement est la personne morale (entreprise, commune, etc.) ou physique qui détermine les finalités et les moyens d’un traitement.  
   
