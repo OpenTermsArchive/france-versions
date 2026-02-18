@@ -1459,19 +1459,13 @@ Frais de service Airbnb pour les hôtes de logements
 
 ### 1\. Frais partagés
 
-Il s'agit du type le plus courant : les frais sont répartis entre l'hôte et le voyageur.
+Les frais sont répartis entre l'hôte et le voyageur.
 
 **Frais de service hôte**
 
 Pour la plupart des hôtes, les frais de service s'élèvent à 3 %, mais certains en paient plus, notamment certains hôtes ayant des logements en Italie et au Brésil. Pour les hôtes de logements au Brésil, les frais s'élèvent à 4 %. Pour calculer le versement de l'hôte, les frais sont automatiquement déduits du prix total (les frais de service comprennent un pourcentage du prix par nuit et les [frais facturés par l'hôte](https://www.airbnb.fr/help/article/2827), mais ne comprennent pas les taxes et les frais de service voyageur).
 
-La structure de tarification avec partage des frais ne sera plus disponible pour les hôtes qui utilisent un logiciel de gestion locative afin de gérer leur annonce, selon les modalités suivantes :
-
-  
-
-*   **25 août 2025 :** les nouveaux hôtes qui utilisent un logiciel de gestion locative et qui s'inscrivent sur Airbnb ne peuvent choisir que la structure avec [frais uniques](#singlefee) .
-*   **27 octobre 2025 :** la plupart des hôtes qui utilisent un logiciel de gestion locative passeront automatiquement à la structure avec [frais uniques](#singlefee) .
-*   Les hôtes qui n'utilisent pas de logiciel de gestion locative ne sont pas concernés et peuvent continuer à utiliser la structure de tarification avec partage des frais.
+La structure de tarification avec partage des frais ne sera plus disponible pour certains hôtes. Ces derniers passeront à la structure à frais uniques. Pour aider les hôtes qui n'utilisent pas de logiciel de gestion locative à modifier leurs prix lorsqu'ils passent de la structure avec partage des frais à celle à frais uniques, nous avons créé un nouvel outil d'ajustement des prix dans l'application. [En savoir plus sur le fonctionnement de l'outil d'ajustement des prix](https://www.airbnb.fr/help/article/4095)
 
 Consulter les frais de service hôte d'une réservation
 -----------------------------------------------------
@@ -1489,23 +1483,16 @@ Ordinateur de bureauApplication iOSApplication AndroidNavigateur mobile
 
 Les frais de service voyageur se trouvent dans le **détail du prix** avant de [réserver](https://www.airbnb.fr/help/article/85).
 
-Les voyageurs paient des frais de service allant de 14,1 à 16,5 % du sous-total de la réservation (celui-ci comprend le prix par nuit et les frais supplémentaires facturés par l'hôte, mais exclut les frais de service voyageur et les taxes). Les frais de service voyageur varient en fonction de plusieurs facteurs et peuvent être plus ou moins élevés selon la réservation. Les frais de service voyageur sont réduits pour certains séjours de 28 nuits ou plus.
+Les voyageurs paient des frais de service allant de 14,1 à 16,5 % du sous-total de la réservation (celui-ci comprend le prix par nuit et les frais supplémentaires facturés par l'hôte, mais exclut les frais de service voyageur et les taxes). Les frais de service voyageur varient en fonction de plusieurs facteurs et peuvent être plus ou moins élevés selon la réservation.
 
 Concernant les réservations payées dans une autre devise que celle fixée par l'hôte pour son annonce, les frais sont ajustés pour tenir compte de la qualité du service proposée aux voyageurs. Pour ce type de réservation, les frais de service voyageur incluent un montant supplémentaire. En conséquence, ils peuvent aller jusqu'à 16,5 % du sous-total de la réservation.
 
 2\. Frais uniques
 -----------------
 
-Dans ce cas, la totalité des frais est déduite du versement de l'hôte. Pour la plupart des hôtes, les frais de service se situent généralement entre 14 et 16 %. Toutefois, les hôtes appliquant des conditions d'annulation très strictes peuvent payer 2 % de frais supplémentaires. En revanche, les frais pour les séjours de 28 nuits ou plus peuvent être moins élevés.  
+Dans ce cas, la totalité des frais est déduite du versement de l'hôte. La plupart des hôtes paient 15,5 %, les autres hôtes paient généralement entre 14 et 16 %, et ceux du Brésil paient 16 % de frais.  
 
-La plupart des hôtes qui utilisent actuellement la structure avec frais uniques commenceront bientôt à payer un nouveau taux unique de 15,5 %, tandis que les hôtes ayant des logements au Brésil continueront de payer des frais de 16 %. Ces changements prendront effet comme suit :
-
-*   **27** **octobre 2025 :** la plupart des hôtes qui utilisent actuellement la structure avec frais uniques et qui sont **connectés** à un logiciel de gestion locative.
-*   **1er décembre 2025 :** la plupart des hôtes qui utilisent actuellement la structure avec frais uniques et qui **ne sont pas connectés** à un logiciel de gestion locative.
-
-Cette modification des frais ne s'applique pas aux hôtels sous contrat avec Airbnb Travel, LLC.
-
-Cette structure est obligatoire pour les logements proposés dans des établissements d'accueil traditionnels, tels que les hôtels, les résidences de tourisme et autres, ainsi que pour les [hôtes qui utilisent un logiciel de gestion locative](https://www.airbnb.fr/help/article/2346/).
+Cette structure de tarification des frais est obligatoire pour les logements proposés dans des établissements d'accueil traditionnels, tels que les hôtels, les résidences de tourisme et autres, ainsi que pour les [hôtes qui utilisent un logiciel de gestion locative](https://www.airbnb.fr/help/article/2346/).
 
 TVA
 ---
@@ -1514,10 +1501,10 @@ Selon la législation en vigueur dans le territoire concerné, la [TVA](https://
 
 Nous nous réservons le droit de modifier nos frais de service à tout moment, et toute modification sera effectuée conformément à nos Conditions de service.
 
-Frais de service Airbnb pour les hôtes de services et d'expériences
--------------------------------------------------------------------
+Frais de service Airbnb pour les hôtes de service et d'expérience
+-----------------------------------------------------------------
 
-Pour les réservations de services, nous facturons généralement des frais de 15 %, avec un minimum de 6 dollars US (ou l'équivalent dans la devise locale). Ces frais peuvent varier en fonction du taux de change du jour. Pour les réservations d'expériences, nous facturons généralement des frais de service de 20 %.
+Pour les réservations de services, nous facturons généralement des frais de 15 %, avec un minimum de 6 dollars US (ou l'équivalent en devise locale). Ces frais peuvent varier en fonction du taux de change quotidien. Pour les réservations d'expériences, nous facturons généralement des frais de service de 20 %.
 
 Cet article vous a-t-il été utile ?
 
