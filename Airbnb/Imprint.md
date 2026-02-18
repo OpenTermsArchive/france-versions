@@ -80,7 +80,7 @@ Interlocuteur unique pour les autorités des États membres, la Commission europ
 
 En vertu de l'article 24, paragraphe 2, du règlement sur les services numériques, les plateformes en ligne sont tenues de publier des « informations sur le nombre mensuel moyen de destinataires actifs du service dans l'Union » avant le 17 février 2023, et tous les six mois par la suite.
 
-Conformément aux dispositions du règlement, y compris le Considérant 77, nous avons calculé que notre nombre mensuel moyen de destinataires actifs dans l'Union européenne pour la période du 1 févr. – 31 juil. 2025 s'élève à environ 41.7M.
+Conformément aux dispositions du règlement, y compris le Considérant 77, nous avons calculé que notre nombre mensuel moyen de destinataires actifs dans l'Union européenne pour la période du 1 août 2025 – 31 janv. 2026 s'élève à environ 35.4M.
 
 Nous continuerons à suivre toute évolution et publierons tous les six mois des informations sur le nombre mensuel moyen de destinataires actifs de notre service dans l'Union européenne, conformément à l'article 24, paragraphe 2, du règlement.
 
