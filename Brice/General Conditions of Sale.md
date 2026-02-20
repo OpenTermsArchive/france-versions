@@ -247,7 +247,7 @@ ARTICLE 12 – RECLAMATIONS
 Pour toute information, réclamation ou question relative aux Conditions Générales ou aux Produits proposés à la vente sur le Site Internet, le Client est invité à s’adresser au service client :
 
 *   Par courrier à l’adresse suivante : Jules - Service Relation Client, 152 avenue Alfred Motte, 59100 Roubaix
-*   Par téléphone au [+33 3 59 55 41 29](tel:+33359554129) (numéro vert) du lundi au samedi de 10h à 12h30 et de 14h30 à 18h
+*   Par téléphone au [+33 3 59 55 38 75](tel:+33359554129) (numéro vert) du lundi au samedi de 10h à 12h30 et de 14h30 à 18h
 *   Par courrier électronique depuis la rubrique « Contactez-nous » ou [service-clients@jules.com](mailto:service-clients@jules.com)
 
 ##### 12.2 Médiation
