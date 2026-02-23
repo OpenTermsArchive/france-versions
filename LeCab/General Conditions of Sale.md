@@ -125,8 +125,8 @@ Une fois le Service effectué, le Client aura accès aux informations relatives 
 
 Les photographies et les images disponibles sur l’Application et / ou le site Web ne sont pas contractuelles. La Société ne sera pas responsable si la Voiture et / ou le Chauffeur ne correspondent pas aux photographies ou images.
 
-4 - Propriété intellectuelle
-----------------------------
+4 - Résiliation de la licence de l’Application
+----------------------------------------------
 
 La Société peut résilier la license de l’Application et le droit au Client d’utiliser l’Application à sa seule discrétion, sans préavis et en particulier si l’une ou plusieurs des situations suivantes se produisent :
 
@@ -138,8 +138,8 @@ La Société peut résilier la license de l’Application et le droit au Client 
 
 Dans les cas mentionnés ci-dessus, le Client devra immédiatement désinstaller l’Application de son smartphone.
 
-5 - Résiliation de la licence de l’Application
-----------------------------------------------
+5 - Propriété intellectuelle
+----------------------------
 
 L’Application, y compris, mais sans s’y limiter, les photographies, le graphisme, l’interface client, le contenu éditorial, les scripts et les logiciels, contiennent des informations et éléments protégés appartenant à la Société et / ou ses sous-traitants sont protégés par la propriété intellectuelle et autres lois. Le Client reconnaît expressément qu’il ne doit pas utiliser ces informations ou documents, sauf pour l’utilisation de l’Application en conformité avec les Conditions Générales. Aucune partie de l’Application ne peut être reproduite sous quelque forme ou par quelque moyen que ce soit, sauf autorisation expresse dans les Conditions Générales. Le Client ne peut amender, modifier, vendre, distribuer ou créer des produits dérivés basés sur l’Application et ne doit pas exploiter l’Application de façon non autorisée.
 
