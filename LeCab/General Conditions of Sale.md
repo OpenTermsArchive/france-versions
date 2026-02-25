@@ -164,7 +164,7 @@ Le service sera facturé à compter de la date et du lieu mentionnés dans la R�
 
 Le Client dispose d’une visualisation du prix de la course au moment de la Réservation à condition de saisir la destination. Le Prix final facturé au Client sera calculé lorsque l’exécution du Service sera terminée et pourra inclure des frais d’attente si le Passager s’est présenté plus tard que l’heure prévue par la Réservation. Il pourra également être différent du forfait annoncé si le Passager a demandé des prestations supplémentaires : arrêts, escales, détours, changement de destination.
 
-Si la Société ne peut pas débiter le carte de crédit du Client pour quelque raison que ce soit, des pénalités de retard seront dues par le Client sans préavis, au taux stipulé par les lois applicables. En outre, le Client devra payer le montant du Prix final qui n’a pas été payé.
+Si la Société ne peut pas débiter la carte de crédit du Client pour quelque raison que ce soit, des pénalités de retard seront dues par le Client sans préavis, au taux stipulé par les lois applicables. En outre, le Client devra payer le montant du Prix final qui n’a pas été payé.
 
 Les plateformes de la mobilité doivent publier sur leur site internet chaque année une liste d’indicateurs relatifs à la durée d’activité et au revenu d’activité de ses travailleurs. Ces indicateurs sont calculés à partir des données LeCab, entre le 1er janvier 2025 et le 31 décembre 2025, vous pouvez les retrouver [ici](https://lecab.fr/indicateurs-dactivite-lecab-2024/).
 
