@@ -361,7 +361,7 @@ Si le billet est acheté auprès d'Air Corsica, les frais d'émission sont les s
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| **Billets achetés auprès d'Air Corsica** | **Acheté sur le site internet** [**www.aircorsica.com**](http://www.aircorsica.com/) | **Acheté à l'aéroport** | **Acheté par téléphone** |
+| **Billets achetés auprès d'Air Corsica** | **Acheté sur le site internet** [**www.aircorsica.com**](https://www.aircorsica.com/) | **Acheté à l'aéroport** | **Acheté par téléphone** |
 | **Frais d'émission** | 1 à 10€ en fonction du Tarif | 20€ | 15€ |
 
 Il est précisé que les frais d'émission ci-dessus ne s'appliquent pas pour les billets réservés au tarif résident, pour lesquels les frais d'émission seront de 3 euros, en application des obligations de service public.
@@ -382,7 +382,7 @@ Les frais de modification seront facturés sur la base de ce qui suit, en foncti
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| **Frais de modification** | **Modifié sur le site internet** [**www.aircorsica.com**](http://www.aircorsica.com/) | **Modifié auprès d'Air Corsica à l'aéroport** | **Modifié par téléphone** |
+| **Frais de modification** | **Modifié sur le site internet** [**www.aircorsica.com**](https://www.aircorsica.com/) | **Modifié auprès d'Air Corsica à l'aéroport** | **Modifié par téléphone** |
 | **Billet acheté auprès d'Air Corsica** | De 1 à 10 € | 20 € | 20 € |
 | **Billet acheté en agence ou sur un site internet tiers** | 10 € | 30€ | 30€ |
 
@@ -390,13 +390,13 @@ Il est précisé que ces frais ne s'appliquent pas pour les billets réservés a
 
 En fonction du tarif applicable à votre billet, celui-ci peut être annulé et remboursé sous certaines conditions. Le billet peut également être remboursé dans les conditions prévues à l'article 13 des CGT dans certains cas d'annulation, de retard du vol ou de refus d'embarquement. 
 
-Le cas échéant, lorsqu'il s'agit d'un billet acheté auprès d'Air Corsica, le passager peut introduire une demande de remboursement sur le site [www.aircorsica.com](http://www.aircorsica.com/), sans frais de dossier. Pour un billet acheté en agence ou sur un site internet, la demande initiale de remboursement doit être effectuée auprès de l'agence ou du site où a été acheté le billet.
+Le cas échéant, lorsqu'il s'agit d'un billet acheté auprès d'Air Corsica, le passager peut introduire une demande de remboursement sur le site [www.aircorsica.com](https://www.aircorsica.com/), sans frais de dossier. Pour un billet acheté en agence ou sur un site internet, la demande initiale de remboursement doit être effectuée auprès de l'agence ou du site où a été acheté le billet.
 
 *   Frais d'annulation et de remboursement
     
     |     |     |
     | --- | --- |
-    | **Billet acheté auprès d'Air Corsica** | La demande de remboursement doit être réalisée sur le site internet [www.aircorsica.com](http://www.aircorsica.com/) et sera traitée **sans frais de dossier** |
+    | **Billet acheté auprès d'Air Corsica** | La demande de remboursement doit être réalisée sur le site internet [www.aircorsica.com](https://www.aircorsica.com/) et sera traitée **sans frais de dossier** |
     | **Billet acheté en agence ou sur un site internet tiers** | La demande initiale de remboursement doit être effectuée auprès de l'agence ou du site où a été acheté le billet |
     
 
