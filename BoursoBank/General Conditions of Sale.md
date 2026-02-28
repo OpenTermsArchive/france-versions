@@ -4,13 +4,13 @@
 
 Conditions Générales
 
-Applicables au 09/10/2025 sauf les dispositions du
+Applicables au 27/02/2026 sauf les dispositions des
 
-Chapitre 2 du Titre IV visant la délivrance de
+chapitre 6 du TITRE IV et de l’article 6 du TITRE VI
 
-chéquiers pour l’offre BOURSO BUSINESS
+applicables au 09/03/2026 et les dispositions de
 
-applicables le 09/12/2025
+l’article 5 du TITRE 1 applicables au 12/03/2026
 
 
 
@@ -126,7 +126,7 @@ TITRE II – LA BANQUE..........................................................
 
 CHAPITRE 1 : LE COMPTE BANCAIRE BOURSOBANK.............................................................................................. 15
 
-CHAPITRE 2 : LES INSTRUMENTS DE PAIEMENT ............................................................................................ 17
+CHAPITRE 2 : LES INSTRUMENTS DE PAIEMENT .................................................................................................... 17
 
 CHAPITRE 3 : L’OFFRE BOURSOPRIME – NON COMMERCIALISEE DEPUIS LE 06/03/2025 ............................................... 27
 
@@ -166,13 +166,15 @@ TITRE IV – BOURSO BUSINESS : LA BANQUE POUR LES PROS .........................
 
 CHAPITRE 1 : LE COMPTE BUSINESS ...................................................................................................................... 44
 
-CHAPITRE 2 : LES INSTRUMENTS DE PAIEMENT ............................................................................................ 46
+CHAPITRE 2 : LES INSTRUMENTS DE PAIEMENT .................................................................................................... 46
 
 CHAPITRE 3 : LE DÉCOUVERT AUTORISÉ................................................................................................................ 55
 
 CHAPITRE 4 : COMPTE A TERME BUSINESS ........................................................................................................... 56
 
 CHAPITRE 5 : COMPTE SUR LIVRET PRO................................................................................................................. 56
+
+CHAPITRE 6 : COMPTE TITRES BUSINESS ....................................................................................................... 57
 
 TITRE V – LA BOURSE ET L’ÉPARGNE............................................................................................ 58
 
@@ -192,23 +194,23 @@ TITRE VI – AUTRES SERVICES....................................................
 
 ANNEXE I : FORMULAIRE TYPE CONCERNANT LES INFORMATIONS À FOURNIR AUX
 
-DÉPOSANTS ........................................................................................................................................ 87
+DÉPOSANTS ........................................................................................................................................ 89
 
 ANNEXE II : CONDITIONS GENERALES D’UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE APPLE PAY ................................................................................. 89
+BOURSOBANK VIA LE SERVICE APPLE PAY ................................................................................. 91
 
 ANNEXE III : CONDITIONS GENERALES D’UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE SAMSUNG PAY ........................................................................... 95
+BOURSOBANK VIA LE SERVICE SAMSUNG PAY ........................................................................... 97
 
 ANNEXE IV : CONDITIONS GÉNÉRALES D'UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE GOOGLE PAY ........................................................................... 101
+BOURSOBANK VIA LE SERVICE GOOGLE PAY ........................................................................... 103
 
 ANNEXE V : CONDITIONS GÉNÉRALES D'UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE GARMIN PAY............................................................................. 107
+BOURSOBANK VIA LE SERVICE GARMIN PAY............................................................................. 109
 
 5
 
@@ -216,7 +218,7 @@ BOURSOBANK VIA LE SERVICE GARMIN PAY............................................
 
 ANNEXE VII : ARTICLES L.221-30 ET S. DU CODE MONETAIRES ET FINANCIERS RELATIFS
 
-AU PLAN D'ÉPARGNE EN ACTIONS ............................................................................................... 113
+AU PLAN D'ÉPARGNE EN ACTIONS ............................................................................................... 115
 
 6
 
@@ -1376,6 +1378,14 @@ pour le mandataire.
 
 
 
+Les dispositions ci-dessus ne sont pas applicables au CTO
+
+Business, pour lequel il n’est pas possible de donner
+
+procuration.
+
+
+
 Article 5 : Spécificités de certains comptes
 
 
@@ -1408,6 +1418,8 @@ l’exécution de tous engagements pris par l’un d’eux, et au
 
 remboursement de toutes sommes dues à BOURSORAMA.
 
+10
+
 
 
 Le compte joint peut être révoqué à tout moment par l’un
@@ -1419,10 +1431,6 @@ compte indivis sans qu’un mandataire ne puisse être
 désigné et ne fonctionnera que sur les signatures conjointes
 
 des co-Titulaires, dans l’attente de l’affectation, décidée par
-
-10
-
-
 
 les co-Titulaires, de son solde créditeur ainsi que des titres
 
@@ -1560,31 +1568,25 @@ d’un compte dans les livres de BOURSORAMA.
 
 En cas de pluralité de représentants légaux, l’ouverture d’un
 
-tel compte peut être sollicitée par un seul représentant légal.
+tel compte peut être sollicitée par un seul représentant légal
+
+s’il s’agit du premier compte du mineur.
 
 
 
-Le compte du mineur ne peut fonctionner que sous la
+Le mineur peut se voir attribuer une carte de paiement
 
-signature du représentant légal ayant sollicité son
+à la demande et sous la responsabilité du ou des
 
-ouverture, via l’Espace Client de ce dernier.
-
-
-
-Le mineur peut se voir attribuer une carte de paiement (la
-
-carte FREEDOM) à la demande et sous la responsabilité du
-
-représentant légal.
+représentant(s) légal(aux).
 
 Aucun chéquier n’est délivré sur ce compte.
 
 Le mineur peut disposer d’un accès en visualisation à la
 
-situation et gestion de son compte uniquement via une
+situation et gestion de son compte uniquement via l’
 
-application mobile dédiée.
+application mobile.
 
 
 
@@ -1592,11 +1594,11 @@ L’application mobile permet au mineur d’accéder à
 
 certaines fonctionnalités, présentées sur le Site, sous le
 
-contrôle de son représentant légal qui a la possibilité
+contrôle de son/ses représentant(s) légal(aux) qui a/ont la
 
-d’activer et de désactiver à tout moment ces fonctionnalités
+possibilité d’activer et de désactiver à tout moment ces
 
-via son Espace Client.
+fonctionnalités via son/leur Espace Client.
 
 
 
@@ -1720,11 +1722,13 @@ accès, sur demande du prestataire de service de paiement,
 
 à l’ensemble des comptes du Client et/ou exécutera les
 
+11
+
+
+
 opérations initiées par un prestataire de service de
 
 paiement à partir de l'ensemble des comptes Client.
-
-11
 
 
 
@@ -1874,11 +1878,11 @@ saisie lui est signifiée, BOURSORAMA est tenue de
 
 déclarer et de bloquer le solde disponible du ou des
 
+
+
 comptes ouverts dans ses livres au nom du Client. Dans le
 
 délai de quinze (15) jours ouvrables qui suit la saisie-
-
-
 
 attribution ou la saisie conservatoire, ce solde peut être
 
@@ -2028,11 +2032,11 @@ Site, soit par courriel, soit par tout autre moyen. En cas de
 
 modification portant sur les produits ou services visés aux
 
-Titres II, III et IV, seuls les Clients détenteurs du produit ou
-
 12
 
 
+
+Titres II, III et IV, seuls les Clients détenteurs du produit ou
 
 service modifié seront informés de la ou des modification(s)
 
@@ -2064,15 +2068,15 @@ passeport) en cours de validité.
 
 - soit à l’initiative de BOURSORAMA, par courrier
 
-recommandé avec accusé de réception, avec un
+recommandé avec accusé de réception ou tout
 
-préavis de 2 (deux) mois, sauf dispositions
+autre support durable, avec un préavis de 2
 
-contraires ou comportement gravement
+(deux) mois, sauf dispositions contraires ou
 
-répréhensible du Client, lequel entraîne une
+comportement gravement répréhensible du
 
-clôture sans préavis.
+Client, lequel entraîne une clôture sans préavis.
 
 
 
@@ -4236,13 +4240,13 @@ conformément aux instructions du Client.
 
 b) Concordance partielle
 
-20
-
-
-
 BOURSORAMA informe le Client d’une concordance
 
 partielle et indique le nom du bénéficiaire associé à l’IBAN.
+
+20
+
+
 
 Si le Client confirme l’ordre de paiement le nom du
 
@@ -4388,11 +4392,11 @@ BOURSORAMA dès que le Client a donné son
 
 consentement à cette opération dans les formes et
 
-
-
 conditions convenus à l’article 2 ci-dessus, quel que soit le
 
 jour ou l’heure de réception de celui-ci. La réception de
+
+
 
 l’ordre de virement instantané est matérialisée par un
 
@@ -4538,13 +4542,13 @@ virement « SMS ». La validation de l’opération par le
 
 bénéficiaire permet la réalisation du virement. Le virement
 
-21
-
-
-
 sera immédiat si la banque du bénéficiaire le permet. Si, ce
 
 virement immédiat n’est pas possible (banque non éligible,
+
+21
+
+
 
 plafonds atteints...), l’opération ne pourra pas être
 
@@ -4691,8 +4695,6 @@ Dans le cas où l’opération a été mal exécutée du fait de
 BOURSORAMA, BOURSORAMA restituera au Client le
 
 montant de l’opération et, si besoin, rétablira le Compte
-
-
 
 débité dans la situation où il se serait trouvé si l’opération
 
@@ -4996,9 +4998,9 @@ compter du débit de l’opération, sous peine de forclusion.
 
 est tenue d’une obligation de bonne exécution de
 
-
-
 l’opération de paiement, laquelle consistera au débit du
+
+
 
 Compte à la date d’échéance du prélèvement indiquée par
 
@@ -5136,13 +5138,11 @@ ses Clients non professionnels titulaires d’un Compte et,
 
 sous réserve de son acceptation. La Carte demeure la
 
-23
-
-
-
 propriété exclusive de BOURSORAMA qui est en droit d’en
 
 exiger la destruction.
+
+23
 
 
 
@@ -5440,13 +5440,15 @@ Article 4 : Données de sécurité personnalisées
 
 4.1. Code confidentiel
 
-24
-
 
 
 Lorsqu’il reçoit sa Carte, le Titulaire se connecte sur son
 
 Espace Client afin d’activer cette dernière et prendre
+
+24
+
+
 
 connaissance de son code confidentiel, qui lui est
 
@@ -6936,13 +6938,15 @@ Article 2 : Ouverture du Livret A
 
 un Titulaire personne physique, détenteur d’un Compte
 
+29
+
+
+
 Bancaire. Pour l’ouverture d’un Livret A sans détention d’un
 
 Compte Bancaire, il est nécessaire de suivre les instructions
 
 indiquées sur le Site Boursobank.com.
-
-29
 
 
 
@@ -7088,6 +7092,8 @@ reprenant les opérations passées au débit et au crédit du
 
 livret au cours du mois écoulé sera accessible dans
 
+
+
 l’Espace Client.
 
 Sur demande expresse du Client, BOURSORAMA,
@@ -7095,8 +7101,6 @@ Sur demande expresse du Client, BOURSORAMA,
 moyennant facturation (cf. Brochure Tarifaire), lui adressera
 
 ce relevé sous format papier, par voie postale.
-
-
 
 En l’absence de mouvements enregistrés sur le Livret A, un
 
@@ -7238,15 +7242,15 @@ publiques (DGFIP) l’information selon laquelle les
 
 conditions d’éligibilité au Livret d’Epargne Populaire sont
 
+30
+
+
+
 respectées. Elle utilise à cette fin les API « R2P » et «
 
 Impôts particuliers » mises à disposition par la DGFIP. Une
 
 API est une Interface de Programmation d’Application
-
-30
-
-
 
 permettant à la Banque et à la DGFIP de communiquer de
 
@@ -7394,13 +7398,13 @@ réalisée. Si lors d’une demande annuelle adressée par voie
 
 électronique, l'administration fiscale n'est pas en mesure de
 
+
+
 fournir à la Banque la justification de l’éligibilité, le Client
 
 devra justifier lui-même auprès de la Banque qu'il en remplit
 
 les conditions. Dans ce cas, la justification relative au
-
-
 
 montant des revenus sera apportée par la production de
 
@@ -7546,15 +7550,13 @@ courus sur la période depuis le début de l’année sont
 
 crédités au jour de la clôture.
 
+31
+
 
 
 6.2 Clôture règlementaire : Lorsque le titulaire d’un Livret
 
 d’Épargne Populaire cesse de remplir la condition de
-
-31
-
-
 
 plafond de revenus pour la deuxième année consécutive, il
 
@@ -7834,6 +7836,10 @@ et au crédit du compte au cours du mois écoulé sera
 
 accessible sur l’Espace Client. Sur demande expresse du
 
+32
+
+
+
 Client, BOURSORAMA, moyennant facturation, lui
 
 adressera ce relevé sous format papier, par voie postale.
@@ -7845,8 +7851,6 @@ En l’absence de mouvements enregistrés sur le Compte sur
 Livret, un relevé de compte sera mis en ligne annuellement
 
 sur l’Espace Client du Client.
-
-32
 
 
 
@@ -8000,8 +8004,6 @@ solde du Compte sur Livret Jeune ne peut être inférieur à
 
 10 €, sous peine d'entraîner la clôture de ce Compte sur
 
-
-
 Livret Jeune. Les versements peuvent être effectués
 
 jusqu’à la 25ème année du Titulaire, dans la limite du plafond
@@ -8138,6 +8140,8 @@ est faite.
 
 - Aux prélèvements sociaux à la source
 
+33
+
 
 
 Les non-résidents fiscaux français sont exonérés d’impôt
@@ -8147,8 +8151,6 @@ sur le revenu et de prélèvements sociaux en France mais
 potentiellement redevables dans leur pays de résidence
 
 fiscale.
-
-33
 
 
 
@@ -8290,6 +8292,8 @@ revenu. Les intérêts acquis sont soumis :
 
 prélèvement à la source d’un acompte
 
+
+
 forfaitaire. Cet acompte ouvre droit à un crédit
 
 d’impôt. En fonction de son revenu fiscal de
@@ -8301,8 +8305,6 @@ demande de dispense par BOURSORAMA de
 l’acompte fiscal dû au titre des intérêts versés en
 
 cours d’année. Cette demande prend la forme
-
-
 
 d’une déclaration sur l’honneur avant le 30
 
@@ -8438,6 +8440,10 @@ versements et effectuer des versements exceptionnels
 
 sans toutefois pouvoir dépasser le plafond des dépôts. Si
 
+34
+
+
+
 l’évolution des ressources du souscripteur conduisait à
 
 modifier durablement le montant des versements prévus, il
@@ -8447,8 +8453,6 @@ conviendrait d’aménager, par un avenant au contrat, les
 versements en fonction des possibilités nouvelles du
 
 souscripteur.
-
-34
 
 
 
@@ -8636,6 +8640,8 @@ fixé à la souscription, droits au prêt et prime d’épargne le
 
 cas échéant).
 
+
+
 • En cas de résiliation intervenant moins de deux (2) ans
 
 après la date du versement initial, les intérêts versés au
@@ -8734,6 +8740,8 @@ prêt, il utilise en outre des intérêts acquis sur son propre
 
 PEL.
 
+35
+
 
 
 7.4 La cession de droit à prêt doit porter sur la totalité des
@@ -8749,10 +8757,6 @@ intérêts acquis par le Client. Les droits à prêt ne peuvent
 intérêts acquis au terme du PEL. Dans le cas où le prêt
 
 sollicité et obtenu n’entraînerait pas une utilisation totale
-
-35
-
-
 
 des intérêts acquis, le reliquat de ceux-ci ne pourrait donner
 
@@ -8887,6 +8891,8 @@ compte pour le calcul du montant du prêt, ledit pourcentage
 et le montant maximum de la majoration étant fixés par
 
 l’Etat. Seules ouvrent droit au bénéfice de cette majoration,
+
+
 
 les personnes à charge du souscripteur vivant
 
@@ -9032,6 +9038,8 @@ est accessible sur l’Espace Client.
 
 nantissement.
 
+36
+
 
 
 3.5 Les fonds déposés portent intérêts à partir du premier
@@ -9043,10 +9051,6 @@ retirées cessent de produire intérêts à partir de la fin de la
 quinzaine précédente. Les intérêts dus pour une année sont
 
 capitalisés le 31 décembre. A cette date, ils sont portés au
-
-36
-
-
 
 crédit du CEL pour devenir, eux-mêmes, productifs
 
@@ -9190,13 +9194,13 @@ Titulaire d’un CEL doit remplir les deux conditions suivantes
 
 des intérêts acquis et utilisés pour le prêt s’élève à 37 euros
 
+
+
 au minimum si le prêt a pour objet le financement de travaux
 
 de réparation ou d’amélioration, à 22,5 euros au minimum
 
 si le prêt est destiné au financement de travaux ayant pour
-
-
 
 objet spécifique d’économiser de l’énergie et à 75 euros au
 
@@ -9342,13 +9346,13 @@ Les prêts d'épargne logement peuvent être affectés au
 
 financement d'un local destiné à un usage commercial ou
 
-professionnel, dès lors qu'il comporte également l'habitation
-
-principale du bénéficiaire.
-
 37
 
 
+
+professionnel, dès lors qu'il comporte également l'habitation
+
+principale du bénéficiaire.
 
 Lorsque le logement constitue une résidence principale, il
 
@@ -9498,9 +9502,9 @@ b) Cessation d'occupation du logement dans les conditions
 
 conformes à la réglementation : toutefois, en cas de
 
+
+
 changement de destination du bien, le prêt peut être
-
-
 
 maintenu dès lors qu'il aurait pu être accordé s'il s'était agi
 
@@ -9650,11 +9654,11 @@ L'établissement prêteur doit demander à l'emprunteur
 
 l'engagement de conserver au bien financé une destination
 
-conforme à la réglementation en vigueur lors de sa
-
 38
 
 
+
+conforme à la réglementation en vigueur lors de sa
 
 demande de prêt. En cas de financement d'un logement en
 
@@ -11964,13 +11968,13 @@ provision, refuser le paiement d'un chèque pour ce motif. A
 
 défaut de régularisation, BOURSORAMA adresse au
 
-47
-
-
-
 Titulaire une lettre d’injonction lui demandant de restituer
 
 les formules de chèque en sa possession.
+
+47
+
+
 
 Dès le premier refus de paiement motivé par l'absence ou
 
@@ -12118,8 +12122,6 @@ La demande sera automatiquement refusée et ne pourra
 
 Compte business d’une provision suffisante et disponible
 
-
-
 permettant de couvrir le montant ainsi que les frais indiqués
 
 dans la Brochure Tarifaire.
@@ -12258,15 +12260,13 @@ BOURSORAMA se réserve la possibilité de limiter
 
 l’exécution d’un virement en ligne lorsque ce virement porte
 
-48
-
-
-
 sur le montant de chèque(s) remis à l’encaissement depuis
 
 moins de 12 jours. Le Client devra alors contacter le Service
 
 Clientèle pour effectuer le virement.
+
+48
 
 
 
@@ -12422,6 +12422,8 @@ ou de la mauvaise exécution de l’ordre de virement.
 
 BOURSORAMA s’efforcera toutefois, dans la mesure du
 
+
+
 possible, de récupérer les fonds engagés dans l’opération
 
 de paiement.
@@ -12562,10 +12564,6 @@ destination d’un compte ouvert auprès d’un
 
 établissement de crédit situé dans un des pays
 
-49
-
-
-
 de la zone SEPA et en mesure d’exécuter les
 
 virements instantanés.
@@ -12573,6 +12571,8 @@ virements instantanés.
 - Au crédit : les virements instantanés reçus sur le
 
 Compte business.
+
+49
 
 
 
@@ -12716,8 +12716,6 @@ fournissant un service d’initiation de paiement, le Client
 
 s’engage à fournir à BOURSORAMA toutes les
 
-
-
 informations nécessaires au remboursement des
 
 opérations frauduleuses.
@@ -12727,6 +12725,8 @@ opérations frauduleuses.
 Dans le cas où l’opération a été mal exécutée du fait de
 
 BOURSORAMA, BOURSORAMA restituera au Client le
+
+
 
 montant de l’opération et, si besoin, rétablira le Compte
 
@@ -12860,8 +12860,6 @@ les données du mandat et de les transmettre à
 
 BOURSORAMA pour paiement.
 
-50
-
 
 
 Le Client peut révoquer à tout moment son mandat de
@@ -12869,6 +12867,8 @@ Le Client peut révoquer à tout moment son mandat de
 prélèvement, ou faire opposition à un ou plusieurs
 
 paiements auprès de BOURSORAMA.
+
+50
 
 
 
@@ -13018,6 +13018,8 @@ Le Client est informé que dans l’hypothèse où l’opération
 
 s’avère effectivement autorisée, BOURSORAMA pourra
 
+
+
 procéder à la contre-passation du montant du
 
 remboursement initial.
@@ -13144,8 +13146,6 @@ d’opérations est présentée par le créancier pour
 
 un même mandat.
 
-51
-
 
 
 Article 3 : Obligations et responsabilités du Client
@@ -13163,6 +13163,8 @@ Le Client s’engage à compléter et/ou vérifier et signer le
 formulaire de mandat de prélèvement dont l’IBAN et le BIC
 
 sont des mentions obligatoires.
+
+51
 
 
 
@@ -13300,8 +13302,6 @@ ci-dessous, de révoquer son mandat de prélèvement SEPA
 
 interentreprises, ou de faire opposition à un ou plusieurs
 
-
-
 paiements auprès de BOURSORAMA mais il est invité à en
 
 aviser au préalable son créancier.
@@ -13317,6 +13317,8 @@ défaut de pouvoir identifier le mandat, la révocation ou
 l’opposition portera sur les prélèvements présentés à partir
 
 de tous les mandats signés par le Client avec son créancier.
+
+
 
 La révocation d’un mandat de prélèvement SEPA
 
@@ -13452,8 +13454,6 @@ fonctionnement de la transmission des opérations sur le
 
 Système d’échanges interbancaires.
 
-52
-
 
 
 E. LES CARTES DE PAIEMENT
@@ -13469,6 +13469,8 @@ SECRET PAR COEUR, NE L’ÉCRIVEZ PAS.
 • NE COMMUNIQUEZ JAMAIS VOTRE CODE
 
 CONFIDENTIEL À UN TIERS.
+
+52
 
 
 
@@ -13600,8 +13602,6 @@ La Carte business est strictement personnelle, son Titulaire,
 
 devant obligatoirement et dès réception y apposer sa
 
-
-
 signature lorsqu’un espace a été prévu à cet effet. Le
 
 Titulaire de la Carte business s’engage à ne jamais la prêter
@@ -13617,6 +13617,8 @@ Le Titulaire de la Carte business s’interdit d’apporter toute
 altération fonctionnelle ou physique à la Carte qui serait
 
 susceptible d’entraver son fonctionnement et/ou celui des
+
+
 
 TPE, automates et DAB/GAB de quelque manière que ce
 
@@ -13754,8 +13756,6 @@ confidentiel. Le Titulaire a la possibilité de désactiver la
 
 fonctionnalité à tout moment depuis l’Espace Client.
 
-53
-
 
 
 3.2. Utilisation de la Carte pour le transfert de fonds
@@ -13767,6 +13767,10 @@ fonctionnalité à tout moment depuis l’Espace Client.
 dans la limite des plafonds fixés par l’Emetteur, accessibles
 
 via l’Espace Client.
+
+53
+
+
 
 3.2.2 Ces opérations peuvent être réalisées avec la Carte
 
@@ -13906,8 +13910,6 @@ c’est bien le Titulaire de la Carte business qui effectue le
 
 paiement.
 
-
-
 Le Titulaire doit utiliser le Code Sécurité chaque fois qu’il en
 
 reçoit l’instruction par le site de vente.
@@ -13921,6 +13923,8 @@ appel téléphonique (sur son téléphone fixe).
 Le numéro de téléphone sur lequel le Code Sécurité est
 
 transmis est le « numéro de téléphone d’authentification »
+
+
 
 renseigné par le Titulaire, conformément aux modalités
 
@@ -14060,10 +14064,6 @@ moment où il lui est transmis par le Prestataire de Services
 
 de Paiement du bénéficiaire ou par le gestionnaire du
 
-54
-
-
-
 DAB/GAB au travers du système de compensation ou de
 
 règlement.
@@ -14073,6 +14073,8 @@ règlement.
 Si le moment de réception n’est pas un jour ouvrable, l’ordre
 
 de paiement est réputé avoir été reçu le jour suivant.
+
+54
 
 
 
@@ -14224,6 +14226,8 @@ détournement ou de toute utilisation non autorisée de sa
 
 Carte business ou des données qui lui sont liées, le Titulaire
 
+
+
 en informe sans tarder BOURSORAMA aux fins de la
 
 mettre en opposition :
@@ -14366,8 +14370,6 @@ A la demande de BOURSORAMA, le Client fournit tous
 
 éléments relatifs au remboursement demandé.
 
-55
-
 
 
 La demande de remboursement doit être présentée avant
@@ -14375,6 +14377,8 @@ La demande de remboursement doit être présentée avant
 l'expiration d'une période de huit (8) semaines à compter de
 
 la date à laquelle les fonds ont été débités.
+
+55
 
 
 
@@ -14517,8 +14521,6 @@ attaché à la Carte.
 En cas de résiliation du présent contrat ou de la Convention,
 
 la cotisation pourra être remboursée au prorata du temps
-
-
 
 écoulé entre la date de prélèvement de la cotisation et la
 
@@ -14668,13 +14670,13 @@ accepter à titre ponctuel un dépassement du découvert
 
 autorisé durant une brève période. La facilité de caisse ainsi
 
-56
-
-
-
 consentie ne pourra en aucun cas être assimilée à une
 
 autorisation de découvert ou à une augmentation du
+
+56
+
+
 
 plafond de celle-ci et il pourra y être mis fin par
 
@@ -14813,8 +14815,6 @@ son Compte à Terme business.
 Le taux d’intérêt nominal brut annuel est librement fixé par
 
 BOURSORAMA lors de l’ouverture du Compte à Terme
-
-
 
 business et est fixé pendant toute la durée du contrat. Les
 
@@ -14958,8 +14958,6 @@ L’ouverture d’un Compte sur Livret Pro est exclusivement
 
 réservée aux Titulaires d’un Compte PRO.
 
-57
-
 
 
 Article 1 : Modalités de fonctionnement
@@ -14969,6 +14967,10 @@ Article 1 : Modalités de fonctionnement
 Toutes les opérations de retrait ou de versement, y compris
 
 le versement initial, doivent porter sur un montant minimum
+
+57
+
+
 
 de 10 €. Le solde du Compte sur Livret Pro ne peut être
 
@@ -15107,6 +15109,62 @@ titre de l’année suivante.
 Cette déclaration est valable jusqu’au 31 décembre de
 
 l’année suivant celle au cours de laquelle elle est faite.
+
+
+
+CHAPITRE 6 : COMPTE TITRES BUSINESS
+
+
+
+Article 1 : Présentation
+
+Le Compte Titres Ordinaire Business est compte de titres
+
+financiers exclusivement réservé aux titulaires d’un compte
+
+PRO (le « CTO Business ») permettant d’investir sur les
+
+produits suivants :
+
+- Actions françaises,
+
+- Actions européennes,
+
+- ETF,
+
+- OPCVM,
+
+- ETN Cryptos (Euronext),
+
+- Obligations.
+
+
+
+Article 2 : Ouverture
+
+
+
+Le CTO Business donne lieu à l'ouverture d'un compte
+
+espèces et d'un compte de titres financiers spécifiques au
+
+nom du Titulaire, distincts par leur numéro de tout autre
+
+compte espèces ou d’instruments financiers de leur
+
+Titulaire.
+
+
+
+Article 3 : Fonctionnement
+
+
+
+Le fonctionnement du CTO Business est soumis aux
+
+dispositions du Chapitre 1 du Titre V, sauf dispositions
+
+contraires prévues au présent Titre IV.
 
 58
 
@@ -21092,11 +21150,15 @@ suivants (ci-après les « Services ») :
 
 ▪ Participation à des forums de discussions
 
-▪ Envoi de newsletters
-
-
+Envoi de newsletters
 
 ▪ The Corner
+
+▪ The Corner Bourso Business
+
+▪ Tests de nouvelles fonctionnalités de l’application
+
+mobile BoursoBank
 
 
 
@@ -21218,13 +21280,13 @@ perte de chance ou tout autre dommage, résultant :
 
 des failles les affectant ou du défaut de correction de ces
 
+
+
 incidents par BOURSORAMA qui aura fait ses meilleurs
 
 efforts pour mettre un terme à l’indisponibilité dans les
 
 meilleurs délais,
-
-
 
 - de l'utilisation ou de l'incapacité à utiliser lesdits Services
 
@@ -21372,15 +21434,13 @@ conscience, agisse promptement pour retirer le contenu
 
 illicite ou rendre l’accès à celui-ci impossible. »
 
+79
+
 
 
 Dès lors que lui est signalé le caractère prétendument illicite
 
 d'un Contenu dans les conditions prévues à l'article 16 du
-
-79
-
-
 
 DSA indiquées ci-dessous, BOURSORAMA met en œuvre
 
@@ -21525,6 +21585,8 @@ aucune façon aux droits que les tiers, personnes physiques
 ou morales, pourraient détenir notamment en matière de
 
 propriété industrielle, de droits d'auteur ou de droits voisins,
+
+
 
 du droit sui generis applicable aux bases de données, du
 
@@ -21674,6 +21736,8 @@ budget, son épargne et son patrimoine grâce aux
 
 fonctionnalités et outils définis ci-après.
 
+80
+
 
 
 Cette rubrique comprend (i) le Service Wicount, qui
@@ -21683,10 +21747,6 @@ s’applique automatiquement à l’ensemble des comptes
 (bancaires, épargne, placements financiers et crédits)
 
 détenus chez BOURSORAMA et (ii) le Service Wicount 360
-
-80
-
-
 
 qui s’applique aux comptes (bancaires, épargne,
 
@@ -21820,11 +21880,11 @@ BOURSORAMA. Ces recommandations sont
 
 disponibles dans l’Espace Client du Client ou
 
+
+
 peuvent être envoyées par email et/ou SMS, et
 
 constituent des notifications au sens du 4 ci-
-
-
 
 dessus. Les recommandations peuvent être
 
@@ -21960,15 +22020,13 @@ Le Coffre-fort est un espace de stockage numérique qui a
 
 une capacité totale de 2 Go.
 
+81
+
 
 
 L’attention du Client est attirée sur le fait que les Documents
 
 qu’il agrège et/ou dépose dans le Coffre-Fort constituent
-
-81
-
-
 
 des copies numériques et qu’il lui est en conséquence
 
@@ -22112,9 +22170,9 @@ mise à jour automatique des Comptes Externes sans avoir
 
 à justifier d'un motif ou accorder au Client un quelconque
 
+
+
 dédommagement. Dans les deux cas visés ci-dessus, la
-
-
 
 facturation éventuelle sera suspendue, conformément à la
 
@@ -22256,11 +22314,13 @@ Cet accord est nécessaire pour permettre à chaque
 
 conseiller de BOURSORAMA de fournir une réponse
 
+82
+
+
+
 pertinente et adéquate aux questions du Client sur le
 
 fonctionnement desdits Services.
-
-82
 
 
 
@@ -22409,6 +22469,8 @@ pertinence et cohérence des informations publiées aux
 seins des Services, le Client s'engage à publier dans les
 
 zones interactives de conversation du type forum, un
+
+
 
 Contenu en accord avec la thématique sur laquelle il
 
@@ -22562,13 +22624,13 @@ caractère manifestement illicite, il peut le signaler à
 
 BOURSORAMA via la fonction « Reporter un abus »
 
-présente à côté de chaque Contenu publié par un Client ou
-
-un membre sur le Site.
-
 83
 
 
+
+présente à côté de chaque Contenu publié par un Client ou
+
+un membre sur le Site.
 
 Le Client peut également contacter BOURSORAMA à
 
@@ -22631,6 +22693,14 @@ directement auprès des Partenaires professionnels des
 produits ou services à prix ou conditions avantageux (ci-
 
 après les « Offres »).
+
+
+
+The Corner propose également des Offres destinées
+
+exclusivement à ses clients de l’offre BoursoFirst. Ces
+
+Offres sont accessibles via un onglet dédié.
 
 
 
@@ -22722,8 +22792,6 @@ cliquant sur la rubrique « Préférences » puis « Services ».
 
 5.4 Description du service
 
-
-
 5.4.1 Achats de produits et services
 
 
@@ -22770,9 +22838,9 @@ En s’inscrivant au service The Corner, le Client accepte
 
 expressément de bénéficier du service et des Offres lui
 
-permettant de bénéficier de remises, cashback, bon
+permettant de bénéficier de remises, cashback, bons
 
-d’achats et différentes offres lui permettant de faire des
+d’achat et différentes offres lui permettant de faire des
 
 économies ou de bénéficier de conditions avantageuses en
 
@@ -22850,11 +22918,11 @@ Différents types d’Offres sont proposés sur The Corner :
 
 - Les remises immédiates ;
 
-- La billetterie ;
-
 - Le remboursement partiel différé (ci-après « Cashback ») ;
 
-- Les bons d’achat.
+- Les bons d’achat/billetterie.
+
+84
 
 
 
@@ -22871,8 +22939,6 @@ différentes Offres :
 directement commande et procède au paiement
 
 sur The Corner ;
-
-84
 
 
 
@@ -22914,9 +22980,11 @@ Dans le cadre du parcours intégré, les paiements
 
 s’effectuent avec les moyens de paiement disponibles dans
 
-le parcours. Le prix de chaque produit et service est indiqué
+le parcours. Le prix du e-billet et le pourcentage de remise
 
-sur la page de l’Offre. Le prix s’entend en euros TTC.
+appliqué pour le bon d’achat est indiqué sur la page de
+
+l’Offre. Le prix s’entend en euros TTC.
 
 
 
@@ -23150,6 +23218,8 @@ Client doit prendre contact avec le Partenaire dont les
 
 coordonnées sont disponibles sur la page de l’Offre.
 
+85
+
 
 
 5.14 Propriété Intellectuelle
@@ -23175,10 +23245,6 @@ autorisée. Toute reproduction, représentation, modification
 ou adaptation totale ou partielle de la charte graphique de
 
 The Corner et de tout ou partie des éléments se trouvant
-
-85
-
-
 
 sur cette plateforme ou qui y sont incorporés est strictement
 
@@ -23306,6 +23372,8 @@ mineur pourra acheter des e-billets et bons d’achat
 
 directement auprès de certains Partenaires professionnels.
 
+
+
 Pour que le mineur puisse utiliser The Corner, le
 
 représentant légal doit accepter de se soumettre aux
@@ -23326,11 +23394,9 @@ de l’ouverture du compte du mineur.
 
 L’accès à The Corner est strictement réservé aux mineurs
 
-détenteurs de l’application mobile dédiée. Lorsqu’il utilise
+détenteurs de l’application mobile. Lorsqu’il utilise The
 
-The Corner, le mineur déclare agir à titre privé.
-
-
+Corner, le mineur déclare agir à titre privé.
 
 Dès la souscription du compte du mineur par son
 
@@ -23452,6 +23518,8 @@ des commandes passées par le mineur en se rendant dans
 
 la rubrique « Mes commandes » de son Espace Client.
 
+86
+
 
 
 5.17.4 Autres clauses
@@ -23466,13 +23534,639 @@ destination des mineurs.
 
 
 
-Article 6 : Modifications des conditions ou des services
+Article 6. The Corner Bourso Business
+
+
+
+Préambule
+
+BOURSORAMA propose à ses clients professionnels
+
+bénéficiant de l’offre Bourso Business un service The
+
+Corner Bourso Business avec des offres dédiées
+
+exclusivement aux professionnels.
+
+Ce service est distinct du service The Corner. Ainsi, un
+
+client professionnel peut accéder à The Corner Bourso
+
+Business (offres destinées aux professionnels) au sein de
+
+son espace client professionnel et à The Corner (offres
+
+grand public) au sein de son espace client particulier.
+
+
+
+Pour utiliser The Corner Bourso Business, le Client doit
+
+s’inscrire au service et accepter de se soumettre aux
+
+présentes Conditions Générales d'Utilisation (ci-après les «
+
+CGU The Corner Bourso Business ») sans restriction ni
+
+réserve.
+
+
+
+6.1 Objet
+
+Les présentes CGU The Corner Bourso Business ont pour
+
+objet de définir les conditions dans lesquelles
+
+BOURSORAMA met à la disposition de ses Clients
+
+professionnels une plateforme leur permettant d’acheter
+
+directement auprès de Partenaires des produits ou
+
+services. Cette plateforme fonctionne de la même manière
+
+que le service The Corner mais comprend certaines
+
+spécificités décrites ci-après.
+
+
+
+6.2 Qualité d’intermédiaire de BOURSORAMA
+
+Voir article 5.2 supra
+
+
+
+6.3 Inscription, accès et désinscription
+
+
+
+L’accès à The Corner Bourso Business est strictement
+
+réservé aux clients titulaires d’un compte business.
+
+Lorsqu’il utilise The Corner Bourso Business, le client
+
+déclare agir à titre professionnel.
+
+
+
+The Corner est accessible au sein de l’Espace Client
+
+professionnel.
+
+
+
+Pour bénéficier du service et des Offres, le Client
+
+professionnel doit procéder à son inscription à The Corner
+
+Bourso Business. Cette inscription est distincte de
+
+l’inscription à The Corner réalisée au sein de l’espace client
+
+particulier.
+
+
+
+L’inscription est gratuite et sans obligation d’achat. Seul
+
+l’achat de produits et/ou services auprès de Partenaires est
+
+payant, selon les conditions générales de vente de ces
+
+Partenaires.
+
+
+
+Le Client peut à tout moment se désinscrire du service The
+
+Corner depuis son profil au sein de son Espace Client, en
+
+cliquant sur la rubrique « Préférences » puis « Services ».
+
+
+
+6.4 Description du service
+
+
+
+6.4.1 Achats de produits et services
+
+Voir article 5.4.1 supra
+
+
+
+6.4.2 Recommandations d’Offres et envoi de
+
+communications par BOURSORAMA
+
+En s’inscrivant au service The Corner Bourso Business, le
+
+Client accepte expressément de bénéficier du service et
+
+des Offres lui permettant de bénéficier de remises
+
+immédiates et bons d’achat et différentes offres lui
+
+permettant de faire des économies ou de bénéficier de
+
+
+
+conditions avantageuses en utilisant son Compte business
+
+Business. Dans ce cadre, le Client pourra recevoir de la part
+
+de BOURSORAMA, par voie électronique et/ou par
+
+affichage dans son Espace Client professionnel, des
+
+messages d’information, d’actualités sur le service The
+
+Corner ainsi que des recommandations d’Offres.
+
+
+
+Le Client peut renoncer à l’envoi de ces messages ou
+
+recommandations transmis par voie électronique
+
+directement via les modalités de désinscription visées dans
+
+le message, ou en se rendant sur son profil dans son
+
+Espace Client, puis en cliquant sur la rubrique «
+
+Préférences » et « Services ».
+
+
+
+6.4.3 Processus d’achat
+
+
+
+6.4.3.1 Offres
+
+
+
+Différents types d’Offres sont proposés sur The Corner
+
+Bourso Business:
+
+- Les remises immédiates ;
+
+- Les bons d’achat.
+
+
+
+6.4.3.2 Parcours d’achat
+
+
+
+Plusieurs parcours d’achat sont possibles en fonction des
+
+différentes Offres :
+
+• Le parcours d’achat intégré : le Client passe
+
+directement commande et procède au paiement sur The
+
+Corner Bourso Business;
+
+
+
+• Le parcours d’achat semi-intégré : le Client
+
+complète ses informations sur The Corner Bourso Business
+
+puis est invité à poursuivre sa commande et à procéder au
+
+paiement sur le site du Partenaire ;
+
+
+
+• Le parcours d’achat sur le site du Partenaire : le
+
+Client est immédiatement redirigé via un lien hypertexte
+
+figurant sur la page de l’Offre vers le site du Partenaire pour
+
+effectuer son achat.
+
+
+
+Les ventes réalisées entre le Client et les Partenaires par
+
+l'intermédiaire de The Corner sont régies par les conditions
+
+générales de vente propres à chaque Partenaire, qui
+
+doivent être acceptées par le Client lors de chaque achat.
+
+
+
+6.4.3.3 Prix et moyens de paiement
+
+
+
+Dans le cadre du parcours intégré, les paiements
+
+s’effectuent avec les moyens de paiement disponibles dans
+
+le parcours. Le pourcentage de réduction du bon d’achat est
+
+indiqué sur la page de l’Offre. La valeur du bon d’achat
+
+commandé s’entend en euros TTC.
+
+
+
+Dans le cas d’un virement, le Client devra effectuer son
+
+virement depuis son Compte business. Par cette opération
+
+et la validation de son achat, le Client donne l’ordre à
+
+BoursoBank d’effectuer le virement. Dans le cas de la mise
+
+en place d’un prélèvement, le Client suit les informations
+
+indiquées dans le parcours d’achat.
+
+
+
+Dans le cadre des parcours semi-intégrés et chez le
+
+Partenaire, les prix et modalités de paiement sont indiquées
+
+sur le site du Partenaire.
+
+
+
+Pour des raisons de sécurité, des plafonds de dépenses
+
+selon les Offres et les Partenaires peuvent être fixés
+
+quotidiennement et annuellement.
+
+
+
+Dans le cadre de la commande de Bons d’achat,
+
+Boursorama mettra à disposition du client professionnel une
+
+preuve de paiement qu’il pourra télécharger à tout moment
+
+au sein de son espace The Corner Bourso Business, dans
+
+l’onglet « Mes commandes » puis « document de
+
+paiement ».
+
+87
+
+
+
+6.4.3.4 Expédition et livraison des produits et fourniture
+
+des services
+
+Voir article 5.6 supra
+
+
+
+6.5 Gestion des commandes
+
+Voir article 5.8 supra
+
+
+
+6.6 Questions relatives aux Offres
+
+Voir article 5.9 supra
+
+
+
+6.7 Rôle et responsabilité de QWERTYS
+
+Voir article 5.1 supra
+
+
+
+6.8 Responsabilité des Partenaires et de Boursorama
+
+Voir articles 5.11 et 5.12 supra
+
+
+
+6.9 Droit de rétractation
+
+Dans certains cas prévus par l’article L221-3 du Code de la
+
+Consommation, le client professionnel peut bénéficier d’un
+
+droit de rétractation. Pour plus d’informations sur son droit
+
+de rétraction, le Client doit se reporter aux conditions
+
+générales de vente des Partenaires.
+
+
+
+6.10 Propriété Intellectuelle
+
+Voir article 5.14 supra
+
+
+
+6.11 Données personnelles
+
+Voir article 5.15 supra
+
+
+
+6.12 Classement des Offres
+
+Voir article 5.16 supra
+
+
+
+Article 7. Tests de nouvelles fonctionnalités de
+
+l’application mobile BoursoBank
+
+
+
+Afin d’améliorer la qualité de ses services, BoursoBank
+
+propose à ses clients, via une adhésion spécifique, de «
+
+tester » en avant-première de nouvelles fonctionnalités de
+
+l’application mobile BoursoBank (ci-après «
+
+Fonctionnalités Beta »), et leur donne l’opportunité
+
+d’émettre des remarques ou suggestions en lien avec ces
+
+Fonctionnalités Beta.
+
+
+
+7.1 Conditions d’accès
+
+L’accès aux Fonctionnalités Beta est réservé aux clients
+
+BoursoBank âgés de 18 ans et plus.
+
+Pour tester les Fonctionnalités Beta disponibles, le client
+
+doit se rendre dans l’onglet « Fonctionnalités en beta test »
+
+du menu de son Espace Client app.
+
+
+
+7.2 Adhésion aux présentes conditions générales et
+
+fonctionnement des tests
+
+Pour accéder à son espace testeur, le client doit accepter
+
+de se soumettre aux présentes conditions générales (ci-
+
+après les CGU Testeurs ») sans restriction ni réserve. Ces
+
+CGU Testeurs lui seront applicables pour tous les tests
+
+réalisés.
+
+Après confirmation de son acceptation des CGU Testeurs,
+
+BoursoBank propose au client au sein de son espace dédié
+
+un ou plusieurs tests de Fonctionnalités Beta en fonction de
+
+son profil (cf. article « Données à caractère personnel infra).
+
+Pour pouvoir faire un test, le client doit suivre les étapes
+
+suivantes :
+
+- sur la page « Nouvelles fonctionnalités », cliquer sur
+
+l’encart d’un test
+
+- puis cliquer sur « activer le test »
+
+- une fois le test activé, le client peut tester directement la
+
+fonctionnalité en cliquant sur « démarrer le test » ou revenir
+
+plus tard.
+
+ATTENTION : LES TESTS DISPONIBLES PERMETTENT
+
+AUX CLIENTS D’EVALUER LES FONCTIONNALITES
+
+BETA DANS DES CONDITIONS REELLES. PAR
+
+CONSEQUENT, TOUTE ACTION MENEE PAR UN
+
+CLIENT (EX : PASSAGE D’ORDRE, EXECUTION D’UN
+
+VIREMENT) SERA EFFECTIVEMENT PRISE EN
+
+
+
+COMPTE PAR BOURSOBANK ET NE POURRA ETRE
+
+ANNULEE ULTERIEUREMENT. BOURSOBANK NE
+
+POURRA EN AUCUN CAS VOIR SA RESPONSABILITE
+
+ENGAGEE A CE TITRE.
+
+LES FONCTIONNALITES BETA SONT FOURNIES « EN
+
+L’ETAT ». BOURSOBANK NE GARANTIT PAS QUE LES
+
+FONCTIONNALITES BETA SERONT DEPOURVUES
+
+D’ERREURS OU FONCTIONNERONT SANS
+
+INTERRUPTION. BOURSOBANK NE POURRA PAS VOIR
+
+SA RESPONSABILITE ENGAGEE A CE TITRE.
+
+
+
+7.3 Contributions des testeurs
+
+Dans le cadre des tests, les clients sont invités à donner
+
+leur avis pour signaler des bugs, faire état d’éventuelles
+
+difficultés rencontrées dans leur parcours ou faire des
+
+suggestions d’amélioration. Ces contributions peuvent être
+
+réalisées par plusieurs moyens :
+
+- à partir de la page d’accueil dédiée aux tests, en cliquant
+
+sur le test correspondant ;
+
+- directement au sein du parcours ;
+
+- ultérieurement, en cliquant sur la « notification push »
+
+envoyée par BoursoBank.
+
+
+
+Lors de la rédaction de son avis, le client peut, s’il le
+
+souhaite, joindre des captures d’écran afin d’expliciter ses
+
+propos (par exemple pour mieux identifier un bug).
+
+Le client reconnait et accepte (i) que ses contributions
+
+doivent être exclusivement en lien avec le test concerné, (ii)
+
+que ses contributions ne pas doivent pas porter atteinte aux
+
+droits des tiers, ni contrevenir à la règlementation et la
+
+législation en vigueur, et (iii) qu’il est pleinement
+
+responsable du contenu qu’il transmet à BoursoBank.
+
+
+
+Le client reconnait et accepte que ses remarques ou
+
+suggestions peuvent ou non être prises en compte par
+
+BoursoBank, qui reste seule décisionnaire des services et
+
+contenus qu’elle fournit à ses clients.
+
+Les tests étant réalisés sur la base du volontariat, en cas de
+
+prise en compte par BousoBank d’une suggestion d’un
+
+client, ce dernier renonce expressément à revendiquer un
+
+quelconque droit ou une quelconque rétribution en lien avec
+
+sa contribution.
+
+
+
+Toute reproduction, représentation, diffusion ou rediffusion,
+
+en tout ou partie, du contenu de l’application sur quelque
+
+support ou par tout procédé que ce soit (notamment par
+
+voie de caching, framing) de même que toute vente,
+
+revente, retransmission ou mise à disposition de tiers de
+
+quelque manière que ce soit sont interdites. Le non-respect
+
+de cette interdiction constitue une contrefaçon susceptible
+
+d'engager la responsabilité civile et pénale du contrefacteur.
+
+Les marques citées sont également protégées : leur
+
+reproduction ou utilisation, de quelque sorte, est interdite.
+
+
+
+7.4 Données à caractère personnel
+
+BoursoBank traite, en qualité de Responsable de
+
+traitement, les données personnelles du client afin de lui
+
+faire bénéficier des tests de Fonctionnalités Beta.
+
+Les traitements réalisés par BoursoBank dans le cadre de
+
+ce programme testeurs sont fondés sur l'exécution des
+
+présentes conditions générales.
+
+Les traitements liés à l’accès aux Fonctionnalités Beta de
+
+BoursoBank ont pour finalité de tester les Fonctionnalités
+
+Beta disponibles. Pour ce faire, BoursoBank transmet des
+
+recommandations personnalisées en analysant les
+
+catégories suivantes : vos données d’identification, les
+
+données liées à votre situation personnelle, vos données
+
+économiques et financières, marketing, techniques et de
+
+connexion, les données relatives à vos opérations et à vos
+
+transactions bancaires, aux produits et services souscrits, à
+
+vos habitudes et vos préférences en lien avec l’utilisation de
+
+nos produits et services.
+
+
+
+En acceptant les présentes CGU Testeurs, le client accepte
+
+expressément de recevoir des recommandations de test
+
+personnalisées.
+
+88
+
+
+
+Le client peut renoncer à l’envoi de ces recommandations
+
+ou notifications via les modalités de désinscription visées
+
+dans le message, ou en se rendant sur son profil dans son
+
+Espace Client, puis en cliquant sur la rubrique Réglages de
+
+« tests de fonctionnalités ».
+
+
+
+7.5 Désactivation des tests
+
+Le client peut désactiver à tout moment un test actif en
+
+cliquant sur le test concerné dans la rubrique « tests activés
+
+».
+
+
+
+Article 8 : Modifications des conditions ou des services
 
 
 
 BOURSORAMA se réserve la possibilité de modifier en tout
 
 ou partie les stipulations du présent Titre V, afin de les
+
+
 
 adapter aux évolutions de son exploitation, et/ou aux
 
@@ -23484,10 +24178,6 @@ Le Client sera informé des modifications apportées à la
 
 Convention selon les modalités revues à l’article 11.3 du
 
-86
-
-
-
 Titre I des présentes Conditions Générales, et ce au plus
 
 tard 15 (quinze) jours avant leur entrée en vigueur.
@@ -23497,8 +24187,6 @@ tard 15 (quinze) jours avant leur entrée en vigueur.
 Pendant ce délai de 15 (quinze) jours, le Client pourra
 
 refuser les modifications et dénoncer sans frais de
-
-
 
 résiliation la Convention par courrier électronique adressé à
 
@@ -23512,7 +24200,7 @@ considérées, à son égard, comme définitivement
 
 approuvées.
 
-87
+89
 
 
 
@@ -23672,7 +24360,7 @@ Les sommes inscrites sur les Livrets A, les LDDS (LDDS) et les livrets d’épar
 
 du plafond cumulé de 100 000 € applicable aux autres comptes. Cette garantie porte sur les sommes déposées sur l’ensemble
 
-88
+90
 
 
 
@@ -23742,7 +24430,7 @@ projet de contrat ou Convention, il est accusé réception à l’occasion de la
 
 à l’occasion de l’envoi annuel du formulaire postérieurement à la conclusion du contrat ou de la Convention.
 
-89
+91
 
 
 
@@ -23894,7 +24582,7 @@ nombre d’Appareil Compatible de l’Utilisateur. Le fonctionnement du Portefeu
 
 Réseau
 
-90
+92
 
 
 
@@ -24048,7 +24736,7 @@ Le Service Apple Pay entre en vigueur dès l’acceptation des présentes Condit
 
 qu’en appuyant sur Accepter il manifeste son consentement au contenu des présentes Conditions Générales d’utilisation Service.
 
-91
+93
 
 
 
@@ -24198,7 +24886,7 @@ relevé que les opérations de paiement par carte réalisées par l’Utilisateu
 
 Paiement en ligne « In App » et « Web » :
 
-92
+94
 
 
 
@@ -24354,7 +25042,7 @@ ARTICLE 8 – RESPONSABILITE DE l’EMETTEUR
 
 mauvais fonctionnement du Portefeuille et/ou des fonctionnalités du Service Apple Pay.
 
-93
+95
 
 
 
@@ -24504,7 +25192,7 @@ L’Emetteur se réserve le droit d'apporter toutes modifications et notamment d
 
 financières aux présentes conditions générales d’utilisation. L’Utilisateur sera informé par tout moyen de tout projet de modification
 
-94
+96
 
 
 
@@ -24562,7 +25250,7 @@ français. Coordonnées de l’autorité de contrôle compétente : L’Autorit�
 
 chargée du contrôle de la banque, située 61, rue Taitbout 75436 Paris Cedex 09.
 
-95
+97
 
 
 
@@ -24706,7 +25394,7 @@ Samsung Pay, quel que soit le nombre d’Appareil Compatible de l’Utilisateur.
 
 responsabilité de Samsung.
 
-96
+98
 
 
 
@@ -24856,7 +25544,7 @@ de Samsung après que l’Utilisateur reconnaît qu’il en ait pris connaissanc
 
 ou les Emetteurs concernées, conformément au présent article.
 
-97
+99
 
 
 
@@ -25004,7 +25692,7 @@ Carte selon les dispositions du Contrat conclu entre l’Emetteur de la Carte et
 
 relevé que les opérations de paiement par carte réalisées par l’Utilisateur en dehors du Service Samsung Pay.
 
-98
+100
 
 
 
@@ -25158,7 +25846,7 @@ mauvais fonctionnement du Portefeuille et/ou des fonctionnalités du Service Sam
 
 8.2 –L’Emetteur n’est pas tenu pour responsable d’une panne technique du Portefeuille et/ou du Service Samsung Pay, l’Emetteur
 
-99
+101
 
 
 
@@ -25310,7 +25998,7 @@ L’Emetteur se réserve le droit d'apporter toutes modifications et notamment d
 
 financières aux présentes conditions générales d’utilisation. L’Utilisateur sera informé par tout moyen de tout projet de modification
 
-100
+102
 
 
 
@@ -25368,7 +26056,7 @@ français. Coordonnées de l’autorité de contrôle compétente : L’Autorit�
 
 chargée du contrôle de la banque, située 4, Place de Budapest 75436 Paris Cedex 09.
 
-101
+103
 
 
 
@@ -25498,7 +26186,7 @@ Désigne le numéro de téléphone que l’Utilisateur doit communiquer à BOURS
 
 sensibles », notamment la souscription au Service Google Pay.
 
-102
+104
 
 
 
@@ -25638,7 +26326,7 @@ et que toutes les utilisations du Service Google Pay sont réputées avoir été
 
 susceptible de recevoir de l’Emetteur des données à caractère personnel de l’Utilisateur dans le cadre de l’utilisation du Service
 
-103
+105
 
 
 
@@ -25790,7 +26478,7 @@ Une fois cette authentification réalisée, et dans la mesure où l'Emetteur a a
 
 ainsi, l'ordre de paiement par Carte est irrévocable.
 
-104
+106
 
 
 
@@ -25938,7 +26626,7 @@ conséquences de telles demandes de retrait ni de toute autre demande de retrait
 
 relevant de la seule responsabilité de Google.
 
-105
+107
 
 
 
@@ -26084,7 +26772,7 @@ deux (2) mois à compter de la date d'envoi de cette notification à l'Utilisate
 
 du Client, la résiliation sera effectuée sans préavis.
 
-106
+108
 
 
 
@@ -26190,7 +26878,7 @@ français. Coordonnées de l'autorité de contrôle compétente : L'Autorité de
 
 chargée du contrôle de la banque, située 4, Place de Budapest 75436 Paris Cedex 09.
 
-107
+109
 
 
 
@@ -26316,7 +27004,7 @@ Désigne le numéro de téléphone que l’Utilisateur doit communiquer à BOURS
 
 sensibles », notamment la souscription au Service Garmin Pay.
 
-108
+110
 
 
 
@@ -26456,7 +27144,7 @@ d’utilisation du Service Garmin Pay lors du processus de souscription manifest
 
 et que toutes les utilisations du Service Garmin Pay sont réputées avoir été effectuées par lui-même.
 
-109
+111
 
 
 
@@ -26608,7 +27296,7 @@ relevé que les opérations de paiement par carte réalisées par l'Utilisateur 
 
 ARTICLE 7 – MODALITÉS DE BLOCAGE DU SERVICE GARMIN PAY
 
-110
+112
 
 
 
@@ -26760,7 +27448,7 @@ SIM, de ses codes d'activation, ou code secret, de son Appareil Compatible,
 
 Portefeuille, suite à la perte, au vol ou à l'utilisation frauduleuse des Identifiants et Mot de passe liés à sa (ses) carte(s).
 
-111
+113
 
 
 
@@ -26898,7 +27586,7 @@ calendaires révolus pour exercer son droit de rétractation sans avoir à justi
 
 l'utilisation du Service avant l'expiration de ce délai de 14 jours vaut demande expresse de commencement d'exécution des
 
-112
+114
 
 
 
@@ -26938,7 +27626,7 @@ français. Coordonnées de l'autorité de contrôle compétente : L'Autorité de
 
 chargée du contrôle de la banque, située 4, Place de Budapest 75436 Paris Cedex 09.
 
-113
+115
 
 
 
@@ -27076,7 +27764,7 @@ dernier alinéa du 8 du II de l'article 150-0 A du code général des impôts, d
 
 les produits du fonds, de la société ou de l'entité et attribués en fonction de la qualité de la personne ;
 
-114
+116
 
 
 
@@ -27214,7 +27902,7 @@ Le gain retiré de la cession ou de l'apport d'une créance qui trouve son origi
 
 prix visée au premier alinéa est imposé dans les mêmes conditions au titre de l'année de la cession ou de l'apport.
 
-115
+117
 
 
 
@@ -27358,7 +28046,7 @@ sociétés de capital-risque, ou des sociétés qui réalisent des prestations d
 
 sociétés de capital-risque, lors de la cession ou du rachat de parts de fonds communs de placement à risques ou de fonds
 
-116
+118
 
 
 
@@ -27502,7 +28190,7 @@ mandat social ;
 
 laquelle le bénéficiaire était fiscalement domicilié hors de France ou conformément aux termes et conditions fixés par le
 
-117
+119
 
 
 
@@ -27642,7 +28330,7 @@ portant sur ces actions ou parts, ou de titres représentatifs de ces mêmes act
 
 A, ainsi que les distributions mentionnées aux 7,7 bis et aux deux derniers alinéas du 8 du II du même article, à l'article 150-0
 
-118
+120
 
 
 
@@ -27784,7 +28472,7 @@ date de la cession ;
 
 3° 85 % de leur montant lorsque les actions, parts ou droits sont détenus depuis au moins huit ans à la date de la cession.
 
-119
+121
 
 
 
@@ -27926,7 +28614,7 @@ a) Lorsque les actions, parts, droits ou titres ont été acquis ou souscrits pa
 
 souscription de ces actions, parts, droits ou titres par la fiducie ;
 
-120
+122
 
 
 
@@ -28070,7 +28758,7 @@ but à titre onéreux, augmenté, s'il y a lieu, de la somme versée par le sous
 
 contribuable peut retenir, comme prix d'acquisition, le cours au comptant le plus élevé de l'année 1978.
 
-121
+123
 
 
 
@@ -28216,7 +28904,7 @@ dans les conditions mentionnées au 11, l'année au cours de laquelle intervient
 
 exécution d'un plan de redressement mentionné à l'article L. 631-19 du code de commerce, soit la cession de l'entreprise
 
-122
+124
 
 
 
@@ -28352,7 +29040,7 @@ a. Leur nature est en relation directe avec l'investissement financé ;
 
 b. Leur montant sur la durée de vie de l'emprunt n'excède pas 5 % du prix d'émission.
 
-123
+125
 
 
 
@@ -28494,7 +29182,7 @@ conditions et limites prévues à l'article L. 221-27 du code monétaire et fina
 
 9° quinquies (Abrogé).
 
-124
+126
 
 
 
@@ -28632,7 +29320,7 @@ intermédiaires.
 
 23° (Abrogé).
 
-125
+127
 
 
 
@@ -28782,7 +29470,7 @@ comme suit :
 
 déterminé conformément au A du IV de l'article 10 de la loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013 ;
 
-126
+128
 
 
 
@@ -28916,7 +29604,7 @@ est passible d'une amende fiscale égale à 2 % du montant des versements surnum
 
 \* \*
 
-127
+129
 
 
 
@@ -29056,7 +29744,7 @@ c) De parts ou actions d'organismes de placement collectif en valeurs mobilière
 
 européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une
 
-128
+130
 
 
 
