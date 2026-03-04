@@ -5,7 +5,7 @@ Politique d'Airbnb en matière de cookies
 
 ==============================================
 
-Dernière mise à jour : 25 février 2026
+Dernière mise à jour : 3 mars 2026
 
 Airbnb utilise des cookies, des identificateurs de services mobiles, des URL de suivi, des journaux de données, des SDK, des API et des technologies similaires (collectivement, les « Technologies ») pour aider à fournir, protéger et améliorer la Plateforme Airbnb. Cette Politique en matière de cookies (« Politique ») vient compléter la [Politique de confidentialité](https://www.airbnb.fr/terms/privacy_policy) d'Airbnb et explique comment et pourquoi nous utilisons ces Technologies ainsi que les choix dont vous disposez.
 
@@ -124,12 +124,7 @@ Pour les appareils Android :
 
 Pour en savoir plus, consultez les instructions du fabricant de votre appareil.
 
-12\. MODIFICATIONS DE LA PRÉSENTE POLITIQUE RELATIVE AUX COOKIES
-----------------------------------------------------------------
-
-Nous examinons régulièrement notre utilisation des Technologies et modifions la présente Politique en matière de cookies afin de refléter les mises à jour de nos pratiques.
-
-13\. NOUS CONTACTER
+12\. NOUS CONTACTER
 -------------------
 
 Pour toute question concernant la présente Politique en matière de cookies ou les pratiques d'Airbnb en matière de confidentialité, veuillez nous envoyer un e-mail à l'adresse [dpo@airbnb.com](mailto:dpo@airbnb.com) ou nous contacter comme indiqué dans notre Politique de confidentialité.
