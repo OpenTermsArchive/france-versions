@@ -402,11 +402,19 @@ Le cas échéant, lorsqu'il s'agit d'un billet acheté auprès d'Air Corsica, le
 
 Il est précisé que ces frais ne s'appliquent pas pour les billets réservés au tarif résident, ces billets étant remboursables sans frais supplémentaires, en application des obligations de service public, si la demande d'annulation est réalisée au plus tard deux heures avant le vol. Si l'annulation est réclamée moins de deux heures avant le vol, le passager s'expose au paiement d'un supplément tarifaire forfaitaire équivalent au prix d'achat du coupon modifié hors taxes.
 
-                **Annulation le jour du départ ou dans les 24 heures** **suivant l’achat** (mesure commerciale)  
-                A titre strictement commercial, AIR CORSICA peut accorder le remboursement d’un billet non remboursable en cas d’annulation effectuée **le jour de l’achat** ou dans **les vingt-quatre (24) heures** suivant l’achat. Dans ce cadre, une pénalité forfaitaire, déduite du   montant remboursé, est appliquée comme suit :
+                **Annulation le jour de l'achat ou dans les 24 heures** **suivant l’achat** (mesure commerciale)  
+                A titre strictement commercial, AIR CORSICA peut accorder le remboursement d’un billet non remboursable en cas d’annulation effectuée **le jour de l’achat** ou dans **les vingt-quatre (24) heures** suivant l’achat. Dans ce cadre, des frais de service déduits du   montant remboursé, sont appliqués comme suit :
 
 *   30 € pour tout billet d’un montant inférieur ou égal à 200 €,
 *   50 € pour tout billet d’un montant supérieur à 200 €.
+
+Billets au Tarif résident : 
+
+Les billets réservés au tarif résident sont remboursables et modifiables sans frais supplémentaires, en application des obligations de service public, si la demande d'annulation ou de modification est réalisée au plus tard deux heures avant le vol.
+
+Si l'annulation ou la modification du vol est réclamée **moins de deux heures** avant le vol, le passager s'expose au paiement de frais administratifs d'un montant **équivalent au prix d'achat du coupon non utilisé** ou modifié hors taxes. Ces frais administratifs seront déduits du montant remboursé ou devront être payés avant toute modification de la réservation.
+
+Il est rappelé que l’utilisation d’un seul coupon de vol (aller ou retour) n'est pas autorisée. Par conséquent, l'annulation ne peut porter que sur les deux coupons de vol aller et retour. En cas d'utilisation d'un seul coupon de vol, le passager devra s'acquitter du supplément tarifaire forfaitaire mentionné à l'article 6.5 des CGT pour la partie du voyage effectivement réalisée.
 
 **5.9. Itinéraire**
 
@@ -436,10 +444,16 @@ Nous nous efforcerons de satisfaire vos demandes d'attribution de siège. Toutef
 
 **(b)** Si, au cours de votre voyage, vous utilisez les services de plusieurs Transporteurs, vous devrez vérifier auprès de chacun d'eux si des reconfirmations sont nécessaires. Dans ce cas, le Transporteur auprès duquel la reconfirmation doit être faite est celui dont le Code de Désignation apparaît sur le Coupon de Vol.
 
-**6.5. Ordre d’utilisation des coupons de vol**
+**6.5. Ordre d’utilisation des coupons de vol et traitement des no-show** 
 
 *   (a) Le tarif TTC applicable au billet, calculé en fonction des données, des dates de vols et du parcours indiqué sur le billet, correspond à un point de départ et un point de destination, en tenant compte de toute escale intermédiaire prévue lors de l'achat du billet, et fait partie intégrante du contrat de transport. Le tarif appliqué à la date d’émission du billet est valable uniquement si le billet est utilisé dans son intégralité, en respectant l'ordre et les dates du parcours réservé, c'est-à-dire l'ordre séquentiel des coupons de vol.
-*   (b) Toute utilisation non conforme du billet par le passager, comme par exemple l’utilisation du coupon retour, avant l’utilisation du coupon aller, entraînera l'application d'un supplément tarifaire forfaitaire de cent euros (100 €) à payer au moment de l’enregistrement du deuxième coupon de vol
+*   (b) Toute utilisation non conforme du billet par le passager, comme par exemple l’utilisation du coupon retour, sans utilisation du coupon aller, entraînera l'application d'un **supplément tarifaire forfaitaire de cent euros (100 €).**
+    
+    **Si le vol aller n’a pas été utilisé et que le passager se présente au vol retour :** le passager pourra soit (i) utiliser le vol retour uniquement après paiement du supplément tarifaire forfaitaire de cent euros (100 €) pour la partie du voyage effectivement réalisée, soit, à défaut, (ii) procéder à l'achat d'un nouveau billet pour le transport restant à effectuer.
+    
+    **Si le vol retour n’a pas été utilisé alors que le passager s'est présenté au vol aller :** le passager devra s'acquitter du paiement d'un supplément tarifaire forfaitaire de cent euros (100 €) pour la partie du voyage effectivement réalisée. Le paiement devra être effectué dans les vingt-quatre (24) heures suivant la date du vol retour pour lequel le passager ne s'est pas présenté.
+    
+*   (c) **En cas de non-présentation du passager à l'enregistrement**, ce dernier aura droit au remboursement des taxes d’aéroport et de la redevance passager, conformément à l'article L.224-66 du Code de la consommation, quel que soit le tarif applicable au billet. Le passager pourra demander le **remboursement des taxes et redevances aéroportuaires de son billet inutilisé** en formulant une demande sur notre site internet  [Contact | Air Corsica](https://www.aircorsica.com/la-compagnie/nous-contacter.html)
 
 **Tarif résident Corse**
 
