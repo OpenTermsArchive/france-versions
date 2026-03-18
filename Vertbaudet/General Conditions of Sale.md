@@ -28,10 +28,11 @@ La société Vertbaudet exploite, sous la marque et l'enseigne Vertbaudet, une a
 *   [10. Environnement](#environnement)
 
 *   [11. Données personnelles](#donnees-nominatives)
-*   [12. Propriété intellectuelle](#propriete-intellectuelle)
-*   [13. Intégralité](#integralite)
-*   [14. Responsabilité](#responsabilite)
-*   [15. Règlement des litiges](#reglement-litiges)
+*   [12. Contenus générés par Intelligence Artificielle](#intelligence-artificielle)
+*   [13. Propriété intellectuelle](#propriete-intellectuelle)
+*   [14. Intégralité](#integralite)
+*   [15. Responsabilité](#responsabilite)
+*   [16. Règlement des litiges](#reglement-litiges)
 
 Préambule
 ---------
@@ -198,11 +199,13 @@ signalé par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volum
 | --- |
 | Livré en Points Relais® |
 | Livré à domicile |
+| Livraison à domicile Express |
 
 |     |
 | --- |
 | Gratuit dès 49€ d’achats  <br>Sinon 4,99€ |
 | Gratuit dès 79€ d’achats  <br>Sinon 6,99€ |
+| A partir de 5,99€ |
 
 Produit très encombrant  
 signalé par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)  
@@ -220,7 +223,7 @@ signalé par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volum
 | A partir de 49,99€ |
 | A partir de 19,99€ |
 
-**Tarif en vigueur au 04/11/2025, susceptible de modification.**
+**Tarif en vigueur au 15/12/2025, susceptible de modification.**
 
 6\. Remboursement - Retour (droit de rétractation)
 --------------------------------------------------
@@ -309,7 +312,8 @@ En transmettant à Vertbaudet la personnalisation textuelle à ajouter sur l'art
 
 En outre, vous vous engagez à ne pas demander la personnalisation de l'article par l’apposition de termes pornographiques, pédophiles, violents, obscènes, diffamatoires ou de nature à porter atteinte à la dignité humaine.
 
-Vertbaudet se réserve le droit de refuser toute demande de personnalisation contraire au présent article. En tout état de cause, toute violation aux droits de tiers ou aux dispositions éthiques susmentionnées engagera votre responsabilité exclusive ; Vertbaudet se dégageant de toute responsabilité à cet égard.
+Vertbaudet se réserve le droit de refuser toute demande de personnalisation contraire au présent article ou pour motif légitime reposant sur le respect de la loi, la prévention de troubles à l'ordre public, ou la conformité aux valeurs de l'entreprise et la préservation de son image.  
+En tout état de cause, toute violation aux droits de tiers ou aux dispositions éthiques susmentionnées engagera votre responsabilité exclusive ; Vertbaudet se dégageant de toute responsabilité à cet égard.
 
 Enfin, il vous est précisé que Vertbaudet n’effectue aucun contrôle quant à l’orthographe et la grammaire du texte transmis par vos soins.
 
@@ -464,7 +468,19 @@ Vous êtes invité à vous reporter à l'onglet ["Protection de la Vie Privée &
 
 L'acceptation des CGV emporte acceptation des termes de la politique de ["Protection de la Vie Privée & Cookies"](https://www.vertbaudet.fr/page/vie-privee.htm).
 
-12\. Propriété intellectuelle
+12\. Contenus générés par Intelligence Artificielle
+---------------------------------------------------
+
+1\. Certains contenus (images, vidéos, textes ou autres éléments multimédias) présents sur ce site peuvent être générés ou modifiés à l’aide de systèmes d’intelligence artificielle.  
+  
+2\. L’utilisateur est informé que ces contenus peuvent représenter des personnes, objets ou situations fictifs et que toute ressemblance avec des personnes réelles est fortuite ou encadrée par des autorisations légales.  
+  
+3\. L’utilisateur reconnaît que les contenus générés par IA sont mis à disposition à titre informatif, promotionnel ou marketing.  
+  
+4\. L’utilisation de ces contenus par le site se fait dans le respect des dispositions légales relatives à la propriété intellectuelle, au droit à l’image et à la protection des données personnelles.  
+  
+
+13\. Propriété intellectuelle
 -----------------------------
 
 Tous les éléments du Site, qu'ils soient visuels ou sonores, y compris la technologie sous-jacente, sont protégés par le droit d'auteur, des marques ou des brevets. De même, les marques, logos, dessins et modèles figurant sur le Site sont la propriété exclusive de Vertbaudet. Leur divulgation ne saurait en aucun cas être interprétée comme accordant une licence ou un droit d'utilisation quelconque des dites marques et éléments distinctifs protégés par le droit d'auteur. Ils ne peuvent donc être utilisés sous peine de contrefaçon
@@ -477,12 +493,12 @@ Si vous disposez d'un site à titre personnel et que vous désirez placer, pour 
 
 En revanche, tout lien hypertexte renvoyant au Site et utilisant la technique du framing ou du in-line linking est formellement interdit. Dans tous les cas, tout lien, même tacitement autorisé, devra être retiré sur simple demande de Vertbaudet.
 
-13\. Intégralité
+14\. Intégralité
 ----------------
 
 Dans l'hypothèse où l'une des clauses des CGV serait nulle et non avenue par un changement de législation, de réglementation ou par une décision de justice, cela ne saurait en aucun cas affecter la validité et le respect des présentes CGV.
 
-14\. Responsabilité
+15\. Responsabilité
 -------------------
 
 Vertbaudet a pour toutes les étapes de prise de commande ainsi que pour les étapes postérieures à la conclusion du contrat de vente une obligation de résultat.
@@ -493,10 +509,10 @@ Vertbaudet ne pourra voir sa responsabilité engagée pour les inconvénients et
 
 Le Site est conforme à la législation française, et en aucun cas, Vertbaudet ne donne de garantie de conformité à la législation locale qui vous serait applicable, dès lors que vous accédez au Site à partir d'autres pays.
 
-15\. Règlement des litiges
+16\. Règlement des litiges
 --------------------------
 
-### 15.1 Médiation
+### 16.1 Médiation
 
 Pour toute réclamation relative à votre commande d’un Produit vendu et expédié par VERTBAUDET, merci de nous contacter par téléphone au 03.20.760.760 (coût d’un appel local depuis un poste fixe), par email [ici](https://www.vertbaudet.fr/contact.htm) ou par courrier Vertbaudet - Service Clientèle – 36, avenue Alfred Lefrançois – 59200 Tourcoing
 
@@ -510,7 +526,7 @@ Vous pouvez recourir au service de médiation pour les litiges de consommation l
 
 Concernant les autres produits achetés via la Marketplace, merci de contacter le vendeur concerné.
 
-### 15.2 Loi Applicable et compétence juridictionnelle
+### 16.2 Loi Applicable et compétence juridictionnelle
 
 A défaut de solution amiable, toute action judiciaire sera portée devant les tribunaux compétents du lieu du domicile du défendeur.
 
