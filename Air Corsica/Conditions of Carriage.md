@@ -426,49 +426,77 @@ Les Tarifs, taxes, frais et redevances sont payables dans la monnaie du pays où
 
 ### Article 6 - Réservation
 
+**Article 6 – Réservation**     _Article mis à jour le 17/03/2026_
+
 **6.1. Exigences liées à la réservation**
 
-Nous ou notre Agent Accrédité enregistrerons votre réservation et sommes en mesure de vous fournir sans délai une confirmation écrite (en sachant que la réservation sur notre site n’est autorisée que si elle est suivie d’un achat cf. Conditions Générales de Vente de Air Corsica, article10). Certains Tarifs peuvent être soumis à des conditions qui limitent ou excluent la possibilité de changer ou d'annuler ses réservations.
+Nous ou notre Agent Accrédité enregistrerons votre réservation et sommes en mesure de vous fournir sans délai une confirmation écrite (étant précisé que la réservation sur notre site n’est autorisée que si elle est suivie d’un achat, conformément aux Conditions Générales de Vente Air Corsica, article 10).
+
+Certains Tarifs peuvent être soumis à des conditions qui limitent ou excluent la possibilité de modifier ou d’annuler une réservation.
 
 **6.2. Renseignements personnels**
 
-Vous reconnaissez nous avoir transmis des renseignements personnels vous concernant, dans le but d'effectuer une réservation et d'acheter un Billet, d'obtenir des services annexes ou des prestations diverses, de nous faciliter l'accomplissement des formalités administratives relatives à l'immigration et à l'entrée sur le territoire, et que ces renseignements peuvent être communiqués à des autorités gouvernementales, dans le cadre exclusif de votre voyage, et dans les limites du droit respectivement applicable. Vous nous autorisez, pour les buts mentionnés ci-dessus, à détenir de telles informations et à les transmettre à nos propres agences, à nos Agents Accrédités, aux autorités gouvernementales, aux Transporteurs, aux prestataires des services ci-dessus mentionnés quels que soient l'Etat ou le territoire où ils sont situés, et ce toujours dans le droit respectivement applicable.
+Vous reconnaissez nous avoir transmis des renseignements personnels vous concernant, dans le but d'effectuer une réservation et d'acheter un Billet, d'obtenir des services annexes ou des prestations diverses, de faciliter l'accomplissement des formalités administratives relatives à l'immigration et à l'entrée sur le territoire.
+
+Ces renseignements peuvent être communiqués à des autorités gouvernementales dans le cadre exclusif de votre voyage, et dans les limites du droit applicable.
+
+Vous nous autorisez, pour les finalités mentionnées ci-dessus, à conserver ces informations et à les transmettre à nos agences, à nos Agents Accrédités, aux autorités gouvernementales, aux Transporteurs, ainsi qu’aux prestataires concernés, quels que soient l’État ou le territoire où ils sont situés, dans le respect du droit applicable.
 
 **6.3. Attribution des sièges**
 
-Nous nous efforcerons de satisfaire vos demandes d'attribution de siège. Toutefois, nous ne pouvons garantir l'attribution d'un siège donné, même si votre réservation est confirmée pour le dit siège, sauf en ce qui concerne la classe réservée. Vous nous autorisez cependant à modifier l’attribution de sièges à tout moment si cela s’avère nécessaire en raison d’impératifs liés à l'exploitation, à la sécurité ou à la sûreté.
+Nous nous efforcerons de satisfaire vos demandes d'attribution de siège. Toutefois, nous ne pouvons garantir l'attribution d'un siège donné, même si votre réservation mentionne ce siège, sous réserve de la classe réservée.
+
+Vous nous autorisez à modifier l’attribution des sièges à tout moment si cela s’avère nécessaire pour des raisons liées à l'exploitation, à la sécurité ou à la sûreté.
 
 **6.4. Reconfirmation des réservations**
 
-**(a)** Les réservations pour un vol en continuation ou de retour peuvent être soumises à re - confirmation, dans certains cas. Nous indiquerons au passager lors de l’achat du Billet, dans quel cas ce dernier devra procéder à la reconfirmation de son vol. En cas de non reconfirmation de sa part, nous pourrons annuler ses réservations pour les vols en continuation et/ou de retour. Toutefois, si le Passager nous indique qu’il souhaite poursuivre son voyage, et dans la mesure où des places sont disponibles sur le vol concerné, nous rétablirons sa réservation, et le transporterons. S'il n'y a pas de place sur ce vol, nous nous efforcerons de le transporter jusqu'à un prochain aéroport ou jusqu'à sa destination finale.
+(a) Les réservations pour un vol en continuation ou de retour peuvent être soumises à reconfirmation dans certains cas. Nous indiquerons au passager lors de l’achat du Billet si une reconfirmation est requise.
 
-**(b)** Si, au cours de votre voyage, vous utilisez les services de plusieurs Transporteurs, vous devrez vérifier auprès de chacun d'eux si des reconfirmations sont nécessaires. Dans ce cas, le Transporteur auprès duquel la reconfirmation doit être faite est celui dont le Code de Désignation apparaît sur le Coupon de Vol.
+En cas de non-reconfirmation, nous pourrons annuler les réservations pour les vols en continuation et/ou de retour. Toutefois, si le Passager nous indique qu’il souhaite poursuivre son voyage et dans la mesure où des places sont disponibles, nous rétablirons sa réservation et assurerons son transport. À défaut de disponibilité, nous nous efforcerons de le transporter jusqu'à un prochain aéroport ou jusqu'à sa destination finale.
 
-**6.5. Ordre d’utilisation des coupons de vol et traitement des no-show** 
+(b) Si, au cours de votre voyage, vous utilisez les services de plusieurs Transporteurs, vous devez vérifier auprès de chacun d'eux si des reconfirmations sont nécessaires. Le Transporteur auprès duquel la reconfirmation doit être effectuée est celui dont le Code de Désignation apparaît sur le Coupon de Vol.
 
-*   (a) Le tarif TTC applicable au billet, calculé en fonction des données, des dates de vols et du parcours indiqué sur le billet, correspond à un point de départ et un point de destination, en tenant compte de toute escale intermédiaire prévue lors de l'achat du billet, et fait partie intégrante du contrat de transport. Le tarif appliqué à la date d’émission du billet est valable uniquement si le billet est utilisé dans son intégralité, en respectant l'ordre et les dates du parcours réservé, c'est-à-dire l'ordre séquentiel des coupons de vol.
-*   (b) Toute utilisation non conforme du billet par le passager, comme par exemple l’utilisation du coupon retour, sans utilisation du coupon aller, entraînera l'application d'un **supplément tarifaire forfaitaire de cent euros (100 €).**
-    
-    **Si le vol aller n’a pas été utilisé et que le passager se présente au vol retour :** le passager pourra soit (i) utiliser le vol retour uniquement après paiement du supplément tarifaire forfaitaire de cent euros (100 €) pour la partie du voyage effectivement réalisée, soit, à défaut, (ii) procéder à l'achat d'un nouveau billet pour le transport restant à effectuer.
-    
-    **Si le vol retour n’a pas été utilisé alors que le passager s'est présenté au vol aller :** le passager devra s'acquitter du paiement d'un supplément tarifaire forfaitaire de cent euros (100 €) pour la partie du voyage effectivement réalisée. Le paiement devra être effectué dans les vingt-quatre (24) heures suivant la date du vol retour pour lequel le passager ne s'est pas présenté.
-    
-*   (c) **En cas de non-présentation du passager à l'enregistrement**, ce dernier aura droit au remboursement des taxes d’aéroport et de la redevance passager, conformément à l'article L.224-66 du Code de la consommation, quel que soit le tarif applicable au billet. Le passager pourra demander le **remboursement des taxes et redevances aéroportuaires de son billet inutilisé** en formulant une demande sur notre site internet  [Contact | Air Corsica](https://www.aircorsica.com/la-compagnie/nous-contacter.html)
+**6.5. Ordre d’utilisation des coupons de vol et traitement des no-show**
 
-**Tarif résident Corse**
+Les dispositions du présent article s’appliquent à l’ensemble des billets, sauf dispositions spécifiques applicables au tarif résident corse définies au paragraphe 6.5 (d).
+
+(a) Ordre d’utilisation des coupons de vol
+
+Le tarif TTC applicable au billet, calculé en fonction des données, des dates de vols et du parcours indiqué sur le billet, correspond à un point de départ et un point de destination, en tenant compte de toute escale intermédiaire prévue lors de l'achat du billet, et fait partie intégrante du contrat de transport.
+
+Le tarif appliqué à la date d’émission du billet est valable uniquement si le billet est utilisé dans son intégralité, en respectant l'ordre et les dates du parcours réservé, c'est-à-dire l'ordre séquentiel des coupons de vol.
+
+(b) Utilisation non conforme du billet
+
+Toute utilisation non conforme du billet par le passager, notamment l’utilisation du coupon retour sans utilisation du coupon aller, entraînera l'application d'un supplément tarifaire forfaitaire de cent euros (100 €).
+
+Si le vol aller n’a pas été utilisé et que le passager se présente au vol retour, le passager pourra soit utiliser le vol retour uniquement après paiement du supplément tarifaire forfaitaire de cent euros (100 €), soit, à défaut, procéder à l'achat d'un nouveau billet pour le transport restant à effectuer.
+
+Si le vol retour n’a pas été utilisé alors que le passager s'est présenté au vol aller, le passager devra s'acquitter du paiement d'un supplément tarifaire forfaitaire de cent euros (100 €) pour la partie du voyage effectivement réalisée. Le paiement devra être effectué dans les vingt-quatre (24) heures suivant la date du vol retour pour lequel le passager ne s'est pas présenté.
+
+(c) Remboursement en cas de non-présentation (no-show)
+
+En cas de non-présentation du passager à l'enregistrement, ce dernier a droit au remboursement des taxes d’aéroport et de la redevance passager, conformément à l'article L.224-66 du Code de la consommation, quel que soit le tarif applicable au billet.
+
+Le passager peut demander le remboursement des taxes et redevances aéroportuaires de son billet inutilisé en formulant une demande sur notre site internet.
+
+(d) Dispositions spécifiques au tarif résident corse
 
 Pour les billets réservés au tarif résident corse :
 
-*   **Annulation intégrale :** Les passagers souhaitant annuler leur voyage doivent informer le transporteur au moins deux (2) heures avant l’heure de départ du vol aller.
-*   **Modification :** Les passagers souhaitant modifier une partie de leur voyage doivent informer le transporteur au moins deux (2) heures avant le départ du vol concerné.  
-    Si l'information préalable n'est pas communiquée au moins 2 heures avant le départ du vol, le passager s'expose à un supplément tarifaire forfaitaire équivalant au prix d'achat du coupon non utilisé hors taxes, en raison du non-respect de l'ordre séquentiel des coupons.
+Annulation intégrale : Les passagers souhaitant annuler leur voyage doivent informer le transporteur au moins deux (2) heures avant l’heure de départ du vol aller.
 
-**Traitement des no-show**
+Modification : Les passagers souhaitant modifier une partie de leur voyage doivent informer le transporteur au moins deux (2) heures avant le départ du vol concerné.
 
-*   (d) En cas de non-présentation du passager à l'enregistrement, ce dernier aura droit au remboursement des taxes d’aéroport et de la redevance passager, conformément à l'article L.224-66 du Code de la consommation, quel que soit le tarif applicable au billet.  
-    Pour les billets réservés au tarif résident corse, l’utilisation d’un seul coupon de vol n'est pas autorisée.
-*   **Si le vol aller n’a pas été utilisé** : le passager pourra utiliser le vol retour uniquement après réajustement du tarif au tarif non-résident sur un aller simple. Sinon il aura la possibilité d’acheter un nouveau billet en aller simple.Le passager obtiendra le remboursement des taxes et redevances aéroportuaires de son billet résident initial inutilisé sur le vol aller en formulant une demande sur notre site internet [Contact | Air Corsica](https://www.aircorsica.com/la-compagnie/nous-contacter.html)
-*   **Si le vol retour n’a pas été utilisé :** Le remboursement des taxes et redevances aéroportuaires du vol retour pourra être effectué uniquement après réajustement à un tarif non-résident pour le vol aller simple effectué.
+Si l'information préalable n'est pas communiquée au moins deux (2) heures avant le départ du vol, le passager s'expose à un supplément tarifaire forfaitaire équivalant au prix d'achat du coupon non utilisé hors taxes.
+
+Pour les billets réservés au tarif résident corse, l’utilisation d’un seul coupon de vol n’est pas autorisée.
+
+En cas de non-respect de l’ordre séquentiel des coupons de vol :
+
+Si le vol aller n’a pas été utilisé et que le passager se présente au vol retour, le passager pourra soit utiliser le vol retour uniquement après paiement du supplément tarifaire forfaitaire de cent euros (100 €), soit, à défaut, procéder à l'achat d'un nouveau billet pour le transport restant à effectuer.
+
+Si le vol retour n’a pas été utilisé alors que le passager s'est présenté au vol aller, le passager devra s'acquitter du paiement d'un supplément tarifaire forfaitaire de cent euros (100 €) pour la partie du voyage effectivement réalisée. Le paiement devra être effectué dans les vingt-quatre (24) heures suivant la date du vol retour pour lequel le passager ne s'est pas présenté.
 
 ### Article 7 - Enregistrement / Embarquement
 
