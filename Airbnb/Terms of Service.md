@@ -1463,7 +1463,9 @@ Les frais sont répartis entre l'hôte et le voyageur.
 
 **Frais de service hôte**
 
-La plupart des hôtes paient des frais de service de 3 %. Toutefois, certains hôtes, notamment ceux qui proposent des logements en Italie et au Brésil, paient plus. Pour les hôtes de logements au Brésil, les frais s'élèvent à 4 %. Pour calculer le versement de l'hôte, les frais sont automatiquement déduits du prix total (les frais de service comprennent un pourcentage du prix par nuit et les [frais facturés par l'hôte](https://www.airbnb.fr/help/article/2827), mais ne comprennent pas les taxes et les frais de service voyageur).
+La plupart des hôtes paient des frais de service de 3 %. Toutefois, certains hôtes, notamment ceux qui ont des annonces en Italie et au Brésil, paient plus. Au Brésil, les frais s'élèvent à 4 % pour les hôtes. Pour calculer le versement de l'hôte, les frais sont automatiquement déduits du prix total (les frais de service comprennent un pourcentage du prix par nuit et les [frais facturés par l'hôte](https://www.airbnb.fr/help/article/2827), mais ne comprennent pas les taxes et les frais de service voyageur).
+
+À compter de juin 2026, les hôtes qui ont des annonces au Mexique paieront des frais de 4 %.
 
 La structure de tarification avec partage des frais ne sera plus disponible pour certains hôtes. Ces derniers passeront à la structure à frais uniques. Pour aider les hôtes qui n'utilisent pas de logiciel de gestion locative à modifier leurs prix lorsqu'ils passent de la structure avec partage des frais à celle à frais uniques, nous avons créé un nouvel outil d'ajustement des prix dans l'application. [En savoir plus sur le fonctionnement de l'outil d'ajustement des prix](https://www.airbnb.fr/help/article/4095)
 
@@ -1490,16 +1492,18 @@ Concernant les réservations payées dans une autre devise que celle fixée par 
 2\. Frais uniques
 -----------------
 
-Dans ce cas, la totalité des frais est déduite du versement de l'hôte. La plupart des hôtes paient 15,5 %, les autres hôtes paient généralement entre 14 et 16 %, et ceux du Brésil paient 16 % de frais.  
+Dans ce cas, la totalité des frais est déduite du versement de l'hôte. Pour la plupart des hôtes, les frais s'élèvent à 15,5 %. En général, les autres hôtes paient entre 14 et 16 %, mais ceux qui ont une annonce au Brésil paient 16 %.
 
-Cette structure de tarification des frais est obligatoire pour les logements proposés dans des établissements d'accueil traditionnels, tels que les hôtels, les résidences de tourisme et autres, ainsi que pour les [hôtes qui utilisent un logiciel de gestion locative](https://www.airbnb.fr/help/article/2346/).
+Cette structure tarifaire est obligatoire pour certains hôtes, y compris pour les établissements d'accueil traditionnels (tels que les hôtels, les résidences de tourisme et autres), les [hôtes qui utilisent un logiciel de gestion locative](https://www.airbnb.fr/help/article/2346/) et ceux qui exercent leur activité dans un pays soumis à cette structure tarifaire.
+
+À compter de juin 2026, les hôtes paieront des frais de 16 % pour les annonces au Mexique.
 
 TVA
 ---
 
-Selon la législation en vigueur dans le territoire concerné, la [TVA](https://www.airbnb.fr/help/article/436) peut être appliquée aux frais ci-dessus. Le cas échéant, les frais de service incluent la TVA.
+Selon la législation en vigueur dans le territoire concerné, la [TVA](https://www.airbnb.fr/help/article/436) peut être appliquée aux frais ci-dessus. Les frais de service indiqués aux hôtes et aux voyageurs incluent la TVA, le cas échéant.
 
-Nous nous réservons le droit de modifier nos frais de service à tout moment, et toute modification sera effectuée conformément à nos Conditions de service.
+Nous nous réservons le droit de modifier nos frais de service à tout moment. Toute modification sera effectuée conformément à nos Conditions de service.
 
 Frais de service Airbnb pour les hôtes de service et d'expérience
 -----------------------------------------------------------------
