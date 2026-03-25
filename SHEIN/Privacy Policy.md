@@ -1,8 +1,8 @@
-Privacy Notice
+Politique de confidentialité
 
 **Note sur la traduction:**Cette traduction est fournie à titre d'information uniquement. Le texte officiel de cet avis de confidentialité est la version anglaise, disponible ici. Toute divergence ou différence créées dans la traduction ne sont pas contraignantes et n'ont aucun effet légal pour des fins de conformité ou d'exécution.
 
-Dernière mise à jour : 19 mars 2025  
+Dernière mise à jour : 25 mars 2026  
 Introduction et aperçu
 ------------------------------------------------------------
 
@@ -53,11 +53,12 @@ Conformément au Règlement général sur la protection des données (**RGPD**) 
 | *   Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
 | *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
 | Historique des achats | *   Pour vous recommander des produits que vous pourriez aimer.<br>*   Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | *   Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.<br>*   Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
-| Position de votre adresse IP | *   Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Position de votre adresse IP | *   Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée.<br>*   Pour estimer le délai de livraison | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
 | Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | *   Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
 | *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
 | Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | *   Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
 | Vos avis sur les produits, qui peuvent inclure des photos de vous. | *   Pour aider les clients envisageant d'acheter le même produit.<br>*   Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html "https://fr.shein.com/Review-Guidance-a-478.html")​. | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+| Votre image photographique et, le cas échéant, les justificatifs de votre identité.<br><br>Ces données sont traitées par un tiers et seul le résultat positif ou négatif de la vérification de l'âge est communiqué à SHEIN. | Pour procéder à une vérification de l'âge avant de vous autoriser à consulter ou à acheter certains produits, lorsque cette restriction aux adultes est exigée par le Règlement de l'UE sur les services numériques et d'autres lois nationales applicables. | Pour le respect des obligations légales. | Pendant la durée nécessaire à la réalisation du processus de vérification de l'âge, les données étant supprimées immédiatement après. |
 
 **Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.
 
@@ -208,7 +209,7 @@ Nous utilisons les outils et services suivants à ces fins : Le service de remar
 
 Si Google Ads est configuré pour collecter des données personnelles, le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.
 
-**Bing Ads**est un service opéré par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour plus d'informations sur la façon dont Microsoft traite vos informations [https://privacy.microsoft.com/en-US/](https://privacy.microsoft.com/en-US/ "https://privacy.microsoft.com/en-US/")​. Lorsque vous accédez à notre Site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. De plus, une balise de suivi d'événements universels est intégrée sur notre Site. C'est un code qui, en combinaison avec le cookie, stocke des données sur l'utilisation du Site, par exemple, le temps passé sur le Site, les zones accédées et les publicités utilisées pour atteindre le Site. De plus, Microsoft peut suivre vos modèles d'utilisation à travers plusieurs de vos appareils électroniques grâce au suivi cross-device. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données personnelles, la bannière de cookies sur nos Services vous donnera l'opportunité de consentir à Bing Ads.
+**Bing Ads** est un service opéré par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour plus d'informations sur la façon dont Microsoft traite vos informations [https://privacy.microsoft.com/en-US/](https://privacy.microsoft.com/en-US/ "https://privacy.microsoft.com/en-US/")​. Lorsque vous accédez à notre Site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. De plus, une balise de suivi d'événements universels est intégrée sur notre Site. C'est un code qui, en combinaison avec le cookie, stocke des données sur l'utilisation du Site, par exemple, le temps passé sur le Site, les zones accédées et les publicités utilisées pour atteindre le Site. De plus, Microsoft peut suivre vos modèles d'utilisation à travers plusieurs de vos appareils électroniques grâce au suivi cross-device. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données personnelles, la bannière de cookies sur nos Services vous donnera l'opportunité de consentir à Bing Ads.
 
 **Publicités Facebook**. Utilisation [des Outils commerciaux Facebook](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589 "https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589")​, nous pouvons vous montrer des publicités personnalisées en fonction de vos intérêts lorsque vous utilisez Facebook. Pour modifier vos préférences ou vous désinscrire de la personnalisation des publicités diffusées par Facebook, vous pouvez visiter les [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589 "https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589") Facebooken plus de la section Vos choix ci-dessous. Nous pouvons également montrer des publicités à des audiences partageant des caractéristiques similaires aux vôtres. À cette fin, une liste d'adresses e-mail est irréversiblement hachée, cryptée et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées avec ses utilisateurs, générant une audience similaire et supprimant la liste téléchargée. Nous n'avons pas accès à l'identité de quiconque dans l'audience "similaire", à moins qu'ils ne choisissent de cliquer sur l'une de nos publicités.
 
@@ -276,7 +277,9 @@ Vous avez le droit de vous opposer au traitement à des fins de marketing direct
 
 **5.8 Droit concernant la Prise de Décision Automatisée**
 
-Lorsqu'une décision est prise uniquement sur la base du traitement automatisé, y compris le profilage, qui a des effets juridiques vous concernant ou vous affecte de manière significative, vous serez informé du résultat et aurez la possibilité d'obtenir une intervention humaine de la part de SHEIN, d'exprimer votre point de vue et de contester la décision.
+SHEIN indique que, lorsqu'elle procède à une Vérification de l'Âge avant de vous autoriser à accéder à certains produits ou à les acheter, lorsque cette restriction aux adultes est exigée par le Règlement de l'UE sur les services numériques et d'autres lois nationales applicables, ce traitement est susceptible de constituer une Prise de Décision Automatisée. Ce traitement étant autorisé par le droit d'un État membre de l'UE, l'obligation d'offrir la possibilité d'une intervention humaine, d'exprimer votre point de vue et de contester la décision ne s'applique pas. Des informations complémentaires relatives à ce traitement vous seront communiquées avant qu'il n'ait lieu.
+
+Lorsque d'autres décisions sont prises sur la base d'un traitement automatisé exclusif, y compris le profilage, qui produit des effets juridiques vous concernant ou vous affecte de manière significative de façon analogue, vous serez informé(e) du résultat et aurez la possibilité de demander une intervention humaine de la part de SHEIN, d'exprimer votre point de vue et de contester la décision.
 
 **5.9 Exercice de vos Droits Relatifs aux Données Personnelles**
 
@@ -290,9 +293,23 @@ Vous devez être conscient que tous les droits ci-dessus sont soumis à certaine
 
 **5.10 Plaintes**
 
-Si vous pensez que nous avons enfreint ou violé vos droits à la vie privée, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html "https://fr.shein.com/Privacy-Center-a-1045.html")​afin que nous puissions tenter de résoudre tout problème à votre satisfaction. Vous avez également le droit de déposer une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées peuvent être trouvés à [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en "https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en")​)
+Si vous estimez que nous avons porté atteinte à vos droits en matière de protection de la vie privée, veuillez nous contacter via notre Centre de confidentialité dédié afin que nous puissions tenter de résoudre tout problème à votre satisfaction.
 
-En ce qui concerne vos données personnelles traitées par un vendeur tiers sur notre site et notre application en tant que contrôleur indépendant, pour exercer vos droits en vertu de la législation applicable, vous pouvez contacter directement le vendeur tiers.
+En vertu du RGPD, vous avez également le droit d'introduire une réclamation ou de soumettre une préoccupation auprès d'une Autorité de contrôle de la protection des données. L'autorité compétente pour ce type de réclamations concernant SHEIN est:
+
+The Data Protection Commission
+
+6 Pembroke Row
+
+Dublin 2
+
+D02 X963
+
+Ireland
+
+www.dataprotection.ie
+
+En ce qui concerne vos données personnelles traitées par un vendeur tiers sur notre Site et notre Application en tant que responsable du traitement indépendant, pour exercer vos droits en vertu de la législation applicable, vous pouvez contacter directement ce vendeur tiers.
 
 6\. Conservation
 ----------------
@@ -351,11 +368,11 @@ Irlande,
 
 Email: [privacy@sheingroup.com](mailto:privacy@sheingroup.com "mailto:privacy@sheingroup.com")​
 
-Privacy Notice
+Politique de confidentialité
 
 **Note sur la traduction:**Cette traduction est fournie à titre d'information uniquement. Le texte officiel de cet avis de confidentialité est la version anglaise, disponible ici. Toute divergence ou différence créées dans la traduction ne sont pas contraignantes et n'ont aucun effet légal pour des fins de conformité ou d'exécution.
 
-Dernière mise à jour : 19 mars 2025  
+Dernière mise à jour : 25 mars 2026  
 Introduction et aperçu
 ------------------------------------------------------------
 
@@ -406,11 +423,12 @@ Conformément au Règlement général sur la protection des données (**RGPD**) 
 | *   Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
 | *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
 | Historique des achats | *   Pour vous recommander des produits que vous pourriez aimer.<br>*   Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | *   Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.<br>*   Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
-| Position de votre adresse IP | *   Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Position de votre adresse IP | *   Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée.<br>*   Pour estimer le délai de livraison | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
 | Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | *   Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
 | *   Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
 | Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | *   Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
 | Vos avis sur les produits, qui peuvent inclure des photos de vous. | *   Pour aider les clients envisageant d'acheter le même produit.<br>*   Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html "https://fr.shein.com/Review-Guidance-a-478.html")​. | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+| Votre image photographique et, le cas échéant, les justificatifs de votre identité.<br><br>Ces données sont traitées par un tiers et seul le résultat positif ou négatif de la vérification de l'âge est communiqué à SHEIN. | Pour procéder à une vérification de l'âge avant de vous autoriser à consulter ou à acheter certains produits, lorsque cette restriction aux adultes est exigée par le Règlement de l'UE sur les services numériques et d'autres lois nationales applicables. | Pour le respect des obligations légales. | Pendant la durée nécessaire à la réalisation du processus de vérification de l'âge, les données étant supprimées immédiatement après. |
 
 **Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.
 
@@ -561,7 +579,7 @@ Nous utilisons les outils et services suivants à ces fins : Le service de remar
 
 Si Google Ads est configuré pour collecter des données personnelles, le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.
 
-**Bing Ads**est un service opéré par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour plus d'informations sur la façon dont Microsoft traite vos informations [https://privacy.microsoft.com/en-US/](https://privacy.microsoft.com/en-US/ "https://privacy.microsoft.com/en-US/")​. Lorsque vous accédez à notre Site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. De plus, une balise de suivi d'événements universels est intégrée sur notre Site. C'est un code qui, en combinaison avec le cookie, stocke des données sur l'utilisation du Site, par exemple, le temps passé sur le Site, les zones accédées et les publicités utilisées pour atteindre le Site. De plus, Microsoft peut suivre vos modèles d'utilisation à travers plusieurs de vos appareils électroniques grâce au suivi cross-device. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données personnelles, la bannière de cookies sur nos Services vous donnera l'opportunité de consentir à Bing Ads.
+**Bing Ads** est un service opéré par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour plus d'informations sur la façon dont Microsoft traite vos informations [https://privacy.microsoft.com/en-US/](https://privacy.microsoft.com/en-US/ "https://privacy.microsoft.com/en-US/")​. Lorsque vous accédez à notre Site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. De plus, une balise de suivi d'événements universels est intégrée sur notre Site. C'est un code qui, en combinaison avec le cookie, stocke des données sur l'utilisation du Site, par exemple, le temps passé sur le Site, les zones accédées et les publicités utilisées pour atteindre le Site. De plus, Microsoft peut suivre vos modèles d'utilisation à travers plusieurs de vos appareils électroniques grâce au suivi cross-device. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données personnelles, la bannière de cookies sur nos Services vous donnera l'opportunité de consentir à Bing Ads.
 
 **Publicités Facebook**. Utilisation [des Outils commerciaux Facebook](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589 "https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589")​, nous pouvons vous montrer des publicités personnalisées en fonction de vos intérêts lorsque vous utilisez Facebook. Pour modifier vos préférences ou vous désinscrire de la personnalisation des publicités diffusées par Facebook, vous pouvez visiter les [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589 "https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589") Facebooken plus de la section Vos choix ci-dessous. Nous pouvons également montrer des publicités à des audiences partageant des caractéristiques similaires aux vôtres. À cette fin, une liste d'adresses e-mail est irréversiblement hachée, cryptée et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées avec ses utilisateurs, générant une audience similaire et supprimant la liste téléchargée. Nous n'avons pas accès à l'identité de quiconque dans l'audience "similaire", à moins qu'ils ne choisissent de cliquer sur l'une de nos publicités.
 
@@ -629,7 +647,9 @@ Vous avez le droit de vous opposer au traitement à des fins de marketing direct
 
 **5.8 Droit concernant la Prise de Décision Automatisée**
 
-Lorsqu'une décision est prise uniquement sur la base du traitement automatisé, y compris le profilage, qui a des effets juridiques vous concernant ou vous affecte de manière significative, vous serez informé du résultat et aurez la possibilité d'obtenir une intervention humaine de la part de SHEIN, d'exprimer votre point de vue et de contester la décision.
+SHEIN indique que, lorsqu'elle procède à une Vérification de l'Âge avant de vous autoriser à accéder à certains produits ou à les acheter, lorsque cette restriction aux adultes est exigée par le Règlement de l'UE sur les services numériques et d'autres lois nationales applicables, ce traitement est susceptible de constituer une Prise de Décision Automatisée. Ce traitement étant autorisé par le droit d'un État membre de l'UE, l'obligation d'offrir la possibilité d'une intervention humaine, d'exprimer votre point de vue et de contester la décision ne s'applique pas. Des informations complémentaires relatives à ce traitement vous seront communiquées avant qu'il n'ait lieu.
+
+Lorsque d'autres décisions sont prises sur la base d'un traitement automatisé exclusif, y compris le profilage, qui produit des effets juridiques vous concernant ou vous affecte de manière significative de façon analogue, vous serez informé(e) du résultat et aurez la possibilité de demander une intervention humaine de la part de SHEIN, d'exprimer votre point de vue et de contester la décision.
 
 **5.9 Exercice de vos Droits Relatifs aux Données Personnelles**
 
@@ -643,9 +663,23 @@ Vous devez être conscient que tous les droits ci-dessus sont soumis à certaine
 
 **5.10 Plaintes**
 
-Si vous pensez que nous avons enfreint ou violé vos droits à la vie privée, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html "https://fr.shein.com/Privacy-Center-a-1045.html")​afin que nous puissions tenter de résoudre tout problème à votre satisfaction. Vous avez également le droit de déposer une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées peuvent être trouvés à [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en "https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en")​)
+Si vous estimez que nous avons porté atteinte à vos droits en matière de protection de la vie privée, veuillez nous contacter via notre Centre de confidentialité dédié afin que nous puissions tenter de résoudre tout problème à votre satisfaction.
 
-En ce qui concerne vos données personnelles traitées par un vendeur tiers sur notre site et notre application en tant que contrôleur indépendant, pour exercer vos droits en vertu de la législation applicable, vous pouvez contacter directement le vendeur tiers.
+En vertu du RGPD, vous avez également le droit d'introduire une réclamation ou de soumettre une préoccupation auprès d'une Autorité de contrôle de la protection des données. L'autorité compétente pour ce type de réclamations concernant SHEIN est:
+
+The Data Protection Commission
+
+6 Pembroke Row
+
+Dublin 2
+
+D02 X963
+
+Ireland
+
+www.dataprotection.ie
+
+En ce qui concerne vos données personnelles traitées par un vendeur tiers sur notre Site et notre Application en tant que responsable du traitement indépendant, pour exercer vos droits en vertu de la législation applicable, vous pouvez contacter directement ce vendeur tiers.
 
 6\. Conservation
 ----------------
