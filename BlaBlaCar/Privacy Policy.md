@@ -7,7 +7,7 @@ Politique de confidentialité
 
 [Conditions Générales](https://blog.blablacar.fr/about-us/terms-and-conditions/) | Politique de Confidentialité | [Utilisation des Cookies](https://blog.blablacar.fr/about-us/cookies-policy/) | [Conditions Générales Super Driver](https://blog.blablacar.fr/about-us/super-driver/)
 
-**Version applicable à compter du 17 février 2025**
+**Version applicable à compter du 25 mars 202**6
 
 1\. Généralités
 ---------------
@@ -17,6 +17,8 @@ Comuto SA (ci-après, « BlaBlaCar »),  (dont le siège social est situé au 8
 BlaBlaCar édite une plateforme de covoiturage accessible sur un site internet ou sous forme d’application mobile, destinée à (i) mettre en relation des conducteurs se rendant à une destination donnée pour leur propre compte avec des passagers allant dans la même direction afin de leur permettre de partager le trajet et donc les frais qui y sont associés, (ii) rechercher et procéder à l’achat de Billets de Bus auprès d’opérateurs de bus (les « Autocaristes ») et à (iii) rechercher et procéder à l’achat auprès de BlaBlaCar de Billets de Train des opérateurs de traint (les “Entreprises Ferroviaires”) que nous distribuons (ci-après, la « Plateforme »).
 
 Comuto SA agit en tant que responsable de traitement concernant la collecte, l’utilisation et le partage des informations que vous êtes amenés à nous fournir par le biais de la Plateforme . 
+
+Veuillez noter que le pays de réservation et le pays de trajet peuvent être différents. Certains traitements de données décrits dans la présente Politique de confidentialité ne s’appliquent que si les fonctionnalités concernées sont proposées dans le pays de trajet ou de réservation. En outre, certaines fonctionnalités, services ou offres (telles que les offres de train ou de bus) peuvent ne pas être encore disponibles dans votre pays. Lorsqu’une clause ne s’applique qu’à certains pays, la présente Politique de confidentialité l’indiquera explicitement.
 
 Dans le cas où vous achetez des Billets de Bus ou des Billets de Train, vos données personnelles seront transmises respectivement aux Autocaristes ou Entreprises FerroviairesFerrorivaires qui agissent en tant que responsables de traitements distincts. Le responsable de traitement des trajets opérés par BlaBlaCar Bus est Comuto Pro, filiale à 100% de Comuto SA, dont le siège social est situé au 84, avenue de la République – 75011 Paris. Comuto SA et/ou Comuto Pro seront désignées par la suite en tant que « BlaBlaCar », « nous » ou « notre».
 
@@ -66,7 +68,7 @@ A défaut, BlaBlaCar ne sera pas en mesure de vous fournir les services proposé
 
 **2.1.11.** Les données que nous pouvons vous demander de fournir lorsque vous nous signalez un problème relatif à notre Plateforme ou à nos services, comme par exemple l’objet de votre demande d’assistance ;
 
-**2.1.12.** Les données liées à votre localisation afin que nous puissions répondre à votre recherche de trajets proches de vous ou pour faciliter la publication d’un trajet ;
+**2.1.12.** Les données liées à votre localisation afin que nous puissions répondre à votre recherche de trajets proches de vous ou pour faciliter la publication d’un trajet ; estimer l’heure d’arrivée du conducteur avant la rencontre avec le passager ; et permettre aux passagers de suivre le conducteur sur une carte avant la rencontre avec le passager ;
 
 **2.1.13.** Une copie de votre passeport, votre carte d’identité ou tout autre document similaire que vous avez accepté de nous fournir dans le cadre de Profil Vérifié ; 
 
@@ -122,7 +124,7 @@ Nous mettons en œuvre différents traitements portant sur vos données personne
 | **3.3** vous permettre de sauvegarder les informations relatives à votre carte de paiement pour vos futures transactions sur la Plateforme **;** | Ce traitement est réalisé sur la base de votre consentement. Vous pouvez à tout moment retirer votre consentement en supprimant vos informations dans votre profil ou bien en contactant notre Service Client. |
 | **3.4** vous permettre de personnaliser votre profil sur notre Plateforme ; | Ce traitement est réalisé sur la base de votre consentement.  Vous pouvez à tout moment retirer votre consentement en supprimant vos informations personnalisées dans votre profil ou bien en contactant notre Service Client. |
 | **3.5** vous permettre de communiquer et d’échanger avec les autres membres de notre communauté ou les opérateurs de transport distribués sur la Plateforme, notamment en ce qui concerne nos services ou le(s) trajet(s) déjà effectués ou que vous prévoyez d’effectuer ; | Ce traitement est nécessaire à l’exécution de nos obligations contractuelles respectives. |
-| **3.6**  vous permettre d’utiliser les fonctionnalités interactives de nos services si vous le souhaitez, comme faire des recherches de trajets autour de vous en fonction de votre localisation ou publier des trajets selon votre localisation; | Ce traitement est nécessaire à l’exécution de nos obligations contractuelles respectives. |
+| **3.6**  vous permettre d’utiliser les fonctionnalités interactives de nos services si vous le souhaitez, comme faire des recherches de trajets autour de vous en fonction de votre localisation ou publier des trajets selon votre localisation; l’estimation de l’heure d’arrivée du conducteur avant la rencontre avec le passager ; ou encore permettre aux passagers de suivre le conducteur sur une carte avant la rencontre avec le passager; | Ce traitement est nécessaire à l’exécution de nos obligations contractuelles respectives. |
 | **La gestion du Service Client** |     |
 | **3.7** vous donner accès et vous permettre de communiquer avec notre Service Client  ; | Ce traitement est nécessaire à l’exécution de nos obligations contractuelles respectives |
 | **3.8** améliorer notre Service Client  et former nos conseillers clientèle par l’enregistrement de vos conversations téléphoniques avec nous ; | Ce traitement est fondé sur notre intérêt légitime (vous fournir un support client de qualité/améliorer notre support client). Vous pouvez vous opposer à ce traitement lors de chaque contact. |
