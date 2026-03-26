@@ -1044,7 +1044,7 @@ Les présentes conditions générales d’abonnement (ci-après, les "**CGA**") 
 *   par téléphone :
 
         \- depuis la France au 3979 (0.70 cts par minutes + prix de l'appel) ;  
-        - depuis la Belgique au 0800 58 211 (num��ro gratuit) ;   
+        - depuis la Belgique au 0800 58 211 (numéro gratuit) ;   
           - depuis l’Italie au 800 694 130 (numéro gratuit) ;  
         - depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;  
         - depuis l’Espagne au 0800 00 01 17 (numéro gratuit);  
