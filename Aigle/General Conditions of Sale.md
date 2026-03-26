@@ -211,8 +211,8 @@ Conformément au Règlement (UE) 2016/679 du 27 avril 2016 (RGPD) et à la loi �
 Ces droits peuvent être exercés par courrier électronique à l’adresse [contact@aigle.com](mailto:contact@aigle.com) ou par courrier postal à l’adresse suivante :
 
 Aigle – Service Juridique / Données personnelles  
-23-25 rue de Provence  
-75009 Paris – France
+57, BOULEVARD DE MONTMORENCY  
+75016 PARIS – France
 
 Les données du Client sont conservées pendant la durée nécessaire à la gestion de la relation commerciale et pendant trois (3) ans à compter du dernier contact ou de la dernière commande.
 
@@ -254,7 +254,7 @@ Le Client peut également recourir à la plateforme européenne de règlement en
 ARTICLE 19. INFORMATIONS LÉGALES
 --------------------------------
 
-Le Site est édité par Aigle International, société anonyme au capital de 34 004 000 euros, immatriculée au R.C.S. de Nanterre sous le numéro 314 397 712, dont le siège social est situé au 57 boulevard de Montmorency, 75016 Paris.
+Le Site est édité par Aigle International, société anonyme au capital de 20 488 340 euros, immatriculée au R.C.S. de Paris sous le numéro 314 397 712, dont le siège social est situé au 57 boulevard de Montmorency, 75016 Paris.
 
 Le Site est hébergé par Salesforce Commerce Cloud.
 
