@@ -468,7 +468,7 @@ Pour les biens comportant des éléments numériques, Amazon (ou un tiers concer
 
 Les présentes Conditions d'utilisation sont soumises au droit luxembourgeois (à l'exception de ses dispositions concernant les conflits de loi), et l'application de la Convention de Vienne sur les contrats de vente internationale de marchandises est expressément exclue. Vous, comme nous, acceptons de soumettre tous les litiges occasionnés par la relation commerciale existant entre vous et nous à la compétence non exclusive des juridictions de la ville de Luxembourg, ce qui signifie que pour l'application des présentes Conditions Générales de Vente, vous pouvez intenter une action pour faire valoir vos droits de consommateur, au Luxembourg ou dans le pays de l'Union européenne dans lequel vous résidez. Si vous êtes un consommateur et que votre résidence habituelle est située dans un pays de l'Union européenne, vous bénéficiez également de droits vous protégeant en vertu des dispositions obligatoires de la loi applicable dans votre pays de résidence.
 
-Notre entreprise adhère à la Fédération du e-commerce et de la vente à distance (FEVAD) et [au service de médiation du e-commerce](https://www.fevad.com/espace-consommateurs/les-reclamations-et-les-recours#topContent) (60 rue la Boétie, 75008 Paris) – relationconso@fevad.com.
+Notre entreprise adhère à la Fédération du e-commerce et de la vente à distance (FEVAD) et [au service de médiation du e-commerce](https://www.fevad.com/espace-consommateurs/les-reclamations-et-les-recours#topContent) (60 rue la Boétie, 75008 Paris) – mediateurduecommerce@fevad.com.
 
 Si vous souhaitez attirer notre attention sur un sujet, merci de [nous contacter](https://www.amazon.fr/contactez-nous).
 
