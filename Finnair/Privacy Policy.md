@@ -546,7 +546,7 @@ Nous obtenons vos données à caractère personnel lorsque :
 
 *   Vous interagissez avec notre site Web et l’application Finnair.
 *   Vous achetez un billet d’avion ou d’autres services et utilisez ces services chez nous.
-*   Vous adhérez au programme Finnair Plus et achetez et utilisez nos services en tant qu’adhérent Finnair Plus.
+*   Vous adhérez au programme Finnair Plus et achetez et utilisez nos services en tant que membre Finnair Plus.
 *   Vous vous abonnez à nos communications marketing.
 *   Vous participez à des enquêtes, des promotions ou des événements.
 *   Vous participez à une campagne ou remplissez un formulaire sur une plateforme tierce en lien avec nos produits et services.
@@ -555,28 +555,28 @@ Nous obtenons vos données à caractère personnel lorsque :
 
 Nous partageons vos données à caractère personnel avec des tiers qui nous apportent un soutien dans les domaines suivants :
 
-*   **Production, gestion et analyse :** Nous faisons appel à des fournisseurs TIC tiers qui nous fournissent des outils et des services pour produire et gérer nos communications marketing et nos activités de personnalisation du contenu, et qui nous aident à analyser la performance de nos campagnes. En tant que sous-traitants de données à caractère personnel, ces fournisseurs TIC sont contractuellement tenus de protéger vos données à caractère personnel et de les utiliser uniquement pour notre compte et selon nos instructions. Nous veillons à ce que ces fournisseurs TIC respectent la législation applicable en matière de protection de la vie privée et des données, à ce que le transfert de vos données par nous soit sécurisé et à ce que des garanties légales et appropriées soient mises en œuvre lorsque ce transfert est nécessaire.
-*   **Emailing :** Nous faisons appel à des fournisseurs tiers pour faciliter nos campagnes d’emailing et gérer nos listes de diffusion. En tant que sous-traitants de données à caractère personnel, ces fournisseurs tiers sont contractuellement tenus de protéger vos données et de les utiliser uniquement selon nos instructions. Nous veillons à ce que ces fournisseurs tiers respectent la législation applicable en matière de protection de la vie privée et des données, à ce que le transfert de vos données par nous soit sécurisé et à ce que des garanties légales et appropriées soient mises en œuvre lorsque ce transfert est nécessaire.
+*   **Production, gestion et analyse :** Nous faisons appel à des fournisseurs TIC tiers qui nous fournissent des outils et des services pour produire et gérer nos communications marketing et nos activités de personnalisation du contenu, et qui nous aident à analyser la performance de nos campagnes. En tant que sous-traitants de données à caractère personnel, ces fournisseurs TIC sont contractuellement tenus de protéger vos données à caractère personnel et de les utiliser uniquement pour notre compte et selon nos instructions. Nous veillons à ce que ces fournisseurs TIC respectent la législation applicable en matière de protection de la vie privée et des données, que le transfert de vos données soit sécurisé, et que des garanties légales et appropriées soient mises en œuvre lorsque ce transfert est nécessaire.
+*   **Emailing :** Nous faisons appel à des fournisseurs tiers pour faciliter nos campagnes d’emailing et gérer nos listes de diffusion. En tant que sous-traitants de données à caractère personnel, ces fournisseurs tiers sont contractuellement tenus de protéger vos données et de les utiliser uniquement selon nos instructions. Nous veillons à ce que ces fournisseurs tiers respectent la législation applicable en matière de protection de la vie privée et des données, que le transfert de vos données soit sécurisé, et que des garanties légales et appropriées soient mises en œuvre lorsque ce transfert est nécessaire.
 *   **Publicité ciblée :** Si vous avez accepté les cookies publicitaires ou donné votre consentement à la réception de publicités personnalisées de notre part, ou les deux, nous partagerons vos données à caractère personnel avec nos partenaires tiers qui nous permettent de diffuser des publicités ciblées via des plateformes ou des canaux tiers. Ces partenaires tiers, qui sont actuellement Meta Platforms Ireland Limited et Google LLC, peuvent agir en tant que responsables conjoints du traitement avec nous et en tant que responsables indépendants à qui vos données sont transférées pour vous présenter des publicités ciblées.
     *   Notez que lorsqu’ils agissent en tant que responsables indépendants du traitement, ces partenaires tiers peuvent utiliser vos données à caractère personnel à des fins d’agrégation et de segmentation marketing, ainsi que pour établir des rapports marketing basés sur les données agrégées qui seront également utilisés par d’autres annonceurs sur la plateforme tierce.
     *   Si vous utilisez les services de Meta Platforms Ireland Limited tels que Facebook et Instagram, consultez le [site Web de Facebook](https://www.facebook.com/privacy/policy) pour en savoir plus sur vos droits en matière de protection de vos données sur ces plateformes.
-    *   Si vous utilisez les services de Google LLC, consultez le [site Web de Google](https://policies.google.com/privacy?hl=en) pour en savoir plus sur vos droits en matière de protection de vos données.
+    *   Si vous utilisez les services de Google LLC, consultez le [site Web de Google](https://business.safety.google/privacy/) pour en savoir plus sur vos droits en matière de protection de vos données.
 
-Si, dans le cadre de nos opérations, vos données à caractère personnel sont transférées en dehors de l’Espace économique européen ou de l’Union européenne, nous utiliserons toujours des mécanismes et des garanties appropriés pour nous assurer que vos données à caractère personnel sont traitées conformément aux lois applicables en matière de protection de la vie privée et des données. Nous veillerons également que nos fournisseurs TIC et autres en fassent de même et à ce que nos partenaires tiers adoptent des pratiques similaires et conformes pour protéger vos données à caractère personnel.
+Si, dans le cadre de nos opérations, vos données à caractère personnel sont transférées en dehors de l’Espace économique européen ou de l’Union européenne, nous utiliserons toujours des mécanismes et des garanties appropriés pour nous assurer que vos données à caractère personnel sont traitées conformément aux lois applicables en matière de protection de la vie privée et des données. Nous veillons également à ce que nos fournisseurs TIC et autres en fassent de même, et que nos partenaires tiers adoptent des pratiques similaires et conformes pour protéger vos données à caractère personnel.
 
 #### Comment nous conservons vos données
 
 Nous conserverons vos données à caractère personnel à des fins de communication marketing tant que vous continuerez à consentir à recevoir nos communications marketing et à des fins de personnalisation du contenu, et jusqu’à ce que vous vous opposiez à notre traitement de vos données à caractère personnel à des fins de communication marketing et de personnalisation du contenu.
 
-*   Si vous souhaitez retirer votre consentement, vous pouvez le faire comme indiqué dans la section « Comment retirer votre consentement et exercer vos droits » ci-dessus. Une fois que vous aurez retiré votre consentement, nous ne vous enverrons plus d’e-mails marketing et vous ne verrez plus voir nos publicités personnalisées sur les plateformes tierces. Le retrait de votre consentement prendra effet immédiatement pour les e-mails et dans les 24 heures pour les publicités personnalisées.
+*   Si vous souhaitez retirer votre consentement, vous pouvez le faire comme indiqué dans la section « Comment retirer votre consentement et exercer vos droits » ci-dessus. Une fois que vous aurez retiré votre consentement, nous ne vous enverrons plus d’e-mails marketing et vous ne verrez plus nos publicités personnalisées sur les plateformes tierces. Le retrait de votre consentement prendra effet immédiatement pour les e-mails et dans les 24 heures pour les publicités personnalisées.
 
 **Notez** que nous conserverons certaines données si la loi l’impose ou à des fins commerciales légitimes non liées aux communications marketing ou à la personnalisation du contenu.
 
 #### Si vous avez une réclamation
 
-**Si vous avez une réclamation concernant le traitement de vos données à caractère personnel à des fins de communication marketing ou de personnalisation du contenu** dont vous êtes informé par le présent avis de confidentialité, contactez-nous à privacy@finnair.com. Nous ferons de notre mieux pour clarifier et résoudre tout problème.
+**Si vous avez une réclamation concernant le traitement de vos données à caractère personnel à des fins de communication marketing ou de personnalisation du contenu** qui vous est communiqué par le présent avis de confidentialité, contactez-nous à privacy@finnair.com. Nous ferons de notre mieux pour clarifier et résoudre tout problème.
 
-Pour savoir comment introduire une réclamation auprès de l’autorité de protection des données finlandaise, consultez [notre politique générale de confidentialité](https://www.finnair.com/fr-fr/info/politique-de-confidentialit%C3%A9-de-finnair#bonjour--nous-souhaitons-nous-assurer-que-vous-acceptez-notre-politique-en-mati%C3%A8re-d-utilisation-de-vos-donn%C3%A9es-).
+Pour savoir comment déposer une réclamation auprès de l’autorité de protection des données finlandaise, consultez [notre politique générale de confidentialité](https://www.finnair.com/fr-fr/info/politique-de-confidentialit%C3%A9-de-finnair#bonjour--nous-souhaitons-nous-assurer-que-vous-acceptez-notre-politique-en-mati%C3%A8re-d-utilisation-de-vos-donn%C3%A9es-).
 
 #### Version, date de publication et modification du présent avis
 
@@ -599,10 +599,10 @@ Voilà à quoi vous pouvez vous attendre :
 *   **Finalité claire :** Nous vous informerons toujours des raisons spécifiques de la collecte de vos données.
 *   **Consentement ciblé :** Chaque fois que cela est nécessaire, nous vous demanderons votre consentement séparément pour différents types d’activités de traitement de données.
 *   **Retrait facile :** Vous pouvez retirer votre consentement à tout moment, et nous vous facilitons les choses.
-*   **Communication continue :** Nous vous tiendrons informé de la manière dont vos données sont utilisées et vous informerons de tout changement dans nos pratiques de traitement des données.
+*   **Communication continue :** Nous vous tiendrons informé de la manière dont vos données sont utilisées et de tout changement dans nos pratiques de traitement des données.
 *   **Sécurité des données :** Vos données seront traitées de manière sécurisée et conformément à l’ensemble des lois et règlements en vigueur en matière de protection des données.
 *   **Transparence :** Nous fournirons des informations claires et accessibles sur nos activités de traitement des données.
-*   **Contrôle de l’utilisateur :** Vous aurez le contrôle de vos données à caractère personnel, avec des options pour gérer facilement vos préférences et paramètres. 
+*   **Contrôle de l’utilisateur :** Vous aurez le contrôle de vos données à caractère personnel, avec des options pour gérer facilement vos préférences et paramètres.
 
 Merci de nous confier vos données à caractère personnel.
 
