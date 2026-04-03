@@ -1,9 +1,5 @@
 [Skip to content](#main-content)
 
-[Cliquez ici pour reprendre votre démarche](https://www.legalstart.fr/)
-
-Fermer la bannière
-
 Nos conditions Générales
 ========================
 
