@@ -2,7 +2,7 @@ Politique de confidentialité
 
 **Note sur la traduction:**Cette traduction est fournie à titre d'information uniquement. Le texte officiel de cet avis de confidentialité est la version anglaise, disponible ici. Toute divergence ou différence créées dans la traduction ne sont pas contraignantes et n'ont aucun effet légal pour des fins de conformité ou d'exécution.
 
-Dernière mise à jour : 25 mars 2026  
+Dernière mise à jour : 9 AVRIL 2026  
 Introduction et aperçu
 ------------------------------------------------------------
 
@@ -59,6 +59,7 @@ Conformément au Règlement général sur la protection des données (**RGPD**) 
 | Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | *   Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
 | Vos avis sur les produits, qui peuvent inclure des photos de vous. | *   Pour aider les clients envisageant d'acheter le même produit.<br>*   Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html "https://fr.shein.com/Review-Guidance-a-478.html")​. | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
 | Votre image photographique et, le cas échéant, les justificatifs de votre identité.<br><br>Ces données sont traitées par un tiers et seul le résultat positif ou négatif de la vérification de l'âge est communiqué à SHEIN. | Pour procéder à une vérification de l'âge avant de vous autoriser à consulter ou à acheter certains produits, lorsque cette restriction aux adultes est exigée par le Règlement de l'UE sur les services numériques et d'autres lois nationales applicables. | Pour le respect des obligations légales. | Pendant la durée nécessaire à la réalisation du processus de vérification de l'âge, les données étant supprimées immédiatement après. |
+| Contenu des conversations par chat avec le service client (dépersonnalisé avant l'examen par l'IA) | Évaluation de la qualité des interactions avec le service client ; entraînement des modèles d'IA pour l'évaluation de la qualité ; amélioration de la précision des évaluations de la qualité du service | Intérêts légitimes | Conservées uniquement aussi longtemps que nécessaire pour les cycles d'évaluation de la qualité ; les données d'entraînement de l'IA sont conservées sous forme dépersonnalisée ; l'utilisateur peut s'y opposer à tout moment |
 
 **Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.
 
@@ -100,6 +101,23 @@ Vous devez être conscient que vos avis seront accessibles à tous les utilisate
 
 Si vous publiez une image d'un tiers, y compris celle de vos enfants, vous devez d'abord obtenir leur consentement pour ce faire. Vous devez être conscient qu'ils peuvent avoir le droit de faire retirer la photo en vertu de la législation de l'UE, y compris la législation sur la protection des données. Si un tiers vous demande de retirer une photo de lui que vous avez publiée, nous vous recommandons de le faire.
 
+**Utilisation des conversations du service client pour l'évaluation de la qualité et l'entraînement des modèles d'IA**
+
+1.4 **Évaluation de la qualité des conversations par chat avec le service client :**  
+Lorsque vous contactez notre équipe du service client par chat, nous traitons le contenu de vos communications afin de vous fournir une assistance et de résoudre vos demandes. En outre, nous utilisons également des **versions dépersonnalisées** de ces interactions par chat pour évaluer la **qualité et la précision des réponses fournies par nos représentants du service client**. Cette évaluation est réalisée à la fois par un **examen humain** et par des outils **alimentés par l'IA.** Ces outils nous aident à mesurer la qualité du service, à identifier les domaines d'amélioration et à entraîner nos modèles internes d'évaluation de la qualité du service.
+
+**Base juridique :**  
+Nous traitons le contenu dépersonnalisé des conversations par chat à des fins d'amélioration de la qualité sur la base de notre **intérêt légitime** à maintenir et améliorer la qualité de nos opérations de service client, à garantir des normes de service cohérentes et à améliorer votre expérience. Vous pouvez exercer votre **droit d'opposition** à ce traitement à tout moment.
+
+**Examen humain :**  
+Certaines transcriptions de conversations par chat peuvent également être examinées par du personnel formé du service client situé dans des juridictions spécifiques (y compris la Chine et les Philippines) aux fins de validation des résultats de l'IA et de garantie de la précision de l'évaluation de la qualité. L'accès est strictement contrôlé et soumis à des mesures de minimisation des données et de protection de la confidentialité.
+
+**Mesures de dépersonnalisation :**  
+Avant toute utilisation d'une conversation par chat à des fins d'analyse par l'IA, nous supprimons les identifiants personnels tels que votre nom, numéro de téléphone, adresse, adresse e-mail, numéros de commande et tout autre élément identifiable. Nous surveillons et améliorons continuellement nos processus de dépersonnalisation.
+
+**Vos options :**  
+Vous pouvez choisir de **refuser** que le contenu de vos conversations par chat soit utilisé à des fins d'évaluation de la qualité. Si vous refusez, vos enregistrements de conversations par chat ne seront pas traités dans le cadre d'activités de contrôle de la qualité réalisées par l'IA ou manuellement.
+
 2\. Partage de vos données personnelles
 ---------------------------------------
 
@@ -120,6 +138,8 @@ Nous pouvons divulguer et partager vos informations personnelles avec les partie
 | Fournisseur de services de prévention de la fraude et de sécurité des informations | Services de vérification d'identité, de prévention de la fraude ou de réduction des risques de crédit pour protéger notre site web/application et notre entreprise. |
 | Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
 | Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
+
+Prestataires de services d'évaluation de la qualité par IA : Nous faisons appel à des fournisseurs d'IA tiers, y compris ChatGPT, pour assister l'analyse automatisée du contenu dépersonnalisé des conversations par chat avec le service client. Ces fournisseurs ne traitent que du texte dépersonnalisé, et nous prenons des mesures pour garantir que les informations que nous partageons ne contiennent pas d'identifiants personnels.
 
 *   Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).
 *   **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.
@@ -205,7 +225,7 @@ Si Google Analytics est configuré pour collecter des données personnelles, la 
 
 Nous utilisons également des services de remarketing pour faire de la publicité sur des sites tiers après que vous avez visité nos Services. À cette fin, les visiteurs sont regroupés par certaines actions sur nos Services, par exemple, par la durée d'une visite. Cela nous permet de comprendre vos préférences et de vous montrer des publicités personnalisées même si vous naviguez actuellement sur un autre site qui participe également au réseau publicitaire de Google.
 
-Nous utilisons les outils et services suivants à ces fins : Le service de remarketing**Google Ads**est fourni par Google. Vous pouvez vous désinscrire en visitant la page des paramètres de Google Ads : [https://www.google.com/settings/ads](https://www.google.com/settings/ads "https://www.google.com/settings/ads")​.
+Nous utilisons les outils et services suivants à ces fins : Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous désinscrire en visitant la page des paramètres de Google Ads : [https://www.google.com/settings/ads](https://www.google.com/settings/ads "https://www.google.com/settings/ads")​.
 
 Si Google Ads est configuré pour collecter des données personnelles, le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.
 
@@ -274,6 +294,8 @@ Nous fournissons ces données personnelles au format Excel.
 Vous avez le droit de vous opposer au traitement de vos données personnelles effectué pour des raisons d'intérêt légitime ou dans l'intérêt public ou dans l'exercice d'une autorité officielle qui nous est conférée en tant que responsable du traitement des données. Lorsque vous vous opposez, nous devons soit démontrer des motifs légitimes impérieux pour le traitement, soit y mettre fin.
 
 Vous avez le droit de vous opposer au traitement à des fins de marketing direct. Ce droit peut être exercé en vous désinscrivant du marketing direct par les moyens fournis.
+
+Vous avez le droit de vous opposer à tout moment à l'utilisation du contenu de vos conversations par chat avec le service client dans le cadre de notre évaluation de la qualité du service, y compris le traitement effectué par l'IA ou par des examinateurs humains à des fins d'entraînement et d'amélioration de la qualité. Si vous vous y opposez, nous cesserons de traiter le contenu de vos conversations par chat à ces fins et exclurons vos données de nos processus de contrôle de la qualité.
 
 **5.8 Droit concernant la Prise de Décision Automatisée**
 
@@ -372,7 +394,7 @@ Politique de confidentialité
 
 **Note sur la traduction:**Cette traduction est fournie à titre d'information uniquement. Le texte officiel de cet avis de confidentialité est la version anglaise, disponible ici. Toute divergence ou différence créées dans la traduction ne sont pas contraignantes et n'ont aucun effet légal pour des fins de conformité ou d'exécution.
 
-Dernière mise à jour : 25 mars 2026  
+Dernière mise à jour : 9 AVRIL 2026  
 Introduction et aperçu
 ------------------------------------------------------------
 
@@ -429,6 +451,7 @@ Conformément au Règlement général sur la protection des données (**RGPD**) 
 | Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | *   Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
 | Vos avis sur les produits, qui peuvent inclure des photos de vous. | *   Pour aider les clients envisageant d'acheter le même produit.<br>*   Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html "https://fr.shein.com/Review-Guidance-a-478.html")​. | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
 | Votre image photographique et, le cas échéant, les justificatifs de votre identité.<br><br>Ces données sont traitées par un tiers et seul le résultat positif ou négatif de la vérification de l'âge est communiqué à SHEIN. | Pour procéder à une vérification de l'âge avant de vous autoriser à consulter ou à acheter certains produits, lorsque cette restriction aux adultes est exigée par le Règlement de l'UE sur les services numériques et d'autres lois nationales applicables. | Pour le respect des obligations légales. | Pendant la durée nécessaire à la réalisation du processus de vérification de l'âge, les données étant supprimées immédiatement après. |
+| Contenu des conversations par chat avec le service client (dépersonnalisé avant l'examen par l'IA) | Évaluation de la qualité des interactions avec le service client ; entraînement des modèles d'IA pour l'évaluation de la qualité ; amélioration de la précision des évaluations de la qualité du service | Intérêts légitimes | Conservées uniquement aussi longtemps que nécessaire pour les cycles d'évaluation de la qualité ; les données d'entraînement de l'IA sont conservées sous forme dépersonnalisée ; l'utilisateur peut s'y opposer à tout moment |
 
 **Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.
 
@@ -470,6 +493,23 @@ Vous devez être conscient que vos avis seront accessibles à tous les utilisate
 
 Si vous publiez une image d'un tiers, y compris celle de vos enfants, vous devez d'abord obtenir leur consentement pour ce faire. Vous devez être conscient qu'ils peuvent avoir le droit de faire retirer la photo en vertu de la législation de l'UE, y compris la législation sur la protection des données. Si un tiers vous demande de retirer une photo de lui que vous avez publiée, nous vous recommandons de le faire.
 
+**Utilisation des conversations du service client pour l'évaluation de la qualité et l'entraînement des modèles d'IA**
+
+1.4 **Évaluation de la qualité des conversations par chat avec le service client :**  
+Lorsque vous contactez notre équipe du service client par chat, nous traitons le contenu de vos communications afin de vous fournir une assistance et de résoudre vos demandes. En outre, nous utilisons également des **versions dépersonnalisées** de ces interactions par chat pour évaluer la **qualité et la précision des réponses fournies par nos représentants du service client**. Cette évaluation est réalisée à la fois par un **examen humain** et par des outils **alimentés par l'IA.** Ces outils nous aident à mesurer la qualité du service, à identifier les domaines d'amélioration et à entraîner nos modèles internes d'évaluation de la qualité du service.
+
+**Base juridique :**  
+Nous traitons le contenu dépersonnalisé des conversations par chat à des fins d'amélioration de la qualité sur la base de notre **intérêt légitime** à maintenir et améliorer la qualité de nos opérations de service client, à garantir des normes de service cohérentes et à améliorer votre expérience. Vous pouvez exercer votre **droit d'opposition** à ce traitement à tout moment.
+
+**Examen humain :**  
+Certaines transcriptions de conversations par chat peuvent également être examinées par du personnel formé du service client situé dans des juridictions spécifiques (y compris la Chine et les Philippines) aux fins de validation des résultats de l'IA et de garantie de la précision de l'évaluation de la qualité. L'accès est strictement contrôlé et soumis à des mesures de minimisation des données et de protection de la confidentialité.
+
+**Mesures de dépersonnalisation :**  
+Avant toute utilisation d'une conversation par chat à des fins d'analyse par l'IA, nous supprimons les identifiants personnels tels que votre nom, numéro de téléphone, adresse, adresse e-mail, numéros de commande et tout autre élément identifiable. Nous surveillons et améliorons continuellement nos processus de dépersonnalisation.
+
+**Vos options :**  
+Vous pouvez choisir de **refuser** que le contenu de vos conversations par chat soit utilisé à des fins d'évaluation de la qualité. Si vous refusez, vos enregistrements de conversations par chat ne seront pas traités dans le cadre d'activités de contrôle de la qualité réalisées par l'IA ou manuellement.
+
 2\. Partage de vos données personnelles
 ---------------------------------------
 
@@ -490,6 +530,8 @@ Nous pouvons divulguer et partager vos informations personnelles avec les partie
 | Fournisseur de services de prévention de la fraude et de sécurité des informations | Services de vérification d'identité, de prévention de la fraude ou de réduction des risques de crédit pour protéger notre site web/application et notre entreprise. |
 | Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
 | Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
+
+Prestataires de services d'évaluation de la qualité par IA : Nous faisons appel à des fournisseurs d'IA tiers, y compris ChatGPT, pour assister l'analyse automatisée du contenu dépersonnalisé des conversations par chat avec le service client. Ces fournisseurs ne traitent que du texte dépersonnalisé, et nous prenons des mesures pour garantir que les informations que nous partageons ne contiennent pas d'identifiants personnels.
 
 *   Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).
 *   **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.
@@ -575,7 +617,7 @@ Si Google Analytics est configuré pour collecter des données personnelles, la 
 
 Nous utilisons également des services de remarketing pour faire de la publicité sur des sites tiers après que vous avez visité nos Services. À cette fin, les visiteurs sont regroupés par certaines actions sur nos Services, par exemple, par la durée d'une visite. Cela nous permet de comprendre vos préférences et de vous montrer des publicités personnalisées même si vous naviguez actuellement sur un autre site qui participe également au réseau publicitaire de Google.
 
-Nous utilisons les outils et services suivants à ces fins : Le service de remarketing**Google Ads**est fourni par Google. Vous pouvez vous désinscrire en visitant la page des paramètres de Google Ads : [https://www.google.com/settings/ads](https://www.google.com/settings/ads "https://www.google.com/settings/ads")​.
+Nous utilisons les outils et services suivants à ces fins : Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous désinscrire en visitant la page des paramètres de Google Ads : [https://www.google.com/settings/ads](https://www.google.com/settings/ads "https://www.google.com/settings/ads")​.
 
 Si Google Ads est configuré pour collecter des données personnelles, le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.
 
@@ -644,6 +686,8 @@ Nous fournissons ces données personnelles au format Excel.
 Vous avez le droit de vous opposer au traitement de vos données personnelles effectué pour des raisons d'intérêt légitime ou dans l'intérêt public ou dans l'exercice d'une autorité officielle qui nous est conférée en tant que responsable du traitement des données. Lorsque vous vous opposez, nous devons soit démontrer des motifs légitimes impérieux pour le traitement, soit y mettre fin.
 
 Vous avez le droit de vous opposer au traitement à des fins de marketing direct. Ce droit peut être exercé en vous désinscrivant du marketing direct par les moyens fournis.
+
+Vous avez le droit de vous opposer à tout moment à l'utilisation du contenu de vos conversations par chat avec le service client dans le cadre de notre évaluation de la qualité du service, y compris le traitement effectué par l'IA ou par des examinateurs humains à des fins d'entraînement et d'amélioration de la qualité. Si vous vous y opposez, nous cesserons de traiter le contenu de vos conversations par chat à ces fins et exclurons vos données de nos processus de contrôle de la qualité.
 
 **5.8 Droit concernant la Prise de Décision Automatisée**
 
