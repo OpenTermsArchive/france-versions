@@ -1313,6 +1313,8 @@ Le pays de destination peut également exiger un VISA en cours de validité en p
 
 Pour plus de détails et pour faire une demande d’ETA-IL, veuillez vous rendre sur le site Internet officiel de l’autorité israélienne chargée de la population et de l’immigration.
 
+À partir du 10 avril 2026, les compagnies aériennes se connecteront au système EU-LISA pour l’application du système d’entrée/sortie de l’UE (EES). Cela s’applique uniquement aux passagers voyageant avec un visa Schengen à entrée unique ou à deux entrées, qui recevront une autorisation EES des autorités européennes confirmant leur éligibilité pour voyager depuis des destinations non-Schengen vers la zone Schengen. Ce processus ne remplace pas les autres vérifications de visa obligatoires. Il s’agit d’une exigence de l’UE que Ryanair doit mettre en œuvre, toutes les données étant partagées avec le système EU-LISA. Ryanair appliquera toute décision prise par l’UE concernant le droit des passagers à voyager. Pour plus d’informations, veuillez consulter le Système d’entrée-sortie - Migration et affaires intérieures - Commission européenne.
+
 **Exigences particulières pour les mineurs de moins de 18 ans**
 
 Tout enfant figurant sur le passeport d’un parent doit avoir son propre visa (si nécessaire) et doit voyager avec l’adulte dont le nom figure sur le visa.
@@ -1613,9 +1615,9 @@ Les passagers nécessitant les types d’assistance répertoriés ci-dessous doi
 
 **Type d’assistance (WCHS)** Passager nécessitant une assistance dans l’aéroport (départ et arrivée), ainsi que pour monter/descendre la passerelle d’embarquement.  
 
-**Passager présentant un handicap cognitif ou non visible nécessitant une assistance.**
+**Passager présentant un handicap cognitif ou non visible nécessitant une assistance.(DPNA)**
 
-**Type d’assistance (DPNA)** Type d’assistance (DPNA) Les passagers qui réservent avec le code de type d’assistance DPNA doivent contacter notre équipe Assistance voyage et lui préciser le type et le niveau d’assistance requis.
+Les passagers qui réservent avec le code de type d’assistance DPNA doivent contacter notre équipe Assistance voyage et lui préciser le type et le niveau d’assistance requis.
 
 **Passagers non-voyants/malvoyants nécessitant une assistance**  
 
