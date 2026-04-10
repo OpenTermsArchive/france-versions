@@ -1476,7 +1476,7 @@ Ordinateur de bureauApplication iOSApplication AndroidNavigateur mobile
 
 ### Trouver les frais de service hôte sur ordinateur
 
-1.  Cliquez sur **Aujourd'hui** > **Menu** > [Revenus](https://www.airbnb.fr/hosting).
+1.  Cliquez sur **Aujourd'hui** > **Menu** > [Revenus](https://www.airbnb.fr/users/transaction_history).
 2.  Sélectionnez le code de réservation.
 3.  Sous **Versement de l'hôte**, rendez-vous dans la section **Frais de service hôte**.  
     
