@@ -147,7 +147,7 @@ La livraison des Produits pourra s'effectuer :
 *   **En magasin Vertbaudet :**
 
 Vous pouvez choisir de vous faire livrer gratuitement votre commande dans un de nos magasins Vertbaudet, situés en France Métropolitaine.  
-Toutefois, le service ne sera pas proposé dès lors qu’une commande comporte un ou des Produits volumineux ou des Produits signalés par un ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) ou par un ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png).  
+Toutefois, le service ne sera pas proposé dès lors qu’une commande comporte un ou des Produits volumineux ou des Produits signalés par un ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) ou par un ![](https://media.vertbaudet.fr/medias/44/0/46168/1591979288/camion.svg).  
 Enfin un magasin peut se réserver le droit de suspendre ce service momentanément (notamment en période de soldes), auquel cas il ne sera pas possible de le sélectionner sur le Site.  
 Vous serez informé par email dès que le colis sera disponible dans la boutique. Vous disposerez alors de 10 jours pour le retirer.  
 A noter qu'il vous faudra obligatoirement présenter une pièce d'identité lors du retrait.
@@ -155,7 +155,7 @@ A noter qu'il vous faudra obligatoirement présenter une pièce d'identité lors
 *   **En Points Relais® :**
 
 Pour en bénéficier, il vous suffit de commander sur le Site. Une liste de Points Relais® vous sera alors proposée. Pour connaître votre Point Relais® le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Le colis reste à disposition pendant sept (7) jours. Passé ce délai, il sera retourné à vertbaudet.  
-Offre valable hors articles signalés par un ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) et certains Produits signalés par un ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)
+Offre valable hors articles signalés par un ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) et certains Produits signalés par un ![](https://media.vertbaudet.fr/medias/44/0/46168/1591979288/camion.svg)
 
 *   **En livraison à domicile : livré chez vous ou à une autre adresse: sous réserve de disponibilité du service**
 
@@ -208,7 +208,7 @@ signalé par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volum
 | A partir de 5,99€ |
 
 Produit très encombrant  
-signalé par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)  
+signalé par ![](https://media.vertbaudet.fr/medias/44/0/46168/1591979288/camion.svg)  
 \*certains Produits ne peuvent bénéficier de la livraison en Points Relais
 
 |     |
@@ -268,14 +268,14 @@ Vous pouvez retourner le Produit :
     
 *   Soit en déposant gratuitement le Produit directement dans un Point Relais®. Pour connaître votre Point Relais® le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Pour un retour en point relais, l’étiquette de retour doit impérativement être apposée sur le colis lors de la remise au point relais.
     
-    **Non valable pour les autres Produits signalés par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) ou par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)**  .
+    **Non valable pour les autres Produits signalés par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) ou par ![](https://media.vertbaudet.fr/medias/44/0/46168/1591979288/camion.svg)**  .
     
 *   Soit en déposant gratuitement le Produit directement dans un magasin Vertbaudet. Pour connaître votre magasin Vertbaudet le plus proche, [cliquez ici](https://magasin.vertbaudet.fr/?intcmpid=footer_trouver_magasin) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe).
     
-    **Service valable uniquement pour les petits Produits qui ont été livrés en magasin, et expressément exclu pour les Produits signalés par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) ou par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)**  .
+    **Service valable uniquement pour les petits Produits qui ont été livrés en magasin, et expressément exclu pour les Produits signalés par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) ou par ![](https://media.vertbaudet.fr/medias/44/0/46168/1591979288/camion.svg)**  .
     
 
-S'il s'agit d'un Produit signalé par le sigle ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) ou ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) et qui a été livré à domicile veuillez nous contacter au numéro 03.20.760.760 (coût d’un appel local depuis un poste fixe), afin de prendre un rendez-vous pour la reprise gratuite de l'article, au lieu de sa livraison.
+S'il s'agit d'un Produit signalé par le sigle ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) ou ![](https://media.vertbaudet.fr/medias/44/0/46168/1591979288/camion.svg) et qui a été livré à domicile veuillez nous contacter au numéro 03.20.760.760 (coût d’un appel local depuis un poste fixe), afin de prendre un rendez-vous pour la reprise gratuite de l'article, au lieu de sa livraison.
 
 En cas de retour exercé conformément au présent article, Vertbaudet s'engage à vous rembourser les sommes versées, en ce compris les frais de livraison (à l’exception des frais supplémentaires découlant du choix d’un mode de livraison autre que le mode le moins coûteux de livraison standard proposé sur le site), dans les meilleurs délais et au plus tard dans les 14 jours suivant la réception de la preuve de l'envoi du colis à notre attention ou de la réception du colis par nos soins (la première de ces deux dates étant retenue). En dehors des cas d’exercice du droit de rétractation, en cas de commande comportant plusieurs Produits, les frais de livraison ne seront remboursés qu’en cas de retour, en une seule fois, de l’intégralité des articles constituant la commande. Le service d’emballage cadeau en lui-même, proposé à l’article 5 LIVRAISON des présentes conditions n’est pas remboursable.
 
@@ -439,7 +439,7 @@ Pour toute question relative à la norme Européenne REACH, veuillez nous contac
 
 ### 10.3 Consignes de tri
 
-![https://media.vertbaudet.fr/medias/44/0/46168/1591979288/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/46168/1591979288/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. La consigne de tri peut figurer sur les Produits ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
+![https://media.vertbaudet.fr/medias/44/0/46168/1591979288/triman.png](https://media.vertbaudet.fr/medias/44/0/46168/1591979288/triman.png "https://media.vertbaudet.fr/medias/44/0/46168/1591979288/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. La consigne de tri peut figurer sur les Produits ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
 
 ### 10.4 Identifiants uniques
 
