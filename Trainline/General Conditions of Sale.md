@@ -553,11 +553,11 @@ Si vous avez réservé un billet échangeable (cela sera indiqué au cours du pr
 
 ### 7.6 Indemnisation pour les voyages retardés ou annulés
 
-Si le train pour lequel vous aviez réservé un billet est annulé ou retardé, vous pourriez avoir droit à une compensation ou à un remboursement, en fonction du transporteur concerné. Pour en savoir plus sur les demandes de remboursement en cas de train annulé, rendez-vous [ici](https://support.thetrainline.com/fr/support/solutions/articles/78000000497-mon-train-a-%C3%A9t%C3%A9-annul%C3%A9-puis-je-obtenir-un-remboursement-) et pour les demandes de compensation en cas de retard [ici](https://support.thetrainline.com/fr/support/solutions/articles/78000000554-mon-train-a-du-retard-ai-je-droit-%C3%A0-un-d%C3%A9dommagement-).
+Si le train pour lequel vous aviez réservé un billet est annulé ou retardé, vous pourriez avoir droit à une compensation ou à un remboursement, en fonction du transporteur concerné. Pour en savoir plus sur les demandes de remboursement en cas de train annulé, rendez-vous ici et pour les demandes de compensation en cas de retard ici.
 
 Si vous voyagez en train, Trainline peut vous informer si vous êtes éligible à une compensation en cas de retard ou d'annulation de votre trajet. Cependant, bien que nous fassions tout notre possible pour vérifier que votre voyage vous donne ce droit, la réception de cette notification ne garantit pas que votre demande sera approuvée ni que vous recevrez effectivement une compensation. Il se peut que votre voyage ne réponde pas aux critères de compensation définis par le transporteur.  
 
-Nous pourrons vous offrir une compensation ou un remboursement au nom du transporteur, si nous avons sa permission. Si ce n'est pas le cas, vous pourrez [le contacter](https://support.thetrainline.com/fr/support/solutions/articles/78000000554-mon-train-a-du-retard-ai-je-droit-%C3%A0-un-d%C3%A9dommagement-) et lui adresser directement votre demande.
+Nous pourrons vous offrir une compensation ou un remboursement au nom du transporteur, si nous avons sa permission. Si ce n'est pas le cas, vous pourrez le contacter et lui adresser directement votre demande.
 
 ### 7.7 Billets multiples et correspondances
 
