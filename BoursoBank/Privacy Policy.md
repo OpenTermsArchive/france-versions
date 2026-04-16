@@ -12,7 +12,7 @@ des Clients de Boursorama
 
 
 
-Dernière mise à jour : 26 novembre 2024
+Dernière mise à jour : avril 2026
 
 
 
@@ -138,12 +138,6 @@ permettant à BoursoBank de proposer des services bancaires et financiers en lig
 
 
 
-Concernant les clients mineurs, ils disposent d’une politique adaptée et accessible à leur âge dans leur application
-
-« Freedom», en cliquant sur le lien suivant.
-
-
-
 Les termes de la Politique portant une majuscule ont une définition identique à celles de nos CG, lorsqu’ils n’ont pas été
 
 définis dans la Politique. La Politique est mise à jour régulièrement pour refléter les évolutions des pratiques et des offres
@@ -218,6 +212,10 @@ répartition par nature d’actifs), votre capacité d’épargne, votre connais
 
 appétence aux risques et objectifs de placements, votre résidence fiscale (y compris US person), vos crédits, etc.
 
+- Données relatives à vos opérations et à vos transactions bancaires : toutes transactions dont virements,
+
+prélèvements, paiements par cartes bancaires et retraits, chèques avec leur montant, date et libellé, les coordonnées
+
 3
 
 Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151
@@ -225,10 +223,6 @@ Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 –
 Siège social : 44 rue Traversière, CS 80134, 92772 Boulogne-Billancourt Cedex
 
 
-
-- Données relatives à vos opérations et à vos transactions bancaires : toutes transactions dont virements,
-
-prélèvements, paiements par cartes bancaires et retraits, chèques avec leur montant, date et libellé, les coordonnées
 
 bancaires, les données relatives aux cartes de paiement y compris les enrôlements aux wallets, les catégorisations
 
@@ -368,7 +362,17 @@ demande des informations précontractuelles, notamment dans le cadre de :
 
 • la gestion de notre relation commerciale y compris la gestion des différents produits financiers et d’épargne, mais aussi
 
-des services et abonnements souscrits,
+des services et abonnements souscrits, en vous accompagnant notamment dans l’utilisation de nos services en ligne à
+
+travers notre chatbot conversationnel. Cet assistant repose sur des technologies d’intelligence artificielle qui analysent
+
+vos messages afin de comprendre vos demandes et de générer des réponses automatisées. Dans ce cadre, nous
+
+pouvons traiter (i) les données que vous saisissez dans le chat (questions, informations fournies), (ii) des données
+
+techniques, (iii) certaines données relatives à votre relation avec la banque (type de produits détenus, éléments
+
+nécessaires pour répondre à votre demande),
 
 • la gestion et le suivi des opérations de parrainage, permettant au Client et au Filleul d’obtenir les primes définies dans
 
@@ -424,6 +428,14 @@ de comptes),
 
 • l’identification et la gestion des comptes inactifs (Eckert), y compris l’interrogation du RNIPP,
 
+5
+
+Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151
+
+Siège social : 44 rue Traversière, CS 80134, 92772 Boulogne-Billancourt Cedex
+
+
+
 • l’identification de vos bénéficiaires effectifs en nous appuyant sur le registre des bénéficiaires effectifs tenu par
 
 l’Institut National de la Propriété Industrielle (INPI),
@@ -433,14 +445,6 @@ l’Institut National de la Propriété Industrielle (INPI),
 statut fiscal des clients et au respect des réglementations fiscales associées et des règles de bonne conduite des
 
 régulateurs français et internationaux,
-
-5
-
-Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151
-
-Siège social : 44 rue Traversière, CS 80134, 92772 Boulogne-Billancourt Cedex
-
-
 
 • l’enregistrement des communications (appels téléphoniques, courriers électroniques), dans le respect des obligations
 
@@ -534,6 +538,12 @@ opérations de paiement et de crédit notamment à travers des notifications et 
 
 - créer des modèles statistiques, afin de gérer nos risques.
 
+6
+
+Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151
+
+Siège social : 44 rue Traversière, CS 80134, 92772 Boulogne-Billancourt Cedex
+
 
 
 • Réaliser des études statistiques, en nous appuyant sur des technologies innovantes (pouvant relever de l’Intelligence
@@ -541,12 +551,6 @@ opérations de paiement et de crédit notamment à travers des notifications et 
 Artificielle), pour identifier les produits et services qui pourront répondre au mieux à vos besoins, en tenant compte
 
 de vos préférences.
-
-6
-
-Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151
-
-Siège social : 44 rue Traversière, CS 80134, 92772 Boulogne-Billancourt Cedex
 
 
 
@@ -636,6 +640,12 @@ Ces profils permettent à BoursoBank de vous adresser des offres personnalisées
 
 attentes ou à votre situation.
 
+7
+
+Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151
+
+Siège social : 44 rue Traversière, CS 80134, 92772 Boulogne-Billancourt Cedex
+
 
 
 Pour chacun de ces traitements, une analyse approfondie est effectuée afin de déterminer si le traitement doit être fondé
@@ -649,12 +659,6 @@ Lorsque le profilage est fondé sur votre consentement, BoursoBank s’assure qu
 vous avoir informé de manière explicite et transparente sur l’utilisation de vos données, ainsi que sur la finalité du
 
 traitement. BoursoBank vous permet également de retirer à tout moment votre consentement.
-
-7
-
-Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151
-
-Siège social : 44 rue Traversière, CS 80134, 92772 Boulogne-Billancourt Cedex
 
 
 
@@ -752,6 +756,12 @@ externes sont conservées par BoursoBank uniquement pour la durée de fourniture
 
 pouvez mettre fin à tout moment.
 
+8
+
+Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151
+
+Siège social : 44 rue Traversière, CS 80134, 92772 Boulogne-Billancourt Cedex
+
 
 
 • Fourniture du service Virement SMS :
@@ -763,12 +773,6 @@ Afin de mettre en place la fonctionnalité virements par SMS sur l’Application
 lors du premier virement à accéder à votre répertoire de contacts. L’Application affichera les données personnelles de
 
 votre répertoire sans en faire d’autres usages ni de stockage.
-
-8
-
-Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151
-
-Siège social : 44 rue Traversière, CS 80134, 92772 Boulogne-Billancourt Cedex
 
 
 
@@ -862,6 +866,12 @@ financières, techniques et de connexion, marketing.). Aucune analyse n’est tr
 
 - Identifier les économies potentielles sur le/ les comptes BoursoBank sélectionnés par le Client.
 
+9
+
+Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151
+
+Siège social : 44 rue Traversière, CS 80134, 92772 Boulogne-Billancourt Cedex
+
 
 
 Si le Client est inscrit à The Corner et au service Wicount 360, l’analyse The Corner pourra inclure les comptes bancaires
@@ -876,12 +886,6 @@ les modalités de désinscription visées dans le message, ou en se rendant sur 
 
 cliquant sur la rubrique « Préférences » et « Services ».
 
-9
-
-Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151
-
-Siège social : 44 rue Traversière, CS 80134, 92772 Boulogne-Billancourt Cedex
-
 
 
 Les politiques de protection des données du gestionnaire commercial de la plateforme de Qwertys (Reduc Factory) et des
@@ -889,18 +893,6 @@ Les politiques de protection des données du gestionnaire commercial de la plate
 enseignes partenaires sont accessibles en ligne lors de la passation de votre commande / achat pour vous permettre de
 
 connaitre la gestion de vos Données au sein de leur structure.
-
-
-
-Les mineurs disposent d’un accès à The Corner via leur Application Freedom. Le mineur en tant que personne concernée,
-
-et le parent en tant que responsable légal sont informés, par la présente, que les données du mineur (ses noms, prénoms
-
-et données d’achat) sont traitées aux fins de bénéficier des services The Corner et en particulier d’achat de bons utilisables
-
-en magasin. À tout moment, le responsable légal peut faire cesser les traitements des Données du mineur, en désactivant
-
-l’accès à The Corner.
 
 
 
@@ -1146,11 +1138,11 @@ utilisé.
 
 
 
-Vous êtes informés que lors de vos visites sur nos Sites ou lors de l’utilisation de l’une de nos Applications, des
+Vous êtes informés que lors de vos visites sur nos Sites ou lors de l’utilisation de l’une de nos Applications, des cookies et
 
-cookies et des traceurs peuvent être installés sur votre équipement terminal. Les conditions de fonctionnement
+des traceurs peuvent être installés sur votre équipement terminal. Les conditions de fonctionnement et d’utilisation de
 
-et d’utilisation de ces cookies sont décrites au sein de la Politique de Cookies, accessible « ici ».
+ces cookies sont décrites au sein de la Politique de Cookies, accessible « ici ».
 
 
 
