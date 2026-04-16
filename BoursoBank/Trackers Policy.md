@@ -44,7 +44,7 @@ Cette Politique a pour objet de Vous permettre de mieux comprendre :
 
 La présente Politique constitue un document d'information sur Vos droits et les choix qui vous sont offerts à l'égard des cookies ou traceurs susceptibles d'être déposés ou lus dans Votre Terminal lors de l'utilisation des Sites.
 
-Elle s'applique en complément des [Politique de protection des données Membres](https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees-membres.pdf "Politique de protection des données Membres (nouvelle fenêtre)"), [Politique de protection des données Clients](https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees.pdf "Politique de protection des données Clients (nouvelle fenêtre)"), [Politique de protection des données Prospects](https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees-prospects.pdf "Politique de protection des données Prospects") et des conditions contractuelles qui peuvent régir l'utilisation des Sites ou des services fournis par Boursorama.
+Elle s'applique en complément des [Politique de protection des données Membres et Visiteurs](https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees-membres.pdf "Politique de protection des données Membres et Visiteurs (nouvelle fenêtre)"), [Politique de protection des données Clients](https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees.pdf "Politique de protection des données Clients (nouvelle fenêtre)"), [Politique de protection des données Prospects, Politique de confidentialité](https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees-prospects.pdf "Politique de protection des données Prospects, Politique de confidentialité") et des conditions contractuelles qui peuvent régir l'utilisation des Sites ou des services fournis par Boursorama.
 
 Boursorama peut modifier à tout moment la Politique, afin notamment de se conformer à toutes évolutions législatives, réglementaires, jurisprudentielles, éditoriales ou techniques liées aux cookies ou traceurs présents sur les Sites. Une nouvelle version de la Politique s'applique à compter de sa mise en ligne sur les Sites.
 
@@ -120,9 +120,18 @@ Les principaux cookies strictement nécessaires à la fourniture des services et
 | Tous les Sites | rememberme | Boursorama | Identification sur la page de connexion | 365 jours |
 | Tous les Sites | Ckln\* | Boursorama | Identification du terminal à des fins de lutte contre la fraude | 36 mois |
 | Tous les Sites | didomi\_token  <br>didomi\_portal  <br>didomi\_prospect  <br>didomi\_cookies  <br>euconsent-v2  <br>cookie\_privacy\_gdpr  <br>AMP-CONSENT  <br>Didomi\* | Boursorama | Gestion des consentements | 12 mois |
-| Portail Non Connecté  <br>Portail Connecté  <br>Espace Client  <br>Espace Client Mobile | STICKY | ultimedia/digiteka | Equilibrage de la charge des équipements  <br>pour permettre la lecture de vidéos | session |
-| Portail Non Connecté  <br>Portail Connecté | themeA11y | Boursorama | Accessibilité : gestion du contraste | Infini |
-| Portail Non Connecté  <br>Portail Connecté | refreshAuto | Boursorama | Accessibilité : gestion du rafraîchissement automatique | Infini |
+| Portail Non Connecté  <br>Portail Connecté  <br>Espace Client  <br>Espace Client Mobile | STICKY | ultimedia/digiteka | Equilibrage de la charge des équipements  <br>pour permettre la lecture de vidéos | Session |
+| Portail Non Connecté  <br>Portail Connecté | themeA11y | Boursorama | Accessibilité : gestion du contraste | localStorage\* |
+| Portail Non Connecté  <br>Portail Connecté | refreshAuto | Boursorama | Accessibilité : gestion du rafraîchissement automatique | localStorage\* |
+| Portail Non Connecté | brs\_streaming | Boursorama | Gestion de la connexion aux flux de cotations | localStorage\* |
+| Portail Non Connecté | brs\_streaming\_start | Boursorama | Gestion de la connexion aux flux de cotations en temps réel | localStorage\* |
+| Tous les Sites | com.bousorama.mortgage-simulator | Boursorama | Gestion du parcours de simulation de crédit immobilier | Session |
+| Site Vitrine | fonts-loaded | Boursorama | Gestion du changement de nos polices d'écritures | 7 jours |
+| Portail Non Connecté | web\_fr\_portal\_20.last\_viwed-symbols | Boursorama | Affichage de la liste des dernières valeurs financières consultées | localStorage\* |
+| Portail Non Connecté  <br>Site Vitrine | \_cookie\_test | Boursorama | Cookie technique qui permet de vérifier sur le navigateur le dépôt de cookie | 1 seconde |
+| Portail Non Connecté | brswall | Boursorama | Gestion de l'affichage du bandeau en cas de refus de consentement aux cookies | localStorage\* |
+
+\* le localStorage est un espace de stockage interne au navigateur qui permet d'enregistrer certaines informations techniques. Les données qui y sont stockées restent sur l'appareil de l'utilisateur tant que celui-ci ne les supprime pas manuellement ou ne réinitialise pas les paramètres de son navigateur.
 
 Les principaux traceurs strictement nécessaires à la fourniture des services et au fonctionnement des Sites sont les suivants :
 
@@ -223,7 +232,7 @@ Nous Vous invitons à consulter les politiques de confidentialité/cookies de ce
 ARTICLE 5 : VOTRE GESTION DES COOKIES
 -------------------------------------
 
-L'ensemble des droits décrits à l'Article 8 de la Politique de protection des données Membres et à l'Article 9 de la Politique de protection des données Clients, et à l'article 7 de la Politique de protection des données Prospects sont également applicables à l'utilisation des cookies pour lesquels des choix Vous sont offerts sur nos Sites.
+L'ensemble des droits décrits à l'Article 8 de la Politique de protection des données Membres et à l'Article 9 de la Politique de protection des données Clients et de la Politique de protection des données Prospects et Visiteurs sont également applicables à l'utilisation des cookies pour lesquels des choix Vous sont offerts sur nos Sites.
 
 Vous disposez de différents moyens pour gérer la mise en œuvre des cookies soumis à Vos choix.
 
