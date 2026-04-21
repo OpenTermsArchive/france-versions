@@ -615,8 +615,8 @@ Les avantages du Spartoo Premium sont les suivants:
 
 *   France Métropolitaine, Corse, Monaco, Belgique, Luxembourg et Suisse :
 
-\- 10% de réduction immédiate sur tous les articles en dehors de la période de soldes.  
-\- 5% de réduction immédiate sur tous les articles pendant la période de soldes.  
+\- 10% de réduction immédiate sur tous les articles non remisés.  
+\- 5% de réduction immédiate sur tous les articles remisés.  
 \- Livraison express gratuite le lendemain (chronorelais), pour toute commande passée avant 13h.  
 \- Le Paiement en 3 fois sans frais dès 60€ d'achat  
 \- L'ASSURTOO : assurance contre le dommage matériel accidentel de vos chaussures  
@@ -624,21 +624,19 @@ Les avantages du Spartoo Premium sont les suivants:
 
 *   DROM-COM :
 
-\- 10% de réduction immédiate sur tous les articles en dehors de la période de soldes.  
-\- 5% de réduction immédiate sur tous les articles pendant la période de soldes.  
+\- 10% de réduction immédiate sur tous les articles non remisés.  
+\- 5% de réduction immédiate sur tous les articles remisés.  
 \- Le Paiement en 3 fois sans frais dès 60€ d'achat  
 \- Des offres exclusives : réductions supplémentaires pendant les journées réservées aux clients Premium.  
 
 *   Andorre :
 
-\- 10% de réduction immédiate sur tous les articles en dehors de la période de soldes.  
-\- 5% de réduction immédiate sur tous les articles pendant la période de soldes.  
+\- 10% de réduction immédiate sur tous les articles non remisés.  
+\- 5% de réduction immédiate sur tous les articles remisés.  
 \- Des offres exclusives : réductions supplémentaires pendant les journées réservées aux clients Premium.  
 Condition d'application des réductions :
 
 \- Conditions d'applications des 10% de réduction : cette réduction de prix n'est pas cumulable avec d'autres remises et ne s'appliquent pas sur les marques exclues de nos promotions. (voir conditions des offres en cours).  
-  
-\- Conditions d'applications des 5% de réduction : cette réduction est cumulable avec la promotion indiquée sur le site lors des soldes. Elle n'est pas cumulable avec d'autres promotions que la réduction de prix indiquée sur le site pendant les soldes.
 
 18 Chèques-cadeaux et bons d'achat
 ----------------------------------
