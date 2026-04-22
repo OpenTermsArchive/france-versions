@@ -721,7 +721,7 @@ L’activité de recouvrement de créances pour le compte de tiers exercée par 
 **16.2 Activité de mandataire d’intermédiaire d’assurance**
 -----------------------------------------------------------
 
-Yolaw exerce l’activité de mandataire d’intermédiaire d’assurance inscrit auprès de l’ORIAS sous le numéro 16005304.
+Yolaw exerce l’activité de mandataire d’intermédiaire d’assurance inscrit auprès de l’ORIAS.
 
 En application de ce statut, Yolaw peut être amené à mettre en avant par tout moyen (sur le Site, par email ou oralement) les services de partenaires intermédiaires d’assurance lui ayant donné mandat pour le faire. 
 
