@@ -9,7 +9,7 @@ Le site legalstart.fr est édité par la société Yolaw SAS., au capital social
 
 ### **Responsable de publication** 
 
-Monsieur Pierre Aïdan, Président de 3for2 SAS, elle-même Président de Yolaw SAS.
+Monsieur Pierre Aïdan, Président de Yolaw SAS.
 
 ### **Hébergeur** 
 
@@ -27,4 +27,4 @@ Cliquez ici pour en savoir plus sur les [mentions légales obligatoires](https:
 
 ### **Index de l'égalité hommes-femmes**
 
-L'index de l'égalité hommes-femmes 2025 de Legalstart est de 76 (période de référence 2024). Découvrez le détail du calcul en cliquant [ici](https://www.legalstart.fr/hubfs/Index%20Egalit%C3%A9%20professionnelle%202025.pdf).
+L'index de l'égalité hommes-femmes 2025 de Legalstart est de 83 (période de référence 2025). Découvrez le détail du calcul en cliquant [ici](https://www.legalstart.fr/hubfs/Index%20Egalit%C3%A9%20professionnelle%202025-1.pdf).
