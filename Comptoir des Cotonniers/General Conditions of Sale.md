@@ -121,61 +121,68 @@ Le retour des produits dans le cadre de l’exercice du droit de rétractation d
   
 Le remboursement des produits lié au droit de rétractation sera effectué dans les quatorze (14) jours calendaires à compter de la date de notification de la rétractation ou différé au jour de réception des Produits par Comptoir des Cotonniers.
 
-ARTICLE 8. ÉCHANGES EN BOUTIQUES ET SUR LE SITE INTERNET  
-ÉCHANGE DES PRODUITS EN BOUTIQUES  
+ARTICLE 8. RETOURS (HORS DROIT DE RÉTRACTATION) ÉCHANGE ET REMBOURSEMENT  
+ÉCHANGE DES PRODUITS EN BOUTIQUES :  
   
-Sur présentation de la preuve d’achat de la commande, Comptoir des Cotonniers offre aux Clients un délai total de trente (30) jours calendaires à compter de la date de réception des produits pour échanger tout ou partie de sa commande en boutique (hors boutiques en Italie et magasins d’usine) ou dans les points de vente Comptoir de Cotonniers présents dans les boutiques UNIQLO, pour un montant égal ou supérieur au(x) produit(s) échangé(s).  
+Sur présentation de la preuve d'achat de la commande, Comptoir des Cotonniers offre aux Clients un délai total de trente (30) jours calendaires à compter de la date de réception des produits pour échanger tout ou partie de sa commande en boutique ou dans les points de vente Comptoir des Cotonniers présents dans les boutiques UNIQLO, pour un montant égal ou supérieur au(x) produit(s) échangé(s).  
   
 Les produits OUTLET ne peuvent pas être échangés en boutique.  
+Les produits commandés sur le site comptoirdescotonniers.com ou sur l'application mobile ne sont en principe pas échangeables.  
+Toutefois, un échange est possible dans certains cas précis, décrits ci‑dessous, et sous réserve de respecter la procédure indiquée.  
   
+L'échange est autorisé uniquement pour un changement de taille (inférieure ou supérieure), sur la même référence produit.  
+Si la taille souhaitée n'est plus disponible, le client peut choisir un autre coloris de la même référence.  
   
-ÉCHANGE DES PRODUITS SUR LE SITE INTERNET  
+ECHANGE DES PRODUITS SUR LE SITE INTERNET :  
   
-Par principe, les produits commandés sur le site internet www.comptoirdescotonniers.com et sur l’application mobile ne peuvent pas faire l’objet d’un échange.  
+Retournez le produit qui ne vous convient pas avec le bon de retour.  
   
-Cependant, ils pourront être échangés dans les cas limitativement énumérés ci-après et si le client suit le process décrit ci-dessous :  
+Passez une nouvelle commande sur le site ou l'application, en sélectionnant la taille souhaitée (sur la même référence produit). Cette commande peut inclure d'autres articles.  
   
-Le client peut effectuer un échange sur un produit seulement s’il souhaite une taille inférieure ou supérieure, sa demande d’échange devant être effectuée sur la même référence produit. Dans le cas où la taille souhaitée n’est plus disponible, nous donnons la possibilité au client de commander un autre coloris de la même référence produit.  
+Envoyez un message via le formulaire de contact ou par e‑mail au service client ([service.client@comptoirdescotonniers.com](mailto:service.client@comptoirdescotonniers.com)) en indiquant votre nom et votre numéro de commande.  
+Le service client procédera alors au remboursement des frais de livraison de cette nouvelle commande uniquement.  
   
-Processus d’échange e-commerce :  
-  
-Retourner le produit qui ne vous convient pas, puis commander à nouveau sur le site ou sur l’application, en choisissant taille de votre choix (sur la même référence produit). Cette nouvelle commande pourra contenir d’autres produits que celui de l’échange.  
-  
-Envoyer un mail au service client avec votre nom de famille et numéro de commande (service.client@comptoirdescotonniers.com) qui étudiera votre dossier pour le remboursement des frais de ports uniquement de cette nouvelle commande. Aucun remboursement des frais de port retours 2,95€ ne sera possible.  
-  
+Les frais de retour de 2,95 € ne sont pas remboursables.  
 Les produits OUTLET ne peuvent pas être échangés sur le site internet.  
   
-Remboursement :  
+REMBOURSEMENT DES PRODUITS SUR LE SITE INTERNET :  
   
+Une fois les produits retournés à l'entrepôt et vérifiés par Comptoir des Cotonniers, le Client sera remboursé conformément au mode de paiement choisi et après déduction du montant de l'Etiquette prépayée re-facturée si cette dernière a été utilisée. Le remboursement sera effectué dans un délai maximum de trente (30) jours calendaires à compter de la date de réception des Produits par Comptoir des Cotonniers.  
   
-Aucun remboursement ne pourra être effectué en boutique. Une fois les produits retournés à l’entrepôt et vérifiés par Comptoir des Cotonniers, le Client sera remboursé conformément au mode de paiement choisi et après déduction du montant de l’Etiquette prépayée re-facturée si cette dernière a été utilisée. Le remboursement sera effectué dans les trente (30) jours calendaires à compter de la date de réception des Produits par Comptoir des Cotonniers.  
+REMBOURSEMENT DES PRODUITS EN BOUTIQUE :  
   
-En cas de commande en tant qu’invité, et pour toute demande de retour, merci de contacter le service client au 01 43 12 03 33.  
+Pour votre confort, certaines boutiques participantes ([voir la liste des boutiques éligibles](https://www.comptoirdescotonniers.com/fr/boutiques-retours-c382.html)) proposent le retour et le remboursement immédiat des commandes passées en ligne hors produits outlet/archives.  
+  
+A défaut, vous pouvez retourner votre commande par voie postale comme il est prévu ci-dessus.  
+  
+Le droit de rétractation (article 7) ne peut s'effectuer qu'en ligne.  
+  
+Une commande passée sur le site et livrée à l'étranger ne pourra pas faire l'objet d'un remboursement en boutique mais seulement en ligne.  
   
 **8.1 Garantie satisfait ou remboursé**
 
-Sans préjudice des dispositions sur le droit de rétractation figurant à l’article 7, Comptoir des Cotonniers offre aux Client un délai total de trente (30) jours calendaires à compter de la date de réception des produits pour retourner tout ou partie de sa commande ne lui donnant pas satisfaction, afin de de les échanger en boutique ou dans les points de vente Comptoir des Cotonniers présents dans les boutiques UNIQLO, ou de se faire rembourser sous condition du renvoi du ou des produits à notre entrepôt.  
+Sans préjudice des dispositions sur le droit de rétractation figurant à l'article 7, Comptoir des Cotonniers offre aux Client un délai total de trente (30) jours calendaires à compter de la date de réception des produits pour retourner tout ou partie de sa commande ne lui donnant pas satisfaction, afin de les échanger en boutique ou dans les points de vente Comptoir des Cotonniers présents dans les boutiques UNIQLO, ou de se faire rembourser sous condition du renvoi du ou des produits à notre entrepôt ou au sein des boutiques participantes ([voir la liste des boutiques éligibles](https://www.comptoirdescotonniers.com/fr/boutiques-retours-c382.html)).  
 En cas de retours anormaux ou abusifs, Comptoir des Cotonniers se réserve le droit de ne pas accepter le retour et de refuser une commande ultérieure.
 
 **8.2 Conditions et modalités de retour**
 
-L’étiquette prépayée disponible dans l’espace « Suivi de commandes » est facturée aux clientes pour un montant forfaitaire de 2,95 euros (sauf pour les membres du Club comme décrit à l’article 9.2) pour les commandes livrées et retournées en France Métropolitaine (ci-après l’« Étiquette prépayée re-facturée »). En cas de réclamation, veuillez contacter notre service client qui étudiera votre demande. Si le prix de la commande initiale est inférieur à 2,95 euros, les frais de retour sont offerts. Les frais de retour sont à la charge de nos clientes pour les clientes livrées et/ou effectuant un retour en dehors de la France Métropolitaine ainsi que pour les clientes n’ayant pas utilisé l’Étiquette prépayée re-facturée.  
+L'étiquette prépayée disponible dans l'espace « Suivi de commandes » est facturée aux clientes (sauf pour les membres du Club comme décrit à l'article 9.2) pour un montant forfaitaire de 2,95 euros pour les commandes livrées et retournées en France Métropolitaine (ci-après l'« Étiquette prépayée re-facturée »). En cas de réclamation, veuillez contacter notre service client qui étudiera votre demande. Si le prix de la commande initiale est inférieur à 2,95 euros, les frais de retour sont offerts.  
+Les frais de retour sont à la charge de nos clientes pour les clientes livrées et/ou effectuant un retour en dehors de la France Métropolitaine ainsi que pour les clientes n'ayant pas utilisé l'Étiquette prépayée re-facturée.  
   
-Pour les commandes avec une livraison en Colissimo, en Fedex ou en point relais (Mondial relay ou Colissimo) :  
+Pour les commandes avec une livraison en Colissimo, Fedex ou en point relais (Mondial relay ou Colissimo) :  
   
-Tous les produits retournés par le Client, que ce soit dans le cadre du droit de rétractation ou de la garantie satisfait ou remboursé, ne doivent pas avoir été utilisés, endommagés, salis ou lavés par le Client. Ils doivent être retournés dans un emballage approprié et accompagnés du bon de retour (à remplir en ligne et à imprimer en se rendant dans le Compte Client, rubrique « Suivi de commandes ») et de l’Etiquette prépayée re-facturée. En outre, les chaussures doivent être retournées dans leur boîte, mais nous vous remercions de ne pas utiliser cette boîte comme boîte de transport. Les frais de livraison facturés lors de l'expédition de votre commande vous sont remboursés seulement dans le cadre de l’exercice de votre droit de rétractation dans un délai de 14 jours à compter de la date de réception de votre colis et uniquement si vous retournez l’intégralité de votre commande.  
+Tous les produits retournés par le Client, que ce soit dans le cadre du droit de rétractation ou de la garantie satisfait ou remboursé, ne doivent pas avoir été utilisés, endommagés, salis ou lavés par le Client. Ils doivent être retournés dans un emballage approprié et accompagnés du bon de retour (à remplir en ligne et à imprimer en se rendant dans le Compte Client, rubrique « Suivi de commandes ») et de l'Etiquette prépayée re-facturée.  
+Les frais de livraison facturés lors de l'expédition de votre commande vous sont remboursés seulement dans le cadre de l'exercice de votre droit de rétractation dans un délai de 14 jours à compter de la date de réception de votre colis et uniquement si vous retournez l'intégralité de votre commande.  
   
 Les Produits devront être retournés à notre entrepôt, à l’adresse suivante :  
   
 **Comptoir des Cotonniers  
-SAV e-boutique  
+Retours e-shop  
 ZAC Eurocentre  
 101 av. de l’Europe – Bât B  
 31620 Castelnau d’Estretefonds – FRANCE**  
   
-Comptoir des Cotonniers ne saurait être tenu responsable de toute perte ou dommage survenant en cours de transport, il est donc recommandé au Client d'utiliser un service d'envoi suivi. En cas de perte ou de dommage en cours de transport, le Client devra s’adresser directement à son transporteur.  
-  
-Si les articles ne sont pas reçus à l’entrepôt, Comptoir des Cotonniers ne pourra pas traiter le retour.  
+Comptoir des Cotonniers ne saurait être tenu responsable de toute perte ou dommage survenant en cours de transport à l'exception de l'utilisation par le Client de l'Etiquette prépayée. Dans les autres cas, il est donc recommandé au Client d'utiliser un service d'envoi suivi. En cas de perte ou de dommage en cours de transport, le Client devra s'adresser directement à son transporteur. Si les articles ne sont pas reçus à l'entrepôt, Comptoir des Cotonniers ne pourra pas traiter le retour.
 
 ARTICLE 9. PROGRAMME DE FIDÉLITÉ **9.1 Présentation du Programme de fidélité (le « Club »)**
 
