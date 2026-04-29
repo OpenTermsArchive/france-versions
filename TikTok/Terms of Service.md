@@ -340,4 +340,4 @@ _En résumé : Même si vous ou nous ne nous appuyions pas sur l’une des disp
 
 Vous pouvez nous contacter ici : [Signaler un problème](https://www.tiktok.com/legal/report/feedback?lang=en)
 
-Dans certains pays, la loi nous oblige à fournir des informations réglementaires supplémentaires et/ou des points de contact, même si nous ne sommes pas physiquement présents. Vous pouvez trouver ces informations [ici](https://www.tiktok.com/transparency/en/regulatory-notices/).
+Dans certains pays, la loi nous oblige à fournir des informations réglementaires supplémentaires et/ou des points de contact, même si nous ne sommes pas physiquement présents. Vous pouvez trouver ces informations [ici](https://www.tiktok.com/safety/en/transparency/dsa-contact-points).
