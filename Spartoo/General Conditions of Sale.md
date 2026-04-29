@@ -333,6 +333,15 @@ Délai : Livraison garantis en 8 jours ouvrés
 | 4.99 € si inférieur à 80.00 € d'achats  <br>Gratuit à partir de 80.00 € d'achats | 4.99 € si inférieur à 40.00 € d'achats  <br>2.99 € entre 40.00 € et 60.00 € d'achats  <br>Gratuit à partir de 60.00 € d'achats |
 
   
+**Livraison avec le service BPost Mercury**  
+Délai : Livraison garantis en 8 jours ouvrés  
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 4.99 € si inférieur à 80.00 € d'achats  <br>Gratuit à partir de 80.00 € d'achats | 4.99 € si inférieur à 40.00 € d'achats  <br>2.99 € entre 40.00 € et 60.00 € d'achats  <br>Gratuit à partir de 60.00 € d'achats |
+
+  
   
 DROM-COM  
   
