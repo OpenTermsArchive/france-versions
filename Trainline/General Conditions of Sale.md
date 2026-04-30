@@ -89,7 +89,7 @@ Informations qui concernent uniquement nos clients italiens
 
 Le groupe Trainline, c'est-à-dire nous, se compose de :
 
-*   **Trainline.com Limited**, une société immatriculée en Angleterre (numéro d'immatriculation de la société : 3846791) dont le siège social est situé en plein centre de Londres, au 120 Holborn, London EC1N 2TD ; et
+*   **Trainline.com Limited**, une société immatriculée en Angleterre (numéro d'immatriculation de la société: 3846791). Son siège est situé au 1 Stonecutter Street, Londres, EC4A 4AH, Royaume-Uni; et
 *   **Trainline SAS** est une société par actions simplifiée immatriculée auprès de la chambre de commerce de Paris sous le n° 512 277 450, avec n° de TVA FR 58 512 277 450 et un capital social de 1 766 960,14 €. Son siège social se trouve au cœur de la capitale, au 20 rue Saint-Georges, 75009 Paris.  
     *   Nous sommes immatriculés au registre des opérateurs de voyages et de séjours d'Atout France sous le numéro IM078100022. Atout France se trouve au 79-81 rue de Clichy, 75009 Paris, France.
     *   Notre garantie financière est assurée par Atradius Credit Insurance NV, 44 avenue Georges Pompidou, 92300 Levallois Perret CEDEX, France.
