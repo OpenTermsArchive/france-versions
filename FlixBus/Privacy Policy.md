@@ -315,30 +315,23 @@ Vous avez la possibilité de créer un compte client personnel chez nous. Dans l
 
 Pour créer un compte client, les informations obligatoires suivantes sont collectées :
 
-*   adresse e-mail,
-*   prénom et nom de famille,
-*   mot de passe (auto-sélectionné).
+*   numéro de téléphone (pour l'Inde),
+*   adresse e-mail (pour tous les autres pays),
+*   mot de passe (choisi par l'utilisateur).
 
-Nous utilisons ces données pour gérer votre compte client et émettre des factures.
+La base juridique est l'article 6, paragraphe 1(a) du RGPD.
 
 En outre, vous pouvez également saisir un numéro de téléphone portable dans votre compte client, pour nous permettre de vous contacter en cas de retard ou de modification de l’itinéraire de votre voyage (facultatif).
-
-Vous pouvez également choisir de stocker les données supplémentaires suivantes dans votre compte client (facultatif) :
-
-*   titre,
-*   date de naissance,
-*   adresse (code postal, ville et pays),
-*   modes de paiement.
-
-Ces données sont utilisées pour gérer votre compte client et émettre des factures, et peuvent également être utilisées pour envoyer des recommandations de produits personnalisées (clause 2.1.5) et, si vous vous y êtes inscrit, pour envoyer des newsletters (clause 2.1.6).
-
-La base juridique est l’article 6, paragraphe 1(a), (b) ou (f) du RGPD.
-
-Si vous donnez votre consentement, ce que l’on appelle des cookies persistants sont stockés sur votre appareil avec la fonction « rester connecté ». Leur but est que vous n’ayez pas à vous reconnecter lors de chaque visite ultérieure sur notre site Web. Cette fonction n’est pas disponible si vous avez désactivé le stockage de ces cookies dans les paramètres de votre navigateur.
 
 La base juridique est l’article 6, paragraphe 1(f) du RGPD.
 
 Vous pouvez mettre à jour ou supprimer le compte client, et donc vos données à caractère personnel conservées, à tout moment dans votre compte client personnel.
+
+Lorsque vous créez un compte, un cookie « persistant ­» est stocké sur votre appareil et un identifiant de session lui est attribué. Il sert à vous éviter de vous connecter à nouveau lors de visites ultérieures sur notre site Web ou notre application mobile. Cette fonction n'est pas disponible si vous avez désactivé le stockage de ce type de cookie dans les paramètres de votre navigateur.
+
+La base juridique est l'article 6, paragraphe 1(f) du RGPD.  
+  
+Pour supprimer le compte client, vous pouvez nous envoyer un e-mail à [data.protection@flixbus.com](mailto:data.protection@flixbus.com).
 
 ### 2.1.8 Utilisation de cookies, plug-ins et autres services
 
