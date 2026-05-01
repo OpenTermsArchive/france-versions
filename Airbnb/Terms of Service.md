@@ -1564,70 +1564,62 @@ OuiNon
 
 - - -
 
-Déclarer si vous accueillez des voyageurs en tant que particulier ou entreprise
+Déterminer si vous accueillez des voyageurs en tant qu'hôte particulier ou entreprise
 
 
 
 
-=====================================================================================
+===========================================================================================
 
-Pour se conformer à la législation européenne, Airbnb a l'obligation de demander aux hôtes de déclarer s'ils accueillent des voyageurs en tant que particuliers ou en tant qu'entreprises. Votre statut (particulier ou entreprise) sera affiché sur vos annonces pour les voyageurs dans l'Espace économique européen (EEE), au Royaume-Uni et en Suisse.
+Afin de nous conformer à la réglementation « Know Your Customer » (KYC), ainsi qu'aux législations régionales en matière de protection des consommateurs, nous devons savoir si vous exercez votre activité d'hôte en tant qu'entreprise ou si vous créez un compte personnel. Airbnb n'est pas en mesure ni dans l'obligation de déterminer votre statut ; les informations suivantes peuvent donc vous aider à le faire.  
+  
+En général, le fait d'accueillir des voyageurs en tant qu'entreprise signifie que votre activité est enregistrée en tant qu'entreprise auprès de l'administration. C'est le cas pour les hôtes aux États-Unis et dans de nombreux pays du monde. Cependant, dans certains pays et dans certaines circonstances, l'immatriculation de l'entreprise est facultative ou impossible. D'autres facteurs peuvent également déterminer si vous exercez votre activité d'hôte en tant qu'entreprise ou non.
 
-Si vous exercez votre activité d'hôte au Brésil, découvrez les [obligations en matière de données fiscales au Brésil](https://www.airbnb.fr/help/article/3991) et les implications de l'accueil de voyageurs en tant qu'entreprise.
+Dans cet article
 
-Déterminer si vous accueillez des voyageurs en tant que particulier ou en tant que professionnel
-------------------------------------------------------------------------------------------------
+*   [Hôtes au sein de l'Espace économique européen (EEE), au Royaume-Uni et en Suisse](#section-heading-0)
+*   [Hôtes en Corée du Sud](#section-heading-1)
+*   [Hôtes au Brésil](#section-heading-2)
+*   [Ajouter ou modifier votre statut](#section-heading-3)
 
-Airbnb n'est pas en mesure ni dans l'obligation de déterminer votre statut d'hôte. Les informations suivantes peuvent vous aider à déterminer votre statut.  
+Hôtes au sein de l'Espace économique européen (EEE), au Royaume-Uni et en Suisse
+--------------------------------------------------------------------------------
 
-### Hôte particulier
+### Accueillir des voyageurs en tant qu'hôte particulier
 
-Nous vous considérons comme un particulier si l'accueil de voyageurs sur Airbnb n'est pas votre principale activité ou source de revenus (par exemple, s'il s'agit d'une activité secondaire ou si vous ne proposez votre logement à la réservation sur Airbnb qu'à titre occasionnel, par exemple lorsque vous êtes en vacances).
+Vous êtes probablement un hôte particulier si l'accueil de voyageurs sur Airbnb ne constitue pas votre principale activité professionnelle ou source de revenus. Par exemple, si l'accueil de voyageurs sur Airbnb est une activité secondaire ou si vous ne proposez votre logement à la réservation sur Airbnb qu'à titre occasionnel, par exemple lorsque vous êtes en vacances.
 
-### Hôte professionnel
+### Accueillir des voyageurs en tant qu'entreprise
 
-Vous accueillez des voyageurs en tant que professionnel si :
+Vous accueillez des voyageurs en tant qu'entreprise si :
 
-*   L'accueil de voyageurs sur Airbnb est votre principale profession ou source de revenus, ou vous faites partie d'une entreprise établie, comme un boutique-hôtel ou une société de gestion locative.
-*   Vous accueillez des voyageurs en tant que professionnel, entrepreneur individuel, propriétaire unique ou société de personnes.
-*   Votre activité d'hôte est enregistrée dans un registre gouvernemental des entreprises.
-*   Vous avez un numéro de TVA.
+*   L'accueil de voyageurs sur Airbnb est votre principale profession ou source de revenus, ou si vous faites partie d'une entreprise établie, comme un boutique-hôtel ou une société de gestion locative.
+*   Vous accueillez des voyageurs en tant qu'entreprise, entrepreneur individuel ou société de personnes.
+*   Votre activité d'hôte est enregistrée auprès d'un registre gouvernemental des entreprises.
+*   Vous avez un numéro de taxe sur la valeur ajoutée (TVA).
 *   Vous accueillez des voyageurs régulièrement sur Airbnb pour une longue période dans le but de réaliser des bénéfices.
 
-Cette liste n'est pas exhaustive et d'autres facteurs tels que le nombre d'annonces que vous avez ou le nombre de réservations que vous recevez peuvent être pris en compte pour déterminer votre statut. Si vous avez des doutes concernant votre statut d'hôte, nous vous conseillons de consulter un avocat ou un conseiller professionnel.
+Cette liste n'est pas exhaustive et d'autres facteurs tels que le nombre d'annonces que vous avez ou le nombre de réservations que vous recevez peuvent être pris en compte pour déterminer votre statut. Si vous avez des doutes concernant votre statut d'hôte, nous vous conseillons de consulter un avocat ou un conseiller juridique.
 
-Comment déclarer votre statut d'hôte ?
---------------------------------------
+### Obligations en matière d'affichage
 
-Il vous sera demandé de vous déclarer en tant que professionnel ou particulier lors du processus de création de l'annonce ou ultérieurement. Si votre situation change et que vous devez modifier votre statut, vous pouvez y accéder en vous rendant dans vos [informations de compte](https://www.airbnb.fr/account-details).
+Le statut (particulier ou entreprise) des hôtes de ces pays sera affiché sur leurs annonces pour les voyageurs dans l'Espace économique européen (EEE), au Royaume-Uni et en Suisse.
 
-Collecte et vérification des informations relatives à votre entreprise
-----------------------------------------------------------------------
+Vous pouvez trouver des informations supplémentaires sur les [obligations en matière d'affichage pour les hôtes dans l'UE](https://www.airbnb.fr/help/article/4176), ainsi que [sur la manière d'afficher d'autres informations sur votre entreprise si vous vous trouvez en Norvège, en Islande, au Liechtenstein, au Royaume-Uni ou en Suisse](https://www.airbnb.fr/help/article/4048).
 
-Si vous accueillez des voyageurs en tant que professionnel, le [règlement sur les services numériques](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32022R2065) (RSN) exige qu'Airbnb collecte et vérifie certaines informations sur votre entreprise. Selon votre situation, les informations que vous devez fournir peuvent varier. Il s'agit notamment des informations suivantes :
+Hôtes en Corée du Sud
+---------------------
 
-*   Nom de l'entreprise
-*   Adresse professionnelle
-*   Numéro de téléphone
-*   Adresse e-mail
-*   Numéro d'immatriculation de l'entreprise et nom du registre des entreprises (le cas échéant)
+Si vous exercez votre activité d'hôte en Corée du Sud, découvrez [les critères et les obligations applicables à votre situation](https://www.airbnb.fr/help/article/3212), et informez-vous sur les seuils de transaction et les sanctions légales potentielles en cas de non-conformité.
 
-Nous tenterons de vérifier les informations de votre entreprise à l'aide de bases de données en ligne ou en vous demandant des documents justificatifs. Vos annonces ne seront pas visibles par les voyageurs tant que le processus de collecte et de vérification ne sera pas terminé.
+Hôtes au Brésil
+---------------
 
-Une fois la vérification effectuée, si vous devez mettre à jour vos informations professionnelles, vous pouvez le faire dans les paramètres de votre compte. Notez que toute modification apportée aux informations de l'entreprise entraînera une vérification supplémentaire.
+Si vous exercez votre activité d'hôte au Brésil, découvrez vos obligations en matière de données fiscales et les implications [de l'accueil de voyageurs en tant qu'entreprise](https://www.airbnb.fr/help/article/3991).
 
-Afficher les informations relatives à votre entreprise aux voyageurs potentiels
--------------------------------------------------------------------------------
+Ajouter ou modifier votre statut
+--------------------------------
 
-Si vous êtes un hôte professionnel, le RSN nous oblige à afficher sur vos annonces les informations suivantes relatives à votre entreprise :  
-
-*   Si vous êtes une entreprise non immatriculée, votre nom complet (avec votre prénom d'usage, si vous en avez un)
-*   Nom de l'entreprise
-*   Adresse professionnelle
-*   Numéro de téléphone
-*   Adresse e-mail
-*   Numéro d'immatriculation de l'entreprise et nom du registre des entreprises (le cas échéant)
-
-Ces informations ne seront affichées sur l'annonce qu'une fois vérifiées par Airbnb, selon le cas.  
+Il vous sera demandé de vous déclarer en tant qu'entreprise ou hôte particulier lors du processus de création de l'annonce ou ultérieurement. Si votre situation change et que vous devez modifier votre statut, [contactez-nous](https://www.airbnb.fr/help/article/1542) pour nous en informer.
 
 Cette page n'est publiée qu'à titre indicatif. Les informations fournies ne constituent pas un avis juridique. Si vous avez des doutes concernant l'application de ces lois, consultez un avocat ou un conseiller juridique.
