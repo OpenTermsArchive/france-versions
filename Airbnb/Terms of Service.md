@@ -757,7 +757,7 @@ Les Services de paiement peuvent contenir des liens vers des sites web ou des re
 
 Si vous êtes un particulier, vous acceptez expressément par la présente que vous agissez en votre propre nom et non au nom d'un tiers.
 
-Si vous agissez au nom d'une entreprise, d'une société ou d'une autre entité juridique, vous acceptez expressément par la présente que vous avez la capacité juridique suffisante pour agir en son nom (veuillez également vous référer aux Clauses supplémentaires pour les Utilisateurs qui sont des Entreprises).
+Si vous agissez au nom d'une entreprise, d'une société ou d'une autre entité juridique, vous acceptez expressément par la présente que vous avez la capacité juridique suffisante pour agir en son nom (veuillez également vous référer aux Clauses supplémentaires pour les utilisateurs qui sont des entreprises).
 
 Airbnb Payments peut offrir des fonctionnalités qui vous permettent d'autoriser d'autres Membres ou des tiers à effectuer certaines actions ayant une incidence sur votre compte Airbnb. Vous pouvez autoriser un tiers à utiliser votre compte Airbnb si la fonctionnalité est activée pour votre compte Airbnb. Vous reconnaissez et acceptez que toute personne que vous autorisez à utiliser votre compte Airbnb peut utiliser les Services de paiement en votre nom et que vous serez responsable de tous paiements ou instructions effectués par ladite personne.
 
@@ -928,11 +928,11 @@ Votre calendrier des versements sera affiché dans votre [tableau de bord des re
 
 Votre versement pour une réservation correspond au Prix total moins les frais applicables tels que les frais de service Airbnb et les taxes applicables, ainsi que tout montant que vous acceptez d'allouer à un co-hôte, au ou aux propriétaires d'un logement, à une association de propriétaires et/ou à leur agent (tel qu'un exploitant d'immeuble ou une société de gestion locative). En cas d'annulation d'une réservation confirmée, Airbnb Payments versera le montant dû (le cas échéant) conformément aux [Conditions](https://www.airbnb.fr/terms) et aux conditions d'annulation applicables.
 
-### 3.5 Restrictions de Versement
+### 3.5 Restrictions de versement
 
 Airbnb Payments peut temporairement mettre en attente, suspendre ou annuler un Versement dans le but de prévenir une activité illégale ou une fraude, d'évaluer les risques, d'assurer la sécurité ou de mener à bien une enquête ; ou si nous ne sommes pas en mesure de vérifier votre identité, ou, le cas échéant, l'identité de votre ou de vos représentants ou de votre ou vos bénéficiaires effectifs, ou d'obtenir ou de vérifier les informations demandées. En outre, Airbnb Payments peut temporairement mettre en attente, suspendre ou retarder le lancement ou le traitement de tout Versement qui vous est dû en vertu des [Conditions](https://www.airbnb.fr/terms) à la suite d'un volume élevé d'annulations de réservations ou de modifications découlant d'un Cas de force majeure (tel que défini ci-dessous).
 
-### 3.6 Devise de Versement
+### 3.6 Devise de versement
 
 Airbnb Payments effectuera vos Versements dans la devise applicable au Mode de versement que vous avez choisi. Les devises disponibles peuvent être limitées pour des raisons réglementaires ou opérationnelles en fonction de facteurs tels que le Mode de versement choisi, votre pays de résidence et/ou votre ou vos entités contractantes Airbnb. Toute restriction de cette nature sera communiquée sur la Plateforme Airbnb, et vous devrez sélectionner une autre devise ou un autre Mode de versement. Notez que les prestataires de services de paiement peuvent imposer des frais de transaction, de conversion de devises ou d'autres frais en fonction de la devise ou du Mode de versement que vous sélectionnez, et Airbnb Payments n'est pas responsable de ces frais et décline toute responsabilité à cet égard.
 
@@ -944,7 +944,7 @@ Airbnb Payments effectuera vos Versements dans la devise applicable au Mode de v
 
 Les Modes de versement peuvent impliquer le recours à des prestataires de services de paiement tiers. Ces prestataires de services peuvent vous facturer des frais supplémentaires lorsqu'ils traitent de Versements en lien avec les Services de paiement (y compris en déduisant des frais du montant de Versement). Airbnb Payments n'est pas responsable desdits frais et décline toute responsabilité à cet égard. Votre Mode de versement peut également faire l'objet de conditions d'utilisation supplémentaires de la part de ces prestataires de services de paiement tiers. Veuillez les consulter avant d'utiliser votre Mode de versement.
 
-### 3.9 Votre Mode de versement, votre responsabilité
+### 3.9 Votre mode de versement, votre responsabilité
 
 Sous réserve de l'article 17 ou 18, Airbnb Payments n'est pas responsable de toute perte subie par vous en raison d'informations incorrectes que vous auriez fournies sur le Mode de versement.
 
@@ -955,6 +955,40 @@ Sous réserve de l'article 17 ou 18, Airbnb Payments n'est pas responsable de t
 #### 3.10.1 Versements fractionnés
 
 Si vous fournissez des Services d'hôtes conjointement avec un ou plusieurs autres Hôtes en tant que membre d'une équipe, d'une entreprise ou d'une autre organisation (une « **Équipe d'hôtes** »), Airbnb peut mettre à la disposition de ces Hôtes l'option de répartir entre les membres de l'Équipe d'hôtes le montant total du Versement de l'hôte pour une réservation. Airbnb Payments procédera à ces paiements sur instruction d'un ou plusieurs membres de l'Équipe d'hôtes, et les Hôtes sont responsables de l'exactitude de leurs instructions.
+
+#### 3.10.2 Versements par carte prépayée
+
+Certains Hôtes peuvent être éligibles à recevoir un Versement grâce à un Mode de versement par carte prépayée (une « **Carte prépayée** »). Si un Versement est envoyé à un Hôte par le biais d'une Carte prépayée, Airbnb Payments vous fournira un numéro de Carte prépayée pour chaque transaction, le montant autorisé sur cette Carte prépayée, ainsi que sa date d'expiration. Vous ne pouvez pas débiter la Carte prépayée d'un montant supérieur au montant autorisé, et vous devez effectuer le débit de la Carte prépayée avant sa date d'expiration. Chaque Carte prépayée pourra être débitée 24 heures avant l'heure d'arrivée prévue du Voyageur (ou 24 heures avant 15 h 00 heure locale, ou 15 h 00 UTC si l'heure locale est inconnue, si l'heure d'arrivée est flexible ou non spécifiée) et elle expirera 180 jours après l'heure d'arrivée prévue du Voyageur.
+
+**3.10.2.2**
+
+Si vous utilisez incorrectement ou débitez une Carte prépayée de manière excessive, ou si, après avoir débité une Carte prépayée, un Voyageur annule une réservation et/ou a autrement droit à un remboursement en vertu de conditions d'annulation applicables, vous acceptez de rembourser la Carte prépayée si Airbnb Payments le demande. Vous reconnaissez qu'Airbnb Payments est en droit de recouvrer tout montant dû à Airbnb Payments par tout autre moyen autorisé en vertu des présentes Conditions de paiement et/ou en vous adressant une rétrofacturation conformément à la réglementation sur les systèmes de paiement.
+
+**3.10.2.3**
+
+Vous acceptez de ne pas facturer à un Voyageur de frais supplémentaires, ni d'honorer les demandes de Voyageur visant à modifier des réservations ou à acheter des services complémentaires, susceptibles d'impliquer le remboursement par Airbnb Payments d'une partie du Prix total, sans confirmer au préalable auprès d'Airbnb Payments que ces demandes sont acceptables.
+
+**3.10.2.4**
+
+Airbnb Payments aura le droit, dans un délai d'un (1) an après la date à laquelle la Carte prépayée est débitée à l'égard de toute réservation d'un Voyageur, d'auditer le montant facturé sur la Carte prépayée et de vous demander des documents le justifiant. Si Airbnb Payments n'exerce pas ce droit dans ce délai, le montant facturé sur la Carte prépayée sera réputé correct. Si vous ne pouvez pas fournir des documents permettant de justifier un montant débité sur la Carte prépayée, Airbnb Payments aura le droit de vous demander une rétrofacturation et/ou de recouvrer le montant par tout autre moyen autorisé en vertu des présentes Conditions de paiement.
+
+**3.10.2.5**
+
+Vous reconnaissez et acceptez que toute opération de débit de la Carte prépayée que vous envoyez sera traitée par l'acquéreur ou le prestataire de services de paiement concerné et qu'elle est soumise à la réglementation applicable et aux règles du réseau de cartes. Airbnb Payments ne contrôle ni ne garantit le règlement, la compensation ou le traitement des transactions effectuées sur la Carte prépayée par ces parties. Airbnb Payments fournit uniquement les informations relatives à la Carte prépayée afin de faciliter un Versement et n'agit pas en tant que garant, caution ou assureur pour toute transaction par Carte prépayée. Airbnb Payments ne sera pas responsable de tout échec, retard ou erreur de règlement causé par un acquéreur, un prestataire de services de paiement ou un réseau de cartes, y compris tout problème technique, toute défaillance du système, toute insolvabilité, toute application des règles du réseau de cartes, ou tout rejet, refus ou annulation d'un montant facturé sur la Carte prépayée.
+
+**3.10.2.6 Clauses supplémentaires pour les hôtes utilisant un mode de versement par carte prépayée et s'engageant avec Airbnb Payments UK ou Airbnb Payments Luxembourg**
+
+**3.10.2.6.1**
+
+Au moment où vous acceptez les présentes Conditions de paiement ou à tout moment lorsque vous recevez un Versement sur une Carte prépayée, vous reconnaissez que vous n'êtes pas : (i) un consommateur ; ou (ii) une microentreprise, c'est-à-dire une entreprise qui emploie moins de 10 personnes et dont le chiffre d'affaires annuel et/ou le total du bilan annuel ne dépassent pas 2 millions d'euros ; ou (iii) un organisme de bienfaisance enregistré dont le revenu annuel est inférieur à 2 millions d'euros. En conséquence, vous acceptez que les parties suivantes de la directive sur les services de paiement (2015/2366/UE), telles que transposées dans le droit national applicable à Airbnb Payments, ne s'appliquent pas en ce qui concerne les services qui vous sont fournis par Airbnb Payments : l'ensemble des articles du titre 3, l'ensemble de l'article 62, paragraphe 1, l'article 64, paragraphe 3, et les articles 72, 74, 76, 77, 80, 89, 90 et 102 ne s'appliquent pas, et qu'un délai différent s'applique aux fins de l'article 71, à savoir 180 jours après l'heure d'arrivée prévue du Voyageur ou la date d'expiration spécifiée de la Carte prépayée.
+
+**3.10.2.6.2**
+
+Vous acceptez que, pour recevoir un Versement sur une Carte prépayée, vous devez effectuer le débit de la Carte prépayée pour le montant correspondant avant la date d'expiration de la Carte prépayée. Vous acceptez également qu'une fois qu'Airbnb Payments vous a fourni les informations relatives à la Carte prépayée, Airbnb Payments s'est acquitté de son obligation de vous effectuer un Versement en vertu des Conditions de paiement, et que tout défaut de votre part de débiter la Carte prépayée servira de confirmation de votre part qu'aucun montant ne vous est dû par Airbnb Payments, de sorte qu'Airbnb Payments peut conserver ces montants (sous réserve de tout remboursement qu'Airbnb Payments est tenu d'effectuer au profit du Voyageur, conformément à l'article 3.10.2.2 ci-dessus).
+
+**3.10.2.6.3**
+
+La Carte prépayée sera émise au profit d'Airbnb Payments par un émetteur tiers. Pour éviter toute ambiguïté, l'émetteur tiers agit en tant que prestataire de services pour Airbnb Payments et non pour vous ; par conséquent, vous ne concluez aucun contrat avec cet émetteur et vous n'avez pas besoin de prendre d'autres mesures à son égard.
 
 ### 3.11 Acheter maintenant, payer plus tard
 
