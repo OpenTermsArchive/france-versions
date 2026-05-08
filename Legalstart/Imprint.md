@@ -9,7 +9,7 @@ Le site legalstart.fr est édité par la société Yolaw SAS., au capital social
 
 ### **Responsable de publication** 
 
-Monsieur Pierre Aïdan, Président de Yolaw SAS.
+Monsieur Samuel Goldstein, Directeur général de Yolaw SAS.
 
 ### **Hébergeur** 
 
