@@ -548,7 +548,7 @@ ANNEXE 1
 |     |     |     |     |
 | --- | --- | --- | --- |
 | **VOTRE PAYS DE RÉSIDENCE OU D'ÉTABLISSEMENT** | **VOTRE ACTIVITÉ SUR LA PLATEFORME AIRBNB(-)** | **VOTRE RESPONSABLE DU TRAITEMENT** | **ADRESSE POSTALE** |
-| **Australie** | Services de paiement dans le cadre de la réservation d'un Service d'hôte. | Airbnb Payments Australia Pty. Ltd.\* | 58 Gipps Street<br><br>Collingwood VIC 3066 Australie |
+| **Australie** | Services de paiement dans le cadre de la réservation d'un Service d'hôte. | Airbnb Payments Australia Pty. Ltd.\* | Suite 1 Level 3, 62 Lygon Street, Carlton South Vic 3053, Australie |
 |     | Services de paiement pour toute autre activité. | Airbnb Payments UK Ltd. | 280 Bishopsgate<br><br>Londres, EC2M 4AG<br><br>Royaume-Uni |
 |     | Réserver ou proposer certains hôtels ou hébergements traditionnels pour lesquels Airbnb Travel, LLC est identifié au cours du processus de paiement ou de publication de l'annonce. | Airbnb Travel, LLC | 888 Brannan Street<br><br>San Francisco, CA 94103<br><br>États-Unis |
 |     | Réserver ou proposer des hébergements situés aux États-Unis pour des séjours de 28 nuits ou plus lorsque Airbnb Stays, Inc. est identifié lors du processus de paiement ou de publication d'annonce. | Airbnb Stays, Inc. | 888 Brannan Street<br><br>San Francisco, CA 94103<br><br>États-Unis |
