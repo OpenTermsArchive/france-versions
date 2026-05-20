@@ -445,14 +445,6 @@ Bien que nous autorisions la diffusion de différents contenus sur Twitch, tout 
 
 *   Montrer du contenu impliquant une mort ou une blessure grave
 *   Parcourir 4chan, le dark web ou du contenu pornographique sur Twitch
-*   Utiliser des services de chat vidéo aléatoire
-
-  Notes et clarifications concernant les sanctions :
-
-_Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
-
-*   Le contenu vidéo aléatoire que vous ne pouvez pas contrôler n’est en aucun cas autorisé en raison des risques qu’il présente pour les viewers du stream.
-    *   Exemple de comportement interdit : streamer des interactions Ome.tv.
 
 ### Contenu à caractère sexuel
 
@@ -700,7 +692,6 @@ Les comptes d’utilisateurs qui diffusent ou mettent en ligne du contenu releva
 Cette liste n’est pas exhaustive. Elle est régulièrement mise à jour, et certains jeux peuvent y être ajoutés ou supprimés, par exemple si la classification ESRB d’un jeu change ou si le contenu d’un jeu non classé change. 
 
 *   3DXChat
-*   Toutes les plateformes de chat vidéo aléatoires
 *   Artificial Girl 1, 2 et 3
 *   Artificial Academy 1 et 2
 *   Battle Rape
