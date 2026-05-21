@@ -37,15 +37,15 @@ Le directeur de la publication est Benoit Grisoni en qualité de représentant l
 
 Les sites internet sont hébergés par Kyndryl France, Colisée Gardens, 8-14 Avenue de l'Arche, 92400 Courbevoie. Tél : 01 73 06 54 05.
 
-BOURSORAMA met à disposition, sur le site www.BOURSOBANK.COM et sur l’application mobile BOURSOBANK un assistant virtuel fonctionnant avec de l’intelligence artificielle dénommé « Eliott » (ci-après « l’Assistant Eliott »). Il a pour objet d’aider les internautes à trouver rapidement les réponses à leurs questions. Les informations fournies par l’Assistant Eliott sont notamment issues des Espaces et du site [https://www.boursorama-group.com/fr/](https://www.boursorama-group.com/fr/). Les adresses IP et les conversations sont conservées 12 mois à des fins d’amélioration de services. Pour plus d’informations sur le traitement de vos données, vous pouvez consulter la politique de protection des données de BOURSOBANK en cliquant [ici](https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees-membres.pdf).
+BOURSORAMA met à disposition, sur le site www.BOURSOBANK.COM et sur l’application mobile BOURSOBANK un assistant virtuel fonctionnant avec de l’intelligence artificielle dénommé « Bourso.IA ». Il a pour objet d’aider les internautes à trouver rapidement les réponses à leurs questions. Les informations fournies par Bourso.IA sont notamment issues des Espaces et du site [https://www.boursorama-group.com/fr/](https://www.boursorama-group.com/fr/). Les adresses IP et les conversations sont conservées 12 mois à des fins d’amélioration de services. Pour plus d’informations sur le traitement de vos données, vous pouvez consulter la politique de protection des données de BOURSOBANK en cliquant [ici](https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees-membres.pdf).
 
-La navigation sur les Espaces et l’utilisation de l’Assistant Eliott sont soumises à la réglementation en vigueur. Toute utilisation des Espaces, y compris le cas échéant de l’Assistant Eliott, vaut acceptation inconditionnelle de la part de tout internaute du contenu des présentes conditions.
+La navigation sur les Espaces et l’utilisation de Bourso.IA sont soumises à la réglementation en vigueur. Toute utilisation des Espaces, y compris le cas échéant de Bourso.IA, vaut acceptation inconditionnelle de la part de tout internaute du contenu des présentes conditions.
 
-Si vous souhaitez nous contacter, veuillez vous rendre à la rubrique « [Contactez-nous](https://www.boursorama.com/contact/clients "Contactez-nous (nouvelle fenêtre)") » en bas de page des sites ou à la rubrique « aide et contact » de l’application mobile. Dans le cas où l’Assistant Eliott ne serait pas en mesure de répondre à vos questions, celui-ci pourra vous proposer de discuter avec un conseiller.
+Si vous souhaitez nous contacter, veuillez vous rendre à la rubrique « [Contactez-nous](https://www.boursorama.com/contact/clients "Contactez-nous (nouvelle fenêtre)") » en bas de page des sites ou à la rubrique « aide et contact » de l’application mobile. Dans le cas où Bourso.IA ne serait pas en mesure de répondre à vos questions, celui-ci pourra vous proposer de discuter avec un conseiller.
 
-L'utilisation des Espaces et de l’Assistant Eliott est régie par la loi française.
+L'utilisation des Espaces et de Bourso.IA est régie par la loi française.
 
-Pour les besoins des présentes, on entend par « Informations » : tous contenus, données, catalogue, textes, illustrations, photographies, images etc. que ces Informations soient d’ordre général ou financières, qu’elles soient produites par BOURSORAMA ou par des tiers contractuellement liés à BOURSORAMA (notamment les fournisseurs de flux), publiés sur les ESPACES et/ou, accessibles via l’Assistant Eliott.
+Pour les besoins des présentes, on entend par « Informations » : tous contenus, données, catalogue, textes, illustrations, photographies, images etc. que ces Informations soient d’ordre général ou financières, qu’elles soient produites par BOURSORAMA ou par des tiers contractuellement liés à BOURSORAMA (notamment les fournisseurs de flux), publiés sur les ESPACES et/ou, accessibles via Bourso.IA.
 
 2\. Propriété intellectuelle
 ----------------------------
@@ -54,14 +54,14 @@ Pour les besoins des présentes, on entend par « Informations » : tous cont
 
 Les Informations sont la propriété de BOURSORAMA et/ou de tiers contractuellement liés à BOURSORAMA, titulaires de droits de propriété intellectuelle
 
-BOURSORAMA vous confère un droit d'usage privé, non collectif et non exclusif, sur les Espaces, les Informations et l’Assistant Eliott. Ce droit d'usage comprend le droit de reproduire pour stockage aux fins de représentation sur écran monoposte et de reproduction pour tirage sur papier. Toute mise en réseau, toute rediffusion, sous quelque forme, même partielle, est donc interdite. Ce droit est personnel, il est réservé à votre usage exclusif. Il n'est transmissible en aucune manière.
+BOURSORAMA vous confère un droit d'usage privé, non collectif et non exclusif, sur les Espaces, les Informations et Bourso.IA. Ce droit d'usage comprend le droit de reproduire pour stockage aux fins de représentation sur écran monoposte et de reproduction pour tirage sur papier. Toute mise en réseau, toute rediffusion, sous quelque forme, même partielle, est donc interdite. Ce droit est personnel, il est réservé à votre usage exclusif. Il n'est transmissible en aucune manière.
 
 Vous vous engagez en conséquence à :
 
 *   ne télécharger sur votre terminal les Informations que pour un usage personnel et limité dans le temps ;
 *   n'imprimer sur support papier les pages des Espaces téléchargées qu'à la condition que lesdites copies soient strictement limitées à un usage personnel.
 
-Vous vous interdisez notamment de modifier, copier, reproduire, télécharger, diffuser, transmettre, exploiter commercialement et/ou distribuer de quelque façon que ce soit les pages des Espaces et de l’Assistant Eliott, ou les codes informatiques des éléments composant les Espaces et de l’Assistant Eliott.
+Vous vous interdisez notamment de modifier, copier, reproduire, télécharger, diffuser, transmettre, exploiter commercialement et/ou distribuer de quelque façon que ce soit les pages des Espaces et de Bourso.IA, ou les codes informatiques des éléments composant les Espaces et de Bourso.IA.
 
 Toute exploitation non autorisée des Informations engage la responsabilité de l'utilisateur et peut entraîner des poursuites judiciaires fondées notamment sur une action en contrefaçon. Il est également interdit d'utiliser tout moyen de récupération automatique (programme informatique) pour recueillir les Informations. Toute tentative de récupération automatique entraînera immédiatement le dépôt d'une plainte.
 
@@ -69,9 +69,9 @@ Certaines Informations sont actualisées en temps réel et sont données en lice
 
 ### 2.2 Atteinte aux droits de tiers
 
-BOURSORAMA est propriétaire et/ou dispose de l'autorisation d'utiliser l'ensemble des droits portant sur les logos, marques, signes distinctifs ainsi que les bases de données et logiciels utilisés dans le cadre de l'exploitation des Espaces et de l’Assistant Eliott.
+BOURSORAMA est propriétaire et/ou dispose de l'autorisation d'utiliser l'ensemble des droits portant sur les logos, marques, signes distinctifs ainsi que les bases de données et logiciels utilisés dans le cadre de l'exploitation des Espaces et de Bourso.IA.
 
-Toute représentation ou reproduction totale ou partielle des logos, marques, signes distinctifs ainsi que les bases de données utilisées sur les Espaces et l’Assistant Eliott par quelque procédé que ce soit sans l'autorisation expresse et préalable de BOURSORAMA est interdite et constituerait une contrefaçon.
+Toute représentation ou reproduction totale ou partielle des logos, marques, signes distinctifs ainsi que les bases de données utilisées sur les Espaces et Bourso.IA par quelque procédé que ce soit sans l'autorisation expresse et préalable de BOURSORAMA est interdite et constituerait une contrefaçon.
 
 BOURSORAMA se réserve le droit de prendre toutes les mesures qu'elle jugerait adéquates afin d'empêcher ou de mettre un terme à l'atteinte à ses droits d'auteur ou aux droits d'auteur de tiers, sans qu'aucune responsabilité ne puisse lui être imputée de ce fait.
 
@@ -82,11 +82,11 @@ La violation de l'un des droits d'auteur de BOURSORAMA constitue un délit de co
 
 ### 3.1 Informations générales
 
-BOURSORAMA et, le cas échéant ses partenaires et fournisseurs de flux, s'efforcent d'assurer l'exactitude et la mise à jour des Informations. Dans ce cadre, BOURSORAMA se réserve le droit de corriger, à tout moment et sans préavis, les Informations. BOURSORAMA ne peut cependant en garantir l'exhaustivité ou l'absence de modification par un tiers (intrusion, virus). En outre, BOURSORAMA et ses partenaires déclinent toute responsabilité en cas d'erreur, d'inexactitude ou d'omission dans ces Informations ainsi qu'en cas d'interruption ou de non disponibilité des Espaces et/ou de l’Assistant Eliott.
+BOURSORAMA et, le cas échéant ses partenaires et fournisseurs de flux, s'efforcent d'assurer l'exactitude et la mise à jour des Informations. Dans ce cadre, BOURSORAMA se réserve le droit de corriger, à tout moment et sans préavis, les Informations. BOURSORAMA ne peut cependant en garantir l'exhaustivité ou l'absence de modification par un tiers (intrusion, virus). En outre, BOURSORAMA et ses partenaires déclinent toute responsabilité en cas d'erreur, d'inexactitude ou d'omission dans ces Informations ainsi qu'en cas d'interruption ou de non disponibilité des Espaces et/ou de Bourso.IA.
 
 En particulier, certains des produits et services proposés par BOURSORAMA fonctionnent avec de l'intelligence artificielle et peuvent à ce titre contenir et/ou générer des informations qui ne sont pas totalement précises, complètes ou pertinentes, voire qui peuvent être erronées :
 
-*   L'Assistant Eliott : Les réponses apportées par l'Assistant Eliott peuvent ne pas être suffisamment pertinentes ou peuvent être inexactes. Par exemple, l’Assistant Eliott peut être involontairement biaisé car formé sur un modèle pré-entrainé mis à disposition par un tiers. Les Informations sont communiquées à titre indicatif et ne sauraient être assimilées à de quelconques conseils ou recommandations.
+*   Bourso.IA : Les réponses apportées par Bourso.IA peuvent ne pas être suffisamment pertinentes ou peuvent être inexactes. Par exemple, Bourso.IA peut être involontairement biaisé car formé sur un modèle pré-entrainé mis à disposition par un tiers. Les Informations sont communiquées à titre indicatif et ne sauraient être assimilées à de quelconques conseils ou recommandations.
 *   Le sous-titrage automatique de vidéos : certaines des vidéos diffusées par BOURSORAMA sont sous-titrées automatiquement grâce à un outil fourni par un tiers. Du fait de cette automatisation, BOURSORAMA ne peut garantir l'absence d'erreurs ou d'omissions dans la transcription écrite de l'audio.
 *   Les vidéos IA Libertify (la valeur vue par l'IA, la société vue par l'IA, top 5 IA, une semaine en bourse...) : ces vidéos sont créées exclusivement par Libertify. Elles sont communiquées à titre indicatif, sans valeur contractuelle, et ne sauraient être assimilées à de quelconques conseils en investissement ou de recommandations d'acheter, de vendre, ou de continuer à détenir un investissement.
 
@@ -171,17 +171,17 @@ Pour plus d'informations à ce sujet et pour paramétrer vos choix, veuillez con
 8\. Sécurité
 ------------
 
-BOURSORAMA ne garantit pas que les Espaces et l’Assistant Eliott soient accessibles sans interruption. Il pourra interrompre l'accès aux Espaces et à l’Assistant Eliott pour des raisons de maintenance et en cas d'urgence notamment.
+BOURSORAMA ne garantit pas que les Espaces et Bourso.IA soient accessibles sans interruption. Il pourra interrompre l'accès aux Espaces et à Bourso.IA pour des raisons de maintenance et en cas d'urgence notamment.
 
-BOURSORAMA s'engage à faire ses meilleurs efforts pour sécuriser l'accès, la consultation et l'utilisation des Espaces et de l’Assistant Eliott conformément aux règles d'usages de l'Internet.
+BOURSORAMA s'engage à faire ses meilleurs efforts pour sécuriser l'accès, la consultation et l'utilisation des Espaces et de Bourso.IA conformément aux règles d'usages de l'Internet.
 
 BOURSORAMA n'est pas responsable de l'altération, la perte ou la transmission accidentelle de données ou de l'envoi de virus via les contenus postés sur les Espaces par les membres ou adressés à BOURSORAMA pour diffusion sur les Espaces.
 
 En conséquence, la responsabilité de BOURSORAMA ne peut être engagée dans les cas suivants :
 
-*   interruptions momentanées d'une durée de quelques minutes pour la mise à jour des Espaces et/ou de l’Assistant Eliott.
-*   difficultés de fonctionnement ou interruption momentanée des Espaces et/ou de l’Assistant Eliott indépendamment de la volonté de BOURSORAMA notamment en cas d'interruption des services d'électricité ou de communications électroniques.
-*   interruptions momentanées des Espaces et/ou de l’Assistant Eliott nécessaires aux évolutions ou maintenance.
+*   interruptions momentanées d'une durée de quelques minutes pour la mise à jour des Espaces et/ou de Bourso.IA.
+*   difficultés de fonctionnement ou interruption momentanée des Espaces et/ou de Bourso.IA indépendamment de la volonté de BOURSORAMA notamment en cas d'interruption des services d'électricité ou de communications électroniques.
+*   interruptions momentanées des Espaces et/ou de Bourso.IA nécessaires aux évolutions ou maintenance.
 *   défaillance ou dysfonctionnements du réseau Internet dans la transmission de messages ou documents.
 
 Vous acceptez les caractéristiques et les limites de l'Internet, et en particulier vous reconnaissez :
@@ -189,11 +189,11 @@ Vous acceptez les caractéristiques et les limites de l'Internet, et en particul
 *   que vous avez connaissance de la nature de l'Internet, en particulier de ses performances techniques et des temps de réponse pour consulter, interroger ou transférer des contenus.
 *   que la communication de vos éventuels codes d'accès ou d'une manière générale de toute information jugée confidentielle est faite sous votre propre responsabilité.
 *   qu'il vous appartient de prendre toutes mesures nécessaires pour vous assurer que les caractéristiques techniques de votre ordinateur vous permettent la consultation des Informations.
-*   qu'il vous appartient de prendre toutes les mesures appropriées de façon à protéger vos propres données et/ou logiciels de la contamination par des éventuels virus circulant à travers les Espaces et/ou l’Assistant Eliott.
+*   qu'il vous appartient de prendre toutes les mesures appropriées de façon à protéger vos propres données et/ou logiciels de la contamination par des éventuels virus circulant à travers les Espaces et/ou Bourso.IA.
 
-BOURSORAMA ne garantit pas que les Espaces et l’Assistant Eliott soient sans erreurs ni que toutes les imperfections feront l'objet de corrections.
+BOURSORAMA ne garantit pas que les Espaces et Bourso.IA soient sans erreurs ni que toutes les imperfections feront l'objet de corrections.
 
-Vous vous engagez à ne pas utiliser de dispositifs ou logiciels de toutes sortes afin de perturber ou tenter de perturber le bon fonctionnement des Espaces et de l’Assistant Eliott et à ne pas engager d'action qui imposerait une charge disproportionnée sur les infrastructures de BOURSORAMA.
+Vous vous engagez à ne pas utiliser de dispositifs ou logiciels de toutes sortes afin de perturber ou tenter de perturber le bon fonctionnement des Espaces et de Bourso.IA et à ne pas engager d'action qui imposerait une charge disproportionnée sur les infrastructures de BOURSORAMA.
 
 9\. Digital services act
 ------------------------
