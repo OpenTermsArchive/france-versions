@@ -1,75 +1,39 @@
-*   Nous contacter
-    
-*   Section A : Notre collecte, utilisation et partage de vos données personnelles
-    
-    *   Les catégories de données personnelles que nous collectons
-        
-    *   Où nous collectons vos données personnelles
-        
-    *   Comment nous utilisons vos données personnelles
-        
-    *   Avec qui nous partageons des données personnelles
-        
-    *   Transferts internationaux de données personnelles
-        
-    *   Clauses de confidentialité supplémentaires
-        
-*   Section B : Vos droits et contrôles
-    
-    *   Vos droits en matière de protection des données personnelles
-        
-    *   Préférences de communication et marketing
-        
-    *   Choix concernant les Publicités
-        
-    *   Choix concernant les cookies
-        
-    *   Contact et questions
-        
-*   Section C : Accès à votre compte et à vos profils
-    
-*   Section D : Cookies et autres technologies
-    
-    *   Cookies et technologies similaires, pixel tags et autres identifiants
-        
-    *   Pourquoi est-ce que Netflix utilise ces technologies ?
-        
-    *   Comment puis-je exercer mes choix à l'égard de ces technologies ?
-        
-*   Section E : Autres clauses de confidentialité importantes
-    
-*   Fonctionnalité de partage sur notre service
-    
-    *   Sécurité
-        
-    *   Conservation des données personnelles
-        
-    *   Autres sites Web, plateformes et applications
-        
-    *   Mineurs
-        
-    *   Modifications apportées à la présente Déclaration de confidentialité
-        
-*   Section F : Clauses de confidentialité supplémentaires pour certains services et certaines régions
-    
-*   Clauses de confidentialité supplémentaires pour Netflix Games
-    
-    *   Les catégories de données personnelles que nous collectons
-        
-    *   Comment nous utilisons vos données personnelles
-        
-    *   Avec qui nous partageons des données personnelles
-        
-    *   Autres joueurs
-        
-    *   Jeux sur TV et sur Netflix.com
-        
-*   Clauses de confidentialité supplémentaires pour les résidents de l'EEE/du R-U
-    
-    *   Bases légales
-        
-    *   Transferts internationaux depuis l'EEE et le R-U
-        
+*   [Nous contacter](#nouscontacter0)
+*   [Section A : Notre collecte, utilisation et partage de vos données personnelles](#sectionanotrecollecteutilisationetpartagedevosdonneespersonnelles1)
+    *   [Les catégories de données personnelles que nous collectons](#lescategoriesdedonneespersonnellesquenouscollectons2)
+    *   [Où nous collectons vos données personnelles](#ounouscollectonsvosdonneespersonnelles3)
+    *   [Comment nous utilisons vos données personnelles](#commentnousutilisonsvosdonneespersonnelles4)
+    *   [Avec qui nous partageons des données personnelles](#avecquinouspartageonsdesdonneespersonnelles5)
+    *   [Transferts internationaux de données personnelles](#transfertsinternationauxdedonneespersonnelles6)
+    *   [Clauses de confidentialité supplémentaires](#clausesdeconfidentialitesupplementaires7)
+*   [Section B : Vos droits et contrôles](#sectionbvosdroitsetcontroles8)
+    *   [Vos droits en matière de protection des données personnelles](#vosdroitsenmatieredeprotectiondesdonneespersonnelles9)
+    *   [Préférences de communication et marketing](#preferencesdecommunicationetmarketing10)
+    *   [Choix concernant les Publicités](#choixconcernantlespublicites11)
+    *   [Choix concernant les cookies](#choixconcernantlescookies12)
+    *   [Contact et questions](#contactetquestions13)
+*   [Section C : Accès à votre compte et à vos profils](#sectioncaccesavotrecompteetavosprofils14)
+*   [Section D : Cookies et autres technologies](#sectiondcookiesetautrestechnologies15)
+    *   [Cookies et technologies similaires, pixel tags et autres identifiants](#cookiesettechnologiessimilairespixeltagsetautresidentifiants16)
+    *   [Pourquoi est-ce que Netflix utilise ces technologies ?](#pourquoiestcequenetflixutilisecestechnologies17)
+    *   [Comment puis-je exercer mes choix à l'égard de ces technologies ?](#commentpuisjeexercermeschoixalegarddecestechnologies18)
+*   [Section E : Autres clauses de confidentialité importantes](#sectioneautresclausesdeconfidentialiteimportantes19)
+*   [Fonctionnalité de partage sur notre service](#fonctionnalitedepartagesurnotreservice20)
+    *   [Sécurité](#securite21)
+    *   [Conservation des données personnelles](#conservationdesdonneespersonnelles22)
+    *   [Autres sites Web, plateformes et applications](#autressiteswebplateformesetapplications23)
+    *   [Mineurs](#mineurs24)
+    *   [Modifications apportées à la présente Déclaration de confidentialité](#modificationsapporteesalapresentedeclarationdeconfidentialite25)
+*   [Section F : Clauses de confidentialité supplémentaires pour certains services et certaines régions](#sectionfclausesdeconfidentialitesupplementairespourcertainsservicesetcertainesregions26)
+*   [Clauses de confidentialité supplémentaires pour Netflix Games](#clausesdeconfidentialitesupplementairespournetflixgames27)
+    *   [Les catégories de données personnelles que nous collectons](#lescategoriesdedonneespersonnellesquenouscollectons28)
+    *   [Comment nous utilisons vos données personnelles](#commentnousutilisonsvosdonneespersonnelles29)
+    *   [Avec qui nous partageons des données personnelles](#avecquinouspartageonsdesdonneespersonnelles30)
+    *   [Autres joueurs](#autresjoueurs31)
+    *   [Jeux sur TV et sur Netflix.com](#jeuxsurtvetsurnetflixcom32)
+*   [Clauses de confidentialité supplémentaires pour les résidents de l'EEE/du R-U](#clausesdeconfidentialitesupplementairespourlesresidentsdeleeeduru33)
+    *   [Bases légales](#baseslegales34)
+    *   [Transferts internationaux depuis l'EEE et le R-U](#transfertsinternationauxdepuisleeeetleru35)
 
 Déclaration de confidentialité
 ==============================
