@@ -5,7 +5,7 @@ PRÉAMBULE
 
 Nos Conditions Générales de Ventes peuvent être téléchargées et/ou enregistrées en cliquant [ici](https://www.comptoirdescotonniers.com/on/demandware.static/-/Library-Sites-CDCSharedLibrary/default/dwb206216a/PAGE-SERVICE/CGV/cgv-fr.pdf)  
   
-Les présentes conditions d’utilisation et conditions générales de vente (ci-après les « CGV ») s’appliquent exclusivement entre tout utilisateur du site de vente en ligne [www.comptoirdescotonniers.fr](https://www.comptoirdescotonniers.com/) (ci-après le « Site ») et la société Comptoir des Cotonniers, une Société par actions simplifiée au capital 24.600592.504 euros, dont le siège social est 151 rue Saint Honoré – 75001 PARIS, immatriculée au RCS Paris sous le numéro 720 802 776 (ci-après « **Comptoir des Cotonniers** » ou le « **Vendeur** »).  
+Les présentes conditions d’utilisation et conditions générales de vente (ci-après les « CGV ») s’appliquent exclusivement entre tout utilisateur du site de vente en ligne [www.comptoirdescotonniers.fr](https://www.comptoirdescotonniers.com/) (ci-après le « Site ») et FAST RETAILING France, une Société par Actions simplifiées, au capital de 2 000 000 euros, dont le siège social est 151 rue Saint-Honoré 75001 PARIS, immatriculée au RCS Paris sous le numéro 482 065 786 au RCS de Paris. (ci-après « **Comptoir des Cotonniers** » ou le « **Vendeur** »).  
   
 Les achats de produits proposés à la vente sur le Site sont réservés à des personnes physiques non commerçantes majeures et ayant la pleine capacité juridique (ci-après le « **Client** »).  
   
@@ -99,6 +99,16 @@ La livraison peut toutefois être retardée pour des raisons indépendantes de l
 Une livraison est présumée avoir été effectuée dès lors que le système de contrôle du transporteur enregistre la mise à disposition de la commande auprès du Client (remise contre signature).  
   
 Comptoir des Cotonniers attire l’attention du Client sur la nécessité, lors de la réception du colis de contrôler l’état général de l’emballage du produit. En cas de problème (colis ouvert, colis vide), le Client doit refuser le colis et contacter le Service Relation Client.
+
+**6.3 Livraison Colissimo QR code**
+
+Dans le cadre d’une livraison sécurisée via Colissimo, le destinataire reçoit son code sécurisé (code à 6 chiffres et QR code) par mail au moment de la prise en charge par Colissimo et par SMS le matin de la livraison.
+
+La remise de ce colis nécessitera votre présence car il s’agit d’une livraison sécurisée contre code confidentiel. Ce code vous sera transmis par Colissimo la veille de votre livraison par mail et le jour-même par SMS. Sans ce code, le livreur sera dans l’impossibilité de vous remettre votre colis.
+
+Toutefois, s'il ne retrouve pas son code au moment de la première tentative de livraison, il pourra le retrouver avant la 2e tentative. Un mail lui sera renvoyé après l'échec du 1er passage pour lui rappeler le code sécurisé.
+
+S'il ne retrouve pas du tout son code, il pourra se rendre en bureau de Poste afin de récupérer son colis sur présentation de sa carte d'identité uniquement (pas de code demandé).
 
 ARTICLE 7. DROIT DE RETRACTATION  
 **7.1 Exercice du droit de rétractation**
