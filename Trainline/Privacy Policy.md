@@ -316,37 +316,25 @@ Voici vos droits :
 
 Il s'applique aux informations que vous nous fournissez. Vous pouvez nous demander de transmettre ces informations à un autre contrôleur de données dans un format lisible.
 
-[En savoir plus](https://ico.org.uk/your-data-matters/your-right-to-data-portability/)
-
 ### Rectification
 
 Vous pouvez corriger ou modifier à tout moment vos données personnelles, comme votre nom ou adresse e-mail, en consultant votre compte depuis notre app ou notre site.
-
-[En savoir plus](https://ico.org.uk/your-data-matters/your-right-to-get-your-data-corrected/)
 
 ### Limitation du traitement
 
 Vous pouvez nous demander de limiter le traitement de vos informations dans certains cas.
 
-[En savoir plus](https://ico.org.uk/your-data-matters/your-right-to-limit-how-organisations-use-your-data/)
-
 ### Accès
 
 Vous pouvez nous demander des copies de vos données. Ce droit s'applique presque systématiquement, mais il existe des exceptions.
-
-[En savoir plus](https://ico.org.uk/your-data-matters/your-right-to-get-copies-of-your-data/)
 
 ### Effacement
 
 Vous pouvez nous demander d'effacer vos données dans certains cas.
 
-[En savoir plus](https://ico.org.uk/your-data-matters/your-right-to-get-your-data-deleted/)
-
 ### Opposition au traitement
 
 Vous pouvez vous opposer à la façon dont nous traitons vos données.
-
-[En savoir plus](https://ico.org.uk/your-data-matters/the-right-to-object-to-the-use-of-your-data/)
 
 Supprimer votre compte
 ----------------------
