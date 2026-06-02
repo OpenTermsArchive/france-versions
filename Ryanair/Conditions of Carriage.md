@@ -2216,9 +2216,9 @@ Bagage enregistré de 23 kg
 
 (par vol)
 
-n/a
+€/£ 54 - €/£ 97 (par vol)
 
-Les frais varient en fonction de l’itinéraire et des dates de voyage. Le bagage enregistré de 23 kg ne sera disponible qu’au moment de la réservation. Les passagers qui n’ont pas ajouté ce bagage à leur réservation ne pourront pas le faire à l’aéroport ou via le centre d’appel.
+Les frais varient en fonction de l'itinéraire et des dates de voyage choisies.
 
 Frais d’excédent de bagage
 
