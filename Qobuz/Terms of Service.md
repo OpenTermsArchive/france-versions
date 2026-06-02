@@ -327,7 +327,7 @@ De même, XANDRIE SA se réserve le droit d'interrompre définitivement un servi
 
 Le Service de streaming QOBUZ sera accessible par le Client sur son ordinateur personnel (PC ou Mac) via le Site, le Player QOBUZ, ou l'application QOBUZ Desktop.
 
-Le Streaming et l'Importation sur les Périphériques d’écoute mobiles nécessitent le téléchargement et l'installation préalables des applications mobiles QOBUZ sur ces supports (liste des applications mobiles disponibles à l’adresse suivante : [https://www.qobuz.com/fr-fr/applications](https://www.qobuz.com/fr-fr/applications)).
+Le Streaming et l'Importation sur les Périphériques d’écoute mobiles nécessitent le téléchargement et l'installation préalables des applications mobiles QOBUZ sur ces supports (liste des applications mobiles disponibles à l’adresse suivante : [https://www.qobuz.com/fr-fr/discover/apps-partners](https://www.qobuz.com/fr-fr/applications)).
 
 L'utilisation du Service d'écoute illimitée en streaming nécessite une connexion internet haut-débit et éventuellement une connexion sans fil (Wifi et réseaux radiotéléphoniques mobiles) pour les Périphériques d’écoute mobiles.
 
@@ -352,7 +352,7 @@ Le prix des téléchargements d’enregistrements musicaux et des offres d’abo
 
 Le prix des téléchargements d’enregistrements musicaux et des offres d’abonnement QOBUZ comprendra le prix du produit plus toute TVA (taxe sur la valeur ajoutée) applicable à la date du téléchargement ou du paiement.
 
-XANDRIE SA se réserve le droit de modifier les prix ou les présentes CGUV à tout moment. Les modifications entreront en vigueur à partir du moment où les conditions seront publiées sur ce site ; les produits et services seront facturés selon les tarifs en vigueur au moment de l'enregistrement de la commande du Client. XANDRIE SA se réserve le droit d’ajuster automatiquement les prix des téléchargements d’enregistrements musicaux et des offres d’abonnement QOBUZ, en cas d’inflation ou encore en cas de frais annexes imposés à XANDRIE SA (taxes, frais de gestion selon les moyens de paiement utilisés par le Client…).
+XANDRIE SA se réserve le droit de modifier les prix ou les présentes CGUV à tout moment. Les modifications entreront en vigueur à partir du moment où les conditions seront publiées sur ce site ; les produits et services seront facturés selon les tarifs en vigueur au moment de l'enregistrement de la commande du Client. XANDRIE SA se réserve le droit d’ajuster automatiquement les prix des téléchargements d’enregistrements musicaux, en cas d’inflation ou encore en cas de frais annexes imposés à XANDRIE SA (taxes…).
 
 Nos prix ne comprennent pas les frais de connexion et de communication relatifs à l'utilisation d'un service de vente en ligne, ces derniers étant à la charge exclusive de l'internaute.
 
