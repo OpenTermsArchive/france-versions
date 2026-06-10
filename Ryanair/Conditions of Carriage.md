@@ -1484,7 +1484,7 @@ REGULAR, PLUS, FAMILY PLUS, TIME SAVER & FLEXI PLUS
 
 **Tarifs Regular**
 
-Les tarifs Regular sont uniquement disponibles pour les réservations en ligne et ne peuvent pas être achetés par le biais de centres d’appel/à l’aéroport. Il est en outre impossible d’effectuer un surclassement Plus ou Flexi Plus à une date ultérieure.
+Les billets Regular ne peuvent pas être achetés auprès des centres d’appels/aéroports. Il est en outre impossible d’effectuer un surclassement vers le tarif Plus ou Flexi Plus ultérieurement. 
 
 Tous les tarifs Regular sont non remboursables, à l’exception des cas pour lesquels l’une des clauses 4.2, 10.2, 10.3 ou 10.4 de nos conditions générales de transport s’applique.
 
@@ -1497,11 +1497,9 @@ Les tarifs Regular ne peuvent pas être réservés avec la réduction Erasmus.
 
 **Tarifs Plus** 
 
-Les tarifs Plus seront disponibles sur tous les vols et devront être appliqués à tous les passagers et vols de votre réservation. 
+Les tarifs Plus sont disponibles sur tous les vols et doivent être appliqués à tous les passagers et à tous les vols de votre réservation. Il est en outre impossible d’effectuer un surclassement vers le tarif Flexi Plus ultérieurement. 
 
-Les tarifs Plus sont uniquement disponibles lors de la réservation initiale du vol. Il est en outre impossible d’effectuer un surclassement Flexi Plus à une date ultérieure.
-
-Tous les tarifs Plus sont non remboursables, à l’exception des cas pour lesquels l’une des clauses 4.2, 10.2, 10.3 ou 10.4 de nos conditions générales s’applique.
+Tous les tarifs Plus sont non remboursables, à l’exception des cas pour lesquels l’une des clauses 4.2, 10.2, 10.3 ou 10.4 de nos conditions générales de transport s’applique.
 
 Les services suivants sont inclus dans les tarifs Plus :
 
