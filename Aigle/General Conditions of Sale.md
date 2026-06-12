@@ -122,7 +122,7 @@ Conformément aux dispositions des articles L.221-18 et suivants du Code de la c
 
 Pour exercer ce droit, le Client doit notifier sa décision à Aigle avant l’expiration du délai de rétractation, soit :
 
-*   par e-mail : [serviceclient@aigle.com](mailto:serviceclient@aigle.com)
+*   par e-mail : [contact@aigle.com](mailto:contact@aigle.com)
 *   ou via le formulaire de rétractation disponible [ici](https://www.aigle.com/on/demandware.static/-/Library-Sites-Librarie-shard-aigle/default/dwb075d98a/documents/FORMULAIRE_DE_RETRACTATION.pdf).
 
 Le Client dispose ensuite d’un délai de quatorze (14) jours à compter de la communication de sa décision de se rétracter pour renvoyer le(s) Produit(s) à Aigle, à ses frais, sauf si Aigle propose de les récupérer elle-même.
@@ -175,7 +175,7 @@ Conformément à l’article 1641 du Code civil, Aigle est tenue de la garantie 
 
 Le Client peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l’article 1644 du Code civil.
 
-Les demandes au titre de ces garanties doivent être adressées à : [serviceclient@aigle.com](mailto:serviceclient@aigle.com) ou par courrier postal à l’adresse suivante :
+Les demandes au titre de ces garanties doivent être adressées à : [contact@aigle.com](mailto:contact@aigle.com) ou par courrier postal à l’adresse suivante :
 
 Aigle Service Clients  
 57 Boulevard de Montmorency  
