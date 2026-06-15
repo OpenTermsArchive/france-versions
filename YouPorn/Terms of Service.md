@@ -1,12 +1,12 @@
-Terms Of Service
+Terms of Service
 ================
 
-Last Modified: June 30, 2025
+Last Modified: May 1, 2026
 
 Acceptance of the Terms of Service
 ----------------------------------
 
-By accessing, using or visiting [https://www.youporn.com/](https://www.youporn.com/) (“**we**”, “**us**”, “**our**” or this “**Website**”), any of its Content, functionalities and services, you signify your agreement to these Terms of Service including policies and related guidelines (for instance, Child Sexual Abuse Material Policy and Non-Consensual Content Policy) (collectively “Terms of Service”), and our [Privacy Notice](https://www.youporn.com/info/privacy) and incorporated herein by reference.
+By accessing, using or visiting [www.youporn.com](https://www.youporn.com/) (“**we**”, “**us**”, “**our**” or this “**Website**”), any of its Content, functionalities and services, you signify your agreement to these Terms of Service including policies and related guidelines (for instance, Child Sexual Abuse Material Policy and Non-Consensual Content Policy) (collectively “Terms of Service”), and our [Privacy Notice](https://www.youporn.com/info/privacy) and incorporated herein by reference.
 
 You may terminate these Terms of Service at any time by deleting your account and refraining from further use of our services.
 
@@ -124,12 +124,12 @@ Online Safety Act - Rules Applicable to Australian Users
 
 For the purposes of this section:
 
-*   “Class 1A Material” shall mean any material, by any medium, that depicts, or otherwise contains child sexual exploitation/child sexual abuse, extreme crime and/or violence, or material that is in support of terror and/or acts of terror.
-*   “Class 1B Material” shall mean any material that depicts or otherwise contains crime and/or violence (but not extreme drug or violence), or drug-related material.
+*   "Class 1A Material" shall mean any material, by any medium, that depicts, or otherwise contains child sexual exploitation/child sexual abuse, extreme crime and/or violence, or material that is in support of terror and/or acts of terror.
+*   "Class 1B Material" shall mean any material that depicts or otherwise contains crime and/or violence (but not extreme drug or violence), or drug-related material.
 
 Class 1A Material and Class 1B Material may hereinafter collectively be referred to as “Illicit Material”.
 
-Per the provisions of the Online Safety Act (2021) (the “OSA”) Content Partners and Models hereby must ensure and subsequently warrants that:
+Per the provisions of the Online Safety Act (2021) (the "OSA") Content Partners and Models hereby must ensure and subsequently warrants that:
 
 *   The Content uploaded or attempted to be uploaded to this Website is in adherence to our Terms described herein.
 *   Any audiovisual content uploaded or attempted to be uploaded to this Website does not contain Illicit Material.
@@ -227,7 +227,7 @@ In addition to the general restrictions above, the following restrictions and co
 *   post any Content which impersonates another person or falsely states or otherwise misrepresents your affiliation with a person;
 *   use this Website (or post any Content that) in any way that promotes or facilitates prostitution, solicitation of prostitution, human trafficking, or sex trafficking;
 *   use this Website to arrange any in-person meetings for purposes of sexual activity for hire or consideration;
-*   request or offer content for monetary, or any other form of compensation, via any means including, but not limited to, through commenting, or private messaging.
+*   request or offer content for monetary, or any other form of compensation, via any means including, but not limited to, through commenting, or private messaging;
 *   deploy programs, software, or applications designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment, including by engaging in any denial-of-service attack or similar conduct;
 *   deploy or use programs, software or applications designed to harm, interfere with the operation of, or access in an unauthorized manner, services, networks, servers, or other infrastructure;
 *   exceed your authorized access to any portion of this Website;
@@ -335,6 +335,62 @@ Information about You and Your Visits to this Website
 
 All information we collect on this Website is subject to our [Privacy Notice](https://www.youporn.com/info/privacy). By using this Website, you acknowledge that you have read and understand the terms of the [Privacy Notice](https://www.youporn.com/info/privacy) and that you consent to all actions taken by us with respect to your information in compliance with the [Privacy Notice](https://www.youporn.com/info/privacy).
 
+Data Retention Schedule
+-----------------------
+
+This Data Retention Schedule (“**Schedule**”) forms part of, complements, and should be read in conjunction with the Terms of Service. It establishes the retention timeframes and handling of data. This Schedule applies to data collected from individuals who create and upload content or appear in such content (“**Models**” and “**Co‑Performers**”).
+
+Definitions:
+
+“**Abuse Prevention**” includes efforts to detect, investigate, prevent, and mitigate conduct that violates our Terms of Service, community standards, or applicable law, including unlawful content, exploitation, impersonation, safety-related concerns, and other misuse of our Terms of Services.  
+"**Associated Content**" means Content uploaded by a Model or in which a Co-Performer appears.  
+“**Compliance**” includes processing or retaining data to satisfy legal, regulatory, and industry obligations, including identity verification, age-verification, accounting reporting, maintaining records required by law enforcement, responding to investigative or regulatory requests, and any mandatory record retention obligations under federal, state, or international law.  
+“**Disciplinary Action**” means any corrective measure imposed by the Website in response to a violation of the Terms of Service, Website rules, or applicable law, including, without limitation, warnings, suspension, feature restrictions, removal of Content, and permanent account termination.  
+“**Financial Operations**” includes payment processing, validating payout eligibility, processing refunds or chargebacks, financial reconciliation, audit support, detection of unauthorized payment activity, and maintenance of financial statements and supporting documentation as required by applicable accounting standards.  
+“**Fraud Prevention**” includes activities necessary to detect, investigate, prevent, and mitigate fraudulent, deceptive, or unauthorized activity involving Model accounts. This includes identity verification, monitoring of unusual activity patterns, reviewing historical transaction data, validating account authenticity, detecting suspicious login attempts, preventing unauthorized access, and assisting with audits, investigations, or dispute resolution arising from suspected fraudulent activity.
+
+**Criteria for Active Accounts**
+
+A Model’s account is considered active unless it meets any of the Inactivity Criteria set forth on the Website. A Model’s account is considered Inactive if any of the following apply (collectively, the “**Inactivity Criteria**”):
+
+1.  The following two conditions are both satisfied:
+2.  the Model has not logged in at least once within the preceding three (3) years; and
+3.  the Model has not received at least one (1) view on any uploaded Content within the same three (3) year period; or
+4.  The Model has requested deletion of their account; or
+5.  The Model has requested to be downgraded to a regular User account; or
+6.  The Model has been permanently banned due to Disciplinary Action.
+
+A Co-Performer is considered active only if:  
+(a) the associated Model is active; and  
+(b) the Co-Performer has not requested deletion of their information.
+
+If one or more of the Inactivity Criteria apply, the account (or Co-Performer status, as applicable) is deemed Inactive.
+
+**Models**
+
+| Data Category | Purpose for Collection | Business Need | Retention Period |
+| --- | --- | --- | --- |
+| Account Identity Information: Full Name, Date of birth, Gender, Physical address (country, state, zip, city, address), Phone number | Create and maintain accounts; verify identity; ensure safety. | Eligibility confirmation; Fraud Prevention; user support. | As long as the model account does not meet the Inactivity Criteria plus one (1) year from account deletion. |
+| Performer Consent and Release Agreement | Verify age; confirm permission to publish content. | Compliance; Abuse Prevention. | As long as the model account does not meet the Inactivity Criteria plus one (1) year from account deletion. |
+| Government‑Issued ID (copy) | Verify identity and legal age. | Compliance. | Deleted within 7 days from the date of verification. |
+| Derived ID Information: Issue Date, Expiration Date, Place of Birth, Document ID, Document type, Issuing country of document | Maintain identity validation. | Compliance; Fraud Prevention. | As long as the model account does not meet the Inactivity Criteria plus one (1) from account deletion. |
+| Stage name, Social Media Links, Avatar, Relationship status, Interested in (sexual preferences), Brief Profile Description, Ethnicity, Body measurements etc. | Display profile and enhance discoverability. | Platform functionality. | As long as the model account does not meet the Inactivity Criteria. |
+| Uploaded Content: The content (videos/images), Title/description of uploaded content, Date of production | Display, distribute content. | Content moderation; recordkeeping. | As long as the model account does not meet the Inactivity Criteria. |
+| Model Account Credentials (username, password, Email address) | Maintain account status. | Account servicing; Compliance. | As long as the model account does not meet the Inactivity Criteria. |
+| Transactions-Financial Data: Taxpayer Identification Number "TIN", TIN insurance country, Social Security Number "SSN", VAT number, VAT country, VAT status, Payment details (Total amount paid and dates of payment), Certification of tax status: via W-9 (U.S.), Copies of 1099 forms issued | Process payments; tax reporting. | Tax obligations. | 6 years from financial year collected. |
+| Bank Account Information (IBAN, account number, credit card information) | Process payouts. | Financial Operations. | As long as the model account does not meet the Inactivity Criteria. |
+| Private Messages | Facilitate user communication; enable content transactions; provide customer support. | Compliance; content moderation. | As long as the model account does not meet the Inactivity Criteria. |
+
+**Co-Performers**
+
+| Data Category | Purpose for Collection | Business Need | Retention Period |
+| --- | --- | --- | --- |
+| Account Identity Information: Full Name, Date of birth, Gender, Physical address (country, state, zip, city, address), Email address, Phone number | Create and maintain accounts; verify identity; ensure safety. | Eligibility confirmation; Fraud Prevention; user support. | As long as the Co-Performer does not meet the Inactivity Criteria plus one (1) year after final removal of all Associated Content. |
+| Government‑Issued ID (copy) | Verify identity and legal age. | Compliance. | Deleted within 7 days from the date of verification. |
+| Derived ID Information: Issue Date, Expiration Date, Place of Birth, Document ID, Document type, Issuing country of document | Maintain identity validation. | Compliance; Fraud Prevention. | As long as the Co-Performer does not meet the Inactivity Criteria plus one (1) year after final removal of all Associated Content. |
+
+Exceptional Circumstances: The retention periods identified above may be extended as reasonably required to enforce our Terms of Service or where required by law, regulation, court order, or other legal obligations, including, but not limited to, those relating to a government investigation, a dispute resolution proceeding, and a litigation hold requirement.
+
 Collection and Use of Your Usage Information by Advertisers and Others
 ----------------------------------------------------------------------
 
@@ -350,7 +406,9 @@ This Website may provide certain social media features that enable you to:
 *   link from your own or certain third-party websites to certain Content on this Website;
 *   send emails or other communications with certain Content, or links to certain Content, on this Website;
 *   cause limited portions of Content on this Website to be displayed or appear to be displayed on your own or certain third-party websites.
-*   You may use these features solely as they are provided by us and solely with respect to the Content they are displayed with and otherwise in accordance with any additional terms and conditions we provide with respect to such features. Subject to the foregoing, you must not:
+
+You may use these features solely as they are provided by us and solely with respect to the Content they are displayed with and otherwise in accordance with any additional terms and conditions we provide with respect to such features. Subject to the foregoing, you must not:
+
 *   cause this Website or portions of this Website to be displayed, or appear to be displayed by, for example, framing, deep linking or in-line linking, on any other site,
 *   otherwise take any action with respect to the materials on this Website that is inconsistent with any other provision of these Terms of Service.
 
