@@ -1,22 +1,22 @@
 Terms of Service
 ================
 
-Last Modified: June 30, 2025
+Last Modified: May 1, 2026
 
 Acceptance of the Terms of Service
 ----------------------------------
 
-By accessing, using, or visiting [www.redtube.com](https://fr.redtube.com/) (“**we**”, “**us**”, “**our**”, or this “**Website**”), any of its Content, functionalities, and services, you signify your agreement to these Terms of Service including policies and related guidelines (for instance, Child Sexual Abuse Material Policy and Non-Consensual Content Policy) (collectively, “**Terms of Service**”) and our [Privacy Notice](https://fr.redtube.com/info/privacy) and incorporated herein by reference.
+By accessing, using or visiting [www.redtube.com](https://fr.redtube.com/) (“**we**”, “**us**”, “**our**” or this “**Website**”), any of its Content, functionalities and services, you signify your agreement to these Terms of Service including policies and related guidelines (for instance, Child Sexual Abuse Material Policy and Non-Consensual Content Policy) (collectively “**Terms of Service**”), and our [Privacy Notice](https://fr.redtube.com/info/privacy) and incorporated herein by reference.
 
 You may terminate these Terms of Service at any time by deleting your account and refraining from further use of our services.
 
-These Terms of Service apply to all users, registered or unregistered, including Content Partners, and Models who may also be contributors of content, of this Website (collectively “**you**”, “**User**” or “**Users**” as the context requires)), whether accessed via computer, mobile device, or other technology, manner, or means.
+These Terms of Service apply to all users, registered or unregistered, including Content Partners, and Models who may also be contributors of content, of this Website (collectively "**you**", "**User**" or "**Users**" as the context requires), whether accessed via computer, mobile device, or other technology, manner, or means.
 
-"**Content**” includes the text, software, scripts, graphics, photos, sounds, music, videos, audiovisual combinations, interactive features, textual content, and other materials you may view, upload, publish, submit, make available, display, communicate or post on this Website.
+“**Content**” includes the text, software, scripts, graphics, photos, sounds, music, videos, audiovisual combinations, interactive features, textual content, and other materials you may view, upload, publish, submit, make available, display, communicate or post on this Website.
 
-“**Content Partners**” means users of this Website who have joined the [Pornhub Content Partner program](https://www.pornhub.com/partners/cpp) and who may use their Pornhub Content Partner Program account to access this Website as a registered Content Partner.
+“**Content Partners**” means users of this Website who have joined the [Pornhub Content Partner Program](https://www.pornhub.com/partners/cpp) and who may use their Pornhub Content Partner Program account to access this Website as a registered Content Partner.
 
-“**Models**” means users of this Website who have joined our [Pornhub Model Partner Program](https://www.pornhub.com/partners/models) and who may use their [Pornhub Model Partner Program](https://www.pornhub.com/partners/models) account to access this Website as a registered Model and are subject to its terms and this present Terms of Service.
+“**Models**” means users of this Website who have joined our [Pornhub Model Partner Program](https://www.pornhub.com/partners/models) and who may use their [Pornhub Model Partner Program](https://www.pornhub.com/partners/models) account to access this Website as a registered Model and are subject to its terms and this Terms of Service.
 
 If you do not agree to any of these Terms of Service or our [Privacy Notice](https://fr.redtube.com/info/privacy), please do not access or use this Website.
 
@@ -30,7 +30,7 @@ You affirm that:
 *   You are at least eighteen (18) years of age or the age of majority in the jurisdiction you are accessing and/or using this Website from and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms of Service, and to abide by and comply with these Terms of Service. **If you are under eighteen (18) years of age or the applicable age of majority, please do not use this Website.**
 *   You also represent that the jurisdiction from which you access this Website does not prohibit the receiving or viewing of sexually explicit Content.
 
-Whether you are a registered or unregistered User, we may require that you provide us and/or our third-party age verification service providers with information which will help us determine that you are over the age of majority required to have access to this Website and to view its Contents. For more information on how this information is processed, please review our [Privacy Notice](https://fr.redtube.com/info/privacy). Failure to, when required, to provide us and/or our third-party age verification service providers with information which will help us determine that you are over the age of majority required to have access to this Website and to view its Contents will lead to the termination or suspension of your access rights to all or part of this Website.
+Whether you are a registered or unregistered User, we may require that you provide us and/or our third-party age verification service providers with information which will help us determine that you are over the age of majority required to have access to this Website and to view its Contents. For more information on how this information is processed, please review our [Privacy Notice](https://fr.redtube.com/info/privacy). Failure to, when required, provide us and/or our third-party age verification service providers with information which will help us determine that you are over the age of majority required to have access to this Website and to view its Contents will lead to the termination or suspension of your access rights to all or part of this Website.
 
 Changes to the Terms of Service
 -------------------------------
@@ -81,16 +81,16 @@ If you choose, or are provided with, a username, password, or any other piece of
 
 If you interact with us or with third-party service providers, you agree that all information that you provide are and will be accurate, complete, and current. You will review all policies and agreements applicable to use of third-party services. In the event you use our Website over mobile devices, you hereby acknowledge that your carrier’s normal rates and fees, such as excess broadband fees, will still apply.
 
-We have the right to disable any username, password, or other identifier, whether chosen by you or provided by us, at any time in our sole discretion for any or no reason, including if, in our opinion, you have violated any provision of these Terms of Service.
+We have the right to disable any username, password or other identifier, whether chosen by you or provided by us, at any time in our sole discretion for any or no reason, including if, in our opinion, you have violated any provision of these Terms of Service.
 
 Limited, Conditional License to Use Our Intellectual Property
 -------------------------------------------------------------
 
-RedTube and associated logos and names are our trademarks and/or service marks. Other trademarks, service marks, names, and logos used on or through this Website, such as trademarks, service marks, names, or logos associated with third party content providers, are the trademarks, service marks, or logos of their respective owners. You are granted no right or license with respect to any of the aforesaid trademarks, service marks, or logos.
+Redtube and associated logos and names are our trademarks and/or service marks. Other trademarks, service marks, names, and logos used on or through this Website, such as trademarks, service marks, names, or logos associated with third party content providers, are the trademarks, service marks, or logos of their respective owners. You are granted no right or license with respect to any of the aforesaid trademarks, service marks, or logos.
 
 The inclusion of images or text containing the trademarks or service marks or the name or likeness of any person, including any celebrity, does not constitute an endorsement, express or implied, by any such person, of this Website or vice versa.
 
-This Website and certain materials available on or through this Website are Content we own, authored, created, purchased, or licensed (collectively, our "**Works**"). Our Works may be protected by copyright, trademark, patent, trade secret, and/or other laws, and we reserve and retain all rights in our Works and this Website.
+This Website and certain materials available on or through this Website are Content we own, authored, created, purchased, or licensed (collectively, our “**Works**”). Our Works may be protected by copyright, trademark, patent, trade secret, and/or other laws, and we reserve and retain all rights in our Works and this Website.
 
 We grant you a conditional, revocable, non-sublicensable, non-transferable and non-exclusive and limited license to access and use our Website and Works solely for your personal use, conditioned upon your compliance with these Terms of Service and your agreement to display this Website whole and intact as presented by this Website’s host, complete with any advertising, to not interfere with the display of any advertising, and to not use ad blocking software of any kind. This limited license is further conditioned upon your agreement not to use any information obtained from or through this Website to block or interfere with the display of any advertising on this Website, or for the purpose of implementing, modifying, or updating any software or filter lists that block or interfere with the display of any advertising on this Website. Interference with the display of any advertising on this Website, use of ad blocking software to block or disable any advertising while viewing this Website, or use of information obtained from or through this Website to update any ad blocking software or filter lists, is prohibited, violates the conditions of your limited license to view this Website and Works and constitutes copyright infringement.
 
@@ -124,8 +124,8 @@ Online Safety Act - Rules Applicable to Australian Users
 
 For the purposes of this section:
 
-*   “Class 1A Material” shall mean any material, by any medium, that depicts, or otherwise contains child sexual exploitation/child sexual abuse, extreme crime and/or violence, or material that is in support of terror and/or acts of terror.
-*   “Class 1B Material” shall mean any material that depicts or otherwise contains crime and/or violence (but not extreme drug or violence), or drug-related material.
+*   "Class 1A Material" shall mean any material, by any medium, that depicts, or otherwise contains child sexual exploitation/child sexual abuse, extreme crime and/or violence, or material that is in support of terror and/or acts of terror.
+*   "Class 1B Material" shall mean any material that depicts or otherwise contains crime and/or violence (but not extreme drug or violence), or drug-related material.
 
 Class 1A Material and Class 1B Material may hereinafter collectively be referred to as “Illicit Material”.
 
@@ -136,8 +136,8 @@ Per the provisions of the Online Safety Act (2021) (the “OSA”) Content Partn
 *   Content Partners and Models reserves the right to and shall take any action it deems necessary in order to limit, prevent, remove, or otherwise moderate any content which infringes the provisions of this section and/or any other, applicable terms. Content Partners and Models shall also ensure, to the extent possible, that you comply with the provisions of this section.
 *   We have a zero-tolerance policy towards the solicitation, access, generation, distribution, or storage of any content that involves the depiction of children or features Class 1A Material in any capacity. All child sexual exploitation/abuse material that we identify or are made aware of will result in the immediate removal of the content in question as well as the immediate removal of its uploader from this Website. Without prejudice to all other rights reserved for action against the above (including account suspension, removal of infringing content etc.), we report all cases of apparent child sexual exploitation/abuse material to the National Center for Missing and Exploited Children.
 
-Obligation to comply with Records Keeping Requirements under 18 U.S.C. §2257.
------------------------------------------------------------------------------
+Obligation to comply with Records Keeping Requirements under 18 U.S.C. §2257
+----------------------------------------------------------------------------
 
 You certify that the Content you upload to this Website has been produced and records are being kept in accordance with 18 U.S.C. § 2257 et. seq., as modified from time to time, with the rules and regulations set forth in 28 C.F.R. § 75 et. seq., as modified from time to time, and any other applicable records keeping or age verification laws. Upon our request, you shall promptly deliver us legible copies (as may be lawfully redacted), of valid (as of the date of production of the Content) recognizable governmental photo identifications for any or all individuals appearing in any or all of your Content (demonstrating that each were at least 18 years of age on the day the Content was produced) together with the required identification forms, documents and releases. In this context, when we refer to all individuals appearing in the Content, we mean, without limitation, filmed, photographed, or recorded individuals or individuals in any way in the Content, whether appearing nude, semi-nude or fully clothed, engaging in simulated or actual sexual intercourse (including solo scenes). We do not accept or accommodate voice over or sounds from persons less than 18 years of age appearing in the background or synced with the Content whether featured or not. Your failure to promptly deliver the requested information upon request, may lead to the temporary or permanent suspension of your account. You will, at your own expense, indemnify, defend and hold us harmless from, any and all liabilities, losses, damages, fines, fees, penalties, costs and expenses (including reasonable attorneys’ fees) incurred or suffered by us from any claim arising or resulting from your failure or negligence to comply with maintenance of any legally mandated records.
 
@@ -163,7 +163,9 @@ You further agree that Content you submit to this Website will not contain third
 
 You agree and understand that this Website (and its successors’ and affiliates’) may make use of your Content for promotional or commercial purposes and to render the services pursuant to these Terms of Services. For clarity, you retain all of your ownership rights in your Content. Without regard to the Last Modified date, by submitting Content to this Website, you hereby grant this Website’s operators an unlimited, worldwide, perpetual, non-exclusive, royalty-free, sublicensable, and transferable license to use, reproduce, publish, distribute, broadcast, market, create derivative works of, adapt, translate, publicly display, communicate, or perform, make available or otherwise use all of the Content, including without limitation for promoting and redistributing part or all of this Website (and derivative works thereof) in any media formats and through any media channels. You also waive to the full extent permitted by law any and all claims against us related to moral rights in the Content. In no circumstances will we be liable to you for any exploitation of any Content that you post. You also hereby grant each User of this Website a non-exclusive, royalty free license to access your Content through this Website as permitted under these Terms of Service. You hereby understand and agree that you may not use this Website to allow other Users to download or otherwise save the Content you post (or any part thereof). The above licenses granted by you in video Content you submit to this Website terminate within a commercially reasonable time after you remove or delete your Content from this Website. You understand and agree, however, that this Website may retain, but not display, distribute, or perform, server copies of your videos that have been removed or deleted. The above licenses granted by you in User comments you submit are perpetual and irrevocable. This Website do not endorse any Content submitted by any User or other licensor, or any opinion, recommendation, or advice expressed therein, and this Website expressly disclaim any and all liability in connection with Content. This Website does not permit copyright infringing activities and infringement of intellectual property rights on this Website, and this Website will remove all Content if properly notified that such Content infringes on another’s intellectual property rights. This Website reserves the right to remove Content without prior notice. This Website reserves the right to hash any uploaded Content for training purposes including but not limited to, training for identifying, or combating illegal activities and these hashes may be shared with third parties, including law enforcement agencies.
 
-All Content you submit must comply with the Content standards set out in these Terms of Service. If any of the Content that you post to or through this Website contain ideas, suggestions, documents, and/or proposals to us, we will have no obligation of confidentiality, express or implied, with respect to such Content, and we shall be entitled to use, exploit, or disclose (or choose not to use or disclose) such Content in our sole discretion without any obligation to you whatsoever (i.e. you will not be entitled to any compensation of any kind from us under any circumstances).
+All Content you submit must comply with the Content standards set out in these Terms of Service.
+
+If any of the Content that you post or through this Website contain ideas, suggestions, documents, and/or proposals to us, we will have no obligation of confidentiality, express or implied, with respect to such Content, and we shall be entitled to use, exploit, or disclose (or choose not to use or disclose) such Content in our sole discretion without any obligation to you whatsoever (i.e. you will not be entitled to any compensation of any kind from us under any circumstances).
 
 Rules Applicable to Content Partners
 ------------------------------------
@@ -204,8 +206,6 @@ Content is provided to you AS IS. You may access Content for your information an
 Prohibited Uses and Reporting
 -----------------------------
 
-Content you attempt to publish on the Website must not infringe any applicable laws or rights of third parties. Further, Content posted must not violate these Terms of Service, including any policies or documents referenced in these Terms of Service, and especially the “Prohibited Uses” section found herein.
-
 If you see any Content you suspect violates applicable law, third party rights, or these Terms of Service, please report such Content to us, using the electronic form available at [https://www.redtube.com/content\_removal](https://fr.redtube.com/info/content_removal), or the “**Flag This Video**” button available below each piece of content. Further, the Website does not permit any form of revenge porn, blackmail, or intimidation, and such violations may also be reported using the content removal link herein.
 
 We will give due priority to reports submitted by our Trusted Flaggers, who have been granted this status by the Digital Services Coordinator of the relevant Member State of the European Union. In addition, Non-Governmental Organizations and Statutory Offices can also join the Pornhub Trusted Flagger Program.
@@ -227,7 +227,7 @@ In addition to the general restrictions above, the following restrictions and co
 *   post any Content which impersonates another person or falsely states or otherwise misrepresents your affiliation with a person;
 *   use this Website (or post any Content that) in any way that promotes or facilitates prostitution, solicitation of prostitution, human trafficking, or sex trafficking;
 *   use this Website to arrange any in-person meetings for purposes of sexual activity for hire or consideration;
-*   request or offer content for monetary, or any other form of compensation, via any means including, but not limited to, through commenting, or private messaging.
+*   request or offer content for monetary, or any other form of compensation, via any means including, but not limited to, through commenting, or private messaging;
 *   deploy programs, software, or applications designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment, including by engaging in any denial-of-service attack or similar conduct;
 *   deploy or use programs, software or applications designed to harm, interfere with the operation of, or access in an unauthorized manner, services, networks, servers, or other infrastructure;
 *   exceed your authorized access to any portion of this Website;
@@ -248,7 +248,7 @@ Additionally, you agree not to:
 *   introduce or upload any viruses, trojan horses, worms, logic bombs, time bombs, cancelbots, corrupted files or any other similar software, program, or material which is malicious or technologically harmful or that that may damage the operation of another’s property or of this Website’s or our services;
 *   attempt to gain unauthorized access to, interfere with, damage, or disrupt any parts of this Website, the server on which this Website are stored, or any server, computer, or database connected to this Website;
 *   remove any copyright or other proprietary notices from our Website or any of the materials contained therein;
-*   attack this Website via a denial-of-service attack or a distributed denial-of-service attack;
+*   remove any copyright or other proprietary notices from our Website or any of the materials contained therein;
 *   otherwise attempt to interfere with the proper working of this Website.
 
 Monitoring and Enforcement; Termination
@@ -266,7 +266,7 @@ We have the right but not the obligation to take any of the following actions, i
 We may also:
 
 *   remove or refuse to post any Content you submit or contribute to this Website for any or no reason in our sole discretion, including, without limitation, if any information or documentation provided by you is inadequate, incomplete, or inaccurate or does not allow us to assess and confirm your identity.
-*   monitor any communication occurring on or through this Website to confirm compliance with these Terms of Service, the security of this Website, or any legal obligation.
+*   monitor any communication occurring on or through this Website to confirm compliance with these Terms of Service, the security of this Website, or any legal obligation;
 *   take appropriate legal action, including without limitation, referral to law enforcement, for any illegal or unauthorized use of this Website.
 
 If we have reason to believe that Content violates any applicable law, third party right, or these Terms of Service, we may take appropriate interim actions (as described herein), to prevent potential harm to our further investigation. In deciding on the appropriate and proportionate course of action, we will give due consideration to the legitimate interests of the impacted User, any other potentially affected rights holders, and our own legitimate interests. In particular, we will assess the nature of the Content concerned, the gravity of the respective violation or illegality, and any indications on whether or not the Content contributor was at fault. In case an investigation was prompted following report by a User, we will also consider the explanatory information and evidence provided by such User and, if available, the reporting User’s submission history.
@@ -307,7 +307,9 @@ We may suspend your access to our reporting and internal complaint-handling syst
 Account Termination Policy
 --------------------------
 
-While pornographic and adult-oriented Content is accepted, this Website reserves the right to decide whether Content is appropriate or violates these Terms of Service for reasons other than copyright infringement and violations of intellectual property rights, such as, but not limited to, obscene or defamatory material. In line with the provisions of the section titled “Monitoring and Enforcement; Termination”, we may, in our sole discretion, issue warning or take analogous, appropriate action (on repeat offences) against such infringements. If you violate the letter or spirit of these Terms of Service, or otherwise create risk or possible legal exposure for us, we can terminate access to this Website or stop providing all or part of this Website to you for any reasons at our convenience.
+While pornographic and adult-oriented Content is accepted, this Website reserves the right to decide whether Content is appropriate or violates these Terms of Service for reasons other than copyright infringement and violations of intellectual property rights, such as, but not limited to, obscene or defamatory material. In line with the provisions of the section titled “Monitoring and Enforcement; Termination”, we may, in our sole discretion, issue warning or take analogous, appropriate action (on repeat offences) against such infringements.
+
+If you violate the letter or spirit of these Terms of Service, or otherwise create risk or possible legal exposure for us, we can terminate access to this Website or stop providing all or part of this Website to you for any reasons at our convenience.
 
 Copyright and Other Intellectual Property
 -----------------------------------------
@@ -332,6 +334,65 @@ Information about You and Your Visits to this Website
 -----------------------------------------------------
 
 All information we collect on this Website is subject to our [Privacy Notice](https://fr.redtube.com/info/privacy). By using this Website, you acknowledge that you have read and understand the terms of the [Privacy Notice](https://fr.redtube.com/info/privacy) and that you consent to all actions taken by us with respect to your information in compliance with the [Privacy Notice](https://fr.redtube.com/info/privacy).
+
+Data Retention Schedule
+-----------------------
+
+This Data Retention Schedule (“**Schedule**”) forms part of, complements, and should be read in conjunction with the Terms of Service. It establishes the retention timeframes and handling of data. This Schedule applies to data collected from individuals who create and upload content or appear in such content (“**Models**” and “**Co‑Performers**”).
+
+Definitions: 
+
+“**Abuse Prevention**” includes efforts to detect, investigate, prevent, and mitigate conduct that violates our Terms of Service, community standards, or applicable law, including unlawful content, exploitation, impersonation, safety-related concerns, and other misuse of our Terms of Services.  
+"**Associated Content**" means Content uploaded by a Model or in which a Co-Performer appears.  
+“**Compliance**” includes processing or retaining data to satisfy legal, regulatory, and industry obligations, including identity verification, age-verification, accounting reporting, maintaining records required by law enforcement, responding to investigative or regulatory requests, and any mandatory record retention obligations under federal, state, or international law.  
+“**Disciplinary Action**” means any corrective measure imposed by the Website in response to a violation of the Terms of Service, Website rules, or applicable law, including, without limitation, warnings, suspension, feature restrictions, removal of Content, and permanent account termination.   
+“**Financial Operations**” includes payment processing, validating payout eligibility, processing refunds or chargebacks, financial reconciliation, audit support, detection of unauthorized payment activity, and maintenance of financial statements and supporting documentation as required by applicable accounting standards.   
+“**Fraud Prevention**” includes activities necessary to detect, investigate, prevent, and mitigate fraudulent, deceptive, or unauthorized activity involving Model accounts. This includes identity verification, monitoring of unusual activity patterns, reviewing historical transaction data, validating account authenticity, detecting suspicious login attempts, preventing unauthorized access, and assisting with audits, investigations, or dispute resolution arising from suspected fraudulent activity.
+
+**Criteria for Active Accounts**
+
+A Model’s account is considered active unless it meets any of the Inactivity Criteria set forth on the Website. A Model’s account is considered Inactive if any of the following apply (collectively, the “**Inactivity Criteria**”):
+
+1.  The following two conditions are both satisfied:
+2.  the Model has not logged in at least once within the preceding three (3) years; and
+3.  the Model has not received at least one (1) view on any uploaded Content within the same three (3) year period; or
+4.  The Model has requested deletion of their account; or
+5.  The Model has requested to be downgraded to a regular User account; or
+6.  The Model has been permanently banned due to Disciplinary Action.
+
+A Co-Performer is considered active only if:  
+(a) the associated Model is active; and  
+(b) the Co-Performer has not requested deletion of their information.
+
+If one or more of the Inactivity Criteria apply, the account (or Co-Performer status, as applicable) is deemed Inactive.
+
+**Models**
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Data Category | Purpose for Collection | Business Need | Retention Period |
+| Account Identity Information:  <br>Full Name   <br>Date of birth   <br>Gender  <br>Physical address (country, state, zip, city, address)  <br>Phone number | Create and maintain accounts; verify identity; ensure safety. | Eligibility confirmation; Fraud Prevention; user support. | As long as the model account does not  meet the Inactivity Criteria plus one (1) year from account deletion. |
+| Performer Consent and Release Agreement | Verify age; confirm permission to publish content. | Compliance; Abuse Prevention. | As long as the model account does not meet the Inactivity Criteria plus one (1) year from account deletion. |
+| Government‑Issued ID (copy) | Verify identity and legal age. | Compliance. | Deleted within 7 days from the date of verification. |
+| Derived ID Information:  <br>Issue Date   <br>Expiration Date   <br>Place of Birth    <br>Document ID   <br>Document type    <br>Issuing country of document | Maintain identity validation. | Compliance; Fraud Prevention. | As long as the model account does not meet the Inctivity Criteria plus one (1) from account deletion. |
+| Stage name    <br>Social Media Links  <br>Avatar    <br>Relationship status   <br>Interested in (sexual preferences)    <br>Brief Profile Description   <br>Ethnicity     <br>Body measurements etc. | Display profile and enhance discoverability. | Platform functionality. | As long as the model account does not meet the Inactivity Criteria. |
+| Uploaded Content:  <br>The content (videos/images)   <br>Title/description of uploaded content    <br>Date of production | Display, distribute content. | Content moderation; recordkeeping. | As long as the model account does not meet the Inactivity Criteria. |
+| Model Account Credentials (username, password, Email address) | Maintain account status. | Account servicing; Compliance. | As long as the model account does not meet the Inactivity Criteria.. |
+| Transactions-Financial Data:  <br>Taxpayer Identification Number “TIN”   <br>TIN insurance country   <br>Social Security Number “SSN”   <br>VAT number   <br>VAT country   <br>VAT status   <br>Payment details (Total amount paid and dates of payment)   <br>Certification of tax status: via W-9 (U.S.)   <br>Copies of 1099 forms issues | Process payments; tax reporting. | Tax obligations. | 6 years from financial year collected. |
+| Bank Account Information (IBAN, account number, credit card information) | Process payouts. | Financial Operations. | As long as the model account does not meet the Inactivity Criteria. |
+| Private Messages | Facilitate user communication; enable content transactions; provide customer support | Compliance; content moderation. | As long as the model account does not meet the Inactivity Criteria. |
+
+  
+**Co-Performers**
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Data Category | Purpose for Collection | Business Need | Retention Period |
+| Account Identity Information  <br>Full Name   <br>Date of birth   <br>Gender  <br>Physical address (country, state, zip, city, address)  <br>Email address   <br>Phone number | Create and maintain accounts; verify identity; ensure safety. | Eligibility confirmation; Fraud Prevention; user support. | As long as the Co-Performer does not meet the Inactivity Criteria plus one (1) year after final removal of all Associated Content. |
+| Government‑Issued ID (copy) | Verify identity and legal age. | Compliance. | Deleted within 7 days from the date of verification. |
+| Derived ID Information:  <br>Issue Date   <br>Expiration Date   <br>Place of Birth    <br>Document ID   <br>Document type    <br>Issuing country of document | Maintain identity validation. | Compliance; Fraud Prevention. | As long as the Co-Performer does not meet the Inactivity Criteria plus one (1) year after final removal of all Associated Content. |
+
+Exceptional Circumstances: The retention periods identified above may be extended as reasonably required to enforce our Terms of Service or where required by law, regulation, court order, or other legal obligations, including, but not limited to, those relating to a government investigation, a dispute resolution proceeding, and a litigation hold requirement.
 
 Collection and Use of Your Usage Information by Advertisers and Others
 ----------------------------------------------------------------------
@@ -389,9 +450,9 @@ Limitation of Liability
 
 IN NO EVENT SHALL THE WEBSITE, ITS OFFICERS, DIRECTORS, OR EMPLOYEES BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER RESULTING FROM ANY (I) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT, (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF OUR WEBSITE OR SERVICES, (III) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (IV) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM OUR WEBSITE, (IV) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH OUR WEBSITE OR SERVICES BY ANY THIRD PARTY, (V) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF YOUR USE OF ANY CONTENT TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA OUR WEBSITE OR SERVICES, AND/OR (VI) INTERACTIONS YOU HAVE WITH THIRD-PARTY ADVERTISEMENTS OR SERVICE PROVIDERS, OR THIRD-PARTY SITES, FOUND ON OR THROUGH THIS WEBSITE, INCLUDING PAYMENT AND DELIVERY OF RELATED GOODS OR SERVICES, AND ANY OTHER TERMS, CONDITIONS, POLICIES, WARRANTIES OR REPRESENTATIONS ASSOCIATED WITH SUCH DEALINGS, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT THE WEBSITE OR ITS SITE OPERATOR ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION.
 
-YOU SPECIFICALLY ACKNOWLEDGE THAT THE WEBSITE OFFICERS, DIRECTORS, EMPLOYEES, SHALL NOT BE LIABLE FOR CONTENT OR FOR THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY THIRD PARTY, AND THAT THE RISK OF HARM OR DAMAGE FROM THE FOREGOING RESTS ENTIRELY WITH YOU.
+YOU SPECIFICALLY ACKNOWLEDGE THAT THIS WEBSITE OFFICERS, DIRECTORS, EMPLOYEES, SHALL NOT BE LIABLE FOR CONTENT OR FOR THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY THIRD PARTY, AND THAT THE RISK OF HARM OR DAMAGE FROM THE FOREGOING RESTS ENTIRELY WITH YOU.
 
-YOU FURTHER ACKNOWLEDGE THAT ANY CONTENT UPLOADED TO THIS WEBSITE MAY BE VIEWED, DOWNLOADED, SHARED, AND DISTRIBUTED, POTENTIALLY IN VIOLATION OF YOUR RIGHTS OR THESE TERMS OF SERVICE – AND THAT YOU SOLELY ASSUME SUCH RISKS AS A MATERIAL PART OF THESE TERMS OF SERVICE.
+YOU FURTHER ACKNOWLEDGE THAT ANY CONTENT UPLOADED TO THIS WEBSITE MAY BE VIEWED, DOWNLOADED, SHARED, AND DISTRIBUTED - POTENTIALLY IN VIOLATION OF YOUR RIGHTS OR THESE TERMS OF SERVICE AND THAT YOU SOLELY ASSUME SUCH RISKS AS A MATERIAL PART OF THESE TERMS OF SERVICE.
 
 YOU AGREE NOT TO FILE ANY ARBITRATION CLAIM, LAWSUIT OR PROCEEDING INCONSISTENT WITH THE FOREGOING LIABILITY LIMITATIONS.
 
@@ -463,6 +524,6 @@ No waiver by us of any term or condition set forth in these Terms of Service sha
 
 If any provision of these Terms of Service is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms of Service, which shall remain in full force and effect.
 
-The Terms of Service, our [Privacy Notice](https://fr.redtube.com/info/privacy), our [Copyright Policy](https://fr.redtube.com/info/dmca), and any documents they expressly incorporate by reference constitute the sole and entire agreement between you and us with respect to this Website.
+The Terms of Service, our [Privacy Notice](https://fr.redtube.com/info/privacy), our [Copyright Policy](https://fr.redtube.com/info/dmca) and any documents they expressly incorporate by reference constitute the sole and entire agreement between you and us with respect to this Website.
 
 We may terminate these Terms of Service for any or no reason at any time by notifying you through a notice on this Website, by email, or by any other method of communication. Any such termination will be without prejudice to our rights, remedies, claims, or defenses hereunder. Upon termination of the Terms of Service, you will no longer have a right to access your account or your Content. We will not have any obligation to assist you in migrating your data or your Content and we may not keep any back up of any of your Content. We undertake no responsibility for deleting your Content under these Terms of Service. Note that, even if your Content is deleted from our active servers, it may remain in our archives (but we have no obligation to archive or back-up your Content), and subject to the licenses set forth in these Terms of Service.
