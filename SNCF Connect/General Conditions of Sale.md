@@ -16,35 +16,35 @@ Table des matières
 
 CONDITIONS GÉNÉRALES DE VENTE ET D'UTILISATION DU SITE WWW.SNCF-CONNECT.COM .......................... 1
 
-PRÉAMBULE ...................................................................................................................................... 3
+PRÉAMBULE ...................................................................................................................................... 2
 
-CHAPITRE I - GÉNÉRALITÉS ................................................................................................................ 4
+CHAPITRE I - GÉNÉRALITÉS ................................................................................................................ 3
 
-ARTICLE 1. DÉFINITIONS ET CHAMP D'APPLICATION ............................................................................... 4
+ARTICLE 1. DÉFINITIONS ET CHAMP D'APPLICATION ............................................................................... 3
 
-1.1 DÉFINITIONS ................................................................................................................... 4
+1.1 DÉFINITIONS ................................................................................................................... 3
 
-1.2 CHAMP D’APPLICATION.................................................................................................... 4
+1.2 CHAMP D’APPLICATION.................................................................................................... 3
 
-ARTICLE 2. UTILISATION DU SITE WWW.SNCF-CONNECT.COM............................................................... 5
+ARTICLE 2. UTILISATION DU SITE WWW.SNCF-CONNECT.COM............................................................... 4
 
-2.1 UTILISER L’ESPACE LOISIR ................................................................................................ 6
+2.1 UTILISER L’ESPACE LOISIR ................................................................................................ 5
 
-2.2 LIVRAISON....................................................................................................................... 7
+2.2 LIVRAISON....................................................................................................................... 6
 
-2.3 PREUVE........................................................................................................................... 7
+2.3 PREUVE........................................................................................................................... 6
 
-2.4 DROIT DE RÉTRACTATION ................................................................................................. 7
+2.4 DROIT DE RÉTRACTATION ................................................................................................. 6
 
 CHAPITRE II – CONDITIONS GÉNÉRALES APPLICABLES AUX PRESTATIONS PROPOSÉES PAR SNCF
 
-CONNECT ......................................................................................................................................... 8
+CONNECT ......................................................................................................................................... 7
 
-ARTICLE 3. PRESTATIONS FERROVIAIRES................................................................................................. 8
+ARTICLE 3. PRESTATIONS FERROVIAIRES................................................................................................. 7
 
 3.1 CONDITIONS DU « E-BILLET » .................................................................................................. 8
 
-3.2 RETRAIT DES BILLETS............................................................................................................ 10
+3.2 RETRAIT DES BILLETS.............................................................................................................. 9
 
 3.3 CONDITIONS DU E-BILLET EUROSTAR.................................................................................... 10
 
@@ -54,23 +54,23 @@ VOYAGEURS FERROVIAIRES .........................................................
 
 ARTICLE 4. PRESTATIONS D’AUTOCAR................................................................................................... 13
 
-ARTICLE 5. CARTES SNCF ...................................................................................................................... 14
+ARTICLE 5. CARTES SNCF ...................................................................................................................... 13
 
 CHAPITRE III - CONDITIONS GÉNÉRALES APPLICABLES AUX PRESTATIONS VENDUES PAR LES
 
-PARTENAIRES DE SNCF CONNECT ................................................................................................... 15
+PARTENAIRES DE SNCF CONNECT ................................................................................................... 14
 
-ARTICLE 6. PRESTATIONS «LOCATION DE VOITURE »................................................................................. 15
+ARTICLE 6. PRESTATIONS «LOCATION DE VOITURE »................................................................................. 14
 
 ARTICLE 7. PRESTATIONS « JUNIOR \& CIE », « MES BAGAGES », « RESTAU A BORD », « MAX ACTIF + », « MAX
 
-ACTIF », « MAX JEUNE » ET « MAX SENIOR »................................................................................................ 15
+ACTIF », « MAX JEUNE » ET « MAX SENIOR »................................................................................................ 14
 
 ARTICLE 8. PRESTATIONS DE COVOITURAGE ......................................................................................... 15
 
-ARTICLE 9. PRESTATIONS URBAINS ....................................................................................................... 16
+ARTICLE 9. PRESTATIONS URBAINS ....................................................................................................... 15
 
-ARTICLE 10. PRESTATIONS HOTELIERES .................................................................................................. 16
+ARTICLE 10. PRESTATIONS HOTELIERES .................................................................................................. 15
 
 ARTICLE 11. PRESTATIONS TAXI VTC ........................................................................................................ 16
 
@@ -78,29 +78,31 @@ ARTICLE 11. PRESTATIONS TAXI VTC ...............................................
 
 
 
-CHAPITRE IV – CONDITIONS FINANCIÈRES ....................................................................................... 18
+CHAPITRE IV – CONDITIONS FINANCIÈRES ....................................................................................... 16
 
-ARTICLE 12. CONDITIONS FINANCIÈRES DES PRESTATIONS ................................................................... 18
+ARTICLE 12. CONDITIONS FINANCIÈRES DES PRESTATIONS ................................................................... 16
 
-12.1 PRIX ET TAXES ................................................................................................................ 18
+12.1 PRIX ET TAXES ................................................................................................................ 16
 
-12.2 PAIEMENT DU PRIX ......................................................................................................... 18
+12.2 PAIEMENT DU PRIX ......................................................................................................... 16
 
-12.2.1 Règlement par carte de paiement ...................................................................................... 18
+12.2.1 Règlement par carte de paiement ...................................................................................... 16
 
-12.2.2 Règlement par Chèque-Vacances Connect ........................................................................ 19
+12.2.2 Règlement par Chèque-Vacances Connect ........................................................................ 17
 
-12.2.3 Règlement par paiement fractionné via le prestataire ALMA................................................. 20
+12.2.3 Règlement par paiement fractionné via le prestataire ALMA................................................. 18
 
-12.4 FRAIS DE CARTE BANCAIRE ET DE CRÉDIT ........................................................................ 20
+12.2.4 Règlement via le moyen de paiement PAYPAL ..................................................................... 19
+
+12.4 FRAIS DE CARTE BANCAIRE ET DE CRÉDIT ........................................................................ 19
 
 12.5 FACTURATION ............................................................................................................... 20
 
-CHAPITRE V - DIVERS....................................................................................................................... 21
+CHAPITRE V - DIVERS....................................................................................................................... 20
 
-ARTICLE 13. FORMALITÉS ........................................................................................................................ 21
+ARTICLE 13. FORMALITÉS ........................................................................................................................ 20
 
-ARTICLE 14. ASSURANCES....................................................................................................................... 22
+ARTICLE 14. ASSURANCES....................................................................................................................... 21
 
 ARTICLE 15. INFORMATIONS,RÉCLAMATIONS ET MÉDIATION................................................................. 22
 
@@ -110,25 +112,29 @@ SES PARTENAIRES ................................................................
 
 15.2 POUR LES PRESTATIONS VENDUES PAR LES PARTENAIRES DE SNCF CONNECT .................. 23
 
-ARTICLE 16. PROPRIÉTÉ INTELLECTUELLE ............................................................................................... 24
+ARTICLE 16. PROPRIÉTÉ INTELLECTUELLE ............................................................................................... 23
 
-16.1 GÉNÉRALITÉS ................................................................................................................ 24
+16.1 GÉNÉRALITÉS ................................................................................................................ 23
 
-16.2 LOGICIEL....................................................................................................................... 24
+16.2 LOGICIEL....................................................................................................................... 23
 
 ARTICLE 17. RESPONSABILITÉ ET GARANTIES .......................................................................................... 24
 
 17.1 POUR L’UTILISATION DU SITE .......................................................................................... 24
 
-17.2 POUR LES PRESTATIONS................................................................................................. 25
+17.2 POUR LES PRESTATIONS................................................................................................. 24
 
 17.3 POUR LA FOURNITURE DU E-BILLET ................................................................................. 25
 
 ARTICLE 18. PROTECTION DES DONNÉES PERSONNELLES ..................................................................... 25
 
-ARTICLE 19. DROIT APPLICABLE ET JURIDICTIONS COMPÉTENTES.......................................................... 26
+ARTICLE 19. DROIT APPLICABLE ET JURIDICTIONS COMPÉTENTES.......................................................... 25
 
-ARTICLE 20. DISPOSITIONS FINALES........................................................................................................ 26
+ARTICLE 20. DISPOSITIONS FINALES........................................................................................................ 25
+
+ANNEXE 1 : FORMULAIRE DE RETRACTATION CARTE AVANTAGE.............................................................. 26
+
+ANNEXE 2 : FORMULAIRE DE RETRACTATION CARTE LIBERTE .................................................................. 26
 
 
 
@@ -164,13 +170,13 @@ par le Code du Tourisme, auprès de GAN EUROCOURTAGE IARD, Tour GAN Eurocourtage
 
 avenue d’Alsace - 92033 LA DEFENSE Cedex, pour les dommages corporels, matériels et
 
-immatériels résultant de son activité professionnelle, pour un montant de 7.622.451 euros par
-
-sinistre et par année d’assurance.
-
 3
 
 
+
+immatériels résultant de son activité professionnelle, pour un montant de 7.622.451 euros par
+
+sinistre et par année d’assurance.
 
 CHAPITRE I - GÉNÉRALITÉS
 
@@ -264,6 +270,8 @@ transport vendues seules. Aussi, les prestations de transports sèches et/ou com
 
 ces dernières ne peuvent se voir appliquer ladite règlementation.
 
+4
+
 
 
 Si, après avoir commandé votre billet de train et l’avoir payé, vous réservez un service de voyage
@@ -271,10 +279,6 @@ Si, après avoir commandé votre billet de train et l’avoir payé, vous réser
 supplémentaire pour votre voyage par l’intermédiaire de SNCF CONNECT, vous ne bénéficiez pas
 
 des droits applicables aux forfaits au titre de la Directive (UE) 2015/2302 et de l’article L211-2 du
-
-4
-
-
 
 code du tourisme. En conséquence, seul le Partenaire de SNCF CONNECT sera tenu responsable
 
@@ -332,7 +336,7 @@ Partenaires via leur marque cobrandée ou via un lien hypertexte renvoyant vers 
 
 
 
-Elles sont valables à compter du 19 mai 2026. Cette édition annule et remplace les versions
+Elles sont valables à compter du 16 juin 2026. Cette édition annule et remplace les versions
 
 antérieures.
 
@@ -368,13 +372,13 @@ Spécifiques se fait en validant la commande. Sans cette acceptation, la poursui
 
 réservation est techniquement impossible.
 
+5
+
 
 
 Le Site est constitué d’un espace accessible sans restriction, sur laquelle est proposé l’ensemble
 
 des Prestations (ci-après l’« Espace Loisirs »).
-
-5
 
 
 
@@ -472,21 +476,19 @@ Toutes les conditions d'annulation, de modification éventuelle des Commandes et
 
 remboursement sont définies dans les Conditions Spécifiques applicables à chaque Prestation.
 
+6
+
 
 
 Nous attirons votre attention sur le fait que certaines Prestations ne sont ni annulables, ni
 
 modifiables. Vous en êtes informé avant validation de votre Commande.
 
-6
-
 
 
 En tout état de cause, les frais de dossier ainsi que les assurances souscrites ne sont pas
 
 remboursables en cas d’annulation.
-
-
 
 2.2 LIVRAISON
 
@@ -538,8 +540,6 @@ conditions et avec la même force probante que tout document qui serait établi,
 
 par écrit.
 
-
-
 2.4 DROIT DE RÉTRACTATION
 
 
@@ -580,11 +580,13 @@ exécuté. Ce droit ne peut plus être exercé lorsque la Carte SNCF a déjà é
 
 réalisation d’un voyage éligible aux réductions de ladite carte et sous réserve (i) d’une demande
 
+7
+
+
+
 expresse de Votre part et (ii) de Votre accord préalable à la perte de Votre droit de rétractation.
 
 Sans la réunion de ces deux conditions, aucuns frais ne pourront vous être facturé.
-
-7
 
 
 
@@ -676,13 +678,13 @@ musique, des skis ou une planche) à condition de respecter certaines dimensions
 
 pouvoir être transportés et rangés par le voyageur lui-même dans les espaces prévus sans gêner la
 
-circulation. Chaque bagage doit être étiqueté avec le nom et le prénom du voyageur, faute de quoi
-
-il peut être considéré comme suspect. Le non-respect de ces règles peut entraîner une amende de
-
 8
 
 
+
+circulation. Chaque bagage doit être étiqueté avec le nom et le prénom du voyageur, faute de quoi
+
+il peut être considéré comme suspect. Le non-respect de ces règles peut entraîner une amende de
 
 50 à 150€ selon le nombre de bagages non conformes, voire un refus d’accès au train si le
 
@@ -786,11 +788,13 @@ o soit ultérieurement, sur une borne libre-service, avec la carte bancaire qui 
 
 paiement de la Commande ou votre référence dossier voyage avec le nom qui lui est
 
+9
+
+
+
 associé, ou aux guichets des gares, avec la référence dossier voyage qui vous a été
 
 communiquée à l’issue de votre Commande.
-
-9
 
 
 
@@ -890,13 +894,15 @@ Nous attirons votre attention sur le fait que le nom de la personne ayant effect
 
 que le numéro de commande vous seront demandés afin de retirer votre billet en Borne Libre-Service,
 
+10
+
+
+
 situées en France métropolitaine ou en gare de Luxembourg, aux guichets des gares ou en Boutiques
 
 SNCF situés en France métropolitaine, y compris lorsque ce billet Vous est fourni dans le cadre d’une
 
 Prestation « Pack » (« offres à composer »).
-
-10
 
 
 
@@ -907,8 +913,6 @@ chèque et retirer votre billet aux guichets des gares ou en boutique SNCF, situ
 métropolitaine, il faudra vous y présenter avec 2 pièces d’identité (et un extrait k bis de moins de 3 mois
 
 pour les sociétés).
-
-
 
 3.3 CONDITIONS DU E-BILLET EUROSTAR
 
@@ -996,6 +1000,8 @@ devrez transmettre au transporteur Eurostar les informations suivantes afin d’
 
 transport :
 
+11
+
 
 
 − Nom et prénom(s)
@@ -1003,10 +1009,6 @@ transport :
 − Adresse email
 
 − Date de naissance
-
-11
-
-
 
 − Sexe
 
@@ -1094,6 +1096,10 @@ correspondances de votre trajet sont exclusivement assurées par ces deux transp
 
 et,
 
+12
+
+
+
 6. Votre trajet est effectué en France ou sur une ligne des Paris-Luxembourg, Paris-Fribourg,
 
 Paris-Barcelone, Paris-Milan ou sur la partie française des lignes France-Allemagne, France-
@@ -1101,8 +1107,6 @@ Paris-Barcelone, Paris-Milan ou sur la partie française des lignes France-Allem
 Suisse (Lyria), France-Bruxelles, France-Luxembourg, France-Italie et Paris-Vienne et,
 
 7. Le billet porte le numéro de train, la date et l’horaire de chaque trajet.
-
-12
 
 
 
@@ -1196,6 +1200,10 @@ une indemnité qui sera au minimum de :
 
 - 25% du prix du billet en cas de retard d’une durée comprise entre 60 et 119 minutes,
 
+13
+
+
+
 - 50% du prix du billet en cas de retard de 120 minutes ou plus.
 
 
@@ -1207,10 +1215,6 @@ remboursement sous forme de bons voyages, à condition que les conditions applic
 bons voyages soient suffisamment souples, notamment en ce qui concerne leur période de validité
 
 et la destination. En l’absence d’acceptation expresse de Votre part de ces bons voyages,
-
-13
-
-
 
 l’indemnité sera versée en numéraire. Les principales caractéristiques des bons voyages proposés
 
@@ -1296,6 +1300,8 @@ Les Prestations ferroviaires sont proposées par SNCF Connect au nom et pour le 
 
 VOYAGEURS.
 
+14
+
 
 
 Toutes les Conditions Spécifiques relatives à la fourniture des Cartes SNCF sont accessibles au
@@ -1305,8 +1311,6 @@ moment de votre Commande. Ces Conditions Spécifiques constituent, avec les Cond
 Générales, l’intégralité des conditions contractuelles applicables à l’exécution de la Prestation et
 
 doivent être lues attentivement et intégralement et acceptées avant toute Commande.
-
-14
 
 
 
@@ -1390,13 +1394,15 @@ ou des Partenaires de SNCF Connect disponibles lors de la Commande. Toutes ces C
 
 relatives à la fourniture de Prestations ferroviaires sont accessibles au moment de votre
 
+15
+
+
+
 Commande. Ces Conditions Spécifiques constituent, avec les Conditions Générales, l’intégralité
 
 des conditions contractuelles applicables à l’exécution de la Prestation et doivent être lues
 
 attentivement et intégralement et acceptées avant toute Commande.
-
-15
 
 
 
@@ -1490,15 +1496,13 @@ contractuelles applicables à l’exécution de la Prestation et doivent être l
 
 intégralement et acceptées avant toute Commande.
 
+16
+
 
 
 La vente, l’encaissement, la facturation et la gestion des Commandes sont exclusivement
 
 assurées par le Partenaire concerné.
-
-16
-
-
 
 Article 11. PRESTATIONS TAXI VTC
 
@@ -1588,15 +1592,15 @@ associées, Vous avez la possibilité de payer également par carte de paiement 
 
 et Master Card) via Apple Pay. Ce règlement ne peut se faire que sur l’application SNCF Connect
 
+17
+
+
+
 (avec une version iOS 9 minimum) et sur le site (uniquement avec un macOS 10.12). Pour cela,
 
 Vous devez disposer d’un modèle iPhone compatible (Modèles d’iPhone avec Face ID ou Touch ID,
 
 à l’exception de l’iPhone 5s), d’un modèle d’iPad compatibles (iPad Pro, iPad Air, iPad et iPad mini
-
-17
-
-
 
 avec Touch ID ou Face ID) ou d’un modèle de Mac avec Touch ID mis en vente en 2012 (ou
 
@@ -1696,13 +1700,15 @@ Pour régler par Chèque-Vacances Connect, un certain nombre de conditions sont 
 
 - Disposer d’un smartphone et y avoir téléchargé et activé l’application ANCV,
 
+18
+
+
+
 - Avoir préalablement créé un compte ANCV via https://cheque-vacances-
 
 connect.com/collaborateur/aide/activer-compte-1re-dotation/
 
 - Et disposer de Chèque-Vacances Connect activés.
-
-18
 
 
 
@@ -1800,11 +1806,67 @@ RCS Nanterre, Vous bénéficiez du délai légal de rétractation de votre finan
 
 compter de la date d’acceptation du contrat de paiement échelonné directement auprès d’Alma.
 
+19
+
 
 
 En cas d’échange avec surcoût, le paiement en plusieurs fois avec ALMA, ne sera pas disponible.
 
-19
+
+
+12.2.4 Règlement via le moyen de paiement PAYPAL
+
+
+
+Le règlement de votre Commande peut être réalisé avec le moyen de paiement PayPal. Pour
+
+bénéficier de ce moyen de paiement, Vous devez avoir un compte auprès de la société PayPal au
+
+moment de votre Commande, et avoir accepté de vous conformer à toutes les conditions générales
+
+de PayPal accessibles ici https://www.paypal.com/fr/legalhub/paypal/useragreement-full.
+
+
+
+Le règlement avec le moyen de paiement PayPal peut être utilisé pour tout panier supérieur à trente
+
+(30) euros.
+
+
+
+Le règlement avec le moyen de paiement PayPal peut être utilisé lors de l’achat de tous les billets
+
+de train, ainsi que les Cartes SNCF, les abonnements TER, le Pass hebdomadaire et mensuel, le
+
+Forfait ligne classique, les services (animal \& vélo), à l’exclusion de l’achat des Abonnements Max,
+
+de services complémentaires, ainsi que pour les prestations proposées par les partenaires de SNCF
+
+Connect tel que l’achat de mobilités urbaines et assurance.
+
+
+
+Le moyen de paiement PayPal vous propose également de régler votre Commande en quatre (4) fois
+
+sans frais pour tout achat éligible compris entre 30 euros et 2000 euros. Un paiement initial est
+
+effectué au moment de l’achat de la Commande et est suivi d’un étalement des échéances sur trois
+
+(3) mois à compter de la validation de la Commande.
+
+
+
+Vous pouvez utiliser le moyen de paiement PayPal pour payer l’entièreté de votre Commande.
+
+
+
+En cas d’échange avec surcoût, le paiement avec PayPal ne sera pas disponible.
+
+
+
+Avec ce moyen de paiement, Vous pourrez échanger ou annuler votre Commande uniquement en
+
+ligne, sur le site et l’application SNCF Connect
 
 
 
@@ -1825,6 +1887,8 @@ crédit ou de compte bancaire peut être dans votre devise locale et, par consé
 montant différent de celui affiché sur la page de récapitulatif de paiement pour la réservation
 
 effectuée sur le Site.
+
+20
 
 
 
@@ -1906,10 +1970,6 @@ interdictions de voyager, les alertes, annonces ou conseils publiés par les aut
 
 avant de réserver un voyage vers des destinations internationales. Les informations relatives aux
 
-20
-
-
-
 conditions de différents pays ainsi que le niveau de risque associé au voyage dans des
 
 destinations internationales particulières peuvent être consultées à partir du site suivant :
@@ -1927,6 +1987,8 @@ Les mineurs ou plus doivent être impérativement en possession de papiers d'ide
 Les formalités mentionnées sur le Site s’adressent à des ressortissants français. Si ce n’est pas
 
 votre cas, il Vous incombe de Vous enquérir des formalités applicables à votre situation.
+
+21
 
 
 
@@ -2012,10 +2074,6 @@ Les risques couverts par ces polices, ainsi que leur coût et le montant des gar
 
 sur le Site à titre indicatif. En cas de souscription d’un contrat d’assurance, la police d’assurance,
 
-21
-
-
-
 que Vous acceptez, est accessible par un lien hypertexte figurant sur le descriptif de la
 
 Commande.
@@ -2033,6 +2091,10 @@ Si vous justifiez d’une garantie antérieure pour les risques couverts par l�
 avez la possibilité de renoncer sans frais à cette assurance, sur justificatifs, dans un délai de 14
 
 jours à compter de sa conclusion et tant qu’aucune garantie n’a été mise en œuvre.
+
+22
+
+
 
 Article 15. INFORMATIONS,RÉCLAMATIONS ET MÉDIATION
 
@@ -2116,10 +2178,6 @@ Ouigo / Eurostar), et après avoir obtenu une réponse définitive de SNCF VOYAG
 
 directement ou via le Service Clients, Vous pouvez saisir la Médiatrice de SNCF
 
-22
-
-
-
 VOYAGEURS à l’adresse suivante « Médiation SNCF, TSA 37701, 59973 Tourcoing Cedex »
 
 ou via le formulaire en ligne https://mediation-sncf.my.site.com/mediation/ ;
@@ -2139,6 +2197,10 @@ vente à distance), dont les coordonnées sont les suivantes : BP 20015 - 75362 
 CEDEX 8 Paris. Après démarche préalable écrite des consommateurs auprès de SNCF
 
 Connect, le service du Médiateur peut être saisi, par écrit, pour tout litige de
+
+23
+
+
 
 consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de
 
@@ -2218,8 +2280,6 @@ Seul est autorisé l'usage d'une partie non substantielle du Site à des fins st
 
 commerciales.
 
-23
-
 
 
 L'insertion de liens hypertextes vers toute partie du Site est interdite sans autorisation préalable et
@@ -2237,6 +2297,8 @@ L’utilisation de tout logiciel téléchargé sur le Site permettant d’accéd
 régie par les termes de la licence l’accompagnant. Vous Vous engagez à ne pas installer, copier ou
 
 utiliser ce logiciel avant d’avoir préalablement acquiescé aux termes de ladite licence.
+
+24
 
 
 
@@ -2270,11 +2332,17 @@ logiciels de tiers.
 
 
 
-En aucun cas, SNCF Connect ne sera responsable de tout type de dommage prévisible ou
+En cas de manquement avéré de SNCF Connect à ses obligations contractuelles, sa responsabilité
 
-imprévisible, matériels ou immatériels (incluant la perte de profits ou d’opportunité...) découlant
+sera strictement limitée à la réparation des dommages directs et prévisibles, à l’exclusion de la
 
-de l’utilisation ou de l’impossibilité totale ou partielle d’utiliser le Site. Enfin, SNCF Connect ne
+réparation de tous dommages indirects, imprévisibles, consécutifs ou accessoires. Sont
+
+considérés comme des dommages indirects, sans que cette liste soit limitative, toute perte de
+
+profits, perte d’opportunité, perte de chance, préjudice commercial ou financier découlant de
+
+l’utilisation ou de l’impossibilité totale ou partielle d’utiliser le Site. Enfin, SNCF Connect ne
 
 pouvant contrôler l’ensemble des sites sur lesquels elle renvoie par l’intermédiaire de liens
 
@@ -2314,8 +2382,6 @@ sites.
 
 Toute création d’un lien vers le Site est soumise à l’approbation préalable de SNCF Connect.
 
-24
-
 
 
 17.2 POUR LES PRESTATIONS
@@ -2331,6 +2397,8 @@ responsabilité engagée pour toute inexécution ou mauvaise exécution de tout 
 Prestations prévues au contrat, qui serait imputable soit à votre fait, soit au fait imprévisible et
 
 insurmontable d’un tiers étranger à la prestation, soit à un cas de force majeure.
+
+25
 
 
 
@@ -2416,10 +2484,6 @@ règlement des litiges tels que définis en droit français et notamment par les
 
 suivants du Code de procédure civile.
 
-25
-
-
-
 Article 20. DISPOSITIONS FINALES
 
 
@@ -2429,6 +2493,8 @@ Le fait que SNCF Connect ne se prévale pas, à un moment ou à un autre, d'une 
 des présentes Conditions Générales ne pourra être interprété comme valant renonciation par cette
 
 dernière à s’en prévaloir ultérieurement.
+
+26
 
 
 
