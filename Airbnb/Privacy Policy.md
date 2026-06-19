@@ -122,7 +122,7 @@ Il peut s'agir d'un mode de paiement, des coordonnées d'un tiers ou d'informati
 
 #### 3.2.3 Informations biométriques
 
-Il peut s'agir de données de reconnaissance faciale dérivées de photos et de pièces d'identité que vous envoyez pour vérification, le cas échéant et avec votre consentement lorsque le droit applicable l'exige. Veuillez consulter l'article de notre Centre d'aide pour en savoir plus sur la [reconnaissance faciale pour la vérification d'identité](https://www.airbnb.fr/help/article/3564).
+Il peut s'agir de données de reconnaissance faciale dérivées de photos et de pièces d'identité que vous envoyez pour vérification, le cas échéant et avec votre consentement lorsque le droit applicable l'exige. Consultez cet article de notre Centre d'aide sur la [reconnaissance faciale pour la vérification d'identité et la prévention de l'usurpation d'identité](https://www.airbnb.fr/help/article/3564).
 
 #### 3.2.4 Informations relatives aux communications
 
