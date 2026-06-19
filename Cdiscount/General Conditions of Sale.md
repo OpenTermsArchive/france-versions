@@ -283,7 +283,7 @@ En cas d'abandon, de rétractation, ou tout autre motif d’annulation d’une c
 4.1.2 Paiement en plusieurs fois  
   
 (a) Paiement en « 4 fois »  
-Le paiement en « 4 fois » peut être effectué en utilisant une carte bancaire des réseaux Cartes Bancaires (CB), Visa, Mastercard, conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande. Sous réserve d'acceptation de Cnova Pay, agréée par l'Autorité de Contrôle Prudentiel et de Résolution (ACPR).  Les conditions générales du paiement en « 4 fois » sont accessibles en [cliquant ici](https://paymentresources.cdiscount.com/static/cgv/4f.pdf)
+Le paiement en « 4 fois » peut être effectué en utilisant une carte bancaire des réseaux Cartes Bancaires (CB), Visa, Mastercard, conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande. Sous réserve d'acceptation de Cnova Pay, agréée par l'Autorité de Contrôle Prudentiel et de Résolution (ACPR).  Les conditions générales du paiement en « 4 fois » sont accessibles en [cliquant ici](https://i2.cdscdn.com/resources/InterestRateConfiguration/4f.pdf?rnd=47783EB7)
 
 Le paiement en "4 fois" n'est pas proposé de manière systématique à tous nos clients et/ou pour toutes les commandes. Nous mettons en œuvre un traitement automatisé afin d'identifier les clients et commandes éligibles au paiement "4 fois".  
 (b) Paiement jusqu'à 20 fois par carte bancaire Cdiscount  
@@ -312,7 +312,7 @@ Il utilise des méthodes de sécurité comme l'authentification biométrique (Fa
   
 4.1.4 Paiement par virement sécurisé  
    
-Ce mode de paiement n’est disponible que pour les règlements effectués depuis la plateforme de recouvrement de Cdiscount. Vous avez la possibilité de régulariser votre commande par virement bancaire en validant votre demande de virement directement depuis l’interface de votre banque, grâce à la solution Bridge powered by Bankin’, éditée par Perspecteev SAS - société par actions simplifiée immatriculée au RCS Paris numéro B 529 196 313 dont le siège social est 4 rue de la Pierre Levée - 75011 Paris. Perspecteev est un établissement de paiement agréé par l'ACPR sous le numéro 16918P, et est immatriculé à l'ORIAS sous le numéro 18003177 en tant que mandataire d'intermédiaire d'assurance. Perspecteev ne peut être assimilé à un établissement de crédit. Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://cdn.prod.website-files.com/6674250de1acfb13fc4a9da4/68249da69928a67cd5194d9c_20231213%20CGS%20AIS%20%2B%20PIS%20\(1\).pdf).  
+Ce mode de paiement n’est disponible que pour les règlements effectués depuis la plateforme de recouvrement de Cdiscount. Vous avez la possibilité de régulariser votre commande par virement bancaire en validant votre demande de virement directement depuis l’interface de votre banque, grâce à la solution Bridge powered by Bankin’, éditée par Perspecteev SAS - société par actions simplifiée immatriculée au RCS Paris numéro B 529 196 313 dont le siège social est 4 rue de la Pierre Levée - 75011 Paris. Perspecteev est un établissement de paiement agréé par l'ACPR sous le numéro 16918P, et est immatriculé à l'ORIAS sous le numéro 18003177 en tant que mandataire d'intermédiaire d'assurance. Perspecteev ne peut être assimilé à un établissement de crédit. Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://cdn.prod.website-files.com/6674250de1acfb13fc4a9da4/68249da69928a67cd5194d9c_20231213%20CGS%20AIS%20%252B%20PIS%20\(1\).pdf).  
   
 
 **Généralités**
@@ -649,7 +649,6 @@ Cette notification doit être effectuée par écrit, par tout moyen et notamment
   
 a)      **Via votre Espace Client :**vous pouvez exercer votre droit de rétractation via une fonctionnalité en ligne gratuite, directement et facilement accessible depuis votre Espace Client en cliquant sur « Mes commandes » puis sur le bouton « Retourner un article». En vous connectant sur votre Espace Client, vous confirmez votre identité (nom et prénom) et l'adresse mail à laquelle vous sera envoyé l'accusé réception de votre rétractation immédiatement après que vous aurez eu confirmé celle-ci.
 
-Sélectionnez votre commande et cliquez dans l’espace « je viens de recevoir mon/mes colis » sur « je souhaite me rétracter sur ce produit » puis laissez-vous guider.   
   
 Pour garantir un traitement optimal et plus rapide des demandes, l'exercice du droit de rétractation est dissocié et individualisé ; ainsi, chaque produit d'une même commande doit faire l'objet d'une déclaration de rétractation distincte et devra être entreposé dans un colis de retour distinct.  
   
@@ -685,7 +684,7 @@ En toute hypothèse, nous vous adresserons un accord de retour contenant un num�
 Vous vous engagez à retourner à CDISCOUNT les produits faisant l’objet d’une rétractation dans les 14 jours calendaires suivants votre déclaration de rétractation
 
   
-Si une même commande contient plusieurs produits, livrés par colis distincts, alors le retour des produits concernés de rétractation se fait de manière dissociée selon les modalités prévues au paragraphe 8.2.  
+Si une même commande contient plusieurs produits, livrés par colis distincts, alors le retour des produits concernés par la rétractation se fait de manière dissociée selon les modalités prévues au paragraphe 8.2.  
 Pour un meilleur traitement des rétractations, chaque produit d'une même commande qui fait l'objet d'une rétractation, doit faire l'objet d'un retour dans un colis distinct.  
   
 
@@ -1284,7 +1283,7 @@ Cdiscount se réserve le droit de résilier l’Abonnement au Service pour motif
 
 *   ferait bénéficier un tiers de l’Abonnement au Service.
 
-La résiliation de l’Abonnement sera effective immédiatement, sans préavis ni indemnit�� auprès de l’Abonné qui n’aurait pas respecté les présentes CGA et n'entraîne aucun remboursement du prix du Service.
+La résiliation de l’Abonnement sera effective immédiatement, sans préavis ni indemnité auprès de l’Abonné qui n’aurait pas respecté les présentes CGA et n'entraîne aucun remboursement du prix du Service.
 
 Le solde de la Cagnotte de l’Abonné éventuellement disponible à la date de résiliation effective de l’Abonnement au Service sera définitivement perdu. 
 
