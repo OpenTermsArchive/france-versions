@@ -1,609 +1,380 @@
 Politique de confidentialité de Finnair
 =======================================
 
-Bonjour, Nous souhaitons nous assurer que vous acceptez notre politique en matière d’utilisation de vos données.
-----------------------------------------------------------------------------------------------------------------
+Nous tenons à vous informer de la manière dont nous utilisons vos données et des raisons pour lesquelles nous le faisons.
+-------------------------------------------------------------------------------------------------------------------------
 
-Cette politique de confidentialité de Finnair explique comment nous collectons, utilisons, divulguons et traitons vos données à caractère personnel. Elle explique également vos droits, comment nous contacter et comment nous protégeons vos données.
+La présente déclaration de confidentialité explique comment nous traitons vos données à caractère personnel. Elle précise également vos droits, comment nous contacter et comment nous protégeons vos données. Cette déclaration de confidentialité s’applique à vos données à caractère personnel lorsque vous planifiez votre voyage, voyagez avec nous, achetez ou utilisez nos autres services, consultez nos services en ligne ou interagissez avec nous de quelque manière que ce soit, ainsi que lorsque nous communiquons avec vous. Nous traitons les données à caractère personnel conformément au Règlement général sur la protection des données (RGPD) de l’Union européenne et aux autres législations applicables en matière de protection des données.
 
-La présente politique de confidentialité s’applique à toutes les données à caractère personnel que nous traitons à votre sujet lorsque vous planifiez votre voyage, voyagez avec nous, achetez ou utilisez nos services, visitez nos services en ligne ou interagissez de toute autre manière avec nous. Nous traitons les données à caractère personnel conformément aux dispositions du Règlement général sur la protection des données de l’Union européenne (RGPD) et aux autres législations applicables en matière de protection des données.
+Les sections 1 à 9 de la présente déclaration de confidentialité s’appliquent à tous les clients. Si vous êtes membre du programme Finnair Plus, vous trouverez des informations spécifiques sur la manière dont nous traitons vos données à caractère personnel à la section 3.2.
 
-Vous trouverez plus d’informations sur le traitement de vos données à caractère personnel sous chaque thème ci-dessous. Veuillez cliquer sur la section pertinente ci-dessous pour plus d’informations.
+**Thèmes abordés dans la présente déclaration de confidentialité :**
 
-Votre vie privée est notre priorité.
-------------------------------------
+1.  Responsable du traitement et coordonnées
+2.  Quelles données traitons-nous
+3.  Comment nous utilisons vos données et les bases juridiques du traitement  
+    3.1. Pour fournir nos services  
+    3.2. Programme de fidélité Finnair Plus  
+    3.3. Communications marketing numériques et personnalisation du contenu
+4.  Sources des données à caractère personnel
+5.  Divulgation des données à caractère personnel
+6.  Protection de vos données
+7.  Transferts vers des pays tiers
+8.  Durée de conservation des données
+9.  Vos droits  
+    9.1. Droit d'accès  
+    9.2. Droit de rectification  
+    9.3. Droit à l'effacement  
+    9.4. Droit de limitation et droit d'opposition  
+    9.5. Droit de retirer votre consentement  
+    9.6. Droit à la portabilité des données  
+    9.7. Dépôt d’une réclamation
 
-### À propos de nous
+### 1\. Responsable du traitement et coordonnées
 
-#### Contrôleur de données
+#### Responsable du traitement
 
 Finnair Plc  
-Numéro d’identification de l’entreprise : 0108023-3  
-Adresse : Tietotie 9 01530 Vantaa, Finlande
+Numéro d'identification de l'entreprise : 0108023-3  
+Adresse : Tietotie 9, 01530 Vantaa, Finlande
 
-#### Service en ligne de protection de la vie privée
+#### Portail de confidentialité
 
-Gérez vos paramètres de confidentialité et demandez vos données à caractère personnel sur le site Internet de Finnair à l’adresse [https://privacy.finnair.com](https://privacy.finnair.com/).
+Vous pouvez gérer vos paramètres de confidentialité et demander l'accès à vos données personnelles sur le portail de confidentialité de Finnair à l'adresse [https://privacy.finnair.com](https://privacy.finnair.com/).
 
 #### Délégué à la protection des données
 
-Si vous ne trouvez pas ce que vous cherchez dans cette politique ou le service en ligne de protection de la vie privée dont le lien figure ci-dessus, vous pouvez contacter le délégué à la protection des données du groupe Finnair : [privacy@finnair.com](mailto:privacy@finnair.com) ou le délégué à la protection des données de Finnair, PO Box 15, 01053 Finnair, Finlande.
+Si vous ne trouvez pas ce que vous cherchez dans la présente déclaration ou sur le portail de confidentialité dont le lien figure ci-dessus, vous pouvez contacter le délégué à la protection des données du groupe Finnair: [privacy@finnair.com](mailto:privacy@finnair.com) ou Délégué à la protection des données de Finnair, PO BOX 15, 01053 Finnair, Finlande.
 
-### Vos données, vos droits
+### 2\. Quelles données traitons-nous
 
-#### Comment faire valoir vos droits
+Les types de données à caractère personnel que nous traitons sont énumérés ci-dessous. Les données à caractère personnel traitées concernent les personnes voyageant, la personne effectuant la réservation, les membres du programme de fidélité Finnair Plus, la personne à contacter en cas d’urgence, ainsi que les tuteurs légaux ou les personnes à charge.
 
-Vous pouvez exercer vos droits sur [privacy.finnair.com](https://privacy.finnair.com/).
+**Données d'identification et de contact** – nom, date de naissance, sexe, type de voyageur (adulte, enfant, bébé), titre (M., Mme, Mlle), coordonnées telles que l'adresse, l'adresse de facturation, le numéro de téléphone et l'adresse e-mail.
 
-Vous recevrez toujours une confirmation de la suite donnée à votre demande (par exemple, une confirmation de la suppression). Si nous ne pouvons pas donner suite à une demande que vous avez formulée, nous vous en informerons et vous indiquerons les raisons de cette décision. Faire une demande de données à caractère personnel est gratuit une fois tous les six (6) mois. Pour toute demande supplémentaire au cours de cette période, nous pouvons facturer des frais raisonnables pour couvrir les coûts administratifs impliqués. Nous nous réservons le droit de rejeter les demandes qui sont déraisonnablement répétitives, excessives ou clairement infondées.
+**Données relatives aux services** – numéro de référence de la réservation, numéro de billet, informations tarifaires, détails du vol (dates et heures de départ, numéro de vol), itinéraire de vol (point de départ et destination du voyage, ainsi que les éventuelles escales), date de réservation, classe de voyage, type et numéro de siège, codes d’étiquettes de bagages, itinéraire et détails éventuels relatifs aux contrôles de sécurité.
 
-#### Droit d’accès
+**Données relatives aux demandes de services spéciaux** – informations sur les repas, transport d’animaux de compagnie en cabine ou en soute, assistance médicale ou autre demandée.
 
-Vous avez le droit d’accéder aux données à caractère personnel que nous traitons à votre sujet et d’en être informé. Vous pouvez consulter certaines données directement sur nos canaux numériques, et vous pouvez demander une copie de vos données à caractère personnel sur [privacy.finnair.com](https://privacy.finnair.com/). Nous vous fournirons ces données, sauf si nous avons des raisons légitimes de ne pas les partager ou si le fait de les partager porte atteinte aux droits et libertés d’autrui.
+**Données relatives aux documents de voyage** – numéro de passeport, date de naissance, sexe, durée de validité du passeport, pays de délivrance et nationalité. En outre, les informations relatives au visa et aux adresses de destination sont collectées lorsque les autorités du pays de destination l’exigent.
 
-#### Droit de rectification
+**Service de vérification en ligne des documents de voyage** – l’image de votre document de voyage et les informations qui y figurent.  
 
-Vous avez le droit de rectifier ou de mettre à jour les données à caractère personnel inexactes ou incomplètes que nous avons sur vous. Vous pouvez mettre à jour certaines de vos données à caractère personnel via nos canaux numériques, et vous avez le droit de demander une correction de vos coordonnées ou d’autres données à caractère personnel en nous contactant.
+**Données de paiement** – mode de paiement, informations relatives à la carte de crédit et transactions de paiement.
 
-#### Droit à l’effacement
+**Informations sur les services annexes** – repas précommandés, surclassements, produits vendus en boutique et autres achats, modalités de voyage (telles que les informations relatives au groupe lorsque vous voyagez avec d’autres personnes sous la même référence de réservation), méthodes d’enregistrement et compagnons de voyage en cas d’enregistrement groupé. 
 
-Vous pouvez nous demander d’effacer vos données à caractère personnel, et nous les effacerons sans retard injustifié, à moins que nous ayons une raison légitime de continuer à traiter les données, par exemple pour fournir les services demandés ou s’il existe une obligation légale ou un droit légitime pour nous de conserver les données à caractère personnel.
+**Données relatives à la sécurité aéroportuaire** – données issues des points de contrôle de sécurité des aéroports, notamment l’heure d’embarquement et les informations indiquant si le client a franchi les portiques de contrôle.
 
-#### Droit de restriction et d’opposition
+**Données relatives aux demandes de renseignements et aux réclamations** – informations que vous avez fournies dans le cadre de votre demande de renseignements ou de votre réclamation via nos canaux de service client.
 
-Vous pouvez nous demander de restreindre le traitement de vos données à caractère personnel, par exemple lorsque votre demande de correction ou de suppression de vos données est en cours, ou si vous vous êtes opposé au traitement de vos données à caractère personnel et que la clarification des motifs de ce traitement est en cours.
+**Données des membres Finnair Plus** : données d'identification et de contact, données relatives aux titres de transport, numéro d'adhérent, date de début d'adhésion, informations sur le niveau d'adhésion, taille de la famille, profession ou métier, nom et adresse de l'employeur, numéro de téléphone professionnel, préférence de siège, informations sur les Avios et les points de niveau, informations sur l’ entre le compte Finnair Plus et une carte de crédit Finnair Plus ou un autre programme de fidélité, loisirs, préférences alimentaires et autres centres d’intérêt que vous avez indiqués, dates d’envoi des communications marketing et des relevés de statut du programme, détails des campagnes qui vous ont été proposées et copies des courriers marketing qui vous ont été envoyés, informations sur l’utilisation des salons, des services d’enregistrement et de prise en charge des bagages ainsi que d’autres services aéroportuaires, et informations sur les perturbations survenues au cours de vos voyages.
 
-Vous avez le droit, à tout moment, de nous interdire d’utiliser vos données à caractère personnel à des fins de marketing direct, ce qui inclut le profilage lié à ce marketing direct. Vous pouvez vous désabonner des communications marketing en cliquant sur le lien « se désabonner » ou par tout autre moyen inclus dans chaque message marketing. Si vous êtes un adhérent Finnair Plus ou un titulaire de compte Finnair, vous pouvez également modifier vos préférences en matière de marketing direct dans votre profil Finnair Plus ou votre profil de compte Finnair.
+**Données relatives au programme de fidélité des partenaires de l’alliance** – données d’identification et de contact, numéro de voyageur fréquent, informations sur le programme et le niveau d’adhésion, informations sur les réservations et les billets, demandes de services spéciaux, données de paiement, ainsi que le nom et le numéro de téléphone des contacts en cas d’urgence.
 
-#### Droit de retirer son consentement
+**Données relatives aux services annexes de tiers** – informations relatives à la location de voiture, à l’hébergement à l’hôtel et aux services d’assurance que vous achetez auprès de Finnair ou de nos partenaires, comme précisé dans les avis de confidentialité spécifiques à ces services annexes, disponibles sur les sites Web et les applications mobiles sur lesquels ces services vous sont proposés.  
 
-Vous avez le droit de changer d’avis et de retirer tout consentement que vous nous avez donné précédemment. Si vous êtes un adhérent Finnair Plus ou un titulaire de compte Finnair, vous pouvez retirer votre consentement dans votre profil Finnair Plus ou votre profil de compte Finnair.
+**Données de communication** – enregistrements des appels téléphoniques au service client, historique des discussions en ligne, e-mails, SMS et publications sur les réseaux sociaux, enquêtes de satisfaction et formulaires de commentaires. 
 
-#### Droit à la portabilité des données
+**Paramètres de communication** – informations relatives aux consentements et autres bases juridiques du marketing numérique, ainsi qu’à vos préférences en matière de marketing, à vos désinscriptions et à vos objections. 
 
-Vous avez le droit de recevoir les données à caractère personnel que vous nous avez fournies dans un format électronique structuré et couramment utilisé, et de transmettre indépendamment ces données à un tiers.
+**Les données collectées via nos points de contact numériques** – le type de votre appareil, la version de votre système d’exploitation, vos paramètres linguistiques, les autorisations système et autres paramètres de configuration, les informations relatives à votre connexion Internet telles que le nom du réseau de données mobiles et la vitesse de connexion, le nom et la version de l’application mobile, les données d’identification de la session, des cookies et des numéros d’appareil uniques (par exemple, l’identifiant publicitaire de Google, Apple Ad ID), les données d’identification de comptes tiers issues des plug-ins sociaux, des connexions via les réseaux sociaux ou des paiements via PayPal, ainsi que d’autres technologies Internet courantes permettant de faciliter la reconnaissance de votre navigateur Web, de votre appareil ou d’une application particulière ; les données d’accès transmises automatiquement par les applications et les navigateurs Web lorsque vous accédez à des serveurs Web et à des bases de données dans le cadre de ce que l’on appelle des requêtes HTTP ; le nom et le type de fichier récupéré, le volume de données transférées et les codes d’erreur ; les versions logicielles, l’adresse IP, ainsi que le site précédemment visité et l’heure d’accès.
 
-#### Dépôt d’une plainte
+**Catégories particulières de données à caractère personnel** – les informations que vous nous fournissez concernant votre état de santé lorsque vous formulez des demandes de services spécifiques, tels que des aménagements pour un handicap ou une assistance médicale, ainsi que les informations que vous nous fournissez pour obtenir une autorisation médicale ou toute autre autorisation d’embarquement.
 
-Si vous estimez que nous n’avons pas traité vos données à caractère personnel correctement, vous pouvez contacter l’autorité de contrôle de la protection des données et déposer une plainte formelle.
+**Dossiers de sécurité** – nom, coordonnées, ainsi que les informations relatives au vol et au siège des passagers ayant mis en danger la sécurité ou la sûreté du vol ou ayant commis un acte de désordre ou illégal à l’encontre de Finnair ou du personnel de Finnair, y compris une description de l’infraction et la durée d’une éventuelle interdiction de voyager.
 
-### Protection de vos données
+Veuillez noter que toutes les personnes figurant sur une même réservation de vol pourront accéder aux données de cette réservation, y compris celles des compagnons de voyage, via le service « Gérer ma réservation ». L’accès au service « Gérer ma réservation » prend fin dans les trois jours suivant le dernier vol de la réservation. Veuillez également noter que si une réservation de vol est scindée en deux réservations distinctes, les personnes figurant dans la nouvelle réservation scindée continueront d’avoir accès à la réservation d’origine, et le payeur de la réservation d’origine aura accès à la nouvelle réservation scindée.
 
-#### Comment nous protégeons vos données
+### 3\. Utilisation de vos données et bases juridiques du traitement
 
-Finnair prend les mesures techniques et organisationnelles appropriées pour garantir la sécurité de vos données à caractère personnel et les protéger contre la perte ou l’utilisation illicite. L’accès à vos données à caractère personnel est limité sur la base du besoin de savoir et par des contrôles d’accès, et le traitement des données à caractère personnel est enregistré. Notre environnement informatique est protégé et surveillé de manière appropriée, avec des mises à jour, des tests et des évaluations réguliers pour garantir une sécurité permanente. Notre personnel est formé pour se conformer à la législation applicable en matière de protection des données ainsi qu’aux politiques et instructions applicables.
+#### 3.1. Pour fournir nos services
 
-#### Transferts internationaux de données
+**A) Conformément au contrat qui nous lie (art. 6, paragraphe 1, point b) du RGPD)**
 
-Vos données à caractère personnel peuvent être transférées et traitées en dehors de votre pays d’origine et en dehors de l’Espace économique européen. Les lois de ces pays peuvent ne pas offrir le même niveau de protection à vos données à caractère personnel.
+Nous traitons vos données à caractère personnel, notamment vos données d’identification et de contact, les données relatives aux services et aux services spécifiques, les données relatives aux titres de transport, aux paiements et aux communications, dans la mesure nécessaire à l’exécution de notre contrat avec vous ainsi qu’à la fourniture et à l’exécution des autres services que vous avez demandés. Il s’agit notamment :
 
-Dans ces cas, nous avons pris des mesures pour nous assurer que des garanties appropriées et adéquates sont en place afin de respecter les exigences relatives aux transferts internationaux de données à caractère personnel en vertu du droit applicable, telles que l’utilisation des [Clauses contractuelles types de la Commission de l’Union européenne](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=EN) comme garantie pour le transfert de données à caractère personnel en dehors de l’Espace économique européen.
+**Réservation** – Pour créer ou modifier une réservation et identifier tous les passagers à bord, nous avons besoin des informations personnelles des voyageurs.
 
-Nous pouvons également être obligés de transférer vos données à caractère personnel à des autorités étrangères, par exemple aux autorités douanières ou d’immigration.
+**Tout au long de votre voyage** – Afin de vous fournir nos services tout au long de votre voyage, vos données seront traitées à l’aéroport lors de l’enregistrement et à l’arrivée, aux comptoirs d’assistance, dans les salons, aux portes d’embarquement ainsi qu’à bord de l’avion. En cas d’imprévus, nous devons vous contacter pour modifier votre réservation, vous proposer un autre itinéraire et vous apporter toute autre assistance nécessaire. 
 
-#### En cas de problème
+**Bagages** – Afin de livrer vos bagages à votre destination, nous traitons les informations relatives à la manutention des bagages, telles que les codes des étiquettes de bagages et les informations concernant l’itinéraire et les contrôles de sécurité.
 
-Nous faisons de notre mieux pour assurer la sécurité de vos données. Si, toutefois, il y avait une violation de données à caractère personnel qui devrait mettre en danger votre vie privée, nous vous en informerons conformément à la législation sur la protection des données.
+**Demandes de services spéciaux** – Afin de répondre à votre demande de service spécial, nous traitons les informations nécessaires. Par exemple, les informations relatives à vos préférences alimentaires seront traitées afin de vous garantir le repas de votre choix.
 
-#### Vos actions comptent également
+**Commentaires et réclamations** – Nous utilisons vos données pour répondre à vos questions, recueillir vos commentaires et traiter vos réclamations, plaintes et demandes de remboursement. 
 
-Pour protéger votre propre vie privée, évitez de partager vos données à caractère personnel, telles que vos informations de connexion ou vos documents de voyage, avec d’autres personnes ou sur les médias sociaux. Veuillez accorder une attention particulière à la sécurité de votre compte Finnair Plus et considérer l’authentification à deux facteurs comme une sécurité avancée pour votre compte Finnair Plus ou Finnair. Veuillez éviter de nous envoyer des copies de vos documents d’identification ou des données à caractère personnel sensibles (par ex., des certificats médicaux) par courrier électronique non sécurisé ; utilisez plutôt des formulaires Web ou d’autres méthodes de transfert sécurisées fournies par Finnair.
+**Communication avec les clients** – Afin de vous tenir informé de l’organisation de votre voyage, y compris des éventuels changements, nous utilisons vos coordonnées et traitons les détails de votre réservation. 
 
-Données relatives aux clients et aux partenaires
-------------------------------------------------
+**B) Sur la base de notre intérêt légitime (art. 6, paragraphe 1, point f) du RGPD)**
 
-### Quelles sont les données que nous traitons ?
+Nous traitons vos données sur la base de notre intérêt légitime aux fins spécifiques suivantes :
 
-#### Données relatives à l’identification et aux contacts
+**Enquêtes et amélioration de l’expérience client** – Nous pouvons vous inviter à participer volontairement au développement de nos services. Les résultats de ces enquêtes sont utilisés à des fins d’analyse et peuvent également être combinés avec d’autres données de notre base de données, telles que les données de réservation et de vol, afin d’améliorer l’expérience client. Vous pourrez être contacté(e) après l’enquête afin de fournir des informations complémentaires. Nous pouvons également vous contacter pour vous proposer de tester nos nouveaux produits et services. 
 
-Nous collectons et traitons des informations de base, telles que
+**Processus en arrière-plan** – Nous traitons vos données à caractère personnel dans le cadre de certains processus en arrière-plan visant à prévenir et à détecter les pratiques frauduleuses ou trompeuses en matière de réservation et d’émission de billets, les fraudes au paiement, les demandes d’indemnisation frauduleuses, l’utilisation non autorisée ou frauduleuse des comptes Finnair Plus, ainsi qu’à vérifier l’exactitude des tarifs, des frais et des taxes applicables aux biens et services que vous achetez auprès de nous.
 
-*   le nom
-*   la date de naissance
-*   le sexe
-*   le type de voyageur (adulte, enfant, bébé)
-*   le titre (M., Mme)
-*   les coordonnées, telles que l’adresse, l’adresse de facturation, l’adresse du transport terrestre, le numéro de téléphone et l’adresse e-mail.
+**Interdiction d’accès à nos services** – Si nous vous interdisons l’accès à nos services en raison d’une violation de votre part des exigences de sûreté ou de sécurité, de nos conditions générales de service ou en raison d’activités frauduleuses, nous traitons vos données d’identification et de contact, ainsi que toute autre donnée directement pertinente pour l’évaluation, la mise en place et le maintien de cette interdiction. Lorsque les motifs justifiant l’interdiction d’accès à nos services par nécessitent des mesures obligatoires de signalement et d’atténuation en matière de sûreté et de sécurité, nous traitons vos données à caractère personnel en vertu de notre obligation légale. 
 
-Des informations personnelles peuvent être traitées, par exemple concernant la personne qui voyage, la personne qui effectue la réservation, la personne à contacter en cas d’urgence, les tuteurs légaux ou les personnes à charge.
+**Afin de développer et d’améliorer nos services** – pour analyser nos performances commerciales –, nous suivons le trafic, les performances commerciales et opérationnelles ainsi que les comportements des clients qui y sont liés. Les données transactionnelles sont utilisées dans des situations opérationnelles pour déterminer, par exemple, le nombre de personnes qui bénéficieront d’un surclassement ou qui devront être transférées vers un autre vol. 
 
-#### Données relatives au service
+**C) Sur la base de votre consentement (art. 6, paragraphe 1, point a) du RGPD)**
 
-Afin de rendre votre voyage possible, nous traitons **les informations relatives à la réservation et au billet, ainsi que les détails relatifs à la manutention des bagages**. Il peut s’agir :
+Nous traitons vos données sur la base de votre consentement aux fins spécifiques suivantes :
 
-*   du numéro de référence de réservation, du numéro du billet, des informations tarifaires
-*   des détails du vol (dates et heures de départ, numéro de vol)
-*   de l’itinéraire du vol (origine et destination du voyage et escales éventuelles)
-*   de la date de réservation, du type de voyage (aller simple ou retour)
-*   de la classe de voyage, du type et du numéro de siège
-*   des codes d’étiquetage des bagages, de l’itinéraire et des éventuels détails des contrôles de sécurité.
+**Données relatives à la santé** – Si le traitement de vos données relatives à la santé est nécessaire pour vous fournir l’assistance ou les autres aménagements que vous avez demandés et pour veiller à votre santé et à votre sécurité lorsque vous voyagez avec nous, il peut vous être demandé de nous fournir des informations relatives à votre santé, telles qu’un certificat médical. Vos données relatives à la santé sont traitées dans le cadre des services au sol et à bord, ainsi que pour le service client et le traitement des réclamations. Sur la base de votre consentement, nous pouvons également traiter des données obtenues auprès de prestataires de soins de santé et d’autres tiers, si cela s’avère nécessaire pour vérifier votre admissibilité à bord de nos vols et/ou à l’entrée sur le territoire d’un pays étranger, en cas de crise sanitaire publique. Dans de rares cas, nous pouvons recevoir et traiter des données relatives à la santé provenant des autorités sans votre consentement, par exemple en cas d’urgence, de pandémie ou de toute autre perturbation grave nécessitant le traitement de vos données relatives à la santé.
 
-À votre demande, nous pouvons également traiter **les informations relatives aux demandes de services spéciaux**. Ces types de demandes peuvent concerner, par exemple, des informations sur les repas, le transport d’animaux de compagnie en cabine ou en soute, ou une assistance spécifique requise.
+**Vérification en ligne des documents de voyage** – Nous vous proposons un service sécurisé de vérification préalable en ligne de vos documents de voyage, qui vous offre la possibilité de saisir manuellement les informations relatives à votre document de voyage et de les faire vérifier par notre personnel d’enregistrement à l’aéroport. Ce service nécessite que nous traitions une image de votre document de voyage ainsi que les dates lisibles figurant sur cette image. Vos données seront transmises aux autorités compétentes conformément à notre obligation légale. 
 
-Nous pouvons également traiter **les données relatives aux documents de voyage** des passagers voyageant vers ou depuis l’espace Schengen, telles que le numéro de passeport, la date de naissance, le sexe, la période de validité du passeport, le pays de délivrance et la nationalité. Si vous avez choisi d’utiliser notre service de vérification en ligne des documents de voyage, l’image de votre document de voyage sera également traitée. Les informations relatives aux visas et les adresses de destination sont également collectées lorsque les autorités de destination l’exigent.
+**D) Conformément à nos obligations légales (art. 6, paragraphe 1, point c) du RGPD)**
 
-Veuillez noter que toutes les personnes figurant sur la même réservation de vol pourront accéder aux données de la réservation (y compris les données des compagnons de voyage), disponibles via le service Ma réservation. L’accès au service Ma Réservation prend fin peu après le dernier vol de la réservation. Veuillez également noter que si une réservation de vol est divisée en deux réservations de vol différentes, les personnes figurant sur la nouvelle réservation fractionnée continueront d’avoir accès à la réservation d’origine et le payeur de la réservation d’origine aura accès à la nouvelle réservation fractionnée.
+Nous traitons vos données en vertu de nos obligations légales aux fins suivantes :
 
-Lorsque vous payez votre voyage ou d’autres services, nous traitons vos **informations de paiement**, telles que les informations relatives au moyen de paiement et à la carte de crédit.
+**Sécurité et sûreté** – Nous traitons vos données afin d’assurer la sécurité et la sûreté de nos vols, ainsi que celles de nos clients, de notre personnel, des aéroports et des autres installations que nous utilisons.
 
-Nous pouvons traiter des informations sur **le canal de vente et les services auxiliaires**, tels que les repas en précommande, les surclassements de classe de voyage, les produits de détail et d’autres achats. Nous traitons les données relatives à vos arrangements de voyage, telles que les informations de groupe (lorsque vous voyagez avec d’autres personnes sous le même numéro de référence de réservation), les moyens d’enregistrement et les compagnons de voyage en cas d’enregistrement conjoint.
+**Exigences des autorités** – Afin de respecter nos obligations légales, nous traitons vos données d’identification et de contact, les données de votre passeport, les informations relatives à votre visa, vos informations de paiement, vos données de voyage, votre adresse à votre destination de voyage, ainsi que toute autre donnée requise par la loi de temps à autre. Lorsque la loi l’exige, nous communiquons ces données aux autorités, telles que les services de contrôle aux frontières, les douanes, les services d’immigration, les autorités sanitaires, la police, les agences de lutte contre le terrorisme et de sécurité nationale, les tribunaux et les autorités fiscales. 
 
-Dans certains aéroports, nous traitons également les données provenant des points de contrôle de sécurité des aéroports et des portiques de contrôle automatisés aux portes d’embarquement.
+**Situations d’urgence et de crise** – Afin de réagir à une situation d’urgence et de vous fournir, ainsi qu’à d’autres personnes, des soins et une assistance, nous traitons vos données dans la mesure nécessaire pour respecter nos obligations légales.
 
-Si vous choisissez de partager **des informations supplémentaires**, par le biais d’une demande ou d’une réclamation via nos canaux d’assistance clientèle, ces données seront traitées par Finnair.
+**Conservation des données obligatoires** - Nous traitons votre nom, votre titre, votre numéro de référence de réservation, les détails de votre vol, les informations tarifaires, le nom du titulaire de la carte et les données de carte sous forme hachée, conformément aux lois relatives à la comptabilité et à la lutte contre le terrorisme.
 
-Si vous êtes membre de Finnair Plus ou membre du programme de fidélité de notre partenaire d’alliance, nous collectons et traitons des informations telles que le numéro de voyageur fréquent, le programme et les informations sur les paliers, si vous avez fourni votre numéro de voyageur fréquent.
+#### 3.2 Programme de fidélité Finnair Plus
 
-Si vous réservez des services de transport ou de stationnement supplémentaires par l’intermédiaire de Finnair, nous traiterons les informations relatives à l’adresse de transport, au numéro de réservation du service, aux numéros de plaque d’immatriculation, aux informations relatives au billet et aux informations supplémentaires données, telles que la taille du véhicule ou les informations écrites en format libre relatives à votre réservation.
+Si vous êtes membre du programme Finnair Plus, nous traitons vos données à caractère personnel comme suit :
 
-#### Données de communication
+**A) Sur la base de notre contrat avec vous (art. 6, paragraphe 1, point b) du RGPD)**
 
-Nous pouvons collecter et utiliser les communications que vous avez eues avec nous. Il peut s’agir d’enregistrements d’appels téléphoniques de l’assistance clientèle, de l’historique des chats, d’e-mails, de messages SMS et de posts sur les médias sociaux (le contrôle des données des médias sociaux peut reposer conjointement avec le fournisseur de la plateforme de médias sociaux). Nous pouvons également traiter vos informations dans le cadre d’enquêtes de satisfaction et de formulaires de retour d’information. Nous pouvons traiter vos consentements et opt-outs (désinscriptions) liés au marketing direct.
+**Transactions** – Nous enregistrons les transactions effectuées sur votre compte Finnair Plus, telles que l’accumulation de points de niveau et d’Avios, ainsi que l’utilisation d’Avios, de primes, de cadeaux et d’avantages.
 
-#### Données collectées dans nos points de contact numériques
+**Données de profil Finnair Plus** – Pour adhérer à notre programme de fidélité, vous devez fournir votre prénom, votre nom, votre date de naissance, votre adresse e-mail, votre numéro de téléphone, votre sexe et votre pays ou région. Vous pouvez choisir de nous communiquer votre adresse postale, les données de votre carte de paiement et de votre passeport, la taille de votre foyer, vos préférences et vos centres d’intérêt dans votre profil Finnair Plus. Ces préférences peuvent être utilisées pour préremplir des informations lors d’une réservation sur le site Web de Finnair ou pour vous fournir un service plus adapté.
 
-Lorsque vous vous connectez à nos points de contact numériques ou que vous y naviguez, nous traitons vos données de connexion, l’utilisation des services et certaines informations sur les appareils et les connexions des utilisateurs, telles que l’adresse IP.
+**Communications aux membres** – Nous vous enverrons des communications client concernant le statut et les modifications des services que vous avez achetés auprès de nous. Nous vous enverrons également des e-mails relatifs à votre adhésion à Finnair Plus, notamment concernant la création et la suppression de votre compte, l’expiration de vos Avios, les récompenses d’étapes franchies, l’atteinte de niveaux à vie et les modifications apportées au programme.
 
-#### Catégories particulières de données à caractère personnel
+Les données enregistrées sont également utilisées pour des communications ciblées destinées aux membres, diffusées via l’application mobile Finnair, le site Web de Finnair et nos autres canaux.
 
-Nous limitons la collecte de catégories spéciales de données à caractère personnel telles que les informations sur votre santé à un minimum, et uniquement aux données que vous nous avez communiquées.
+**Événements, concours et tirages au sort** – Si vous vous inscrivez à des événements, concours ou tirages au sort Finnair Plus, nous traitons votre nom et vos coordonnées afin de vous ajouter à la liste des participants et d’enregistrer votre participation dans le cadre de vos activités Finnair Plus.
 
-Dans le cadre de vos demandes de services spécifiques, nous pouvons être amenés à traiter ce type d’informations, par exemple en raison d’une demande d’assistance médicale spécifique. Nous traiterons les données à caractère personnel sensibles également dans le cas où vous avez besoin d’une autorisation médicale ou d’une preuve pour Finnair ou les autorités d’admissibilité pour voler avec nous.
+**Partenaires Finnair Plus** – Les partenaires Finnair Plus constituent un élément important du programme Finnair Plus, car vous pouvez accumuler des Avios et des points de niveau, et dépenser des Avios lorsque vous utilisez les services de nos partenaires. Vous trouverez plus d’informations sur nos partenaires sur le site Web de Finnair.
 
-#### Dossiers de sécurité
+Nous échangeons avec nos partenaires des données relatives à votre cumul et à votre utilisation d’Avios lorsque vous achetez les biens et services de nos partenaires, afin que le solde de votre compte Finnair Plus soit correctement mis à jour en fonction de vos activités de cumul et d’utilisation. En cas de questions ou de réclamations concernant les services des partenaires, nous échangeons les informations pertinentes relatives au service concerné afin de traiter votre demande ou votre réclamation.
 
-Finnair conserve un dossier sur les passagers qui ont déjà mis en danger la sécurité du vol ou qui ont commis un acte indiscipliné ou illégal à l’encontre de Finnair ou de son personnel.
+**B) Sur la base d’un intérêt légitime (art. 6, paragraphe 1, point f) du RGPD)**
 
-#### Données relatives aux processus d’arrière-plan
+Communication et engagement – Dans le cadre de l’amélioration de nos communications avec la clientèle, nous mesurons la fréquence et le niveau d’engagement afin de déterminer dans quelle mesure nos communications vous incitent à passer à l’action.
 
-Nous traitons les données relatives aux réservations, aux paiements et aux bagages afin de mesurer les performances et de prévenir les comportements frauduleux (voir la section Comment nous utilisons vos données > Sur la base de nos intérêts légitimes > Processus de fond).
+**Analyses** – Nous utilisons vos données à caractère personnel à des fins d’analyse et de reconnaissance des clients, ainsi que pour vous fournir des services personnalisés. Cela nous permet de proposer à nos clients des services et des produits pertinents, de développer nos produits et notre concept, et de créer des profils clients uniques. Ces profils peuvent être utilisés pour cibler le marketing et le contenu sur nos canaux numériques, par exemple le site web de Finnair, notre application mobile ou les newsletters envoyées par e-mail. Le marketing direct implique une personnalisation du contenu publicitaire en fonction de chaque membre sur les canaux susmentionnés. Le ciblage publicitaire personnalisé des membres fait partie intégrante du programme Finnair Plus. Disposer d’une vision complète de nos clients nous permet de comprendre l’ensemble de votre expérience et nous aide à améliorer nos produits et services ainsi que votre expérience. Nous pouvons également établir d’autres indicateurs basés sur votre comportement client, par exemple la probabilité d’achat de certains produits, créer des segments de clientèle et prédire d’autres produits ou destinations susceptibles de vous intéresser.
 
-### Comment nous utilisons vos données
+#### 3.3. Communications marketing numériques et personnalisation du contenu
 
-#### Sur la base de notre contrat avec vous
+Cette section de notre Politique de confidentialité décrit la manière dont nous utilisons vos données à caractère personnel à des fins de marketing numérique et de personnalisation du contenu. 
 
-**Fournir nos services**
+**Principes généraux**
 
-Pour créer une réservation, modifier une réservation et identifier tous les passagers à bord, nous avons besoin des informations personnelles des personnes qui voyagent.
+*   Lorsque nous recueillons vos coordonnées dans le cadre d’une vente de nos produits et services ou si vous adhérez au programme Finnair Plus, nous utilisons ces coordonnées pour vous envoyer, par e-mail, des communications marketing concernant nos propres produits ou services similaires ainsi que des services annexes liés à votre voyage, conformément à la législation applicable en matière de protection de la vie privée dans les communications électroniques. Nous vous en informerons et vous donnerons la possibilité de refuser cette utilisation de vos coordonnées dès la première collecte de celles-ci, puis dans chaque e-mail marketing que vous recevrez de notre part. Vous trouverez le lien de désabonnement au bas de ces e-mails ou dans votre [profil Finnair Plus](https://www.finnair.com/fr-fr).
+*   Si vous n’êtes pas membre du programme Finnair Plus mais que vous avez donné votre consentement pour recevoir des e-mails et des publicités personnalisées via notre site web, l’application Finnair ou un formulaire d’inscription dédié, vous pouvez gérer vos préférences marketing ou retirer votre consentement via un lien figurant à la fin de nos e-mails.
+*   Le retrait de votre consentement ou la désinscription ultérieure aux communications marketing n’affecte pas la légalité du traitement de vos données à caractère personnel à des fins de communication marketing avant le retrait de votre consentement.
+*   Nous diffusons des publicités ciblées sur la base de notre intérêt légitime. Vous pouvez à tout moment vous désabonner des publicités ciblées via votre profil Finnair Plus. Vous continuerez toutefois à voir nos publicités générales non personnalisées sur nos propres canaux numériques et sur les canaux tiers où nous faisons la promotion de nos services.
+*   Nous vous enverrons toujours des communications client concernant le statut et les modifications des produits et services que vous avez achetés chez nous, conformément au contrat que nous avons conclu avec vous.
 
-Pour vous fournir des services tout au long de votre voyage avec nous, vos données seront traitées à l’aéroport lors de l’enregistrement et de l’arrivée, au comptoir de service, au salon, à la porte d’embarquement ainsi qu’à bord. En cas de perturbations, nous devons contacter nos clients et, en cas de perturbation du trafic, réacheminer les passagers et modifier leurs réservations.
+**3.3.1. Quelles données traitons-nous**
 
-Pour acheminer vos bagages jusqu’à votre destination, nous nous chargeons des détails relatifs au traitement des bagages (par ex., les codes d’étiquetage, l’acheminement et les éventuels contrôles de sécurité).
+**Informations d'identification personnelle** – Identifiant aléatoire qui vous est attribué lorsque vous consultez nos points de contact numériques, votre nom, votre adresse e-mail et votre numéro de téléphone.
 
-En cas de demande de service spécial, nous devons nous assurer que vous bénéficiez du service approprié. Par exemple, vos préférences en matière de régime alimentaire seront prises en compte afin que vous puissiez bénéficier du repas de votre choix.
+**Données d’interaction** – Données relatives à vos interactions avec nos communications marketing (par exemple, taux d’ouverture, taux de clics).
 
-Nous vous aidons à répondre aux questions relatives à vos achats, telles que les réservations de vols ou les achats.
+**Vos transactions avec nous** – Informations concernant le ou les vols et autres services que vous avez achetés et utilisés auprès de nous, ainsi que, le cas échéant, l’historique de votre cumul et de votre utilisation des points de fidélité Finnair Plus antérieurs et des points Avios et de niveau actuels tout au long de votre adhésion. Nous ne collecterons aucune de vos informations de paiement à des fins de communications marketing.
 
-Afin de répondre à vos questions, de recueillir vos commentaires, de traiter vos plaintes, vos réclamations et vos remboursements, nous utilisons vos données à caractère personnel si nécessaire. Nous pouvons également utiliser vos données d’identification pour vous fournir un meilleur service dans des situations de perturbation. Nous pouvons vous envoyer des confirmations et des informations sur votre voyage par e-mail, par SMS ou autrement.
+**Informations d’identification personnelles supplémentaires des membres Finnair Plus** – Votre numéro d’adhérent, votre date de naissance, votre sexe. Nous ne traiterons vos coordonnées postales que si vous nous les avez communiquées.
 
-Nous pouvons enregistrer vos coordonnées, vos données de réservation, vos contacts et le contenu de vos contacts dans un compte client afin de pouvoir vous fournir une assistance clientèle adaptée. Ces informations peuvent également être utilisées pour identifier le client lorsqu’il prend contact avec nous. Pour vous tenir informé de votre voyage et de votre itinéraire, nous devrons vous contacter en utilisant vos coordonnées et traiter les détails de votre réservation.
+**Profil de voyage et centres d’intérêt des membres Finnair Plus** – Informations relatives à vos préférences et centres d’intérêt en tant que membre Finnair Plus, si vous nous avez fourni ces informations.
 
-Si vous vous êtes inscrit à nos autres services, nous traiterons les données fournies lors de l’inscription ou de la réservation afin de fournir le service demandé.
+**Données relatives à l’adhésion à Finnair Plus** – Informations concernant la date à laquelle vous êtes devenu membre Finnair Plus, votre statut de niveau et votre période de suivi personnelle au sein du programme Finnair Plus. Nous traiterons également les données relatives au montant que vous avez dépensé en tant que membre Finnair Plus et aux éventuelles perturbations que vous avez rencontrées lors de vos voyages en tant que membre Finnair Plus. Nous traiterons également les informations indiquant si vous disposez d’une carte de crédit liée au programme Finnair Plus et si vous avez associé votre compte Finnair Plus à un autre programme de fidélité.
 
-#### Sur la base de notre intérêt légitime
+**Cookies** – Nous utilisons des cookies et des technologies similaires pour améliorer votre expérience sur notre site web et notre application mobile (les « Plateformes »), pour vous présenter du contenu marketing pertinent sur les Plateformes ainsi que sur des sites web tiers et des réseaux sociaux, et pour adapter notre contenu et nos services à vos préférences et à vos centres d’intérêt, comme décrit dans notre [Politique relative aux cookies](https://www.finnair.com/fr-fr/info/finnair-cookie-policy). 
 
-**Communication et engagement**
+Les cookies sont de petits fichiers texte stockés sur votre appareil (tel qu’un ordinateur, une tablette ou un smartphone) lorsque vous visitez la Plateforme. Lorsque vous revenez sur la Plateforme, les cookies permettent de reconnaître votre appareil et de mémoriser certaines informations relatives à votre visite, telles que vos préférences linguistiques, votre statut de connexion et les informations saisies dans les formulaires. Cela rend la Plateforme plus pratique et personnalisée. Les cookies sont classés en quatre catégories en fonction de leur fonction : les cookies essentiels, les cookies de performance et les cookies de personnalisation du contenu. Les cookies essentiels sont toujours activés, tandis que les cookies  de performance, de personnalisation du contenu et publicitaires sont facultatifs.
 
-Nous pouvons traiter vos données à caractère personnel pour vous envoyer des communications à caractère informatif liées aux services que vous avez achetés ou pour lesquels vous vous êtes inscrit.
+**Si les cookies de performance sont activés**, nous collectons et traitons les données à caractère personnel suivantes :
 
-Nous pouvons vous demander de participer volontairement au développement de nos services. Si vous avez participé à une enquête, les résultats seront utilisés à des fins d’analyse et pourront également être combinés avec d’autres données de notre base de données, telles que les données relatives aux réservations et aux vols, à des fins d’amélioration de l’expérience client. Vous pouvez être contacté après l’enquête pour fournir des informations supplémentaires. Nous pouvons également contacter un groupe sélectionné ou limité de personnes pour participer au test de nos nouveaux produits et services.
+*   **Informations d’identification personnelle :** identifiant aléatoire qui vous est attribué lorsque vous visitez nos points de contact numériques. Nous ne collectons aucune de vos informations de paiement à des fins de communication marketing.
+*   **Préférences marketing :** informations concernant vos préférences et vos centres d’intérêt liés à nos produits et services.
+*   **Données comportementales :** informations concernant votre comportement en ligne, collectées lors de l’utilisation de notre site web et de l’application Finnair.
 
-Lorsque nous traitons des données à caractère personnel, nous nous appuyons sur notre intérêt légitime à entretenir des relations commerciales et à communiquer avec vous au sujet de nos activités et de nos événements.
+**Si les cookies de personnalisation du contenu sont activés**, nous collectons et traitons les données à caractère personnel suivantes :
 
-**Points de contact numériques**
+*   **Informations d’identification personnelle :** identifiant aléatoire qui vous est attribué lorsque vous consultez nos points de contact numériques. De plus, si vous effectuez une transaction ou remplissez un formulaire, nous collecterons votre nom, votre adresse e-mail et toute autre information que vous fournirez. Nous ne collecterons aucune de vos informations de paiement à des fins de communication marketing.
+*   **Préférences marketing :** informations concernant vos préférences et vos centres d’intérêt liés à nos produits et services.
+*   **Données comportementales :** informations relatives à votre comportement en ligne, collectées lors de l'utilisation de notre site web et de l'application Finnair.
 
-Les données à caractère personnel, telles que les données de connexion et les journaux d’utilisation du site, sont traitées dans le cadre de la fourniture de services dans nos points de contact numériques, afin de garantir votre identité, de vous identifier à travers les différents points de contact et d’enregistrer l’utilisation. Les cookies fonctionnels sont utilisés pour collecter des données à partir des sessions afin d’assurer le fonctionnement de nos services en ligne. Pour plus d’informations sur la manière dont nous utilisons les cookies, veuillez consulter [notre politique en matière de cookies.](https://www.finnair.com/fr-fr/info/finnair-cookie-policy)
+**Si les cookies publicitaires sont activés**, nous collectons et traitons les données à caractère personnel suivantes :
 
-**Personnalisation des services**
+*   **Informations d’identification personnelle :** identifiant aléatoire qui vous est attribué lorsque vous consultez nos points de contact numériques. Nous ne collectons aucune de vos informations de paiement à des fins de communication marketing.
+*   **Préférences marketing :** informations relatives à vos préférences et à vos centres d’intérêt concernant nos produits et services.
+*   **Données comportementales :** informations relatives à votre comportement en ligne, collectées via notre site web, l’application Finnair et des canaux tiers tels que les interactions sur les réseaux sociaux.
 
-Dans le but d’améliorer continuellement l’assistance clientèle et de rendre notre offre plus pertinente pour vous, nous pouvons proposer un service et un contenu personnalisés sur la base d’une transaction individuelle, par exemple en proposant des services liés à votre destination. Nous pouvons également effectuer une segmentation de la clientèle, par exemple pour offrir des surclassements, des services auxiliaires et des produits de détail pertinents pour le client par le biais de nos points de contact numériques. Nous pouvons également obtenir d’autres informations à partir des transactions individuelles, telles que l’objet du voyage.
+**3.3.2. Comment nous utilisons vos données et bases juridiques du traitement**  
 
-En identifiant la clientèle et son historique de voyage, nous pouvons identifier les communications précédentes, les irrégularités passées, les services achetés et les informations de voyage. En conséquence, nous pouvons reconnaître les besoins spécifiques du voyageur et accorder une attention particulière à certains éléments du parcours, de l’expérience et des interactions du client. Pour identifier le client et créer un profil unique, il est nécessaire de relier plusieurs enregistrements, à la fois pour la même transaction et pour des transactions différentes.
+**A) Sur la base de notre contrat avec vous (art. 6, paragraphe 1, point b) du RGPD)**
 
-**Processus d’arrière-plan**
+Nous vous enverrons des communications client concernant le statut, les modifications et la poursuite des produits et services que vous avez achetés auprès de nous.
 
-Dans le cadre de la gestion de notre entreprise, nous pouvons traiter des données à caractère personnel lors de l’exécution de certains processus d’arrière-plan. Pour les billets, les accessoires et autres achats, nous devons nous assurer que les réservations sont créées et que la billetterie est effectuée conformément à la loi et aux politiques de Finnair. Ces processus couvrent, par exemple, la surveillance des activités frauduleuses, telles que le vol de cartes de crédit, les fausses réservations, les réclamations frauduleuses, et l’audit des tarifs et des taxes.
+**B) Sur la base de notre intérêt légitime (art. 6, paragraphe 1, point f) du RGPD)**
 
-Pour développer et améliorer davantage nos services et analyser nos performances commerciales, nous suivons les flux de trafic, les performances commerciales et opérationnelles et les comportements connexes de la clientèle. Les données transactionnelles sont utilisées dans des situations opérationnelles pour déterminer, par exemple, le nombre de personnes qui seront surclassées ou déchargées.
+**Analyses et performances** – Si vous avez accepté les cookies de performance, nous mesurons le trafic sur notre site web et l’application Finnair, identifions les clients fidèles et comprenons comment nos clients utilisent notre site web et l’application Finnair.
 
-#### Sur la base de votre consentement
+**Pour créer un profil vous concernant** – Si les cookies de personnalisation du contenu sont activés et/ou si vous ne vous êtes pas opposé à ce que Finnair se fonde sur son intérêt légitime pour procéder à un profilage, nous créons un profil vous concernant sur la base de vos préférences, de votre comportement et de vos données d’identification personnelles à des fins de communications marketing et de personnalisation du contenu. Ce profil n’est partagé avec aucun tiers, sauf si vous avez donné votre consentement pour recevoir des publicités personnalisées de tiers. Ce profil ne sera pas utilisé à des fins de prise de décision automatisée ou de profilage susceptible d’entraîner des effets juridiques vous concernant.
 
-**Communications marketing**
+**Pour permettre le suivi publicitaire par des tiers** – Si les cookies publicitaires sont activés, nous utilisons des pixels de suivi tiers sur nos points de contact numériques ; il s’agit de technologies qui permettent à nos partenaires tiers de collecter vos données comportementales directement à partir de nos points de contact numériques. Cela nous permet d’optimiser, de mesurer et de diffuser du contenu ciblé sur d’autres sites web et services par l’intermédiaire de nos partenaires tiers. Veuillez consulter la section « Comment nous partageons vos données » pour plus d’informations sur la manière dont nous partageons vos données à des fins de publicité ciblée.
 
-Si vous nous avez donné votre consentement, nous vous enverrons des messages de marketing direct. Par exemple, si vous vous êtes abonné au bulletin d’information Finnair ou à d’autres supports de marketing direct, vos coordonnées seront traitées pour vous envoyer les messages demandés. Les clients ont le droit de se désabonner ou de refuser de recevoir des messages marketing à tout moment.
+**Pour enrichir les données de votre profil** – Si les cookies de personnalisation de contenu sont activés, le profil créé à partir des données que nous avons collectées grâce à ces cookies est enrichi en fonction de votre interaction continue avec nos points de contact numériques et des données que nous avons recueillies auprès de vous en tant que client et membre Finnair Plus. Cela n’inclut pas la prise de décision automatisée ni le profilage susceptibles d’entraîner des effets juridiques vous concernant.
 
-Nous pouvons également vous envoyer du marketing direct lié aux services Finnair sur la base de la législation applicable en matière de confidentialité des communications électroniques, si vous êtes une clientèle existante de Finnair ou un représentant de notre fournisseur, partenaire ou sous-traitant et que vous ne vous êtes pas désabonné (opt-out) de la réception de marketing direct.
+**Segmentation et personnalisation** – Nous utilisons les données de votre profil pour mieux comprendre comment nous pouvons mieux vous servir en tant que client au sein de l’ensemble de notre clientèle. Cela n’inclut pas la prise de décision automatisée ni le profilage susceptibles d’entraîner des effets juridiques vous concernant.
 
-Découvrez comment nous traitons vos données à caractère personnel aux fins des communications marketing numériques et de la personnalisation du contenu dans notre [avis de confidentialité](https://www.finnair.com/fr-fr/info/politique-de-confidentialit%C3%A9-de-finnair#avis-de-confidentialit%C3%A9) dédié.
+**Pour personnaliser le contenu de nos communications marketing** – Nous adaptons le contenu de nos canaux de communication marketing et personnalisons le contenu de nos propres points de contact numériques en fonction de votre profil et des autres données que nous collectons et traitons à votre sujet (comme expliqué ci-dessus). Ce profilage nous permet de segmenter notre clientèle et de vous proposer un contenu de communication marketing qui vous concerne et qui est susceptible de vous intéresser en tant que client potentiel ou existant et membre du programme Finnair Plus. Cela n’inclut pas la prise de décision automatisée ni le profilage susceptibles d’entraîner des effets juridiques à votre égard.
 
-**Points de contact numériques**
+**E-mails marketing relatifs à vos produits et services** – Si nous avons obtenu vos coordonnées dans le cadre d’une vente de nos produits et services ou d’une inscription au programme Finnair Plus, nous pouvons utiliser ces coordonnées pour vous envoyer par e-mail des communications marketing relatives à cet achat ou à ce programme, conformément à la législation applicable en matière de protection de la vie privée dans les communications électroniques. Il peut s’agir, par exemple, d’e-mails promotionnels concernant les produits et services de Finnair et de Finnair Plus, les offres réservées aux membres, actualités et idées de voyage susceptibles de vous intéresser, à moins que vous ne choisissiez de ne pas recevoir ces communications. Vous pouvez modifier vos paramètres de communication marketing à tout moment dans votre profil.
 
-Outre l’activation de nos services en ligne, nous utilisons des cookies pour collecter des données à caractère personnel dans le but de fournir des services d’analyse, de personnalisation et de publicité sur la base de votre consentement. Pour plus d’informations sur la manière dont nous utilisons les cookies, veuillez consulter [notre politique en matière de cookies](https://www.finnair.com/fr-fr/info/finnair-cookie-policy).
+**Publicité personnalisée pour les membres Finnair Plus grâce au partage et au recoupement de vos données avec nos partenaires tiers** – Nous diffusons des publicités personnalisées en partageant vos données hachées avec des partenaires tiers, tels que Meta et Google, afin de faciliter le recoupement des données et d’améliorer et de personnaliser les publicités Finnair que vous voyez sur ces plateformes. Vous pouvez vous y opposer à tout moment via votre [profil Finnair Plus](https://www.finnair.com/fr-fr).
 
-**Vérification en ligne des documents de voyage**
+**C) Sur la base de votre consentement (art. 6, paragraphe 1, point a) du RGPD)**
 
-Nous proposons à nos clients un service de vérification en ligne sécurisé des documents de voyage lors de l’enregistrement en ligne afin de détecter les données erronées lors de la saisie manuelle des données des documents de voyage, ainsi que pour faciliter et accélérer le parcours du client à l’aéroport en lui évitant d’avoir à présenter des documents de voyage à différents points de contrôle. L’utilisation de la vérification en ligne des documents de voyage est basée sur votre consentement. En choisissant d’utiliser la vérification en ligne des documents de voyage, vous consentez à la collecte de l’image de votre document de voyage ainsi que des données du document de voyage lisibles à partir de l’image du document de voyage. Ces données seront partagées avec les autorités afin de respecter notre obligation légale et de garantir un voyage sûr avec nous.
+Nous traitons vos données à caractère personnel sur la base de votre consentement explicite afin de vous envoyer nos communications marketing, conformément à l’article 6, paragraphe 1, point a), du RGPD. Votre consentement est volontaire et vous avez le droit de le retirer à tout moment sans que cela n’affecte la licéité du traitement fondé sur votre consentement avant son retrait.
 
-Au lieu de la vérification en ligne des documents de voyage, vous pouvez choisir de saisir manuellement les informations du document de voyage au cours du processus d’enregistrement en ligne, et de faire vérifier votre document de voyage par notre personnel chargé de l’enregistrement à l’aéroport.
+**Pour vous envoyer des e-mails marketing concernant Finnair et Finnair Plus** – Si vous avez donné votre consentement pour recevoir nos e-mails marketing, nous utiliserons vos données à caractère personnel pour vous envoyer des e-mails marketing concernant les produits, services, offres spéciales, actualités et idées de voyage de Finnair et Finnair Plus susceptibles de vous intéresser.
 
-**Processus incluant des catégories spéciales de données à caractère personnel**
+**Publicité personnalisée destinée aux abonnés à la newsletter Finnair qui ne sont pas membres du programme Finnair Plus** – Nous diffusons des publicités personnalisées en partageant et en recoupant vos données avec nos partenaires tiers, tels que Meta et Google, sur la base de votre consentement, afin de faciliter le recoupement des données et d’améliorer et de personnaliser les publicités Finnair que vous voyez sur ces plateformes. Vous pouvez vous désinscrire à tout moment via le lien de désabonnement figurant dans la newsletter.
 
-Si le traitement de vos données relatives à la santé est nécessaire, un consentement explicite vous sera demandé. Il peut vous être demandé de fournir des informations supplémentaires, telles qu’un certificat médical pour s’assurer que vous pouvez voyager selon l’évaluation d’un professionnel de la santé, et pour s’assurer que nous disposons des informations nécessaires pour prendre soin de votre sûreté et de votre sécurité. Une fois le consentement reçu, les données seront traitées, par exemple par l’assistance clientèle, l’assistance au sol et le personnel de bord, uniquement dans la mesure où cela est nécessaire. Sur la base de votre consentement, nous pouvons également traiter des données obtenues, par exemple, auprès de prestataires de soins de santé, si cela est nécessaire pour vérifier l’admissibilité à nos vols et/ou à un pays étranger, lors d’une crise de santé publique.
+**Pour vous envoyer des e-mails marketing relatifs aux partenaires et aux événements Finnair Plus** – Si vous êtes membre de Finnair Plus et que vous avez donné votre consentement pour recevoir nos offres exclusives réservées aux membres proposées par les partenaires Finnair Plus ainsi que des invitations à des événements, nous utiliserons vos données personnelles pour vous envoyer des e-mails marketing concernant les offres exclusives réservées aux membres portant sur les produits et services des partenaires Finnair Plus susceptibles de vous intéresser, ainsi que nos invitations à des événements. Les partenaires Finnair Plus sont classés en trois catégories : partenaires de voyage, partenaires financiers et partenaires de vente au détail. Vous pouvez gérer vos consentements pour chaque catégorie séparément.
 
-#### Sur la base de nos obligations légales
+**3.3.3. Comment nous obtenons vos données** 
 
-**Assurer un voyage sûr et sécurisé**
+Nous collectons vos données à caractère personnel à des fins de communication marketing numérique et de personnalisation du contenu lorsque vous :
 
-Pour vous assurer un voyage sûr et sécurisé, et pour nous conformer aux exigences de sécurité telles que le signalement des incidents, nous devons nous assurer que nous savons qui est à bord de l’appareil. Nous identifions les passagers lors de l’enregistrement, aux portes d’embarquement et en coordination avec les services de sécurité.
+*   interagissez avec nos plateformes ;
+*   Achetez un vol ou d’autres services et utilisez ces services auprès de nous.
+*   Vous inscrivez au programme Finnair Plus et achetez et utilisez nos services en tant que membre Finnair Plus.
+*   vous inscrivez à nos communications marketing ;
+*   Participez à des enquêtes, des promotions ou des événements.
+*   Participez à une campagne ou remplissez un formulaire sur une plateforme tierce en rapport avec nos produits et services.
 
-Lorsqu’un passager a compromis ou risque de compromettre la sécurité, la sûreté ou l’ordre pendant ou en relation avec un vol, nous avons le droit de refuser d’accepter le passager sur nos vols pour des raisons de sécurité. Cette décision peut être prise pour une durée déterminée ou jusqu’à nouvel ordre. Cela signifie également que nous enregistrerons les informations relatives au passager dans nos dossiers de sécurité. Nous définirons également la durée pendant laquelle le passager ne pourra pas monter à bord de nos appareils. Nous informerons le passager du stockage de ses informations dans nos dossiers de sécurité.
+**3.3.4. Comment nous partageons vos données**
 
-Les lois locales peuvent nous obliger à partager vos données à caractère personnel avec les autorités, par exemple les agences de contrôle des frontières, les douanes, les autorités d’immigration, les autorités sanitaires, la police ou les autorités fiscales. Afin de respecter les obligations légales, nous collectons et traitons des données à caractère personnel telles que les détails du passeport, les informations relatives au visa et votre adresse dans votre destination de voyage, comme l’exigent la législation ou les exigences des autorités.
+Nous partageons vos données personnelles avec des tiers qui nous aident à :
 
-En cas de crise, Finnair peut traiter vos données dans le but de fournir des soins et une assistance, ainsi que pour répondre à la situation et remplir ses obligations légales.
+**Production, gestion et analyse** – Nous faisons appel à des prestataires informatiques tiers qui nous fournissent des outils et des services permettant de produire et de gérer nos communications marketing et nos activités de personnalisation de contenu, ainsi que de nous aider à analyser l’efficacité de nos actions. Ces prestataires informatiques sont contractuellement tenus de protéger vos données à caractère personnel et de n’utiliser vos données que conformément à nos instructions, en notre nom, en tant que sous-traitants chargés du traitement de vos données à caractère personnel. Nous veillons à ce que ces prestataires respectent la législation applicable en matière de confidentialité et de protection des données, et à ce que le transfert de vos données depuis nos systèmes soit sécurisé et s’accompagne de garanties juridiques et appropriées lorsque ce transfert s’avère nécessaire.
 
-**Tenue des registres obligatoires**
+**Marketing par e-mail** – Nous faisons appel à des prestataires tiers pour mener à bien nos campagnes de marketing par e-mail et gérer nos listes de diffusion. Ces prestataires tiers sont contractuellement tenus de protéger vos données et de ne les utiliser que conformément à nos instructions, en tant que sous-traitants de données à caractère personnel. Nous veillons à ce que ces prestataires tiers respectent la législation applicable en matière de confidentialité et de protection des données, et à ce que le transfert de vos données depuis nos systèmes soit sécurisé et s’accompagne de garanties légales et appropriées lorsque ce transfert est nécessaire.
 
-Conformément à la législation comptable, nous sommes tenus de conserver nos transactions et autres documents comptables pendant la période définie par la loi.
+**Publicité ciblée** – Si vous avez donné votre consentement à l’utilisation de cookies publicitaires ou si vous ne vous êtes pas opposé à ce que Finnair se fonde sur son intérêt légitime pour diffuser de la publicité ciblée, ou les deux, nous partageons vos données à caractère personnel avec nos partenaires tiers qui nous permettent de diffuser de la publicité ciblée via des canaux et des plateformes tiers. Ces partenaires tiers, qui sont actuellement Meta Platforms Ireland Limited, Google LLC et Sanoma Media Finland Oy, peuvent agir en tant que responsables conjoints du traitement avec nous et en tant que responsables indépendants auxquels vos données sont transférées afin de vous proposer de la publicité ciblée. Veuillez noter que lorsqu’ils agissent en tant que responsables du traitement indépendants, ces partenaires tiers peuvent utiliser vos données à caractère personnel à des fins d’agrégation et pour déduire et établir des segmentations et des rapports liés à la publicité sur la base des données agrégées, qui seront également utilisés par d’autres annonceurs sur la plateforme tierce.
 
-#### Période de stockage
+Si vous utilisez les services de Meta Platforms Ireland Limited, tels que Facebook et Instagram, vous pouvez en savoir plus sur vos droits en matière de confidentialité sur ces plateformes en consultant [le site web de Facebook](https://www.facebook.com/privacy/policy).
 
-Nous ne stockons vos données à caractère personnel que le temps nécessaire pour atteindre l’objectif pour lequel elles ont été collectées, ou dans la mesure où le stockage des données est nécessaire au respect des obligations légales et à la résolution d’éventuelles réclamations ou litiges.
+Si vous utilisez les services de Google LLC, vous pouvez en savoir plus sur vos droits en matière de confidentialité sur [le site web de Google](https://business.safety.google/privacy/).
 
-### Comment nous collectons et partageons vos données
+Si vous utilisez les services de Sanoma Media Finland Oy, vous pouvez en savoir plus sur vos droits en matière de confidentialité sur [le site web de Sanoma](https://www.sanoma.fi/mita-teemme/tietosuoja/tietosuojalauseke/) (en finnois). 
 
-#### Sources de données
+Si, dans le cadre de l’une de nos activités, vos données à caractère personnel sont transférées en dehors de l’Espace économique européen ou de l’Union européenne, nous mettrons toujours en œuvre des mécanismes et des garanties appropriés en matière d’ s de transfert de données à caractère personnel afin de garantir que vos données à caractère personnel soient traitées conformément aux lois applicables en matière de confidentialité et de protection des données. Nous veillons également à ce que nos prestataires de services informatiques et autres prestataires s’y conforment, et nous nous assurons que nos partenaires tiers mettent en œuvre des pratiques similaires et conformes afin de protéger vos données à caractère personnel.
 
-Nous recevons vos données directement de vous lorsque vous achetez nos produits dans l’un de nos canaux, lorsque vous effectuez une réservation sur finnair.com ou lorsque vous vous inscrivez à notre programme de fidélité.
+**3.3.5. Combien de temps conservons-nous vos données**
 
-Nous collectons automatiquement des données à caractère personnel lorsque vous utilisez nos points de contact numériques ou certains services, tels que l’enregistrement, la soumission de bagages ou l’embarquement.
+Nous conservons vos données à caractère personnel à des fins de communications marketing tant que vous n’avez pas choisi de ne plus recevoir nos communications marketing ni de bénéficier de la personnalisation de contenu.
 
-Nous pouvons obtenir des informations auprès des autorités ou de tiers. Nous pouvons obtenir vos informations auprès d’autres compagnies aériennes si nous sommes impliqués dans la réalisation d’une partie de votre voyage. Nous pouvons également obtenir vos données auprès d’autres partenaires, tels que des partenaires impliqués dans la réalisation du voyage, par exemple Finavia, des prestataires de services d’assistance en escale, des plateformes tierces ou des agents de voyage.
+Si vous vous désabonnez, nous ne vous enverrons plus d’e-mails marketing et vous ne verrez plus nos publicités personnalisées sur les plateformes tierces ; cette mesure prendra effet immédiatement pour les e-mails et dans les 24 heures pour les publicités personnalisées.
 
-#### Partage de vos données
+**Veuillez noter** que nous conserverons certaines données si la loi l’exige, ou à des fins commerciales légitimes sans rapport avec les communications marketing ou la personnalisation de contenu.
 
-Nous sommes susceptibles de partager vos données à caractère personnel avec des sociétés du groupe Finnair et d’autres tiers, aux fins suivantes :
+### 4\. Sources des données à caractère personnel
 
-**Pour vos voyages et autres services**
+Nous recevons vos données directement de votre part lorsque vous achetez nos produits via l’un de nos canaux de vente, lorsque vous effectuez une réservation sur finnair.com ou lorsque vous adhérez à notre programme de fidélité Finnair Plus. Vos achats seront associés à votre compte si vous vous êtes identifié en tant que membre Finnair Plus. Nous recevons vos données à caractère personnel de la part de nos compagnies aériennes partenaires et d’autres entreprises impliquées dans l’organisation et la gestion de votre voyage.
 
-Nous partageons vos données à caractère personnel avec, par exemple, d’autres compagnies aériennes, des exploitants d’aéroports et d’autres prestataires de services impliqués lors de votre voyage. Nous transférons également des données à caractère personnel à des prestataires de services impliqués dans le traitement de vos réservations, achats et réservations. Nous pouvons également transférer vos données à caractère personnel à des agences de voyages, des prestataires de services auxiliaires, des autorités et des agents d’escale, en fonction des services demandés. Si vous avez réservé votre vol par l’intermédiaire d’une agence de voyages ou d’une plateforme tierce, nous partageons vos données à caractère personnel avec eux.
+Nous collectons automatiquement des données à caractère personnel lorsque vous utilisez nos points de contact numériques ou certains services, tels que l’enregistrement, l’enregistrement des bagages ou l’embarquement.
 
-Si vous avez acheté un forfait de tests médicaux par l’intermédiaire de Finnair, nous pouvons divulguer des données de base vous concernant (nom, sexe, date de naissance, numéro de téléphone, adresse électronique) (le cas échéant) au prestataire de services de test, uniquement pour faciliter le processus d’inscription et de test.
+Nous pouvons obtenir des informations auprès des autorités ou de tiers. Nous obtenons vos informations auprès d’autres compagnies aériennes si nous participons à l’organisation d’une partie de votre voyage. Nous pouvons également obtenir vos données auprès d’autres partenaires, tels que ceux impliqués dans l’organisation du voyage, par exemple Finavia, les prestataires de services au sol, les plateformes tierces ou les agences de voyage.
 
-Nous partageons vos données avec d’autres compagnies aériennes qui font partie de votre voyage, par exemple si l’un de vos vols est opéré par un autre transporteur, et avec les compagnies membres de l’alliance pour l’assistance aux clients de l’alliance.
+Si vous êtes membre du programme Finnair Plus, nous obtenons également vos données auprès de partenaires lorsque vous utilisez leurs services via votre compte Finnair Plus. Cela est nécessaire pour vous fournir les services du programme. Nous collectons automatiquement des données à caractère personnel lorsque vous utilisez nos services pour lesquels vous êtes identifié par votre numéro Finnair Plus, tels que les services d’enregistrement et de dépôt des bagages, lorsque vous utilisez les services de fidélité ou lorsque vous achetez des produits complémentaires.
 
-**Pour les besoins internes du groupe Finnair**
+### 5\. Destinataires des données à caractère personnel
 
-Nous pouvons partager les données à caractère personnel collectées à l’aide de cookies sur les services numériques de Finnair avec les membres du groupe Finnair.
+Nous partageons vos données à caractère personnel avec les sociétés du groupe Finnair et d’autres tiers aux fins suivantes :
 
-**Pour des raisons d’obligations légales, de sécurité et de prévention de la fraude, ou sur la base de votre consentement**
+**Pour votre voyage et d’autres services** – Nous partageons vos données à caractère personnel avec, par exemple, d’autres compagnies aériennes, des exploitants d’aéroports et d’autres prestataires de services intervenant au cours de votre voyage. Nous transmettons également des données à caractère personnel aux prestataires de services intervenant dans le traitement de vos réservations, de vos achats d’ s et de vos réservations. Nous transmettons vos données à caractère personnel à des agences de voyage, à des prestataires de services annexes, aux autorités et aux prestataires de services au sol, conformément aux services demandés. Si vous avez réservé votre vol par l’intermédiaire d’une agence de voyage ou d’une plateforme tierce, nous partageons vos données à caractère personnel avec ces derniers.
 
-Nous pouvons partager vos données, telles que votre passeport, les informations relatives à votre visa et les données relatives à votre voyage, si les autorités de votre pays de destination l’exigent.
+Nous partageons vos données avec d’autres compagnies aériennes intervenant dans votre voyage, par exemple si l’un de vos vols est opéré par un autre transporteur, ainsi qu’avec les compagnies aériennes membres de l’alliance afin d’assurer l’assistance aux clients de l’alliance.
 
-Nous pouvons également partager vos données à caractère personnel avec des tiers ou des autorités compétentes si cela est nécessaire pour détecter et prévenir la criminalité, les activités frauduleuses ou les problèmes de sécurité ou pour d’autres raisons juridiques. En cas de crise internationale de santé publique, nous pouvons divulguer des informations relatives à la santé aux autorités compétentes sur la base de votre consentement ou d’une obligation légale.
+**À des fins internes au groupe Finnair** – Nous pouvons partager les données à caractère personnel collectées à l’aide de cookies sur les services numériques de Finnair avec les membres du groupe Finnair.
 
-**À des fins d’études sur la clientèle**
+**Pour respecter des obligations légales, assurer la sécurité et prévenir la fraude, ou sur la base de votre consentement** – Nous partageons vos données, telles que les informations relatives à votre passeport, à votre visa et à votre voyage, conformément aux exigences des autorités de votre pays de destination.
 
-Nous pouvons partager vos coordonnées avec des tiers, comme des cabinets d’études de marché qui mènent des études sur la clientèle pour le compte de Finnair.
+Nous partageons vos données à caractère personnel avec des tiers ou des autorités compétentes si cela s’avère nécessaire pour détecter et prévenir des infractions, des activités frauduleuses ou des problèmes de sécurité, ou pour d’autres raisons légales. En cas de crise sanitaire internationale, nous pouvons communiquer des informations relatives à la santé aux autorités compétentes sur la base de votre consentement ou d’une obligation légale.
 
-Données relatives aux adhérents Finnair Plus et aux comptes Finnair
--------------------------------------------------------------------
+**À des fins d’études de marché** – Nous pouvons partager vos coordonnées avec des tiers, tels que des agences d’études de marché mandatées par Finnair.
 
-### Quelles sont les données que nous traitons ?
+### 6\. Transferts vers des pays tiers
 
-#### Données du profil
+Vos données à caractère personnel peuvent être transférées et traitées en dehors de votre pays de résidence et en dehors de l’Espace économique européen. La législation de ces pays peut ne pas offrir le même niveau de protection à vos données à caractère personnel.
 
-Nous collectons et traitons les données à caractère personnel de base que vous soumettez sur vous ou vos enfants lors de la création de votre profil Finnair Plus ou compte Finnair. Il peut s’agir des informations suivantes :
+Dans ces cas, nous avons pris des mesures pour garantir la mise en place de garanties appropriées et adéquates afin de respecter les exigences relatives aux transferts internationaux de données à caractère personnel prévues par la législation applicable, notamment en utilisant [les clauses contractuelles types de la Commission de l’Union européenne](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087&from=EN) comme garantie pour le transfert de données à caractère personnel en dehors de l’Espace économique européen.
 
-*   le nom
-*   la date de naissance
-*   le sexe
-*   la taille de la famille et autres informations résidentielles
-*   le titre (Monsieur, Mme)
-*   les coordonnées, telles que l’adresse, le numéro de téléphone et l’adresse e-mail
-*   les données professionnelles : profession ou occupation, nom de l’employeur, adresse de l’employeur et numéro de téléphone au travail
-*   les informations relatives au document de voyage : numéro de passeport, période de validité du passeport, pays de délivrance du passeport et nationalité.
+Nous pouvons également être amenés à transférer vos données à caractère personnel à des autorités étrangères, par exemple aux autorités douanières ou d’immigration.
 
-  
-Nous traitons les informations relatives à votre statut de membre et à votre historique, ainsi que les données à caractère personnel et votre utilisation des avantages liés à l’adhésion. Il s’agit des informations suivantes :
+### 7\. Protection de vos données
 
-*   les informations relatives à l’adhésion et au profil : date d’entrée en vigueur de l’adhésion, type et campagne, préférence de siège (couloir ou fenêtre)
-*   les informations relatives à la carte de membre : numéro de membre, date d’émission de la dernière carte de membre, date d’expiration
-*   les informations sur les niveaux d’adhésion : historique des niveaux, total des points de niveau, nombre de vols de niveau, niveau d’adhésion, accumulation du prix du billet de vol, détails de la date de niveau
-*   les informations sur les Avios et les points de niveau : total des Avios et des points de niveau collectés pendant l’adhésion, total des Avios dépensés, total des Avios disponibles, total des Avios expirés
-*   les données relatives aux transactions : toutes les transactions et tous les achats liés à votre adhésion
-*   les informations spécifiques à l’événement : date de l’événement, détails de l’événement, tels que le nom du produit, les Avios et les points de niveau collectés ou dépensés, le nom du prestataire de services, le numéro du document (numéro de billet ou autre numéro de document) 
-*   les informations permettant de savoir si le client possède une carte de crédit combinée Finnair Plus
-*   les intérêts et préférences : intérêts en matière de loisirs, préférences en matière de repas et autres intérêts indiqués par le membre
-*   les données marketing : dates d’envoi des communications marketing et des relevés d’Avios et de points de niveau, détails des campagnes proposées au client et copies des lettres marketing envoyées au client 
-*   les services aéroportuaires : informations sur les services aéroportuaires, tels que l’utilisation des salons, les services d’enregistrement et les services de manutention des bagages, ainsi que d’autres informations sur les services aéroportuaires
-*   Consentements et opt-outs (désinscriptions) liés au marketing direct.
+**Comment nous protégeons vos données**
 
-  
-Votre profil contient également les données relatives à vos vols en tant qu’adhérent Finnair Plus ou titulaire d’un compte Finnair :
+Finnair prend les mesures techniques et organisationnelles appropriées pour garantir la sécurité de vos données à caractère personnel et les protéger contre toute perte ou utilisation illicite. L’accès à vos données à caractère personnel est limité au strict nécessaire et soumis à des contrôles d’accès, et le traitement des données à caractère personnel est consigné. Notre environnement informatique est protégé et surveillé de manière appropriée, et fait l’objet de mises à jour, de tests et d’évaluations réguliers afin de garantir une sécurité de l’ continue. Notre personnel est formé pour se conformer à la législation applicable en matière de protection des données ainsi qu’aux politiques et instructions en vigueur.
 
-*   le numéro de vol
-*   les point de départ et destination du vol
-*   la classe de voyage
-*   le code de la compagnie aérienne
-*   l’agence de voyages en charge de la réservation
-*   les informations sur les prix du billet
-*   le nom de code pour la réservation de voyages d’affaires et autres informations relatives à la réservation
-*   les informations sur le partenaire de voyage : nom du partenaire
+**En cas de problème**
 
-### Comment nous utilisons vos données
+Nous mettons tout en œuvre pour assurer la sécurité de vos données. Toutefois, si une violation de données à caractère personnel venait à compromettre la protection de votre vie privée, nous vous en informerions conformément à la législation en matière de protection des données.
 
-#### Sur la base de notre contrat avec vous
+**Vos actions comptent également**
 
-**Fournir nos services** 
+Afin de protéger votre vie privée, veuillez éviter de partager vos données personnelles, telles que vos identifiants de connexion ou vos documents de voyage, avec des tiers ou sur les réseaux sociaux. Veuillez accorder une attention particulière à la sécurité de votre compte Finnair Plus et envisager l’authentification à deux facteurs comme mesure de sécurité avancée pour votre compte Finnair Plus ou Finnair. Veuillez éviter de nous envoyer des copies de vos pièces d’identité ou de données personnelles sensibles (par exemple, des certificats médicaux) par e-mail non sécurisé ; utilisez plutôt les formulaires en ligne ou d’autres méthodes de transfert sécurisées fournies par Finnair.
 
-Dans le cadre du programme Finnair Plus, Finnair enregistre vos transactions. Les transactions comprennent l’accumulation et l’échange d’Avios et de points de niveau. Cela nous permet de calculer le solde de votre compte. Nous pouvons vous envoyer des informations sur votre solde d’Avios et de points de niveau, ainsi que sur les modifications apportées au programme. 
+### 8\. Durée de conservation des données
 
-Nous traitons également les données que vous nous fournissez dans votre compte Finnair Plus ou Finnair. Dans votre profil, vous pouvez choisir de partager vos préférences et vos intérêts. Ces préférences peuvent être utilisées pour pré-remplir des informations lors d’une réservation sur le site Internet de Finnair ou pour fournir un service plus pertinent.
+Nous conservons vos données à caractère personnel uniquement pendant la durée nécessaire à la réalisation de la finalité pour laquelle elles ont été collectées, ou dans la mesure où leur conservation est nécessaire pour respecter les obligations légales, répondre aux exigences des autorités et résoudre d'éventuelles réclamations ou litiges. La durée maximale de conservation est de dix (10) ans.
 
-Lorsque vous vous inscrivez à des événements spéciaux, nous traitons la liste des participants. Il en va de même pour les concours marketing et les tirages au sort.
+Si vous êtes membre du programme Finnair Plus, vos données d’adhérent seront conservées pendant toute la durée de validité de votre adhésion. Si aucune transaction n’a été enregistrée sur votre compte au cours des dix (10) dernières années et que, par conséquent, vos Avios Finnair Plus ont expiré, vos données d’adhérent seront supprimées.
 
-**Permettre les services des partenaires** 
+### 9\. Vos droits
 
-Les partenaires Finnair Plus constituent une partie notable du programme Finnair Plus, car vous pouvez collecter des Avios et des points de niveau et dépenser des Avios lorsque vous utilisez les services des partenaires. Pour cette raison, Finnair envoie aux adhérents des informations sur les services et avantages des partenaires en même temps que des informations concernant le programme Finnair Plus et les services Finnair. De plus amples informations sur les partenaires sont disponibles sur le site Internet de Finnair.
+#### Comment exercer vos droits
 
-Pour fournir le service partenaire et tenir à jour le solde de votre compte, Finnair échange également des données avec les partenaires Finnair Plus. Si vous utilisez des Avios avec un partenaire, Finnair en sera informée. De même, si vous accumulez des Avios ou des points de niveau avec l’un de nos partenaires, nous en serons informés afin que les Avios et les points de niveau vous soient attribués correctement. Afin de reconnaître notre clientèle également par le biais des services de nos partenaires, nous pouvons envoyer des informations pertinentes sur les membres. En cas de questions ou de plaintes relatives aux services de nos partenaires, nous pouvons correspondre avec eux et partager les informations pertinentes concernant les membres.
+Vous pouvez exercer vos droits sur [privacy.finnair.com](https://privacy.finnair.com/).
 
-**Communication et engagement**
+Vous recevrez toujours une confirmation de la suite que nous avons donnée à votre demande (par exemple, une confirmation de suppression). Nous vous informerons si nous ne sommes pas en mesure de donner suite à votre demande, en vous indiquant les raisons de cette décision. Nous nous réservons le droit de rejeter les demandes qui sont de manière déraisonnable répétitives, excessives ou manifestement infondées.
 
-Les données enregistrées sont également utilisées pour une communication ciblée avec les membres, diffusée dans l’application mobile Finnair, sur le site Internet de Finnair et sur nos autres canaux.
+#### 9.1. Droit d’accès
 
-Nous pouvons utiliser les données enregistrées pour communiquer avec vous au sujet de votre compte et des caractéristiques et avantages du programme. Par exemple, ces messages peuvent inclure, sans s’y limiter, la date d’expiration de vos Avios ou si vous êtes proche du palier suivant.
+Vous avez le droit d’accéder aux données à caractère personnel que nous traitons à votre sujet et d’en être informé. Vous pouvez consulter certaines données directement sur nos canaux numériques et demander une copie de vos données à caractère personnel sur [privacy.finnair.com](https://privacy.finnair.com/). Nous vous la fournirons, sauf si nous avons des motifs légitimes de ne pas partager ces données ou si leur partage portait atteinte aux droits et libertés d’autrui.
 
-Afin de vous fournir des informations correctes sur nos offres aux membres sur les canaux de tiers, nous pouvons envoyer une liste d’e-mails de membres aux tiers concernés. Cela permet de s’assurer que les bonnes offres sont affichées lorsque vous êtes identifié en tant qu’adhérent Finnair Plus.
+#### 9.2. Droit de rectification
 
-#### Sur la base de l’intérêt légitime
+Vous disposez du droit de rectifier ou de mettre à jour les données à caractère personnel inexactes ou incomplètes que nous détenons à votre sujet. Vous pouvez mettre à jour certaines de vos données à caractère personnel via nos canaux numériques, et vous avez le droit de demander la rectification de vos coordonnées ou d’autres données à caractère personnel en nous contactant.
 
-**Communication et engagement**
+#### 9.3. Droit à l’effacement
 
-Dans le cadre de l’amélioration de nos communications avec les clients, nous pouvons suivre la fréquence et l’engagement de ces messages et déterminer s’ils conduisent à des actions supplémentaires de votre part afin de calculer des paramètres tels que les taux de clics.
+Vous pouvez nous demander de supprimer vos données à caractère personnel, et nous les effacerons sans retard injustifié, sauf si nous disposons d’un motif légitime de poursuivre le traitement de ces données, par exemple pour fournir les services demandés, ou s’il existe une obligation légale ou un droit légitime nous imposant de conserver ces données. Vous pouvez demander l’effacement de vos données à caractère personnel sur [privacy.finnair.com](https://privacy.finnair.com/).
 
-**Analyses** 
+#### 9.4. Droit à la limitation du traitement et droit d’opposition
 
-Nous pouvons utiliser vos données à caractère personnel à des fins d’analyse, de reconnaissance de la clientèle et de fourniture de services personnalisés et de reconnaissance de la clientèle. Cela nous permet de fournir à notre clientèle des services et des produits pertinents ainsi que de développer nos produits et notre concept et de créer des profils de clients uniques. Les profils peuvent être utilisés pour cibler le marketing et le contenu de nos canaux numériques, par exemple le site Internet de Finnair, notre application mobile ou les lettres d’information distribuées par courrier électronique. Le marketing direct implique des variations spécifiques aux membres dans le contenu publicitaire des canaux susmentionnés. L’orientation de la publicité individualisée vers les adhérents fait partie intégrante du programme Finnair Plus. Avoir une vue complète de nos clients nous permet de comprendre l’ensemble de votre expérience et nous aide à améliorer nos produits et services ainsi que votre expérience. Nous pouvons également dériver d’autres mesures basées sur votre comportement de client, par exemple, la probabilité d’acheter certains produits, créer des segments de clientèle, prédire d’autres produits ou destinations susceptibles de vous intéresser.
+Vous pouvez nous demander de limiter le traitement de vos données à caractère personnel, par exemple lorsque votre demande de rectification ou de suppression de vos données est en cours de traitement, ou si vous vous êtes opposé au traitement de vos données à caractère personnel et que la clarification des motifs de ce traitement est en cours.
 
-#### Sur la base de votre consentement
+Vous avez le droit, à tout moment, de nous interdire d’utiliser vos données à caractère personnel à des fins de marketing direct, ce qui inclut le profilage lié à ce marketing direct. Vous pouvez vous désabonner des communications marketing via le lien « se désabonner » ou par tout autre moyen figurant dans chaque message marketing. Si vous êtes membre Finnair Plus, vous pouvez également modifier vos préférences marketing dans votre [profil Finnair Plus](https://www.finnair.com/fr-fr).
 
-**Communications marketing**
+#### 9.5. Droit de retirer votre consentement
 
-Les messages de marketing direct sont envoyés aux membres qui ont donné leur accord pour recevoir de tels messages. Ces messages de marketing peuvent inclure des offres de partenaires, en fonction de vos paramètres de marketing direct.
+Vous avez le droit de changer d’avis et de retirer tout consentement que vous nous avez précédemment accordé. Si vous êtes membre de Finnair Plus, vous pouvez retirer votre consentement dans votre [profil Finnair Plus](https://www.finnair.com/fr-fr).
 
-Nous pouvons également vous envoyer du marketing direct lié aux services Finnair, sur la base de la législation applicable en matière de confidentialité des communications électroniques, si vous êtes un client existant de Finnair Plus et que vous n’avez pas choisi de vous désabonner du marketing direct.
+#### 9.6. Droit à la portabilité des données
 
-Découvrez comment nous traitons vos données à caractère personnel aux fins des communications marketing numériques et de la personnalisation du contenu dans notre [avis de confidentialité](https://www.finnair.com/fr-fr/info/politique-de-confidentialit%C3%A9-de-finnair#avis-de-confidentialit%C3%A9) dédié.
+Vous avez le droit de recevoir les données à caractère personnel que vous nous avez fournies dans un format électronique structuré et couramment utilisé, et de transmettre ces données de manière indépendante à un tiers.
 
-#### Sur la base de nos obligations légales
+#### 9.7. Dépôt d’une réclamation
 
-**Tenue des registres obligatoires**
+Si vous estimez que nous n’avons pas traité vos données à caractère personnel de manière appropriée, vous pouvez contacter l’autorité de contrôle chargée de la protection des données et déposer une réclamation officielle.
 
-Conformément à la législation comptable, nous sommes tenus de conserver nos transactions et autres documents comptables pendant la période définie par la loi.
-
-#### Période de stockage
-
-Nous ne stockons vos données à caractère personnel que le temps nécessaire pour atteindre l’objectif pour lequel elles ont été collectées, ou dans la mesure où le stockage des données est nécessaire au respect des obligations légales et à la résolution d’éventuelles réclamations ou litiges.
-
-### Comment nous collectons et partageons vos données
-
-#### Sources de données
-
-Nous obtenons vos données lors de votre inscription comme adhérent et que vous soumettez des informations vous concernant, dans le but de créer et de gérer votre compte. Nous obtenons vos données directement auprès de vous lorsque vous achetez nos produits sur l’un de nos canaux, ou lorsque vous vous inscrivez à l’un de nos services (par exemple, lorsque vous effectuez une réservation sur finnair.com). Vos achats seront liés à votre compte si vous vous êtes identifié en tant qu’adhérent Finnair Plus.
-
-Nous obtenons également vos données auprès de nos partenaires lorsque vous utilisez leurs services par le biais de votre compte Finnair Plus. Cela est nécessaire pour fournir les services du programme.
-
-Nous collectons automatiquement des données à caractère personnel lorsque vous êtes identifié par votre numéro Finnair Plus, et que vous utilisez nos services tels que l’enregistrement et l’acheminement des bagages, lorsque vous utilisez les services de fidélité, ou lorsque vous achetez des produits auxiliaires.
-
-#### Partage de vos données
-
-Nous sommes susceptibles de partager vos données à caractère personnel avec des sociétés du groupe Finnair et d’autres tiers, aux fins suivantes :
-
-**Pour fournir des services liés à votre adhésion et développer ces services**
-
-Nous partageons vos données à caractère personnel avec, par exemple, d’autres compagnies aériennes, des exploitants d’aéroports, partenaires du programme et autres prestataires de services directement impliqués dans la prestation de services liés à votre adhésion ou aux activités de développement desdits services.
-
-**Pour remplir des obligations légales, d’ordre sécuritaire, ou liées à la prévention des fraudes**
-
-Nous sommes susceptibles de partager vos données à caractère personnel avec les tiers concernés, si nécessaire, dans le but de détecter et empêcher toute activité criminelle ou frauduleuse, violation de la sécurité, ou pour d’autres raisons juridiques.
-
-Communications marketing numériques et personnalisation du contenu
-------------------------------------------------------------------
-
-### Avis de confidentialité
-
-Le présent avis complète notre politique générale de confidentialité disponible sur ce site Web et qui fait référence au présent avis. La protection de votre vie privée est très importante pour nous. Par conséquent, nous avons élaboré cet avis de confidentialité dédié pour vous fournir des informations précises sur la manière dont nous traitons vos données à caractère personnel à des fins de communication marketing, sur la base de votre consentement et de notre intérêt légitime, conformément à la législation applicable en matière de protection de la vie privée et des données à laquelle nous sommes soumis. Nous tenons à ce que vous compreniez parfaitement comment vos données sont utilisées, ainsi que vos droits à l’égard du traitement de vos données à caractère personnel.
-
-Le présent avis de confidentialité vous concerne si vous êtes une personne physique qui consulte ou utilise nos points de contact numériques (comme l’application ou le site Web Finnair), un client qui a effectué une réservation chez nous ou un membre du programme Finnair Plus. Nous exerçons nos activités de communication marketing et de personnalisation du contenu conformément au présent avis de confidentialité.
-
-#### Responsable du traitement des données
-
-Finnair Plc Numéro d’identification de l’entreprise : 0108023-3 Adresse : Tietotie 9 01530 VANTAA, FINLANDE
-
-#### Comment retirer votre consentement et exercer vos droits
-
-**Si vous avez consulté notre site Web ou l’application Finnair et donné votre consentement à la réception d’e-mails et de publicités dans le cadre d’une recherche ou d’une réservation de vols chez nous**, vous pouvez gérer vos préférences ou retirer votre consentement à tout moment sur [notre portail dédié à la confidentialité](https://privacy.finnair.com/marketing-consent).
-
-**Si vous avez consulté notre site Web et donné votre consentement à la réception d’e-mails et de publicités en utilisant le formulaire prévu à cet effet**, vous pouvez gérer vos préférences ou retirer votre consentement à tout moment sur [notre portail dédié à la confidentialité](https://privacy.finnair.com/marketing-consent).
-
-**Si vous êtes membre du programme Finnair Plus**, vous pouvez gérer vos préférences et retirer votre consentement dans votre [profil Finnair Plus](https://www.finnair.com/fr-fr/my-finnair-plus/update-profile).
-
-**Remarque :**
-
-*   Si nous avons obtenu vos coordonnées dans le cadre d’une vente de nos produits et services, nous pouvons utiliser ces coordonnées pour vous envoyer par e-mail des communications marketing portant sur nos propres produits ou services similaires et des services annexes liés à votre voyage, conformément à la législation applicable en matière de protection de la vie privée dans le secteur des communications électroniques. Si nous utilisons vos coordonnées de cette manière, nous vous donnerons la possibilité de vous opposer à cette utilisation de vos coordonnées dans chaque e-mail. Vous trouverez le lien d’opt-out au bas de chacun de nos e-mails.
-*   Dans nos e-mails de communication marketing, nous vous fournissons un lien pour vous opposer à la réception de ces communications, et pour gérer votre consentement et vos préférences. Nous vous permettons ainsi de choisir de recevoir ou pas nos communications marketing.
-*   Le retrait ultérieur de votre consentement ne compromet pas la licéité du traitement de vos données à caractère personnel à des fins de communication marketing, fondé sur le consentement et effectué avant ce retrait.
-*   Que vous ayez ou non donné votre consentement à la réception de nos publicités personnalisées, vous pourriez encore voir nos publicités générales non personnalisées sur nos propres points de contact numériques et sur les canaux tiers où nous promouvons nos services.
-*   À l’exception des communications marketing, nous vous enverrons toujours des communications client concernant le statut, les changements et l’extension des produits et services que vous avez achetés chez nous. Nous le ferons sur la base de votre relation avec nous en tant que client sans votre consentement.
-
-**En vertu du RGPD, vous disposez également des droits suivants concernant vos données à caractère personnel :**
-
-*   **Droit d’accès :** Vous pouvez demander une copie des données à caractère personnel vous concernant que nous détenons.
-*   **Droit de rectification :** Vous pouvez nous demander de corriger des données à caractère personnel inexactes ou incomplètes.
-*   **Droit à l’effacement :** Vous pouvez nous demander la suppression de vos données à caractère personnel sous certaines conditions.
-*   **Droit à la limitation du traitement :** Vous pouvez nous demander de limiter le traitement de vos données à caractère personnel dans certaines circonstances.
-*   **Droit à la portabilité des données :** Si nous traitons vos données à caractère personnel sur la base de votre consentement, vous pouvez demander à recevoir vos données à caractère personnel dans un format structuré, couramment utilisé et lisible par machine et faire transmettre ces données à un autre responsable du traitement.
-*   **Droit d’opposition :** Vous pouvez vous opposer à tout moment au traitement de vos données à caractère personnel sur la base de notre intérêt légitime à des fins de communication marketing. 
-
-Pour savoir comment exercer les droits ci-dessus, consultez [notre politique générale de confidentialité](https://www.finnair.com/fr-fr/info/politique-de-confidentialit%C3%A9-de-finnair#bonjour--nous-souhaitons-nous-assurer-que-vous-acceptez-notre-politique-en-mati%C3%A8re-d-utilisation-de-vos-donn%C3%A9es-).
-
-**Coordonnées du délégué à la protection des données**
-
-Pour toute question concernant le traitement de vos données à caractère personnel, vous pouvez contacter le délégué à la protection des données de Finnair : privacy@finnair.com.
-
-### Quelles sont les données que nous traitons ?
-
-#### Les données vous concernant que nous collectons et traitons
-
-**Si vous avez accepté les cookies de performance**, nous collectons et traitons les données à caractère personnel suivantes :
-
-*   **Informations personnelles identifiables :** Identifiant aléatoire qui vous est attribué lorsque vous consultez nos points de contact numériques. Nous ne collecterons aucune de vos informations de paiement à des fins de communication marketing.
-*   **Préférences concernant le marketing :** Informations sur vos préférences et centres d’intérêt liés à nos produits et services.
-*   **Données comportementales :** Informations sur votre comportement en ligne, collectées lorsque vous utilisez notre site Web et l’application Finnair.
-
-**Si vous avez accepté les cookies de personnalisation de contenu**, nous collectons et traitons les données à caractère personnel suivantes :
-
-*   **Informations personnelles identifiables :** Identifiant aléatoire qui vous est attribué lorsque vous consultez nos points de contact numériques. En outre, si vous réalisez une transaction ou remplissez un formulaire, nous collecterons votre nom, votre adresse e-mail et toutes les autres informations que vous fournissez. Nous ne collecterons aucune de vos informations de paiement à des fins de communication marketing.
-*   **Préférences concernant le marketing :** Informations sur vos préférences et centres d’intérêt liés à nos produits et services.
-*   **Données comportementales :** Informations sur votre comportement en ligne, collectées lorsque vous utilisez notre site Web et l’application Finnair.
-
-**Si vous avez accepté les cookies publicitaires**, nous collectons et traitons les données à caractère personnel suivantes :
-
-*   **Informations personnelles identifiables :** Identifiant aléatoire qui vous est attribué lorsque vous consultez nos points de contact numériques. Nous ne collecterons aucune de vos informations de paiement à des fins de communication marketing.
-*   **Préférences marketing :** Informations sur vos préférences et centres d’intérêt liés à nos produits et services.
-*   **Données comportementales :** Informations sur votre comportement en ligne, collectées via notre site Web, l’application Finnair et des canaux tiers comme les réseaux sociaux.
-
-Pour plus d’informations sur notre utilisation des cookies, consultez [notre politique en matière de cookies](https://www.finnair.com/fr-fr/info/finnair-cookie-policy).
-
-**Pour vous envoyer des messages marketing**, nous collectons et traitons également les données à caractère personnel suivantes :
-
-*   **Informations personnelles identifiables :** Identifiant aléatoire qui vous est attribué lorsque vous consultez nos points de contact numériques, votre nom et votre adresse e-mail.
-*   **Données d’interactions :** Données sur vos interactions avec nos communications marketing (par ex., taux d’ouverture, taux de clics).
-*   **Vos transactions avec nous :** Informations sur le ou les vol(s) et autres services que vous avez achetés chez nous et utilisés. Nous ne collecterons aucune de vos informations de paiement à des fins de communication marketing.
-*   **Autres informations personnelles identifiables de l’adhérent Finnair Plus :** Votre numéro de membre, votre date de naissance, votre sexe. Nous traiterons votre adresse postale uniquement si vous nous l’avez fournie.
-*   **Profil de voyageur et centres d’intérêt de l’adhérent Finnair Plus :** Informations relatives à vos préférences et centres d’intérêt en tant qu’adhérent Finnair Plus si vous nous avez fourni ces informations.
-*   **Données d’adhésion Finnair Plus :** Date à laquelle vous êtes devenu adhérent Finnair Plus, votre statut et votre période de suivi personnel dans le programme Finnair Plus. Nous traiterons également les données sur le montant que vous avez dépensé en tant qu’adhérent Finnair Plus et les éventuelles perturbations que vous avez subies au cours de vos voyages en tant qu’adhérent Finnair Plus. Nous traiterons également les informations indiquant si vous détenez une carte de crédit liée au programme Finnair Plus et si vous avez lié votre compte Finnair Plus à un autre programme de fidélité.
-*   **Historique des transactions de l’adhérent Finnair Plus :** Informations sur le ou les vol(s) et autres services que vous avez achetés et utilisés en tant qu’adhérent Finnair Plus et l’historique de votre cumul et de votre utilisation d’anciens points Finnair Plus et des Avios et points de niveau actuels tout au long de votre adhésion. Nous ne collecterons aucune de vos informations de paiement à des fins de communication marketing.
-
-**Pour vous présenter des publicités personnalisées**, nous collectons et traitons également les données à caractère personnel suivantes :
-
-*   **Informations personnelles identifiables :** Votre adresse e-mail et votre numéro de téléphone.
-*   **Données d’interactions :** Données sur vos interactions avec nos communications marketing (par ex., taux d’ouverture, taux de clics).
-*   **Vos transactions avec nous :** Informations sur le ou les vol(s) et autres services que vous avez achetés chez nous et utilisés. Nous ne collecterons aucune information de paiement à des fins de communication marketing.
-*   **Autres informations personnelles identifiables de l’adhérent Finnair Plus :** Votre numéro de membre, votre date de naissance, votre sexe. Nous traiterons votre adresse postale uniquement si vous nous l’avez fournie.
-*   **Profil de voyageur et centres d’intérêt de l’adhérent Finnair Plus :** Informations relatives à vos préférences et centres d’intérêt en tant qu’adhérent Finnair Plus si vous nous avez fourni ces informations.
-*   **Données d’adhésion Finnair Plus :** Date à laquelle vous êtes devenu adhérent Finnair Plus, votre statut et votre période de suivi personnel dans le programme Finnair Plus. Nous traiterons également les données sur le montant que vous avez dépensé en tant qu’adhérent Finnair Plus et les éventuelles perturbations que vous avez subies au cours de vos voyages en tant qu’adhérent Finnair Plus. Nous traiterons également les informations indiquant si vous détenez une carte de crédit liée au programme Finnair Plus et si vous avez lié votre compte Finnair Plus à un autre programme de fidélité.
-*   **Historique des transactions de l’adhérent Finnair Plus :** Informations sur le ou les vol(s) et autres services que vous avez achetés et utilisés en tant qu’adhérent Finnair Plus et l’historique de votre cumul et de votre utilisation d’anciens points Finnair Plus et des Avios et points de niveau actuels tout au long de votre adhésion. Nous ne collecterons aucune de vos informations de paiement à des fins de communication marketing. 
-
-**Pour vous présenter du contenu personnalisé sur nos propres points de contact numériques**, nous collectons et traitons également les données à caractère personnel suivantes :
-
-*   **Informations personnelles identifiables :** Votre nom, votre adresse e-mail et votre numéro de téléphone.
-*   **Données d’interactions :** Données sur vos interactions avec nos communications marketing (par ex., taux d’ouverture, taux de clics).
-*   **Vos transactions avec nous :** Informations sur le ou les vol(s) et autres services que vous avez achetés chez nous et utilisés. Nous ne collecterons aucune information de paiement à des fins de communication marketing.
-*   **Autres informations personnelles identifiables de l’adhérent Finnair Plus :** Votre numéro de membre, votre date de naissance, votre sexe. Nous traiterons votre adresse postale uniquement si vous nous l’avez fournie.
-*   **Profil de voyageur et centres d’intérêt de l’adhérent Finnair Plus :** Informations relatives à vos préférences et centres d’intérêt en tant qu’adhérent Finnair Plus si vous nous avez fourni ces informations.
-*   **Données d’adhésion Finnair Plus :** Date à laquelle vous êtes devenu adhérent Finnair Plus, votre statut et votre période de suivi personnel dans le programme Finnair Plus. Nous traiterons également les données sur le montant que vous avez dépensé en tant qu’adhérent Finnair Plus et les éventuelles perturbations que vous avez subies au cours de vos voyages en tant qu’adhérent Finnair Plus. Nous traiterons également les informations indiquant si vous détenez une carte de crédit liée au programme Finnair Plus et si vous avez lié votre compte Finnair Plus à un autre programme de fidélité.
-*   **Historique des transactions de l’adhérent Finnair Plus :** Informations sur le ou les vol(s) et autres services que vous avez achetés et utilisés en tant qu’adhérent Finnair Plus et l’historique de votre cumul et de votre utilisation d’anciens points Finnair Plus et des Avios et points de niveau actuels tout au long de votre adhésion. Nous ne collecterons aucune de vos informations de paiement à des fins de communication marketing.
-
-### Comment nous utilisons vos données
-
-#### Sur la base de notre intérêt légitime
-
-*   **Analyse et performance :** Si vous avez accepté les cookies de performance, nous mesurons le trafic sur notre site Web et l’application Finnair, nous identifions les clients récurrents et nous évaluons comment nos clients utilisent notre site Web et l’application Finnair.
-*   **Pour créer votre profil :** Si vous avez accepté les cookies de personnalisation de contenu, nous vous créons un profil sur la base de vos préférences, de votre comportement et de vos données à caractère personnel à des fins de communication marketing et de personnalisation du contenu. Ce profil n’est partagé avec aucun tiers, sauf si vous avez donné votre consentement à la réception de publicités personnalisées. Le profil ne sera pas utilisé pour une prise de décision automatisée ni un profilage produisant des effets juridiques vous concernant.
-*   **Pour activer le suivi publicitaire tiers :** Si vous avez accepté les cookies publicitaires, nous utilisons des pixels de suivi tiers sur nos points de contact numériques, qui sont des technologies permettant à nos partenaires tiers de collecter vos données comportementales directement à partir de nos points de contact numériques. Cela nous permet d’optimiser, de mesurer et de placer du contenu ciblé sur d’autres sites Web et services par l’intermédiaire de nos partenaires tiers. Pour plus d’informations sur la manière dont nous partageons vos données à des fins de publicité ciblée, consultez la section « Comment nous partageons vos données ».
-*   **Pour enrichir votre profil :** Si vous avez accepté les cookies de personnalisation de contenu, le profil créé sur la base des données que nous avons collectées via ces cookies est enrichi au fur et à mesure de vos interactions avec nos points de contact numériques, ainsi qu’avec les données que nous avons collectées auprès de vous en tant que client et en tant qu’adhérent Finnair Plus. Cela n’inclut pas la prise de décision automatisée ni le profilage produisant des effets juridiques vous concernant.
-*   **Segmentation et personnalisation :** Nous utilisons vos données de profil pour comprendre comment nous pourrions mieux vous servir en tant que client dans le contexte de l’ensemble de notre clientèle. Cela n’inclut pas la prise de décision automatisée ni le profilage produisant des effets juridiques vous concernant.
-*   **Pour personnaliser le contenu de nos communications marketing :** Nous adaptons le contenu de nos canaux de communication marketing et personnalisons le contenu de nos propres points de contact numériques en fonction de votre profil et des autres données vous concernant que nous collectons et traitons (comme expliqué ci-dessus). Ce profilage nous permet de segmenter notre clientèle et de vous envoyer des communications marketing susceptibles de vous intéresser en tant que client potentiel ou existant et adhérent Finnair Plus. Cela n’inclut pas la prise de décision automatisée ni le profilage produisant des effets juridiques vous concernant.
-
-#### Sur la base de votre consentement
-
-**Pour vous envoyer des e-mails marketing**
-
-*   Pour vous envoyer des e-mails marketing concernant Finnair et Finnair Plus : Si vous avez donné votre consentement à la réception de nos e-mails marketing, nous utiliserons vos données à caractère personnel pour vous envoyer des e-mails marketing concernant les produits, services, offres spéciales et actualités Finnair et Finnair Plus, ainsi que des idées de voyage susceptibles de vous intéresser.
-*   Pour vous envoyer des e-mails marketing concernant les partenaires et événements Finnair Plus : Si vous êtes adhérent Finnair Plus et avez donné votre consentement à la réception de nos offres exclusives réservées aux adhérents proposées par des partenaires Finnair Plus, et des invitations à des événements, nous utiliserons vos données à caractère personnel pour vous envoyer des e-mails marketing concernant ces offres exclusives de produits et services de partenaires Finnair Plus susceptibles de vous intéresser, ainsi que des invitations à nos événements.
-
-**Pour vous présenter des publicités personnalisées**
-
-*   Pour partager vos données avec nos partenaires tiers et pour la mise en correspondance des données : Si vous avez donné votre consentement à la réception de nos publicités personnalisées, nous partagerons vos données avec des partenaires tiers pour faciliter la mise en correspondance des données afin d’améliorer et de personnaliser votre expérience avec notre marque.
-*   Pour vous présenter des publicités personnalisées : Si vous avez donné votre consentement à la réception de nos publicités personnalisées, nous utiliserons vos données à caractère personnel pour mener des campagnes de marketing ciblé sur des canaux tiers (par ex., des plateformes de partage de contenus et de réseaux sociaux) en utilisant des informations sur votre comportement en ligne pour vous présenter des publicités susceptibles de vous intéresser.
-
-#### Base juridique du traitement de vos données
-
-Nous traitons vos données à caractère personnel sur la base de votre consentement explicite à la réception de nos communications marketing, conformément à l’article 6, paragraphe 1, point a) du RGPD. Votre consentement est volontaire et vous avez le droit de le retirer à tout moment sans que cela ne compromette la licéité du traitement fondé sur votre consentement effectué avant ce retrait.
-
-Si nous avons obtenu vos coordonnées dans le cadre d’une vente de nos produits et services, nous traiterons ces coordonnées pour vous envoyer des communications marketing portant sur nos propres produits ou services similaires et des services annexes liés à votre voyage, conformément à la partie VIIl, chapitre 24, paragraphe 3, article 200 de la loi finlandaise sur les services de communication électroniques. Lorsque nous utilisons vos coordonnées de cette manière, nous vous donnerons la possibilité de vous opposer à cette utilisation de vos coordonnées dans chaque e-mail. Vous trouverez le lien d’opt-out au bas de chacun de nos e-mails.
-
-Nous traitons vos données à caractère personnel à des fins de communication marketing interne qui nous sont propres, telles que mentionnées ci-dessus (comme l’analyse et la segmentation), sur la base de notre intérêt légitime, conformément à l’article 6, paragraphe 1, point f du RGPD. Nous avons évalué notre intérêt légitime sur la base de notre objectif en tant qu’entreprise de générer des bénéfices pour nos actionnaires conformément à la partie I, chapitre 1, article 5 de la loi finlandaise sur les sociétés à responsabilité limitée, lequel ne peut être atteint qu’au moyen de contenus de communication commerciale et marketing rentables et pertinents, en promouvant nos services et leur valeur auprès de nos clients existants et potentiels de manière appropriée, et en tenant compte des risques que présente ce traitement des données à caractère personnel pour nos clients. Vous pouvez nous contacter à tout moment pour vous opposer au traitement de vos données à caractère personnel basé sur notre intérêt légitime.
-
-### Comment nous obtenons, partageons et conservons vos données
-
-#### Comment nous obtenons vos données
-
-Nous obtenons vos données à caractère personnel lorsque :
-
-*   Vous interagissez avec notre site Web et l’application Finnair.
-*   Vous achetez un billet d’avion ou d’autres services et utilisez ces services chez nous.
-*   Vous adhérez au programme Finnair Plus et achetez et utilisez nos services en tant que membre Finnair Plus.
-*   Vous vous abonnez à nos communications marketing.
-*   Vous participez à des enquêtes, des promotions ou des événements.
-*   Vous participez à une campagne ou remplissez un formulaire sur une plateforme tierce en lien avec nos produits et services.
-
-#### Comment nous partageons vos données
-
-Nous partageons vos données à caractère personnel avec des tiers qui nous apportent un soutien dans les domaines suivants :
-
-*   **Production, gestion et analyse :** Nous faisons appel à des fournisseurs TIC tiers qui nous fournissent des outils et des services pour produire et gérer nos communications marketing et nos activités de personnalisation du contenu, et qui nous aident à analyser la performance de nos campagnes. En tant que sous-traitants de données à caractère personnel, ces fournisseurs TIC sont contractuellement tenus de protéger vos données à caractère personnel et de les utiliser uniquement pour notre compte et selon nos instructions. Nous veillons à ce que ces fournisseurs TIC respectent la législation applicable en matière de protection de la vie privée et des données, que le transfert de vos données soit sécurisé, et que des garanties légales et appropriées soient mises en œuvre lorsque ce transfert est nécessaire.
-*   **Emailing :** Nous faisons appel à des fournisseurs tiers pour faciliter nos campagnes d’emailing et gérer nos listes de diffusion. En tant que sous-traitants de données à caractère personnel, ces fournisseurs tiers sont contractuellement tenus de protéger vos données et de les utiliser uniquement selon nos instructions. Nous veillons à ce que ces fournisseurs tiers respectent la législation applicable en matière de protection de la vie privée et des données, que le transfert de vos données soit sécurisé, et que des garanties légales et appropriées soient mises en œuvre lorsque ce transfert est nécessaire.
-*   **Publicité ciblée :** Si vous avez accepté les cookies publicitaires ou donné votre consentement à la réception de publicités personnalisées de notre part, ou les deux, nous partagerons vos données à caractère personnel avec nos partenaires tiers qui nous permettent de diffuser des publicités ciblées via des plateformes ou des canaux tiers. Ces partenaires tiers, qui sont actuellement Meta Platforms Ireland Limited et Google LLC, peuvent agir en tant que responsables conjoints du traitement avec nous et en tant que responsables indépendants à qui vos données sont transférées pour vous présenter des publicités ciblées.
-    *   Notez que lorsqu’ils agissent en tant que responsables indépendants du traitement, ces partenaires tiers peuvent utiliser vos données à caractère personnel à des fins d’agrégation et de segmentation marketing, ainsi que pour établir des rapports marketing basés sur les données agrégées qui seront également utilisés par d’autres annonceurs sur la plateforme tierce.
-    *   Si vous utilisez les services de Meta Platforms Ireland Limited tels que Facebook et Instagram, consultez le [site Web de Facebook](https://www.facebook.com/privacy/policy) pour en savoir plus sur vos droits en matière de protection de vos données sur ces plateformes.
-    *   Si vous utilisez les services de Google LLC, consultez le [site Web de Google](https://business.safety.google/privacy/) pour en savoir plus sur vos droits en matière de protection de vos données.
-
-Si, dans le cadre de nos opérations, vos données à caractère personnel sont transférées en dehors de l’Espace économique européen ou de l’Union européenne, nous utiliserons toujours des mécanismes et des garanties appropriés pour nous assurer que vos données à caractère personnel sont traitées conformément aux lois applicables en matière de protection de la vie privée et des données. Nous veillons également à ce que nos fournisseurs TIC et autres en fassent de même, et que nos partenaires tiers adoptent des pratiques similaires et conformes pour protéger vos données à caractère personnel.
-
-#### Comment nous conservons vos données
-
-Nous conserverons vos données à caractère personnel à des fins de communication marketing tant que vous continuerez à consentir à recevoir nos communications marketing et à des fins de personnalisation du contenu, et jusqu’à ce que vous vous opposiez à notre traitement de vos données à caractère personnel à des fins de communication marketing et de personnalisation du contenu.
-
-*   Si vous souhaitez retirer votre consentement, vous pouvez le faire comme indiqué dans la section « Comment retirer votre consentement et exercer vos droits » ci-dessus. Une fois que vous aurez retiré votre consentement, nous ne vous enverrons plus d’e-mails marketing et vous ne verrez plus nos publicités personnalisées sur les plateformes tierces. Le retrait de votre consentement prendra effet immédiatement pour les e-mails et dans les 24 heures pour les publicités personnalisées.
-
-**Notez** que nous conserverons certaines données si la loi l’impose ou à des fins commerciales légitimes non liées aux communications marketing ou à la personnalisation du contenu.
-
-#### Si vous avez une réclamation
-
-**Si vous avez une réclamation concernant le traitement de vos données à caractère personnel à des fins de communication marketing ou de personnalisation du contenu** qui vous est communiqué par le présent avis de confidentialité, contactez-nous à privacy@finnair.com. Nous ferons de notre mieux pour clarifier et résoudre tout problème.
-
-Pour savoir comment déposer une réclamation auprès de l’autorité de protection des données finlandaise, consultez [notre politique générale de confidentialité](https://www.finnair.com/fr-fr/info/politique-de-confidentialit%C3%A9-de-finnair#bonjour--nous-souhaitons-nous-assurer-que-vous-acceptez-notre-politique-en-mati%C3%A8re-d-utilisation-de-vos-donn%C3%A9es-).
-
-#### Version, date de publication et modification du présent avis
-
-Le présent avis de confidentialité est la version 1.0, publiée le 16 septembre 2024.
-
-Nous mettrons à jour le présent avis de temps à autre. Nous vous informerons de toute modification importante apportée au présent avis de confidentialité et, si ces modifications ont une incidence sur votre consentement, nous vous en informerons personnellement par e-mail. La dernière version sera toujours disponible sur notre site Web et vous pouvez voir les révisions effectuées dans le tableau ci-dessous.
-
-|     |     |     |
-| --- | --- | --- |
-| **Date de révision** | **Version** | **Description** |
-| 7 juin 2024 | 0.1 | Création du document |
-| 16 septembre 2024 | 1.0 | Publication du document |
-
-#### Transparence et consentement éclairé
-
-Nous tenons à ce que votre consentement à la réception de communications marketing soit pleinement éclairé et donné librement. En outre, nous tenons à ce que vous compreniez comment nous traitons vos données à caractère personnel à des fins de communication marketing et de personnalisation du contenu.
-
-Voilà à quoi vous pouvez vous attendre :
-
-*   **Finalité claire :** Nous vous informerons toujours des raisons spécifiques de la collecte de vos données.
-*   **Consentement ciblé :** Chaque fois que cela est nécessaire, nous vous demanderons votre consentement séparément pour différents types d’activités de traitement de données.
-*   **Retrait facile :** Vous pouvez retirer votre consentement à tout moment, et nous vous facilitons les choses.
-*   **Communication continue :** Nous vous tiendrons informé de la manière dont vos données sont utilisées et de tout changement dans nos pratiques de traitement des données.
-*   **Sécurité des données :** Vos données seront traitées de manière sécurisée et conformément à l’ensemble des lois et règlements en vigueur en matière de protection des données.
-*   **Transparence :** Nous fournirons des informations claires et accessibles sur nos activités de traitement des données.
-*   **Contrôle de l’utilisateur :** Vous aurez le contrôle de vos données à caractère personnel, avec des options pour gérer facilement vos préférences et paramètres.
-
-Merci de nous confier vos données à caractère personnel.
+En Finlande, l’autorité de contrôle est le Bureau du médiateur chargé de la protection des données (Tietosuojavaltuutetun toimisto), Lintulahdenkuja 4, 00530 Helsinki, Finlande. E-mail: [tietosuoja@om.fi](mailto:tietosuoja@om.fi). Site web: [https://tietosuoja.fi/en/home](https://tietosuoja.fi/en/home).
 
 Publié le 19 novembre 2024
