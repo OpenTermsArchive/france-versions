@@ -113,14 +113,36 @@ S'il ne retrouve pas du tout son code, il pourra se rendre en bureau de Poste af
 ARTICLE 7. DROIT DE RETRACTATION  
 **7.1 Exercice du droit de rétractation**
 
-Le Client dispose d’un droit de rétractation de quatorze (14) jours suivant la date à laquelle il a reçu les Produits, afin de retourner le ou les produit(s) commandés sans avoir à se justifier ni à payer de pénalités, conformément à la Directive 2011/83/UE du 25 octobre 2011 telle que transposée.  
-  
-Toute rétractation de commande doit être notifiée par tous moyens et notamment :  
-  
-\- par téléphone au 01 43 12 03 33 (depuis la France, prix d’un appel local) ou au + 33 1 43 12 04 44 (depuis l’étranger), du lundi au vendredi de 9h00 à 18h00,  
-\- soit en utilisant le formulaire-type de rétractation en cliquant sur le lien [ici](https://www.comptoirdescotonniers.com/on/demandware.store/Sites-CDC-FR-Site/fr/Page-CGV)  
-  
-Votre formulaire de rétractation est à renvoyer selon les modalités prévues dans le formulaire. **7.2 Modalités de retour**
+Conformément à la Directive 2011/83/UE et l’article L221-18 du Code de la consommationt, le Client dispose d’un droit de rétractation de quatorze (14) jours à compter de la réception de sa commande, sans avoir à justifier de motifs ni à payer de pénalités., sans avoir à justifier de motifs ni à payer de pénalités.
+
+Modalités d’exercice du droit de rétractation :
+
+Le Client peut exercer son droit de rétractation en complétant le formulaire de rétractation disponible en se connectant à l’espace « Commandes » dans son compte client ou via le compte invité et ce pendant le délai légal de 14 jours suivant la réception des produits.
+
+Le droit de rétractation s’exerce exclusivement par retour des articles à l’entrepôt, les retours en boutique ne sont pas acceptés dans le cadre du droit de rétractation.
+
+Le Client peut effectuer une ou plusieurs demandes de rétractation pour une même commande.
+
+Retour des produits :
+
+Les produits doivent être retournés dans leur état d’origine, complets (emballage, accessoires, notice, etc.), de manière à permettre leur remise en vente.  
+Les articles doivent être retournés accompagnés du bon de rétractation à imprimer et de l’étiquette de retour prépayée, transmis au Client par email.
+
+Le retour des produits dans le cadre de l’exercice du droit de rétractation doit être effectué conformément aux conditions prévues à l’article 9.2 ci-dessous.
+
+Frais de retour
+
+Dans le cadre de l’exercice du droit de rétractation : les frais de retour sont de 2,95€, a leur charge pour les cliente international et gratuite pour les clientes disposant du statut cliente 3 ou cliente 4\*.
+
+Remboursement
+
+Le remboursement est effectué uniquement après réception et validation des articles par l’entrepôt.
+
+Le remboursement porte sur : le prix des articles retournés, et l’intégralité des frais de livraison initiaux, étant précisé que : en cas de commandes ayant bénéficié de la livraison gratuite (à partir de 80 €), une rétractation partielle faisant repasser la commande sous le seuil de livraison gratuite n’entraîne aucun remboursement des frais de livraison.
+
+Lorsque le Client effectue plusieurs rétractations sur une même commande, les frais de livraison ne sont remboursés qu’une seule fois, lors de la première rétractation.
+
+**7.2 Modalités de retour**
 
 Après avoir notifié Comptoir des Cotonniers de sa rétractation, le Client doit retourner les produits concernés dans un délai maximum de 14 jours à compter de cette notification, accompagnés du bon de retour (à remplir en ligne et à imprimer en se rendant dans le Compte Client, rubrique « Suivi de commandes ») et de l’étiquette prépayée disponible dans l’espace « Suivi de commandes ».  
   
