@@ -504,7 +504,7 @@ Si ce délai expire un samedi, un dimanche ou un jour férié ou chômé, il est
 
 Afin de faciliter l'exercice de ce droit, un bouton de rétractation “Me Retracter” est mis à la disposition du Client directement dans son compte client dans chacune de ses Commandes éligibles. Ce bouton devient actif et accessible dès la remise de la Commande au Client et disparaît automatiquement à l'expiration du délai légal de quatorze (14) jours.
 
-Par ailleurs, un formulaire de rétractation est disponible [ici](https://media.e.leclerc/LEN/document/Formulaire+de+r%C3%A9tractation+client_v2?vh=ed79fe&func=proxy) afin d'aider le Client à manifester sa volonté de se rétracter.
+Par ailleurs, un formulaire de rétractation est disponible [ici](https://media.e.leclerc/LEN/document/Formulaire%2Bde%2Br%C3%A9tractation%2Bclient_v%2012062026.docx%20%281%29?vh=6d85c2&func=proxy) afin d'aider le Client à manifester sa volonté de se rétracter.
 
 La charge de la preuve de l'exercice du droit de rétractation repose sur le Client.
 
