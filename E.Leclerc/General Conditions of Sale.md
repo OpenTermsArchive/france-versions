@@ -1,7 +1,7 @@
 **Conditions Générales de Vente LCOMMERCE**
 -------------------------------------------
 
-**Mis à jour : 15 Janvier 2026**
+**Mis à jour : 18 Juin 2026**
 
 ### **PARTIE 1**
 
@@ -490,11 +490,11 @@ Au bout de quinze jours à compter de la date de réception en magasin ou en poi
 
 Le Site peut proposer certains Bonus de précommandes consistant en des contenus virtuels et/ou physiques additionnels aux produits précommandés. Cette Offre de Bonus de Précommande peut être consultée sur la page dédiée et le Bonus sera fourni conformément aux modalités de l'Offre concernée.
 
-**ARTICLE 15.RÉTRACTATION, REMBOURSEMENT OU ÉCHANGE (hors Offres Marketplace)**
+**ARTICLE 15. RÉTRACTATION, REMBOURSEMENT OU ÉCHANGE** 
 
-Les dispositions du présent article peuvent différer dans le cadre des Offres Marketplace, à l'exception du droit de rétractation légal dans les conditions rappelées au présent article.
+Les dispositions du présent article peuvent différer dans le cadre des Offres Marketplace et des Offres Click&Collect, à l'exception du droit de rétractation légal dans les conditions rappelées au présent article.
 
-Les conditions de retour sont propres à chaque  Vendeur Tiers et sont accessibles sur les Conditions Particulières Vendeurs correspondantes.
+Les conditions de retour pour les Offres Marketplace sont propres à chaque  Vendeur Tiers et sont accessibles sur les Conditions Particulières Vendeurs correspondantes. Les conditions de retour pour les Offres Click&Collect sont propres à chaque Centre E.Leclerc et sont accessibles sur les Conditions Générales  de Vente correspondantes.
 
 Conformément aux dispositions des articles L221-18 et suivants du Code de la Consommation, le Client dispose d'un délai de 14 jours pour communiquer sa volonté de se rétracter à compter de la réception de sa Commande et ainsi retourner, au plus tard dans les 14 jours suivant la communication de sa décision de se rétracter, tout produit au service client de LCOMMERCE pour remboursement, sans avoir à justifier de motifs ni à payer de pénalités. 
 
@@ -502,9 +502,9 @@ Dans le cas d'une Commande portant sur plusieurs produits séparément ou dans l
 
 Si ce délai expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu'au premier jour ouvrable suivant.
 
-Le Client pourra formuler une demande de rétractation en se connectant sur son compte client dans la rubrique "Mon compte/Mes commandes/Retour ou réclamation".
+Afin de faciliter l'exercice de ce droit, un bouton de rétractation “Me Retracter” est mis à la disposition du Client directement dans son compte client dans chacune de ses Commandes éligibles. Ce bouton devient actif et accessible dès la remise de la Commande au Client et disparaît automatiquement à l'expiration du délai légal de quatorze (14) jours.
 
-Par ailleurs, un formulaire de rétractation est disponible [ici](https://media.e.leclerc/LEN/document/Formulaire+de+r%C3%A9tractation+client_v2?vh=ed79fe&func=proxy) afin d'aider le Client à manifester sa volonté de se rétracter.
+Par ailleurs, un formulaire de rétractation est disponible [ici](https://media.e.leclerc/LEN/document/Formulaire+de+r%C3%A9tractation+client_v2?vh=ed79fe&func=proxy) afin d'aider le Client à manifester sa volonté de se rétracter.
 
 La charge de la preuve de l'exercice du droit de rétractation repose sur le Client.
 
@@ -556,7 +556,7 @@ Conformément à la réglementation en vigueur, le droit de rétractation ne peu
 
 *   *   le professionnel a fourni une confirmation de l'accord du Client.
         
-*   les produit dangereux au sens de la réglementation de type inflammable ou explosif pour des raisons de sécurité (par exemple les recharges de gaz) ; 
+*   les produits dangereux au sens de la réglementation de type inflammable ou explosif pour des raisons de sécurité (par exemple les recharges de gaz) ; 
     
 
 **ARTICLE 16. PROPRIETE INTELLECTUELLE** 
@@ -825,6 +825,7 @@ Tout litige, quelle qu’en soit la nature, peut être soumis à la juridiction 
 
 Historique des Conditions générales de vente : 
 
+*   [(Ancienne Version) - CGV 15 Janvier 2026](https://media.e.leclerc/LEN/document/2026%2001%2015%20-%20CGV%20Lcommerce%20.docx?vh=fde11d&func=proxy)
 *   [(Ancienne Version) - CGV 12 Janvier 2026](https://media.e.leclerc/LEN/document/2026%2001%2012%20-%20CGV%20Lcommerce%20.docx?vh=bf6d4a&func=proxy)
 *   [(Ancienne Version) - CGV 30 Octobre 2025](https://media.e.leclerc/LEN/document/2025%2010%2030%20-%20CGV%20Lcommerce%20.docx?vh=387cea&func=proxy)
 *   [(Ancienne Version) - CGV 21 Octobre 2025](https://media.e.leclerc/LEN/document/2025%2010%2021%20-%20CGV%20Lcommerce.docx?vh=5793e5&func=proxy)
