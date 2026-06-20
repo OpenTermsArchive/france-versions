@@ -146,17 +146,17 @@ Les Produits commandés seront envoyés à l’adresse indiquée par le Client a
 
 Pour les livraisons en France métropolitaine, KOOKAÏ propose :
 
-**Livraison à domicile** **:**
+**Livraison à domicile et Point relais** **:**
 
-*   **Colissimo :**
+*   **GLS :**
 
-Le délai moyen de réception d’un colis Colissimo est de 3 à 5 jours ouvrés (hors dimanche et jours fériés).
+Le délai moyen de réception d’un colis GLS est de 3 à 5 jours ouvrés (hors dimanche et jours fériés).
 
-Un numéro de suivi colis sera transmis au Client par e-mail dès que le colis est pris en charge par La Poste. Ce numéro peut être actif sur le site de colissimo.fr dans un délai de 24 heures.
+Un numéro de suivi colis sera transmis au Client par e-mail dès que le colis est pris en charge par GLS. 
 
-Le colis sera distribué en boite à lettres à l’adresse indiquée par le Client lors de la passation de sa commande.
+Le colis sera distribué en boite à lettres à l’adresse indiquée par le Client lors de la passation de sa commande contre signature ou dans le Point Relais sélectionné lors de l'achat. 
 
-En cas d’impossibilité de distribution en boite à lettres, La Poste se réserve la possibilité de procéder à plusieurs tentatives de distribution à l’adresse indiquée par le Client.  Elle peut prendre l’initiative d’une remise à toute personne présente à cette adresse, y compris le gardien ou le concierge qui accepte d’en prendre livraison. Le facteur est autorisé à rechercher un voisin qui pourrait accepter de prendre le colis pour le remettre au Client ensuite, ce qui évitera au Client d’aller le chercher dans un bureau de poste. En cas d’impossibilité de distribution, le colis est mis en instance à l’endroit indiqué sur l’avis de passage. A compter de la date mentionnée sur l’avis de passage, le Client dispose de quinze (15) jours pour retirer son colis. Passé ce délai, celui-ci sera retourné automatiquement à KOOKAÏ.
+En cas d’impossibilité de distribution en boite à lettres, GLS se réserve la possibilité de procéder à plusieurs tentatives de distribution à l’adresse indiquée par le Client. En cas d’impossibilité de distribution, le colis est mis en instance à l’endroit indiqué par email ou SMS. A compter de la date mentionnée sur l’avis de passage, le Client dispose de quinze (15) jours pour retirer son colis. Passé ce délai, celui-ci sera retourné automatiquement à KOOKAÏ.
 
 **6.2. Délais de livraison**
 
@@ -172,7 +172,7 @@ A certaines périodes (notamment en période de soldes), le délai de traitement
 
 **Délai de transport :**
 
-\-          Colissimo : sous 48 à 72 heures en jours ouvrés après la prise en charge du colis par la poste.
+\-          GLS : sous 48 à 72 heures en jours ouvrés après la prise en charge du colis par la poste.
 
 En conséquence, le délai de livraison, transport compris, s'entend d'un délai de 3 à 5 jours ouvrés, hors périodes de promotions.
 
@@ -191,6 +191,8 @@ Le montant des frais de livraison est indiqué au Client lors de la passation de
 **7.1. Délai et modalités d’exercice du droit de rétractation**
 
 En vertu de la Directive 2011/83/UE du Parlement européen et du Conseil du 25 octobre 2011 relative aux droits des consommateurs et de la loi n° 2014-344 du 17 mars 2014 telle que transposée aux articles L. 221-18 et suivants du Code de la consommation, tout consommateur est en droit d'annuler sa commande à tout moment dans un délai de 14 jours calendaires suivant la date à laquelle il a reçu le/les Article(s) et cela sans avoir à justifier de motifs ni à payer de pénalités.
+
+Pour l’exercice de son droit de rétractation, le Client devra informer KOOKAI de sa décision en suivant la procédure de rétractation en ligne disponible [en cliquant sur ce lien](https://app.fastoche.co/app?shop=kookai), avant l’expiration du délai de 14 jours susmentionné.
 
 Aux termes des présentes CGV, KOOKAI souhaite accorder au Client un délai de rétractation étendu à 14 jours calendaires pour les livraisons en France, et 30 jours calendaires pour les livraisons à l'international. Ce délai de rétraction expire 14 jours (pour la livraison en France et 30 jours pour la livraison à l'international) après le jour où le Client ou un tiers autre que le transporteur et désigné par le Client, prend physiquement possession de la Commande.
 
