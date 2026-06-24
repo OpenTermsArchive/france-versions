@@ -257,6 +257,15 @@ Délai : Livraison garantis en 2 jours ouvrés
 | 5.99 € si inférieur à 30.00 € d'achats  <br>4.99 € à partir de 80.00 € d'achats | 5.99 € si inférieur à 30.00 € d'achats  <br>4.99 € à partir de 80.00 € d'achats |
 
   
+**Livraison avec le service Mondial Relay Domicile**  
+Délai : Livraison garantis en 4 jours ouvrés  
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+|     |
+
+  
 **Livraison avec le service Livraison Domicile Standard**  
 Délai : Livraison garantis en 4 jours ouvrés  
 
