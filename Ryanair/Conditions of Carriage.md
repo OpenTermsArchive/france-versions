@@ -1,4 +1,4 @@
-### Date d’entrée en vigueur : 7 novembre 2025
+### Date d’entrée en vigueur : 25 June 2026
 
 Conditions générales de transport
 =================================
@@ -66,7 +66,7 @@ ARTICLE 1 - DÉFINITIONS
 
 **Irlande**
 
-**Date d’entrée en vigueur : 7 novembre 2025**
+**Date d’entrée en vigueur : 25 June 2026**
 
 « **Nous** », « **notre** » **et** « **nous-mêmes** » désignent Ryanair DAC, Airside Business Park, Swords, Co Dublin, Ireland.
 
@@ -255,7 +255,7 @@ ARTICLE 6 ENREGISTREMENT ET EMBARQUEMENT
 
 **6.2.4** Si vous ne vous enregistrez pas en ligne plus de 2 heures avant l’heure de départ prévue, vous devrez vous acquitter des frais d’enregistrement à l’aéroport figurant dans notre tableau des frais. Si vous avez réservé un billet Plus ou Flexi Plus avant le 14 août 2025, vous pouvez vous enregistrer gratuitement à l’aéroport. Les comptoirs d’enregistrement ferment strictement 40 minutes avant l’heure de départ prévue, sauf avis contraire avant le départ du vol, ou si vous voyagez à partir du 10 novembre 2026 inclus. Pour les voyages à compter du 10 novembre 2026, les comptoirs d’enregistrement ferment strictement 60 minutes avant l’heure de départ prévue, sauf avis contraire avant le départ du vol. Si vous ne vous enregistrez pas avant cette heure, l’embarquement peut vous être refusé, et ce sans remboursement.
 
-**6.2.5** Il est obligatoire pour un adulte voyageant avec des enfants de moins de 12 ans (sauf bébés) de réserver un siège.  Un maximum de quatre enfants pour chaque adulte d’une même réservation recevra un siège gratuit réservé. Ainsi, les parents ont l’assurance de s’asseoir à côté de leurs enfants durant le vol. Cela vous permettra également de vous enregistrer en ligne 60 jours avant le départ. Il n’est pas obligatoire pour tout autre adulte ou adolescent de la réservation de réserver un siège, mais ils peuvent choisir de le faire. 
+**6.2.5** Pour des raisons de sécurité, les enfants âgés de 2 à 11 ans doivent être assis à côté d’au moins un adulte accompagnant. Les familles peuvent choisir de réserver des sièges ou de sélectionner l’attribution aléatoire gratuite. S’ils choisissent de réserver des sièges, ils doivent sélectionner des sièges adjacents pour les enfants et les adultes. Dans ce cas, l’enregistrement en ligne sera également disponible 60 jours avant le départ. Si l’attribution aléatoire est sélectionnée, les enfants seront assis à côté d’un adulte accompagnant sur la même réservation gratuitement. Les autres adultes et les adolescents de la réservation pourront se voir attribuer des sièges séparés.
 
 **6.2.6** Pour votre sûreté et votre sécurité, ainsi que celles de vos compagnons de voyage et de notre équipage, le processus d'enregistrement doit être effectué par vous personnellement, par un passager figurant sur votre réservation, ou par une personne physique dûment autorisée qui vous connaît personnellement et connaît le contenu de vos bagages. Cette exigence vise à garantir que vous êtes informé(e) et que vous, un passager figurant sur votre réservation, ou une personne physique dûment autorisée vous connaissant personnellement et connaissant le contenu de vos bagages, avez confirmé la conformité aux protocoles requis en matière de sécurité, de sûreté et de santé publique, y compris ceux définis par les instructions techniques de l'OACI, le règlement (UE) 2015/1998 et le protocole de sécurité sanitaire en aviation de l'EASA/ECDC en lien avec la COVID-19.
 
@@ -1465,17 +1465,15 @@ Les mineurs de moins de 18 ans résidant en Espagne, non accompagnés de leurs p
 
 À compter du 15 janvier 2017, un enfant mineur (et mineur étranger résident en France ) qui vit en France et voyage à l’étranger seul ou sans être accompagné par l’un de ses parents sur les vols Schengen et Non Schengen  doit être muni d’une autorisation de sortie du territoire AST (AUTORISATION DE SORTIE DU TERRITOIRE (AST) D’UN MINEUR NON ACCOMPAGNÉ PAR UN TITULAIRE DE L’AUTORITÉ PARENTALE) dûment complété avec la documentation exigée telle qu’elle figure dans l’AST. Les informations sur cette exigence peuvent être consultées au lien suivant : https://www.service-public.fr/particuliers/vosdroits/F1359
 
-**Réservations familiales - Siège attribué**
+**Réservations familiales - Sièges réservés** 
 
-Pour tout adulte voyageant avec un enfant de moins de 12 ans (bébés exclus), l’achat d’un siège attribué par l’un des adultes présents sur la réservation est obligatoire pour que l’enfant ait droit à un siège attribué gratuit. Un maximum de quatre enfants par adulte présent sur la réservation aura droit à un siège attribué gratuit. Bien qu’ils en aient la possibilité, il ne sera pas obligatoire que l’un des autres adultes ou adolescents présents sur la réservation réserve un siège.  
+Les enfants âgés de 2 à 11 ans doivent être assis à côté d’un adulte accompagnant.
 
-Les adultes dans l’obligation d’acheter un siège attribué bénéficieront d’un tarif préférentiel de €6. Ces sièges standards au tarif de €6 peuvent être sélectionnés dans les rangées 18 à 33. Les sièges des rangées 18 à 33 seront gratuits pour les enfants.  
+Les familles peuvent choisir de réserver des sièges ou de sélectionner l’attribution aléatoire gratuite. S’ils choisissent de réserver des sièges, ils doivent sélectionner des sièges adjacents pour les enfants et les adultes. La réservation d’un siège permet d’accéder à l’enregistrement en ligne jusqu’à 60 jours avant le départ.
 
-Si un adulte dans l’obligation d’acheter un siège attribué sélectionne un siège dans une autre rangée, il devra s’acquitter de la différence de prix. Les enfants devront s’acquitter du plein tarif pour ces sièges.  
+Si l’attribution aléatoire est sélectionnée, les enfants seront assis à côté d’un adulte accompagnant sur la même réservation gratuitement. Les autres adultes et les adolescents de la réservation pourront se voir attribuer des sièges séparés.
 
-Si les sièges standards au tarif de €6 des rangées 18 à 33 sont indisponibles à cause d’une demande accrue, les adultes dans l’obligation d’acheter un siège attribué peuvent sélectionner un autre siège attribué et s’acquitter de la différence de prix. Ils ont également la possibilité de changer la date de leur voyage. Les sièges attribués gratuits destinés aux enfants seront dans les rangées 11 à 15.   
-
-Si aucun siège côte à côte n’est disponible, un vol différent peut être sélectionné.   
+Dans le cas peu probable où vous ne seriez pas en mesure de réserver des sièges ensemble sur le vol, vous pouvez sélectionner les sièges disponibles et en informer un membre de l’équipage avant l’embarquement, qui s’assurera que les enfants sont assis à côté d’un adulte de la réservation.
 
 REGULAR, PLUS, FAMILY PLUS, TIME SAVER & FLEXI PLUS
 
@@ -2015,20 +2013,6 @@ Rangée 6-15 & 18-33
 (par vol)
 
 Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés. La numérotation des rangées et le plan des sièges peuvent varier en fonction du type d’avion.
-
-Sieges Familiaux Obligatoires
-
-Frais de
-
-€/£6 - €/£10
-
-(par vol)
-
-€/£6 - €/£10
-
-(par vol)
-
-Au moins un adulte voyageant avec des enfants de moins de 12 ans (à l'exception des bébés) doit acheter un siège réservé et s'asseoir à côté d'eux. Jusqu'à 4 enfants (moins de 12 ans) voyageant avec un adulte obtiendront des sièges réservés gratuits (sièges dans les rangées 18 à 33). La numérotation des rangées et le plan des sièges peuvent varier en fonction du type d’avion. Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés.
 
 Frais d’enregistrement à l’aéroport
 
