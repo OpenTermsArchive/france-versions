@@ -291,13 +291,13 @@ Vous pouvez vous opposer à l’utilisation de votre adresse e-mail à cette fin
 
 ### 2.1.6 Newsletter
 
-Si vous vous inscrivez également à la newsletter via notre lien d’inscription, nous vous demandons de consentir au traitement de vos données (adresse e-mail, prénom et nom, lieu de résidence) afin de vous envoyer régulièrement notre newsletter par e-mail.
+Si vous vous inscrivez également à la newsletter via notre lien d’inscription, nous vous demandons de consentir au traitement de vos données (adresse e-mail, prénom et nom) afin de vous envoyer régulièrement notre newsletter par e-mail.
 
 Dans le cadre de votre abonnement à la newsletter, nous obtenons également votre consentement pour personnaliser le contenu de notre newsletter en fonction de vos besoins et de vos intérêts.
 
-Pour vous inscrire à notre newsletter, nous utilisons la procédure dite de double opt-in. Cela signifie qu’après votre inscription, nous enverrons un e-mail à l’adresse électronique que vous aurezindiquée, vous demandant de confirmer que vous souhaitez recevoir la newsletter. Si vous ne confirmez pas votre inscription dans les 24 heures, vos informations seront bloquées et automatiquement effacées après un mois.
+Pour vous inscrire à notre newsletter, nous utilisons la procédure dite de double opt-in. Cela signifie qu’après votre inscription, nous enverrons un e-mail à l’adresse électronique que vous aurezindiquée, vous demandant de confirmer que vous souhaitez recevoir la newsletter. Si vous ne confirmez pas votre inscription dans les 72 heures, vos informations seront bloquées et automatiquement effacées.
 
-Le bulletin d’information peut concerner tous les biens, services, produits, offres et promotions fournis par le responsable du traitement (clause 1.2) et/ou par des sociétés affiliées au responsable du traitement, ou encore par des sociétés partenaires.
+Le bulletin d’information peut concerner tous les biens, services, produits, offres et promotions fournis par le responsable du traitement et/ou par des sociétés affiliées au responsable du traitement, ou encore par des sociétés partenaires.
 
 La base juridique est l’article 6, paragraphe 1(a) du RGPD.
 
