@@ -94,9 +94,11 @@ ARTICLE 12. CONDITIONS FINANCIÈRES DES PRESTATIONS ............................
 
 12.2.4 Règlement via le moyen de paiement PAYPAL ..................................................................... 19
 
-12.4 FRAIS DE CARTE BANCAIRE ET DE CRÉDIT ........................................................................ 19
+12.2.5 Règlement par Google Pay ................................................................................................ 19
 
-12.5 FACTURATION ............................................................................................................... 20
+12.3 FRAIS DE CARTE BANCAIRE ET DE CRÉDIT ........................................................................ 20
+
+12.4 FACTURATION ............................................................................................................... 20
 
 CHAPITRE V - DIVERS....................................................................................................................... 20
 
@@ -116,13 +118,13 @@ ARTICLE 16. PROPRIÉTÉ INTELLECTUELLE .........................................
 
 16.1 GÉNÉRALITÉS ................................................................................................................ 23
 
-16.2 LOGICIEL....................................................................................................................... 23
+16.2 LOGICIEL....................................................................................................................... 24
 
 ARTICLE 17. RESPONSABILITÉ ET GARANTIES .......................................................................................... 24
 
 17.1 POUR L’UTILISATION DU SITE .......................................................................................... 24
 
-17.2 POUR LES PRESTATIONS................................................................................................. 24
+17.2 POUR LES PRESTATIONS................................................................................................. 25
 
 17.3 POUR LA FOURNITURE DU E-BILLET ................................................................................. 25
 
@@ -130,7 +132,7 @@ ARTICLE 18. PROTECTION DES DONNÉES PERSONNELLES ...............................
 
 ARTICLE 19. DROIT APPLICABLE ET JURIDICTIONS COMPÉTENTES.......................................................... 25
 
-ARTICLE 20. DISPOSITIONS FINALES........................................................................................................ 25
+ARTICLE 20. DISPOSITIONS FINALES........................................................................................................ 26
 
 ANNEXE 1 : FORMULAIRE DE RETRACTATION CARTE AVANTAGE.............................................................. 26
 
@@ -336,7 +338,7 @@ Partenaires via leur marque cobrandée ou via un lien hypertexte renvoyant vers 
 
 
 
-Elles sont valables à compter du 16 juin 2026. Cette édition annule et remplace les versions
+Elles sont valables à compter du 24 juin 2026. Cette édition annule et remplace les versions
 
 antérieures.
 
@@ -1870,7 +1872,49 @@ ligne, sur le site et l’application SNCF Connect
 
 
 
-12.4 FRAIS DE CARTE BANCAIRE ET DE CRÉDIT
+12.2.5 Règlement par Google Pay
+
+
+
+Le règlement de Votre Commande peut être réalisé avec le moyen de paiement Google Pay. Pour
+
+bénéficier de ce moyen de paiement, Vous devez être en possession d’un téléphone Android, et avoir
+
+enregistré votre moyen de paiement dans votre Google Wallet.
+
+
+
+Le règlement avec le moyen de paiement Google Pay peut être utilisé pour tous les utilisateurs
+
+éligibles.
+
+
+
+Le règlement avec le moyen de paiement Google Pay peut être utilisé lors de l’achat de tous les
+
+billets de train, ainsi que les Cartes SNCF, les abonnements TER, le Pass hebdomadaire et mensuel,
+
+le Forfait ligne classique, les services (animal \& vélo), ainsi que les prestations proposées par les
+
+partenaires de SNCF Connect tel que l’achat de mobilités urbaines, l’assurance et le don.
+
+
+
+Vous pouvez utiliser le moyen de paiement Google Pay pour payer l’entièreté de Votre Commande,
+
+sans limitation de montant.
+
+
+
+En cas d’échange avec surcoût, le paiement avec Google Pay ne sera pas disponible. Ce surcoût ne
+
+pourra être réglé que par carte bancaire.
+
+20
+
+
+
+12.3 FRAIS DE CARTE BANCAIRE ET DE CRÉDIT
 
 
 
@@ -1888,11 +1932,9 @@ montant différent de celui affiché sur la page de récapitulatif de paiement p
 
 effectuée sur le Site.
 
-20
 
 
-
-12.5 FACTURATION
+12.4 FACTURATION
 
 
 
@@ -1970,6 +2012,10 @@ interdictions de voyager, les alertes, annonces ou conseils publiés par les aut
 
 avant de réserver un voyage vers des destinations internationales. Les informations relatives aux
 
+21
+
+
+
 conditions de différents pays ainsi que le niveau de risque associé au voyage dans des
 
 destinations internationales particulières peuvent être consultées à partir du site suivant :
@@ -1987,8 +2033,6 @@ Les mineurs ou plus doivent être impérativement en possession de papiers d'ide
 Les formalités mentionnées sur le Site s’adressent à des ressortissants français. Si ce n’est pas
 
 votre cas, il Vous incombe de Vous enquérir des formalités applicables à votre situation.
-
-21
 
 
 
@@ -2074,6 +2118,10 @@ Les risques couverts par ces polices, ainsi que leur coût et le montant des gar
 
 sur le Site à titre indicatif. En cas de souscription d’un contrat d’assurance, la police d’assurance,
 
+22
+
+
+
 que Vous acceptez, est accessible par un lien hypertexte figurant sur le descriptif de la
 
 Commande.
@@ -2091,10 +2139,6 @@ Si vous justifiez d’une garantie antérieure pour les risques couverts par l�
 avez la possibilité de renoncer sans frais à cette assurance, sur justificatifs, dans un délai de 14
 
 jours à compter de sa conclusion et tant qu’aucune garantie n’a été mise en œuvre.
-
-22
-
-
 
 Article 15. INFORMATIONS,RÉCLAMATIONS ET MÉDIATION
 
@@ -2178,6 +2222,10 @@ Ouigo / Eurostar), et après avoir obtenu une réponse définitive de SNCF VOYAG
 
 directement ou via le Service Clients, Vous pouvez saisir la Médiatrice de SNCF
 
+23
+
+
+
 VOYAGEURS à l’adresse suivante « Médiation SNCF, TSA 37701, 59973 Tourcoing Cedex »
 
 ou via le formulaire en ligne https://mediation-sncf.my.site.com/mediation/ ;
@@ -2197,10 +2245,6 @@ vente à distance), dont les coordonnées sont les suivantes : BP 20015 - 75362 
 CEDEX 8 Paris. Après démarche préalable écrite des consommateurs auprès de SNCF
 
 Connect, le service du Médiateur peut être saisi, par écrit, pour tout litige de
-
-23
-
-
 
 consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de
 
@@ -2280,6 +2324,8 @@ Seul est autorisé l'usage d'une partie non substantielle du Site à des fins st
 
 commerciales.
 
+24
+
 
 
 L'insertion de liens hypertextes vers toute partie du Site est interdite sans autorisation préalable et
@@ -2297,8 +2343,6 @@ L’utilisation de tout logiciel téléchargé sur le Site permettant d’accéd
 régie par les termes de la licence l’accompagnant. Vous Vous engagez à ne pas installer, copier ou
 
 utiliser ce logiciel avant d’avoir préalablement acquiescé aux termes de ladite licence.
-
-24
 
 
 
@@ -2382,6 +2426,8 @@ sites.
 
 Toute création d’un lien vers le Site est soumise à l’approbation préalable de SNCF Connect.
 
+25
+
 
 
 17.2 POUR LES PRESTATIONS
@@ -2397,8 +2443,6 @@ responsabilité engagée pour toute inexécution ou mauvaise exécution de tout 
 Prestations prévues au contrat, qui serait imputable soit à votre fait, soit au fait imprévisible et
 
 insurmontable d’un tiers étranger à la prestation, soit à un cas de force majeure.
-
-25
 
 
 
@@ -2484,6 +2528,10 @@ règlement des litiges tels que définis en droit français et notamment par les
 
 suivants du Code de procédure civile.
 
+26
+
+
+
 Article 20. DISPOSITIONS FINALES
 
 
@@ -2493,8 +2541,6 @@ Le fait que SNCF Connect ne se prévale pas, à un moment ou à un autre, d'une 
 des présentes Conditions Générales ne pourra être interprété comme valant renonciation par cette
 
 dernière à s’en prévaloir ultérieurement.
-
-26
 
 
 
