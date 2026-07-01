@@ -581,7 +581,7 @@ Elles sont conservées 6 ans pour les documents fiscaux, 10 ans pour les pièces
 
 Conformément à la réglementation en vigueur, le Client dispose de droits (accès, rectification, effacement, opposition, limitation, portabilité, définition des directives relatives à la conservation, à l'effacement et à la communication de vos données à caractère personnel après le décès) sur les données à caractère personnel le concernant. Pour en savoir plus, vous pouvez visiter le site de la Commission Nationale de l’Informatique et des Libertés.
 
-Ces droits peuvent être directement exercés par courrier accompagné d'une copie de votre pièce d'identité à l'adresse suivante : Service Clients Allô E.Leclerc - 26 quai Marcel Boyer - 94200 Ivry sur Seine ou via le formulaire Allô E.Leclerc accessible à l'adresse [www.donneespersonnelles.leclerc](http://www.donneespersonnelles.leclerc/).
+Ces droits peuvent être directement exercés par courrier accompagné d'une copie de votre pièce d'identité à l'adresse suivante : Service Clients Allô E.Leclerc - 26 quai Marcel Boyer - 94200 Ivry sur Seine ou via le formulaire Allô E.Leclerc accessible à l'adresse [www.donneespersonnelles.leclerc](https://www.e.leclerc/contactez-nous/donnees-personnelles).
 
 Le Client dispose du droit d'introduire une réclamation auprès de la Commission Nationale Informatique et Libertés (CNIL) : pour en savoir plus, consultez vos droits sur le site de la CNIL ([www.cnil.fr](http://www.cnil.fr/)).
 
