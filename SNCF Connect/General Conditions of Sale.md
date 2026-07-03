@@ -96,47 +96,49 @@ ARTICLE 12. CONDITIONS FINANCIÈRES DES PRESTATIONS ............................
 
 12.2.5 Règlement par Google Pay ................................................................................................ 19
 
-12.3 FRAIS DE CARTE BANCAIRE ET DE CRÉDIT ........................................................................ 20
+12.2.6 Règlement par Bon d’Achat Digital ..................................................................................... 20
 
-12.4 FACTURATION ............................................................................................................... 20
+12.4 FRAIS DE CARTE BANCAIRE ET DE CRÉDIT ........................................................................ 20
 
-CHAPITRE V - DIVERS....................................................................................................................... 20
+12.5 FACTURATION ............................................................................................................... 21
 
-ARTICLE 13. FORMALITÉS ........................................................................................................................ 20
+CHAPITRE V - DIVERS....................................................................................................................... 21
 
-ARTICLE 14. ASSURANCES....................................................................................................................... 21
+ARTICLE 13. FORMALITÉS ........................................................................................................................ 21
 
-ARTICLE 15. INFORMATIONS,RÉCLAMATIONS ET MÉDIATION................................................................. 22
+ARTICLE 14. ASSURANCES....................................................................................................................... 22
+
+ARTICLE 15. INFORMATIONS,RÉCLAMATIONS ET MÉDIATION................................................................. 23
 
 15.1 POUR LES PRESTATIONS PROPOSÉES PAR SNCF CONNECT AU NOM ET POUR LE COMPTE DE
 
-SES PARTENAIRES ..................................................................................................................... 22
+SES PARTENAIRES ..................................................................................................................... 23
 
-15.2 POUR LES PRESTATIONS VENDUES PAR LES PARTENAIRES DE SNCF CONNECT .................. 23
+15.2 POUR LES PRESTATIONS VENDUES PAR LES PARTENAIRES DE SNCF CONNECT .................. 24
 
-ARTICLE 16. PROPRIÉTÉ INTELLECTUELLE ............................................................................................... 23
+ARTICLE 16. PROPRIÉTÉ INTELLECTUELLE ............................................................................................... 24
 
-16.1 GÉNÉRALITÉS ................................................................................................................ 23
+16.1 GÉNÉRALITÉS ................................................................................................................ 24
 
-16.2 LOGICIEL....................................................................................................................... 24
+16.2 LOGICIEL....................................................................................................................... 25
 
-ARTICLE 17. RESPONSABILITÉ ET GARANTIES .......................................................................................... 24
+ARTICLE 17. RESPONSABILITÉ ET GARANTIES .......................................................................................... 25
 
-17.1 POUR L’UTILISATION DU SITE .......................................................................................... 24
+17.1 POUR L’UTILISATION DU SITE .......................................................................................... 25
 
-17.2 POUR LES PRESTATIONS................................................................................................. 25
+17.2 POUR LES PRESTATIONS................................................................................................. 26
 
-17.3 POUR LA FOURNITURE DU E-BILLET ................................................................................. 25
+17.3 POUR LA FOURNITURE DU E-BILLET ................................................................................. 26
 
-ARTICLE 18. PROTECTION DES DONNÉES PERSONNELLES ..................................................................... 25
+ARTICLE 18. PROTECTION DES DONNÉES PERSONNELLES ..................................................................... 26
 
-ARTICLE 19. DROIT APPLICABLE ET JURIDICTIONS COMPÉTENTES.......................................................... 25
+ARTICLE 19. DROIT APPLICABLE ET JURIDICTIONS COMPÉTENTES.......................................................... 26
 
-ARTICLE 20. DISPOSITIONS FINALES........................................................................................................ 26
+ARTICLE 20. DISPOSITIONS FINALES........................................................................................................ 27
 
-ANNEXE 1 : FORMULAIRE DE RETRACTATION CARTE AVANTAGE.............................................................. 26
+ANNEXE 1 : FORMULAIRE DE RETRACTATION CARTE AVANTAGE.............................................................. 27
 
-ANNEXE 2 : FORMULAIRE DE RETRACTATION CARTE LIBERTE .................................................................. 26
+ANNEXE 2 : FORMULAIRE DE RETRACTATION CARTE LIBERTE .................................................................. 27
 
 
 
@@ -276,17 +278,9 @@ ces dernières ne peuvent se voir appliquer ladite règlementation.
 
 
 
-Si, après avoir commandé votre billet de train et l’avoir payé, vous réservez un service de voyage
+Si, après avoir commandé votre billet de train et l’avoir payé, vous réservez un service de voyagesupplémentaire pour votre voyage par l’intermédiaire de SNCF CONNECT, vous ne bénéficiez pas
 
-supplémentaire pour votre voyage par l’intermédiaire de SNCF CONNECT, vous ne bénéficiez pas
-
-des droits applicables aux forfaits au titre de la Directive (UE) 2015/2302 et de l’article L211-2 du
-
-code du tourisme. En conséquence, seul le Partenaire de SNCF CONNECT sera tenu responsable
-
-de la bonne exécution de la prestation de voyage tels que, par exemple, un hébergement ou de
-
-location de voiture vendues séparément.
+des droits applicables aux forfaits au titre de la Directive (UE) 2015/2302 et de l’article L211-2 ducode du tourisme. En conséquence, seul le Partenaire de SNCF CONNECT sera tenu responsablede la bonne exécution de la prestation de voyage tels que, par exemple, un hébergement ou delocation de voiture vendues séparément.
 
 
 
@@ -296,31 +290,19 @@ de voiture, au cours de la même visite de notre site et ce, dans les 24 heures 
 
 commande de billet de train, ce service fera partie d’une prestation de voyage liée. Dans ce cas,
 
-SNCF CONNECT dispose, comme l’exige le droit de l’Union européenne, d’une protection afin de
-
-vous rembourser les sommes que vous lui avez versées pour des services qui n’ont pas été
+SNCF CONNECT dispose, comme l’exige le droit de l’Union européenne, d’une protection afin devous rembourser les sommes que vous lui avez versées pour des services qui n’ont pas été
 
 exécutés en raison de son insolvabilité.
 
 
 
-SNCF CONNECT a souscrit une protection contre l’insolvabilité auprès de APST. Vous pouvez
-
-prendre contact avec APST, 15 avenue Carnot,75017 Paris, info@apst.travel, 01 44 09 25 35, si
+SNCF CONNECT a souscrit une protection contre l’insolvabilité auprès de APST. Vous pouvezprendre contact avec APST, 15 avenue Carnot,75017 Paris, info@apst.travel, 01 44 09 25 35, si
 
 l’exécution de votre prestation est refusée en raison de l’insolvabilité de SNCF CONNECT.
 
-Remarque : cette protection contre l’insolvabilité ne s’applique pas aux contrats conclus avec des
+Remarque : cette protection contre l’insolvabilité ne s’applique pas aux contrats conclus avec desparties autres que SNCF CONNECT qui peuvent être exécutées en dépit de l’insolvabilité de SNCFCONNECT.
 
-parties autres que SNCF CONNECT qui peuvent être exécutées en dépit de l’insolvabilité de SNCF
-
-CONNECT.
-
-
-
-Directive (UE) 2015/2302 transposée en droit national
-
-https ://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=B6B56671A51841699A8FB7B4B5
+Directive (UE) 2015/2302 transposée en droit nationalhttps ://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=B6B56671A51841699A8FB7B4B5
 
 EB08A2.tplgfr21s_1?idArticle=LEGIARTI000036242695\&cidTexte=LEGITEXT000006074073\&categ
 
@@ -328,51 +310,27 @@ EB08A2.tplgfr21s_1?idArticle=LEGIARTI000036242695\&cidTexte=LEGITEXT000006074073
 
 Les présentes conditions générales de vente et d’utilisation (ci-après les « Conditions Générales »),
 
-ainsi que les Conditions Spécifiques applicables à chaque Prestation, s’appliquent à toute
+ainsi que les Conditions Spécifiques applicables à chaque Prestation, s’appliquent à touteutilisation du Site, notamment à la commercialisation de l’ensemble des Prestations proposéessur le Site par SNCF Connect au nom et pour le compte de leurs Partenaires ou en direct par lesPartenaires via leur marque cobrandée ou via un lien hypertexte renvoyant vers leur site.
 
-utilisation du Site, notamment à la commercialisation de l’ensemble des Prestations proposées
-
-sur le Site par SNCF Connect au nom et pour le compte de leurs Partenaires ou en direct par les
-
-Partenaires via leur marque cobrandée ou via un lien hypertexte renvoyant vers leur site.
+Elles sont valables à compter du 2 juillet 2026. Cette édition annule et remplace les versionsantérieures.
 
 
 
-Elles sont valables à compter du 24 juin 2026. Cette édition annule et remplace les versions
+L’Utilisateur est invité à lire attentivement les présentes Conditions Générales, qui sontréférencées par hyperlien sur chaque page du Site. Il est conseillé à l’Utilisateur de les téléchargeret/ou de les imprimer et d’en conserver une copie. Dès lors que celles-ci peuvent être modifiées à
 
-antérieures.
+tout moment et sans préavis, il est impératif que l’Utilisateur consulte et accepte les ConditionsGénérales au moment où il effectue sa réservation, notamment afin de s’assurer des dispositions
 
-
-
-L’Utilisateur est invité à lire attentivement les présentes Conditions Générales, qui sont
-
-référencées par hyperlien sur chaque page du Site. Il est conseillé à l’Utilisateur de les télécharger
-
-et/ou de les imprimer et d’en conserver une copie. Dès lors que celles-ci peuvent être modifiées à
-
-tout moment et sans préavis, il est impératif que l’Utilisateur consulte et accepte les Conditions
-
-Générales au moment où il effectue sa réservation, notamment afin de s’assurer des dispositions
-
-en vigueur. Cependant, de telles modifications ne seront pas applicables aux réservations
-
-préalablement effectuées et confirmées par SNCF Connect.
+en vigueur. Cependant, de telles modifications ne seront pas applicables aux réservationspréalablement effectuées et confirmées par SNCF Connect.
 
 Article 2. UTILISATION DU SITE WWW.SNCF-CONNECT.COM
 
 
 
-La Commande de Prestations est réservée aux Utilisateurs ayant pris connaissance et accepté par
-
-un clic, ou, le cas échéant, par téléphone, les présentes Conditions Générales dans leur
-
-intégralité, ainsi que les Conditions Spécifiques propres à chaque Prestation, de façon préalable à
+La Commande de Prestations est réservée aux Utilisateurs ayant pris connaissance et accepté parun clic, ou, le cas échéant, par téléphone, les présentes Conditions Générales dans leurintégralité, ainsi que les Conditions Spécifiques propres à chaque Prestation, de façon préalable à
 
 chaque Commande. L’acceptation expresse de ces Conditions Générales et des Conditions
 
-Spécifiques se fait en validant la commande. Sans cette acceptation, la poursuite du processus de
-
-réservation est techniquement impossible.
+Spécifiques se fait en validant la commande. Sans cette acceptation, la poursuite du processus deréservation est techniquement impossible.
 
 5
 
@@ -1914,7 +1872,99 @@ pourra être réglé que par carte bancaire.
 
 
 
-12.3 FRAIS DE CARTE BANCAIRE ET DE CRÉDIT
+12.2.6 Règlement par Bon d’Achat Digital
+
+
+
+Le règlement par Bon d'Achat Digital est disponible pour les commandes de billets de train auprès
+
+des seuls transporteurs suivants : TGV Inoui, Intercités, TGV Européens (dont TGV France Bruxelles,
+
+TGV France Luxembourg, TGV France Fribourg, Lyria, TGV France Italie, DB-SNCF en coopération,
+
+TGV France Espagne.
+
+
+
+Le Bon d'Achat Digital peut être utilisé lors de l'achat de tous les billets de train (tous les tarifs), ainsi
+
+que les Cartes SNCF (Avantage et Liberté), le Pass hebdomadaire et mensuel, le Forfait ligne
+
+classique, les services (animal \& vélo).
+
+
+
+Le Bon d'Achat Digital ne peut être utilisé pour l'achat des Abonnements Max, des billets de train
+
+OUIGO Espagne, Eurostar, TER et services complémentaires (Mes Bagages, Bistro à bord,
+
+Junior\&Cie).
+
+
+
+Le Bon d'Achat Digital constitue un moyen de paiement et ne s’apparente pas à un bon de réduction.
+
+Le Bon d'Achat Digital ne modifie pas le prix de votre Commande, mais réduit votre reste à payer.
+
+
+
+Lorsque la Commande inclut des produits éligibles et non éligibles, le Bon d'Achat Digital ne peut
+
+être appliqué qu'aux produits éligibles. Le solde correspondant aux produits non éligibles doit être
+
+réglé par un autre moyen de paiement accepté par le transporteur, et, le cas échéant, par les
+
+transporteurs partenaires.
+
+
+
+Vous pouvez utiliser le Bon d'Achat Digital pour payer l'entièreté de votre Commande. Si le montant
+
+du Bon d'Achat Digital ne le permet pas, Vous pouvez utiliser votre carte bancaire, Apple Pay ou
+
+Google Pay pour couvrir le reste à payer.
+
+
+
+En cas d’échange de vos billets, réglés en partie ou en totalité par Bon d’Achat Digital, seuls les
+
+billets de train éligibles au règlement en Bon d’Achat Digital Vous seront présentés et/ou
+
+accessibles. Les autres billets ne seront pas accessibles à l’échange.
+
+
+
+Par ailleurs, dans le cas où Vous devriez payer un complément pour réaliser l’échange de vos billets,
+
+ce complément ne pourra être réglé que par carte bancaire ou Apple Pay ou Google Pay.
+
+
+
+En cas d’annulation de vos billets, nous vous rembourserons l’intégralité du montant du Bon d’Achat
+
+Digital utilisé lors de votre commande.
+
+
+
+Le Bon d'Achat Digital est non-personnel, divisible et transférable.
+
+
+
+Le paiement par Bon d'Achat Digital est autorisé dans la limite de trois (3) par commande.
+
+
+
+Les Bons d'Achats Digitaux doivent être saisis les uns après les autres au moment de l’étape de
+
+paiement et non simultanément.
+
+
+
+La durée de validité du Bon d’Achat Digital est d’un (1) an
+
+
+
+12.4 FRAIS DE CARTE BANCAIRE ET DE CRÉDIT
 
 
 
@@ -1928,13 +1978,17 @@ facturer des frais de conversion. Cela signifie que le montant énoncé sur votr
 
 crédit ou de compte bancaire peut être dans votre devise locale et, par conséquent, peut-être d'un
 
+21
+
+
+
 montant différent de celui affiché sur la page de récapitulatif de paiement pour la réservation
 
 effectuée sur le Site.
 
 
 
-12.4 FACTURATION
+12.5 FACTURATION
 
 
 
@@ -2012,10 +2066,6 @@ interdictions de voyager, les alertes, annonces ou conseils publiés par les aut
 
 avant de réserver un voyage vers des destinations internationales. Les informations relatives aux
 
-21
-
-
-
 conditions de différents pays ainsi que le niveau de risque associé au voyage dans des
 
 destinations internationales particulières peuvent être consultées à partir du site suivant :
@@ -2027,6 +2077,8 @@ http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays/
 
 
 Les mineurs ou plus doivent être impérativement en possession de papiers d'identité à leur nom.
+
+22
 
 
 
@@ -2118,10 +2170,6 @@ Les risques couverts par ces polices, ainsi que leur coût et le montant des gar
 
 sur le Site à titre indicatif. En cas de souscription d’un contrat d’assurance, la police d’assurance,
 
-22
-
-
-
 que Vous acceptez, est accessible par un lien hypertexte figurant sur le descriptif de la
 
 Commande.
@@ -2131,6 +2179,8 @@ Commande.
 Les déclarations de sinistre se font directement auprès de la société d’assurances concernée, en
 
 respectant les termes du contrat d’assurance.
+
+23
 
 
 
@@ -2222,10 +2272,6 @@ Ouigo / Eurostar), et après avoir obtenu une réponse définitive de SNCF VOYAG
 
 directement ou via le Service Clients, Vous pouvez saisir la Médiatrice de SNCF
 
-23
-
-
-
 VOYAGEURS à l’adresse suivante « Médiation SNCF, TSA 37701, 59973 Tourcoing Cedex »
 
 ou via le formulaire en ligne https://mediation-sncf.my.site.com/mediation/ ;
@@ -2237,6 +2283,10 @@ coordonnées et modalités de saisine sont disponibles sur son site :
 http://www.mtv.travel/.De même, conformément aux dispositions du Code de la
 
 consommation concernant le règlement amiable des litiges, SNCF Connect adhère au
+
+24
+
+
 
 service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la
 
@@ -2324,13 +2374,13 @@ Seul est autorisé l'usage d'une partie non substantielle du Site à des fins st
 
 commerciales.
 
-24
-
 
 
 L'insertion de liens hypertextes vers toute partie du Site est interdite sans autorisation préalable et
 
 écrite de SNCF Connect.
+
+25
 
 
 
@@ -2426,7 +2476,7 @@ sites.
 
 Toute création d’un lien vers le Site est soumise à l’approbation préalable de SNCF Connect.
 
-25
+26
 
 
 
@@ -2528,7 +2578,7 @@ règlement des litiges tels que définis en droit français et notamment par les
 
 suivants du Code de procédure civile.
 
-26
+27
 
 
 
@@ -2568,7 +2618,7 @@ ANNEXE 1 : FORMULAIRE DE RETRACTATION CARTE AVANTAGE
 
 
 
-Formulaire de rétractation – Carte Avantage (format Word)
+Formulaire de rétractation - Carte Avantage (document Word)
 
 
 
@@ -2576,4 +2626,4 @@ ANNEXE 2 : FORMULAIRE DE RETRACTATION CARTE LIBERTE
 
 
 
-Formulaire de rétractation – Carte Liberté (format Word)
+Formulaire de rétractation – Carte Liberté (document Word)
