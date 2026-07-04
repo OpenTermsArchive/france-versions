@@ -3,7 +3,7 @@ Conditions générales de vente
 
 #### (Hors produits qui ne sont pas vendus et expédiés par VERTBAUDET)
 
-#### Mise à jour du 04/11/2025 [(Télécharger nos conditions générales de vente)](https://www.vertbaudet.fr/pdf/cgv-04112025.pdf)
+#### Mise à jour du 23/06/2026 [(Télécharger nos conditions générales de vente)](https://www.vertbaudet.fr/pdf/cgv-04112025.pdf)
 
 Les présentes conditions générales de vente (les « CGV ») régissent les contrats conclus sur le site [www.vertbaudet.fr](https://www.vertbaudet.fr/) (le « Site ») avec la société Vertbaudet, société par actions simplifiée, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 397.555.327, dont le siège social est au 36 Avenue Alfred Lefrançois – 59200 TOURCOING - France, numéro de TVA intracommunautaire FR68397555327 (ci-après dénommée « « Vertbaudet »), et uniquement pour les produits vendus et expédiés par Vertbaudet (ci-après les « Produits »)
 
@@ -21,7 +21,7 @@ La société Vertbaudet exploite, sous la marque et l'enseigne Vertbaudet, une a
 *   [4. Le paiement](#paiement)
 *   [5. La livraison](#livraison)
 
-*   [6. Remboursement – Retour (Droit de rétraction)](#retractation-echange)
+*   [6. Droit de rétractation -Remboursement – Retour](#retractation-echange)
 *   [7. Spécificités à l'égard des articles personnalisés](#specificites-articles-personnalises)
 *   [8. Garanties](#garanties)
 *   [9. Les pièces détachées](#pieces-detachees)
@@ -107,21 +107,33 @@ Lors de la validation de votre commande, vous devrez indiquer votre numéro de c
 
 Par ailleurs, vous pouvez choisir de mémoriser les informations relatives à votre carte bancaire pour ne pas avoir à les ressaisir à chaque commande. Votre numéro de Carte bancaire apparait dans sa totalité lors de la saisie mais seuls les cinq (5) derniers chiffres seront visibles dans votre compte Client, les autres étant masqués pour des raisons de sécurité.
 
+Toutes les transactions sont sécurisées, une authentification auprès de votre banque pourra être demandée, mais n’est pas systématique, cela dépendra des process de votre banque
+
 Conformément à la loi du 13 mars 2000 sur la signature électronique, la transmission en ligne de votre numéro de carte et la validation finale de votre commande valent preuve pour l'intégralité de la commande et l'exigibilité des sommes dues en règlement de cette demande.
 
 Dans le cas d'une utilisation frauduleuse de votre carte, vous êtes invité à contacter immédiatement après le constat de cette utilisation, le Service Client au 03.20.760.760 (prix d’un appel local depuis un poste fixe), de 9h à 18h du lundi au vendredi (sauf jours fériés) et le samedi de 9h à 16h
 
-#### 4.2 Paiement dans les 30 jours ou en 3 fois sans frais avec Klarna (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET pour les commandes en dessous de 1500€) :
+#### 4.2 Paiement sans frais avec Klarna (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
 
+Le paiement en 3 fois est possible jusque 1 500€ et le paiement en 30 jours jusque 500€.  
+  
 Pour en savoir plus sur Klarna et le fonctionnement de cette modalité de paiement : [cliquez ici](https://www.vertbaudet.fr/page/a-propos-de-klarna.htm).
 
-#### 4.3 Paiement avec votre compte PAYPAL (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
+#### 4.3 Paiement avec votre compte PAYPAL (Mode de paiement valable pour tout type de commande) :
 
 En choisissant le paiement via PayPal, vous serez automatiquement dirigé sur votre compte PayPal. Une fois le paiement PayPal validé, vous pourrez terminer votre commande sur le Site
 
 #### 4.4 Paiement par carte cadeau Vertbaudet (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
 
 Le montant de vos achats sera débité immédiatement, même en cas d'articles en différés de livraison. Vous devrez renseigner les numéros d'identification figurant sur la carte. Vous pouvez payer par carte cadeau dans la limite de 5 cartes maximum. Vous pouvez compléter votre paiement carte cadeau avec votre carte bancaire.
+
+#### 4.5 Paiement par ApplePay :
+
+En choisissant le paiement via ApplePay, vous serez automatiquement dirigé sur votre application ApplePay. Une fois le paiement ApplePay validé, vous pourrez terminer votre commande sur le Site.
+
+#### 4.6 Paiement par carte illicado (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
+
+Le montant de vos achats sera débité immédiatement, même en cas d'articles en différés de livraison. Vous devrez renseigner les numéros d'identification figurant sur la carte. Vous pouvez payer par carte cadeau dans la limite de 5 cartes maximum. Vous pouvez compléter votre paiement carte cadeau avec votre toutes autres moyens de paiement.
 
 La facture de votre commande vous est adressée par courriel lors de la confirmation de l’expédition de votre commande et est également disponible sur votre compte client.
 
@@ -205,7 +217,7 @@ signalé par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volum
 | --- |
 | Gratuit dès 49€ d’achats  <br>Sinon 4,99€ |
 | Gratuit dès 79€ d’achats  <br>Sinon 6,99€ |
-| A partir de 5,99€ |
+| A partir de 7,99€ |
 
 Produit très encombrant  
 signalé par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)  
@@ -223,7 +235,7 @@ signalé par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volum
 | A partir de 49,99€ |
 | A partir de 19,99€ |
 
-**Tarif en vigueur au 15/12/2025, susceptible de modification.**
+**Tarif en vigueur au 23/06/2026, susceptible de modification.**
 
 6\. Remboursement - Retour (droit de rétractation)
 --------------------------------------------------
@@ -231,6 +243,8 @@ signalé par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volum
 Tous les Produits proposés à la vente, achetés sur le site [www.vertbaudet.fr](https://www.vertbaudet.fr/) et livrés par Vertbaudet peuvent faire l'objet d'un retour et d'un remboursement excepté ceux exclus par la loi.
 
 Pour ouvrir droit au remboursement, les Produits ne doivent pas avoir été portés de manière prolongée, et être intacts et complets.
+
+En cas de dépréciation résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement des articles, Vertbaudet se réserve le droit d'effectuer une déduction sur le montant remboursé à hauteur de cette dépréciation, conformément à l'article L. 221-23 du Code de la consommation.
 
 ### 6.1 Droit de rétractation
 
@@ -241,7 +255,11 @@ Par exemple, selon l’article L221-28 du Code de la consommation, le droit de r
 *   Biens confectionnés selon les spécifications du consommateur ou nettement personnalisés ;
 *   Biens qui ont été descellés par le consommateur après la livraison et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé….
 
-Vous disposez de 15 jours à compter de la réception du dernier colis de votre commande pour nous notifier votre souhait de rétractation en nous retournant par courrier libre ou [par email](https://www.vertbaudet.fr/page/contactez_nous.htm) le formulaire de rétractation [joint](https://securemedia.vertbaudet.fr/Pdf/3-0-0/FORMULAIRE_DE_RETRACTATION.pdf). Vous disposez de 15 jours supplémentaires à compter de l'envoi de la notification de retour, pour nous retourner un Produit de votre commande, selon les disposions prévues au paragraphe 6.2 Retours.
+Vous disposez de 14 jours à compter de la réception du dernier colis de votre commande pour nous notifier votre souhait de rétractation en utilisant la fonctionnalité de rétractation en ligne disponible dans votre espace client, ou en nous retournant le formulaire de rétractation [joint](https://securemedia.vertbaudet.fr/Pdf/3-0-0/FORMULAIRE_DE_RETRACTATION.pdf) aux présentes CGV, ou par toute autre déclaration dénuée d’ambiguïté exprimant votre volonté de vous rétracter. Vous pouvez retourner vos articles jusqu’à 30 jours depuis votre espace client, selon nos conditions de retour habituelles.
+
+### Exercice du droit de rétractation en ligne
+
+À compter du 19 juin 2026, vous pouvez exercer votre droit de rétractation directement en ligne via la fonctionnalité de rétractation disponible dans votre espace client, identifiée par la mention « Exercer une rétractation ». Cette fonctionnalité est accessible gratuitement pendant toute la durée du délai de rétractation. Elle vous permet de soumettre une déclaration de rétractation en ligne en renseignant votre nom et prénom, les informations permettant d'identifier votre commande, ainsi que le moyen électronique par lequel vous souhaitez recevoir l'accusé de réception. La déclaration est soumise via la fonctionnalité de confirmation identifiée par la mention « Valider la rétractation ». Un accusé de réception mentionnant le contenu de votre déclaration ainsi que la date et l'heure de son envoi vous sera adressé sur support durable dans un délai raisonnable
 
 MODELE DE FORMULAIRE DE RETRACTATION
 
@@ -277,6 +295,10 @@ Vous pouvez retourner le Produit :
 
 S'il s'agit d'un Produit signalé par le sigle ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) ou ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) et qui a été livré à domicile veuillez nous contacter au numéro 03.20.760.760 (coût d’un appel local depuis un poste fixe), afin de prendre un rendez-vous pour la reprise gratuite de l'article, au lieu de sa livraison.
 
+Conformité du retour  
+  
+Le remboursement est conditionné au retour effectif des articles faisant l'objet de la rétractation ou du retour commercial. Vertbaudet se réserve le droit de refuser le remboursement si les articles reçus ne correspondent pas à la commande concernée ou si le colis est vide, et vous en informera dans les meilleurs délais
+
 En cas de retour exercé conformément au présent article, Vertbaudet s'engage à vous rembourser les sommes versées, en ce compris les frais de livraison (à l’exception des frais supplémentaires découlant du choix d’un mode de livraison autre que le mode le moins coûteux de livraison standard proposé sur le site), dans les meilleurs délais et au plus tard dans les 14 jours suivant la réception de la preuve de l'envoi du colis à notre attention ou de la réception du colis par nos soins (la première de ces deux dates étant retenue). En dehors des cas d’exercice du droit de rétractation, en cas de commande comportant plusieurs Produits, les frais de livraison ne seront remboursés qu’en cas de retour, en une seule fois, de l’intégralité des articles constituant la commande. Le service d’emballage cadeau en lui-même, proposé à l’article 5 LIVRAISON des présentes conditions n’est pas remboursable.
 
 Les preuves d'envoi acceptées, sont :
@@ -284,17 +306,25 @@ Les preuves d'envoi acceptées, sont :
 *   Le coupon de dépôt, en Point Relais® ;
     
 *   Les récépissés, tamponnés et datés de la Poste, de dépôts de colis suivis.
+    
 
 Si la commande de Produits a été réglée :
 
-*   Par PayPal, et que le compte PayPal est toujours actif, le remboursement de vos retours sera effectué sur ce compte PayPal.
+*   Par PayPal, et que le compte PayPal est toujours actif, le remboursement de vos retours sera effectué sur ce compte PayPal dans un délai de 180 jours à partir de la date de débit.
     
 *   Comptant par carte bancaire, votre remboursement se fera directement par crédit sur le compte bancaire attaché à cette carte. En cas d’échec de la méthode de remboursement, vous serez contacté(e) par notre service Relation Clients afin de procéder à un remboursement sécurisé via notre partenaire Paytweak
     
-*   En 3 fois par carte bancaire : le montant des mensualités restantes sera modifié, ou les mensualités restantes seront annulées
+*   Dans les 30 jours ou en 3 fois fois sans frais avec Klarna: le montant des mensualités restantes sera modifié, ou les mensualités restantes seront annulées
+    
+*   Comptant par Apple Pay, votre remboursement se fera directement par crédit sur le compte bancaire attaché à ce moyen de paiement. En cas d’échec de remboursement, vous serez contacté€ par notre service Relation Clients afin de procéder à un remboursement sécurisé
     
 *   Par Carte cadeau Vertbaudet : le remboursement sera effectué par carte cadeau ou, le cas échéant, selon le mode de paiement complémentaire.
     
+*   Par Carte cadeau Illicado : vous devez contacter directement Illicado pour traiter le remboursement.
+    
+  
+
+Par la cagnotte fidélité, si le retour concerne un produit acheté partiellement ou en totalité avec la cagnotte, le remboursement ne sera effectif que sur le montant payé hors cagnotte (il ne peut être procédé au remboursement d’un montant de la cagnotte). Dans cette hypothèse, le montant sera recrédité sur la cagnotte
 
 Si vous souhaitez remplacer l’article, il vous suffit de repasser commande conformément à l’article 3 cidessus. Pour bénéficier de la livraison gratuite, il est nécessaire de passer votre nouvelle commande dans le délai de 48h à compter de la déclaration de retour de l’article dans votre compte client rubrique « Mes retours »
 
