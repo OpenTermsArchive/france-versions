@@ -377,4 +377,4 @@ Si vous estimez que nous n’avons pas traité vos données à caractère person
 
 En Finlande, l’autorité de contrôle est le Bureau du médiateur chargé de la protection des données (Tietosuojavaltuutetun toimisto), Lintulahdenkuja 4, 00530 Helsinki, Finlande. E-mail: [tietosuoja@om.fi](mailto:tietosuoja@om.fi). Site web: [https://tietosuoja.fi/en/home](https://tietosuoja.fi/en/home).
 
-Publié le 19 novembre 2024
+Publié le 19 juin 2026
