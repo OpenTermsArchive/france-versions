@@ -27,79 +27,81 @@ Définitions
 
 10\. Cartes cadeaux Qobuz
 
-11\. Absence de droit de rétractation
+11\. Programme de récompense Qobuz
 
-12\. Désactivation et suppression du compte
+12\. Absence de droit de rétractation
 
-13\. Territoire
+13\. Désactivation et suppression du compte
 
-14\. Élection de domicile
+14\. Territoire
 
-15\. Données personnelles
+15\. Élection de domicile
 
-16\. Cookies
+16\. Données personnelles
 
-17\. Propriété intellectuelle
+17\. Cookies
 
-18\. Service client
+18\. Propriété intellectuelle
 
-19\. Droit applicable, litige et médiation
+19\. Service client
 
-20\. Nullité d’une clause
+20\. Droit applicable, litige et médiation
 
-21\. Nos offres
+21\. Nullité d’une clause
 
-* * *
-
-### 21.1 QOBUZ PREMIUM
+22\. Nos offres
 
 * * *
 
-Présentation
-
-21.1.1     Durée
-
-21.1.2     Renouvellement
-
-21.1.3     Résiliation
-
-### 21.2 QOBUZ STUDIO SOLO
+### 22.1 QOBUZ PREMIUM
 
 * * *
 
 Présentation
 
-21.2.1     Durée
+22.1.1     Durée
 
-21.2.2     Renouvellement
+22.1.2     Renouvellement
 
-21.2.3     Résiliation
+22.1.3     Résiliation
 
-### 21.3 QOBUZ STUDIO DUO
-
-* * *
-
-Présentation
-
-21.3.1 Description et disponibilité des offres STUDIO DUO
-
-21.3.2 Conditions d’accès aux offres STUDIO DUO
-
-21.3.3 Conditions d’utilisation des offres STUDIO DUO
-
-21.3.4 Durée
-
-21.3.5 Renouvellement
-
-21.3.6 Résiliation
-
-### 21.4 QOBUZ STUDIO FAMILLE
+### 22.2 QOBUZ STUDIO SOLO
 
 * * *
 
 Présentation
 
-21.4.1     Description et disponibilité de l’offre STUDIO FAMILLE
+22.2.1     Durée
+
+22.2.2     Renouvellement
+
+22.2.3     Résiliation
+
+### 22.3 QOBUZ STUDIO DUO
+
+* * *
+
+Présentation
+
+22.3.1 Description et disponibilité des offres STUDIO DUO
+
+22.3.2 Conditions d’accès aux offres STUDIO DUO
+
+22.3.3 Conditions d’utilisation des offres STUDIO DUO
+
+22.3.4 Durée
+
+22.3.5 Renouvellement
+
+22.3.6 Résiliation
+
+### 22.4 QOBUZ STUDIO FAMILLE
+
+* * *
+
+Présentation
+
+22.4.1     Description et disponibilité de l’offre STUDIO FAMILLE
 
 21.4.2     Conditions d’accès à l’offre STUDIO FAMILLE
 
@@ -137,7 +139,7 @@ Présentation
 
 21.6.4 Durée
 
-21.2.5 Renouvellement
+21.6.5 Renouvellement
 
 21.2.6 Résiliation
 
@@ -680,7 +682,7 @@ XANDRIE SA s'engage à respecter la législation des territoires cités à l’A
 
 Conformément à la loi informatique et libertés n°78-17 du 6 janvier 1978, le présent site fait l'objet d'une déclaration à la CNIL n°1263952.
 
-A ce titre, le Client dispose d'un droit d'accès, d'information, de modification et de retrait vis-à-vis des données personnelles le concernant, en adressant un simple courrier électronique ou postal à QOBUZ. Toute demande, comprenant obligatoirement les nom, prénom, adresse mail et identifiant (pseudo) du Client, devra alors être adressée par courrier électronique à l‘adresse [support@qobuz.com](mailto:support@qobuz.com), ou par voie postale à l’adresse : XANDRIE SA service juridique, 45 rue de Delizy, 93692 Pantin CEDEX.
+A ce titre, le Client dispose d'un droit d'accès, d'information, de modification et de retrait vis-à-vis des données personnelles le concernant, en adressant un simple courrier électronique ou postal à QOBUZ. Toute demande, comprenant obligatoirement les nom, prénom, adresse mail et identifiant (pseudo) du Client, devra alors être adressée par courrier électronique à l‘adresse [support@qobuz.com](mailto:support@qobuz.com), ou par voie postale à l’adresse : XANDRIE SA service juridique, 45 rue Delizy, 93692 Pantin CEDEX.
 
 Le Client note également que XANDRIE SA, dans un souci de bon suivi commercial du Client, peut être amené à utiliser des « cookies » conformément à l'Article 17 des présentes CGUV. Le Client possède cependant toujours la possibilité de désactiver les « cookies » par le biais des options de son navigateur Internet. Il lui suffit à cet égard de consulter la rubrique d'aide du navigateur concerné.
 
@@ -869,7 +871,7 @@ Dans le cadre de l’offre STUDIO DUO, l’abonné principal est responsable du 
 
 XANDRIE SA se réserve le droit de résilier ou de suspendre l'accès immédiatement et à tout moment aux comptes principal et secondaires de l’offre DUO, en cas de non-respect des critères d'éligibilité et de non-respect des présentes CGUV.
 
-### 21.3.3 Conditions d’utilisations de l’offre STUDIO DUO
+### 21.3.3 Conditions d’utilisation de l’offre STUDIO DUO
 
 L’offre DUO permet au titulaire d'un compte authentifié comme compte principal d'inviter un (1) abonné secondaire. Chacun aura un compte individuel avec un accès individuel au contenu musical proposé par QOBUZ.
 
@@ -879,7 +881,7 @@ L’offre STUDIO DUO permet l’écoute de musique en ligne sur un maximum de de
 
 Aucun partage de compte ou d'abonnement n'est accepté ou autorisé comme indiqué dans les présentes CGUV. L'offre STUDIO DUO est exclusivement destinée aux abonnés résidant à une même adresse.
 
-XANDRIE SA se réserve le droit de faire tout ce qui est raisonnablement possible pour empêcher l'utilisation abusive l'utilisation abusive de l’offre STUDIO DUO, notamment par l’ajout d’abonnés secondaires qui ne résident pas à la même adresse que le titulaire du compte principal.
+XANDRIE SA se réserve le droit de faire tout ce qui est raisonnablement possible pour empêcher l'utilisation abusive de l’offre STUDIO DUO, notamment par l’ajout d’abonnés secondaires qui ne résident pas à la même adresse que le titulaire du compte principal.
 
 Si avant de souscrire à l’offre STUDIO DUO le Client avait déjà souscrit à une autre offre d’abonnement QOBUZ, il s’engage par les présentes CGUV à renoncer au remboursement de ladite offre.
 
@@ -944,7 +946,7 @@ Dans le cadre de l’offre STUDIO FAMILLE, le titulaire du compte principal est 
 
 XANDRIE SA se réserve le droit de résilier ou de suspendre l'accès immédiatement au compte principal et aux comptes secondaires de l’offre STUDIO FAMILLE, à tout moment, en cas de non-respect des critères d'éligibilité et de non-respect des présentes CGUV.
 
-### 21.4.3 Conditions d’utilisations de l’offre STUDIO FAMILLE
+### 21.4.3 Conditions d’utilisation de l’offre STUDIO FAMILLE
 
 L’offre STUDIO FAMILLE permet au titulaire d'un compte authentifié comme compte familial principal d'inviter jusqu'à cinq (5) personnes. Chaque membre de la famille aura un compte individuel avec un accès individuel au contenu musical proposé par QOBUZ.
 
@@ -952,9 +954,11 @@ Dans le cadre de l’offre STUDIO FAMILLE, il ne peut y avoir plus de trois (3) 
 
 L’offre STUDIO FAMILLE permet l’écoute de musique en ligne sur un maximum de six (6) appareils utilisés en simultané par famille.
 
-Aucun partage de compte ou d'abonnement n'est accepté ou autorisé comme indiqué dans les présentes CGUV. L'offre STUDIO FAMILLE est exclusivement destinée aux membres de la famille résidant à une même adresse.
+Aucun partage de compte ou d'abonnement n'est accepté ou autorisé comme indiqué dans les présentes CGUV. 
 
-XANDRIE SA se réserve le droit de faire tout ce qui est raisonnablement possible pour empêcher l'utilisation abusive de l’offre STUDIO FAMILLE, notamment par l’ajout d’abonnés secondaires qui ne font partie pas partie du même foyer ni de la même famille que l’abonné principal.
+L'offre STUDIO FAMILLE est exclusivement destinée aux membres de la famille résidant à une même adresse.
+
+XANDRIE SA se réserve le droit de faire tout ce qui est raisonnablement possible pour empêcher l'utilisation abusive de l’offre STUDIO FAMILLE, notamment par l’ajout d’abonnés secondaires qui ne font pas partie du même foyer ni de la même famille que l’abonné principal.
 
 Si avant de souscrire à l’offre STUDIO FAMILLE le Client avait déjà souscrit à une autre offre d’abonnement QOBUZ, il s’engage par les présentes CGUV à renoncer au remboursement de ladite offre.
 
@@ -1068,7 +1072,7 @@ Dans le cadre de l’offre SUBLIME DUO, l’abonné principal est responsable du
 
 XANDRIE SA se réserve le droit de résilier ou de suspendre l'accès immédiatement et à tout moment aux comptes principal et secondaires de l’offre DUO, en cas de non-respect des critères d'éligibilité et de non-respect des présentes CGUV.
 
-### 21.6.3 Conditions d’utilisations de l’offre SUBLIME DUO
+### 21.6.3 Conditions d’utilisation de l’offre SUBLIME DUO
 
 L’offre DUO permet au titulaire d'un compte authentifié comme compte principal d'inviter un (1) abonné secondaire. Chacun aura un compte individuel avec un accès individuel au contenu musical proposé par QOBUZ.
 
@@ -1078,7 +1082,7 @@ L’offre SUBLIME DUO permet l’écoute de musique en ligne sur un maximum de d
 
 Aucun partage de compte ou d'abonnement n'est accepté ou autorisé comme indiqué dans les présentes CGUV. L'offre SUBLIME DUO est exclusivement destinée aux abonnés résidant à une même adresse.
 
-XANDRIE SA se réserve le droit de faire tout ce qui est raisonnablement possible pour empêcher l'utilisation abusive l'utilisation abusive de l’offre SUBLIME DUO, notamment par l’ajout d’abonnés secondaires qui ne résident pas à la même adresse que le titulaire du compte principal.
+XANDRIE SA se réserve le droit de faire tout ce qui est raisonnablement possible pour empêcher l'utilisation abusive de l’offre SUBLIME DUO, notamment par l’ajout d’abonnés secondaires qui ne résident pas à la même adresse que le titulaire du compte principal.
 
 Si avant de souscrire à l’offre SUBLIME DUO le Client avait déjà souscrit à une autre offre d’abonnement QOBUZ, il s’engage par les présentes CGUV à renoncer au remboursement de ladite offre.
 
@@ -1149,15 +1153,19 @@ XANDRIE SA se réserve le droit de résilier ou de suspendre l'accès immédiate
 
 ### 21.7.3 Conditions d’utilisations de l’offre SUBLIME FAMILLE
 
-L’offre SUBLIME FAMILLE permet au titulaire d'un compte authentifié comme compte familial principal d'inviter jusqu'à cinq (5) personnes. Chaque membre de la famille aura un compte individuel avec un accès individuel au contenu musical proposé par QOBUZ.
+L’offre SUBLIME FAMILLE permet au titulaire d'un compte authentifié comme compte familial principal d'inviter jusqu'à cinq (5) personnes. 
+
+Chaque membre de la famille aura un compte individuel avec un accès individuel au contenu musical proposé par QOBUZ.
 
 Dans le cadre de l’offre SUBLIME FAMILLE, il ne peut y avoir plus de trois (3) appareils associés à chaque sous compte : deux (2) appareils mobiles, en plus de l'accès par ordinateur.
 
 L’offre SUBLIME FAMILLE permet l’écoute de musique en ligne sur un maximum de six (6) appareils utilisés en simultané par famille.
 
-Aucun partage de compte ou d'abonnement n'est accepté ou autorisé comme indiqué dans les présentes CGUV. L'offre SUBLIME FAMILLE est exclusivement destinée aux membres de la famille résidant à une même adresse.
+Aucun partage de compte ou d'abonnement n'est accepté ou autorisé comme indiqué dans les présentes CGUV. 
 
-XANDRIE SA se réserve le droit de faire tout ce qui est raisonnablement possible pour empêcher l'utilisation abusive de l’offre SUBLIME FAMILLE, notamment par l’ajout d’abonnés secondaires qui ne font partie pas partie du même foyer ni de la même famille que l’abonné principal.
+L'offre SUBLIME FAMILLE est exclusivement destinée aux membres de la famille résidant à une même adresse.
+
+XANDRIE SA se réserve le droit de faire tout ce qui est raisonnablement possible pour empêcher l'utilisation abusive de l’offre SUBLIME FAMILLE, notamment par l’ajout d’abonnés secondaires qui ne font pas partie du même foyer ni de la même famille que l’abonné principal.
 
 Si avant de souscrire à l’offre SUBLIME FAMILLE le Client avait déjà souscrit à une autre offre d’abonnement QOBUZ, il s’engage par les présentes CGUV à renoncer au remboursement de ladite offre.
 
@@ -1169,7 +1177,7 @@ XANDRIE SA se réserve le droit de proposer à ses Clients une offre d’essai o
 
 La période d'essai est réservée à tout nouvel abonné et chaque utilisateur a le droit à une (1) seule période d'essai.
 
-L‘offre d’essai ou de découverte peut être subordonnées à la saisie d’un moyen de paiement, sans que l’offres n'entraîne aucun prélèvement du Client pendant la durée spécifiée dans l’offre. Au terme de celle-ci, le moyen de paiement qui aura été renseigné par le Client sera réutilisé pour le renouvellement automatique de l’abonnement du Client au tarif de l’offre d’abonnement en vigueur au moment de la souscription de l’offre d’essai et de découverte. Pendant la durée de ces offres d’essai et de découverte du service de streaming QOBUZ, le Client peut résilier à tout moment son abonnement en cours.
+L‘offre d’essai ou de découverte peut être subordonnées à la saisie d’un moyen de paiement, sans que l’offre n'entraîne aucun prélèvement du Client pendant la durée spécifiée dans l’offre. Au terme de celle-ci, le moyen de paiement qui aura été renseigné par le Client sera réutilisé pour le renouvellement automatique de l’abonnement du Client au tarif de l’offre d’abonnement en vigueur au moment de la souscription de l’offre d’essai et de découverte. Pendant la durée de ces offres d’essai et de découverte du service de streaming QOBUZ, le Client peut résilier à tout moment son abonnement en cours.
 
 Ces offres d'essai ou de découverte seront également soumises à l'approbation sans restriction ni réserves des présentes CGUV.
 
