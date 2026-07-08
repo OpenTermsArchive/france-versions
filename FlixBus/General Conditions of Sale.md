@@ -211,4 +211,8 @@ II Dispositions dérogatoires des pays
 
 *   **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en Hongrie.
 
+**13\.  Finlande**
+
+*   **Concernant** **7** : Nonobstant toute disposition relative à la juridiction établie dans les présentes Conditions générales de vente et de réservation, si le passager est domicilié en Finlande, rien dans les présentes ne limite ou porte atteinte à ses droits en vertu de la loi finlandaise de protection des consommateurs, y compris celui de saisir le tribunal compétent de première instance (käräjäoikeus).  Le passager peut également saisir le Conseil des litiges de consommation finlandais (Kuluttajariitalautakunta).
+
 * * *
