@@ -216,7 +216,7 @@ Aigle – Service Juridique / Données personnelles
 
 Les données du Client sont conservées pendant la durée nécessaire à la gestion de la relation commerciale et pendant trois (3) ans à compter du dernier contact ou de la dernière commande.
 
-Pour plus d’informations, le Client est invité à consulter la [**Politique de Confidentialité**](https://www.aigle.com/politique-confidentialite) du Site.
+Pour plus d’informations, le Client est invité à consulter la [**Politique de Confidentialité**](https://www.aigle.com/fr/fr/privacy.html) du Site.
 
 ARTICLE 14. COOKIES
 -------------------
