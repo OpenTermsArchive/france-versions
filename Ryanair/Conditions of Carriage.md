@@ -1808,11 +1808,20 @@ OXYGÈNE
 
 =========
 
-Pour des raisons de sécurité, les passagers ne peuvent pas emporter leur propre oxygène à bord. Si vous avez besoin d’utiliser de l’oxygène à des fins médicales pendant le vol, vous devez nous en faire la demande, sans frais, au moment de votre réservation. Si vous n’en faites pas la demande au moment de la réservation, vous devrez le solliciter au moins trois jours avant votre voyage en contactant votre centre d’appels local ou en envoyant un e-mail à notre équipe Assistance voyage. Dans ce cas, vous devrez payer des frais pour l’oxygène.
+Pour des raisons de sécurité, les passagers ne peuvent pas emporter leur propre oxygène à bord. Si vous avez besoin d’utiliser de l’oxygène à des fins médicales pendant le vol, vous devez nous en faire la demande au moment de votre réservation. Si vous n’en faites pas la demande au moment de la réservation, vous devrez la faire au moins trois jours avant votre voyage en contactant notre équipe Assistance voyage. Dans ce cas, vous devrez payer des frais pour l’oxygène.
 
-Les passagers ayant besoin d’oxygène doivent être munis d’une lettre en anglais de leur médecin (datée de moins de 2 semaines avant la date de vol prévue) confirmant qu’ils sont aptes à voyager, qu’ils n’ont pas besoin d’un approvisionnement continu en oxygène pendant plus de 250 minutes à 2 litres par minute et que l’oxygène que nous fournissons est adapté à leurs besoins.  
+En vertu des réglementations de sécurité, nous ne pouvons fournir de l’oxygène qu’à un seul passager sur chaque vol.
 
-Sans cette lettre, les passagers ne seront pas autorisés à voyager.Pour des raisons de sécurité, les passagers ne peuvent pas emporter leur propre oxygène à bord. Si vous avez besoin d’utiliser de l’oxygène à des fins médicales pendant le vol, vous devez nous en faire la demande, sans frais, au moment de votre réservation. Si vous n’en faites pas la demande au moment de la réservation, vous devrez le solliciter au moins trois jours avant votre voyage en contactant votre centre d’appels local ou en envoyant un e-mail à notre équipe Assistance voyage. Dans ce cas, vous devrez payer des frais pour l’oxygène.
+Si nous acceptons de vous fournir de l’oxygène, vous devez être en possession d’une lettre de votre médecin, rédigée en anglais, attestant que :  
+ 
+
+*   vous êtes apte à voyager ;
+*   vous n’avez pas besoin d’une alimentation continue en oxygène pendant plus de 250 minutes à un débit de 2 litres par minute ; et
+*   l’oxygène que nous fournissons vous convient.
+
+Vous ne pourrez pas prendre le vol sans cette lettre.
+
+Remarque : l’oxygène ne peut pas être fourni sur les vols Ryanair opérés par Lauda Europe.
 
 MALADIES INFECTIEUSES ET MALADIES DE LA PEAU
 
