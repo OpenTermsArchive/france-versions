@@ -103,87 +103,87 @@ Présentation
 
 22.4.1     Description et disponibilité de l’offre STUDIO FAMILLE
 
-21.4.2     Conditions d’accès à l’offre STUDIO FAMILLE
+22.4.2     Conditions d’accès à l’offre STUDIO FAMILLE
 
-21.4.3     Conditions d’utilisation de l’offre STUDIO FAMILLE
+22.4.3     Conditions d’utilisation de l’offre STUDIO FAMILLE
 
-21.4.4     Durée
+22.4.4     Durée
 
-21.4.5     Renouvellement
+22.4.5     Renouvellement
 
-21.4.6     Résiliation
+22.4.6     Résiliation
 
-### 21.5 QOBUZ SUBLIME SOLO
-
-* * *
-
-Présentation
-
-21.5.1     Durée
-
-21.5.2     Renouvellement
-
-21.5.3     Résiliation
-
-### 21.6 QOBUZ SUBLIME DUO
+### 22.5 QOBUZ SUBLIME SOLO
 
 * * *
 
 Présentation
 
-21.6.1 Description et disponibilité des offres SUBLIME DUO
+22.5.1     Durée
 
-21.6.2 Conditions d’accès aux offres SUBLIME DUO
+22.5.2     Renouvellement
 
-21.6.3 Conditions d’utilisation des offres SUBLIME DUO
+22.5.3     Résiliation
 
-21.6.4 Durée
-
-21.6.5 Renouvellement
-
-21.2.6 Résiliation
-
-### 21.7 QOBUZ SUBLIME FAMILLE
+### 22.6 QOBUZ SUBLIME DUO
 
 * * *
 
 Présentation
 
-21.7.1     Description et disponibilité de l’offre SUBLIME FAMILLE
+22.6.1 Description et disponibilité des offres SUBLIME DUO
 
-21.7.2     Conditions d’accès à l’offre SUBLIME FAMILLE
+22.6.2 Conditions d’accès aux offres SUBLIME DUO
 
-21.7.3     Conditions d’utilisation de l’offre SUBLIME FAMILLE
+22.6.3 Conditions d’utilisation des offres SUBLIME DUO
 
-21.7.4     Durée
+22.6.4 Durée
 
-21.7.5     Renouvellement
+22.6.5 Renouvellement
 
-21.7.6     Résiliation
+22.6.6 Résiliation
 
-### 21.8 TÉLÉCHARGEMENT QOBUZ
-
-* * *
-
-21.8.1     Description de l’offre de téléchargement
-
-21.8.2     Conditions d’accès à l’offre de téléchargement
-
-21.8.3     Conditions d’utilisation de l’offre de téléchargement
-
-21.8.4     Commandes et moyens de paiement
-
-### 21.9 QOBUZ STUDENT
+### 22.7 QOBUZ SUBLIME FAMILLE
 
 * * *
 
-21.9.1     Description et disponibilité de l’offre QOBUZ STUDENT
+Présentation
 
-21.9.2     Conditions d’accès à l’offre QOBUZ STUDENT
+22.7.1     Description et disponibilité de l’offre SUBLIME FAMILLE
 
-21.9.3     Durée
+22.7.2     Conditions d’accès à l’offre SUBLIME FAMILLE
 
-21.9.4     Renouvellement
+22.7.3     Conditions d’utilisation de l’offre SUBLIME FAMILLE
+
+22.7.4     Durée
+
+22.7.5     Renouvellement
+
+22.7.6     Résiliation
+
+### 22.8 TÉLÉCHARGEMENT QOBUZ
+
+* * *
+
+22.8.1     Description de l’offre de téléchargement
+
+22.8.2     Conditions d’accès à l’offre de téléchargement
+
+22.8.3     Conditions d’utilisation de l’offre de téléchargement
+
+22.8.4     Commandes et moyens de paiement
+
+### 22.9 QOBUZ STUDENT
+
+* * *
+
+22.9.1     Description et disponibilité de l’offre QOBUZ STUDENT
+
+22.9.2     Conditions d’accès à l’offre QOBUZ STUDENT
+
+22.9.3     Durée
+
+22.9.4     Renouvellement
 
 **Préambule**
 =============
