@@ -14,7 +14,7 @@ DEFINITIONS
   
 **Marketplace :** désigne la plateforme en ligne accessible à l’adresse suivante : https://www.vertbaudet.fr/ et constituée des pages web, Services et fonctionnalités proposés aux Utilisateurs  
   
-**Programme de fidélité  :** désigne le Programme de Fidélité VERTBAUDET intitulé ![Club Vertbaudet](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/33715/144402754/logo-club-vb-vert.svg)  
+**Programme de fidélité  :** désigne le Programme de Fidélité VERTBAUDET intitulé ![Club Vertbaudet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)  
   
 **Responsable de traitement :** Au sens du RGPD, le responsable de traitement est la personne morale (entreprise, commune, etc.) ou physique qui détermine les finalités et les moyens d’un traitement.  
   
@@ -430,7 +430,7 @@ Vous pouvez les exercer, sous réserve de la fourniture d’une pièce justifica
 *   Vous désabonner des offres commerciales envoyées par email en cliquant sur le lien de désabonnement figurant en bas de chaque email publicitaire envoyé,
 *   Vous désabonner des offres commerciales envoyées par SMS en répondant répondre « STOP» sur un numéro non surtaxé
 *   Déterminer vos préférences en matière de Cookies selon les modalités décrites ci-dessus
-*   Contacter le délégué à la protection des données à l’adresse suivante : [dpo@vertbaudet.com](https://www.vertbaudet.fr/page/dpo@vertbaudet.com).
+*   Contacter le délégué à la protection des données à l’adresse suivante : [\[email protected\]](https://www.vertbaudet.fr/page/dpo@vertbaudet.com).
 *   Nous écrire à l’adresse postale suivante VERTBAUDET – Relations Clients – 36, avenue Alfred Lefrançois – 59200 Tourcoing
 
 N'oubliez pas de mentionner toutes vos coordonnées (nom, prénom, adresse, email et si possible n° de client...) afin que nous puissions faire le nécessaire dans les meilleurs délais.
