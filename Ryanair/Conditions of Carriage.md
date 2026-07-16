@@ -1983,21 +1983,17 @@ EUR
 
 Sieges avec plus d’espace pour les jambes
 
-Rangée 1, 2 (D,E,F) & 16-17
-
-€/£11-€/£33
+€/£8 -€/£36.5
 
 (par vol)
 
-€/£11-€/£33
+€/£8.5-€/£38
 
 (par vol)
 
 Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés. La numérotation des rangées et le plan des sièges peuvent varier en fonction du type d’avion.
 
 Sièges à l’avant
-
-Rangée 2 (A,B,C) - 5
 
 € / £ 7-€/£21
 
@@ -2010,8 +2006,6 @@ Rangée 2 (A,B,C) - 5
 Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés. La numérotation des rangées et le plan des sièges peuvent varier en fonction du type d’avion.
 
 Sièges standard
-
-Rangée 6-15 & 18-33
 
 € / £ 4.50-€/£15.50
 
