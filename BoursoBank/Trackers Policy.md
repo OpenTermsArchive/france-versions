@@ -130,6 +130,11 @@ Les principaux cookies strictement nécessaires à la fourniture des services et
 | Portail Non Connecté | web\_fr\_portal\_20.last\_viwed-symbols | Boursorama | Affichage de la liste des dernières valeurs financières consultées | localStorage\* |
 | Portail Non Connecté  <br>Site Vitrine | \_cookie\_test | Boursorama | Cookie technique qui permet de vérifier sur le navigateur le dépôt de cookie | 1 seconde |
 | Portail Non Connecté | brswall | Boursorama | Gestion de l'affichage du bandeau en cas de refus de consentement aux cookies | localStorage\* |
+| Espace Client | \_brs\_mit | Boursorama | Protection du site contre les accès automatisés malveillants | Session |
+| Espace Client | boursorama\_guidedtour\_remains | Boursorama | Gestion de l'affichage de la visite guidée du site | Session |
+| Espace Client | brswpaa | Boursorama | Mémorisation du mode d'authentification sélectionné | 3 mois |
+| Espace Client | RT  | Boursorama | Surveillance des performances techniques du site | 7 jours |
+| Portail Non Connecté | x-domain-status | Boursorama | Gestion des redirections de navigation | 24 heures |
 
 \* le localStorage est un espace de stockage interne au navigateur qui permet d'enregistrer certaines informations techniques. Les données qui y sont stockées restent sur l'appareil de l'utilisateur tant que celui-ci ne les supprime pas manuellement ou ne réinitialise pas les paramètres de son navigateur.
 
@@ -202,8 +207,8 @@ Dans le cadre de Votre navigation sur les Sites, Boursorama est susceptible, sou
 
 Nos partenaires privilégiés publicitaires sont notamment :
 
-*   pour le Portail Non Connecté : Google/DoubleClick, Outbrain, Smart Adserver, Teads, Mediasquare, Adagio, Amazon, 1plusX, Digiteka/Ultimedia, BeOP, Integral Ad Science, Invibes, Critéo, PubStack, Triplelift, Adyoulike, Pubmatic, The Trade desk, Hawk, ACPM, Trustpilot
-*   pour le Site Vitrine : Google/Doubleclick, Facebook, Awin, Outbrain, Snapchat
+*   pour le Portail Non Connecté : Google/DoubleClick, Smart Adserver, Digiteka/Ultimedia, Integral Ad Science, Trustpilot
+*   pour le Site Vitrine : Google/Doubleclick, Meta, Awin, Snapchat
 *   pour le Sas : Google (RLSA)
 *   pour le Parcours App : Adjust
 
