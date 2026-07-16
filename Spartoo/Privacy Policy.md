@@ -233,23 +233,22 @@ La société SPARTOO utilise un registre de traitement des violations des donné
   
 SPARTOO rappelle en outre l’importance de se prémunir contre l’accès non autorisé à votre compte client et du caractère confidentiel de votre mot de passe.  
 
-10Cookies\*
------------
+10Cookies et autres traceurs
+----------------------------
 
-Afin de permettre à nos systèmes de reconnaître votre navigateur ou votre appareil et de vous fournir les services de SPARTOO nous utilisons des « cookies ».  
+Afin de permettre à nos systèmes de reconnaître votre navigateur ou votre appareil et de vous fournir les services de SPARTOO nous utilisons des « cookies » ainsi que d'autres technologies similaires de suivi, telles que des pixels et des tags (ci-après les "cookies et autres traceurs").  
   
-Ces « cookies » sont mis en place dans le but de mieux vous servir.  
-Nous mesurons le nombre de pages vues, le nombre de visites, ainsi que l’activité des visiteurs sur le Site et leur fréquence de retour. A cet effet, nous utilisons la technologie des « cookies ». Un cookie ne nous permet pas de vous identifier. De manière générale, il enregistre des informations relatives à la navigation de votre ordinateur sur notre site (les pages que vous avez consultées, la date et l’heure de la consultation, etc.) que nous pourrons lire lors de vos visites ultérieures.  
+Ces "cookies et autres traceurs" sont mis en place dans le but de mieux vous servir.  
+Nous mesurons le nombre de pages vues, le nombre de visites, ainsi que l’activité des visiteurs sur le Site et dans les communications par emails, ainsi que leur fréquence de retour. À cet effet, nous utilisons la technologie des « cookies » ainsi que d'autres traceurs. Un cookie ne nous permet pas de vous identifier. De manière générale, il enregistre des informations relatives à la navigation de votre ordinateur sur notre site (les pages que vous avez consultées, la date et l’heure de la consultation, etc.) que nous pourrons lire lors de vos visites ultérieures.  
   
-Les données collectées par les cookies sont uniquement et strictement destinées à un usage interne et ne sont jamais transmises à des tiers. L'utilisation de cookies, propres ou tiers, n'étant pas nécessaire au fonctionnement du site nécessite un consentement exprès de votre part.  
+Les données collectées par les cookies sont uniquement et strictement destinées à un usage interne et ne sont jamais transmises à des tiers. L'utilisation de cookies et autres traceurs, propres ou tiers, n'étant pas nécessaire au fonctionnement du site nécessite un consentement exprès de votre part.  
   
 Vous pouvez manifester votre consentement ou vous opposer à l'utilisation de cookies en paramétrant votre navigateur de manière appropriée. Reportez-vous pour cela aux guides d'utilisation de votre navigateur.  
   
-Certains cookies appelés "cookie de publicité" nous permettent de suivre votre navigation et enregistrer les produits vus, puis dans un délai maximum de 90 jours de vous présenter des bannières publicitaires en rapport, ou non, avec votre navigation passée. Ces cookies sont liés à votre profil internet (mais ne permettent pas de vous identifier). Ils requièrent également votre consentement exprès de la même façon qu'indiqué ci-dessus. Si vous ne désirez pas ou plus recevoir ces "cookies de publicité", cliquez sur le lien ci-après:  
+Certains cookies et autres traceurs, appelés "cookie de publicité" nous permettent de suivre votre navigation et enregistrer les produits vus, puis dans un délai maximum de 90 jours de vous présenter des bannières publicitaires en rapport, ou non, avec votre navigation passée. Ces cookies sont liés à votre profil internet (mais ne permettent pas de vous identifier). Ils requièrent également votre consentement exprès de la même façon qu'indiqué ci-dessus. Si vous ne désirez pas ou plus recevoir ces "cookies de publicité", cliquez sur le lien ci-après:  
   
 [Désactiver les cookies de publicité sur mon profil](https://www.spartoo.com/compte.php?category=MyAccount&action=my_cookies)  
   
-\*Nous sommes parallèlement en cours de mise à jour de notre Politique de confidentialité s’agissant des cookies et traceurs.
 
 11Droit d’accès et de rectification
 -----------------------------------
