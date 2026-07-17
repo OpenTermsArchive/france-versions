@@ -217,6 +217,8 @@ Afin d’assurer la sécurité des paiements lors des transactions sur le site, 
 
 Dès lors, si une commande ne présente pas toutes les garanties nécessaires pour assurer un paiement conforme et sécurisé, VERTBAUDET se réserve le droit d’annuler la commande ou de vous demander des informations et documents complémentaires afin de valider la commande.
 
+Notre partenaire Oneytrust, en sa qualité de responsable de traitement, traite les données en rapport avec votre opération pour lutter contre les risques de fraude à l'identité, au paiement ou au remboursement. En savoir plus sur la gestion de vos données par Oneytrust et vos droits [https://oneytrust.com/mention-information-score-et-review/](https://oneytrust.com/mention-information-score-et-review/).
+
 ### 3.2. Sécurité des paiements
 
 Nous nous engageons à assurer la sécurité de vos données à caractère personnel via des procédures strictes au sein de notre entreprise.  
