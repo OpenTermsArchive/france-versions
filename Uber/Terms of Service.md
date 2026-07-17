@@ -13,16 +13,16 @@ Nous sommes Uber B.V., société à responsabilité limitée établie aux Pays-B
   
 Le numéro d’identification à la TVA de la société est NL852071589B01.  
   
-Vous pouvez nous contacter:  
-sur help.uber.com.  
-par e-mail: [customer.inquiries@uber.com](mailto:customer.inquiries@uber.com)  
-par téléphone: +33805088898  
+Vous pouvez nous contacter :  
+sur help.uber.com  
+par e-mail : [customer.inquiries@uber.com](mailto:customer.inquiries@uber.com)  
+par téléphone : +33805088898  
   
 Le site internet est hébergé par Uber Technologies Inc., société de droit américain dont le siège social est situé 1725 Third Street, San Francisco, CA, États-Unis.
 
 **PRINCIPES CLÉS**
 
-\- Les présentes conditions générales (“**Conditions**”) s’appliquent aux applications mobiles et/ou aux sites internet d’Uber en France.  
+\- Les présentes conditions générales (« **Conditions** ») s’appliquent aux applications mobiles et/ou aux sites internet d’Uber en France.  
 
 \- Les Services App(s)/Site(s) Web vous permettent de solliciter des services auprès de Prestataires Tiers ou directement auprès d’Uber. Ces services sont fournis ou mis à disposition sous les marques d’Uber, notamment UBER, UBERX et UBER EATS.  
 
@@ -104,7 +104,7 @@ Pour les Services Fournis par Uber, Uber agit en qualité de prestataire de serv
 
 **5.6.** Nous pouvons restreindre temporairement, votre accès et votre utilisation des Services App(s)/Site(s) Web en cas d’indices graves de violation de vos obligations prévues au sein des articles 5 « Utilisation des Services App(s)/Sites Web », 7 « vos obligations », 8 « Frais et paiement », 11 « Propriété intellectuelle », figurant au sein des présentes Conditions, y compris lorsque nous recevons une réclamation liée à un acte frauduleux, pendant la durée nécessaire à la vérification des informations relatives à la violation présumée desdites obligations, laquelle n'excédera trois (3) mois. Uber vous informera qu’une réclamation est en cours et, le cas échéant, que votre accès et votre utilisation des Services App(s)/Site(s) Web sont temporairement restreints – sauf dans l’hypothèse où Uber ne pourrait légalement vous communiquer ces informations (par exemple dans le cadre d’une enquête de police ou d’une instruction judiciaire). Uber vous informera également de la levée de ces restrictions.
 
-**6\. Systèmes de Recommandations.**
+**6\. Systèmes de Recommandations**
 
 Lorsque vous utilisez les Services App(s)/Site(s) Web en France, que nous mettons à votre disposition sous les différentes marques Uber, nous pouvons vous faire des recommandations concernant certains Services de Tiers et/ou des Services Fournis par Uber que nous jugeons pertinents et susceptibles de vous intéresser. Ces recommandations peuvent concerner des établissements (par exemple des restaurants), des produits (par exemple certains produits alimentaires) ou des services de transports fournis par des Prestataires Tiers (par exemple UberX, Comfort, Green, etc.). Les recommandations qui s'affichent dépendent de plusieurs facteurs, mais les principaux sont les suivants :
 
@@ -120,9 +120,9 @@ Lorsque vous utilisez les Services App(s)/Site(s) Web en France, que nous metton
 
 **6.2. Uber :**
 
-**Choix précédents** : L’option de transport que vous utilisez le plus souvent, ou des options de transport dans une fourchette de prix similaire, sont plus susceptibles de vous être recommandées lors de vos prochaines courses. Si votre historique de courses est inexistant ou limité, les recommandations peuvent concerner des options de transport généralement populaires.
+**Choix précédents** : L’option de transport que vous utilisez le plus souvent, ou des options de transport dans une fourchette de prix similaire, sont plus susceptibles de vous être recommandées lors de vos prochaines courses. Si votre historique des trajets est inexistant ou limité, les recommandations peuvent concerner des options de transport généralement populaires.
 
-**Facteurs contextuels**: Votre position, ainsi que le jour et l'heure de votre demande, nous permettent de vous recommander les options de transport les plus rapidement disponibles, en fonction de l'offre disponible, au moment de votre demande de course. Par exemple, si la plupart des chauffeurs disponibles à proximité du lieu de prise en charge demandé conduisent avec un véhicule de la gamme Berline, nous sommes plus susceptibles de vous recommander Berline. De même, les options de transport pouvant vous permettre d’arriver plus rapidement sur le lieu de dépose demandé sont plus susceptibles de vous être recommandées que celles dont l'heure d'arrivée estimée est plus tardive.
+**Facteurs contextuels** : Votre position, ainsi que le jour et l'heure de votre demande, nous permettent de vous recommander les options de transport les plus rapidement disponibles, en fonction de l'offre disponible, au moment de votre demande de course. Par exemple, si la plupart des chauffeurs disponibles à proximité du lieu de prise en charge demandé conduisent avec un véhicule de la gamme Berline, nous sommes plus susceptibles de vous recommander Berline. De même, les options de transport pouvant vous permettre d’arriver plus rapidement sur le lieu de dépose demandé sont plus susceptibles de vous être recommandées que celles dont l'heure d'arrivée estimée est plus tardive.
 
 **7\. Vos obligations**
 
@@ -134,9 +134,9 @@ Lorsque vous utilisez les Services App(s)/Site(s) Web en France, que nous metton
 
 \- Vous ne pouvez pas enregistrer plus d’un compte, sauf accord écrit contraire de notre part ;
 
-\- Vous ne pouvez pas autoriser des tiers à utiliser votre compte, ni transférer votre compte à un tiers;
+\- Vous ne pouvez pas autoriser des tiers à utiliser votre compte, ni transférer votre compte à un tiers ;
 
-\- Vous devez veiller à ce que les informations relatives à votre compte soient exactes, complètes et à jour;
+\- Vous devez veiller à ce que les informations relatives à votre compte soient exactes, complètes et à jour ;
 
 \- Vous ne devez pas divulguer vos informations de connexion confidentielles ;
 
@@ -151,7 +151,7 @@ Lorsque vous utilisez les Services App(s)/Site(s) Web en France, que nous metton
 
 **8.1. Frais liés aux Services App(s)/Site(s) Web**
 
-**8.1.1.** Vous ne serez pas facturé pour l’utilisation des Services App(s)/Site(s) Web. Sous réserve de votre accord préalable et exprès, nous nous réservons le droit d’introduire des frais d’utilisation. À défaut d’accord, , vous ne pourrez plus accéder aux Services App(s)/Site(s) Web ou les utiliser.
+**8.1.1.** Vous ne serez pas facturé pour l’utilisation des Services App(s)/Site(s) Web. Sous réserve de votre accord préalable et exprès, nous nous réservons le droit d’introduire des frais d’utilisation. À défaut d’accord, vous ne pourrez plus accéder aux Services App(s)/Site(s) Web ou les utiliser.
 
 **8.1.2.** Par exception au paragraphe précédent, dans le cadre de l’achat de biens et de services de livraison auprès d’un Prestataire tiers sur l’application ou le site web Uber Eats, vous serez facturé d’un prix pour l’utilisation des Services App(s)/Site(s) Web. Le montant de ce prix vous sera annoncé dans la page de paiement, avant que vous ne complétiez votre achat
 
@@ -175,7 +175,7 @@ Lorsque vous utilisez les Services App(s)/Site(s) Web en France, que nous metton
 
 **8.3.1.** Pour plus d’informations sur les frais et les frais supplémentaires et/ou sur les pénalités spécifiques à chaque Service de Tiers ou Service Fourni par Uber, veuillez consulter la section « assistance » dans les applications mobiles et/ou sur les sites internet d’Uber (comme Aide) ou les pages correspondantes de notre (nos) site(s) internet Uber et Uber Eats.
 
-**8.3.2.** Les frais sont susceptibles d’être modifiés dans les applications mobiles et/ou sur les sites internet d’Uber et ces modifications vous seront applicables sous réserve de votre accord préalable et exprès(par email ou notification sur les applications mobiles et/ou sur les sites internet d’Uber). À défaut d’accord vous ne pourrez plus utiliser les Services App(s)/Web.
+**8.3.2.** Les frais sont susceptibles d’être modifiés dans les applications mobiles et/ou sur les sites internet d’Uber et ces modifications vous seront applicables sous réserve de votre accord préalable et exprès (par email ou notification sur les applications mobiles et/ou sur les sites internet d’Uber). À défaut d’accord vous ne pourrez plus utiliser les Services App(s)/Web.
 
 **8.3.3.** Les frais ne comprennent pas les pourboires. S’il y a lieu, vous pouvez octroyer des pourboires, soit directement, soit en passant par les applications mobiles et/ou les sites internet d’Uber. Nous collecterons les pourboires versés au moyen des applications mobiles et/ou des sites internet d’Uber pour votre compte et les remettrons à leurs destinataires.
 
@@ -219,11 +219,11 @@ Les Services App(s)/Site(s) Web peuvent faire l’objet de limitations, de retar
 
 **15.4.** Nous ne sommes pas responsables des retards ou des défaillances d’exécution résultant d’un cas de force majeure.
 
-**15.5.** Pour les utilisateurs des Services App(s)/Site(s) Web n’agissant pas en qualité de consommateur, notre responsabilité totale envers vous pour l’utilisation des applications mobiles et/ou des sites internet d’Uber (et ce, nonobstant tout autre accord entre nous dans lequel les dispositions en matière de responsabilité sont régies par un accord séparé) sera limitée à cinq cents euros (500 €). Nous excluons en outre toute garantie et déclinons toute responsabilité pour tout acte ou omission de votre part ou de celle d’un tiers.
+**15.5.** Pour les utilisateurs des Services App(s)/Site(s) Web n’agissant pas en qualité de consommateur, notre responsabilité totale envers vous pour l’utilisation des applications mobiles et/ou des sites internet d’Uber (et ce, nonobstant tout autre accord entre nous dans lequel les dispositions en matière de responsabilité sont régies par un accord séparé) sera limitée à cinq cents euros (500 EUR). Nous excluons en outre toute garantie et déclinons toute responsabilité pour tout acte ou omission de votre part ou de celle d’un tiers.
 
 **15.6.** Uber s’engage à l’égard du consommateur de la bonne exécution des Services App(s)/Site(s) Web. Le Prestataire Tiers est tenu de respecter les obligations qui découlent de la fourniture des Services de Tiers et notamment la qualité des services (qualité, adéquation). Il est rappelé au consommateur utilisateur que s’agissant des Prestations de Tiers, il conclut un contrat directement avec le Prestataire Tiers.
 
-**15.7.** S’agissant des Services de transports fournis par les Prestataires Tiers exerçant dans le secteur du transport public particulier de personnes et utilisant les applications mobiles et/ou les sites internet d’Uber, Uber s’engage solidairement avec le Prestataire Tiers à la bonne exécution des obligations résultant du service de transport réalisé en France à la suite d’une réservation effectuée par le biais des Services App(s)/ Site Web dans les conditions prévues au sein du Titre IV du code des transports relatif aux activités de mise en relation. Il est par ailleurs rappelé à ce titre qu’Uber ne fournit pas de services de transport mais bien des services dits de "centrale de réservation" au sens du droit français applicable.
+**15.7.** S’agissant des Services de transports fournis par les Prestataires Tiers exerçant dans le secteur du transport public particulier de personnes et utilisant les applications mobiles et/ou les sites internet d’Uber, Uber s’engage solidairement avec le Prestataire Tiers à la bonne exécution des obligations résultant du service de transport réalisé en France à la suite d’une réservation effectuée par le biais des Services App(s)n/ Site Web dans les conditions prévues au sein du Titre IV du code des transports relatif aux activités de mise en relation. Il est par ailleurs rappelé à ce titre qu’Uber ne fournit pas de services de transport mais bien des services dits de « centrale de réservation » au sens du droit français applicable.
 
 **15.8.** La responsabilité d’Uber ne saurait être engagée en tout ou partie en cas d’inexécution ou de mauvaise exécution des services lorsque cette inexécution ou mauvaise exécution vous est imputable, ou lorsque cette inexécution ou mauvaise exécution résulte d’un fait imprévisible et insurmontable d’un tiers étranger à la fourniture des services, ou encore en cas de force majeure.
 
@@ -243,7 +243,7 @@ Les Services App(s)/Site(s) Web peuvent faire l’objet de limitations, de retar
 
 **17\. Général**
 
-**17.1.** Uber se réserve le droit de modifier les présentes Conditions. Nous vous informerons de ces modifications par email avant leur entrée en vigueur dans un délai raisonnable. Vous serez lié par ces modifications une fois que vous les aurez acceptées dans les applications mobiles et/ou sur les sites internet d’Uber et/ou par email, le cas échéant. Si vous n’êtes pas d’accord avec ces modifications, vous êtes libre de clôturer votre compte conformément à l’article 16.1.
+**17.1.** Uber se réserve le droit de modifier les présentes Conditions. Nous vous informerons de ces modifications par e-mail avant leur entrée en vigueur dans un délai raisonnable. Vous serez lié par ces modifications une fois que vous les aurez acceptées dans les applications mobiles et/ou sur les sites internet d’Uber et/ou par email, le cas échéant. Si vous n’êtes pas d’accord avec ces modifications, vous êtes libre de clôturer votre compte conformément à l’article 16.1.
 
 **17.2.** En cas de nullité d’une clause des présentes Conditions, l’intention des parties est que les dispositions restantes des Conditions générales demeurent en vigueur. Si vous utilisez les Services App(s)/Site(s) Web en qualité de consommateur, la validité et l’opposabilité des autres clauses des présentes Conditions sera en cas de nullité d’une clause des présentes Conditions le cas échéant décidée par le juge ayant statué sur la nullité de ladite clause. Toute clause invalide, illégale ou inopposable sera considérée comme supprimée.
 
@@ -263,7 +263,7 @@ Si vous utilisez UBER EATS, vous pouvez signaler tout contenu affiché sur l'app
 
 **19.1.** Uber vous propose un service client permettant de traiter l’essentiel de vos questions ou demandes relatives à l'utilisation des Services App(s)/Site(s) Web. Toutefois, le contrat de vente à distance pour les Services de Tiers est établi entre le Prestataire Tiers et vous directement. En conséquence, tout litige concernant les Services de Tiers sera réglé directement entre le Prestataire Tiers et vous.
 
-**19.2.** Uber peut mettre à la disposition des utilisateurs agissant en tant que consommateurs un système de médiation pour les litiges en matière de consommation liés aux Services App(s)/Site(s) Web ou aux présentes Conditions en vue de leur résolution à l’amiable. Conformément au code de la consommation, pour tout différend de nature contractuelle relatif à l’utilisation des Services App(s)/Site(s) Web en France qui n’aurait pas pu être résolu dans le cadre d’une réclamation préalablement soumise au service clientèle d’Uber, le consommateur pourra, sans que cette procédure de médiation ne soit un préalable obligatoire à l’exercice d’une action en justice, recourir gratuitement au médiateur suivant : Association Nationale des Médiateurs (ANM), qu’il devra contacter soit en envoyant un courrier à l’adresse suivante : 62 rue Tiquetonne - 75002 Paris - France, soit par email en remplissant le formulaire de saisine en ligne disponible à l’adresse suivante : https://www.anm-conso.com. Uber ne s’engage pas à utiliser une plateforme de résolution en ligne des litiges pour résoudre les litiges de consommation.
+**19.2.** Uber peut mettre à la disposition des utilisateurs agissant en tant que consommateurs un système de médiation pour les litiges en matière de consommation liés aux Services App(s)/Site(s) Web ou aux présentes Conditions en vue de leur résolution à l’amiable. Conformément au code de la consommation, pour tout différend de nature contractuelle relatif à l’utilisation des Services App(s)/Site(s) Web en France qui n’aurait pas pu être résolu dans le cadre d’une réclamation préalablement soumise au service clientèle d’Uber, le consommateur pourra, sans que cette procédure de médiation ne soit un préalable obligatoire à l’exercice d’une action en justice, recourir gratuitement au médiateur suivant : Association Nationale des Médiateurs (ANM), qu’il devra contacter soit en envoyant un courrier à l’adresse suivante : 62 rue Tiquetonne - 75002 Paris - France, soit par e-mail en remplissant le formulaire de saisine en ligne disponible à l’adresse suivante : https://www.anm-conso.com. Uber ne s’engage pas à utiliser une plateforme de résolution en ligne des litiges pour résoudre les litiges de consommation.
 
 **20\. Droit applicable et juridiction compétente**
 
