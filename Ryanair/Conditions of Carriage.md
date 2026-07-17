@@ -1913,15 +1913,20 @@ SIÈGES ATTRIBUÉS
 
 ==================
 
-Sièges de la rangée de devant à €/£ 14 - Rangées 1 & 2 D, E, F (sortie rapide). 
+Vous pouvez réserver le siège de votre choix, moyennant des frais, au moment de la réservation ou dans la section « Gérer mes réservations » jusqu’à deux heures avant le départ prévu.
 
-Sièges premium à €/£ 7 - Rangées 2 (A, B, C), 3 - 5 (espace pour les jambes).  
+Trois types de sièges sont disponibles à la réservation : Sièges avec espace supplémentaire pour les jambes, sièges à l’avant et sièges standard.  
+  
+Les catégories de sièges, y compris les sièges avec espace supplémentaire pour les jambes, les sièges à l’avant et les sièges standard, peuvent varier selon le type d’avion assurant votre vol. La catégorie applicable pour chaque siège de votre vol correspond à celle affichée sur le plan de cabine durant la réservation, la sélection de siège, l’enregistrement ou le changement de siège.  
+  
+Les clients qui modifient les dates ou les itinéraires de leur vol peuvent ne pas transférer leur siège réservé vers la nouvelle date ou le nouveau vol, mais se verront attribuer, sous réserve de disponibilité, un nouveau siège du même type.  
+  
+Si l’avion utilisé pour votre vol change, votre numéro de siège et/ou les caractéristiques de votre siège sont susceptibles d’être modifiés. Si vous avez acheté un siège avec espace supplémentaire pour les jambes et que, pour des raisons qui nous sont imputables, nous ne fournissons pas un siège équivalent avec espace supplémentaire pour les jambes, vous avez droit au remboursement des frais payés pour ce siège, conformément à l’article 4.2.3 des présentes Conditions.   
+  
+Nous ne rembourserons pas les frais pour les sièges réservés, sauf dans les cas où les articles 4.2, 10.2, 10.3 ou 10.4 des conditions générales s’appliquent.
 
-Sièges standard à partir de €/£ 3 - Rangées 6-15 et rangées 18-33.  
-
-Les frais de réservation de sièges ne sont pas remboursables, sauf dans les cas prévus dans les articles 4.2, 10.2, 10.3 et 10.4.  
-
-Les clients qui ne souhaitent pas choisir et réserver un siège peuvent s’enregistrer en ligne entre 4 jours et 2 heures avant chaque vol réservé et se verront attribuer gratuitement un siège au hasard.  
+**REMARQUE**: les clients qui changent de date / d'itinéraire de vol peuvent ne pas être en mesure de transférer leur siège réservé vers la nouvelle date / vol mais se verront attribuer un nouveau siège du même type, sous réserve de disponibilité.  
+ 
 
 Procédure d’enregistrement en ligne  
 
@@ -1929,9 +1934,7 @@ Vous pouvez vous enregistrer en ligne entre 60 jours et deux heures avant l’
 
 ou  
 
-Si vous décidez de ne pas acheter de siège, vous pourrez vous enregistrer entre 24 et 2 heures avant chaque départ pour les réservations effectuées à partir du 28 janvier 2021 et un siège vous sera attribué (gratuitement). Pour les réservations effectuées avant le 28 janvier 2021, vous pourrez vous enregistrer en ligne entre 2 jours et 2 heures avant chaque vol et un siège vous sera attribué (gratuitement).   
-
-**REMARQUE:** les clients qui changent de date / d'itinéraire de vol peuvent ne pas être en mesure de transférer leur siège réservé vers la nouvelle date / vol mais se verront attribuer un nouveau siège du même type, sous réserve de disponibilité.
+Si vous décidez de ne pas acheter de siège, vous pourrez vous enregistrer entre 24 et 2 heures avant chaque départ pour les réservations effectuées à partir du 28 janvier 2021 et un siège vous sera attribué (gratuitement). Pour les réservations effectuées avant le 28 janvier 2021, vous pourrez vous enregistrer en ligne entre 2 jours et 2 heures avant chaque vol et un siège vous sera attribué (gratuitement). 
 
 Restrictions concernant les sièges  
 
