@@ -1,7 +1,7 @@
 **CONDITIONS GENERALES DE VENTE**
 ---------------------------------
 
-Date : 02/05/2025
+Date : 20/07/2026
 
 Bienvenue sur Showroomprive.com
 
@@ -27,7 +27,7 @@ Nous vous invitons à lire attentivement nos conditions générales de vente (le
 
 **Article 1 - Qui sommes-nous ?**
 
-Notre Site est édité et exploité par la société Showroomprive.com, SAS au capital de 104.254.357,35 € euros, dont le siège social est situé à ZAC de la Montjoie - 1 rue des blés - 93210 La Plaine Saint-Denis, immatriculée au Registre du commerce et des sociétés de Bobigny sous le numéro 538 811 837, TVA Intracommunautaire FR72 538 811 837.
+Notre Site est édité et exploité par la société Showroomprive.com, SAS au capital de 43 743 087 € euros, dont le siège social est situé à ZAC de la Montjoie - 1 rue des blés - 93210 La Plaine Saint-Denis, immatriculée au Registre du commerce et des sociétés de Bobigny sous le numéro 538 811 837, TVA Intracommunautaire FR72 538 811 837.
 
 Pour toute demande d'information, vous pouvez vous adresser directement à notre Service Client :
 
