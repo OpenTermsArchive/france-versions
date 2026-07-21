@@ -2,9 +2,11 @@ EEE/RU/CH
 
 Conditions Générales d’Utilisation de TikTok
 
+p.p1 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000} p.p2 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px} li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000} li.li5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e3; -webkit-text-stroke: #0000dc} span.s1 {font-kerning: none} span.s2 {text-decoration: underline ; font-kerning: none; color: #0000dc; -webkit-text-stroke: 0px #0000dc} span.s3 {-webkit-text-stroke: 0px #000000} span.s4 {color: #0000e9; -webkit-text-stroke: 0px #000000} span.s5 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000dc} span.s6 {text-decoration: underline ; font-kerning: none} span.s7 {color: #0000dc; -webkit-text-stroke: 0px #000000} span.s8 {font-kerning: none; color: #0000dc; -webkit-text-stroke: 0px #000000} span.s9 {text-decoration: underline ; font-kerning: none; color: #0000e3; -webkit-text-stroke: 0px #0000dc} ul.ul1 {list-style-type: disc} ul.ul2 {list-style-type: circle}
+
 **(Les présentes conditions s’appliquent si vous vivez ou avez votre principal établissement dans l’Espace économique européen, en Suisse ou au Royaume-Uni)**
 
-_Dernière mise à jour : août 2025_
+_Dernière mise à jour :_ _Juillet_ _2026_
 
 Bienvenue sur TikTok.
 
@@ -16,7 +18,7 @@ Bien que nous vous encourageons à lire les présentes Conditions dans leur int�
 
 _En résumé : Il s’agit d’un contrat conclu entre vous et TikTok. Vous devez le lire et lire toutes les autres conditions qui s’appliquent à vous._
 
-  
+ 
 
   
 
@@ -51,7 +53,7 @@ Les conditions et politiques supplémentaires ci-dessous s’appliquent à certa
 *   [Conditions d’utilisation de musiques](https://www.tiktok.com/legal/music-terms-eea) : Elles s’appliquent lorsque vous publiez du contenu sur la Plateforme qui inclut de la musique provenant de la bibliothèque musicale TikTok ou de votre appareil personnel.
 *   [Conditions d'utilisation de la bibliothèque de musiques commerciales](https://www.tiktok.com/legal/commercial-music-library-user-terms) : Elles s’appliquent si vous êtes une entité commerciale ou si vous publiez du contenu sur la Plateforme qui inclut de la musique provenant de la Bibliothèque de musiques commerciales.
 *   [Politique en matière de propriété intellectuelle](https://www.tiktok.com/legal/copyright-policy) : Elle s’applique à tout le contenu de la Plateforme qui est protégé par des droits de propriété intellectuelle.
-*   Conditions d’utilisation de TikTok Shop : Elles s’appliquent lorsque vous utilisez TikTok Shop (le cas échéant). Ces conditions diffèrent en fonction de votre lieu de résidence : [Royaume-Uni](https://seller-uk.tiktok.com/university/essay?knowledge_id=2216927998527265&default_language=en-GB&identity=1), [Irlande](https://seller-ie.tiktok.com/university/essay?knowledge_id=2225681119987488&article_type=agreement&identity=1), [Espagne](https://seller-es.tiktok.com/university/essay?knowledge_id=2225681120462624&article_type=agreement&identity=1), [Allemagne](https://seller-de.tiktok.com/university/essay?knowledge_id=2252085245052705&article_type=agreement&identity=1), [France](https://seller-fr.tiktok.com/university/essay?knowledge_id=2225681120511776&article_type=agreement&identity=1) et [Italie](https://seller-it.tiktok.com/university/essay?knowledge_id=2214599635371809&article_type=agreement&identity=1).
+*   [Conditions d’utilisation de TikTok Shop](https://seller-ie.tiktok.com/university/essay?role=1&knowledge_id=2839101184673538&from=other&article_type=agreement&identity=1) : Elles s’appliquent lorsque vous utilisez TikTok Shop (le cas échéant). Ces conditions diffèrent en fonction de votre lieu de résidence.
 *   [Politique relative au contenu commercial](https://www.tiktok.com/legal/bc-policy) : Elle s’applique lorsque vous publiez du contenu sur la Plateforme faisant la promotion d’une marque tierce ou de ses produits ou services en échange d’un paiement ou de toute autre contrepartie.
 *   [Conditions d'utilisation professionnelles](https://www.tiktok.com/legal/business-terms-eea) : Elles s’appliquent si vous utilisez la Plateforme à des fins commerciales, professionnelles, artisanales ou professionnelles. Cela inclut l’administration d’un compte pour le compte d’une entreprise.
 
