@@ -309,11 +309,11 @@ Une fois la demande de retour enregistrée, vous devez renvoyer votre produit da
 
 • Préparez votre colis en reconditionnant les articles dans leur emballage d'origine ou à défaut un emballage adapté (voir point « Important » ci-dessous), glissez le formulaire de retour dedans, et apposez le bordereau de retour sur le colis (le bordereau ne doit en aucun cas être apposé sur le produit).
 
-• Enfin, déposez votre colis à la Poste ou en point de retrait selon l'option choisie pour qu'il soit envoyé à l'adresse suivante :
+• Enfin, déposez votre colis à la Poste ou en point de retrait selon l'option choisie pour qu'il soit envoyé à l'adresse indiquée sur votre bon de retour , à savoir :
 
-\- Pour la France, Monaco et le Luxembourg : Showroomprive.com - Zone industrielle de SAINT-WITZ- 18 rue de la ferme St Ladre - 95672 FOSSES CEDEX, FRANCE
+\- Pour la France, Monaco et le Luxembourg : Showroomprive groupe Batiment F, Avenue de la Guepelle 95470, Saint Witz
 
-\- Pour la Belgique : B2C Europe Logvad BELGIUM, SRP, Rue du Pont-Tunnel 17 bis, 7730 ESTAIMPUS, Belgium
+\- Pour la Belgique : Kuehne + Nagel SRP 545 rue 6e avenue Parc Synergie Val de Loire 45130 Meung sur Loire
 
 **A noter** **:** Pour des raisons logistiques et de traçabilité, aucune remise en main propre de votre produit ne pourra être acceptée par nos entrepôts aux adresses précitées.
 
