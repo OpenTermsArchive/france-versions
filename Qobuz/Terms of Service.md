@@ -356,7 +356,7 @@ Le prix des téléchargements d’enregistrements musicaux et des offres d’abo
 
 XANDRIE SA se réserve le droit de modifier les prix ou les présentes CGUV à tout moment. Les modifications entreront en vigueur à partir du moment où les conditions seront publiées sur ce site ; les produits et services seront facturés selon les tarifs en vigueur au moment de l'enregistrement de la commande du Client. XANDRIE SA se réserve le droit d’ajuster automatiquement les prix des téléchargements d’enregistrements musicaux, en cas d’inflation ou encore en cas de frais annexes imposés à XANDRIE SA (taxes…).
 
-Nos prix ne comprennent pas les frais de connexion et de communication relatifs à l'utilisation d'un service de vente en ligne, ces derniers étant à la charge exclusive de l'internaute.
+Les prix ne comprennent pas les frais de connexion et de communication relatifs à l'utilisation d'un service de vente en ligne, ces derniers étant à la charge exclusive de l'internaute, ainsi qu’une contribution de cinquante centimes (0,5) d’euros aux frais de fonctionnement du site de téléchargement, pour tout téléchargement d’enregistrements musicaux (titres ou albums) d’un montant inférieur à dix (10) euros.
 
 XANDRIE SA se réserve le droit de proposer gratuitement à tout utilisateur et aux abonnés du Service, à l’exception de ses abonnés ayant souscrit pour une durée d’un an à l’une des offres d’abonnement QOBUZ proposées sur le Site, à l’exception faite de l’offre SUBLIME+, des offres d’essai et de découverte ponctuelles de son service de streaming musical, pour des durées variables. Elles sont modifiables par contrat et s'appliquent dès leurs signatures.
 
