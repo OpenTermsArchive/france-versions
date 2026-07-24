@@ -2,11 +2,9 @@ EEE/RU/CH
 
 Conditions Générales d’Utilisation de TikTok
 
-p.p1 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000} p.p2 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px} li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000} li.li5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e3; -webkit-text-stroke: #0000dc} span.s1 {font-kerning: none} span.s2 {text-decoration: underline ; font-kerning: none; color: #0000dc; -webkit-text-stroke: 0px #0000dc} span.s3 {-webkit-text-stroke: 0px #000000} span.s4 {color: #0000e9; -webkit-text-stroke: 0px #000000} span.s5 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000dc} span.s6 {text-decoration: underline ; font-kerning: none} span.s7 {color: #0000dc; -webkit-text-stroke: 0px #000000} span.s8 {font-kerning: none; color: #0000dc; -webkit-text-stroke: 0px #000000} span.s9 {text-decoration: underline ; font-kerning: none; color: #0000e3; -webkit-text-stroke: 0px #0000dc} ul.ul1 {list-style-type: disc} ul.ul2 {list-style-type: circle}
-
 **(Les présentes conditions s’appliquent si vous vivez ou avez votre principal établissement dans l’Espace économique européen, en Suisse ou au Royaume-Uni)**
 
-_Dernière mise à jour :_ _Juillet_ _2026_
+_Dernière mise à jour : Juillet 2026_
 
 Bienvenue sur TikTok.
 
