@@ -1,6 +1,11 @@
 FR-CGV
 ======
 
+[Télécharger la version PDF](https://static.qobuz.com/legal/CGV_FR_v202607.pdf)
+
+  
+  
+
 **Conditions générales d'utilisation et de vente**
 
 Préambule
@@ -290,6 +295,7 @@ Le Client doit satisfaire aux exigences relatives à l'âge dans le tableau ci-d
 | **Norvège** | **À partir de 16 ans** | **A partir de 18 ans** |
 | **Nouvelle-Zélande** | **À partir de 16 ans** | **A partir de 18 ans** |
 | **Pays-Bas** | **À partir de 16 ans** | **A partir de 18 ans** |
+| **Pologne** | À partir de 16 ans | A partir de 18 ans |
 | **Portugal** | **À partir de 16 ans** | **A partir de 18 ans** |
 | **Royaume-Uni** | **À partir de 16 ans** | **A partir de 18 ans** |
 | **Suède** | **À partir de 16 ans** | **A partir de 18 ans** |
@@ -1318,7 +1324,3 @@ La souscription à l’offre QOBUZ STUDENT sera automatiquement renouvelée à l
 Le moyen de paiement utilisé lors de l’abonnement initial sera alors réutilisé, sauf si le Client l'a préalablement modifié dans la rubrique « Mon compte ».
 
 À la fin de la période, ou si le Client n'est plus admissible ou si le statut étudiant du Client n'a pas pu être vérifié après plusieurs relances, l'offre QOBUZ STUDENT sera automatiquement convertie en offre STUDIO SOLO mensuelle, au tarif en vigueur au moment de la conversion.
-
- 
-
-[Télécharger la version PDF](https://static.qobuz.com/legal/CGV_FR_v202607.pdf)
