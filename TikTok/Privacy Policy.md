@@ -4,18 +4,6 @@ Politique de confidentialité
 
 Dernière mise à jour : _30 novembre 2025_
 
-*   Introduction
-*   Informations que nous recueillons
-*   Manières dont nous utilisons vos informations
-*   Manières dont nous partageons vos informations
-*   Nos bases juridiques et la manière dont nous traitons vos informations
-*   Vos droits et vos choix
-*   Sécurité et conservation des données
-*   Nos opérations mondiales et les transferts de données
-*   Jeunes utilisateurs
-*   Mises à jour de la Politique de confidentialité
-*   Nous contacter
-
 **Introduction**
 ----------------
 
