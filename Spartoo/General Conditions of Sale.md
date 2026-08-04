@@ -126,7 +126,7 @@ Ne sont pas acceptées : les cartes American Express, les cartes exclusivement d
 *   Paiement par Bancontact/Mistercash (Belgique)  
     Le paiement se fait en ligne, en indiquant votre numéro de carte et sa date d’expiration dans la fenêtre dédié Bancontact/Mistercash. Ensuite, le Client n’a plus qu’à suivre les instructions pour sécuriser son paiement. Ainsi, les informations financières du Client ne sont jamais communiquées à SPARTOO.
 *   Paiement par Klarna  
-    Le paiement peut se faire par Klarna. Klarna est un fournisseur de services, offrant au client un service de crédit pour ses achats. Klarna propose un paiement en trois fois sans frais.  
+    Le paiement peut se faire par Klarna, qui est un fournisseur de service payant, offrant au client un service de crédit pour ses achats.  
       
     Ce mode de paiement permet au client de répartir le paiement de ses achats sur 3 versements. Ainsi, les paiements sont automatiquement prélevés sur la carte de débit/crédit enregistrée par le client jusqu’à ce que la totalité du montant de la commande soit payée. Le premier paiement sera prélevé lors de la passation de la commande. Les deux autres paiements seront prélevés tous les 30 jours, une fois le premier paiement réalisé.  
       
@@ -659,10 +659,13 @@ Condition d'application des réductions :
 18 Chèques-cadeaux et bons d'achat
 ----------------------------------
 
-Les chèques cadeaux ou les bons d’achat sont sous forme de coupons de réduction disposant d’un code unique. Les chèques cadeaux et bons d'achat sont non remboursables et ne peuvent faire l'objet d'une contrepartie monétaire. Les produits achetés avec les chèques cadeaux ou les bons d'achat pourront en revanche être échangés et faire l'objet d'un avoir dans le cas où ils ne conviendraient pas. Le chèque cadeau ou le bon d’achat seront recrédités et devront être utilisés pendant leur période de validité..  
-Ils ne sont pas cumulables avec d'autres promotions ou d'autres coupons de réduction.  
+Les chèques-cadeaux et bons d'achat sont sous forme de coupons de réduction disposant d'un code unique.  
+Les chèques-cadeaux et bons d'achat ne sont ni remboursables ni convertibles en espèces.  
+Les produits achetés avec un chèque-cadeau ou un bon d'achat peuvent être échangés et faire l'objet d'un avoir dans le cas où ils ne conviendraient pas. Le chèque-cadeau ou le bon d'achat sera alors recrédité et devra être utilisé pendant sa période de validité.  
+Les modalités de cumul des chèques-cadeaux et bons d'achat dépendent de leur typologie et des conditions d'utilisation qui leur sont applicables.  
+En revanche, il n'est pas possible de fusionner plusieurs chèques-cadeaux ou bons d'achat en un seul, quelle que soit leur nature.  
   
-**Hors produits partenaires**
+**Les chèques-cadeaux et bons d'achat ne sont pas valables sur les produits vendus par nos partenaires Marketplace**
 
 19 La garantie du meilleur prix
 -------------------------------
