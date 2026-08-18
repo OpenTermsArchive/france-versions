@@ -18,25 +18,25 @@ Le présent Avis de confidentialité (« **Avis** ») explique comment ISSL coll
 
 Cliquez sur les liens ci-dessous pour accéder à une section spécifique de ce Notice.
 
-[**1\. Comment Nous Traitons Vos Données Personnelles >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-1 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-1")​
+[1\. Comment Nous Traitons Vos Données Personnelles >](linkto:#ps-1)​
 
-[**2\. Partage De Vos Données Personnelles >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-2 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-2")​
+[2\. Partage De Vos Données Personnelles >](linkto:#ps-2)​
 
-[**3\. Cookies, Publicité Basée Sur Les Intérêts, Choix De Publicité >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-3 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-3")​
+[3\. Cookies, Publicité Basée Sur Les Intérêts, Choix De Publicité >](linkto:#ps-3)​
 
-[**4\. Précautions De Sécurité >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-4 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-4")​
+[4\. Précautions De Sécurité >](linkto:#ps-4)​
 
-[**5\. Vos Droits >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-5 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-5")​
+[5\. Vos Droits >](linkto:#ps-5)​
 
-[**6\. Conservation >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-6 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-6")​
+[6\. Conservation >](linkto:#ps-6)​
 
-[**7\. Sites Web Tiers >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-7 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-7")​
+[7\. Sites Web Tiers >](linkto:#ps-7)​
 
-[**8\. Enfants >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-8 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-8")​
+[8\. Enfants >](linkto:#ps-8)​
 
-[**9\. Transferts Internationaux De Vos Données Personnelles >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-9 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-9")​
+[9\. Transferts Internationaux De Vos Données Personnelles >](linkto:#ps-9)​
 
-[**10\. Contactez-Nous >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-10 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-10")​
+[10\. Contactez-Nous >](linkto:#ps-10)​
 
 **1\. COMMENT NOUS TRAITONS VOS DONNÉES PERSONNELLES**
 
@@ -455,25 +455,25 @@ Le présent Avis de confidentialité (« **Avis** ») explique comment ISSL coll
 
 Cliquez sur les liens ci-dessous pour accéder à une section spécifique de ce Notice.
 
-[**1\. Comment Nous Traitons Vos Données Personnelles >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-1 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-1")​
+[1\. Comment Nous Traitons Vos Données Personnelles >](linkto:#ps-1)​
 
-[**2\. Partage De Vos Données Personnelles >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-2 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-2")​
+[2\. Partage De Vos Données Personnelles >](linkto:#ps-2)​
 
-[**3\. Cookies, Publicité Basée Sur Les Intérêts, Choix De Publicité >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-3 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-3")​
+[3\. Cookies, Publicité Basée Sur Les Intérêts, Choix De Publicité >](linkto:#ps-3)​
 
-[**4\. Précautions De Sécurité >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-4 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-4")​
+[4\. Précautions De Sécurité >](linkto:#ps-4)​
 
-[**5\. Vos Droits >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-5 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-5")​
+[5\. Vos Droits >](linkto:#ps-5)​
 
-[**6\. Conservation >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-6 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-6")​
+[6\. Conservation >](linkto:#ps-6)​
 
-[**7\. Sites Web Tiers >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-7 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-7")​
+[7\. Sites Web Tiers >](linkto:#ps-7)​
 
-[**8\. Enfants >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-8 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-8")​
+[8\. Enfants >](linkto:#ps-8)​
 
-[**9\. Transferts Internationaux De Vos Données Personnelles >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-9 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-9")​
+[9\. Transferts Internationaux De Vos Données Personnelles >](linkto:#ps-9)​
 
-[**10\. Contactez-Nous >**](https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-10 "https://chatgpt.com/c/6a7ecee9-4d28-83eb-a64b-1308deabc49f#ps-10")​
+[10\. Contactez-Nous >](linkto:#ps-10)​
 
 **1\. COMMENT NOUS TRAITONS VOS DONNÉES PERSONNELLES**
 
