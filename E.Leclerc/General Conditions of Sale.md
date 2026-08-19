@@ -1,7 +1,7 @@
 **Conditions Générales de Vente LCOMMERCE**
 -------------------------------------------
 
-**Mis à jour : 18 Juin 2026**
+**Mis à jour : 19 Aout 2026**
 
 ### **PARTIE 1**
 
@@ -185,10 +185,13 @@ Le règlement des Commandes s'effectue uniquement en euros et au choix du Client
 
 *   par carte bancaire 
     
+*   par PayPal
 
 Conformément au code de déontologie du e-commerce et de la vente à distance de la FEVAD, le montant correspondant à l'intégralité du montant TTC de la Commande et des frais de livraison est débité au moment de l'expédition des produits .
 
 En cas d'expédition échelonnée des produits d'une même Commande, le montant de chaque produit et les frais de livraison associés seront débités au moment de l'expédition dudit produit.
+
+En choisissant le règlement via PayPal, le Client est automatiquement redirigé vers la plateforme sécurisée de PayPal. L'utilisation de ce mode de paiement implique l'acceptation sans réserve des Conditions Générales d'Utilisation de PayPal, [accessibles sur leur site internet](https://www.paypal.com/fr/legalhub/paypal/useragreement-full?locale.x=fr_FR). Il appartient au Client de disposer d'un compte actif auprès de la société PayPal pour valider sa transaction.
 
 **9.2 Concernant les commandes de produits auprès de Vendeurs Tiers de la Marketplace**
 
@@ -386,18 +389,55 @@ Le Client dispose d'un délai de 10 jours ouvrés à compter de la mise à dispo
 
 12.1.5 Livraison de produits volumineux sur rendez-vous
 
-_Ce service est assuré par VIR by Jacky Perrenot._ 
+Ce service est assuré par notre partenaire transporteur WARNING (EUROMATIC).
 
-Lorsque le Client réalise une commande d’un ou de produits dits volumineux (par exemple : une télévision > 43", du gros électroménager, etc.), quatre services lui sont proposés : 
+12.1.5.1 Type de livraison : 
 
-*   Livraison Economique (LC) au pied de l’immeuble : les produits volumineux de la commande sont livrés par le transporteur au pied du bâtiment pour un immeuble ou au portail pour une maison. L’acheminement jusqu’à la pièce d’utilisation, le déballage du colis et le traitement des emballages sont à la charge du Client. 
+Lorsque le Client réalise une Commande comprenant un ou plusieurs produits dits volumineux (par exemple : une télévision > 43", du gros électroménager, etc.), plusieurs modalités de livraison peuvent lui être proposées selon la nature du produit, l'adresse de livraison et les contraintes logistiques :
+
+*    Livraison en magasin (LM)
     
-*   Livraison Standard (LS) dans la pièce d’utilisation : les produits volumineux de la commande sont livrées par le transporteur et acheminées par ce dernier dans la pièce d’utilisation, y compris à l’étage. Le déballage, la reprise des emballages et la mise en service sont à la charge du Client.
+
+Les produits volumineux sont livrés par le transporteur dans le magasin E.Leclerc sélectionné par le Client.  
+Le Client est informé de l’arrivée de sa Commande par SMS et/ou courrier électronique. Le retrait en magasin s’effectue sans rendez-vous, pendant les horaires d’ouverture du point de retrait concerné.
+
+L’acheminement du produit jusqu’à la pièce d’utilisation, le déballage du colis ainsi que le traitement des emballages restent à la charge du Client.
+
+*   Livraison Économique (LC) – Pas de porte / pied d’immeuble
     
-*   Livraison Déballage (LD) dans la pièce d’utilisation : les Commandes sont livrées par le transporteur et acheminées par ce dernier dans la pièce d’utilisation, y compris à l’étage. Le déballage et la reprise des emballages sont compris dans la prestation. Cependant, la mise en service de l’appareil est à la charge du Client.
+
+Les produits volumineux, dans la limite de 1 000 kg, sont livrés par le transporteur au pied du bâtiment pour un immeuble ou au portail pour une maison.
+
+L’acheminement du produit jusqu’à la pièce d’utilisation, le déballage du colis et le traitement des emballages restent à la charge du Client.
+
+*   Livraison Standard (LS) – Pièce de choix
     
-*   Livraison Mise en service (LE), dans la pièce d’utilisation : Les Commandes sont livrées par le transporteur et acheminées par ce dernier dans la pièce d’utilisation, y compris à l’étage. Le déballage, la reprise des emballages, ainsi que le montage de l’appareil sont compris dans la prestation. 
-    
+
+Les produits volumineux, dans la limite de 1 000 kg, sont livrés par le transporteur et acheminés dans la pièce choisie par le Client, y compris à l’étage lorsque les conditions d’accès le permettent.
+
+Le déballage, la reprise des emballages et la mise en service du produit restent à la charge du Client.
+
+12.1.5.2 Prise de rendez-vous livraison
+
+Pour les livraisons économiques (LC) et standard (LS), le Client reçoit une proposition de prise de rendez-vous par SMS et/ou courrier électronique envoyé par WARNING (EUROMATIC).
+
+Le Client doit sélectionner un créneau de livraison parmi ceux proposés.
+
+En l’absence de réponse du Client dans un délai de 24 heures, le centre d’appels de WARNING (EUROMATIC) pourra contacter le Client afin d’organiser le rendez-vous.
+
+Les livraisons sont effectuées du lundi au samedi, hors jours fériés, selon les disponibilités du transporteur.
+
+Le créneau de livraison est communiqué au Client avec une précision horaire de deux heures.
+
+En cas d’absence du Client au rendez-vous convenu, ou d’impossibilité de réaliser la livraison du fait du Client (absence, accès impossible, conditions non conformes permettant la livraison), une nouvelle présentation pourra être organisée. Des frais complémentaires pourront être appliqués au Client lorsque cette nouvelle présentation résulte d’un manquement de sa part.
+
+12.1.5.3  Conditions d’accès et préparation de la livraison
+
+Le Client doit s’assurer, avant la validation de sa Commande, que les dimensions du produit permettent son acheminement jusqu’au lieu prévu d’installation (accès, portes, escaliers, ascenseurs, passages).
+
+En cas d’impossibilité de livraison liée à des contraintes d’accès non signalées par le Client lors de la Commande, les frais liés au transport retour pourront être facturés au Client.
+
+Le Client doit également garantir que les conditions nécessaires à la livraison sont réunies à la date du rendez-vous.
 
 **12.2 Les modalités de livraison** 
 
@@ -614,6 +654,12 @@ Conformément à l'article L541-10-8 du Code de l'environnement, LCOMMERCE repre
 
 Pour une livraison à domicile et dans le cas des produits volumineux, si le Client souhaite faire reprendre un produit usagé, il devra le préciser au transporteur lors de la prise de rendez-vous par téléphone.
 
+Les produits usagés doivent être en bon état de propreté, démontés, rangés de façon sécurisée. De plus, ils doivent pouvoir être manipulés sans danger et rassemblés dans une même pièce. 
+
+Pour les équipements électriques et électroniques : les congélateurs, réfrigérateurs, lave-linge et sèche-linge doivent être débranchés, vidés et vidangés. Ces modalités doivent être réalisées avant la venue du livreur. 
+
+Conformément à l’article l’article R 541-164 du Code de l'environnement, si les modalités de reprise indiquées au client ne sont pas respectées, nos équipes et les livreurs pourront refuser de prendre en charge le produit usagé.
+
 Pour tout achat d'un produit non volumineux, le Client pourra déposer les produits usagés concernés dans son magasin E.Leclerc. 
 
 Il est également possible pour le Client d'opter pour les différents systèmes de collecte de proximité existants tels que : 
@@ -825,6 +871,7 @@ Tout litige, quelle qu’en soit la nature, peut être soumis à la juridiction 
 
 Historique des Conditions générales de vente : 
 
+*   [(Ancienne version) - CGV 18 Juin 2026](https://media.e.leclerc/LEN/document/2026%2006%2018%20-%20CGV%20Lcommerce%20.docx?vh=baa883&func=proxy)
 *   [(Ancienne Version) - CGV 15 Janvier 2026](https://media.e.leclerc/LEN/document/2026%2001%2015%20-%20CGV%20Lcommerce%20.docx?vh=fde11d&func=proxy)
 *   [(Ancienne Version) - CGV 12 Janvier 2026](https://media.e.leclerc/LEN/document/2026%2001%2012%20-%20CGV%20Lcommerce%20.docx?vh=bf6d4a&func=proxy)
 *   [(Ancienne Version) - CGV 30 Octobre 2025](https://media.e.leclerc/LEN/document/2025%2010%2030%20-%20CGV%20Lcommerce%20.docx?vh=387cea&func=proxy)
