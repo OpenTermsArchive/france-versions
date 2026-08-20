@@ -131,7 +131,7 @@ En cas de paiement via Paypal, le montant des achats sera automatiquement débit
 
 Paiement avec KLARNA
 
-Notre partenaire Klarna vous propose une solution de financement dénommée « Payer plus tard en 3 fois » qui permet de payer, sans frais, vos achats de 35€ à 2000€ en 3 fois avec votre carte bancaire. Nous vous invitons à prendre connaissance des conditions générales de la solution « Payer plus tard en 3 fois» de Klarna accessibles [**ici**](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/fr_fr/paylaterin3) , et dont l'acceptation sera nécessaire à toute souscription.
+Notre partenaire Klarna vous propose une solution de financement dénommée « Payer plus tard en 3 fois » qui permet de payer, sans frais, vos achats de 80€ à 2000€ en 3 fois avec votre carte bancaire. Nous vous invitons à prendre connaissance des conditions générales de la solution « Payer plus tard en 3 fois» de Klarna accessibles [**ici**](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/fr_fr/paylaterin3) , et dont l'acceptation sera nécessaire à toute souscription.
 
 Nous vous précisons que, aux termes des conditions générales de Klarna :
 
