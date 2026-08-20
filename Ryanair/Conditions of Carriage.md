@@ -1986,11 +1986,11 @@ EUR
 
 Sieges avec plus d’espace pour les jambes
 
-€/£8 -€/£36.5
+€/£12.5 -€/£27.5
 
 (par vol)
 
-€/£8.5-€/£38
+€/£13 - €/£29.5
 
 (par vol)
 
@@ -1998,11 +1998,11 @@ Les frais varient en fonction de l'itinéraire et les dates de voyage sélection
 
 Sièges à l’avant
 
-€ / £ 7-€/£21
+€/£ 18 - €/£41
 
 (par vol)
 
-€ / £ 7-€/£21
+€/£13 - €/£29.50
 
 (par vol)
 
@@ -2010,11 +2010,11 @@ Les frais varient en fonction de l'itinéraire et les dates de voyage sélection
 
 Sièges standard
 
-€ / £ 4.50-€/£15.50
+€/£3 - €/£27.5
 
 (par vol)
 
-€ / £ 4.50-€/£15.50
+€/£ 3.5 - €/£29.5
 
 (par vol)
 
@@ -2024,7 +2024,7 @@ Frais d’enregistrement à l’aéroport
 
 n/a
 
-55 €/£ (pour les vols depuis l’Espagne 30 €/£, depuis l’Autriche 40 €/£)
+€/£ 55 (pour les vols depuis l’Espagne 30 €/£, depuis l’Autriche 40 €/£)
 
 Les frais sont facturés par passager et par secteur.
 
@@ -2098,7 +2098,7 @@ Par passager/par vol aller simple 
 
 n/a
 
-45 €/£ changements en ligne/ 60 €/£ par l’intermédiaire d’un agent ou à l’aéroport
+€/£45  changements en ligne/ €/£60 par l’intermédiaire d’un agent ou à l’aéroport
 
 Si vous apportez des changements en ligne, les frais s’élèveront à 45 €/£ par passager, par vol aller simple. Si vous contactez notre centre de réservation pour effectuer un changement ou si vous en demandez un à notre comptoir à l’aéroport, les frais s’élèveront à 60 €/£ par passager, par vol aller simple.
 
@@ -2172,9 +2172,9 @@ Priorité & 2 bagages de cabine
 
 Prix entre
 
-€/£6 - €/£36
+€/£12.49 - €/£36
 
-€/£20 - €/£60
+€/£19.99 - €/£45.5
 
 Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés.
 
@@ -2182,9 +2182,9 @@ Bagages enregistrés – 10 kg
 
 Prix entre
 
-€/£9.49 - €/£44.99
+€/£10.49 - €/£44.99
 
-€/£23.99 - €/£44.99
+€/£24 - €/£57.5
 
 Les frais varient en fonction de l’itinéraire et des dates de voyage. Les clients qui ne sont pas prioritaires et qui n’ont pas ajouté de bagage à leur réservation peuvent encore acheter un bagage enregistré de 10 kg au comptoir dépose-bagages de l’aéroport pour un prix allant de 35,99 €/£ à 40 €/£. Les clients qui ne sont pas prioritaires et qui apportent leur bagage enregistré de 10 kg à la porte d’embarquement se verront refuser leur bagage ou, le cas échéant, se verront demander de le placer en soute moyennant le paiement de frais compris entre 46 €/£ et 60 €/£. Il vous sera demandé de laisser vos bagages aux portes de l’avion, dans le chariot à bagages à la porte d’embarquement ou de suivre les instructions des agents Ryanair, afin qu’ils soient placés en soute.
 
@@ -2192,11 +2192,11 @@ Bagages enregistrés – 20 kg
 
 Tarif min./max. par article et par vol si achat en ligne
 
-€/£18.99 - €/£59.99
+€/£21.49 - €/£59.99
 
 (par vol)
 
-€/£39.99 - €/£59.99
+€/£39.99 - €/£72
 
 (par vol)
 
@@ -2204,7 +2204,7 @@ Les frais varient en fonction de l’itinéraire et des dates de voyage. Les pas
 
 Bagage enregistré de 23 kg
 
-29,99 €/£ - 80,99 €/£
+€/£ 28.99 - €/£ 80.99
 
 (par vol)
 
