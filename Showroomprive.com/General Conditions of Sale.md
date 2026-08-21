@@ -117,13 +117,9 @@ Pour toute annonce de réduction de prix d'un produit proposé lors des ventes C
 
 5.1 Modes de paiement
 
-Le paiement s'effectue en ligne par carte bancaire, Paypal ou via les solutions Klarna, ou Fintecture. Les cartes bancaires acceptées sont les suivantes : Visa / CB / CPay/ Mastercard, American Express et, en cas de livraison en Belgique, Bancontact.
+Le paiement s'effectue en ligne par carte bancaire, Paypal ou via les solutions Klarna, ou Fintecture. Les cartes bancaires acceptées sont les suivantes : Visa / CB / Mastercard, American Express et, en cas de livraison en Belgique, Bancontact.
 
 Après confirmation du paiement par notre centre de paiement, votre compte bancaire ou compte Paypal sera débité à l'issue d'un délai maximum de 4 jours suivant la date de la commande.
-
-Paiement par carte CPay
-
-Grâce à la carte de crédit CPay, vous pouvez régler vos achats dans la limite du montant disponible de votre crédit renouvelable. Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager.
 
 Paiement par PAYPAL
 
@@ -131,23 +127,13 @@ En cas de paiement via Paypal, le montant des achats sera automatiquement débit
 
 Paiement avec KLARNA
 
-Notre partenaire Klarna vous propose une solution de financement dénommée « Payer plus tard en 3 fois » qui permet de payer, sans frais, vos achats de 80€ à 2000€ en 3 fois avec votre carte bancaire. Nous vous invitons à prendre connaissance des conditions générales de la solution « Payer plus tard en 3 fois» de Klarna accessibles [**ici**](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/fr_fr/paylaterin3) , et dont l'acceptation sera nécessaire à toute souscription.
+Notre partenaire Klarna vous propose une solution de financement dénommée « Payer plus tard en 3 fois » qui permet de payer, sans frais, vos achats de 80€ à 3000€ en 3 fois avec votre carte bancaire. Nous vous invitons à prendre connaissance des conditions générales de la solution « Payer plus tard en 3 fois» de Klarna accessibles [**ici**](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/fr_fr/paylaterin3) , et dont l'acceptation sera nécessaire à toute souscription.
 
 Nous vous précisons que, aux termes des conditions générales de Klarna :
 
-· Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France métropolitaine et titulaires d'une carte bancaire de débit ou de crédit valide et ne possédant pas une date d'expiration proche. Les e-cards et les cartes American Express ne sont pas acceptées. Klarna se réserve toutefois le droit de refuser votre moyen de paiement et/ou de modifier les cartes bancaires autorisées. En cas de refus de votre moyen de paiement, vous serez averti par Klarna avant la fin de votre achat.
+Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France métropolitaine et titulaires d'une carte bancaire de débit ou de crédit valide et ne possédant pas une date d'expiration proche. Les e-cards et les cartes American Express ne sont pas acceptées. Klarna se réserve toutefois le droit de refuser votre moyen de paiement et/ou de modifier les cartes bancaires autorisées. En cas de refus de votre moyen de paiement, vous serez averti par Klarna avant la fin de votre achat.
 
-· Vous disposez d'un délai de rétractation de 14 jours pour renoncer, auprès de notre partenaire, à votre solution de financement Klarna.
-
-Paiement avec Fintecture
-
-Notre partenaire Fintecture vous fournit un service d'initiation de paiement vous permettant d'ordonner de manière rapide, facile et sécurisée à votre banque d'exécuter un virement en faveur de Showroomprive.
-
-Nous vous invitons à prendre connaissance des conditions générales de la solution de Fintecture accessibles [**ici**](https://www.fintecture.com/fr-cgu_ais_pis/) **,** et dont l'acceptation sera nécessaire à toute souscription. Nous vous précisons que, aux termes des conditions générales de Fintecture :
-
-· Vous ne pouvez pas révoquer un ordre de virement initié par Fintecture une fois que vous avez donné votre consentement à l'initiation du virement par ce dernier ;
-
-· Le service d'initiation de paiement peut être exclusivement utilisé avec un compte bancaire ouvert à votre nom et situé dans l'Espace Économique Européen.
+Vous disposez d'un délai de rétractation de 14 jours pour renoncer, auprès de notre partenaire, à votre solution de financement Klarna.
 
 5.2 Paiement sécurisé
 
