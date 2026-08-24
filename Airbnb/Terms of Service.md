@@ -655,7 +655,7 @@ Annexe 1 : Entités contractantes
 | Réserver ou proposer des hébergements situés aux États-Unis pour des séjours de 28 nuits ou plus lorsque Airbnb Stays, Inc. est identifié lors du processus de paiement ou de publication d'annonce. | Airbnb Stays, Inc. | 888 Brannan Street, San Francisco, CA 94103, États-Unis |
 | Réserver ou proposer des hébergements où Luxury Retreats International ULC est identifié lors du processus de paiement ou de publication d'annonce ou dans toute autre surface de produit. | Luxury Retreats International ULC | 5530 rue Saint-Patrick, Suite 2210, Montréal, Québec, H4E 1A8 |
 | Réserver ou proposer des Services et des Expériences. | Airbnb Beyond Limited(+) | 25 North Wall Quay, Dublin 1, D01 H104, Irlande |
-| Toutes les autres activités. | Airbnb Ireland UC\*\* | 25 North Wall Quay, Dublin 1, D01 H104, Irlande<br><br>[Page des informations sur l'entreprise](https://news.airbnb.com/about-us/) |
+| Toutes les autres activités. | Airbnb Ireland UC\*\* | 25 North Wall Quay, Dublin 1, D01 H104, Irlande<br><br>[Page des informations sur l'entreprise](https://www.airbnb.ie/about/company-details) |
 
 \*\* Si vous réservez ou proposez un hébergement situé en Israël ou dans les Territoires palestiniens, à compter du 20 avril 2026, vous passez un contrat avec Airbnb Limited LLC situé au 888 Brannan Street, San Francisco, CA 94103, États-Unis.
 
