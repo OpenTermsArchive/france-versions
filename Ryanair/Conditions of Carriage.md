@@ -2184,9 +2184,9 @@ Prix entre
 
 €/£10.49 - €/£44.99
 
-€/£24 - €/£57.5
+€/£24 - €/£75
 
-Les frais varient en fonction de l’itinéraire et des dates de voyage. Les clients qui ne sont pas prioritaires et qui n’ont pas ajouté de bagage à leur réservation peuvent encore acheter un bagage enregistré de 10 kg au comptoir dépose-bagages de l’aéroport pour un prix allant de 35,99 €/£ à 40 €/£. Les clients qui ne sont pas prioritaires et qui apportent leur bagage enregistré de 10 kg à la porte d’embarquement se verront refuser leur bagage ou, le cas échéant, se verront demander de le placer en soute moyennant le paiement de frais compris entre 46 €/£ et 60 €/£. Il vous sera demandé de laisser vos bagages aux portes de l’avion, dans le chariot à bagages à la porte d’embarquement ou de suivre les instructions des agents Ryanair, afin qu’ils soient placés en soute.
+Les frais varient en fonction de l’itinéraire et des dates de voyage. Les clients qui ne sont pas prioritaires et qui n’ont pas ajouté de bagage à leur réservation peuvent encore acheter un bagage enregistré de 10 kg au comptoir dépose-bagages de l’aéroport pour un prix allant de €/£35.99. Les clients qui ne sont pas prioritaires et qui apportent leur bagage enregistré de 10 kg à la porte d’embarquement se verront refuser leur bagage ou, le cas échéant, se verront demander de le placer en soute moyennant le paiement de frais compris entre €/£46.00 - €/£75.00. Il vous sera demandé de laisser vos bagages aux portes de l’avion, dans le chariot à bagages à la porte d’embarquement ou de suivre les instructions des agents Ryanair, afin qu’ils soient placés en soute.
 
 Bagages enregistrés – 20 kg
 
@@ -2196,11 +2196,11 @@ Tarif min./max. par article et par vol si achat en ligne
 
 (par vol)
 
-€/£39.99 - €/£72
+€/£39.99 - €/£75
 
 (par vol)
 
-Les frais varient en fonction de l’itinéraire et des dates de voyage. Les passagers qui n’ont pas ajouté de bagage à leur réservation peuvent encore acheter un bagage enregistré de 20 kg au comptoir dépose-bagages de l’aéroport pour 59,99 £/€. Les passagers qui apportent un bagage en excédent de taille (plus de 55 x 40 x 20 cm) à la porte d’embarquement se verront refuser leur bagage ou, le cas échéant, se verront demander de le placer en soute moyennant le paiement de frais compris entre 70 £/€ et 75 £/€. Il vous sera demandé de laisser vos bagages aux portes de l’avion, dans le chariot à bagages à la porte d’embarquement ou de suivre les instructions des agents Ryanair, afin qu’ils soient placés en soute.
+Les frais varient en fonction de l’itinéraire et des dates de voyage. Les passagers qui n’ont pas ajouté de bagage à leur réservation peuvent encore acheter un bagage enregistré de 20 kg au comptoir dépose-bagages de l’aéroport pour €/£59.99 Les passagers qui apportent un bagage en excédent de taille (plus de 55 x 40 x 20 cm) à la porte d’embarquement se verront refuser leur bagage ou, le cas échéant, se verront demander de le placer en soute moyennant le paiement de frais compris entre £/€70 et £/€75. Il vous sera demandé de laisser vos bagages aux portes de l’avion, dans le chariot à bagages à la porte d’embarquement ou de suivre les instructions des agents Ryanair, afin qu’ils soient placés en soute.
 
 Bagage enregistré de 23 kg
 
