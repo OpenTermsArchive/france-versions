@@ -32,7 +32,7 @@ Vous avez la possibilité d'inscrire vos coordonnées téléphoniques sur la lis
 2\. RECOMMANDATIONS ET PERSONNALISATION
 ---------------------------------------
 
-Dans le cadre des Services Amazon, nous vous recommanderons des fonctionnalités, des produits et des services, comprenant des publicités de tiers, qui sont susceptibles de vous intéresser, nous identifierons vos préférences et nous personnaliserons votre expérience. Pour en savoir plus, accédez à la page aide pour y consulter la rubrique [Recherche d'articles dans la boutique Amazon](https://www.amazon.fr/hz/cs/help?nodeId=GSUNWNFT2ALMPR3L).
+Dans le cadre des Services Amazon, nous vous recommanderons des fonctionnalités, des produits et des services basés sur votre activités sur les Services Amazon, pour personnaliser votre expérience. Pour en savoir plus sur les recommandations personnalisées, consultez les rubriques Amazon présente, Mise en évidence de produits et Préférences de recommandation de la page d’aide [Recherche d'articles dans la boutique Amazon](https://www.amazon.fr/hz/cs/help?nodeId=GSUNWNFT2ALMPR3L).
 
 3\. PROPRIÉTE INTELLECTUELLE, DROIT D'AUTEUR, ET PROTECTION DES BASES DE DONNÉES
 --------------------------------------------------------------------------------
@@ -221,15 +221,21 @@ Nom Société : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Adresse et Adresse e-mail : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 Numéro de téléphone (SUR LEQUEL VOUS POUVEZ ÊTRE JOINT DURANT LA JOURNÉE) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+  
+
 **Déclare sur l'honneur ce qui suit :**  
 1\. Je fais référence au site www.amazon.fr. Ce dernier affiche ou contribue à l'affichage de commentaires injurieux ou diffamatoires à mon sujet.  
   
 2\. Les propos injurieux ou diffamatoires (RAYEZ LE PARAGRAPHE INUTILE) :  
 (a) apparaissent dans un livre vendu sur le site www.amazon.fr :
 
+  
+
 *   **Titre du livre et auteur :**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 *   **Numéro ASIN (1) ou ISBN-13 (2) du livre :** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 *   **Numéro(s) de la (des) page(s) qui comporterai(en)t des propos diffamatoires :** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+  
 
 (b) apparaissent sur le site www.amazon.fr à l'adresse suivante: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (ADRESSE EXACTE DE LA PAGE WEB)  
 (b.1.) Les propos que je considère comme **INJURIEUX** sont les suivants (VEUILLEZ REPRODUIRE LES PROPOS EXACTS DONT VOUS VOUS PLAIGNEZ) :  
@@ -243,8 +249,12 @@ Numéro de téléphone (SUR LEQUEL VOUS POUVEZ ÊTRE JOINT DURANT LA JOURNÉE) :
   
 3\. Je reconnais que la présente déclaration peut être produite au cours de toute procédure judiciaire découlant des, ou dans le cadre des, propos injurieux et diffamatoires contre lesquels je porte plainte.
 
+  
+
 **Déclaration de vérité**  
 Je déclare que les faits déclarés ci-dessus sont exacts.
+
+  
 
 **Signature, Lieu, Date:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -329,6 +339,8 @@ Les produits livrés restent la propriété d'Amazon jusqu'à leur remise au tra
     
     *   La date à laquelle vous avez conclu le contrat pour les prestations de services.
     
+      
+    
     Le délai de 14 jours commence au lendemain de la prise de possession des biens achetés. Si ce délai expire un samedi ou un dimanche ou un jour férié, la date d'expiration est reportée au jour ouvrable qui suit. Certains articles, listés ci-dessous dans la section « EXCEPTIONS AU DROIT DE RÉTRACTATION » ne sont pas éligibles à un retour.
     
 *   **EXCEPTIONS AU DROIT DE RÉTRACTATION.**
@@ -344,6 +356,8 @@ Les produits livrés restent la propriété d'Amazon jusqu'à leur remise au tra
     *   la fourniture de boissons alcoolisées dont la valeur convenue à la conclusion du contrat dépend de fluctuation sur le marché échappant à notre contrôle ;
     *   la fourniture de contenu numérique (y compris les applications, les logiciels numériques, les livres électroniques, les MP3, etc.) qui n'est pas fourni sur un support matériel (par exemple, sur un CD ou un DVD) si vous avez accepté, au moment du passage de votre commande que nous commencions la fourniture de celui-ci avant la fin du délai de rétractation et renoncé à votre droit de rétractation.
     
+      
+    
 *   **MODALITES D'EXERCICE DU DROIT LÉGAL DE RÉTRACTATION.**
     
     Pour les produits vendus par Amazon EU SARL, vous devez nous notifier (Amazon EU Sarl, 38 avenue John F. Kennedy, L-1855 Luxembourg) votre décision de vous rétracter de votre commande. Vous pouvez soumettre votre demande en ligne conformément aux instructions et formulaires disponibles auprès de notre Centre de retours en ligne, ou en utilisant ce [formulaire](https://m.media-amazon.com/images/G/08/legal/Specific_EU_legislation/Formulaire_de_retractation_amazon_France.pdf). Dans le cas où vous notifieriez votre décision de vous rétracter au moyen du [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/), nous vous enverrons un accusé de réception.
@@ -358,26 +372,32 @@ Les produits livrés restent la propriété d'Amazon jusqu'à leur remise au tra
     
     En cas d'exercice de votre droit légal de rétractation, nous vous rembourserons le prix de l'article et les frais de livraison au plus tard 14 jours à compter de la réception de votre demande de rétractation. À moins que nous ne proposions l’enlèvement du produit par nos soins, nous pouvons différer le remboursement jusqu'à ce que nous ayons reçu le(s) produit(s) ou jusqu'à ce que vous ayez fourni une preuve d'expédition du (des) produit(s), la date retenue étant celle du premier de ces faits. Si le remboursement intervient après la date limite mentionnée ci-dessus, le montant qui vous est dû sera augmenté de plein droit en application des dispositions légales en vigueur.
     
-    Pour les produits vendus par Amazon EU SARL, les retours sont gratuits. Pour plus d'informations, veuillez visiter la page [Politique de retours de 30 jours d'Amazon](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7).
+    Pour les produits vendus par Amazon EU SARL, les retours sont gratuits. Pour plus d'informations, veuillez visiter la page [Politique commerciale de retours d'Amazon](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7).
     
     Nous utiliserons le même moyen de paiement que celui que vous avez utilisé lors de votre commande initiale, sauf si vous convenez expressément d'un moyen différent. En tout état de cause, ce remboursement n'occasionnera pas de frais supplémentaires pour vous.
     
 *   **NOTRE POLITIQUE DE RETOURS SOUS 30 JOURS.**
     
-    Sans préjudice des droits qui vous sont reconnus par la loi et notamment de votre droit légal de rétractation décrit ci-dessus, Amazon EU SARL propose une politique commerciale de retours sous 30 jours à compter du lendemain de la réception du produit si aucune des exceptions ne s'applique et si les produits sont complets et dans un état neuf et intact en soumettant votre demande par le biais de notre [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/).
+    Sans préjudice des droits qui vous sont reconnus par la loi et notamment de votre droit légal de rétractation décrit ci-dessus, Amazon EU SARL propose, pour certains produits éligibles, une politique commerciale de retours sous 30 jours à compter du lendemain de la réception du produit si aucune des exceptions ne s'applique et si les produits sont complets et dans un état neuf et intact en soumettant votre demande par le biais de notre [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/).
+    
+     Les produits éligibles à cette politique commerciale de retours sous 30 jours sont listés dans la page [Politique commerciale de retours d'Amazon](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7) et sont signalés par un widget intitulé « Retours de 30 jours et garanties légales », qui apparaît sous le bouton « Acheter cet article » sur la page du produit.
     
     Les produits qui sont exclus du droit légal de rétractation en application de la liste ci-dessus sont également exclus de notre politique de retours sous 30 jours.
     
-    En cas de retour entre 15 et 30 jours en application de notre politique de retours sous 30 jours :
+    En cas de retour entre 15 et 30 jours pour les produits éligibles, en application de notre politique de retours sous 30 jours :
     
     *   Amazon remboursera le prix de l’article. Vous serez responsable de toute dépréciation de la valeur du ou des produits résultant d’une manipulation (autre que celle nécessaire pour établir la nature, les caractéristiques et le bon fonctionnement du ou des produits). Dans ce cas, nous pouvons réduire le montant de votre remboursement afin de tenir compte de la diminution de valeur des produits. Si les produits sont considérablement endommagés du fait de leur manipulation par vos soins, vous pourriez ne pas avoir droit à un remboursement pour ceux-ci. Par conséquent, nous vous recommandons de retourner le produit dans le même état que celui dans lequel vous l’avez reçu (les articles vendus comme neufs doivent être renvoyés dans un état neuf, inutilisés et complets, avec tous les accessoires, et les articles d’occasion ne doivent pas présenter de signes d’utilisation ou de détérioration supplémentaires).
     *   Les frais de retour sont gratuits.
     *   Amazon ne remboursera pas les frais d’expédition si vous changez d’avis concernant votre achat, sauf en cas de problème avec l’article (par exemple, s’il ne correspond pas à la description figurant sur le site, s’il a été reçu endommagé ou s’il ne fonctionne pas).
     *   Si vous retournez un article présentant un problème (par exemple, s’il ne correspond pas à la description figurant sur le site, s’il a été reçu endommagé ou s’il ne fonctionne pas) et si cet article fait partie d’une commande comprenant d’autres produits, nous vous rembourserons les frais d’expédition initiaux de l’article présentant un problème.
     
-    Pour plus d'informations, veuillez visiter la page [Politique de retours de 30 jours d'Amazon](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7).
+      
+    
+    Pour plus d'informations, veuillez visiter la page [Politique commerciale de retours d'Amazon](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7).
     
     Vous bénéficiez par ailleurs des garanties légales de conformité et des vices cachés mentionnées à l'article 7 des présentes Conditions Générales de Vente (« Notre responsabilité Garanties »).
+    
+      
     
 
 4\. PRIX ET DISPONIBILITÉ
@@ -509,11 +529,15 @@ RCS Luxembourg N° : B-101818
 Numéro de licence : 134248  
 Numéro de TVA intracommunautaire : LU 20260743
 
+  
+
 **Succursale en France :**  
 Amazon EU SARL, succursale française, 67 Boulevard du Général Leclerc, Clichy 92110, France  
 Enregistrée en France  
 Immatriculation au RCS, numéro : 487773327 R.C.S. Nanterre  
 Numéro de TVA intracommunautaire : FR 12487773327
+
+  
 
 Vous pouvez également nous contacter via [notre service client](https://www.amazon.fr/hz/contact-us?ref_=hp_gt_comp_cu&language=fr-FR&ie=UTF8&nodeId=508510) et nous pourrons vous joindre par e-mail ou par téléphone.
 
