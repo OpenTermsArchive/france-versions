@@ -495,8 +495,6 @@ Showroomprive.com est titulaire de la licence d'agent de voyage n° IM093110007 
 
 La responsabilité civile professionnelle de Showroomprive.com est couverte par la compagnie d'assurances GAN Eurocourtage (7 place du Dôme- TSA 59876 - 92 099 La Défense cedex - Tel : 01.70.96.60.00), sous la police d'assurance n° 186212201.
 
-Showroomprive.com est inscrit en qualité de mandataire d'assurance auprès de l'ORIAS (www.orias.fr) sous le numéro d'immatriculation 16003180.
-
 Par ailleurs Showroomprive.com dispose des numéros uniques suivants en application de l'article L541-10-3 du Code de l'environnement :
 
 |     |     |     |
