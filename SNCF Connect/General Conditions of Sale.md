@@ -54,23 +54,23 @@ VOYAGEURS FERROVIAIRES .........................................................
 
 ARTICLE 4. PRESTATIONS D’AUTOCAR................................................................................................... 13
 
-ARTICLE 5. CARTES SNCF ...................................................................................................................... 13
+ARTICLE 5. CARTES SNCF ...................................................................................................................... 14
 
 CHAPITRE III - CONDITIONS GÉNÉRALES APPLICABLES AUX PRESTATIONS VENDUES PAR LES
 
 PARTENAIRES DE SNCF CONNECT ................................................................................................... 14
 
-ARTICLE 6. PRESTATIONS «LOCATION DE VOITURE »................................................................................. 14
+ARTICLE 6. PRESTATIONS « LOCATION DE VOITURE » ................................................................................ 14
 
 ARTICLE 7. PRESTATIONS « JUNIOR \& CIE », « MES BAGAGES », « RESTAU A BORD », « MAX ACTIF + », « MAX
 
-ACTIF », « MAX JEUNE » ET « MAX SENIOR »................................................................................................ 14
+ACTIF », « MAX JEUNE » ET « MAX SENIOR »................................................................................................ 15
 
 ARTICLE 8. PRESTATIONS DE COVOITURAGE ......................................................................................... 15
 
 ARTICLE 9. PRESTATIONS URBAINS ....................................................................................................... 15
 
-ARTICLE 10. PRESTATIONS HOTELIERES .................................................................................................. 15
+ARTICLE 10. PRESTATIONS HOTELIERES .................................................................................................. 16
 
 ARTICLE 11. PRESTATIONS TAXI VTC ........................................................................................................ 16
 
@@ -88,7 +88,7 @@ ARTICLE 12. CONDITIONS FINANCIÈRES DES PRESTATIONS ............................
 
 12.2.1 Règlement par carte de paiement ...................................................................................... 16
 
-12.2.2 Règlement par Chèque-Vacances Connect ........................................................................ 17
+12.2.2 Règlement par Chèque-Vacances Connect ........................................................................ 18
 
 12.2.3 Règlement par paiement fractionné via le prestataire ALMA................................................. 18
 
@@ -98,7 +98,7 @@ ARTICLE 12. CONDITIONS FINANCIÈRES DES PRESTATIONS ............................
 
 12.2.6 Règlement par Bon d’Achat Digital ..................................................................................... 20
 
-12.4 FRAIS DE CARTE BANCAIRE ET DE CRÉDIT ........................................................................ 20
+12.4 FRAIS DE CARTE BANCAIRE ET DE CRÉDIT ........................................................................ 21
 
 12.5 FACTURATION ............................................................................................................... 21
 
@@ -108,7 +108,7 @@ ARTICLE 13. FORMALITÉS ........................................................
 
 ARTICLE 14. ASSURANCES....................................................................................................................... 22
 
-ARTICLE 15. INFORMATIONS,RÉCLAMATIONS ET MÉDIATION................................................................. 23
+ARTICLE 15. INFORMATIONS, RÉCLAMATIONS ET MÉDIATION ................................................................. 23
 
 15.1 POUR LES PRESTATIONS PROPOSÉES PAR SNCF CONNECT AU NOM ET POUR LE COMPTE DE
 
@@ -146,13 +146,13 @@ PRÉAMBULE
 
 
 
-Sauf disposition expresse contraire, les prestations présentes sur le site Internet http://www.sncf-
+Sauf disposition expresse contraire, les prestations présentes sur le site Internet
 
-connect.com sont proposées par la société SNCF Connect au nom et pour le compte de ses
+https://www.sncf-connect.com/ sont proposées par la société SNCF Connect au nom et pour le
 
-Partenaires (SNCF VOYAGEURS, OUIGO, BlaBlaCar, Flixbus....) ou par ses Partenaires en direct via
+compte de ses Partenaires (SNCF VOYAGEURS, OUIGO, BlaBlaCar, Flixbus....) ou par ses
 
-leurs marques co-brandées.
+Partenaires en direct via leurs marques co-brandées.
 
 
 
@@ -174,13 +174,13 @@ par le Code du Tourisme, auprès de GAN EUROCOURTAGE IARD, Tour GAN Eurocourtage
 
 avenue d’Alsace - 92033 LA DEFENSE Cedex, pour les dommages corporels, matériels et
 
-3
-
-
-
 immatériels résultant de son activité professionnelle, pour un montant de 7.622.451 euros par
 
 sinistre et par année d’assurance.
+
+3
+
+
 
 CHAPITRE I - GÉNÉRALITÉS
 
@@ -274,13 +274,23 @@ transport vendues seules. Aussi, les prestations de transports sèches et/ou com
 
 ces dernières ne peuvent se voir appliquer ladite règlementation.
 
+
+
+Si, après avoir commandé votre billet de train et l’avoir payé, vous réservez un service de voyage
+
+supplémentaire pour votre voyage par l’intermédiaire de SNCF CONNECT, vous ne bénéficiez pas
+
+des droits applicables aux forfaits au titre de la Directive (UE) 2015/2302 et de l’article L211-2 du
+
 4
 
 
 
-Si, après avoir commandé votre billet de train et l’avoir payé, vous réservez un service de voyagesupplémentaire pour votre voyage par l’intermédiaire de SNCF CONNECT, vous ne bénéficiez pas
+code du tourisme. En conséquence, seul le Partenaire de SNCF CONNECT sera tenu responsable
 
-des droits applicables aux forfaits au titre de la Directive (UE) 2015/2302 et de l’article L211-2 ducode du tourisme. En conséquence, seul le Partenaire de SNCF CONNECT sera tenu responsablede la bonne exécution de la prestation de voyage tels que, par exemple, un hébergement ou delocation de voiture vendues séparément.
+de la bonne exécution de la prestation de voyage tels que, par exemple, un hébergement ou de
+
+location de voiture vendues séparément.
 
 
 
@@ -290,19 +300,31 @@ de voiture, au cours de la même visite de notre site et ce, dans les 24 heures 
 
 commande de billet de train, ce service fera partie d’une prestation de voyage liée. Dans ce cas,
 
-SNCF CONNECT dispose, comme l’exige le droit de l’Union européenne, d’une protection afin devous rembourser les sommes que vous lui avez versées pour des services qui n’ont pas été
+SNCF CONNECT dispose, comme l’exige le droit de l’Union européenne, d’une protection afin de
+
+vous rembourser les sommes que vous lui avez versées pour des services qui n’ont pas été
 
 exécutés en raison de son insolvabilité.
 
 
 
-SNCF CONNECT a souscrit une protection contre l’insolvabilité auprès de APST. Vous pouvezprendre contact avec APST, 15 avenue Carnot,75017 Paris, info@apst.travel, 01 44 09 25 35, si
+SNCF CONNECT a souscrit une protection contre l’insolvabilité auprès de APST. Vous pouvez
+
+prendre contact avec APST, 15 avenue Carnot,75017 Paris, info@apst.travel, 01 44 09 25 35, si
 
 l’exécution de votre prestation est refusée en raison de l’insolvabilité de SNCF CONNECT.
 
-Remarque : cette protection contre l’insolvabilité ne s’applique pas aux contrats conclus avec desparties autres que SNCF CONNECT qui peuvent être exécutées en dépit de l’insolvabilité de SNCFCONNECT.
+Remarque : cette protection contre l’insolvabilité ne s’applique pas aux contrats conclus avec des
 
-Directive (UE) 2015/2302 transposée en droit nationalhttps ://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=B6B56671A51841699A8FB7B4B5
+parties autres que SNCF CONNECT qui peuvent être exécutées en dépit de l’insolvabilité de SNCF
+
+CONNECT.
+
+
+
+Directive (UE) 2015/2302 transposée en droit national
+
+https ://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=B6B56671A51841699A8FB7B4B5
 
 EB08A2.tplgfr21s_1?idArticle=LEGIARTI000036242695\&cidTexte=LEGITEXT000006074073\&categ
 
@@ -310,35 +332,59 @@ EB08A2.tplgfr21s_1?idArticle=LEGIARTI000036242695\&cidTexte=LEGITEXT000006074073
 
 Les présentes conditions générales de vente et d’utilisation (ci-après les « Conditions Générales »),
 
-ainsi que les Conditions Spécifiques applicables à chaque Prestation, s’appliquent à touteutilisation du Site, notamment à la commercialisation de l’ensemble des Prestations proposéessur le Site par SNCF Connect au nom et pour le compte de leurs Partenaires ou en direct par lesPartenaires via leur marque cobrandée ou via un lien hypertexte renvoyant vers leur site.
+ainsi que les Conditions Spécifiques applicables à chaque Prestation, s’appliquent à toute
 
-Elles sont valables à compter du 2 juillet 2026. Cette édition annule et remplace les versionsantérieures.
+utilisation du Site, notamment à la commercialisation de l’ensemble des Prestations proposées
+
+sur le Site par SNCF Connect au nom et pour le compte de leurs Partenaires ou en direct par les
+
+Partenaires via leur marque cobrandée ou via un lien hypertexte renvoyant vers leur site.
 
 
 
-L’Utilisateur est invité à lire attentivement les présentes Conditions Générales, qui sontréférencées par hyperlien sur chaque page du Site. Il est conseillé à l’Utilisateur de les téléchargeret/ou de les imprimer et d’en conserver une copie. Dès lors que celles-ci peuvent être modifiées à
+Elles sont valables à compter du 2 septembre 2026. Cette édition annule et remplace les versions
 
-tout moment et sans préavis, il est impératif que l’Utilisateur consulte et accepte les ConditionsGénérales au moment où il effectue sa réservation, notamment afin de s’assurer des dispositions
+antérieures.
 
-en vigueur. Cependant, de telles modifications ne seront pas applicables aux réservationspréalablement effectuées et confirmées par SNCF Connect.
+
+
+L’Utilisateur est invité à lire attentivement les présentes Conditions Générales, qui sont
+
+référencées par hyperlien sur chaque page du Site. Il est conseillé à l’Utilisateur de les télécharger
+
+et/ou de les imprimer et d’en conserver une copie. Dès lors que celles-ci peuvent être modifiées à
+
+tout moment et sans préavis, il est impératif que l’Utilisateur consulte et accepte les Conditions
+
+Générales au moment où il effectue sa réservation, notamment afin de s’assurer des dispositions
+
+en vigueur. Cependant, de telles modifications ne seront pas applicables aux réservations
+
+préalablement effectuées et confirmées par SNCF Connect.
 
 Article 2. UTILISATION DU SITE WWW.SNCF-CONNECT.COM
 
 
 
-La Commande de Prestations est réservée aux Utilisateurs ayant pris connaissance et accepté parun clic, ou, le cas échéant, par téléphone, les présentes Conditions Générales dans leurintégralité, ainsi que les Conditions Spécifiques propres à chaque Prestation, de façon préalable à
+La Commande de Prestations est réservée aux Utilisateurs ayant pris connaissance et accepté par
+
+un clic, ou, le cas échéant, par téléphone, les présentes Conditions Générales dans leur
+
+intégralité, ainsi que les Conditions Spécifiques propres à chaque Prestation, de façon préalable à
 
 chaque Commande. L’acceptation expresse de ces Conditions Générales et des Conditions
 
-Spécifiques se fait en validant la commande. Sans cette acceptation, la poursuite du processus deréservation est techniquement impossible.
+Spécifiques se fait en validant la commande. Sans cette acceptation, la poursuite du processus de
 
-5
+réservation est techniquement impossible.
 
 
 
 Le Site est constitué d’un espace accessible sans restriction, sur laquelle est proposé l’ensemble
 
 des Prestations (ci-après l’« Espace Loisirs »).
+
+5
 
 
 
@@ -368,11 +414,45 @@ tiers utilisant vos données sur ce Site.
 
 
 
-Une utilisation du service de réservation de ce Site, frauduleuse ou qui contreviendrait aux
+Toute utilisation du Site ou du service de réservation frauduleuse, contraire aux présentes
 
-présentes Conditions Générales, pourra entraîner le refus par SNCF Connect, à tout moment, de
+Conditions Générales, ou réalisée en violation des droits de SNCF Connect, de ses sociétés
 
-Vous permettre d’accéder aux Prestations proposées sur ledit Site.
+affiliées ou de ses Partenaires, pourra entraîner, à tout moment, le refus, la suspension ou la
+
+limitation de l’accès au Site et aux Prestations qui y sont proposées.
+
+
+
+Sont notamment interdits, sans autorisation écrite préalable de SNCF Connect, le recours à tout
+
+procédé automatisé, robot, logiciel, script ou dispositif analogue, la collecte, l’extraction, la
+
+reproduction, la réutilisation ou l’exploitation, notamment à des fins commerciales, des données,
+
+contenus, disponibilités, tarifs ou offres accessibles sur le Site, ainsi que le contournement de tout
+
+dispositif technique, de sécurité, de contrôle d’accès ou de tout canal de distribution agréé.
+
+
+
+En cas de violation de ces obligations, SNCF Connect pourra, le cas échéant et pour le compte du
+
+Transporteur ou Partenaire concerné, refuser, suspendre ou annuler toute Commande, y compris
+
+lorsqu’elle a déjà été confirmée, et invalider tout titre de transport, e-billet ou document de voyage
+
+émis dans ce cadre.
+
+
+
+Les sommes dont le remboursement est dû au titre d’une Commande ainsi annulée seront
+
+restituées exclusivement sur le moyen de paiement utilisé lors de la Commande, sans préjudice
+
+du droit de SNCF Connect, du Transporteur et/ou du Partenaire concerné de réclamer réparation
+
+de l’ensemble des préjudices subis.
 
 
 
@@ -412,6 +492,10 @@ non surtaxé), par le formulaire électronique présent sur le Site à la rubriq
 
 messagerie disponible sur l’application via le bot TiBot, de toute modification qui pourrait les
 
+6
+
+
+
 affecter, afin de leur permettre de s’assurer que Vous bénéficierez des Prestations que Vous avez
 
 commandées.
@@ -436,8 +520,6 @@ Toutes les conditions d'annulation, de modification éventuelle des Commandes et
 
 remboursement sont définies dans les Conditions Spécifiques applicables à chaque Prestation.
 
-6
-
 
 
 Nous attirons votre attention sur le fait que certaines Prestations ne sont ni annulables, ni
@@ -449,6 +531,8 @@ modifiables. Vous en êtes informé avant validation de votre Commande.
 En tout état de cause, les frais de dossier ainsi que les assurances souscrites ne sont pas
 
 remboursables en cas d’annulation.
+
+
 
 2.2 LIVRAISON
 
@@ -474,8 +558,6 @@ l’adresse de livraison se trouve en France métropolitaine. En période de per
 
 d’envoi des billets peuvent s’en trouver rallongés.
 
-
-
 2.3 PREUVE
 
 
@@ -500,6 +582,8 @@ conditions et avec la même force probante que tout document qui serait établi,
 
 par écrit.
 
+
+
 2.4 DROIT DE RÉTRACTATION
 
 
@@ -509,6 +593,8 @@ Vous êtes informé que, en application des articles L. 221-2 et L. 221-28 du Co
 consommation, les contrats portant sur des services de transport de passagers ne sont pas
 
 soumis au droit de rétractation.
+
+7
 
 
 
@@ -540,10 +626,6 @@ exécuté. Ce droit ne peut plus être exercé lorsque la Carte SNCF a déjà é
 
 réalisation d’un voyage éligible aux réductions de ladite carte et sous réserve (i) d’une demande
 
-7
-
-
-
 expresse de Votre part et (ii) de Votre accord préalable à la perte de Votre droit de rétractation.
 
 Sans la réunion de ces deux conditions, aucuns frais ne pourront vous être facturé.
@@ -569,8 +651,6 @@ remboursement intégral du montant de la Carte SNCF ou sur la carte bancaire aya
 et ce dans les meilleurs délais. Dans le cas où le paiement a été effectué en Chèque-Vacances
 
 Connect, le remboursement s’opérera sous forme de bon d’achat dématérialisé.
-
-
 
 CHAPITRE II – CONDITIONS GÉNÉRALES APPLICABLES
 
@@ -612,6 +692,8 @@ faire l’objet d’une demande spécifique auprès transporteur qui reste seul 
 
 issue.
 
+8
+
 
 
 Par ailleurs, votre voyage peut être composé de deux trajets distincts opérés par différents
@@ -637,10 +719,6 @@ musique, des skis ou une planche) à condition de respecter certaines dimensions
 90x130x50 cm, auquel cas le nombre de bagages ordinaires est réduit. Les bagages doivent
 
 pouvoir être transportés et rangés par le voyageur lui-même dans les espaces prévus sans gêner la
-
-8
-
-
 
 circulation. Chaque bagage doit être étiqueté avec le nom et le prénom du voyageur, faute de quoi
 
@@ -720,6 +798,8 @@ votre Commande.
 
 • Vous pouvez procéder à l’impression de votre confirmation e-billet :
 
+9
+
 
 
 o soit immédiatement à l’issue de votre Commande, en cliquant sur le lien « Imprimer
@@ -747,10 +827,6 @@ le mail de confirmation de Commande,
 o soit ultérieurement, sur une borne libre-service, avec la carte bancaire qui a servi au
 
 paiement de la Commande ou votre référence dossier voyage avec le nom qui lui est
-
-9
-
-
 
 associé, ou aux guichets des gares, avec la référence dossier voyage qui vous a été
 
@@ -830,6 +906,10 @@ gares SNCF en France métropolitaine, y compris lorsque ce billet vous est fourn
 
 cadre d’une Prestation « Location de Voiture » ;
 
+10
+
+
+
 o Soit opter pour l’envoi à domicile si le délai entre la date de passation de Commande et
 
 celle du voyage est d’au moins 7 jours lorsque l’adresse de livraison se trouve en France
@@ -854,10 +934,6 @@ Nous attirons votre attention sur le fait que le nom de la personne ayant effect
 
 que le numéro de commande vous seront demandés afin de retirer votre billet en Borne Libre-Service,
 
-10
-
-
-
 situées en France métropolitaine ou en gare de Luxembourg, aux guichets des gares ou en Boutiques
 
 SNCF situés en France métropolitaine, y compris lorsque ce billet Vous est fourni dans le cadre d’une
@@ -873,6 +949,8 @@ chèque et retirer votre billet aux guichets des gares ou en boutique SNCF, situ
 métropolitaine, il faudra vous y présenter avec 2 pièces d’identité (et un extrait k bis de moins de 3 mois
 
 pour les sociétés).
+
+
 
 3.3 CONDITIONS DU E-BILLET EUROSTAR
 
@@ -932,6 +1010,8 @@ Vous devez impérativement respecter l’heure limite d’enregistrement indiqu�
 
 destination, qui est de minimum 5 minutes avant le départ du train.
 
+11
+
 
 
 3.3.2 Particularités pour les Ebillets EUROSTAR à destination de Londres, Royaume Uni.
@@ -959,8 +1039,6 @@ Par ailleurs et dans le cadre des exigences règlementaires du gouvernement brit
 devrez transmettre au transporteur Eurostar les informations suivantes afin d’obtenir votre titre de
 
 transport :
-
-11
 
 
 
@@ -1036,6 +1114,10 @@ droits et,
 
 2. Votre trajet avec correspondance(s) est réglé par paiement unique et,
 
+12
+
+
+
 3. Chacune des correspondances respecte les temps minimum et maximum définis par le ou
 
 les transporteurs (pour connaître les temps minimum et maximum à respecter pour vos
@@ -1056,15 +1138,13 @@ correspondances de votre trajet sont exclusivement assurées par ces deux transp
 
 et,
 
-12
-
-
-
 6. Votre trajet est effectué en France ou sur une ligne des Paris-Luxembourg, Paris-Fribourg,
 
-Paris-Barcelone, Paris-Milan ou sur la partie française des lignes France-Allemagne, France-
+Paris-Barcelone, Paris-Milan ou sur la partie française des lignes France-Allemagne,
 
-Suisse (Lyria), France-Bruxelles, France-Luxembourg, France-Italie et Paris-Vienne et,
+France-Suisse (Lyria), France-Bruxelles, France-Luxembourg, France-Italie et Paris-Vienne
+
+et,
 
 7. Le billet porte le numéro de train, la date et l’horaire de chaque trajet.
 
@@ -1124,7 +1204,7 @@ préalablement à Votre choix. Les demandes de remboursement devront être adres
 
 directement à chaque transporteur concerné qui disposera d’un délai de 30 jours à
 
-compter de la réception de votre demande pour y procéder;
+compter de la réception de votre demande pour y procéder ;
 
 - ou vous pourrez poursuivre votre voyage ou être réacheminé vers votre destination finale
 
@@ -1137,6 +1217,10 @@ ultérieure à votre convenance.
 Le réacheminement devra être réalisé sans coûts supplémentaires pour vous. Si tel est le cas, ces
 
 coûts devront vous être remboursés. De même, si le transporteur ne communique pas les options
+
+13
+
+
 
 de réacheminement dans un délai de 100 minutes à compter du départ prévu, vous pourrez
 
@@ -1159,10 +1243,6 @@ une indemnité qui sera au minimum de :
 
 
 - 25% du prix du billet en cas de retard d’une durée comprise entre 60 et 119 minutes,
-
-13
-
-
 
 - 50% du prix du billet en cas de retard de 120 minutes ou plus.
 
@@ -1244,6 +1324,8 @@ Prestations peuvent s’accompagner de frais de financement liés à la commande
 
 remboursables en cas d’annulation.
 
+14
+
 
 
 L’encaissement des Commandes et les frais de financement éventuels associés sont effectués
@@ -1259,8 +1341,6 @@ Article 5. CARTES SNCF
 Les Prestations ferroviaires sont proposées par SNCF Connect au nom et pour le compte de SNCF
 
 VOYAGEURS.
-
-14
 
 
 
@@ -1292,11 +1372,11 @@ obligatoirement retirée avant sa date de début de validité.
 
 CHAPITRE III - CONDITIONS GÉNÉRALES APPLICABLES
 
-AUX PRESTATIONS VENDUES PAR LES PARTENAIRES DE
+AUX PRESTATIONS VENDUES PAR LES PARTENAIRES
 
-SNCF CONNECT
+DE SNCF CONNECT
 
-Article 6. PRESTATIONS «LOCATION de Voiture »
+Article 6. PRESTATIONS « LOCATION de Voiture »
 
 
 
@@ -1323,6 +1403,8 @@ Commande. Ces Conditions Spécifiques constituent, avec les Conditions Général
 des conditions contractuelles applicables à l’exécution de la Prestation et doivent être lues
 
 attentivement et intégralement et acceptées avant toute Commande.
+
+15
 
 
 
@@ -1353,10 +1435,6 @@ Elles sont soumises aux Conditions Spécifiques et les Conditions de vente de SN
 ou des Partenaires de SNCF Connect disponibles lors de la Commande. Toutes ces Conditions
 
 relatives à la fourniture de Prestations ferroviaires sont accessibles au moment de votre
-
-15
-
-
 
 Commande. Ces Conditions Spécifiques constituent, avec les Conditions Générales, l’intégralité
 
@@ -1428,6 +1506,8 @@ des conditions contractuelles applicables à l’exécution de la Prestation et 
 
 attentivement et intégralement et acceptées avant toute Commande.
 
+16
+
 
 
 La vente, l’encaissement et la gestion des Commandes sont exclusivement assurés par SNCF
@@ -1455,8 +1535,6 @@ Conditions Spécifiques constituent, avec les Conditions Générales, l’intég
 contractuelles applicables à l’exécution de la Prestation et doivent être lues attentivement et
 
 intégralement et acceptées avant toute Commande.
-
-16
 
 
 
@@ -1492,8 +1570,6 @@ La vente, l’encaissement, la facturation et la gestion des Commandes sont excl
 
 assurées par le Partenaire concerné.
 
-
-
 CHAPITRE IV – CONDITIONS FINANCIÈRES
 
 Article 12. CONDITIONS FINANCIÈRES DES PRESTATIONS
@@ -1524,6 +1600,10 @@ Le règlement s’effectue soit par SNCF Connect au nom et pour le compte de ses
 
 directement auprès des Partenaires lors de la Commande selon les Prestations commandées. Le
 
+17
+
+
+
 règlement se fera par communication de votre numéro de carte bancaire au moyen d’un système
 
 de paiement sécurisé.
@@ -1551,10 +1631,6 @@ Par ailleurs et pour le règlement de vos billets de train, vos billets d’auto
 associées, Vous avez la possibilité de payer également par carte de paiement (Carte bancaire, Visa
 
 et Master Card) via Apple Pay. Ce règlement ne peut se faire que sur l’application SNCF Connect
-
-17
-
-
 
 (avec une version iOS 9 minimum) et sur le site (uniquement avec un macOS 10.12). Pour cela,
 
@@ -1628,6 +1704,8 @@ incidents de paiement. Le cas échéant, l’Utilisateur ne pourra pas utiliser 
 
 passer des commandes sur le Site.
 
+18
+
 
 
 12.2.2 Règlement par Chèque-Vacances Connect
@@ -1659,10 +1737,6 @@ Pour régler par Chèque-Vacances Connect, un certain nombre de conditions sont 
 
 
 - Disposer d’un smartphone et y avoir téléchargé et activé l’application ANCV,
-
-18
-
-
 
 - Avoir préalablement créé un compte ANCV via https://cheque-vacances-
 
@@ -1738,6 +1812,8 @@ Vous avez la possibilité de régler votre commande en 3 ou 4 fois par carte de 
 
 notre prestataire Alma.
 
+19
+
 
 
 Le paiement en plusieurs fois par carte est une solution qui Vous permet d’échelonner le
@@ -1766,8 +1842,6 @@ RCS Nanterre, Vous bénéficiez du délai légal de rétractation de votre finan
 
 compter de la date d’acceptation du contrat de paiement échelonné directement auprès d’Alma.
 
-19
-
 
 
 En cas d’échange avec surcoût, le paiement en plusieurs fois avec ALMA, ne sera pas disponible.
@@ -1782,15 +1856,17 @@ Le règlement de votre Commande peut être réalisé avec le moyen de paiement P
 
 bénéficier de ce moyen de paiement, Vous devez avoir un compte auprès de la société PayPal au
 
-moment de votre Commande, et avoir accepté de vous conformer à toutes les conditions générales
+moment de votre Commande, et avoir accepté de vous conformer à toutes les conditions
 
-de PayPal accessibles ici https://www.paypal.com/fr/legalhub/paypal/useragreement-full.
+générales de PayPal accessibles ici https://www.paypal.com/fr/legalhub/paypal/useragreement-
+
+full.
 
 
 
-Le règlement avec le moyen de paiement PayPal peut être utilisé pour tout panier supérieur à trente
+Le règlement avec le moyen de paiement PayPal peut être utilisé pour tout panier supérieur à
 
-(30) euros.
+trente (30) euros.
 
 
 
@@ -1800,19 +1876,19 @@ de train, ainsi que les Cartes SNCF, les abonnements TER, le Pass hebdomadaire e
 
 Forfait ligne classique, les services (animal \& vélo), à l’exclusion de l’achat des Abonnements Max,
 
-de services complémentaires, ainsi que pour les prestations proposées par les partenaires de SNCF
+de services complémentaires, ainsi que pour les prestations proposées par les partenaires de
 
-Connect tel que l’achat de mobilités urbaines et assurance.
+SNCF Connect tel que l’achat de mobilités urbaines et assurance.
 
 
 
-Le moyen de paiement PayPal vous propose également de régler votre Commande en quatre (4) fois
+Le moyen de paiement PayPal vous propose également de régler votre Commande en quatre (4)
 
-sans frais pour tout achat éligible compris entre 30 euros et 2000 euros. Un paiement initial est
+fois sans frais pour tout achat éligible compris entre 30 euros et 2000 euros. Un paiement initial est
 
-effectué au moment de l’achat de la Commande et est suivi d’un étalement des échéances sur trois
+effectué au moment de l’achat de la Commande et est suivi d’un étalement des échéances sur
 
-(3) mois à compter de la validation de la Commande.
+trois (3) mois à compter de la validation de la Commande.
 
 
 
@@ -1836,9 +1912,9 @@ ligne, sur le site et l’application SNCF Connect
 
 Le règlement de Votre Commande peut être réalisé avec le moyen de paiement Google Pay. Pour
 
-bénéficier de ce moyen de paiement, Vous devez être en possession d’un téléphone Android, et avoir
+bénéficier de ce moyen de paiement, Vous devez être en possession d’un téléphone Android, et
 
-enregistré votre moyen de paiement dans votre Google Wallet.
+avoir enregistré votre moyen de paiement dans votre Google Wallet.
 
 
 
@@ -1846,15 +1922,19 @@ Le règlement avec le moyen de paiement Google Pay peut être utilisé pour tous
 
 éligibles.
 
+20
+
 
 
 Le règlement avec le moyen de paiement Google Pay peut être utilisé lors de l’achat de tous les
 
-billets de train, ainsi que les Cartes SNCF, les abonnements TER, le Pass hebdomadaire et mensuel,
+billets de train, ainsi que les Cartes SNCF, les abonnements TER, le Pass hebdomadaire et
 
-le Forfait ligne classique, les services (animal \& vélo), ainsi que les prestations proposées par les
+mensuel, le Forfait ligne classique, les services (animal \& vélo), ainsi que les prestations
 
-partenaires de SNCF Connect tel que l’achat de mobilités urbaines, l’assurance et le don.
+proposées par les partenaires de SNCF Connect tel que l’achat de mobilités urbaines, l’assurance
+
+et le don.
 
 
 
@@ -1864,11 +1944,9 @@ sans limitation de montant.
 
 
 
-En cas d’échange avec surcoût, le paiement avec Google Pay ne sera pas disponible. Ce surcoût ne
+En cas d’échange avec surcoût, le paiement avec Google Pay ne sera pas disponible. Ce surcoût
 
-pourra être réglé que par carte bancaire.
-
-20
+ne pourra être réglé que par carte bancaire.
 
 
 
@@ -1878,17 +1956,17 @@ pourra être réglé que par carte bancaire.
 
 Le règlement par Bon d'Achat Digital est disponible pour les commandes de billets de train auprès
 
-des seuls transporteurs suivants : TGV Inoui, Intercités, TGV Européens (dont TGV France Bruxelles,
+des seuls transporteurs suivants : TGV Inoui, Intercités, TGV Européens (dont TGV France
 
-TGV France Luxembourg, TGV France Fribourg, Lyria, TGV France Italie, DB-SNCF en coopération,
+Bruxelles, TGV France Luxembourg, TGV France Fribourg, Lyria, TGV France Italie, DB-SNCF en
 
-TGV France Espagne.
+coopération, TGV France Espagne.
 
 
 
-Le Bon d'Achat Digital peut être utilisé lors de l'achat de tous les billets de train (tous les tarifs), ainsi
+Le Bon d'Achat Digital peut être utilisé lors de l'achat de tous les billets de train (tous les tarifs),
 
-que les Cartes SNCF (Avantage et Liberté), le Pass hebdomadaire et mensuel, le Forfait ligne
+ainsi que les Cartes SNCF (Avantage et Liberté), le Pass hebdomadaire et mensuel, le Forfait ligne
 
 classique, les services (animal \& vélo).
 
@@ -1902,9 +1980,11 @@ Junior\&Cie).
 
 
 
-Le Bon d'Achat Digital constitue un moyen de paiement et ne s’apparente pas à un bon de réduction.
+Le Bon d'Achat Digital constitue un moyen de paiement et ne s’apparente pas à un bon de
 
-Le Bon d'Achat Digital ne modifie pas le prix de votre Commande, mais réduit votre reste à payer.
+réduction. Le Bon d'Achat Digital ne modifie pas le prix de votre Commande, mais réduit votre reste
+
+à payer.
 
 
 
@@ -1918,11 +1998,11 @@ transporteurs partenaires.
 
 
 
-Vous pouvez utiliser le Bon d'Achat Digital pour payer l'entièreté de votre Commande. Si le montant
+Vous pouvez utiliser le Bon d'Achat Digital pour payer l'entièreté de votre Commande. Si le
 
-du Bon d'Achat Digital ne le permet pas, Vous pouvez utiliser votre carte bancaire, Apple Pay ou
+montant du Bon d'Achat Digital ne le permet pas, Vous pouvez utiliser votre carte bancaire, Apple
 
-Google Pay pour couvrir le reste à payer.
+Pay ou Google Pay pour couvrir le reste à payer.
 
 
 
@@ -1934,15 +2014,15 @@ accessibles. Les autres billets ne seront pas accessibles à l’échange.
 
 
 
-Par ailleurs, dans le cas où Vous devriez payer un complément pour réaliser l’échange de vos billets,
+Par ailleurs, dans le cas où Vous devriez payer un complément pour réaliser l’échange de vos
 
-ce complément ne pourra être réglé que par carte bancaire ou Apple Pay ou Google Pay.
+billets, ce complément ne pourra être réglé que par carte bancaire ou Apple Pay ou Google Pay.
 
 
 
-En cas d’annulation de vos billets, nous vous rembourserons l’intégralité du montant du Bon d’Achat
+En cas d’annulation de vos billets, nous vous rembourserons l’intégralité du montant du Bon
 
-Digital utilisé lors de votre commande.
+d’Achat Digital utilisé lors de votre commande.
 
 
 
@@ -1951,6 +2031,8 @@ Le Bon d'Achat Digital est non-personnel, divisible et transférable.
 
 
 Le paiement par Bon d'Achat Digital est autorisé dans la limite de trois (3) par commande.
+
+21
 
 
 
@@ -1977,10 +2059,6 @@ française, votre banque peut convertir le montant du paiement dans votre devise
 facturer des frais de conversion. Cela signifie que le montant énoncé sur votre relevé de carte de
 
 crédit ou de compte bancaire peut être dans votre devise locale et, par conséquent, peut-être d'un
-
-21
-
-
 
 montant différent de celui affiché sur la page de récapitulatif de paiement pour la réservation
 
@@ -2052,7 +2130,11 @@ le cas échéant, de transit.
 
 Il est conseillé aux ressortissants français de consulter le lien suivant pour plus d'information sur
 
-les exigences applicables en termes de passeports : http://www.diplomatie.gouv.fr/fr/conseils-
+les exigences applicables en termes de passeports : https://www.diplomatie.gouv.fr/fr/conseils-
+
+22
+
+
 
 aux-voyageurs/infos-pratiques-20973/preparer-son-depart-20975/formalites-
 
@@ -2072,13 +2154,11 @@ destinations internationales particulières peuvent être consultées à partir 
 
 Conseils aux voyageurs par pays (site internet de France Diplomatie)
 
-http://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays/
+https://www.diplomatie.gouv.fr/fr/conseils-aux-voyageurs/conseils-par-pays/
 
 
 
 Les mineurs ou plus doivent être impérativement en possession de papiers d'identité à leur nom.
-
-22
 
 
 
@@ -2102,7 +2182,7 @@ nécessaires pour voyager dans les pays où Vous vous rendez ou pour lesquels Vo
 
 transit. Des conseils médicaux à l'attention des voyageurs peuvent être consultés
 
-http://www.pasteur.fr/fr/map. Pour tout avis médical lié à votre séjour, il Vous est conseillé de
+https://www.pasteur.fr/fr/map. Pour tout avis médical lié à votre séjour, il Vous est conseillé de
 
 contacter votre médecin.
 
@@ -2124,7 +2204,7 @@ liées à la santé, que vous obtenez les inoculations recommandées, que vous p
 
 médicaments requis et que vous suivez tout conseil médical lié à votre voyage. Des conseils
 
-médicaux à l'attention des voyageurs peuvent être consultés http://www.pasteur.fr/fr/map. Pour
+médicaux à l'attention des voyageurs peuvent être consultés https://www.pasteur.fr/fr/map. Pour
 
 tout avis médical lié à votre séjour, veuillez contacter votre médecin.
 
@@ -2158,6 +2238,8 @@ conséquences de certains cas d’annulation et d’un contrat d’assistance co
 
 particuliers notamment les frais de rapatriement en cas d’accident ou de maladie.
 
+23
+
 
 
 A cette fin, différentes formules d’assurance Vous sont proposées sur le Site. Elles ont été
@@ -2180,8 +2262,6 @@ Les déclarations de sinistre se font directement auprès de la société d’as
 
 respectant les termes du contrat d’assurance.
 
-23
-
 
 
 Si vous justifiez d’une garantie antérieure pour les risques couverts par l’assurance souscrite, vous
@@ -2190,7 +2270,7 @@ avez la possibilité de renoncer sans frais à cette assurance, sur justificatif
 
 jours à compter de sa conclusion et tant qu’aucune garantie n’a été mise en œuvre.
 
-Article 15. INFORMATIONS,RÉCLAMATIONS ET MÉDIATION
+Article 15. INFORMATIONS, RÉCLAMATIONS ET MÉDIATION
 
 15.1 POUR LES PRESTATIONS PROPOSÉES PAR SNCF CONNECT AU NOM
 
@@ -2258,6 +2338,8 @@ Depuis l’historique des courses, cliquer sur le bouton “Besoin d’aide”
 
 ➢ Allianz Assurance : https://sncf-connect.allianz-protection.com/login-path
 
+24
+
 
 
 Si Vous avez effectué une réclamation auprès du Service Clients SNCF CONNECT et que Vous
@@ -2280,13 +2362,9 @@ ou via le formulaire en ligne https://mediation-sncf.my.site.com/mediation/ ;
 
 coordonnées et modalités de saisine sont disponibles sur son site :
 
-http://www.mtv.travel/.De même, conformément aux dispositions du Code de la
+https://www.mtv.travel/.De même, conformément aux dispositions du Code de la
 
 consommation concernant le règlement amiable des litiges, SNCF Connect adhère au
-
-24
-
-
 
 service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la
 
@@ -2298,7 +2376,7 @@ Connect, le service du Médiateur peut être saisi, par écrit, pour tout litige
 
 consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de
 
-saisine du Médiateur, cliquer sur : – http://www.mediateurfevad.fr .
+saisine du Médiateur, cliquer sur : – https://www.mediateurfevad.fr/.
 
 15.2 POUR LES PRESTATIONS VENDUES PAR LES PARTENAIRES DE SNCF
 
@@ -2360,6 +2438,8 @@ robots à des fins d’extraction, de reproduction de tout élément du Site, y 
 
 Prestations qui y sont présentées, notamment à des fins commerciales.
 
+25
+
 
 
 L'exploitation non préalablement autorisée par SNCF Connect, à quelque titre que ce soit, de tout
@@ -2379,8 +2459,6 @@ commerciales.
 L'insertion de liens hypertextes vers toute partie du Site est interdite sans autorisation préalable et
 
 écrite de SNCF Connect.
-
-25
 
 
 
@@ -2464,6 +2542,10 @@ Dans l’hypothèse où le Site contiendrait des liens hypertextes allant vers d
 
 appartient de prendre connaissance des politiques des Sites auxquels le Site vous renvoie,
 
+26
+
+
+
 notamment en matière de protection des données personnelles. SNCF Connect ne prend aucun
 
 engagement concernant tout autre site Internet auquel vous pourriez avoir accès via le Site et ils ne
@@ -2475,8 +2557,6 @@ sites.
 
 
 Toute création d’un lien vers le Site est soumise à l’approbation préalable de SNCF Connect.
-
-26
 
 
 
@@ -2505,8 +2585,6 @@ l’heure, la gare, l’identité du voyageur, le profil tarifaire, les réducti
 associés. SNCF Connect ne saurait être tenue responsable des conséquences résultant d’une
 
 erreur de saisie ou de sélection qui Vous serait imputable.
-
-
 
 17.3 POUR LA FOURNITURE DU E-BILLET
 
@@ -2566,6 +2644,8 @@ Les présentes Conditions Générales, et plus généralement les relations éta
 
 concluez avec SNCF Connect sont soumis au droit français.
 
+27
+
 
 
 Tout litige relatif à leur interprétation et/ou a leur exécution relève des tribunaux français.
@@ -2577,10 +2657,6 @@ recourir à une procédure de médiation conventionnelle ou à tout autre mode a
 règlement des litiges tels que définis en droit français et notamment par les Articles 1528 et
 
 suivants du Code de procédure civile.
-
-27
-
-
 
 Article 20. DISPOSITIONS FINALES
 
@@ -2618,7 +2694,7 @@ ANNEXE 1 : FORMULAIRE DE RETRACTATION CARTE AVANTAGE
 
 
 
-Formulaire de rétractation - Carte Avantage (document Word)
+Formulaire de rétractation – Carte Avantage
 
 
 
@@ -2626,4 +2702,4 @@ ANNEXE 2 : FORMULAIRE DE RETRACTATION CARTE LIBERTE
 
 
 
-Formulaire de rétractation – Carte Liberté (document Word)
+Formulaire de rétractation – Carte Liberté
