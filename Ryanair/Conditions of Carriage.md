@@ -423,7 +423,7 @@ Pour les vols à destination des pays de l’espace Schengen ou au départ de l�
 
 **6.6** Vous devez présenter des documents de voyage en cours de validité et correspondant aux données figurant sur votre Carte d’embarquement pour tous les vols à la fois au contrôle de sécurité de l’aéroport et aux portes d’embarquement.
 
-**6.7** Vous devez vous présenter aux portes d’embarquement au moins trente (30) minutes avant l’heure de départ prévue. L’embarquement se termine vingt (30) minutes avant le départ. Si vous arrivez plus tard à la porte d’embarquement, vous ne pourrez pas embarquer. Pour voyager sur un vol suivant, il vous faudra effectuer et payer une nouvelle réservation.
+**6.7** Vous devez vous présenter aux portes d’embarquement au moins trente (30) minutes avant l’heure de départ prévue. L’embarquement se termine trente (30) minutes avant le départ. Si vous arrivez plus tard à la porte d’embarquement, vous ne pourrez pas embarquer. Pour voyager sur un vol suivant, il vous faudra effectuer et payer une nouvelle réservation.
 
 **6.8** Si vous avez acheté l’« embarquement prioritaire » (cliquez ici pour voir les Règlements concernant l’embarquement prioritaire) et que vous vous rendez à la porte d’embarquement au moins trente (30) minutes avant le départ du vol, vous pourrez entrer dans l’avion avant les passagers qui ne l’ont pas acheté. Les passagers qui ont acheté un embarquement prioritaire ne seront pas invités à placer leur bagage à main dans la soute de l’appareil, sauf si cela s’avère nécessaire pour des raisons opérationnelles. Assurez-vous de retirer les objets de valeur de votre bagage à main, dans le cas où ce dernier devrait être placé en soute.
 
