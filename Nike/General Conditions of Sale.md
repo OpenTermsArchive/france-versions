@@ -232,7 +232,7 @@ Aucun frais de livraison supplémentaire ne vous sera facturé pour les livraiso
 
 4.3.        INSPECTION LORS DE LA LIVRAISON
 
-À la livraison, veuillez vérifier que l'emballage n'est pas endommagé. Si vous pensez que les Produits peuvent être endommagés, par exemple en raison d'un emballage endommagé, veuillez ne pas accepter la livraison. Nous vous prions de bien vouloir nous contacter immédiatement via la section « Nous contacter » de notre site web afin que nous puissions rapidement mener une enquête sur le colis endommagé et contacter le transporteur.
+Nous vous encourageons à vérifier dès que possible lors de la livraison, que l'emballage n'est pas endommagé. Si vous pensez que les Produits peuvent être endommagés, par exemple en raison d'un emballage endommagé, nous vous recommandons de ne pas accepter la livraison et vous prions de bien vouloir nous contacter dès que possible via la section « Nous contacter » de notre site web afin que nous puissions rapidement mener une enquête sur le colis endommagé et contacter le transporteur. Aucune disposition de la présente clause n'affecte ni ne limite le délai légal de notification qui vous est applicable ni vos droits au titre de la garantie légale en cas de Non-conformité prévus par la législation applicable.
 
 4.4.        FRAIS DE LIVRAISON
 
@@ -368,7 +368,7 @@ Lorsque nous recevrons votre retour, nous inspecterons les articles afin de vér
 
 **10. ÉVÉNEMENTS INDÉPENDANTS DE NOTRE VOLONTÉ**
 
-Un « **Evénement Indépendant de Notre Volonté** » désigne tout acte ou événement échappant à notre contrôle raisonnable, y compris, sans s'y limiter, les grèves, les lock-out ou autres actions industrielles menées par des tiers, les troubles civils, les émeutes, les invasions, les attaques terroristes ou les menaces d'attaques terroristes, les guerres (déclarées ou non) ou les menaces ou préparatifs de guerre, incendie, explosion, tempête, inondation, tremblement de terre, affaissement de terrain, épidémie, pandémie ou autre catastrophe naturelle, ou défaillance des réseaux de télécommunications publics ou privés, ou actes, réglementations ou restrictions de la part de toute autorité publique.
+Un « **Evénement Indépendant de Notre Volonté** » désigne tout acte ou événement échappant à notre contrôle raisonnable, y compris, sans s'y limiter, les grèves non annoncées, les lock-out ou autres actions industrielles menées par des tiers, les troubles civils, les émeutes, les invasions, les attaques terroristes ou les menaces d'attaques terroristes, les guerres (déclarées ou non) ou les menaces ou préparatifs de guerre, incendie, explosion, tempête, inondation, tremblement de terre, affaissement de terrain, épidémie, pandémie ou autre catastrophe naturelle, ou défaillance des réseaux de télécommunications publics ou privés, ou actes, réglementations ou restrictions de la part de toute autorité publique, entraînant dans chaque cas une impossibilité d’exécuter ses obligations au titre du Contrat qui ne peut raisonnablement être imputée à NIKE.
 
 Si un Evénement Indépendant de Notre Volonté survient et affecte l'exécution de nos obligations en vertu des présentes Conditions générales de vente :
 
