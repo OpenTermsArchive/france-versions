@@ -1,6 +1,6 @@
 **CONDITIONS DE VENTE**
 
-Dernière mise à jour : Février 2026
+Dernière mise à jour : septembre 2026
 
 **1.    INTRODUCTION & APPLICABILITÉ**
 
