@@ -84,8 +84,4 @@ Conformément aux dispositions du règlement, y compris le Considérant 77, nou
 
 Nous continuerons à suivre toute évolution et publierons tous les six mois des informations sur le nombre mensuel moyen de destinataires actifs de notre service dans l'Union européenne, conformément à l'article 24, paragraphe 2, du règlement.
 
-Airbnb Global Services Limited
-
-観光庁長官(02)第S0001号(2023年5月24日-2028年6月14日)
-
 © 2026 Airbnb, Inc. All rights reserved.
