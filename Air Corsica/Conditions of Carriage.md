@@ -442,6 +442,8 @@ Ces renseignements peuvent être communiqués à des autorités gouvernementales
 
 Vous nous autorisez, pour les finalités mentionnées ci-dessus, à conserver ces informations et à les transmettre à nos agences, à nos Agents Accrédités, aux autorités gouvernementales, aux Transporteurs, ainsi qu’aux prestataires concernés, quels que soient l’État ou le territoire où ils sont situés, dans le respect du droit applicable.
 
+Pour plus d'informations relatives au traitement de vos Données personnelles, nous vous invitons à vous référer à notre Politique de confidentialité, disponible en cliquant sur le lien suivant : [https://www.aircorsica.com/politique-de-confidentialite.html](https://www.aircorsica.com/politique-de-confidentialite.html)
+
 **6.3. Attribution des sièges**
 
 Nous nous efforcerons de satisfaire vos demandes d'attribution de siège. Toutefois, nous ne pouvons garantir l'attribution d'un siège donné, même si votre réservation mentionne ce siège, sous réserve de la classe réservée.
