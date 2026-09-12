@@ -4,7 +4,7 @@ Politique de confidentialité d'Air Corsica
 **Le présent document vise à vous donner toute l’information disponible sur les traitements de données personnelles que peut mettre en œuvre Air Corsica dans le cadre de son activité de transporteur aérien.**
 
 ### Politique de Confidentialité en matière de traitement des données personnelles.  
-Air Corsica. Version 1.8 temporaire du mardi 18 avril 2023. Mise en ligne le 18 avril 2023.
+Air Corsica. Mise en ligne le 09 septembre 2026
 
 ### Chapitre 1 – Généralités
 
@@ -34,7 +34,7 @@ Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 
 
 ### 1.2.3 www.aircorsica.com
 
-Le portail Internet [www.aircorsica.com](https://www.aircorsica.com/) est exploité par Air Corsica, Société Anonyme d'Économie Mixte, à Directoire et Conseil de Surveillance, au capital de 15 015 520 euros - Aéroport Napoléon Bonaparte - BP 505 - 20186 Ajaccio Cedex. Tél. standard : 0825 35 35 35 (0,20€/mn).
+Le portail Internet [www.aircorsica.com](https://www.aircorsica.com/) est exploité par Air Corsica, Société Anonyme d'Économie Mixte, à Directoire et Conseil de Surveillance, au capital de 14 985 620 euros - Aéroport Napoléon Bonaparte - BP 505 - 20186 Ajaccio Cedex. Tél. standard : 0825 35 35 35 (0,20€/mn).
 
 ### 1.2.4 Responsable du traitement des données personnelles
 
@@ -42,9 +42,15 @@ Le responsable du traitement de vos données personnelles est Air Corsica, repr�
 
 Pour les vols effectués dans le cadre des Obligations de Service Public entre Air France et Air Corsica, Air France et Air Corsica sont responsables de traitement conjoints.
 
+« Air France » désigne la Société Air France, société anonyme enregistrée sous le numéro 420 495 178 au RCS de Bobigny, ayant son siège social situé 45 rue de Paris, 95747 Roissy Charles de Gaulle Cedex. 
+
+La répartition des obligations respectives d'Air France et d'Air Corsica pour ces traitements conjoints est définie dans un accord conclu entre les deux compagnies, conformément à l'article 26 du RGPD. Quelle que soit la compagnie que vous contactez, vous pouvez exercer l'ensemble de vos droits auprès de notre DPO, dont les coordonnées figurent au paragraphe 1.2.5. 
+
 ### 1.2.5 Délégué à la protection des données
 
 Le délégué à la protection des données, aussi appelé DPO (pour Data Protection Officer ou même parfois Data Privacy Officer) est la personne en charge de la protection des données personnelles au sein d’une organisation.
+
+Pour les traitements décrits dans le présent document, le DPO compétent est celui d'Air Corsica (coordonnées au chapitre 5.2). Par exception, pour le traitement spécifique lié à l'accréditation « résident Corse » décrit au paragraphe 2.3.2.4, le point de contact est le DPO du Groupe Tessi, dont les coordonnées figurent à ce paragraphe. 
 
 ### 1.2.6 Autorité de contrôle
 
@@ -77,9 +83,7 @@ Le RGPD identifie clairement les finalités pouvant justifier et légitimer le r
 Dans un premier temps, on peut distinguer deux grands types de données personnelles traitées : 
 
 *   les données personnelles collectées et enregistrées automatiquement par nos sites Internet, et notamment [www.aircorsica.com](https://www.aircorsica.com/),
-    
 *   les données personnelles saisies par vos soins via les différents formulaires présents sur nos sites Internet, et notamment [www.aircorsica.com](https://www.aircorsica.com/).
-    
 
 ### 2.1.1 Données personnelles collectées et enregistrées automatiquement
 
@@ -96,31 +100,18 @@ On peut distinguer les données saisies dans le cadre d’un contrat (le plus so
 A la date de rédaction du présent document, le site [www.aircorsica.com](https://www.aircorsica.com/) vous propose de saisir des données dans les cas suivants :
 
 *   Création d’un compte internet (cadre non-contractuel)
-    
 *   Inscription à la Newsletter (cadre non-contractuel)
-    
 *   Adhésion au programme de fidélité (cadre contractuel)
-    
 *   Souscription au programme d’abonnement (cadre contractuel)
-    
 *   Achat de billet d’avion (cadre contractuel)
-    
 *   Location de voiture (cadre contractuel)
-    
 *   Enregistrement en ligne (cadre contractuel)
-    
 *   Gérer ma réservation (cadre contractuel)
-    
 *   Litiges et réclamations (cadre contractuel)
-    
 *   Assistance aux personnes à mobilité réduite (cadre non-contractuel)
-    
 *   Assistance internet (cadre non-contractuel)
-    
 *   Demande d’informations (cadre non-contractuel)
-    
 *   Ces points seront détaillés dans la suite du document (paragraphe 2.3)
-    
 
 2.2 – Recueil de votre consentement pour enregistrement de données personnelles
 -------------------------------------------------------------------------------
@@ -137,19 +128,12 @@ Pour l’enregistrement de données dans un cadre non contractuel, nous recueill
 Afin d’améliorer constamment nos outils de relation client, et notamment le site internet de notre Compagnie, nous traitons les données mentionnées au paragraphe 3.1 du présent document afin d’obtenir les informations suivantes :
 
 *   La date et l’heure du début de votre visite de www.aircorsica.com
-    
 *   L’adresse du site web refferer (celui que vous avez visité juste avant d’arriver sur www.aircorsica.com)
-    
 *   La ou les pages visitées sur www.aircorsica.com.
-    
 *   L'adresse IP de votre appareil
-    
 *   Les caractéristiques du dispositif que vous utilisez pour visiter notre site (type d’appareil, système d’exploitation, navigateur, identifiants de l’appareil)
-    
 *   Les services de notre site que vous avez utilisés lors de votre visite
-    
 *   Les recherches que vous avez effectuées lors de votre visite 
-    
 
 L’analyse de ces informations nous permet de déterminer de manière précise si notre site Internet [www.aircorsica.com](https://www.aircorsica.com/) répond à vos attentes, quelles sont les parties que nous devons améliorer ou mettre plus en avant ou encore quelles sont les prochaines évolutions à prévoir.
 
@@ -163,7 +147,7 @@ Vous pouvez bien sûr refuser le dépôt de cookies sur votre appareil (modifiez
 
 Pour les utilisateurs désireux de ne transmettre aucune donnée à Google Analytics, il est possible d’installer sur votre navigateur une extension logicielle fournie gratuitement par Google lui-même (https://tools.google.com/dlpage/gaoptout?hl=fr).  
 
-Pour ce qui concerne la collecte et le traitement des données de navigation, le cadre juridique de la collecte de données personnelles est le consentement explicite (Article 6 du RGPD). Vous pourrez dans très peu de temps gérer ce consentement en vous rendant dans votre espace personnel.
+Pour ce qui concerne la collecte et le traitement des données de navigation, le cadre juridique de la collecte de données personnelles est le consentement explicite (Article 6 du RGPD). Vous pourrez dans très peu de temps gérer ce consentement en vous rendant dans votre espace personnel ou bien en suivant les modalités précisées dans la section relative à l'Exercice de vos droits.
 
 ### 2.3.2 Traitement des données personnelles collectées et enregistrées via des formulaires
 
@@ -174,27 +158,16 @@ Afin de faciliter l’utilisation de notre site internet [www.aircorsica.com](ht
 Lors de la création du compte internet vous êtes invité à saisir les informations suivantes : 
 
 *   Civilité
-    
 *   Nom, 
-    
 *   Prénom, 
-    
 *   Adresse de messagerie
-    
 *   Adresse, code postal, ville, pays
-    
 *   Téléphone
-    
 *   Aéroport de départ favori
-    
 *   Fréquence de voyage
-    
 *   Raison(s) de voyage
-    
 *   Création du mot de passe
-    
 *   Demande d’inscription à la newsletter
-    
 
 Ces données sont stockées de manière sécurisée par nos soins sur nos propres serveurs. Elles sont ensuite réutilisées pour compléter automatiquement d’autres formulaires du site sans ressaisie de votre part.
 
@@ -209,15 +182,10 @@ Afin de vous informer régulièrement de nos offres commerciales et plus génér
 Lors de l’inscription à notre Newsletter vous êtes invité à saisir les informations suivantes : 
 
 *   Adresse de messagerie
-    
 *   Code postal
-    
 *   Aéroport de départ favori
-    
 *   Fréquence de voyage
-    
 *   Raison(s) de voyage
-    
 
 Ces données sont stockées de manière sécurisée par nos soins sur nos propres serveurs.
 
@@ -232,19 +200,12 @@ Afin de récompenser la fidélité de nos clients, nous proposons un programme s
 Le programme récompense nos clients les plus fidèles en leur offrant un billet gratuit pour 12 voyages A/R effectués sur nos lignes pendant une période de 12 mois (voir le site pour plus de détails). La personne désirant y souscrire est invitée à compléter un formulaire contenant les données suivantes : 
 
 *   Civilité
-    
 *   Prénom
-    
 *   Nom
-    
 *   Date de Naissance
-    
 *   Adresse complète 
-    
 *   Téléphone
-    
 *   Email
-    
 
 Le formulaire vous propose la création d’un mot de passe pour accéder par la suite à l’espace dédié de saisie des justificatifs des vols effectués et l’acceptation des [conditions générales d’adhésion](https://www.jegagne1billet.com/Conditions-Generales.pdf) (disponibles pour lecture).
 
@@ -256,104 +217,86 @@ Pour ce qui concerne l’adhésion au programme de fidélité Air Corsica, le ca
 
 #### 2.3.2.4 Traitement des données personnelles liées au statut de l’accréditation « Résident »
 
-Air France et Air Corsica, en tant que responsables de traitement conjoints, collectent et traitent vos Données personnelles sur la base légale de votre consentement et dans votre intérêt afin de vous délivrer le service suivant : délivrance d’un numéro d’accréditation personnel non cessible, dit de « résident corse ».
+La politique d'utilisation des données personnelles, mise à jour le 10 juin 2026, est disponible en cliquant sur le lien suivant : [mentions\_legales\_et\_donnees\_personnelles.pdf](https://accreditation-resident.com/static/202201171324/files/mentions_legales_et_donnees_personnelles.pdf).  
 
-Ce traitement est mis en œuvre afin de vous proposer un parcours client adapté lors de vos achats de billets d’avion aller/retour au départ de la Corse auprès d’Air France et d’Air Corsica, sur les lignes de service public.
+### FINALITES ET MODALITES DE TRAITEMENT DE VOS DONNEES PERSONNELLES : 
+
+Air France et Air Corsica, en tant que responsables de traitement conjoints, et dans le cadre de la délivrance du numéro d’accréditation dit de « résident Corse », collectent et traitent vos Données personnelles pour les finalités et dans les modalités suivantes :
+
+|     |     |     |
+| --- | --- | --- |
+| **Finalité et base légale** | **Données traitées** | **Durée de conservation** |
+| Finalité : Instruction de la demande et, le cas échéant, délivrance du numéro d’accréditation dit de « résident Corse ». Base légale : Intérêt légitime des Compagnies en exécution des conventions de délégation de service publique et en vue de l'utilisation par l'usager de son numéro d'accréditation dans le cadre d'un éventuel contrat de transport. | Données et justificatifs directement renseignés par le demandeur dans le formulaire de demande d’accréditation sur le site :<br><br>*   Données d’identification et de contact, notamment : civilité, nom de naissance / d’usage, prénom, adresse e-mail, date de naissance ; <br>    <br><br>*   Données relatives à la demande : profil du demandeur/voyageur, type d’opération (création, renouvellement…), accord parental, millésime de l’accréditation, metadata ; <br>    <br><br>*   Pièces justificatives (voir article 3 ci-dessous pour plus de détails sur les justificatifs nécessaires en fonction des situations). <br>    <br><br>A la validation de la demande, les données complémentaires suivantes sont générées lors du traitement : <br><br>*   Données relatives à l’accréditation : numéro, millésime et dates de validité de l’accréditation. | Les données sont conservées pour la durée de validité de l’accréditation, y compris tout renouvellement, et jusqu'à la fin du mois de janvier de l'année suivante. <br><br>Elles sont ensuite conservées pour une durée additionnelle, voir sur ce point la finalité "Archivage" ci-dessous. <br><br>Par exception à ce qui précède, à l'issue de l’instruction de la demande d'accréditation, la totalité des pièces téléchargées sur le Site par le demandeur est détruite dans un délai maximum de 24h. |
+| **Finalité : Contrôle des pièces justificatives :** <br><br>*   Vérification de l’authenticité et de l’intégrité de l’avis d’imposition ; <br>    <br><br>*   Contrôle de cohérence des informations par rapprochement. <br>    <br><br>**Base légale :** Intérêt légitime des Compagnies à lutter contre la fraude aux conditions d’octroi de l’accréditation. | Les données traitées comprennent le nom et le prénom du demandeur, le code postal figurant sur l’avis d’imposition, ainsi que l’année de cet avis. <br><br>Cette opération de traitement repose notamment sur la lecture du code 2D-Doc présent sur l’avis d’imposition. Un module de lecture automatisée procède, exclusivement en mémoire vive, à la lecture de l’intégralité de la chaîne de caractères contenue dans le code 2D‑Doc, sans en conserver de copie, ainsi qu’à l’extraction des données susmentionnées (nom, prénom, année de l’avis).  <br><br>Les données ainsi extraites sont transmises au logiciel de gestion des dossiers afin de vérifier l’authenticité du document et la cohérence des informations avec les autres données. À l’issue de cette opération, la chaîne complète issue du 2D‑Doc est immédiatement effacée de la mémoire vive du module. Ce contrôle supplémentaire permet de vérifier la conformité du document et l'authenticité d'informations déjà accessibles en clair sur l'avis d'imposition téléchargé par le passager. <br><br>La lecture du 2D‑Doc est réalisée de manière entièrement automatisée, sans intervention humaine. <br><br>En cas de difficulté lors du contrôle (par exemple en cas de document illisible), un contrôle manuel des justificatifs peut être effectué par un opérateur. Ce contrôle est alors réalisé sans accès aux données contenues dans le code 2D‑Doc. | Les données sont conservées uniquement pour la durée strictement nécessaire à l'opération de vérification. <br><br>A l’issue de l’acceptation ou du refus de la demande de l’accréditation, l'avis d'imposition est détruit des systèmes d’informations dans un délai maximum de 24h. |
+| **Finalité : Archivage des accréditations octroyées.** <br><br>Base légale : Intérêt légitime des Compagnies à assurer la défense de leurs intérêts en cas de contentieux et/ou de contrôle par les autorités du respect des conditions de la délégation de service public. | *   Données d’identification : le(s) nom(s) de naissance et, le cas échéant, le nom marital, le(s) prénom(s), la date de naissance ; <br>    <br><br>*   Données justificatives des conditions d’octroi de l’accréditation : code postal et millésime de l’avis d'impôt sur les revenus ou millésime de l’année d’étude lorsque le demandeur est étudiant ; <br>    <br><br>*   Données relatives à l’accréditation : numéro et millésime de l’accréditation. | Les données sont conservées, à titre probatoire, pour une durée de cinq ans à compter de la date d'expiration de la validité du numéro d'accréditation.  <br><br>Ces données sont conservées par les Compagnies dans un coffre-fort numérique sécurisé, dont l’accès est strictement limité, ainsi que par TESSI. |
+| **Finalité : Gestion des demandes d’exercice des droits sur vos données personnelles :** <br><br>*   Instruction de la demande ; <br>    <br><br>*   Vérification de l’identité du demandeur en cas de doute raisonnable ; <br>    <br><br>*   Archivage des demandes. <br>    <br><br>Base légale : Intérêt légitime des Compagnies à instruire les demandes, à prévenir la fraude et l'usurpation d'identité, et à assurer la défense de leurs intérêts en cas de contentieux. | *   Données d’identification du demandeur : nom, prénom, éléments permettant d’identifier le demandeur ; <br>    <br><br>*   Données relatives à la demande : date et objet de la demande, échanges avec le demandeur. <br>    <br><br>Nous vous invitons à vous référer à l'article 6 ci-dessous pour plus d'informations relatives à l'exercice de vos droits. | Les Compagnies conservent ces données le temps de l'instruction de la demande, et au maximum trois mois à compter de la réception de la demande, conformément au délai de traitement des demandes d'exercice des droits mentionné à l'article 12 du RGPD.  <br><br>Ces données sont ensuite archivées, à titre probatoire, pendant le délai de prescription. Par exception, tout justificatif d’identité (CNI, passeport, etc.) est supprimé à l’issue de l’instruction de la demande. |
+
+### DONNEES PERSONNELLES ET JUSTIFICATIFS 
 
 Vos Données personnelles sont collectées de manière directe lors de votre navigation, via les formulaires de saisie d’informations présentés sur le Site. Vos Données personnelles sont collectées lorsque vous :
 
 *   Remplissez les champs du formulaires (données d’identification : nom, prénom, adresse email, autres données en fonction du formulaire.) ;
 *   Chargez des pièces justificatives dans le formulaire.
 
-Vos Données personnelles traitées dans ce cadre relèvent des catégories suivantes :
+S’agissant des formulaires de collecte d’informations accessibles sur le Site, les données personnelles dont la communication est obligatoire pour le traitement de la demande sont signalées par un astérisque « \* ». À défaut de renseigner ces champs obligatoires, le formulaire ne pourra être soumis. En conséquence, les Compagnies ne seront pas en mesure de traiter la demande.
 
-*   Les données relatives à l’identification, dont notamment les données contenues en particulier dans les
-*   documents suivants : Carte nationale d'identité ou autre document d’identification, Carte d’étudiant.
+Afin de délivrer un numéro d’accréditation personnel de « résident Corse » aux personnes physiques qui en font la demande, les Compagnies procèdent à la vérification des pièces justificatives suivantes, selon la catégorie de personne concernée :
 
-Certaines des données figurant dans les documents suivants : avis d'impôt sur les revenus et attestation d’assurance maladie.
+|     |     |     |
+| --- | --- | --- |
+| **Adulte** | **Etudiant** | **Enfant ou adulte à charge** |
+| Carte nationale d’identité, passeport ou titre de séjour, <br><br>ET <br><br>Dernier avis d'impôt sur les revenus\* (ou avis de situation déclarative) avec la domiciliation fiscale en Corse | Carte nationale d’identité, passeport ou titre de séjour,  <br><br>ET <br><br>Dernier avis d'impôt sur les revenus\* (ou avis de situation déclarative) d'un des parents ou de l'étudiant avec la domiciliation fiscale en Corse <br><br>ET <br><br>Carte d'étudiant ou certificat de scolarité en cours de validité. | Carte nationale d’identité, passeport ou titre de séjour,  <br><br>ET <br><br>Dernier avis d'impôt sur les revenus\* (ou avis de situation déclarative) d'un des parents ou de l'étudiant avec la domiciliation fiscale en Corse <br><br>ET <br><br>Carte d'étudiant ou certificat de scolarité en cours de validité. |
 
-En ce qui concerne les formulaires de saisie d’informations affichés sur le Site, les Données personnelles dont la communication est obligatoire pour la prise en compte de votre demande sont identifiées par un astérisque « \*Champs obligatoires ». Le défaut de communication d’une Donnée personnelle identifiée comme obligatoire provoquera la non-validation du formulaire en question. Air France et Air Corsica ne pourront donc pas donner suite à votre demande.
+\* Le demandeur doit impérativement masquer les informations relatives à ses revenus, la référence de l'avis ainsi que son numéro fiscal sur l'avis d'impôt sur les revenus. Ces informations ne sont ni nécessaires, ni utilisées dans le cadre du contrôle d’éligibilité au statut de résident corse. 
 
-La finalité des traitements qu’Air France et Air Corsica effectuent est la suivante : délivrance d’un numéro d’accréditation personnel, dit de « résident corse », aux personnes physiques/particuliers qui en font la demande, sur contrôle de leurs pièces justificatives, à savoir :
-
-### Pour les adultes :
-
-*   Carte nationale d’identité, passeport ou titre de séjour, et
-*   Dernier avis d'impôt sur les revenus\* (ou avis de situation déclarative) avec la domiciliation fiscale en Corse.
-
-### Pour les étudiants :
-
-*   Carte nationale d’identité, passeport ou titre de séjour, et
-*   Dernier avis d'impôt sur les revenus\* (ou avis de situation déclarative) d'un des parents ou de l'étudiant avec la domiciliation fiscale en Corse
-*   Carte d'étudiant ou certificat de scolarité en cours de validité.
-
-### Pour les enfants ou adultes à charge :
-
-*   Carte nationale d’identité, passeport ou titre de séjour
-*   Dernier avis d'impôt sur les revenus\* (ou avis de situation déclarative) d'un des parents avec la domiciliation fiscale en Corse
-*   Attestation d'assurance maladie d'un des parents \*\* (justifiant la filiation ou attestation d'assurance maladie\*\* de l'enfant avec son adresse en Corse s'il détient sa propre carte), attestation d'assurance maladie\*\* de l'adulte à charge avec son adresse en Corse.
-
-\* Les passagers doivent  masquer les informations relatives à leurs revenus sur l'Avis d'impôt sur les revenus de même que la référence de l'avis mais le numéro fiscal doit être parfaitement visible.  
-\*\* Tous les numéros de Sécurité Sociale doivent être masqués
-
-Tessi, agissant en tant que prestataire pour le compte d’Air France et d’Air Corsica, procède au rapprochement des données provenant de différentes sources pour la réalisation de la finalité suivante : contrôler la cohérence et la validité des informations saisies sur le formulaire avec les pièces justificatives chargées afin de générer un numéro personnel d’accréditation dit de « résident corse ».
+\*\* Le numéro de Sécurité Sociale doit impérativement être masqué par le demandeur sur l'attestation d'assurance maladie. 
 
 ### DONNEES PERSONNELLES CONCERNANT LES MINEURS DE MOINS DE 15 ANS
 
-Air France et Air Corsica ne collectent ni ne traitent de Données personnelles relatives aux enfants de moins de 15 ans sans accord préalable des parents ou titulaires de l'autorité parentale à l’égard de l’enfant.
+Toute demande d’accréditation concernant un mineur de moins de 15 ans requiert l’accord préalable des parents ou titulaires de l'autorité parentale à l’égard de l’enfant.  
 
 Si vous utilisez le Site au nom de votre enfant et en votre qualité de titulaire de l’autorité parentale, vous êtes informé que les Données personnelles relatives à votre enfant de moins de 15 ans seront traitées et utilisées par Air France et Air Corsica conformément à la présente Politique d’utilisation des Données personnelles.
 
-Dans l’hypothèse où votre enfant est âgé de moins de 15 ans, et que son consentement est nécessaire au traitement des Données personnelles conformément à l’article 6 alinéa 1 a) du RGPD, vous serez invité, en votre qualité de titulaire de l’autorité parentale, à consentir au traitement des données de votre enfant par Air France et Air Corsica.
-
-Conformément aux recommandations de la CNIL, dans toute situation dans laquelle l’âge de la personne concernée est collecté et qu’il est possible de déterminer qu’elle est âgée de 15 ans ou moins, l’adresse électronique d’un parent ou tuteur légal sera demandée avant de collecter les Données personnelles de cet enfant. Les adresses électroniques des titulaires de l’autorité parentale fournies aux fins de l’obtention du consentement parental seront utilisées pour la finalité strictement définie dans cette Politique.
+Conformément aux recommandations de la CNIL, dans toute situation dans laquelle l’âge de la personne concernée est collecté et qu’il est possible de déterminer qu’elle est âgée de 15 ans ou moins, l’adresse électronique d’un parent ou tuteur légal sera demandée avant de collecter les Données personnelles de cet enfant.
 
 Si votre enfant mineur de moins de 15 ans a fourni à Air France et Air Corsica des informations personnelles sans votre supervision, vous pouvez nous contacter sur [dpo.tessi@tessi.fr](mailto:dpo.tessi@tessi.fr) afin que nous puissions prendre les mesures appropriées.
 
 ### DESTINATAIRES DES DONNEES PERSONNELLES
 
-Les Données personnelles collectées sur le Site sont réservées à l’usage d’Air France et Air Corsica. Elles sont collectées et traitées par Tessi qui intervient en qualité de sous-traitant en charge de la gestion du Site (gestionnaire technique, hébergeur du Site, fournisseur du service de contrôle du dossier de demande du numéro d’accréditation de « résident corse » notamment).
+Les Données personnelles collectées sur le Site sont réservées à l’usage d’Air France et Air Corsica.
 
-Conformément à l’article L.232-7 du code de la sécurité intérieure, nous vous informons que les transporteurs aériens sont tenus de transmettre les données de réservations, d’enregistrement et d’embarquement de leurs passagers (PNR/API) à l’administration française, selon les modalités de traitement et pour les finalités fixées par le décret n° 2014-1095 du 26/09/2014, modifié par le décret 2018-714 du 03 août 2018.
+Elles sont collectées et traitées par Tessi en qualité de sous-traitant en charge de la gestion du Site (gestionnaire technique, hébergeur du Site, fournisseur du service de contrôle du dossier de demande du numéro d’accréditation de « résident corse » notamment).
 
-### TRAITEMENT, CONSERVATION ET DESTRUCTION DES DOCUMENTS
+Lorsqu’un contrôle manuel est nécessaire, des intervenants TESSI, spécialement habilités et soumis à une obligation renforcée de confidentialité, accèdent aux données personnelles et les traitent. 
 
-Les documents téléchargés par les passagers ayant sollicité un numéro d’accréditation « résident corse » par l’intermédiaire de notre site, sont stockés temporairement pour le temps "strictement nécessaire" à la vérification et à l’attribution d’un éventuel numéro d’accréditation.
+Pour la vérification de la lecture du 2D-Doc, cette vérification manuelle est uniquement mise en œuvre par les personnes habilitées autorisées à accéder aux documents téléchargés par le passager afin de scanner le 2D-Doc et à opérer le rapprochement. 
 
-Le traitement des pièces déposées consiste en une lecture du nom/prénom /millésime de l’avis d’impôt et de l’adresse postale afin de contrôler que le passager soit bien éligible au tarif résident, étant précisé que les passagers doivent masquer le montants de leurs revenus ainsi que le numéro de référence de l'avis avant le téléchargement de leur avis d'impôt sur les revenus.
+Les Compagnies n'interviennent pas dans ce procédé de vérification, autrement que pour en donner instruction à leur prestataire TESSI, et n'ont jamais accès à l'avis d'impôt sur les revenus téléchargé par le demandeur, ni aux autres pièces justificatives. 
 
-Il est à noter que les intervenants TESSI sont spécialement habilités et répondent à des obligations de confidentialité renforcée. Enfin, Air Corsica et Air France n'interviennent pas dans ce procédé de vérification, autrement que pour en donner instruction à leur prestataire Tessi, et n'ont jamais accès à l'avis d'impôt sur les revenus téléchargés par les passagers.
+Les Compagnies (ou TESSI sur leur instruction) peuvent être amenés à partager tout ou partie des données personnelles avec les autorités compétentes dans le cadre des opérations visant à lutter contre toute activité pénalement répréhensible et/ou dans le cadre d’activités de contrôles. 
 
-A l’issue de l’acceptation ou du refus de la demande de l’accréditation, la totalité des pièces téléchargées sur le site de Tessi par le passager est alors détruite dans un délai maximum de 24h, des systèmes d’informations.
+Les données personnelles sont hébergées et traitées au sein de l’Union européenne et ne font l'objet d'aucun transfert en dehors de l'Union européenne. 
 
-En revanche sont stockées par Tessi de façon sécurisée sur la plateforme, pour la durée du contrat : les données suivantes : le (s) nom (s) de naissance et marital- le (s) prénom(s) / la date de naissance / le code postal et le millésime de l’avis d'impôt sur les revenus du passager / le (s) nom(s) et prénom (s) des enfants mineurs / nom(s) et prénom(s) des étudiants et millésime de l’année d’étude. Le numéro fiscal du passager n’est donc jamais conservé à l'issue de l'acceptation ou du refus de la demande d'accréditation.
+### EXERCICE DES DROITS et CONTACT
 
-Air Corsica et Air France conservent pour une durée de 5 ans à titre probatoire, dans un coffre-fort numérique sécurisé, dans le but de pouvoir justifier en cas de contrôle à posteriori par un organisme habilité, de l’attribution d’un tarif résident à un passager, les données suivantes : le (s) nom (s) de naissance et marital- le (s) prénom(s) / la date de naissance / le code postal et le millésime de l’avis d'impôt sur les revenus du passager / le (s) nom(s) et prénom (s) des enfants mineurs / nom(s) et prénom(s) des étudiants et millésime de l’année d’étude. Le numéro fiscal du passager n’est donc jamais conservé à l'issue de l'acceptation ou du refus de la demande d'accréditation.
+Vous bénéficiez d’un droit d’accès, de rectification, d’effacement, d’opposition ainsi que du droit à la limitation du traitement de vos Données personnelles.
 
-L’accès au coffre-fort numérique n’est accordé qu’à une seule personne appartenant au Comité de Direction de la compagnie Air Corsica, pour Air France à la Direction Générale Marché France et seulement dans le cadre d’un contrôle extérieur par une autorité compétente.
-
-### EXERCICE DES DROITS
-
-Vous bénéficiez d’un droit d’accès, de rectification, d’effacement, d’opposition ou, le cas échéant, du retrait de votre consentement à tout moment, ainsi que du droit à la limitation et la portabilité de vos Données personnelles.
-
-En outre, vous disposez du droit de définir des directives relatives au sort de vos Données personnelles post mortem.
-
-Si vous souhaitez des informations complémentaires ou exercer vos droits sur le traitement de vos Données personnelles dans ce dispositif, vous pouvez adresser votre demande à :
+Si vous souhaitez des informations complémentaires ou exercer vos droits sur le traitement de vos Données personnelles dans ce dispositif, vous pouvez adresser votre demande en priorité à TESSI aux coordonnées suivantes :
 
 DPO (Data Protection Officer) du Groupe Tessi  
 Adresse électronique : [dpo.tessi@tessi.fr](mailto:dpo.tessi@tessi.fr)  
 Adresse postale : DPO Tessi : 45, rue Saint Jean de Dieu – 69007 Lyon
 
-Votre demande devra indiquer votre nom et prénom, adresse e-mail ou postale et être signée. En cas de doute, nous pourrons vous demander de nous transmettre une copie d’un justificatif d’identité en cours de validité.
+Vous pouvez également adresser votre demande directement aux Compagnies aux coordonnées de contact indiquées dans leurs politiques de confidentialité :  
 
-Si vous souhaitez en savoir plus sur les traitements réalisés par Air France et Air Corsica, ainsi que sur les
+*   Pour Air France : [Politique de confidentialité](https://wwws.airfrance.fr/information/legal/edito-psc) (section « Comment exercer vos droits ? ») 
+*   Pour Air Corsica : [Politique de confidentialité](https://www.aircorsica.com/politique-de-confidentialite.html) (Section « Vos droits »)  
 
-modalités d'exercice de vos droits, nous vous invitons à consulter les politiques suivantes :
+Votre demande d’exercice de vos droits sur vos données personnelles devra indiquer votre nom et prénom, adresse de courrier électronique ou postale et être signée. Pour toute demande soumise par courrier électronique, nous vous remercions de bien vouloir l’adresser depuis l’adresse de courrier électronique renseignée dans votre demande d’accréditation. 
 
-*   Politique de confidentialité d'Air France
-*   Politique de confidentialité d'Air Corsica
+En cas de doute, les Compagnies se réservent le droit de demander de produire tout élément utile permettant de justifier de l’identité du demandeur. Vous avez de plus le droit de déposer une plainte auprès de la Commission nationale de l'informatique et des libertés ("CNIL") concernant le traitement de vos données personnelles. Vous pouvez adresser votre réclamation sur le site web de la CNIL, ou par courrier postal en écrivant à : CNIL - Service des Plaintes - 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07. 
 
-Vous avez de plus le droit de déposer une plainte auprès de la Commission nationale de l'informatique et des libertés ("CNIL") concernant le traitement de vos données personnelles. Vous pouvez notamment adresser votre réclamation sur le site web de la CNIL, ou par courrier postal en écrivant à : CNIL - Service des Plaintes - 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07. Les modalités pour effectuer une réclamation auprès de la CNIL sont détaillées sur ce lien : [https://www.cnil.fr/fr/adresser-une-plainte](https://www.cnil.fr/fr/cnil-direct/question/adresser-une-reclamation-plainte-la-cnil-quelles-conditions-et-comment.)  
+Les modalités pour effectuer une réclamation auprès de la CNIL sont détaillées sur ce lien : [https://www.cnil.fr/fr/cnil-direct/question/adresser-une-reclamation-plainte-la-cnil-quelles-conditions-et-comment](https://www.cnil.fr/fr/cnil-direct/question/adresser-une-reclamation-plainte-la-cnil-quelles-conditions-et-comment). 
 
 #### 2.3.2.5 Souscription au programme d’abonnement
 
@@ -362,19 +305,12 @@ Nous proposons à nos clients réguliers une carte d’abonnement payante leur p
 La souscription à ce programme se fait à l’adresse Internet suivante : « [https://www.aircorsica.com/](https://www.aircorsica.com/cartes-abonnement/aircorsicaplus)[cartes-abonnement/aircorsicaplus](https://www.aircorsica.com/cartes-abonnement/aircorsicaplus) ». La personne désirant y souscrire est invitée à compléter un formulaire contenant les données suivantes : 
 
 *   Civilité
-    
 *   Prénom
-    
 *   Nom
-    
 *   Date de Naissance
-    
 *   Adresse complète 
-    
 *   Téléphone
-    
 *   Email
-    
 
 Le formulaire vous propose l’acceptation des conditions générales d’adhésion (disponibles pour lecture).
 
@@ -391,21 +327,15 @@ Pour ce qui concerne l’adhésion au programme de fidélité Air Corsica, le ca
 Lors de la réservation d’un ou plusieurs billets d’avion et de services associés, nous collectons les données suivantes : 
 
 *   Civilité
-    
 *   Nom
-    
 *   Prénom
-    
 *   Email
-    
 *   Téléphone
-    
 *   Date de naissance pour les bébés, enfants, jeunes et séniors.
-    
 
 Ces données sont enregistrées dans notre système de réservation opéré par notre partenaire Amadeus ([http://www.amadeus.com/](http://www.amadeus.com/)).
 
-Amadeus est une société de droit espagnol créée en 1987 par quatre compagnies aériennes européennes (Air France, Iberia, Lufthansa et SAS) dans le but de créer une structure commune de distribution informatisée des segments aériens puis de regrouper l'ensemble de l'offre de vente de billets d'avion, toutes compagnies confondues (Source Wikipédia).
+Amadeus est une société de droit espagnol créée en 1987 par quatre compagnies aériennes européennes (Air France, Iberia, Lufthansa et SAS) dans le but de créer une structure commune de distribution informatisée des segments aériens puis de regrouper l'ensemble de l'offre de vente de billets d'avion, toutes compagnies confondues.
 
 Ces données sont conservées et utilisées jusqu’à la fin de votre voyage et servent aussi aux opérations aux sols comme l’enregistrement et le contrôle d’embarquement.
 
@@ -532,44 +462,6 @@ Ainsi, nous veillons à ce que l’ensemble de nos canaux de commercialisation s
 
 Quel que soit le moyen utilisé pour acheter un billet sur un de nos vols, pour finir votre réservation est enregistrée dans notre système.
 
-### 3.2.1 Achat d’un billet auprès de notre Compagnie
-
-Lors de la réservation d’un ou plusieurs billets d’avion et de services associés directement auprès de nos services, nous collectons les données suivantes : 
-
-*   Civilité
-    
-*   Nom
-    
-*   Prénom
-    
-*   Email
-    
-*   Téléphone
-    
-*   Date de naissance pour les bébés, enfants, jeunes et séniors.
-    
-
-Ces données sont enregistrées dans notre système de réservation opéré par notre partenaire Amadeus ([http://www.amadeus.com/](http://www.amadeus.com/)).
-
-Amadeus est une société de droit espagnol créée en 1987 par quatre compagnies aériennes européennes (Air France, Iberia, Lufthansa et SAS) dans le but de créer une structure commune de distribution informatisée des segments aériens puis de regrouper l'ensemble de l'offre de vente de billets d'avion, toutes compagnies confondues (Source Wikipédia).
-
-Ces données sont conservées et utilisées jusqu’à la fin de votre voyage et servent aussi aux opérations aux sols comme l’enregistrement et le contrôle d’embarquement.
-
-Ces données sont stockées pendant cette période sur les serveurs Amadeus, situés dans le centre d’hébergement de données d’Amadeus, localisé à Erding (Allemagne).
-
-Les services Amadeus sont en conformité totale avec les règlements de protection des données personnelles et notamment le RGPD. Nous procédons régulièrement à des opérations de contrôle afin de mesurer l’efficacité des mesures prises par Amadeus dans ce domaine.
-
-Air Corsica conserve par ailleurs une partie de ces données dans sa comptabilité (N° de facture, paiement) conformément aux obligations en vigueur en France au jour de la rédaction du présent document.
-
-Air Corsica conserve par ailleurs ces données dans le cadre d’obligations réglementaires liées à la sécurité nationale. Ces données sont conservées dans un outil informatique dédié, à l’accès restreint, et destiné notamment à répondre aux éventuelles demandes des services de police.
-
-Pour ce qui concerne l’achat de billets d’avions et de services associés, les cadres juridiques de la collecte de données personnelles sont : 
-
-*   L’établissement d’un contrat par lequel Air Corsica s’engage à vous transporter sur ses lignes selon les conditions générales de vente acceptées par vos soins lors de la réservation faite sur notre site internet,
-    
-*   Les diverses obligations légales auxquelles est soumise Air Corsica
-    
-
 ### 3.2.2 Achat d’un billet auprès d’un de nos partenaires
 
 Comme l’ensemble des compagnies aériennes, nous commercialisons nos services au travers de partenaires sélectionnés par nos soins.
@@ -621,6 +513,13 @@ Les données personnelles pouvant être stockées sur des infrastructures tierce
 A des fins de maintenance applicative et corrective uniquement Air Corsica a recours aux services des prestataires suivants :
 
 *   MAUREVA LTD, 3rd Floor Orange Tower, 72201, Ebene Cybercity, Mauritius.
+
+4.3 – Notification des violations de données personnelles 
+----------------------------------------------------------
+
+En cas de violation de données personnelles susceptible d'engendrer un risque pour les droits et libertés des personnes concernées, Air Corsica notifie cette violation à la CNIL dans les meilleurs délais et, lorsque cela est possible, dans un délai de 72 heures après en avoir pris connaissance, conformément à l'article 33 du RGPD. 
+
+Lorsque la violation est susceptible d'engendrer un risque élevé pour les droits et libertés des personnes concernées, Air Corsica en informe également les personnes concernées dans les meilleurs délais, conformément à l'article 34 du RGPD. 
 
 ### Chapitre 5 - Dispositions générales
 
@@ -722,24 +621,16 @@ Toutefois, la conservation en base intermédiaire pourra être rallongée en ten
 
 ### 8.Gestion accréditation “Résident”
 
-Dans le cadre de l'accréditation "Résident" (paragraphe 2.3.2.4 du présent document), la totalité des pièces téléchargées sur le site par le passager sont détruites  au bout de 24h des systèmes d’informations à l’issue de l’acceptation ou du refus de la demande de l’accréditation.
-
-Seules les données suivantes sont conservées pour une durée de 5 ans  à titre probatoire, dans un coffre-fort numérique sécurisé, dans le seul but de pouvoir justifier en cas de contrôle a posteriori par un organisme habilité, de l’attribution d’un tarif résident à un passager, à savoir :  le (s) nom (s) de naissance et marital-  le (s)  prénom(s)  / la  date de naissance /  le code postal et le millésime de l’avis d’imposition du passager / le (s) nom(s) et prénom (s) des enfants mineurs / nom(s) et prénom(s) des étudiants et millésime de l’année d’étude.
+Dans le cadre de l'accréditation "Résident" la durée de conservation des données est précisée au paragraphe 2.3.2.4 du présent document.
 
 5.2 – VOS DROITS
 ----------------
 
-Conformément aux textes en vigueur lors de la rédaction du présent document, vous disposez des droits suivants concernant les données personnelles traitées par nos soins :
+Conformément aux textes en vigueur, vous disposez des droits suivants concernant les données personnelles traitées par nos soins : droit à l'information, droit d'accès, droit de rectification ou de suppression, droit à la limitation du traitement, droit d'opposition, notamment pour les traitements fondés sur l'intérêt légitime ou à des fins de prospection, droit à la portabilité des données, droit de retirer votre consentement à tout moment, sans que cela remette en cause la licéité des traitements effectués avant ce retrait, droit de définir des directives relatives au sort de vos données personnelles après votre décès. 
 
-Droit à l'information,
+Pour l'exercice de ces droits ou toute question relative à la protection de vos données personnelles, vous pouvez contacter notre DPO par e-mail : dpo@aircorsica.com. 
 
-Droit de rectification ou de suppression,
-
-Droit à la limitation du traitement,
-
-Droit à la transférabilité des données.
-
-Pour l'exercice de ces droits ou toute question relative à la protection de vos données personnelles, vous pouvez contacter notre DPO par e-mail : dpo@aircorsica.com.
+Cette adresse concerne le DPO d'Air Corsica. Pour le traitement lié à l'accréditation « résident Corse », le point de contact est distinct : le DPO du Groupe Tessi, dont les coordonnées figurent au paragraphe 2.3.2.4. 
 
 Vous avez de plus le droit de déposer une plainte auprès de la Commission nationale de l'informatique et des libertés ("CNIL") concernant le traitement de vos données personnelles. Vous pouvez notamment adresser votre réclamation sur le site web de la CNIL, ou par courrier postal en écrivant à : CNIL - Service des Plaintes - 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07. Les modalités pour effectuer une réclamation auprès de la CNIL sont détaillées sur ce lien : [https://www.cnil.fr/fr/adresser-une-plainte](https://www.cnil.fr/fr/cnil-direct/question/adresser-une-reclamation-plainte-la-cnil-quelles-conditions-et-comment).
 
@@ -760,3 +651,74 @@ Dans l’hypothèse où votre enfant est âgé de moins de 15 ans, et que son co
 Conformément aux recommandations de la CNIL, dans toute situation dans laquelle l’âge de la personne concernée est collecté et qu’il est possible de déterminer qu’elle est âgée de 15 ans ou moins, l’adresse électronique d’un parent ou tuteur légal sera demandée avant de collecter les données personnelles auprès de cet enfant. Les adresses électroniques des titulaires de l’autorité parentale fournies aux fins de l’obtention du consentement parental seront utilisées pour la finalité strictement définie dans cette Politique de confidentialité.
 
 Si vous avez appris que votre enfant mineur de moins de 15 ans a fourni à Air Corsica des informations personnelles sans votre supervision, vous pouvez nous contacter sur dpo@aircorsica.com afin que nous puissions prendre les mesures appropriées.
+
+5.5 – Cookies et autres traceurs 
+---------------------------------
+
+Qu'est-ce qu'un cookie ? 
+
+Un cookie est un petit fichier texte déposé sur votre appareil (ordinateur, tablette, smartphone) lors de la consultation de notre site, qui permet de reconnaître votre terminal pendant sa durée de validité. Les cookies ne contiennent ni ne transmettent de virus. 
+
+Seul l'émetteur d'un cookie est susceptible de lire ou de modifier des informations qui y sont contenues. Des cookies sont susceptibles d'être inclus dans les espaces publicitaires de nos sites. Ces espaces publicitaires affichent sur votre appareil des contenus publicitaires émanant d'annonceurs. Ces espaces contribuent au financement des contenus et des services que nous mettons à votre disposition. 
+
+#### Les catégories de cookies que nous utilisons 
+
+Nous distinguons quatre catégories de cookies, qui n'appellent pas le même traitement : 
+
+Cookies strictement nécessaires : Toujours actifs. Ces cookies sont nécessaires au fonctionnement du site et ne peuvent pas être désactivés. Ils nous permettent notamment de mémoriser des informations relatives à un formulaire que vous avez rempli sur nos sites (inscription ou accès à votre compte ou authentification pour accéder à un service de notre groupe) ou à des produits, services ou informations que vous avez choisis sur nos sites (service souscrit, contenu d'un panier de commande, etc.), de vous permettre d'accéder à des espaces réservés et personnels de nos sites, tels que votre compte, grâce à des identifiants ou des données que vous nous avez éventuellement antérieurement confiés, et de mettre en œuvre des mesures de sécurité, par exemple lorsqu'il vous est demandé de vous connecter à nouveau à un contenu ou à un service après un certain laps de temps. Ces cookies sont déposés sans que votre consentement soit requis, conformément à l'article 82 de la loi Informatique et Libertés. 
+
+Cookies de fonctionnalité : Ces cookies permettent d'améliorer et de personnaliser les fonctionnalités du site. Ils nous permettent notamment d'adapter la présentation de nos sites aux préférences d'affichage de votre terminal (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc.) lors de vos visites sur nos sites, selon les matériels et les logiciels de visualisation ou de lecture que votre terminal comporte. Ils peuvent être activés par nos équipes ou par des tiers dont les services sont utilisés sur les pages de notre site. Le dépôt de ces cookies requiert votre consentement préalable. 
+
+Cookies de performance : Ces cookies nous permettent d'établir des statistiques et volumes de fréquentation et d'utilisation des divers éléments composant nos sites (rubriques et contenus visités, parcours), nous permettant d'améliorer l'intérêt et l'ergonomie de nos services.  
+
+Cookies pour une publicité ciblée : Ces cookies nous permettent de comptabiliser le nombre total de publicités affichées par nos soins sur nos espaces publicitaires, d'identifier ces publicités, leur nombre d'affichages respectifs, le nombre d'utilisateurs ayant cliqué sur chaque publicité et, le cas échéant, les actions ultérieures effectuées par ces utilisateurs sur les pages auxquelles mènent ces publicités, afin de calculer les sommes dues aux acteurs de la chaîne de diffusion publicitaire (agence de communication, régie publicitaire, site/support de diffusion) et d'établir des statistiques. Ils nous permettent également d'adapter nos espaces publicitaires aux préférences d'affichage de votre terminal (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc.), selon les matériels et les logiciels de visualisation ou de lecture que votre terminal comporte, d'adapter les contenus publicitaires affichés sur votre terminal par nos espaces publicitaires selon la navigation de votre terminal sur nos sites, et d'adapter les contenus publicitaires affichés sur votre terminal dans nos espaces publicitaires en fonction des données personnelles que vous nous avez fournies. Le dépôt de ces cookies requiert votre consentement préalable. 
+
+#### Comment nous recueillons votre consentement 
+
+Lors de votre première visite, un bandeau vous permet d'accepter ou de refuser chaque catégorie de cookies non strictement nécessaires, avec un bouton de refus aussi visible et accessible que le bouton d'acceptation. Vous pouvez modifier vos choix à tout moment via le lien de gestion des cookies présent en bas de chaque page. Votre consentement, une fois donné, est conservé pendant 13 mois maximum, conformément à la recommandation de la CNIL, à l'issue desquels il vous sera à nouveau demandé. 
+
+#### Cookies émis par des tiers intégrés à nos sites 
+
+L'émission et l'utilisation de cookies par des tiers, sont soumises aux politiques de protection de la vie privée de ces tiers. Nous vous informons de l'objet des cookies dont nous avons connaissance et des moyens dont vous disposez pour effectuer des choix à l'égard de ces cookies. 
+
+#### (a) Par des applications tierces intégrées à nos sites 
+
+Nous sommes susceptibles d'inclure sur nos sites, des applications informatiques émanant de tiers, qui vous permettent de partager des contenus de nos sites avec d'autres personnes ou de faire connaître à ces autres personnes votre consultation ou votre opinion concernant un contenu de nos sites. Tel est notamment le cas des boutons "Partager", "J'aime", issus de réseaux sociaux tels que "Facebook", "Twitter", etc. Le réseau social fournissant un tel bouton applicatif est susceptible de vous identifier grâce à ce bouton, même si vous n'avez pas utilisé ce bouton lors de votre consultation de nos sites. En effet, ce type de bouton applicatif peut permettre au réseau social concerné de suivre votre navigation sur nos sites, du seul fait que votre compte au réseau social concerné était activé sur votre terminal (session ouverte) durant votre navigation sur notre site. Nous n'avons aucun contrôle sur le processus employé par les réseaux sociaux pour collecter des informations relatives (données personnelles) à votre navigation sur notre site. Nous vous invitons donc à consulter les politiques de protection de la vie privée de ces réseaux sociaux afin de prendre connaissance des finalités d'utilisation, notamment publicitaires, des informations de navigation qu'ils peuvent recueillir grâce à ces boutons applicatifs. Ces politiques de protection doivent notamment vous permettre d'exercer vos choix auprès de ces réseaux sociaux, notamment en paramétrant vos comptes d'utilisation de chacun de ces réseaux. 
+
+#### (b) Par des contenus de tiers diffusés dans nos espaces publicitaires 
+
+Les contenus publicitaires (graphismes, animations, vidéos, etc) diffusés dans nos espaces publicitaires sont susceptibles de contenir des Cookies émis par des tiers : soit l'annonceur est à l'origine du contenu publicitaire concerné, soit c'est une société tierce à l'annonceur (agence conseil en communication, société de mesure d'audience, prestataire de publicité ciblée, etc.), qui a associé un cookie au contenu publicitaire d'un annonceur. Le cas échéant, les cookies émis par ces tiers peuvent leur permettre, pendant la durée de validité de ces cookies : 
+
+*   de comptabiliser le nombre d'affichages des contenus publicitaires diffusés via nos espaces publicitaires, d'identifier les publicités ainsi affichées, le nombre d'utilisateurs ayant cliqué sur chaque publicité, leur permettant de calculer les sommes dues de ce fait et d'établir des statistiques ; 
+*   de reconnaître votre terminal lors de sa navigation ultérieure sur tout autre site ou service sur lequel ces annonceurs ou ces tiers émettent également des cookies et, le cas échéant, d'adapter ces sites et services tiers ou les publicités qu'ils diffusent, à la navigation de votre terminal dont ils peuvent avoir connaissance ; 
+
+#### (c) Par une régie publicitaire externe exploitant nos espaces publicitaires 
+
+Les espaces publicitaires de nos sites sont susceptibles d'être exploités par une ou plusieurs régie(s) publicitaire(s) externe(s) et, le cas échéant, de contenir des cookies émis par l'une d'entre elles. Le cas échéant, les cookies émis par ces régies publicitaires externes leur permettent, pendant la durée de validité de ces cookies : 
+
+*   de comptabiliser le nombre total de publicités affichées par leurs soins sur nos espaces publicitaires, d'identifier ces publicités, leur nombre d'affichages respectifs, le nombre d'utilisateurs ayant cliqué sur chaque publicité et, le cas échéant, les actions ultérieures effectuées par ces utilisateurs sur les pages auxquelles mènent ces publicités, afin de calculer les sommes dues aux acteurs de la chaîne de diffusion publicitaire (annonceur, agence de communication, régie publicitaire, site/support de diffusion) et d'établir des statistiques ; 
+*   d'adapter les espaces publicitaires qu'elles opèrent aux préférences d'affichage de votre terminal (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc), selon les matériels et les logiciels de visualisation ou de lecture que votre terminal comporte ; 
+*   d'adapter les contenus publicitaires affichés sur votre terminal via nos espaces publicitaires selon la navigation de votre terminal sur nos sites, 
+*   d'adapter les contenus publicitaires affichés sur votre terminal via nos espaces publicitaires selon la navigation antérieure ou ultérieure de votre terminal sur des sites de tiers au sein desquels la régie concernée émet également des cookies, sous réserve que ces cookies aient été enregistrés dans votre terminal conformément aux choix que vous avez exercés à l'égard de cette régie. 
+*   d'adapter les contenus publicitaires affichés sur votre terminal via nos espaces publicitaires en fonction des données de localisation (longitude et latitude) transmises par votre terminal avec votre accord préalable 
+*   d'adapter les contenus publicitaires affichés sur votre terminal dans nos espaces publicitaires en fonction des données personnelles que vous auriez pu fournir à cette régie publicitaire. 
+
+#### Vos choix concernant les cookies 
+
+Plusieurs possibilités vous sont offertes pour gérer les Cookies. Tout paramétrage que vous pouvez entreprendre sera susceptible de modifier votre navigation sur Internet et vos conditions d'accès à certains services nécessitant l'utilisation de Cookies. Vous pouvez faire le choix à tout moment d'exprimer et de modifier vos souhaits en matière de cookies, par les moyens décrits ci-dessous. 
+
+#### (a) L'accord sur les Cookies 
+
+L'enregistrement d'un Cookie dans un terminal est essentiellement subordonné à la volonté de l'utilisateur du terminal, que celui-ci peut exprimer et modifier à tout moment et gratuitement à travers les choix qui lui sont offerts par son logiciel de navigation. Si vous avez accepté dans votre logiciel de navigation l'enregistrement de cookies dans votre terminal, les Cookies intégrés dans les pages et contenus que vous avez consultés pourront être stockés temporairement dans un espace dédié de votre terminal. Ils y seront lisibles uniquement par leur émetteur. 
+
+#### (b) Le refus des Cookies 
+
+Si vous refusez l'enregistrement de cookies dans votre terminal, ou si vous supprimez ceux qui y sont déjà enregistrés, certaines fonctionnalités de notre site pourront ne plus être disponibles, par exemple l'accès à des contenus ou services nécessitant une identification, ou certains réglages liés à la compatibilité technique de votre terminal (type de navigateur, paramètres de langue et d'affichage, pays de connexion). Nous vous en informons afin que vous puissiez faire un choix éclairé : ce fonctionnement dégradé résulte uniquement de l'absence des cookies nécessaires à ces fonctionnalités. 
+
+#### (c) Vos choix exprimés en ligne auprès de plateformes interprofessionnelles 
+
+Vous pouvez vous connecter au site Youronlinechoices, proposé par les professionnels de la publicité digitale regroupés au sein de l'association européenne EDAA (European Digital Advertising Alliance) et géré en France par l'Interactive Advertising Bureau France. 
+
+Vous pourrez ainsi connaître les entreprises inscrites à cette plate-forme et qui vous offrent la possibilité de refuser ou d'accepter les cookies utilisés par ces entreprises pour adapter à vos informations de navigation les publicités susceptibles d'être affichées sur votre terminal : http://www.youronlinechoices.com/fr/controler-ses-cookies/. 
+
+Cette plate-forme européenne est partagée par des centaines de professionnels de la publicité sur Internet et constitue une interface centralisée vous permettant d'exprimer votre refus ou votre acceptation des cookies susceptibles d'être utilisés afin d'adapter à la navigation de votre terminal les publicités susceptibles d'y être affichées. Notez que cette procédure n'empêchera pas l'affichage de publicités sur les sites Internet que vous visitez. Elle ne bloquera que les technologies qui permettent d'adapter des publicités à vos centres d'intérêts.
