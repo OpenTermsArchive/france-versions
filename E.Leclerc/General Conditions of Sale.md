@@ -1,7 +1,7 @@
 **Conditions Générales de Vente LCOMMERCE**
 -------------------------------------------
 
-**Mis à jour : 19 Aout 2026**
+**Mis à jour : 16 septembre 2026**
 
 ### **PARTIE 1**
 
@@ -215,7 +215,25 @@ Toutefois, le prestataire de service de paiement se réserve le droit d'annuler 
 
 Le prestataire de service de paiement prendra en charge l'authentification 3D Secure si cette fonctionnalité est prévue par la banque du Client et/ou les systèmes de paiement utilisés (Visa, Mastercard, etc.).
 
-**9.5 Paiement en 3x et 4x par CB à partir de 100€ pour le 3x et le 4x d’achats et jusqu’à 3000€ avec Oney Bank (hors Offres Marketplace)**
+**9.5** **Paiement en 3X, 4X par carte bancaire avec notre partenaire Floa à partir de 80€ pour le pour le 3x et le 4x d’achats et jusqu’à 3000€ (hors Offres Marketplace et Click&Collect**
+
+Les dispositions du présent article ne sont pas valables pour les produits proposés dans le cadre de l'Offre Marketplace, de l’Offre Click&Collect, ainsi que sur les précommandes et les Vins. 
+
+Notre partenaire financier Floa, propose des solutions de paiement pour les achats de biens et/ou de services, en 3 ou en 4 échéances par carte bancaire. Ces solutions de paiement sont réservées aux particuliers (personnes physiques majeures) résidants en France, titulaires d’une carte bancaire Visa ou MasterCard possédant une date de validité correspondant à la durée du remboursement.
+
+Floa SA, RCS Bordeaux 434 130 423, dont le siège social se situe Immeuble G7 – 71 Rue Lucien Faure à Bordeaux (33300) soumise au contrôle de l’Autorité de Contrôle Prudentiel et de Résolution (ACPR) 4 Place de Budapest, CS 92459, 75436 PARIS CEDEX 09 est enregistrée à l’ORIAS sous le numéro n° 07 028 160 ([www.orias.fr](http://www.orias.fr/))
+
+Modalités de souscription : 
+
+Après avoir confirmé le panier constitué à partir du Site et choisi le moyen de livraison sur le Site, le client devra s’authentifier sur le Site avant que le client soit redirigé sur une page « Passer à l’étape de paiement » et devra choisir, s’il souhaite bénéficier du « paiement en plusieurs fois » FLOA par carte bancaire de la commande, la modalité de paiement souhaitée parmi les différents moyens de paiement.
+
+Le Client saisit ses informations personnelles et reconnaît le fait que s’il demande à payer sa commande de biens et/ou de service au moyen de ces solutions de paiement, ses données personnelles seront transmises à Floa à des fins d’étude de sa demande de financement, de gestion de son contrat de crédit et le cas échéant, de recouvrement. Pour plus d’informations, cliquez [ici](https://www.floabank.fr/politique-confidentialite).
+
+Le Client doit prendre connaissance des conditions générales de paiement en plusieurs fois auxquelles il souhaite souscrire qui lui sont fournies via le lien [ici](https://www.floabank.fr/images/pdf/CG_paiement_en_plusieurs_fois_Leclerc_com.pdf) ou sous format PDF (lien ici) afin qu'il puisse les lire, les imprimer et les enregistrer avant de les accepter. Le Client notifie ensuite son acceptation électronique par la case à cocher correspondante.
+
+Le client reconnait que le « double clic » vaut consentement à contracter et constitue une acceptation irrévocable et sans réserve des conditions générales de paiement (disponible ici) en plusieurs fois. Le contrat est automatiquement archivé par FLOA et le client peut y avoir accès sur simple demande écrite.
+
+**9.6 Paiement en 3x et 4x par CB à partir de 100€ pour le 3x et le 4x d’achats et jusqu’à 3000€ avec Oney Bank (hors Offres Marketplace)**
 
 Les dispositions du présent article ne sont pas valables pour les produits proposés dans le cadre de l'Offre Marketplace, de l’Offre Click&Collect, ainsi que sur les précommandes et les Vins. 
 
@@ -871,6 +889,7 @@ Tout litige, quelle qu’en soit la nature, peut être soumis à la juridiction 
 
 Historique des Conditions générales de vente : 
 
+*   [(Ancienne version) - CGV 19 août 2026](https://media.e.leclerc/LEN/document/2026%2008%2019%20-%20CGV%20Lcommerce%20.docx?vh=31a179&func=proxy)
 *   [(Ancienne version) - CGV 18 Juin 2026](https://media.e.leclerc/LEN/document/2026%2006%2018%20-%20CGV%20Lcommerce%20.docx?vh=baa883&func=proxy)
 *   [(Ancienne Version) - CGV 15 Janvier 2026](https://media.e.leclerc/LEN/document/2026%2001%2015%20-%20CGV%20Lcommerce%20.docx?vh=fde11d&func=proxy)
 *   [(Ancienne Version) - CGV 12 Janvier 2026](https://media.e.leclerc/LEN/document/2026%2001%2012%20-%20CGV%20Lcommerce%20.docx?vh=bf6d4a&func=proxy)
