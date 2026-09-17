@@ -215,7 +215,7 @@ Toutefois, le prestataire de service de paiement se réserve le droit d'annuler 
 
 Le prestataire de service de paiement prendra en charge l'authentification 3D Secure si cette fonctionnalité est prévue par la banque du Client et/ou les systèmes de paiement utilisés (Visa, Mastercard, etc.).
 
-**9.5** **Paiement en 3X, 4X par carte bancaire avec notre partenaire Floa à partir de 80€ pour le pour le 3x et le 4x d’achats et jusqu’à 3000€ (hors Offres Marketplace et Click&Collect**
+**9.5** **Paiement en 3X, 4X par carte bancaire avec notre partenaire Floa à partir de 80€ pour le 3x et le 4x d’achats et jusqu’à 3000€ (hors Offres Marketplace et Click&Collect)**
 
 Les dispositions du présent article ne sont pas valables pour les produits proposés dans le cadre de l'Offre Marketplace, de l’Offre Click&Collect, ainsi que sur les précommandes et les Vins. 
 
