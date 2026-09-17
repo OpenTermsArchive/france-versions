@@ -1,4 +1,4 @@
-EEE/RU/CH
+EEE, R.-U. et Suisse
 
 Conditions Générales d’Utilisation de TikTok
 
