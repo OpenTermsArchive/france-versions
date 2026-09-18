@@ -119,7 +119,7 @@ Les principaux cookies strictement nécessaires à la fourniture des services et
 | Tous les Sites | BRS\_PROFIL | Boursorama | Identifiant de session :  <br>préférences bourse et actualités | Session |
 | Tous les Sites | rememberme | Boursorama | Identification sur la page de connexion | 365 jours |
 | Tous les Sites | Ckln\* | Boursorama | Identification du terminal à des fins de lutte contre la fraude | 36 mois |
-| Tous les Sites | didomi\_token  <br>didomi\_portal  <br>didomi\_prospect  <br>didomi\_cookies  <br>euconsent-v2  <br>cookie\_privacy\_gdpr  <br>AMP-CONSENT  <br>Didomi\* | Boursorama | Gestion des consentements | 12 mois |
+| Tous les Sites | didomi\_token  <br>didomi\_portal  <br>didomi\_prospect  <br>didomi\_cookies  <br>euconsent-v2  <br>AMP-CONSENT  <br>Didomi\* | Boursorama | Gestion des consentements | 12 mois |
 | Portail Non Connecté  <br>Portail Connecté  <br>Espace Client  <br>Espace Client Mobile | STICKY | ultimedia/digiteka | Equilibrage de la charge des équipements  <br>pour permettre la lecture de vidéos | Session |
 | Portail Non Connecté  <br>Portail Connecté | themeA11y | Boursorama | Accessibilité : gestion du contraste | localStorage\* |
 | Portail Non Connecté  <br>Portail Connecté | refreshAuto | Boursorama | Accessibilité : gestion du rafraîchissement automatique | localStorage\* |
