@@ -206,7 +206,7 @@ Pour un résumé complet et à jour de chacun des tiers accédant à votre navig
 
 Il existe également des moyens pour refuser la publicité ciblée de façon globale qui sont disponibles sur le site de la « Digital Advertising Alliance ».
 
-De manière similaire, vous pouvez gérer vos préférences publicitaires directement sur votre appareil mobile via les paramètres de l’appareil. Veuillez consulter les paramètres de confidentialité ou de publicité de votre appareil pour connaître les options permettant de contrôler les publicités personnalisées ou basées sur vos centres d’intérêt.
+De manière similaire, vous pouvez gérer vos préférences publicitaires directement sur votre appareil mobile via les paramètres de l’appareil. Veuillez consulter les paramètres de confidentialité ou de publicité de votre appareil pour connaître les options permettant de contrôler les publicités personnalisées ou basées sur vos centres d’intérêt. 
 
 UTILISER LA PLATEFORME NIKE AVEC DES PRODUITS ET SERVICES TIERS
 
