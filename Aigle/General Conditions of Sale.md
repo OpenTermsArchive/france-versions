@@ -72,6 +72,8 @@ Si le Client possède un code avantage, il devra l’inscrire dans l’emplaceme
 
 Si le Client a déjà passé commande sur le Site, il dispose d’un compte client. Dans une telle hypothèse, il s’identifiera uniquement avec son adresse électronique et son mot de passe.
 
+Dans le cadre de la commande, y compris lorsqu’un parcours de paiement express est utilisé, un compte client pourra être créé automatiquement ou associé à un compte existant afin de permettre le traitement et le suivi de la commande, l’accès à l’historique des commandes, aux factures et aux informations relatives à la relation commerciale. La création du compte client est indépendante de toute inscription à des communications commerciales ou marketing.
+
 Le Client vérifie alors l’ensemble des informations et clique sur « Valider » pour poursuivre sa commande. La commande sera envoyée à l’adresse de livraison que le Client aura indiquée lors de sa commande. Aigle ne saurait être tenu pour responsable si cette adresse de livraison est incorrecte ou incomplète.
 
 Il sera demandé au Client de sélectionner un mode de paiement, d’indiquer les informations afférentes. Tout paiement effectué sur le Site suppose l’acceptation préalable des présentes CGV.
@@ -79,8 +81,9 @@ Il sera demandé au Client de sélectionner un mode de paiement, d’indiquer le
 **Étape 5 :** Saisie des coordonnées bancaires.
 
 Le Client accèdera alors à l’écran de paiement sécurisé du partenaire d’Aigle.  
-Le paiement s’effectue en ligne uniquement par les modes de paiement suivants (Carte Bleue, Visa, Mastercard, AMEX, Paypal, Apple Pay, carte cadeau Aigle, carte cadeau Illicado et Klarna, sous réserve des conditions d’éligibilité applicables à chaque moyen de paiement).  
+Le paiement s’effectue en ligne uniquement par les modes de paiement suivants (Carte Bleue, Visa, Mastercard, AMEX, Paypal, Apple Pay, Paypal / Apple Pay express, carte cadeau Aigle, carte cadeau Illicado et Klarna, sous réserve des conditions d’éligibilité applicables à chaque moyen de paiement). Certains moyens de paiement peuvent être proposés sous la forme d’un parcours de paiement express permettant au Client de finaliser sa commande à l’aide des informations déjà enregistrées auprès du prestataire de paiement concerné.  
 Le Client devra saisir les informations nécessaires au moyen de paiement sélectionné, notamment, pour les cartes bancaires, son nom et prénom, son numéro de carte bancaire, sa date d’expiration ainsi que les 3 numéros du cryptogramme visuel présent au dos de sa carte. Pour les cartes cadeaux, certaines de ces informations ne seront pas requises.  
+Dans le cadre d’un parcours de paiement express, certaines informations nécessaires au traitement de la commande pourront être transmises à Aigle par le prestataire de paiement sélectionné.  
 Si le paiement est accepté, le Client sera redirigé vers un écran de confirmation de commande sur le Site. La commande n’est définitivement enregistrée qu’après validation du paiement.  
 En cas d’échec de règlement, le Client aura jusqu’à 3 tentatives pour saisir à nouveau ses coordonnées bancaires. Au bout du 3ème refus, le Client sera redirigé sur le Site vers un écran lui signifiant le refus de paiement. Le Client sera alors invité à contacter le service client d’Aigle pour en connaître les raisons et trouver ensemble une solution pour finaliser la commande du Client.
 
@@ -107,11 +110,13 @@ Il appartient au Client de conserver une copie des documents concernant sa comma
 
 ### 4.3 Création d’un compte client
 
-Pour faciliter les commandes de Produits lors de l’utilisation du Site, Aigle offre la possibilité de créer un compte client. Si un Client profite de cette possibilité, toutes les données personnelles fournies pendant le processus d’enregistrement seront stockées dans la base de données clients Aigle et n’auront donc pas besoin d’être saisies lors de chaque nouvelle commande. Elles apparaîtront automatiquement sur la commande.
+Pour les besoins de la gestion et du suivi des commandes passées sur le Site, un compte client est créé ou utilisé dans le cadre de chaque commande.
 
-Pour être enregistré, le Client devra remplir le formulaire d’enregistrement en ligne en fournissant les informations suivantes : civilité, prénoms, noms de famille, date de naissance, adresse de courriel et le cas échéant une autre adresse de livraison. Une fois que le Client aura cliqué sur le bouton « Valider », ces informations seront conservées dans la base de données clients d’Aigle. Aigle s’engage à utiliser les données conformément à sa Déclaration de Protection de la Vie Privée consultable dans la rubrique « Déclaration de Protection de la Vie Privée ». Le Client s’engage à faire en sorte que les informations communiquées à Aigle soient exactes et complètes et d’informer Aigle de toute modification éventuelle.
+La création du compte peut résulter soit d’une inscription réalisée directement par le Client, soit de la passation d’une commande sur le Site, y compris lorsque celle-ci est effectuée via un parcours de paiement express. Les données personnelles associées au compte client sont conservées dans la base de données clients d’Aigle et n’auront donc pas besoin d’être saisies lors de chaque nouvelle commande. Elles pourront apparaître automatiquement lors des commandes ultérieures. Lorsque le Client crée son compte directement sur le Site, il devra remplir le formulaire d’enregistrement en ligne en fournissant les informations demandées. Lorsque le compte est créé dans le cadre d’une commande, les informations nécessaires à la création et à la gestion du compte sont collectées dans le cadre du processus de commande.
 
-À la suite de l’enregistrement d’un compte client, le Client recevra automatiquement un courriel confirmant que son compte a été créé. L’adresse de courriel du Client servira d’identifiant pour son compte. Au cours du processus d’enregistrement, il sera demandé au Client de créer son propre mot de passe. Le Client aura la possibilité de changer le mot de passe à chaque connexion à son compte, ainsi que dans son espace « Mon Compte ». Le Client devra garder confidentiels ses identifiant et mot de passe à tout moment et ne pas les révéler à des tiers. Le Client devra se conformer à toutes nos instructions de sécurité ainsi qu’aux recommandations. Le Client devra également tenir Aigle immédiatement informés lorsqu’il apprend ou soupçonne que son compte fait l’objet d’une utilisation non autorisée, ou lorsque son compte est rendu accessible à un tiers. Sans préjudice des autres droits et recours, Aigle sera en droit, sous réserve de notification préalable par courriel, de suspendre l’accès du Client au Site sans engager sa responsabilité à son égard, si, selon Aigle, une telle mesure est nécessaire pour éviter les atteintes à la sécurité du Site. Le Client sera tenu pour responsable de toute utilisation abusive de ses identifiant et mot de passe, sauf en cas de perte ou de vol de ceux-ci, à condition d’en avoir averti Aigle sans délai à l’adresse figurant en tête des présentes.
+Une fois que le Client aura cliqué sur le bouton « Valider », ces informations seront conservées dans la base de données clients d’Aigle. Aigle s’engage à utiliser les données conformément à sa Déclaration de Protection de la Vie Privée consultable dans la rubrique « Déclaration de Protection de la Vie Privée ». Le Client s’engage à faire en sorte que les informations communiquées à Aigle soient exactes et complètes et d’informer Aigle de toute modification éventuelle.
+
+Lorsqu’un compte client est créé, le Client peut recevoir une confirmation par courrier électronique. L’adresse de courriel du Client servira d’identifiant pour son compte. Lorsqu’aucun mot de passe n’est défini lors de la passation de commande, le Client pourra être invité à le créer ultérieurement afin d’accéder à son espace « Mon Compte ». Le Client aura la possibilité de changer le mot de passe à chaque connexion à son compte, ainsi que dans son espace « Mon Compte ». Le Client devra garder confidentiels ses identifiant et mot de passe à tout moment et ne pas les révéler à des tiers. Le Client devra se conformer à toutes nos instructions de sécurité ainsi qu’aux recommandations. Le Client devra également tenir Aigle immédiatement informés lorsqu’il apprend ou soupçonne que son compte fait l’objet d’une utilisation non autorisée, ou lorsque son compte est rendu accessible à un tiers. Sans préjudice des autres droits et recours, Aigle sera en droit, sous réserve de notification préalable par courriel, de suspendre l’accès du Client au Site sans engager sa responsabilité à son égard, si, selon Aigle, une telle mesure est nécessaire pour éviter les atteintes à la sécurité du Site. Le Client sera tenu pour responsable de toute utilisation abusive de ses identifiant et mot de passe, sauf en cas de perte ou de vol de ceux-ci, à condition d’en avoir averti Aigle sans délai à l’adresse figurant en tête des présentes.
 
 ### 4.4 Programme de fidélité « A l’Air Libre »
 
@@ -119,11 +124,19 @@ Aigle a mis en place un programme de fidélité dénommé « [A l’Air Libre](h
 
 ### 4.5 Paiement et défaut de paiement
 
-Le prix des Produits achetés est payable comptant, en totalité au jour de la passation de la commande par le Client. Le paiement s’effectue en ligne uniquement par les modes de paiement suivants. Le règlement des achats s’effectue par carte bancaire (CB, Visa, Mastercard, Paypal, Apple Pay, American Express, Klarna, Carte Cadeau Aigle, Carte Illicado, selon les règles d’éligibilité de Aigle) au moment de la validation de la commande par le Client.
+Le prix des Produits achetés est payable comptant, en totalité au jour de la passation de la commande par le Client. Le paiement s’effectue en ligne uniquement par les modes de paiement suivants. Le règlement des achats s’effectue par carte bancaire (CB, Visa, Mastercard, Paypal, Apple Pay, Paypal / Apple Pay express, American Express, Klarna, Carte Cadeau Aigle, Carte Illicado, selon les règles d’éligibilité de Aigle) au moment de la validation de la commande par le Client.
 
 Lorsque le paiement est effectué à l’aide d’une carte cadeau Aigle (hors cartes émises par des partenaires externes de type Illicado, etc.), la carte cadeau Aigle est valable sur le Site Aigle en France ainsi que dans les boutiques Aigle participantes en France métropolitaine. Elle est utilisable en une ou plusieurs fois jusqu’à épuisement de son solde et sa validité est de douze (12) mois à compter de sa date d’activation.
 
 En cas de paiement par carte cadeau, si le montant de la commande dépasse la valeur disponible, le Client peut compléter le paiement par un autre moyen accepté sur le Site. À l’inverse, si le montant de la commande est inférieur à la valeur de la carte cadeau, le solde reste disponible jusqu’à la fin de la période de validité.
+
+Le Client peut également, lorsque cette fonctionnalité est proposée sur le Site, utiliser les services de paiement express PayPal ou Apple Pay afin de renseigner et/ou valider plus rapidement les informations nécessaires à sa commande et de procéder au paiement de celle-ci.
+
+Le recours à un service de paiement express ne modifie pas les conditions de vente applicables à la commande. Le Client est invité à vérifier les informations relatives à sa commande avant sa validation et reconnaît, lors de la validation de celle-ci, son obligation de paiement.
+
+La commande est définitivement enregistrée sous réserve de la confirmation du paiement et de la disponibilité des Produits, dans les conditions prévues aux présentes CGV.
+
+En cas de paiement par les services de paiement express PayPal ou Apple Pay, le contrat de vente est réputé conclu au moment où le Client confirme sa commande via le service de paiement concerné, sous réserve de la confirmation du paiement.
 
 La demande d’autorisation du prélèvement de la carte est effectuée au moment de la confirmation de la commande sur le Site, sauf en cas d’indisponibilité des serveurs. Aigle se réserve le droit de procéder à une nouvelle demande d’autorisation de prélèvement dans le cas où la première n’aurait pas pu aboutir pour cause d’indisponibilité des serveurs.
 
@@ -168,8 +181,8 @@ La durée de validité de la Carte Cadeau ne pourra être prolongée, même dans
 
 La Carte Cadeau physique ou digitale peut être utilisée comme moyen de paiement afin de régler vos achats :
 
-*   dans toutes les Boutiques Aigle ;
-*   sur le Site Web (en France et en Belgique).
+*   Dans toutes les Boutiques Aigle ;
+*   Sur le Site Web (en France et en Belgique) ;
 
 La Carte Cadeau peut être créditée d’un montant libre entre cinquante (50) et cinq-cents (500) euros.
 
