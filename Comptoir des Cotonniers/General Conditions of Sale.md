@@ -88,7 +88,7 @@ Comptoir des Cotonniers ne pourra être tenue responsable du possible délai sup
   
 A partir de l’expédition de la commande, les délais moyens de livraison sont les suivants :  
   
-\- 24 h en Fedex   
+\- Livraison Express FedEx : recevez votre commande le lendemain avant 18h pour toute commande passée avant 12h00. Les commandes Express enregistrées après 12h00 le jeudi seront expédiées à partir du lundi suivant.   
 \- 3 jours ouvrés dans une sélection de boutiques (click & collect) pour la France & l'Espagne  
 \- 3 à 5 jours ouvrés en Colissimo pour la France   
 \- 3 à 5 jours ouvrés en point relais (Mondial Relay ou Colissimo)  
