@@ -52,3 +52,95 @@ créer votre compte personnel, qui vous permet d'accéder à l'application mobil
 procéder à vos paiements ;
 
 reconnaître et suivre votre position géographique ou la position de votre bicyclette ou de votre trottinette électrique Pony (le "Véhicule" ou les "Véhicules") ;
+
+fournir un support aux utilisateurs et communiquer avec vous.
+
+Ces traitements de données sont obligatoires et nécessaires pour l'exécution du contrat conclu entre vous et PONY et pour vous permettre d'accéder et d'utiliser les Services. Si vous refusez de communiquer vos données, PONY ne sera pas en mesure de vous donner accès aux Services. Vos données à caractère personnel seront conservées tant que vous utiliserez les Services et seront effacées dès que vous demanderez la suppression de votre compte, sauf indication contraire mentionnée dans la présente Politique de Confidentialité ou disposition prévue par la loi.
+
+analyser et effectuer des statistiques sur l'utilisation des Services, afin de maintenir, d'améliorer ou de développer les Services, leur sécurité ou certaines fonctionnalités. Ce traitement est effectué sur la base de l'intérêt légitime de PONY. À ce titre, vous avez le droit de vous opposer à ce traitement si vous justifiez d'un motif légitime résultant de votre situation particulière. Si vous refusez de communiquer vos données à caractère personnel pour cette finalité, PONY ne sera pas en mesure de vous donner accès aux Services. Vos données à caractère personnel seront conservées aussi longtemps que nécessaire pour atteindre cette finalité.
+
+se conformer à ses obligations légales, notamment pour se conformer aux exigences réglementaires ou locales le cas échéant.
+
+Veuillez noter que, si vous choisissez de souscrire aux Services, vous reconnaissez que vos données à caractère personnel seront utilisées pour ces finalités et comme décrit dans la présente Politique de Confidentialité.
+
+### QUELLES DONNÉES À CARACTÈRE PERSONNEL SERONT COLLECTÉES ?
+
+Pour les finalités précisées ci-avant, PONY peut procéder au traitement des données suivantes :
+
+vos nom et prénom ;
+
+vos coordonnées (adresse, numéro de téléphone, adresse e-mail) ;
+
+votre date de naissance ;
+
+vos données de localisation par l'intermédiaire de votre smartphone ou via des "trackers" installés sur les Véhicules. Par exemple, pour vous proposer les Véhicules près de votre emplacement, il est nécessaire de collecter et d'enregistrer l'emplacement physique de votre appareil. Des données complémentaires telles que l'emplacement du Véhicule, les itinéraires empruntés par le Véhicule et son statut de location sont également nécessaires pour fournir les Services.
+
+### QUELLE EST LA DURÉE DE CONSERVATION DE VOS DONNÉES ?
+
+Vos données à caractère personnel sont conservées pendant les durées décrites ci-dessus dans la section sur les finalités.
+
+PONY peut également conserver vos données à caractère personnel à des fins d'archivage uniquement, pour répondre à des exigences légales ou réglementaires ou pour protéger les droits et intérêts légitimes de PONY.
+
+Dans tous les cas, PONY mettra en place des mesures organisationnelles et techniques adéquates de sécurité et de confidentialité afin d'assurer la protection de vos données contre tout accès, modification, vol, destruction, divulgation à des personnes non-autorisées ou publication accidentelles ou illicites.
+
+### QUI AURA ACCÈS A VOS DONNÉES ?
+
+Pour les finalités énoncées ci-dessus, PONY peut communiquer vos données à caractère personnel aux tiers suivants :
+
+Les sociétés affiliées de PONY ;
+
+Les prestataires de services de PONY (tels que les prestataires de services informatiques ou de paiement) ;
+
+Les autorités judiciaires et administratives lorsque PONY est tenue de le faire en vertu de la loi applicable.
+
+### VOS DONNÉES SERONT-ELLES TRANSFERÉES EN DEHORS DE L'UE ?
+
+Pour les finalités précisées ci-dessus, PONY peut être amenée à transférer vos données à caractère personnel à d'autres entités situées en dehors de l'Espace Économique Européen, dans des pays où la législation sur la protection des données à caractère personnel n'offre pas nécessairement le même niveau de protection ou dans des pays qui ne sont pas reconnus comme offrant un niveau de protection adéquat.
+
+Afin d'assurer un niveau de protection adéquat de vos données, ces transferts sont réalisés conformément aux exigences légales du pays d'origine desdits transferts et, en l'occurrence, conformément aux clauses contractuelles types de la Commission Européenne.
+
+### QUELS SONT VOS DROITS CONCERNANT VOS DONNÉES A CARACTÈRE PERSONNEL ?
+
+Conformément aux droits qui vous sont conférés par la loi, vous avez le droit de :
+
+demander l'accès, sur simple requête, à vos données à caractère personnel – auquel cas vous pouvez demander à recevoir une copie de vos données à caractère personnel, à moins que ces données à caractère personnel ne soient mises à votre disposition directement, par exemple via l'application mobile Pony ;
+
+demander la rectification de vos données à caractère personnel si elles sont inexactes, incomplètes ou obsolètes (vous pourrez généralement les rectifier vous-même via l'application mobile Pony) ;
+
+obtenir la suppression de vos données à caractère personnel ou une limitation du traitement dans les cas spécifiques prévus par la loi ;
+
+le cas échéant, recevoir vos données dans un format standard pour les transmettre à un autre responsable du traitement ;
+
+déposer une plainte auprès de la Commission Nationale de l'Informatique et des Libertés (ou d'une autre autorité compétente en matière de protection des données, le cas échéant) si vous estimez que le traitement de vos demandes adressées à PONY n'est pas satisfaisant ou que le traitement de vos données à caractère personnel par cette dernière viole la législation applicable à la protection des données.
+
+Veuillez noter que, selon le système d'exploitation de votre smartphone, vous pouvez généralement désactiver à tout moment la transmission des données de localisation de votre smartphone à PONY. Veuillez noter cependant que certaines fonctionnalités nécessaires à l'utilisation des Services (telles que l'identification des véhicules disponibles près de chez vous) ne seront plus disponibles si vous procédez à cette désactivation.
+
+Veuillez également noter que, l'exercice de ces droits étant soumis à certaines conditions et limitations légales, PONY peut être amenée à refuser votre demande si ces conditions ne sont pas remplies ou si des limitations légales s'appliquent. Si PONY refuse votre demande, PONY vous en expliquera les raisons.
+
+### A QUI S'ADRESSER POUR TOUTE QUESTION ?
+
+Pour toute autre question concernant le traitement de vos données à caractère personnel ou l'exercice de vos droits tels que définis ci-dessus, vous pouvez contacter le Délégué à la Protection des Données de PONY, à cette adresse : help@getapony.com
+
+### INFORMATIONS SPÉCIFIQUES SELON LE PAYS CONCERNÉ
+
+Conformément à la loi française sur la protection des données, vous avez le droit d'envoyer à PONY vos instructions quant à la gestion post-décès de vos données à caractère personnel concernant leur conservation, suppression et communication.
+
+### MODIFICATIONS DE LA POLITIQUE DE CONFIDENTIALITÉ
+
+PONY peut mettre à jour la présente Politique de Confidentialité à tout moment, en publiant une nouvelle version de cette Politique de Confidentialité sur son site internet ou si l'application mobile Pony. En cas de changements significatifs ayant un impact sur vos droits, PONY vous en informera en temps utile via l'application mobile Pony ou par e-mail.
+
+#### Qu'est-ce qu'un cookie ?
+
+Un cookie est une information envoyé par un serveur Internet à votre navigateur Internet, ce qui permet au serveur de recueillir des informations à partir du navigateur. Un cookie ne peut pas lire les données du disque dur de votre ordinateur.
+
+Si vous naviguez sur notre site internet [getapony.com](http://getapony.com/), des cookies seront placés sur votre appareil. Vous consentez à ces cookies si vous utilisez notre site internet.
+
+#### Pourquoi utilisons-nous des cookies ?
+
+PONY utilise principalement des cookies pour analyser la façon dont les utilisateurs utilisent son site internet, comme précisé dans les finalités ci-dessus.
+
+#### Comment gérer vos préférences en matière de cookies ?
+
+La plupart des navigateurs vous permettent de désactiver les cookies ou d'être alerté lorsqu'un cookie est émis. Si vous voulez savoir comment faire, veuillez consulter le menu d'aide de votre navigateur. Quels que soient les paramètres que vous sélectionnez, vous pouvez choisir de désactiver ou de réactiver les cookies à tout moment.
+
+Toutefois, veuillez noter que si vous le faites, il se peut que vous ne puissiez pas utiliser toutes les fonctionnalités du site internet de PONY.
