@@ -218,8 +218,8 @@ Comptoir des Cotonniers ne saurait être tenu responsable de toute perte ou domm
 
 ARTICLE 9. PROGRAMME DE FIDÉLITÉ **9.1 Présentation du Programme de fidélité (le « Club »)**
 
-Le programme de fidélité « Club» de Comptoir des Cotonniers & Princesse tam tam (ci-après le « Club ») est proposé gratuitement sur demande ou acceptation du client (ci-après l’« Adhérent ») et permet de bénéficier des offres du Club (ci-après les « Offres »).  
-Ce Club est valable sur le présent site www.comptoirdescotonniers.com et/ou sur le site www.princessetamtam.com (ci-après le(s) « Site(s) ») ainsi que dans les boutiques Comptoir des Cotonniers et/ou Princesse Tam Tam (à l’exclusion des corners et magasins d’usine) en France métropolitaine, et Monaco (ci-après les « Boutiques »). Le Club est valable sur les Sites de nos marques et dans les Boutiques à compter du 1er septembre 2024.  
+Le programme de fidélité « Club» de Comptoir des Cotonniers & Princesse tam tam (ci-après le « Club ») est proposé gratuitement sur demande ou acceptation du client (ci-après l’« Adhérent ») en boutique ou en ligne via la page « Mon compte » des sites internet comptoirdescotonniers.com et princessetamtam.com. L’adhésion au programme est conditionnée à la création d’un compte client en ligne ou en Boutique. Le programme permet de bénéficier des offres du Club (ci-après les « Offres »).  
+Ce Club est valable sur le présent site www.comptoirdescotonniers.com et/ou sur le site www.princessetamtam.com (ci-après le(s) « Site(s) ») ainsi que dans les boutiques Comptoir des Cotonniers et/ou Princesse Tam Tam en France métropolitaine (ci-après les « Boutiques »). Le Club est valable sur les Sites de nos marques et dans les Boutiques à compter du 15 octobre 2026.  
 Le Club est personnel et ne peut en aucun cas être utilisé à d’autres fins que celles définies dans les présentes CGV.  
   
 Le Club permet de cumuler les achats effectués à la fois sur les produits Comptoir des Cotonniers et/ou Princesse Tam Tam sur leur Sites respectifs et dans leurs Boutiques à conditions d’utiliser un compte unique pour les achats. Le cumul des achats permet d’intégrer un statut auquel est associé des Offres particulières (ci-après le « Statut »).  
@@ -231,11 +231,12 @@ Il existe quatre Statuts au sein du Club en fonction des achats cumulés par l�
 \- QUATRE étoiles >= 600€  
   
 Le Statut de l’Adhérent est disponible sur le Site lorsque l’Adhérent se connecte à « Mon Compte - Mes infos personnelles », ou en Boutique Comptoir des Cotonniers et/ou Princesse tam tam en formulant sa demande auprès d’un conseiller de vente.  
-En fonction du cumul des achats calculés sur les 12 derniers mois, le Statut de l’Adhérent est mis à jour automatiquement, après expiration du délai de retour attaché à chaque achat. Pour les Adhérents nouveaux inscrits au sein de la base de données clients Comptoir des Cotonniers et/ou Princesse Tam Tam (ci-après la « Base de données clients ») à la date de l’adhésion au Club, le cumul des achats s’effectue à compter du premier achat.  
-Pour les Adhérents d’ores et déjà inscrit au sein de la Base de données clients Comptoir des Cotonniers et/ou Princesse Tam Tam avant le 1er septembre 2024 ou en s’inscrivant dans notre Base de données clients avant cette date, le cumul des achats s’effectuera en prenant en compte le cumul des achats des 12 mois antérieurs à la date en cours. Le cumul des achats donnant accès au statuts est calculé sur 12 mois glissants à compter de la date en cours.  
+En fonction du cumul des achats calculés sur les 12 derniers mois, le Statut de l’Adhérent est mis à jour automatiquement, après expiration du délai de retour attaché à chaque achat. Seuls les achats de produits effectivement conservés par l’Adhérent sont pris en compte. Les frais de livraison, cartes cadeaux et produits remboursés ne sont pas intégrés dans le calcul.  
+Pour les Adhérents nouveaux inscrits au sein de la base de données clients Comptoir des Cotonniers et/ou Princesse Tam Tam (ci-après la « Base de données clients ») à la date de l’adhésion au Club, le cumul des achats s’effectue à compter du premier achat. Pour les Adhérents d’ores et déjà inscrit au sein de la Base de données clients Comptoir des Cotonniers et/ou Princesse Tam Tam avant le 1er septembre 2024 ou en s’inscrivant dans notre Base de données clients avant cette date, le cumul des achats s’effectuera en prenant en compte le cumul des achats des 12 mois antérieurs à la date en cours. Le cumul des achats donnant accès au statut est calculé sur 12 mois glissants à compter de la date en cours.  
 Les modalités des Offres du Club et leur durée de validité, le cas échéant, sont spécifiées dans les communications adressées par mail ou courrier aux Adhérents du Club tout au long de l'année, mais aussi dans les Boutiques sur simple demande, ou par courrier en écrivant à :  
   
 Comptoir des Cotonniers  
+Princesse tam tam  
 Service Relation Client  
 151 rue Saint-Honoré  
 75001 Paris  
@@ -245,13 +246,12 @@ En cas de contestation du Statut acquis par l’Adhérent, seules les informatio
 
 **9.2 Offres du Club**
 
-Les Offres sont classées en fonction du Statut de l’Adhérent. Vous trouverez les offres sur le lien suivant : [OFFRE DU CLUB](https://www.comptoirdescotonniers.com/on/demandware.static/-/Library-Sites-CDCSharedLibrary/default/dw7b184fcc/PAGE-CLUB/Content/2025-LeClub-BenefitGrid-FR-INTER.pdf).  
+Les Offres sont classées en fonction du Statut de l’Adhérent. Vous trouverez les offres sur le lien suivant : [OFFRE DU CLUB](https://www.comptoirdescotonniers.com/on/demandware.static/-/Library-Sites-CDCSharedLibrary/default/dw64c3bc03/PAGE-CLUB/Content/cgv-fr-le-club.pdf).  
 Les cadeaux offerts dans le cadre du Club ne peuvent pas être échangés, et ne sont ni compensables, ni remboursables.
 
 **9.3 Modification du Club**
 
-Comptoir des Cotonniers et/ou Princesse Tam Tam se réservent la possibilité de modifier, de suspendre ou de mettre un terme au Club sous réserve d’en avoir préalablement informé les Adhérents dans un délai raisonnable.  
-Dans le cas d’un arrêt définitif du Club ou d’un changement affectant les Offres, les Adhérents seront informés sur le Site, par mail et/ou par un affichage en magasin, et aucun recours à l’encontre de Comptoir des Cotonniers et/ou Princesse Tam Tam ne pourra être effectué à ce titre. Aucune modification ou suppression ne donnera droit à une quelconque indemnisation des Adhérents.
+Dans le cas d’un arrêt définitif du Club ou d’une modification affectant les Offres, les Adhérents en seront informés par tout moyen approprié, notamment sur le Site, par courrier électronique et/ou par affichage en Boutique. Les modifications ou l’arrêt du Club n’affecteront pas les avantages déjà attribués aux Adhérents ou en cours de validité à la date d’entrée en vigueur de la modification ou de la suppression du Club, sauf si cette modification ou cette suppression est rendue nécessaire par une obligation légale, réglementaire ou une contrainte opérationnelle impérieuse. Sous réserve des droits ainsi acquis, aucun recours ne pourra être exercé à l’encontre de Comptoir des Cotonniers et/ou Princesse Tam Tam du fait de la modification, de la suspension ou de l’arrêt du Club. Ces modifications, suspensions ou suppressions ne donneront lieu à aucune indemnisation au profit des Adhérents.
 
 ARTICLE 10. GARANTIES LEGALES
 
