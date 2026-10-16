@@ -3,7 +3,7 @@ Kappa France
 
 [Mot de passe](#LoginModal)
 
-![Kappa: Opening soon](//cdn.shopify.com/s/files/1/0566/8113/6327/t/69/assets/password-page-background.jpg?v=116171501599674600341764586562)
+![Kappa: Opening soon](//kappafrance.myshopify.com/cdn/shop/t/69/assets/password-page-background.jpg?v=116171501599674600341764586562)
 
 Opening soon
 
