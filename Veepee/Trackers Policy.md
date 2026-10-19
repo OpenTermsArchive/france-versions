@@ -38,7 +38,7 @@ Certains Cookies sont indispensables pour la fourniture du service proposé. Les
 
 #### Analyse des performances
 
-Certains Cookies bénéficient à l’amélioration des performances du site. Dans ce cadre, et sous réserve de votre consentment, les données traitées permettent d’analyser la navigation sur les ventes du site ainsi que leurs performances de manière détaillée en identifiant les zones de clics et les pages consultées. Les analyses sont agrégées et ne permettent pas d’identifier un Membre.
+Certains Cookies bénéficient à l’amélioration des performances du site. Dans ce cadre, et sous réserve de votre consentment, les données traitées permettent d’analyser la navigation sur les ventes du site ainsi que leurs performances de manière détaillée en identifiant les zones de clics et les pages consultées. Les analyses sont agrégées et ne permettent pas d’identifier un Membre. Elles pourront être transmises à nos Partenaires.
 
 |     |     |     |
 | --- | --- | --- |Analyse des performances
