@@ -1,7 +1,7 @@
 Protection de la vie privée & Cookies
 =====================================
 
-#### Mise à jour du 05/12/2025
+#### Mise à jour du 08/10/2026
 
 Ce document comprend l’ensemble des engagements pris par VERTBAUDET pour protéger votre vie privée et plus précisément les données personnelles qu’elle collecte et traite dans le cadre de votre navigation sur son site internet www.vertbaudet.fr (ci-après « le Site »). Par ailleurs, VERTBAUDET intervient en qualité de sous-traitant de Envie de Fraise pour tous les traitements de données personnelles. A ce titre, les présentes dispositions s’appliquent aux données personnelles des Clients de la société Envie de Fraise.
 
@@ -130,6 +130,9 @@ Les informations personnelles que vous nous transmettez dans le cadre de la cré
     
 *   Pour le bon fonctionnement et l'amélioration du site : la réalisation de statistiques, d'analyses marketing, l'amélioration de la navigation, l'adaptation du site à votre terminal.  
     Le fondement juridique est votre consentement lorsque nécessaire, ou l'intérêt légitime de VERTBAUDET.
+    
+*   Pour la mesure et la personnalisation liées à l'ouverture de nos communications par email : l'utilisation de pixels de suivi permettant de mesurer le taux d'ouverture de nos emails, d'adapter la fréquence de nos envois et de personnaliser les contenus et offres qui vous sont adressés.  
+    Le fondement juridique est votre consentement. Pour les adresses email collectées antérieurement au 14 avril 2026, vous avez été informé(e) de cette utilisation et disposez d'un droit d'opposition simple et immédiat.
     
 
 Lors de vos visites sur notre Site, nous pouvons vous demander des informations par le biais de questionnaires, formulaires, notamment lors de la création de votre compte client.  
@@ -410,6 +413,20 @@ Les partenaires de Vertbaudet, ci-dessous listés, déposent des cookies dans le
     Vous pouvez consulter la politique d’Epsilon/Conversant en matière de vie privée [ici](https://www.epsilon.com/emea/privacy-policy).
 *   Klarna : Les cookies strictement nécessaires sont indispensables au fonctionnement du site web et ne peuvent être désactivés dans nos systèmes. Ils ne sont généralement définis qu'en réponse à des actions de votre part qui constituent une demande de services, telles que la définition de vos préférences en matière de confidentialité, la connexion ou le remplissage de formulaires. Afin de garantir la sécurité du service et de prévenir la fraude, nous collectons également les empreintes digitales des appareils, y compris, mais sans s'y limiter, le nom de votre navigateur, votre adresse IP, votre fuseau horaire, vos préférences linguistiques et la disponibilité des services.
 
+### 6.5. Les pixels de suivi dans nos emails
+
+VERTBAUDET peut insérer des pixels de suivi (ou tracking pixels) dans les emails qu'elle vous adresse. Ces pixels nous permettent de :
+
+*   mesurer le taux d'ouverture de nos communications ;
+    
+*   adapter la fréquence de nos envois à votre comportement de lecture ;
+    
+*   personnaliser les contenus et offres qui vous sont adressés par la suite.
+    
+
+Conformément à l'article 82 de la loi Informatique et Libertés (transposant l'article 5§3 de la directive ePrivacy 2002/58/CE), l'insertion de ces pixels dans un email à ces fins requiert votre consentement préalable, à l'exclusion des pixels strictement nécessaires à l'acheminement technique de nos emails (délivrabilité), qui ne requièrent pas de consentement.  
+Vous pouvez à tout moment vous opposer à ce suivi statistique, sans que cela n'affecte votre réception de nos communications commerciales, en vous rendant sur la page dédiée accessible depuis le lien présent dans nos emails, ou en cliquant [ici](https://www.vertbaudet.fr/desinscriptionpixel.aspx)
+
 7\. Vos droits
 --------------
 
@@ -431,6 +448,7 @@ Vous pouvez les exercer, sous réserve de la fourniture d’une pièce justifica
 *   Nous contacter via le formulaire dédié en cliquant sur ce lien « Contactez-nous », rubrique « Mes données personnelles »
 *   Vous désabonner des offres commerciales envoyées par email en cliquant sur le lien de désabonnement figurant en bas de chaque email publicitaire envoyé,
 *   Vous désabonner des offres commerciales envoyées par SMS en répondant répondre « STOP» sur un numéro non surtaxé
+*   Vous opposer au suivi statistique de vos emails (pixels de suivi) en modifiant vos préférences via le lien dédié présent dans chacun de nos emails, ou en cliquant [ici](https://www.vertbaudet.fr/desinscriptionpixel.aspx). Cette opposition est indépendante de votre désabonnement aux communications commerciales : vous pouvez continuer à recevoir nos emails tout en refusant le suivi statistique de leur ouverture.
 *   Déterminer vos préférences en matière de Cookies selon les modalités décrites ci-dessus
 *   Contacter le délégué à la protection des données à l’adresse suivante : [\[email protected\]](https://www.vertbaudet.fr/page/dpo@vertbaudet.com).
 *   Nous écrire à l’adresse postale suivante VERTBAUDET – Relations Clients – 36, avenue Alfred Lefrançois – 59200 Tourcoing
