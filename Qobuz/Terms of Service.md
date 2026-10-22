@@ -255,6 +255,12 @@ La période d'essai est réservée à tout nouvel abonné et chaque utilisateur 
 
 Le Client doit satisfaire aux exigences relatives à l'âge dans le tableau ci-dessous et avoir la capacité de conclure un contrat ayant force exécutoire avec XANDRIE SA, c’est-à-dire de ne pas faire l’objet d’une mesure de protection juridique des majeurs.
 
+  
+  
+  
+  
+Pologne  
+
 |     |     |     |
 | --- | --- | --- |
 | **Pays** | **Création d’un compte, sans souscription d’abonnement** | **Souscription à une offre d’abonnement Qobuz** |
@@ -268,19 +274,20 @@ Le Client doit satisfaire aux exigences relatives à l'âge dans le tableau ci-d
 | **Canada** | **À partir de 16 ans** | **À partir de 18 ans** |
 | **Chili** | **À partir de 16 ans** | **À partir de 18 ans** |
 | **Colombie** | **À partir de 16 ans** | **À partir de 18 ans** |
-| **Danemark** | **À partir de 16 ans** | **A partir de 18 ans** |
-| **Espagne** | **À partir de 16 ans** | **A partir de 18 ans** |
-| **États-Unis** | **À partir de 16 ans** | **A partir de 18 ans** |
-| **Finlande** | **À partir de 16 ans** | **A partir de 18 ans** |
-| **Irlande** | **À partir de 16 ans** | **A partir de 18 ans** |
-| **Italie** | **À partir de 16 ans** | **A partir de 18 ans** |
-| **Japon** | **À partir de 16 ans** | **A partir de 18 ans** |
-| **Luxembourg** | **À partir de 16 ans** | **A partir de 18 ans** |
-| **Mexique** | **À partir de 16 ans** | **A partir de 18 ans** |
-| **Norvège** | **À partir de 16 ans** | **A partir de 18 ans** |
-| **Nouvelle-Zélande** | **À partir de 16 ans** | **A partir de 18 ans** |
-| **Pays-Bas** | **À partir de 16 ans** | **A partir de 18 ans** |
-| **Portugal** | **À partir de 16 ans** | **A partir de 18 ans** |
+| **Danemark** | **À partir de 16 ans** | **À partir de 18 ans** |
+| **Espagne** | **À partir de 16 ans** | **À partir de 18 ans** |
+| **États-Unis** | **À partir de 16 ans** | **À partir de 18 ans** |
+| **Finlande** | **À partir de 16 ans** | **À partir de 18 ans** |
+| **Irlande** | **À partir de 16 ans** | **À partir de 18 ans** |
+| **Italie** | **À partir de 16 ans** | **À partir de 18 ans** |
+| **Japon** | **À partir de 16 ans** | **À partir de 18 ans** |
+| **Luxembourg** | **À partir de 16 ans** | **À partir de 18 ans** |
+| **Mexique** | **À partir de 16 ans** | **À partir de 18 ans** |
+| **Norvège** | **À partir de 16 ans** | **À partir de 18 ans** |
+| **Nouvelle-Zélande** | **À partir de 16 ans** | **À partir de 18 ans** |
+| **Pays-Bas** | **À partir de 16 ans** | **À partir de 18 ans** |
+| Pologne | À partir de 16 ans | À partir de 18 ans |
+| Portugal | **À partir de 16 ans** | **A partir de 18 ans** |
 | **Royaume-Uni** | **À partir de 16 ans** | **A partir de 18 ans** |
 | **Suède** | **À partir de 16 ans** | **A partir de 18 ans** |
 | **Suisse** | **À partir de 16 ans** | **A partir de 18 ans** |
