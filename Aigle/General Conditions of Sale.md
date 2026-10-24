@@ -130,6 +130,8 @@ Lorsque le paiement est effectué à l’aide d’une carte cadeau Aigle (hors c
 
 En cas de paiement par carte cadeau, si le montant de la commande dépasse la valeur disponible, le Client peut compléter le paiement par un autre moyen accepté sur le Site. À l’inverse, si le montant de la commande est inférieur à la valeur de la carte cadeau, le solde reste disponible jusqu’à la fin de la période de validité.
 
+En cas de paiment par carte Illicado, le Client peut cumuler plusieurs cartes illicado dans la limite de 250 € par transaction (pour les cartes reçues par les entreprises ou les CSE). L’utilisation des cartes illicado achetées directement en magasin ou sur www.illicado.com est plafonnée à 50 € par transaction sur internet (cette restriction est précisée au dos de la carte).  
+
 Le Client peut également, lorsque cette fonctionnalité est proposée sur le Site, utiliser les services de paiement express PayPal ou Apple Pay afin de renseigner et/ou valider plus rapidement les informations nécessaires à sa commande et de procéder au paiement de celle-ci.
 
 Le recours à un service de paiement express ne modifie pas les conditions de vente applicables à la commande. Le Client est invité à vérifier les informations relatives à sa commande avant sa validation et reconnaît, lors de la validation de celle-ci, son obligation de paiement.
