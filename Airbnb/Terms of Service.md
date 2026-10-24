@@ -1503,7 +1503,7 @@ Les frais sont répartis entre l'hôte et le voyageur.
 
 **Frais de service hôte**
 
-La plupart des hôtes paient des frais de service de 3 %. Toutefois, certains paient plus. Des frais de 4 % sont appliqués pour les logements situés au Brésil et au Mexique. Pour calculer le versement de l'hôte, les frais sont automatiquement déduits du prix total (les frais de service correspondent à un pourcentage du prix par nuit et des éventuels [frais facturés par l'hôte](https://www.airbnb.fr/help/article/2827), mais n'incluent pas les taxes et les frais de service voyageur).  
+La plupart des hôtes paient des frais de service de 3 %. Toutefois, certains paient plus. Des frais de 4 % sont appliqués pour les logements situés au Brésil et au Mexique. Pour calculer le versement de l'hôte, les frais sont automatiquement déduits du prix total (les frais de service correspondent à un pourcentage du prix par nuit et des éventuels [frais facturés par l'hôte](https://www.airbnb.fr/help/article/2799), mais n'incluent pas les taxes et les frais de service voyageur).  
 
 Consulter les frais de service hôte d'une réservation
 -----------------------------------------------------
