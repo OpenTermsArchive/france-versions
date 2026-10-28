@@ -138,7 +138,7 @@ ARTICLE 20. DISPOSITIONS FINALES................................................
 
 ANNEXE 1 : FORMULAIRE DE RETRACTATION CARTE AVANTAGE.............................................................. 27
 
-ANNEXE 2 : FORMULAIRE DE RETRACTATION CARTE LIBERTE .................................................................. 27
+ANNEXE 2 : FORMULAIRE DE RETRACTATION CARTE LIBERTE .................................................................. 28
 
 
 
@@ -326,7 +326,7 @@ Partenaires via leur marque cobrandée ou via un lien hypertexte renvoyant vers 
 
 
 
-Elles sont valables à compter du 15 septembre 2026. Cette édition annule et remplace les versions
+Elles sont valables à compter du 27 octobre 2026. Cette édition annule et remplace les versions
 
 antérieures.
 
@@ -590,9 +590,9 @@ Générales et/ou dans les Conditions Spécifiques applicables.
 
 Pour les Cartes SNCF (Carte Avantage Jeune, Carte Avantage Senior, Carte Avantage Adulte, Carte
 
-Liberté, Pass hebdo ou mensuel 2nd ou 1ère classe et Forfait hebdo ou mensuel 2nd ou 1ère classe),
+Liberté, Carte de réduction Régionale, Pass hebdo ou mensuel 2nd ou 1ère classe TGV INOUI), et
 
-et conformément aux articles L. 221-18 et suivants du Code de la Consommation, Vous disposez
+conformément aux articles L. 221-18 et suivants du Code de la Consommation, Vous disposez
 
 d’un délai de quatorze (14) jours ouvrables à compter de la date d’achat de votre Carte SNCF pour
 
@@ -2676,16 +2676,24 @@ remboursement. Toutefois cette inexécution ne peut donner lieu à aucuns dommag
 
 
 
-ANNEXE 1 : FORMULAIRE DE RETRACTATION CARTE AVANTAGE
+ANNEXE 1 : FORMULAIRE DE RETRACTATION CARTES AVANTAGES,
+
+LIBERTES, PASS MENSUEL OU HEBDO TGV INOUI
 
 
 
-Formulaire de rétractation - Carte Avantage (document Word, docx)
+Formulaire de rétractation – Cartes Avantages, Libertés, Pass Mensuel ou Hebdo TGV Inoui
+
+(document Word, docx).
+
+28
 
 
 
-ANNEXE 2 : FORMULAIRE DE RETRACTATION CARTE LIBERTE
+ANNEXE 2 : FORMULAIRE DE RETRACTATION CARTE DE REDUCTION
+
+REGIONALE
 
 
 
-Formulaire de rétractation – Carte Liberté (document Word, docx)
+Formulaire de rétractation – Carte de réduction régionale (document Word, docx).
