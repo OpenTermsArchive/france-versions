@@ -1,7 +1,7 @@
 Notice : Protection de vos informations personnelles
 ====================================================
 
-Dernière mise à jour : le 22 décembre 2025.
+ Dernière mise à jour : le 17 séptembre 2026.
 
 [Consultez les versions précédentes des Notices de protection de vos informations personnelles](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q).
 
@@ -49,15 +49,21 @@ Vous trouverez ci-après les types d'informations personnelles que nous collecto
 
 *   **Informations que vous nous communiquez**
 
+  
+
 Nous collectons et enregistrons toutes les informations que vous nous communiquez via les Services Amazon. Pour consulter quelques exemples des informations que nous collectons, consultez la section [Exemples d'informations collectées](#GUID-45AD78C8-97B0-4FAC-BB81-E55E7DCE1304__SECTION_834D111DCC86437A8336C1F6256B5C5E). Vous pouvez choisir de ne pas nous communiquer certaines informations, cette décision risque néanmoins de vous priver de nombreux Services Amazon.
 
 *   **Informations collectées automatiquement**
+
+  
 
 Nous collectons et enregistrons automatiquement certains types d'informations concernant votre utilisation des Services Amazon, notamment votre interaction avec le contenu et les services disponibles via les Services Amazon. Comme de nombreux autres sites Internet, nous utilisons notamment des « cookies » ainsi que d'autres identificateurs uniques et obtenons certains types d'informations lorsque votre navigateur ou votre appareil accède aux Services Amazon et autres contenus affichés sur d'autres sites Internet par Amazon Europe ou pour son compte. Pour consulter quelques exemples de ce que nous collectons, consultez la section [Exemples d'informations collectées](#GUID-45AD78C8-97B0-4FAC-BB81-E55E7DCE1304__SECTION_834D111DCC86437A8336C1F6256B5C5E).
 
 *   **Informations issues d'autres sources**
 
-Nous pouvons également recevoir d'autres informations vous concernant de sources différentes, telles que des informations de livraison et d'adresse mises à jour par nos transporteurs, que nous utilisons pour corriger nos registres et livrer plus facilement votre prochaine commande. Pour consulter des exemples d'informations que nous recevons de tiers, consultez la section [Exemples d'informations collectées](#GUID-45AD78C8-97B0-4FAC-BB81-E55E7DCE1304__SECTION_834D111DCC86437A8336C1F6256B5C5E).
+Nous pouvons également recevoir d'autres informations vous concernant de sources différentes, telles que des informations de livraison et d'adresse mises à jour par nos transporteurs, que nous utilisons pour corriger nos registres et livrer plus facilement vos prochaines commandes. Pour consulter des exemples d'informations que nous recevons, consultez la section [Exemples d'informations collectées](#GUID-45AD78C8-97B0-4FAC-BB81-E55E7DCE1304__SECTION_834D111DCC86437A8336C1F6256B5C5E).
+
+  
 
 Pour quelles finalités Amazon Europe utilise-t-elle mes informations personnelles ?
 -----------------------------------------------------------------------------------
@@ -68,37 +74,55 @@ Pour quelles finalités Amazon Europe utilise-t-elle mes informations personnell
 
 Nous utilisons vos informations personnelles aux fins de l'enregistrement et du traitement des commandes, de la livraison des produits, de la fourniture des services, du traitement des paiements et de communication avec vous en relation avec vos commandes, les produits, les services et nos offres promotionnelles.
 
+  
+
 *   **Fourniture, résolution des problèmes et amélioration des Services Amazon.**
 
-Nous utilisons vos informations personnelles pour vous fournir des fonctionnalités, analyser des performances, corriger les erreurs et améliorer l'accessibilité et l'efficacité des Services Amazon.
+Nous utilisons vos informations personnelles pour vous fournir des fonctionnalités, analyser des performances, corriger les erreurs et améliorer l'accessibilité et l'efficacité des Services Amazon. Pour cela, nous recourons à l'apprentissage automatique et à l'intelligence artificielle pour enrichir l'expérience client sur l'ensemble de nos produits et services, notamment en utilisant des données pour développer ou déployer nos modèles et services d'IA générative. Pour en savoir plus, consultez notre [Déclaration de développement de l'IA générative](https://www.amazon.fr/gp/help/customer/display.html?nodeId=TmGoGN3UbFaQ1CAph7&language=fr_FR).
+
+  
 
 *   **Recommandations et personnalisation.**
 
 Nous utilisons vos informations personnelles afin de vous recommander des fonctions, des produits et des services qui pourraient vous intéresser, identifier vos préférences et personnaliser votre expérience avec les Services Amazon.
 
+  
+
 *   **Fourniture de services vocaux, d'imagerie et de caméra.**
 
 Lorsque vous utilisez des services vocaux, d'imagerie et de caméra, nous utilisons vos entrées vocales, images, vidéos, ainsi que d'autres informations personnelles afin de répondre à vos demandes, pour vous fournir les services demandés et améliorer les Services Amazon. Pour plus d'informations sur les services vocaux Alexa, consultez la page [Alexa, appareils Echo et vos informations personnelles](https://www.amazon.fr/gp/help/customer/display.html/?nodeId=GA7E98TJFEJLYSFR).
+
+  
 
 *   **Publicité.**
 
 Nous utilisons vos informations personnelles afin de vous présenter des publicités basées sur vos centres d'intérêts relatives à des fonctions, des produits et des services qui pourraient vous intéresser. Pour en savoir plus, veuillez prendre connaissance de notre [Notice Publicités basées sur vos centres d'intérêt](https://www.amazon.fr/gp/help/customer/display.html?nodeId=201909150).
 
+  
+
 *   **Prévention de la fraude et risques de crédit.**
 
 Nous utilisons vos informations personnelles afin de prévenir et détecter les fraudes et abus dans le but de protéger la sécurité de nos clients, d'Amazon Europe et d'autres. Nous pourrons être amené à utiliser des méthodes d'évaluation afin d'apprécier et gérer les risques de crédit.
+
+  
 
 *   **Nous conformer à nos obligations légales.**
 
 Dans certains cas, nous collectons et utilisons vos informations personnelles afin de nous conformer aux obligations légales. Par exemple, nous collectons les informations des vendeurs tiers relatives aux lieux d'établissement et coordonnées bancaires avec, parmi les finalités de cette collecte, celle de vérifier leur identité.
 
+  
+
 *   **Communiquer avec vous.**
 
 Nous utilisons vos informations personnelles afin de communiquer avec vous au sujet des Services Amazon via différents canaux (ex. téléphone, email, chat).
 
+  
+
 *   **Finalités pour lesquelles nous recueillons votre consentement.**
 
 Nous pourrons également être amenés à requérir votre consentement pour l'utilisation de vos informations personnelles pour une finalité spécifique que nous vous indiquerons. Lorsque vous consentez à l'utilisation de vos informations personnelles pour cette finalité spécifique, vous pourrez retirer votre consentement à tout moment et nous cesserons toute utilisation supplémentaire de vos informations pour cette finalité.
+
+  
 
 Qu'en est-il des cookies et des autres identificateurs ?
 --------------------------------------------------------
@@ -114,23 +138,33 @@ Les informations relatives à nos clients représentent une part importante de n
 
 Nous mettons à votre disposition des services, des produits, des applications ou des skills fournis par des tiers afin d'être utilisés sur ou via les Services Amazon. Par exemple, vous pouvez commander les produits d'un vendeur tiers depuis nos boutiques, télécharger des applications de fournisseurs tiers depuis notre Appstore, et bénéficier de skills de tiers au moyen des services Alexa. Nous proposons également des services ou commercialisons des lignes de produits de façon conjointe avec des tiers partenaires, tel que des cartes de crédit co-brandées. Vous pouvez savoir quand un tiers est impliqué dans vos transactions et quand nous partageons avec ce tiers les informations personnelles relatives à ces transactions.
 
+  
+
 *   **Prestataires de services tiers**
 
 Nous avons recours à d'autres sociétés ou personnes indépendantes lesquelles fournissent certains services pour notre compte. En voici quelques exemples : le traitement des commandes de produits, la livraison des produits, la fourniture de services, l'envoi du courrier postal ou électronique, la suppression d'information redondante de nos listes clients, la gestion de nos fichiers clients, l'analyse de nos bases de données, la fourniture d'une assistance marketing, la fourniture de résultats de recherche et de liens (y compris des liens et listings payants), le traitement des paiements, la transmission du contenu, l'évaluation et la gestion du risque de crédit et la fourniture du service clients. Ces prestataires de services tiers ont accès aux informations personnelles nécessaires à l'exécution de leurs prestations et ne sont pas autorisés à les utiliser à d'autres fins. De plus, ils sont tenus d'utiliser ces informations personnelles en conformité avec la présente Notice et en application des lois applicables à la protection des données personnelles.
+
+  
 
 *   **Transfert d'activités**
 
 Dans le cadre du développement de nos activités, nous pouvons être amenés à vendre ou acquérir d'autres activités ou services. À l'occasion de telles transactions, les informations relatives aux clients font généralement partie des actifs transférés mais demeurent sujettes à toute Notice de protection de vos informations personnelles préexistante (sauf, bien entendu, accord contraire du client). Par ailleurs, dans le cas, peu probable, où Amazon.com, Inc. ou une part substantielle de ses actifs seraient acquises, les informations relatives aux clients seraient bien entendu également transmises à l'acquéreur comme faisant partie des actifs transférés.
 
+  
+
 *   **Protection d'Amazon Europe et des tiers**
 
 Nous divulguons le contenu des comptes clients et autres informations personnelles lorsque nous y sommes légalement obligés ou si cette divulgation est nécessaire pour faire exécuter et faire appliquer nos Conditions générales de vente et autres accords, ou pour protéger les droits, la propriété ou la sécurité d'Amazon Europe ou de nos utilisateurs ou d'autres personnes. Cela inclut l'échange d'informations avec d'autres entreprises et organisations dans un but de protection contre la fraude et de réduction du risque de crédit.
+
+  
 
 Dans tous les autres cas, vous serez averti si vos informations personnelles venaient à être partagées avec un tiers et vous aurez la possibilité de ne pas donner votre accord à un tel partage.
 
 *   **Transferts hors de l'Espace Economique Européen (E.E.E.)**
 
 Lorsque nous transférons des informations personnelles à des pays ne faisant pas partie de l'Espace économique européen, nous nous assurons que ces informations sont transférées en conformité avec la présente Notice et en application des lois applicables à la protection des données personnelles. Nous nous appuyons sur les décisions de la Commission européenne en matière d'adéquation ou utilisons des contrats assortis de garanties standard publiés par la Commission européenne (vous pouvez en [demander une copie au Service Client](https://www.amazon.fr/contact-us/)).
+
+  
 
 Mes informations personnelles sont-elles protégées ?
 ----------------------------------------------------
@@ -154,9 +188,13 @@ Qu'en est-il de la publicité ?
 
 Nous affichons des publicités venant d'annonceurs tiers pour vous aider à trouver et découvrir des fonctions, des produits et des services qui pourraient vous intéresser. Vous pouvez voir ces publicités sur les Services Amazon et sur des sites tiers, et elles peuvent inclure des liens vers d'autres sites Internet et applications. Les tiers avec lesquels nous collaborons pour vous présenter des publicités sur les Services Amazon et en dehors de ces derniers peuvent collecter des informations vous concernant lorsque vous interagissez avec leurs contenus, publicités et services. Pour plus d'informations concernant les publicités émanant de tiers, y compris les tiers avec lesquels nous collaborons, et vos choix par rapport à la publicité, veuillez prendre connaissance de notre [Notice Publicités basées sur vos centres d'intérêt](https://www.amazon.fr/gp/help/customer/display.html/?nodeId=G64JFZVFDY66XG9K).
 
+  
+
 *   **L'utilisation des services d'Annonceurs tiers**
 
-Nous fournissons aux sociétés de publicité des informations qui leur permettent de vous proposer des publicités plus utiles et plus pertinentes sur les Services Amazon et de mesurer leur efficacité. Nous ne communiquons jamais votre nom ou d'autres informations permettant de vous identifier directement lorsque nous agissons ainsi. Nous utilisons un identifiant publicitaire comme un cookie ou un dispositif d'identification, ou un code dérivé d’une application cryptographique irréversible à une autre information telle une adresse email. Par exemple, si vous avez déjà téléchargé l'une de nos applications, nous partagerons votre identifiant publicitaire et les données relatives à cet événement afin qu'aucune publicité ne vous soit proposée pour télécharger à nouveau l'application. Nous ne partageons pas vos actes d'achats spécifiques, tels que les achats, vues ou recherches de produits avec les sociétés de publicité. Toutefois, nous pouvons partager un identifiant publicitaire et une estimation de la valeur des publicités qu'elles vous présentent pour notre compte, afin qu'elles vous proposent des publicités plus efficaces sur les Services Amazon. Certaines sociétés de publicité utilisent également ces informations pour vous proposer des publicités pertinentes provenant d'autres annonceurs. Vous pouvez faire des choix concernant ces utilisations de vos informations personnelles sur la page [Cookies et choix publicitaires](https://www.amazon.fr/privacyprefs/retail?oCT=ads) et sur la page des [Préférences en matière de Publicité](https://www.amazon.fr/adprefs).
+Nous fournissons aux sociétés de publicité des informations qui leur permettent de vous proposer des publicités plus utiles et plus pertinentes sur les Services Amazon et de mesurer leur efficacité. Nous ne communiquons jamais votre nom ou d'autres informations permettant de vous identifier directement lorsque nous agissons ainsi. Nous utilisons un identifiant publicitaire comme un cookie ou un dispositif d'identification, ou un code dérivé d’une application cryptographique irréversible à une autre information telle une adresse email. Par exemple, si vous avez déjà téléchargé l'une de nos applications, nous partagerons votre identifiant publicitaire et les données relatives à cet événement afin qu'aucune publicité ne vous soit proposée pour télécharger à nouveau l'application. Nous ne partageons pas vos actes d'achats spécifiques, tels que les achats, vues ou recherches de produits avec les sociétés de publicité. Toutefois, nous pouvons partager un identifiant publicitaire et une estimation de la valeur des publicités qu'elles vous présentent pour notre compte, afin qu'elles vous proposent des publicités plus efficaces sur les Services Amazon. Certaines sociétés de publicité utilisent également ces informations pour vous proposer des publicités pertinentes provenant d'autres annonceurs. Vous pouvez faire des choix concernant ces utilisations de vos informations personnelles sur la page [Cookies et choix publicitaires](https://www.amazon.fr/privacyprefs/retail?oCT=ads). 
+
+  
 
 À quelles informations puis-je avoir accès sur mon compte ?
 -----------------------------------------------------------
@@ -170,27 +208,51 @@ Veuillez [contacter notre Service Clientèle](https://www.amazon.fr/contact-us) 
 
 *   Comme mentionné ci-dessus, vous avez la possibilité de ne communiquer que certaines informations, mais, dans ce cas, vous pourriez ne pas être en mesure d'utiliser de nombreux Services Amazon.
 
+  
+
 *   Vous pouvez ajouter ou actualiser certaines informations sur les pages citées dans la section « [Informations auxquelles vous avez accès](#GUID-45AD78C8-97B0-4FAC-BB81-E55E7DCE1304__SECTION_364C0C44D62C4B86971674A94E5B92FF) ». Si vous mettez une information à jour, nous conservons généralement une copie de vos informations initiales.
+
+  
 
 *   Si vous ne souhaitez pas recevoir d'e-mails ou autres communications de notre part, veuillez modifier la section Préférences de Communication de [Votre compte](https://www.amazon.fr/gp/css/homepage.html). Si vous ne souhaitez pas recevoir de notifications de notre part, veuillez modifier les paramètres de notification de l'application ou de votre appareil.
 
-*   Vous pouvez donner ou retirer votre consentement à notre utilisation d'informations personnelles pour personnaliser les publicités que nous vous présentons sur la page [Cookies et choix publicitaires](https://www.amazon.fr/privacyprefs/retail?oCT=ads). Vous pouvez également modifier vos [Préférences en matière de publicité](https://www.amazon.fr/adprefs).
+  
+
+*   Vous pouvez donner ou retirer votre consentement à notre utilisation d'informations personnelles pour personnaliser les publicités que nous vous présentons sur la page [Cookies et choix publicitaires](https://www.amazon.fr/privacyprefs/retail?oCT=ads).
+
+  
 
 *   La section Aide de la barre d'outils de la plupart des navigateurs et appareils vous indique comment refuser les nouveaux « cookies » ou recevoir de votre navigateur un message signalant leur réception ou comment désactiver tous les « cookies ». Dans la mesure où les « cookies » vous permettent de bénéficier de certaines fonctionnalités essentielles des Services Amazon, nous vous conseillons de les laisser actifs. Par exemple si vous choisissez de bloquer ou de refuser nos cookies, vous ne pourrez pas ajouter de produits à votre panier de commande, finaliser votre commande ou utiliser les Services Amazon qui nécessitent l'ouverture d'un compte. Pour plus d'informations sur les cookies, veuillez consulter notre [Notice Cookies](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GVASXV5UZ64R4Y25).
 
+  
+
 *   Vous pouvez consentir ou retirer votre consentement aux cookies publicitaires sur la page [Cookies et choix publicitaires](https://www.amazon.fr/privacyprefs/retail?oCT=ads).
+
+  
 
 *   Si vous souhaitez naviguer anonymement sur nos sites internet, sans relier l'activité de navigation à votre compte, vous pourrez le faire en vous [déconnectant](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GQL359FK7DM8294C) de votre compte et en désactivant les cookies sur votre navigateur.
 
+  
+
 *   Vous pouvez [gérer les recommandations que vous recevez dans notre boutique](https://www.amazon.fr/gp/yourstore/iyr/), [supprimer les recommandations que vous ne voulez pas voir](https://www.amazon.fr/gp/yourstore/home) (en sélectionnant les recommandations pour une catégorie de produits que vous n’avez pas achetés auparavant puis en cliquant sur « En savoir plus et gérer » et en sélectionnant « Supprimer des articles »), et [modifier votre historique de navigation](https://www.amazon.fr/gp/history).
+
+  
 
 *   Lorsque vous consentez à l'utilisation de vos informations personnelles pour une finalité déterminée, vous pouvez retirer ce consentement à tout moment et nous mettrons fin à toute autre utilisation de vos informations pour cette finalité.
 
+  
+
 *   Vous pourrez également décider de ne pas autoriser l'utilisation de certaines autres informations en l'indiquant dans les paramètres de la page en question de la boutique Amazon (ex. dans la section « Gérer votre Contenu et vos Appareils»), de l'appareil ou de l'application. Consultez notre [FAQ relative aux paramètres de confidentialité](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GQFYXZHZB2H629WN) pour plus d'informations. La plupart des appareils non-Amazon permettent également à leurs utilisateurs de paramétrer les autorisations de l'appareil (ex. désactiver/activer l'accès aux services de géolocalisation, aux contacts). Pour la plupart des appareils, ces paramètres sont accessibles depuis le menu de réglages des paramètres de l'appareil. En cas de question sur les modalités de modifications des autorisations sur des appareils fabriqués par des tiers, nous vous recommandons de prendre contact avec votre opérateur de téléphonie mobile ou le fabricant de votre appareil dans la mesure où les paramètres d'autorisation peuvent être différents selon les appareils.
+
+  
 
 *   Si vous êtes un vendeur tiers, vous pouvez ajouter ou mettre à jour certaines de vos informations dans [Seller Central](https://services.amazon.fr/), mettre à jour les informations de votre compte en accédant à la section [Informations sur le compte vendeur](https://sellercentral.amazon.fr/gp/homepage.html?ref=asfr_sc_topnav&ld=ASFR404Direct), et paramétrer les emails et autres communications que vous recevez de notre part en mettant à jour vos [Préférences de notification](https://sellercentral.amazon.fr/notifications/preferences).
 
+  
+
 *   Si vous êtes un auteur, vous pouvez ajouter ou mettre à jour les informations que vous avez fournies sur Author Portal ou Author Central en accédant respectivement à vos comptes Author Portal et Author Central.
+
+  
 
 Les enfants sont-ils autorisés à utiliser les Services Amazon ?
 ---------------------------------------------------------------
@@ -227,6 +289,8 @@ Notre activité évolue constamment et la présente notice change également. No
 *   [Vos achats](https://www.amazon.fr/gp/your-account/order-history)
 *   [Votre profil et les Lignes directrices communautaires](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GLHXEX85MENUE4XF)
 
+  
+
 Exemples d'informations collectées
 ----------------------------------
 
@@ -243,6 +307,7 @@ Vous nous fournissez des informations lorsque vous :
 *   configurez vos paramètres, autorisez l'accès à vos informations sur un appareil Amazon ou un des Services Amazon ;
 *   renseignez les informations de [votre compte vendeur tiers](https://sellercentral.amazon.fr/gp/homepage.html?ld=AZUKSOAFooter), de votre compte [Kindle Direct Publishing (KDP)](https://kdp.amazon.com/fr_FR/), de votre compte Développeur, ou de tout autre compte que nous mettons à votre disposition vous permettant de développer ou proposer des logiciels, des produits ou services aux clients d'Amazon ;
 *   proposez vos produits ou services sur ou via les Services Amazon ;
+*   utilisez Connexion avec Amazon ou liez votre compte Amazon d'une autre manière à une entreprise tierce ;
 *   nous contactez par téléphone, par e-mail, ou par tout autre moyen ;
 *   complétez un questionnaire, un ticket d'assistance ou un bulletin de participation à un jeu ;
 *   téléchargez ou diffusez des images en continu, vidéos ou tout autre fichier dans Prime Photos, Amazon Drive ou tout autre Service Amazon ;
@@ -250,6 +315,8 @@ Vous nous fournissez des informations lorsque vous :
 *   participez à la « Communauté Amazon » ; rédigez ou notez des [commentaires en ligne](https://www.amazon.fr/gp/help/customer/display.html/?nodeId=G3UA5WC5S5UUKB5G) ;
 *   paramétrez un rappel de vos évènements ; ou
 *   paramétrez des « Alertes de disponibilité » telle que l'Alerte sur la disponibilité des articles.
+
+  
 
 Par ces actions, vous nous fournissez des informations qui peuvent être : votre nom, adresse et numéro de téléphone, des informations de paiement, votre âge, votre localisation géographique, votre adresse IP, les noms, adresses et numéros de téléphone listés dans votre répertoire d'adresses, les adresses e-mail des « Amazon Friends » et autres personnes, le contenu des commentaires et des e-mails que vous nous avez adressés, votre description personnelle et photographie dans la rubrique [Votre profil](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GF49TDCLY9PVQB8R), des enregistrements sonores lorsque vous parlez à Alexa, des images et vidéos collectées ou stockées dans le cadre des Services Amazon, des informations et documents relatifs à l'identité et le statut, des données d'entreprises et financières, des informations relatives à vos historiques en matière de crédit, des numéros de TVA, des fichiers d'historiques relatifs à votre appareil et sa configuration, incluant les identifiants Wi-Fi, si vous choisissez de les synchroniser automatiquement avec vos autres appareils Amazon.
 
@@ -271,6 +338,8 @@ Informations collectées automatiquement
 *   les numéros de téléphone utilisés pour appeler notre service client ; et
 *   les image sous les vidéos lorsque vous faites vos achats dans nos boutiques en utilisant les Services Amazon.
 
+  
+
 Nous pouvons aussi utiliser des identificateurs d'appareil, des cookies et toute autre technologie sur les appareils, applications et nos pages internet pour collecter des informations de navigation, d'utilisation ou toute autre information technique à des fins de prévention de la fraude.
 
 Informations issues d'autres sources
@@ -281,9 +350,12 @@ Informations issues d'autres sources
 *   les informations actualisées de nos transporteurs et autres parties tierces sur les livraisons et les adresses que nous utilisons pour mettre à jour nos bases de données, optimiser l'exécution de vos prochaines commandes et pouvoir communiquer plus facilement ;
 *   les informations sur les comptes, les achats et le paiement, et les consultations de pages ou toute autre information sur vos interactions avec les entreprises avec lesquelles nous proposons conjointement des offres « co-brandées » ou auxquelles nous fournissons des services techniques, logistiques, de paiement, de publicité ou autres services ;
 *   les informations sur vos interactions avec les produits et services offerts par nos sociétés affiliées ;
-*   résultats de recherche et liens, incluant le référencement payant ;
+*   les informations sur vos interactions avec les publicités diffusées par Amazon sur des sites web et applications tiers (pour en savoir plus, consultez notre avis Publicités basées sur vos centres d'intérêt) ;
+*   les contenus que nous recevons de tiers afin de fournir, développer et améliorer les services Amazon, tels que les informations et identifiants liés à la publicité (décrits plus en détail dans notre avis Publicités basées sur vos centres d'intérêt) ;
 *   les informations relatives aux appareils disposant d'une connexion internet et aux services que vous avez associés avec Alexa ; et
 *   des renseignements provenant d'agences de renseignements commerciaux que nous utilisons pour prévenir ou détecter les fraudes et pour pouvoir offrir certains services de crédit et financiers à certains clients.
+
+  
 
 Informations auxquelles vous avez accès
 ---------------------------------------
@@ -305,6 +377,8 @@ Quelques exemples d'informations auxquelles vous avez accès via les Services Am
 *   si vous êtes un auteur, vous pouvez accéder à votre compte ainsi qu'aux autres informations et mettre à jour votre compte sur [KDP](https://kdp.amazon.com/fr_FR/) ou sur le site internet de la [Centrale Auteur](https://authorcentral.amazon.fr/), selon les cas ;
 *   si vous êtes un développeur participant à nos Programmes de Services de Développement, vous pouvez accéder à votre compte ainsi qu'aux autres informations et configurer vos préférences de communication en mettant à jour votre compte dans le [Portail des Services de Développeurs](https://developer.amazon.com/).
 
+  
+
 Informations à l'attention des Clients de l'Union européenne et le Royaume-Uni
 ------------------------------------------------------------------------------
 
@@ -317,7 +391,7 @@ Sous réserve du droit applicable, dans certains cas, vous êtes titulaire des d
 
 **Deletion.** Pour supprimer vos informations personnelles, connectez-vous à votre compte Amazon et allez à la fonction [Demander la fermeture de votre compte et la suppression de vos informations personnelles](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GDK92DNLSGWTV6MP).
 
-**Objection et restriction.** Pour contester l'utilisation de vos informations personnelles ou demander la restriction de leur utilisation, contactez le Service Client. Vous pouvez également procéder directement à la modification de vos [Préférences de communication](https://www.amazon.fr/gp/gss/ccp/) ou de vos [Préférences publicitaires](https://www.amazon.fr/privacyprefs/retail) .
+**Objection et restriction.** Pour contester l'utilisation de vos informations personnelles ou demander la restriction de leur utilisation, contactez le Service Client. Vous pouvez également procéder directement à la modification de vos [Préférences de communication](https://www.amazon.fr/gp/gss/ccp/) ou de vos [Préférences publicitaires](https://www.amazon.fr/privacyprefs/customize) .
 
 **Rectification.** Pour rectifier vos informations personnelles, vous pouvez procéder directement à la modification de votre nom, vos coordonnées de paiement ou vos adresses à partir de la section Votre compte de la boutique Amazon. Pour d'autres rectifications, vous pouvez toujours contacter le Service client.
 
