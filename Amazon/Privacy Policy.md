@@ -1,7 +1,7 @@
 Notice : Protection de vos informations personnelles
 ====================================================
 
- Dernière mise à jour : le 17 séptembre 2026.
+ Dernière mise à jour : 28.10.2026.
 
 [Consultez les versions précédentes des Notices de protection de vos informations personnelles](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q).
 
