@@ -5,9 +5,7 @@ Conditions générales d'utilisation et de vente
 
 ====================================================
 
-[Télécharger la version PDF](https://static.qobuz.com/legal/CGV_FR_v202607.pdf)
-
-  
+[Télécharger la version PDF](https://static.qobuz.com/uploads/cms/files/cguv/CGV_202607_clean_version.pdf)
 
   
 
@@ -53,7 +51,7 @@ Définitions
 
 19.           Service client
 
-20.      Droit applicable, litige et médiation
+20.           Droit applicable, litige et médiation
 
 21.           Nullité d’une clause
 
@@ -198,12 +196,10 @@ Pour toute information de nature technique, le Client pourra se reporter à la r
 
 Au sens des présentes CGUV, s'appliqueront les définitions suivantes :
 
-  
 « Albums Hi-Res 24-bit » devra être compris comme tout album en qualité Hi-Res 24-bit disponible en téléchargement.
 
-  
-« Applications QOBUZ » devra être compris comme tout logiciel mis à la disposition du client par XANDRIE SA permettant d’accéder au Service et devant être installé sur les Périphériques d'écoute.   
-  
+« Applications QOBUZ » devra être compris comme tout logiciel mis à la disposition du client par XANDRIE SA permettant d’accéder au Service et devant être installé sur les Périphériques d'écoute. 
+
 « Client » : devra être compris comme toute personne inscrite au Service dans les conditions prévues à l'Article 2 des présentes CGUV.  
   
 « Genre classique » devra être compris comme tout fichier numérique musical référencé par le Site dans le genre Classique.     
@@ -228,7 +224,6 @@ Au sens des présentes CGUV, s'appliqueront les définitions suivantes :
 
 **1.         Description du service**
 
-  
 Le Site propose au Client des services audio/vidéo en ligne, dont les conditions précises sont détaillées dans les présentes CGUV.
 
 Le Service QOBUZ est réservé aux particuliers majeurs ou mineurs titulaires d'une autorisation parentale, et ne peut être utilisé à des fins professionnelles. A cet égard, les présentes dispositions s'entendent sans préjudice des dispositions légales protectrices du consommateur, notamment prévues au Code de la consommation.
@@ -254,12 +249,6 @@ Les offres d’essai ou de découverte proposées par XANDRIE SA à ses utilisat
 La période d'essai est réservée à tout nouvel abonné et chaque utilisateur a le droit à une seule période d'essai.
 
 Le Client doit satisfaire aux exigences relatives à l'âge dans le tableau ci-dessous et avoir la capacité de conclure un contrat ayant force exécutoire avec XANDRIE SA, c’est-à-dire de ne pas faire l’objet d’une mesure de protection juridique des majeurs.
-
-  
-  
-  
-  
-Pologne  
 
 |     |     |     |
 | --- | --- | --- |
@@ -379,9 +368,13 @@ Le Client s'engage expressément à respecter les conditions d'utilisation, à n
 
 Le Client reconnaît expressément que toute utilisation des fichiers musicaux sur le Site, à quelque fin que ce soit en rapport avec des technologies ou des services d'intelligence artificielle, est interdite sans autorisation préalable des ayants droit concernés. 
 
+  
+
 Le Client reconnaît expressément que toute utilisation dans ce cadre est de nature à causer des préjudices aux ayants droit concernés et à porter atteinte au droit moral de l'auteur.
 
 Le Client s'engage expressément à ne pas utiliser le Site ou ses Services à des fins illégales.
+
+  
 
 Le client s’engage expressément à ne pas faire un usage inapproprié et déloyal de son compte afin d'augmenter artificiellement (soit manuellement, soit via un processus automatisé) le nombre de streams sur un nombre restreint de titres. XANDRIE SA se réservant le droit de suspendre le compte de cet utilisateur.
 
@@ -389,19 +382,35 @@ Le Client s'engage expressément à ne pas faire un usage commercial ou illégal
 
 Le Client se déclare seul responsable de l'utilisation qu'il fait du Service. XANDRIE SA ne pourra en aucun cas être tenu responsable dans le cadre d'une procédure ouverte à l'encontre d'un de ses Clients qui aurait effectué une utilisation erronée, irrégulière ou contraires aux présentes CGUV, de son Service.
 
+  
+
 Chaque Client ayant acheté des enregistrements musicaux via l'offre de téléchargement définitif de XANDRIE SA est réputé avoir téléchargé et sauvegardé lesdits enregistrements sur son ordinateur personnel. XANDRIE SA ne pourra en aucun cas être tenu responsable d'une quelconque perte de fichier téléchargé via son Site.
 
-Le Client s'engage à faire son affaire personnelle de toute réclamation ou procédure formée contre XANDRIE SA, qui se rattacherait à une mauvaise utilisation du Service.      En tout état de cause, la responsabilité de XANDRIE SA ne saurait être engagée qu'à hauteur de l’obligation de délivrance conforme, limitée au prix de la commande du Client.
+  
+
+Le Client s'engage à faire son affaire personnelle de toute réclamation ou procédure formée contre XANDRIE SA, qui se rattacherait à une mauvaise utilisation du Service. En tout état de cause, la responsabilité de XANDRIE SA ne saurait être engagée qu'à hauteur de l’obligation de délivrance conforme, limitée au prix de la commande du Client.
+
+  
 
 Les Applications QOBUZ et toutes leurs copies demeurent la propriété exclusive de XANDRIE SA, qui accorde au Client une licence limitée, non-exclusive, révocable, personnelle et non-commerciale. XANDRIE SA conserve la propriété de toutes les copies des applications QOBUZ, même une fois installées sur vos Périphériques d'écoute.
 
+  
+
 Les Applications QOBUZ sont protégées par les lois françaises et notamment les dispositions du Code de la Propriété Intellectuelle.
+
+  
 
 A ce titre, toute détérioration, représentation, reproduction, modification, suppression, utilisation commerciale, totale ou partielle, des différents éléments des Applications QOBUZ est interdite et expose son (ou ses) auteur(s) à des poursuites.
 
+  
+
 Ces CGUV n'emportent en aucun cas autorisation de représenter, reproduire, modifier ou utiliser commercialement les éléments du Site et de l’Application QOBUZ.
 
+  
+
 Toute reproduction totale ou partielle, à d'autres fins qu'une utilisation conforme à sa/leur destination, est strictement interdite : toute revente, échange, louage des fichiers ou transfert à des tiers sont strictement interdits.
+
+  
 
 A l’exception des offres d’abonnement STUDIO DUO, SUBLIME DUO, STUDIO FAMILLE et SUBLIME FAMILLE, le Client bénéficie d'un droit d'utilisation personnel et non-commercial des Applications QOBUZ. QOBUZ n'est accessible qu’à partir d’un (1) seul appareil à la fois.
 
@@ -409,7 +418,7 @@ Toute utilisation des Applications QOBUZ par le Client sortant du cadre des pré
 
 Le Client ne doit pas notamment :
 
- (a) Modifier ou créer des travaux dérivés des Applications QOBUZ ou de leur documentation, incluant la traduction ou la localisation ;
+(a) Modifier ou créer des travaux dérivés des Applications QOBUZ ou de leur documentation, incluant la traduction ou la localisation ;
 
 (b) Copier les Applications QOBUZ excepté selon les termes des présentes CGUV ;
 
@@ -480,7 +489,6 @@ Le Client procède au paiement de ses commandes en communiquant à XANDRIE SA, v
 
 Il est recommandé au Client de consulter régulièrement son compte et de contacter le Service Clientèle pour toute question ou en cas de problème. L'archivage du bon de commande et des factures est effectué sur un support fiable et durable pouvant être produit à titre de preuve.
 
-  
 Le moyen de paiement utilisé pour souscrire aux offres d’abonnement sera réutilisé lors du renouvellement automatique de l'abonnement, à moins que l'utilisateur ne change ce moyen de paiement dans la rubrique « Mon compte ». Ce changement de moyen de paiement peut être réalisé à tout moment.
 
 Les offres d’essai et de découvertes du service que XANDRIE SA peut proposer peuvent également être subordonnées à la saisie d’un moyen de paiement, sans que ces offres n'entraînent aucun prélèvement du Client pendant la durée spécifiée dans l’offre. Au terme de celles-ci, le moyen de paiement qui aura été renseigné par le Client sera réutilisé pour le renouvellement automatique de l’abonnement du Client au tarif de l’offre d’abonnement en vigueur au moment de la souscription de l’offre d’essai et de découverte. Pendant la durée de ces offres d’essai et de découverte du service de streaming QOBUZ, le Client peut résilier à tout moment son abonnement en cours.
@@ -674,8 +682,6 @@ En fonction des choix qu'il aura effectués lors de la création de son compte, 
 
 XANDRIE SA s'engage à respecter la législation des territoires cités à l’Article 14 en matière de données à caractère personnel et à réaliser, le cas échéant, toute déclaration nécessaire auprès des organismes de protection locaux.
 
-Conformément à la loi informatique et libertés n°78-17 du 6 janvier 1978, le présent site fait l'objet d'une déclaration à la CNIL n°1263952.
-
 A ce titre, le Client dispose d'un droit d'accès, d'information, de modification et de retrait vis-à-vis des données personnelles le concernant, en adressant un simple courrier électronique ou postal à QOBUZ. Toute demande, comprenant obligatoirement les nom, prénom, adresse mail et identifiant (pseudo) du Client, devra alors être adressée par courrier électronique à l‘adresse [support@qobuz.com](mailto:support@qobuz.com), ou par voie postale à l’adresse : XANDRIE SA service juridique, 45 rue de Delizy, 93692 Pantin CEDEX.
 
 Le Client note également que XANDRIE SA, dans un souci de bon suivi commercial du Client, peut être amené à utiliser des « cookies » conformément à l'Article 17 des présentes CGUV. Le Client possède cependant toujours la possibilité de désactiver les « cookies » par le biais des options de son navigateur Internet. Il lui suffit à cet égard de consulter la rubrique d'aide du navigateur concerné.      
@@ -718,9 +724,7 @@ En cas de souscription d'un Abonnement par l'intermédiaire d'un magasin d'appli
   
 Sauf disposition contraire d’ordre public prévue par la loi d’un des territoires prévus à l’Article 14 des présentes, les présentes CGUV sont soumises à la loi française.
 
-Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, XANDRIE SA adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance), 60, rue de Boétie - 75008 Paris - [www.mediateurfevad.fr](http://www.mediateurfevad.fr/). Après démarche préalable écrite des consommateurs vis-à-vis de XANDRIE SA, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n'aurait pas abouti. Vous pouvez saisir le médiateur l’adresse mail [contact@fevad.com](mailto:contact@fevad.com), ou via [leur formulaire en ligne](https://xrm.eudonet.com/V7/app/specif/EUDO_03047/FEVAD/Formulaire.aspx).
-
-De plus, la Commission européenne a mis en place une plateforme de résolution de litiges destinée à recueillir les éventuelles réclamations de consommateurs faisant suite à un achat en ligne afin de les transmettre ensuite aux médiateurs nationaux compétents. La plateforme est accessible sous le lien suivant : [ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage).
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, XANDRIE SA adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance), 60, rue La Boétie - 75008 Paris - [www.mediateurfevad.fr](http://www.mediateurfevad.fr/). Après démarche préalable écrite des consommateurs vis-à-vis de XANDRIE SA, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n'aurait pas abouti. Vous pouvez saisir le médiateur l’adresse mail [contact@fevad.com](mailto:contact@fevad.com), ou via [leur formulaire en ligne](https://xrm.eudonet.com/V7/app/specif/EUDO_03047/FEVAD/Formulaire.aspx).
 
 En cas de litige, les parties conviennent de rechercher une conciliation avant d’engager une action en justice. Si aucun accord amiable n’est trouvé entre XANDRIE SA et le Client, les parties élisent expressément domicile :
 
@@ -847,7 +851,7 @@ XANDRIE SA se réserve le droit de résilier ou de suspendre l'accès immédiate
 
              22.3.3   Conditions d’utilisation de l’offre STUDIO DUO
 
-L’offre DUO permet au titulaire d'un compte authentifié comme compte principal d'inviter un (1) abonné secondaire. Chacun aura un compte individuel avec un accès individuel au contenu musical proposé par QOBUZ. 
+L’offre DUO permet au titulaire d'un compte authentifié comme compte principal d'inviter un (1) abonné secondaire. Chacun aura un compte individuel avec un accès individuel au contenu musical proposé par QOBUZ.
 
 Dans le cadre de l’offre STUDIO DUO, il ne peut y avoir plus de trois (3) appareils associés à chaque sous compte : deux (2) appareils mobiles, en plus de l'accès par ordinateur.
 
@@ -855,7 +859,7 @@ L’offre STUDIO DUO permet l’écoute de musique en ligne sur un maximum de de
 
 Aucun partage de compte ou d'abonnement n'est accepté ou autorisé comme indiqué dans les présentes CGUV. L'offre STUDIO DUO est exclusivement destinée aux abonnés résidant à une même adresse.
 
-XANDRIE SA se réserve le droit de faire tout ce qui est raisonnablement possible pour empêcher l'22.4.3 de l’offre STUDIO DUO, notamment par l’ajout d’abonnés secondaires qui ne résident pas à la même adresse que le titulaire du compte principal.
+XANDRIE SA se réserve le droit de faire tout ce qui est raisonnablement possible pour empêcher l'utilisation abusive de l’offre STUDIO DUO, notamment par l’ajout d’abonnés secondaires qui ne résident pas à la même adresse que le titulaire du compte principal.
 
 Si avant de souscrire à l’offre STUDIO DUO le Client avait déjà souscrit à une autre offre d’abonnement QOBUZ, il s’engage par les présentes CGUV à renoncer au remboursement de ladite offre.      
 
@@ -950,7 +954,7 @@ Ces offres d'essai ou de découverte seront également soumises à l'approbation
 
 La souscription à l’offre STUDIO FAMILLE sera automatiquement renouvelée à l'issue de chaque période de l’abonnement, sauf si le Client procède à sa résiliation conformément à l'Article 22.4.6 des présentes CGUV. 
 
-Le moyen de paiement utilisé lors de l’abonnement initial sera alors réutilisé, sauf si le Client l'a préalablement modifié dans la rubrique « Mon compte ».      
+Le moyen de paiement utilisé lors de l’abonnement initial sera alors réutilisé, sauf si le Client l'a préalablement modifié dans la rubrique « Mon compte ».      
 
              22.4.6   Résiliation
 
@@ -1007,6 +1011,7 @@ Dans le cadre d'abonnement annuel, XANDRIE SA s'engage à informer le Client, au
 Sauf suppression définitive du compte, tout abonnement reste valable pendant toute la durée de l’offre souscrite ou offerte (mensuelle ou annuelle), même en cas de désabonnement de la part du Client avant la fin de cette période.
 
 Si le Client a souscrit une période d’essai ou un Abonnement payant par l’intermédiaire d’un magasin d’applications tiers, la résiliation du contrat ou de l’Abonnement doit être exécutée auprès du magasin d’applications.      
+  
   
   
            **22.6 QOBUZ SUBLIME DUO** 
@@ -1123,7 +1128,7 @@ XANDRIE SA se réserve le droit de vérifier le respect de cette condition, en s
 
 Dans le cadre de l’offre SUBLIME FAMILLE, le titulaire du compte principal est responsable du respect des présentes CGUV par les abonnés secondaires. Le titulaire du compte principal doit exercer l'autorité parentale. XANDRIE SA se réserve le droit de vérifier et de demander les pièces justificatives (livret de famille) qui confirment que le titulaire du compte principal exerce l'autorité parentale.
 
-XANDRIE SA se réserve le droit de résilier ou de suspendre l'accès immédiatement au compte principal et aux comptes secondaires de l’offre STUDIO FAMILLE, à tout moment, en cas de non-respect des critères d'éligibilité et de non-respect des présentes CGUV.
+XANDRIE SA se réserve le droit de résilier ou de suspendre l'accès immédiatement au compte principal et aux comptes secondaires de l’offre SUBLIME FAMILLE, à tout moment, en cas de non-respect des critères d'éligibilité et de non-respect des présentes CGUV.
 
              22.7.3   Conditions d’utilisation de l’offre SUBLIME FAMILLE
 
@@ -1202,7 +1207,7 @@ Une fois qu'il a fourni les informations demandées, le Client coche une case «
 
              22.8.3   Conditions d’utilisation de l’offre de téléchargement
 
-Conformément à l'Article 17 des présentes CGUV, tous les fichiers proposés via l’offre de téléchargement ou via le Service sont protégés par le droit d'auteur. 
+Conformément à l'Article 18 des présentes CGUV, tous les fichiers proposés via l’offre de téléchargement ou via le Service sont protégés par le droit d'auteur. 
 
 Leur utilisation ne pourra donc se faire strictement que dans un cadre privé et gratuit, dans le total respect des conditions définies par XANDRIE SA.
 
@@ -1246,7 +1251,7 @@ Le Client titulaire d'une autre offre d’abonnement doit résilier cet abonneme
 
 22.9.2     Conditions d’accès à l’offre QOBUZ STUDENT
 
-L'offre QOBUZ STUDENT est réservée aux Clients âgés de 18 à 25 ans, inscrits dans un établissement d'enseignement supérieur reconnu, quel que soit le niveau d'enseignement, dans l'ensemble des territoires listés à l'article 13.
+L'offre QOBUZ STUDENT est réservée aux Clients âgés de 18 à 25 ans, inscrits dans un établissement d'enseignement supérieur reconnu, quel que soit le niveau d'enseignement, dans l'ensemble des territoires listés à l'article 14.
 
 Les informations fournies lors de la souscription doivent être exactes et complètes.
 
@@ -1260,7 +1265,9 @@ En cas de non-conformité, de fausse déclaration ou en cas de non-respect des p
 
 L'offre QOBUZ STUDENT est disponible en quantité limitée, jusqu'à épuisement des stocks.
 
-XANDRIE SA se réserve le droit de résilier l'Offre QOBUZ STUDENT à tout moment, quel que soit le motif. Après la résiliation, XANDRIE SA ne sera pas tenu de maintenir l'offre QOBUZ STUDENT, ou d'autoriser toute tentative de souscription à cette offre.
+XANDRIE SA se réserve le droit de résilier l'Offre QOBUZ STUDENT à tout moment, quel que soit le motif. Après la résiliation, 
+
+XANDRIE SA ne sera pas tenu de maintenir l'offre QOBUZ STUDENT, ou d'autoriser toute tentative de souscription à cette offre.
 
 Aucun partage de compte ou d'abonnement n'est accepté ou autorisé.
 
@@ -1268,7 +1275,7 @@ XANDRIE SA se réserve le droit de faire tout ce qui est raisonnablement possibl
 
 22.9.3     Durée
 
-L'offre QOBUZ STUDENT est valable pour une durée d'un mois, renouvelable automatiquement, pour une durée maximum de 12 mois consécutifs par Client, renouvelable pour une seule nouvelle durée maximum de 12 mois consécutifs, soit un total de 24 mois, sous réserve de vérification du statut étudiant tel que précisé à l'article 21.X.2 au terme des 12 premiers mois. Il est entendu que l’Abonné au Service QOBUZ STUDENT ne pourra plus bénéficier de cette offre passée la période de 48 mois consécutifs, suivant sa date de première souscription.
+L'offre QOBUZ STUDENT est valable pour une durée d'un mois, renouvelable automatiquement, pour une durée maximum de 12 mois consécutifs par Client, renouvelable pour une seule nouvelle durée maximum de 12 mois consécutifs, soit un total de 24 mois, sous réserve de vérification du statut étudiant tel que précisé à l'article 22.9.2 au terme des 12 premiers mois. Il est entendu que l’Abonné au Service QOBUZ STUDENT ne pourra plus bénéficier de cette offre passée la période de 48 mois consécutifs, suivant sa date de première souscription.
 
 XANDRIE SA se réserve le droit de proposer à ses Clients une offre d’essai ou de découverte (la "Période d'essai") à l’offre QOBUZ STUDENT, pour des durées variables.
 
