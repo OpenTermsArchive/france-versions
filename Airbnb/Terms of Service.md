@@ -1551,47 +1551,70 @@ OuiNon
 
 - - -
 
-Collecter des frais en dehors d'Airbnb
+Tarification et transparence des paiements
 
 
 
 
-============================================
+================================================
 
-Afficher le texte d'origine (en anglais)
-
-Cet article a été traduit automatiquement.
-
-Les hôtes ne sont pas autorisés à percevoir des [frais liés aux réservations Airbnb en dehors de notre plateforme](https://www.airbnb.fr/help/article/2799), sauf autorisation expresse de notre part.  
+Pour favoriser la transparence et protéger les voyageurs et les hôtes lorsqu'ils utilisent Airbnb, les prix doivent être entièrement communiqués avant la réservation, et les paiements doivent s'effectuer sur la plateforme.
 
 Dans cet article
 
-*   [Quand un hôte peut percevoir des frais en dehors d'Airbnb](#section-heading-0)
-*   [Cautions](#section-heading-1)
-*   [Les hôtels peuvent collecter des frais et des cautions en dehors de la plateforme Airbnb](#section-heading-2)
+*   [Garantir la transparence des prix](#section-heading-0)
+*   [Effectuer les paiements sur la plateforme](#section-heading-1)
+*   [Protection contre les dommages et dépôts de garantie](#section-heading-2)
+*   [Taxes](#section-heading-3)
+*   [Application de cette politique](#section-heading-4)
+*   [Nous sommes là pour vous aider](#section-heading-5)
 
-Quand un hôte peut percevoir des frais en dehors d'Airbnb
----------------------------------------------------------
+Garantir la transparence des prix
+---------------------------------
 
-Dans certains cas, Airbnb peut autoriser certains hôtes, y compris [certains hôtes connectés par un logiciel](https://www.airbnb.fr/help/article/2683), à collecter certains frais obligatoires en utilisant un mode de paiement en dehors d’Airbnb, à condition que ces frais figurent dans le détail du prix de l’annonce au moment du paiement. Voici quelques exemples de ces frais : les frais de séjour (y compris le coût des équipements tels que la piscine, la salle de sport ou le Wi-Fi), les frais de services de base et les frais du syndicat de copropriété.
+Lorsque les voyageurs réservent sur Airbnb, le prix qu'ils voient doit être le prix total de l'offre. Les hôtes doivent indiquer tous les frais obligatoires (c'est-à-dire ceux devant être payés pour bénéficier de la réservation) dans [le champ dédié](https://www.airbnb.fr/help/article/2385) ou les inclure dans le prix par nuit si aucun champ n'est prévu. Voici quelques exemples de frais obligatoires : charges, frais pour les voyageurs supplémentaires, frais pour les animaux, frais de séjour, frais de gestion, frais de destination et frais de copropriété.
 
-Les hôtes doivent collecter le paiement des frais facultatifs par le biais du [Centre de résolution](https://www.airbnb.fr/help/article/3591), mais les hôtels peuvent collecter les frais directement.
+Effectuer les paiements sur la plateforme
+-----------------------------------------
 
-Dans les zones géographiques où Airbnb ne collecte pas les taxes ou où les hôtes sont légalement tenus de les collecter directement auprès des voyageurs, les hôtes peuvent collecter les taxes déclarées en dehors d’Airbnb.
+Les voyageurs et les hôtes doivent régler l'ensemble des réservations (en cours, à venir ou récurrentes) et des frais obligatoires directement sur Airbnb. Ils ne doivent pas proposer ou demander de paiements en dehors d'Airbnb. Par exemple, nous n'autorisons pas les voyageurs ou les hôtes à :
 
-Cautions
---------
+*   Demander de communiquer en dehors de la plateforme avant la réservation. Toutes les communications avant la réservation doivent se faire sur Airbnb.
+*   Intégrer des liens dans les annonces ou les messages redirigeant vers des sites externes, ou incitant par tout autre moyen à réserver en dehors de la plateforme Airbnb (qu'il s'agisse d'une nouvelle demande ou d'une réservation existante).
+*   Offrir ou demander des réductions pour effectuer une réservation en dehors d'Airbnb.
+*   Remplacer une réservation Airbnb existante par une réservation en dehors de la plateforme, que ce soit en tout ou en partie.
+*   Prolonger des réservations en dehors d'Airbnb. Les hôtes doivent utiliser l'outil **Modifier la réservation** d'Airbnb pour percevoir un paiement en cas de modification du nombre de nuits, du nombre de voyageurs ou du nombre d'animaux.
+*   Collecter le paiement des frais obligatoires en dehors de la plateforme. Le paiement des frais facultatifs (par exemple, le chauffage de la piscine) peut avoir lieu en dehors de la plateforme si le voyageur est d'accord.
+    *   **Exception :** certains hôtes, y compris des hôtes connectés par le biais d'un logiciel, peuvent collecter les frais obligatoires en dehors de la plateforme. Dans ces cas de figure, tous les paiements qui seront collectés en dehors de la plateforme doivent être renseignés dans le champ prévu à cet effet, afin de figurer dans le prix total affiché au voyageur avant sa réservation.
 
-La plupart des hôtes ne sont pas autorisés à facturer des cautions. Pour faire face aux dommages ou aux accidents survenant au cours d'un séjour, Airbnb offre une protection de A à Z grâce à [AirCover pour les hôtes](https://www.airbnb.fr/help/article/3142).
+Protection contre les dommages et dépôts de garantie
+----------------------------------------------------
 
-Pour le petit nombre d'annonces pour lesquelles il est autorisé de collecter des [cautions](https://www.airbnb.com/help/article/140) en dehors de la plateforme Airbnb, les hôtes doivent les indiquer dans le champ des frais correspondant.
+Pour couvrir les dommages ou les accidents qui se produisent pendant un séjour, un service ou une expérience, Airbnb propose une protection complète par le biais d'[AirCover pour les hôtes](https://www.airbnb.fr/help/article/3142). Si un hôte souhaite demander un remboursement à un voyageur, il doit impérativement passer par le Centre de résolution.
 
-Les hôtels peuvent collecter des frais et des cautions en dehors de la plateforme Airbnb
-----------------------------------------------------------------------------------------
+La plupart des hôtes ne sont pas autorisés à facturer un dépôt de garantie ou une préautorisation de prélèvement sur une carte bancaire pour couvrir d'éventuels frais accessoires. Les dépôts de garantie et les préautorisations sur carte bancaire ne sont autorisés que dans certains cas :
 
-Les hôtels peuvent demander une carte de crédit à l’arrivée pour couvrir le coût des faux frais ou une caution dans le cadre de leurs procédures standard, mais cela doit être indiqué dans l’annonce ou dans le détail du prix de l’annonce au moment du paiement. La caution, déduction faite des frais prévus par la politique de l’hôtel, est généralement restituée au moment du départ ou peu après. Les formes acceptées de dépôt de garantie ou de préautorisation de carte de crédit varient en fonction de la politique de l'hôtel. Ils peuvent également collecter d'autres frais, tels que des frais de séjour, s'ils ont été indiqués de manière appropriée.
+*   Certains hôtes, y compris des hôtes connectés par le biais d'un logiciel, peuvent collecter un dépôt de garantie en dehors de la plateforme Airbnb, à condition d'indiquer le dépôt de garantie dans le champ de frais approprié afin que les voyageurs en prennent connaissance avant de réserver.
+*   Les hôtels peuvent également demander une préautorisation de prélèvement sur une carte bancaire ou un dépôt de garantie à l'arrivée pour couvrir le coût des frais accessoires dans le cadre de leurs procédures habituelles. Les hôtels doivent indiquer ces frais dans le champ approprié afin que les voyageurs en prennent connaissance avant de réserver.
+*   Si le voyageur n'a causé aucun dommage et ne doit aucuns frais accessoires pendant son séjour, l'hôte doit lui rembourser l'intégralité du dépôt de garantie (ou lever la préautorisation correspondante) dans les 7 jours suivant le départ, ou dans les 14 jours pour les hôtels. Si un hôte conserve tout ou partie d'un dépôt de garantie ou d'une préautorisation, il doit être en mesure de fournir au voyageur une explication écrite ainsi que des justificatifs attestant des dommages ou des frais.
 
-Le Centre de résolution peut ne pas être disponible pour certains séjours dans des hôtels. Dans ces cas, les voyageurs effectuant des séjours à l'hôtel et leurs hôtes devront traiter directement toute demande liée au paiement.
+Taxes
+-----
+
+Dans certaines zones géographiques, les hôtes sont responsables de la collecte et du versement manuels de certaines taxes. Dans ce cas, l'hôte doit informer les voyageurs de ces montants en procédant de l'une de ces deux manières : soit en les [intégrant à son annonce](https://www.airbnb.fr/help/article/2523) par le biais de l'outil de taxes personnalisées d'Airbnb (ce qui les affiche sur une ligne distincte avant la réservation), soit en les incluant directement dans le prix par nuit.
+
+Application de cette politique
+------------------------------
+
+Si nous constatons qu'un membre de la communauté a enfreint nos politiques, nous prenons les mesures appropriées, par exemple : informer les utilisateurs de nos politiques, envoyer des avertissements, suspendre ou supprimer des annonces ou des comptes en infraction.
+
+Nous sommes là pour vous aider
+------------------------------
+
+Si vous recevez une invitation à effectuer un paiement en dehors d'Airbnb sans préavis, que ce soit sur la messagerie Airbnb, par e-mail ou par un autre moyen de communication, il peut s'agir d'un cas de fraude. Veuillez nous [contacter](https://www.airbnb.fr/help/contact_us) immédiatement en cas de comportement enfreignant cette politique, notamment :
+
+*   Des signes de fraude : par exemple, des demandes de paiement par virement bancaire, par chèque de banque ou par mandat.
+*   Toute demande inhabituelle de paiement en dehors d'Airbnb, y compris de la part d'une personne prétendant représenter la plateforme.
 
 Cet article vous a-t-il été utile ?
 
