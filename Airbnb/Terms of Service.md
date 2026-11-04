@@ -1545,9 +1545,7 @@ Frais de service Airbnb pour les hôtes de service et d'expérience
 
 Pour les réservations de services, nous facturons généralement des frais de 15 %, avec un minimum de 6 dollars US (ou l'équivalent en devise locale). Ces frais peuvent varier en fonction du taux de change quotidien. Pour les réservations d'expériences, nous facturons généralement des frais de service de 20 %.
 
-Cet article vous a-t-il été utile ?
-
-OuiNon
+Est-ce que cela vous a été utile ?
 
 - - -
 
@@ -1616,9 +1614,7 @@ Si vous recevez une invitation à effectuer un paiement en dehors d'Airbnb sans 
 *   Des signes de fraude : par exemple, des demandes de paiement par virement bancaire, par chèque de banque ou par mandat.
 *   Toute demande inhabituelle de paiement en dehors d'Airbnb, y compris de la part d'une personne prétendant représenter la plateforme.
 
-Cet article vous a-t-il été utile ?
-
-OuiNon
+Est-ce que cela vous a été utile ?
 
 - - -
 
