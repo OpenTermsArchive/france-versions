@@ -36,19 +36,3 @@ Pour vous permettre d'accéder à ses services décrits dans les [Conditions Gé
 Dans ce cadre, la société PONY SAS s'engage à protéger vos données à caractère personnel et votre vie privée, et met en œuvre toutes les mesures appropriées pour assurer cette protection, conformément aux lois applicables.
 
 Cette Politique de Confidentialité explique la (ou les) finalité(s) et les modalités selon lesquelles la société PONY SAS traitera vos données à caractère personnel par l'intermédiaire de ses Services.
-
-### QUI EST RESPONSABLE DU TRAITEMENT DE VOS DONNÉES ?
-
-Vos données à caractère personnel sont collectées et traitées par la société PONY SAS, dont le siège social est situé 8 place Monseigneur Rumeau, 49100 ANGERS (ci-après dénommée "PONY").
-
-### POURQUOI VOS DONNÉES SONT-ELLES COLLECTÉES / TRAITÉES ?
-
-PONY collectera vos données à caractère personnel pour les raisons suivantes :
-
-vous donner accès aux Services. Cela inclut le traitement des données nécessaires pour :
-
-créer votre compte personnel, qui vous permet d'accéder à l'application mobile Pony (le "Compte Pony") ;
-
-procéder à vos paiements ;
-
-reconnaître et suivre votre position géographique ou la position de votre bicyclette ou de votre trottinette électrique Pony (le "Véhicule" ou les "Véhicules") ;
