@@ -678,7 +678,9 @@ pas obligatoire.
 
 
 
-Afin de respecter le délai de rétractation, il vous suffit de nous informer de votre décision d’exercer votre
+Afin de respecter le délai de rétractation, il vous suffit de nous informer de votre décision d’exercer
+
+votre
 
 droit de rétractation avant que le délai n'expire.
 
@@ -710,15 +712,13 @@ nous ayons reçu les produits ou que vous nous transmettiez la preuve que vous a
 
 produits, la première de ces dates étant retenue.
 
+9
+
 
 
 Vous devrez nous envoyer, faire livrer ou nous remettre les produits dans l'un de nos magasins
 
 BERKSHA en France ou par l’intermédiaire d’un transporteur ou encore en les déposant dans un point
-
-9
-
-
 
 relais autorisé en France en utilisant l’étiquette d'affranchissement prépayée que nous vous adressons
 
@@ -806,13 +806,15 @@ retourné(s) correspondra à la somme de leurs prix payés respectifs dévaluée
 
 prix initial et le prix promotionnel du/des produit(s) conservé(s).
 
+10
+
+
+
 Pour toute information complémentaire sur les conditions de remboursement applicables à ce
 
 type d’opération, veuillez consultez la rubrique Aide section Commandes et Retours de nos
 
 Plateformes.
-
-10
 
 
 
@@ -824,67 +826,49 @@ que les frais de livraison ne seront pas remboursés.
 
 
 
-En outre, pour tout achat effectué sur les Plateformes, si vous exercez votre droit de rétractation
+S’agissant des frais de retour, vous ne les supportez pas si vous effectuez un retour directement
 
-contractuel après l’expiration du délai légal de rétractation et que les produits sont déposés dans un
-
-point relais entre le 31ᵉ et le 40ᵉ jour à compter de la date de la confirmation d’expédition, le
-
-remboursement des produits retournés sera effectué exclusivement sous la forme d’un bon d’achat. Ce
-
-bon d’achat sera valable conformément aux conditions générales d’utilisation aux bons d’achat.
+dans un magasin BERKSHA situé en France métropolitaine.
 
 
 
-S’agissant des frais de retour, vous ne les supportez pas si vous effectuez un retour directement dans
+S’agissant des frais de retour dans un point relais, les frais afférents au renvoi des produits seront
 
-un magasin BERKSHA situé en France métropolitaine.
+à votre charge. Vous supporterez la somme forfaitaire figurant sur nos Plateformes (voir la section
 
+« Aide. Retour. COMMENT RETOURNER UN ARTICLE ? »). Ces frais seront immédiatement
 
-
-S’agissant des frais de retour dans un point relais, les frais afférents au renvoi des produits seront à
-
-votre charge. Vous supporterez la somme forfaitaire figurant sur nos Plateformes (voir la section « Aide.
-
-Retour. COMMENT RETOURNER UN ARTICLE ? »). Ces frais seront immédiatement déduits du
-
-montant qui vous sera remboursé ou, le cas échéant, la valeur du bon d’achat émis.
+déduits du montant qui vous sera remboursé.
 
 
 
 Si vous déposez les produits par l’intermédiaire d’un transporteur, les frais afférents au renvoi des
 
-produits seront à votre charge. Vous supporterez la somme forfaitaire figurant sur nos Plateformes (voir
+produits seront à votre charge. Vous supporterez la somme forfaitaire figurant sur nos Plateformes
 
-la section « Aide. Retour. COMMENT RETOURNER UN ARTICLE ? »).
-
-
-
-En cas de retour en magasin, vous devez présenter le produit accompagné du E-ticket joint à la
-
-Confirmation d’envoi, qui est également sauvegardé sur votre compte sur nos Plateformes et sur
-
-l’application mobile BERSHKA de votre téléphone. Vous pouvez présenter l’E-ticket sous forme
-
-digitale à partir de votre téléphone mobile, ou en apportant en magasin la version imprimée du E-
-
-ticket.
+(voir la section « Aide. Retour. COMMENT RETOURNER UN ARTICLE ? »).
 
 
 
-Vous pouvez exercer votre droit de rétraction comme le prévoit la clause 16.1 ci-dessus ; cependant, si
+En cas de retour en magasin, vous devez présenter le produit accompagné du E-ticket joint à
 
-vous nous informez de votre intention de résilier le Contrat après la durée légale de rétraction, vous
+la Confirmation d’envoi, qui est également sauvegardé sur votre compte sur nos Plateformes
 
-devrez nous retourner les produits, dans un délai de 30 jours à compter de la date de Confirmation
+et sur l’application mobile BERSHKA de votre téléphone. Vous pouvez présenter l’E-ticket
 
-d’envoi. À titre exceptionnel, les produits peuvent être déposés dans un point relais entre le 31ᵉ et le 40ᵉ
+sous forme digitale à partir de votre téléphone mobile, ou en apportant en magasin la version
 
-jour à compter de la date de la confirmation d’expédition pour les achats effectués sur les Plateformes
+imprimée du E-ticket.
 
-dans les conditions ci-avant. Dans ce cas, le remboursement sera effectué sous la forme d’un bon
 
-d’achat.
+
+Vous pouvez exercer votre droit de rétraction comme le prévoit la clause 16.1 ci-dessus ;
+
+cependant, si vous nous informez de votre intention de résilier le Contrat après la durée légale de
+
+rétraction, vous devrez nous retourner les produits, dans un délai de 30 jours à compter de la date
+
+de Confirmation d’envoi.
 
 
 
@@ -892,7 +876,9 @@ d’achat.
 
 
 
-Vous ne pourrez résilier le Contrat si ce dernier concerne la livraison de l'un des produits suivants :
+Vous ne pourrez résilier le Contrat si ce dernier concerne la livraison de l'un des produits suivants
+
+:
 
 
 
@@ -900,25 +886,27 @@ i. Produits personnalisés ;
 
 ii. CD/DVD de musique sans leur emballage d'origine ;
 
-iii. Les biens que vous avez descellés après la livraison et qui ne peuvent être renvoyés pour des
+iii. Les biens que vous avez descellés après la livraison et qui ne peuvent être renvoyés pour
 
-raisons d’hygiène ou de protection de la santé.
+des raisons d’hygiène ou de protection de la santé.
+
+
+
+Votre droit de rétractation du Contrat s'applique exclusivement aux produits qui sont retournés
+
+dans l'état exact où vous les avez reçus. Aucun remboursement ne sera effectué si le produit a
+
+été utilisé après avoir été ouvert, si les produits ne sont pas dans le même état que celui dans
+
+lequel ils ont été livrés ou s'ils ont été endommagés. Vous devez donc prendre soin des produits
 
 11
 
 
 
-Votre droit de rétractation du Contrat s'applique exclusivement aux produits qui sont retournés dans
+lorsqu'ils sont en votre possession. En outre, le retour de la carte cadeau est régi par les
 
-l'état exact où vous les avez reçus. Aucun remboursement ne sera effectué si le produit a été utilisé
-
-après avoir été ouvert, si les produits ne sont pas dans le même état que celui dans lequel ils ont été
-
-livrés ou s'ils ont été endommagés. Vous devez donc prendre soin des produits lorsqu'ils sont en votre
-
-possession. En outre, le retour de la carte cadeau est régi par les dispositions prévues dans les
-
-conditions d'utilisation de la carte cadeau.
+dispositions prévues dans les conditions d'utilisation de la carte cadeau.
 
 
 
@@ -994,8 +982,6 @@ légal de rétractation et à la clause 16.2 en cas d’exercice de votre droit 
 
 frais de retour sont mentionnés dans la section « RETOURS » sur nos Plateformes.
 
-12
-
 
 
 Si vous décidez de retourner les produits par un autre moyen que ceux listés aux points (i), (ii) et (iii)
@@ -1003,6 +989,10 @@ Si vous décidez de retourner les produits par un autre moyen que ceux listés a
 ci-dessus, en tout état de cause, vous supporterez le coût du renvoi des produits. Dans ce dernier cas,
 
 nous vous prions de retourner le produit aussi rapidement que possible, accompagné de la version
+
+12
+
+
 
 imprimée de l’E- ticket joint à la Confirmation d’envoi, qui est également sauvegardé sur votre compte
 
@@ -1024,19 +1014,19 @@ remboursement des sommes payées. Les frais de livraison seront remboursés si l
 
 est exercé dans la période légale et que tous les produits contenus dans le colis concerné sont
 
-retournés. Le remboursement, ou, le cas échéant l’émission d’un bon d’achat, sera effectué le plus
+retournés. Le remboursement sera effectué le plus rapidement possible, et dans tous les cas dans les
 
-rapidement possible, et dans tous les cas dans les 14 jours suivant la date à laquelle vous nous avez
+14 jours suivant la date à laquelle vous nous avez notifié votre intention de résilier le Contrat sous
 
-notifié votre intention de résilier le Contrat sous réserve de la déduction du coût des frais de retour s’ils
+réserve de la déduction du coût des frais de retour s’ils sont à votre charge. Nonobstant ce qui précède,
 
-sont à votre charge. Nonobstant ce qui précède, nous nous réservons le droit de bloquer le
+nous nous réservons le droit de bloquer le remboursement jusqu'à ce que nous ayons reçu les produits
 
-remboursement jusqu'à ce que nous ayons reçu les produits ou que vous nous transmettiez la preuve
+ou que vous nous transmettiez la preuve que vous avez envoyé les produits, la première de ces dates
 
-que vous avez envoyé les produits, la première de ces dates étant retenue. Le remboursement sera
+étant retenue. Le remboursement sera toujours versé via le même moyen de paiement que vous avez
 
-toujours versé via le même moyen de paiement que vous avez utilisé pour l'achat.
+utilisé pour l'achat.
 
 
 
@@ -1090,15 +1080,15 @@ L'application mobile Bershka vous permet de personnaliser certains des produits 
 
 textes et des caractères que vous pouvez sélectionner parmi les options qui vous sont proposées
 
-13
-
-
-
 pour chaque produit. Les produits qui sont personnalisables seront indiqués comme tels. Vous
 
 trouverez de plus amples informations sur cette option sur nos Plateformes. Vous devez savoir que,
 
 pour des raisons techniques ou autres indépendantes de notre volonté, les couleurs, textures et tailles
+
+13
+
+
 
 réelles peuvent différer de celles affichées sur votre écran. En outre, sous réserve des dispositions
 
@@ -1160,7 +1150,7 @@ i. Décès ou dommages corporels dus à une négligence de notre part ;
 
 ii. Fraude ou dol ; ou
 
-iii.Tous les cas dans lesquels il serait illégal ou illicite d'exclure, de limiter ou de tenter
+iii. Tous les cas dans lesquels il serait illégal ou illicite d'exclure, de limiter ou de tenter
 
 d'exclure ou de limiter notre responsabilité.
 
@@ -1180,21 +1170,17 @@ Conditions, garantit les consommateurs des défauts de conformité et des vices 
 
 en vente sur nos Plateformes conformément à la garantie légale de conformité prévue aux articles
 
-14
-
-
-
 L217-3 et suivants du Code de la consommation et à la garantie contre les vices cachés au sens des
 
 articles 1641 et suivants du Code civil.
 
-15
+14
 
 
 
-Le consommateur dispose d'un délai de deux ans à compter de la délivrance du bien pour obtenir la
+Le consommateur dispose d'un délai de deux ans à compter de la délivrance du bien pour obtenir
 
-mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de
+la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de
 
 conformité. Durant ce délai, le consommateur n'est tenu d'établir que l'existence du défaut de
 
@@ -1284,7 +1270,7 @@ défaut. Cette garantie donne droit à une réduction de prix si le bien est con
 
 remboursement intégral contre restitution du bien.
 
-16
+15
 
 
 
@@ -1310,7 +1296,7 @@ des biens (hors contenus et services numériques) :
 
 - Article L217- 3 alinéa 1 et 2 du Code de la consommation : Le vendeur délivre un bien conforme au
 
-contrat ainsi qu'aux critères énoncés à l'article L. 217-5. Il répond des défauts de conformité existant
+contrat ainsi qu'aux critères énoncés à l'article L. 217-5\. Il répond des défauts de conformité existant
 
 au moment de la délivrance du bien au sens de l'article L. 216-1, qui apparaissent dans un délai de
 
@@ -1376,7 +1362,7 @@ qualité, mais les caractéristiques naturelles sont inévitables et doivent êt
 
 partie intégrante de l'apparence individuelle du produit.
 
-17
+16
 
 
 
@@ -1390,7 +1376,7 @@ votre droit de résilier le Contrat.
 
 
 
-En tant que consommateur, si vous estimez que vos droits n’ont pas été respectés, vous pouvez
+En tant que consommateur, si vous estimez que vos droits ont été transgressés, vous pouvez
 
 adresser votre réclamation à l’adresse électronique suivante : contact_fr@bershka.com afin de
 
@@ -1398,31 +1384,25 @@ solliciter un règlement à l’amiable.
 
 
 
-A cet égard, conformément aux dispositions du Code de la consommation concernant « le processus
+Aussi, si votre achat a été effectué sur nos Plateformes , nous vous informons par la présente, qu’en
 
-de médiation des litiges de la consommation », après nous avoir sollicités et à défaut de réponse vous
+conformité avec le règlement européen n°524/2013, vous avez le droit de solliciter la résolution de
 
-satisfaisant, vous avez la possibilité de recourir gratuitement à une procédure de médiation de la
+votre litige sur la plateforme dédiée à la résolution en ligne des litiges de la consommation accessible
 
-consommation auprès de :
-
-
-
-CM2C
-
-49 rue de Ponthieu
-
-75 008 PARIS
-
-Tel : 01 89 47 00 14
+via l’adresse électronique suivante : http://ec.europa.eu/consumers/odr/.
 
 
 
-Site internet : https://www.cm2c.net/declarer-un-litige.php
+A cet égard, pour toutes réclamations écrites préalablement adressées à notre service clientèle depuis
 
+moins d’un an et non satisfaites, conformément aux dispositions du Code de la consommation
 
+concernant le règlement amiable des litiges, nous vous offrons la possibilité de recourir au service de
 
-Mail: litiges@cm2c.net
+médiation CM2C par voie électronique : https://www.cm2c.net/declarer-un-litige.php ou par voie
+
+postale : CM2C, 14 rue Saint Jean 75017 Paris.
 
 
 
@@ -1460,10 +1440,6 @@ licence d'utilisation. Vous pouvez utiliser ledit matériel uniquement dans la m
 
 ou les détenteurs de la licence d'utilisation, l'autorisons expressément. Cela ne vous empêche pas
 
-18
-
-
-
 d'utiliser nos Plateformes dans la mesure nécessaire pour copier les informations de votre commande
 
 ou les renseignements de contact.
@@ -1479,6 +1455,10 @@ Vous ne devez pas utiliser de manière indue nos Plateformes en introduisant vol
 un cheval de Troie, un ver, des bombes logiques ou quelque autre logiciel ou matériel
 
 technologiquement préjudiciable ou dangereux. Vous ne devez pas essayer d'accéder sans
+
+17
+
+
 
 autorisation à nos Plateformes , au serveur sur lequel nos Plateformes hébergé ou quelque serveur,
 
@@ -1538,19 +1518,17 @@ envoyons soient effectuées par écrit. En utilisant nos Plateformes, vous accep
 
 communication s'effectue principalement par voie électronique. Nous vous contacterons par courriel
 
-ou vous informerons en affichant des messages sur nos Plateformes, sauf si les informations
+ou vous informerons en affichant des messages sur nos Plateformes, sauf si les informations vous
 
-vous sont destinées personnellement. Pour des raisons contractuelles, vous acceptez d'utiliser ce
+sont destinées personnellement. Pour des raisons contractuelles, vous acceptez d'utiliser ce moyen
 
-moyen de communication électronique et reconnaissez que tous les contrats, notifications,
+de communication électronique et reconnaissez que tous les contrats, notifications, informations et
 
-informations et autres communications que nous vous envoyons par voie électronique satisfont aux
+autres communications que nous vous envoyons par voie électronique satisfont aux exigences
 
-exigences légales de transmission par écrit. Cette condition ne portera aucunement atteinte aux
+légales de transmission par écrit. Cette condition ne portera aucunement atteinte aux droits qui
 
-droits qui vous sont légalement reconnus.
-
-19
+vous sont légalement reconnus.
 
 
 
@@ -1565,6 +1543,8 @@ contact. Conformément au contenu de la clause 23 ci-dessus, et sauf mention con
 vous envoyer des notifications par courriel ou à l'adresse postale que vous nous avez envoyée au
 
 moment de passer commande.
+
+18
 
 
 
@@ -1640,8 +1620,6 @@ dans la mesure du possible de faire cesser le Cas de Force Majeure ou de trouver
 
 permettant d'exécuter nos obligations contractuelles malgré le Cas de Force Majeure.
 
-20
-
 
 
 27. DROITS DE RENONCIATION
@@ -1657,6 +1635,8 @@ part de nos droits ou recours auxquels nous avons droit en vertu de ce Contrat o
 présentes Conditions, ne constitue pas une renonciation ou une limitation de ces droits ou recours et
 
 ne vous dispenseront pas de vous conformer à vos obligations.
+
+19
 
 
 
@@ -1696,9 +1676,9 @@ décision.
 
 Les présentes Conditions et tout document y faisant expressément référence représentent l'intégralité
 
-du Contrat qui nous lie et remplacent tout accord, promesse ou pacte conclu préalablement entre
+du Contrat qui nous lie et remplacent tout accord, promesse ou pacte conclu préalablement entre vous
 
-vous et nous, qu'il soit oral ou écrit.
+et nous, qu'il soit oral ou écrit.
 
 
 
@@ -1730,8 +1710,6 @@ Conditions.
 
 Nous nous réservons le droit de réviser et modifier ces Conditions à tout moment.
 
-21
-
 
 
 Vous êtes soumis aux Politiques et Conditions en vigueur au moment où vous utilisez ces Plateformes
@@ -1751,6 +1729,8 @@ Politiques ou la déclaration de confidentialité de manière rétroactive, auqu
 L'utilisation de nos Plateformes et les contrats d'achat de produits via lesdites Plateformes seront
 
 régis par la législation française.
+
+20
 
 
 
@@ -1808,9 +1788,9 @@ Particulières").
 
 
 
-Dernière mise à jour : le 29 septembre 2026
+Dernière mise à jour : le 14 Novembre 2025
 
-22
+21
 
 
 
@@ -1834,7 +1814,7 @@ Je/nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétract
 
 vente du bien ci-dessous :
 
-Commandé le (\*)[........................................] / reçu le [...............................] (\*)
+Commandé le (\*)[........................................ ] / reçu le [ .............................. ] (\*)
 
 
 
@@ -1842,7 +1822,7 @@ Nom du (des) consommateur(s) : [...................................]
 
 
 
-Adresse du (des) consommateur(s) : [ .................................. ]
+Adresse du (des) consommateur(s) : [ .................................... ]
 
 
 
@@ -1852,13 +1832,13 @@ papier)
 
 
 
-Date : [................................... ]
+Date : [ .................................. ]
 
 
 
 (\*) Rayez la mention inutile
 
-23
+22
 
 
 
@@ -1886,7 +1866,7 @@ considéré comme un achat effectué sur le Site internet, et donc soumis aux Co
 
 www.bershka.com ; (ii) la possibilité de gérer les tickets pour les achats effectués sur le Site internet de Bershka
 
-(le «Site Internet») ; (iii) la possibilité d'utiliser votre QR ID pour vous identifier en tant qu'utilisateur Bershka et (iv)
+(le «Site Internet») ; (iii) la possibilité d'utiliser votre QR ID pour vous identifier en tant qu'utilisateur Bershka et (iv )
 
 la possibilité d’opter pour la réception d’un ticket de caisse sous format papier plutôt qu’un ticket ou une preuve
 
@@ -1896,7 +1876,7 @@ application et en présentant dans les magasins Bershka (ci-après le « Magasin
 
 Physiques ») votre QR ID à cette fin. Vous pourrez ainsi, pour chacun de vos achats, choisir de recevoir un ticket
 
-sous format papier plutôt qu'un ticket sous format électronique (v) la possibilité d’utiliser le Camera Kit disponible
+sous format papier plutôt qu'un ticket sous format électronique (v) la possibilité d’ utiliser le Camera Kit disponible
 
 sur l’Application, au moyen duquel les utilisateurs peuvent simuler l'utilisation de produits avec des accessoires
 
@@ -1940,7 +1920,7 @@ Les reçus des achats effectués sur le Site internet de Bershka seront stockés
 
 dans la section « Mes commandes ».
 
-24
+23
 
 
 
@@ -2032,7 +2012,7 @@ les Magasins Physiques, mais veuillez noter que tout retour devra toujours être
 
 et d’Utilisation, aux politiques commerciales de Bershka et à la législation applicable.
 
-25
+24
 
 
 
@@ -2122,11 +2102,11 @@ b) quand des erreurs ou des dysfonctionnements se produisent lorsque vous utilis
 
 Fonctionnalités en raison d'un matériel, des logiciels, des appareils ou des terminaux défectueux ou d'un
 
-manque de mesures de sécurité nécessaires installées sur l'appareil sur lequel vous utilisez l'Application /
+manque de mesures de sécurité nécessaires installées sur l'appareil sur lequel vous utilisez l'Application
 
-les Fonctionnalités.
+/ les Fonctionnalités.
 
-26
+25
 
 
 
@@ -2148,11 +2128,9 @@ Les utilisateurs s'engagent à ne pas retirer, supprimer, modifier, manipuler ou
 
 
 
-- Les notes, légendes, signes ou symboles, que soit (i) la Société, soit (ii) les ayants droit légaux
+- Les notes, légendes, signes ou symboles, que soit (i) la Société, soit (ii) les ayants droit légaux incorporent
 
-incorporent dans leur propriété au regard de la propriété intellectuelle ou industrielle (ex: copyright ©, ®
-
-et TM, etc.,).
+dans leur propriété au regard de la propriété intellectuelle ou industrielle (ex: copyright ©, ® et TM, etc.,).
 
 
 
@@ -2210,12 +2188,10 @@ utilisateurs qui:
 
 - ne respectent pas les conditions énoncées dans les présentes;
 
-- violent ou enfreignent les droits de propriété intellectuelle et industrielle ou d'autres droits
+- violent ou enfreignent les droits de propriété intellectuelle et industrielle ou d'autres droits équivalents
 
-équivalents de la Société ou de tout autre tiers détenteur de droits légaux, ou violent toutes autres
-
-lois applicables.
+de la Société ou de tout autre tiers détenteur de droits légaux, ou violent toutes autres lois applicables.
 
 
 
-Dernière mise à jour : le 29 septembre 2026
+Dernière mise à jour : le 14 Novembre 2025
