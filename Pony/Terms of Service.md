@@ -28,3 +28,19 @@ Les présentes Conditions Générales d'Utilisation définissent les conditions 
 Pour toutes réclamations ou demandes d'informations au sujet de ces Conditions Générales d'Utilisation qui ne peuvent pas être réglées par le biais de notre application mobile Pony, vous pouvez nous joindre par téléphone au +33 2 52 33 18 95 ou par email aide@getapony.com.
 
 ### 1\. FONCTIONNALITÉS DE L'APPLICATION
+
+PONY est un professionnel dont les activités principales (ci-après, les "Services") sont :
+
+la vente de bicyclettes et de trottinettes électriques (les "Véhicules") à des personnes désirant les lui mettre à disposition en vue de leur exploitation (les "Pony Angels") ;
+
+l'entretien et la mise en location en son nom propre et pour son propre compte des Véhicules qui sont mis à sa disposition par les Pony Angels propriétaires de ces Véhicules ;
+
+la location effective de ces Véhicules à des utilisateurs (les "Pony Riders").
+
+L'Application est l'interface par le biais de laquelle vous pouvez contracter à distance avec PONY en vue d'accéder à ces Services. Vous pouvez ainsi, par le biais de l'Application louer des Véhicules ou acheter des abonnements pour utiliser des Véhicules dans les conditions prévues par les [Conditions Générales de Location.](https://www.notion.so/Conditions-g-n-rales-de-location-19f364cb061940fd82bf03e86c9fd2fc)
+
+L'Application offre en outre différentes fonctionnalités accessoires à ces Services, telles que :
+
+le suivi par les Pony Angels de la géolocalisation de leurs Véhicules ;
+
+la localisation par les Pony Riders des Véhicules disponibles à la location ;
