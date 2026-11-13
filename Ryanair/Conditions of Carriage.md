@@ -1379,7 +1379,7 @@ La mise en commun ou le partage d’allocations de Bagages enregistrés achetée
 
 Tout passager dépassant sa propre autorisation de bagage devra s’acquitter de frais d’excédent de bagages au taux applicable au jour du voyage. Le taux applicable à ce jour est de 13 £/13 € par kilogramme (ou monnaie locale équivalente).  
 
-Dans les aéroports disposant de bornes en libre service, vous devez payer les frais de bagages enregistrés et/ou les frais d’excédent de bagages et déposer vos Bagages enregistrés à un comptoir de dépôt des bagages au plus tard 40 minutes avant l’heure de départ prévue.  
+Dans les aéroports disposant de bornes en libre service, vous devez payer les frais de bagages enregistrés et/ou les frais d’excédent de bagages et déposer vos Bagages enregistrés à un comptoir de dépôt des bagages au plus tard 60 minutes avant l’heure de départ prévue.  
 
 Vous pouvez transporter gratuitement une poussette entièrement pliable/une poussette double/une poussette combinée/une écharpe de portage par enfant, ainsi que l’un des éléments suivants : un siège auto, un siège enfant ou un lit portable. Vous pouvez transporter d’autres objets pour nourrisson/enfant (20 kg maximum par objet) en réservant en ligne pour la somme de 15 £/15 € par objet et par vol.  
 
@@ -1431,7 +1431,7 @@ Une Priorité et 2 bagages en cabine coûte entre 6 €/£ et 35.99 €/£ et 
 
 Le transport de liquides, d'aérosols et de gels dans la zone de sécurité restreinte d'un aéroport et des aéronefs à bord est contrôlé conformément aux exigences de sécurité en vigueur dans l'UE.   
 
-Un bagage enregistré de 10 kg coûte entre 12.99 €/£ et 35.99 €/£ en fonction de l’itinéraire et des dates de voyage sélectionnés. Il peut être ajouté au moment de la réservation ou sur Mes réservations, sur notre site Web et notre application (jusqu’à 40 minutes avant l’heure de départ du vol prévue).
+Un bagage enregistré de 10 kg coûte entre 12.99 €/£ et 35.99 €/£ en fonction de l’itinéraire et des dates de voyage sélectionnés. Il peut être ajouté au moment de la réservation ou sur Mes réservations, sur notre site Web et notre application (jusqu’à 60 minutes avant l’heure de départ du vol prévue).
 
 Les passagers non prioritaires qui n’ont pas ajouté de bagage à leur réservation peuvent toujours acheter une option Bagage enregistré de 10 kg au comptoir de dépôt des bagages pour €/£46.00 - €/£ 60.00 ou à la porte d’embarquement pour €/£35.99 - €/£ 60.00. Vous pouvez alors récupérer ce bagage dans la zone de retrait des bagages à l’aéroport de votre destination. (N.B : N’oubliez pas de prendre votre passeport si vous devez passer par le contrôle des passeports à l’aéroport de votre destination.)  
 
@@ -2147,7 +2147,7 @@ n/a
 
 €/£100
 
-Disponible uniquement 40 minutes avant et jusqu’à 1 heure après le départ du vol. Disponible pour les passagers qui arrivent à la billetterie jusqu’à une heure après le départ de leur vol, afin de transférer sur le prochain vol disponible. Frais facturés par passager et par secteur.
+Disponible uniquement 1 heure avant et jusqu’à 1 heure après le départ du vol. Disponible pour les passagers qui arrivent à la billetterie jusqu’à une heure après le départ de leur vol, afin de transférer sur le prochain vol disponible. Frais facturés par passager et par secteur.
 
 Frais de Vérification Express
 
