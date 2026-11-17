@@ -2211,7 +2211,7 @@ Bagage enregistré de 23 kg
 
 (par vol)
 
-€/£ 54 - €/£ 80.99 (par vol)
+€/£ 54 - €/£ 80.99
 
 Les frais varient en fonction de l'itinéraire et des dates de voyage choisies.
 
