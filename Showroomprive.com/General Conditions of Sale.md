@@ -1,7 +1,7 @@
 **CONDITIONS GENERALES DE VENTE**
 ---------------------------------
 
-Date : 20/07/2026
+Date : 16/11/2026
 
 Bienvenue sur Showroomprive.com
 
@@ -117,7 +117,7 @@ Pour toute annonce de réduction de prix d'un produit proposé lors des ventes C
 
 5.1 Modes de paiement
 
-Le paiement s'effectue en ligne par carte bancaire, Paypal ou via les solutions Klarna, ou Fintecture. Les cartes bancaires acceptées sont les suivantes : Visa / CB / Mastercard, American Express et, en cas de livraison en Belgique, Bancontact.
+Le paiement s'effectue en ligne par carte bancaire, Paypal ou via les solutions Klarna. Les cartes bancaires acceptées sont les suivantes : Visa / CB / Mastercard, American Express et, en cas de livraison en Belgique, Bancontact.
 
 Après confirmation du paiement par notre centre de paiement, votre compte bancaire ou compte Paypal sera débité à l'issue d'un délai maximum de 4 jours suivant la date de la commande.
 
@@ -127,7 +127,7 @@ En cas de paiement via Paypal, le montant des achats sera automatiquement débit
 
 Paiement avec KLARNA
 
-Notre partenaire Klarna vous propose une solution de financement dénommée « Payer plus tard en 3 fois » qui permet de payer, sans frais, vos achats de 80€ à 3000€ en 3 fois avec votre carte bancaire. Nous vous invitons à prendre connaissance des conditions générales de la solution « Payer plus tard en 3 fois» de Klarna accessibles [**ici**](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/fr_fr/paylaterin3) , et dont l'acceptation sera nécessaire à toute souscription.
+Notre partenaire Klarna vous propose une solution de financement dénommée « Payer plus tard en 3 fois » qui permet de payer, sans frais, vos achats de 80€ à 3000€ en 3 fois avec votre carte bancaire. Attention ! Un crédit coûte de l’argent et doit être remboursé. Exemple : montant total du crédit 200 €, taux débiteur fixe et TAEG 0 %, sans frais. Nous vous invitons à prendre connaissance des conditions générales de la solution « Payer plus tard en 3 fois» de Klarna accessibles [**ici**](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/fr_fr/paylaterin3) , et dont l'acceptation sera nécessaire à toute souscription.
 
 Nous vous précisons que, aux termes des conditions générales de Klarna :
 
