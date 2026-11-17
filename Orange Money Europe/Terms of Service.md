@@ -1678,6 +1678,24 @@ conformément aux stipulations de l’article 24 ci-après.
 
 
 
+17.4. PROTECTION DES FONDS Conformément à la Réglementation applicable, et plus
+
+particulièrement en application du 1° de l’article L526-32 du Code Monétaire et Financier français, les
+
+fonds collectés en contrepartie de l'émission de monnaie électronique sont protégés, et ne sont en
+
+aucun cas confondus avec les fonds de personnes physiques ou morales autres que les détenteurs de
+
+monnaie électronique pour le compte desquels les fonds sont détenus : ils sont protégés, dans les
+
+conditions prévues à l'article L. 613-30-1 du code précité, contre tout recours d'autres créanciers de
+
+l'établissement de monnaie électronique, y compris en cas de procédures d'exécution ou de procédure
+
+d'insolvabilité ouverte à l'encontre de l’EME.
+
+
+
 Article 18 – Blocage du Service Orange Money Europe et refus de Transaction
 
 
@@ -1764,6 +1782,14 @@ afin de contester le refus de la Transaction et d’obtenir toutes les informati
 
 sauf si le fait de l’en informer compromettait des mesures de sécurité légitimes ou serait illégal.
 
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 16 novembre 2026
+
+
+
+15
+
 
 
 18.6 En cas de refus par l’EME d’une Transaction, les Conditions d’utilisation continueront à s’appliquer,
@@ -1787,16 +1813,6 @@ Article 19 – Suspension, résiliation et arrêt du Service Orange Money Europe
 Europe directement dans l’Application Orange Money Europe ou en adressant une lettre recommandée
 
 avec accusé de réception à l’adresse suivante : W-HA – SAV Orange Money Europe, Village de l'Arche
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 16 novembre 2026
-
-
-
-15
-
-
 
 6, 31 Place Ronde, 92800 PUTEAUX La Défense - FRANCE ou par la messagerie interne de
 
@@ -1894,6 +1910,16 @@ des sommes qui leur sont dues.
 
 être suspendus, et le cas échéant, résiliés de plein droit sans préavis conformément aux dispositions
 
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 16 novembre 2026
+
+
+
+16
+
+
+
 contractuelles négociées avec ledit partenaire, sans que l’Utilisateur ne puisse prétendre à une
 
 quelconque indemnité.
@@ -1911,14 +1937,6 @@ celui-ci est porté à la connaissance de l’EME par lettre recommandée avec a
 l’adresse suivante : W-HA – SAV Orange Money Europe, Village de l'Arche 6, 31 Place Ronde, 92800
 
 PUTEAUX La Défense - FRANCE accompagnée d’un certificat de décès.
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 16 novembre 2026
-
-
-
-16
 
 
 
@@ -2022,6 +2040,16 @@ l’Utilisateur ;
 
 - une copie recto verso lisible d’une pièce officielle d’identité en cours de validité de l’Utilisateur
 
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 16 novembre 2026
+
+
+
+17
+
+
+
 comportant sa photographie ;
 
 - une demande de résiliation du Service Orange Money Europe, si celle-ci n’a pas encore été
@@ -2041,16 +2069,6 @@ BIC/IBAN (relevé d’identité bancaire) d’un compte bancaire au nom de l’U
 celui-ci souhaite recevoir le versement devra être fourni par l’utilisateur. Ce virement ne pourra
 
 être effectué que vers un compte ouvert auprès d’un établissement de crédit situé dans la zone de
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 16 novembre 2026
-
-
-
-17
-
-
 
 paiement européenne. Toute demande de remboursement vers un autre compte sera refusée.
 
@@ -2148,6 +2166,16 @@ disponible sur son Compte Orange Money Europe dans les conditions prévues à l�
 
 présentes Conditions d’Utilisation sans qu’aucuns frais de remboursement ne puisse lui être facturé.
 
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 16 novembre 2026
+
+
+
+18
+
+
+
 Dans l’hypothèse où l’Utilisateur ne notifie pas au Service Clients Orange Money Europe son refus des
 
 nouvelles Conditions d’Utilisation dans le délai imparti de deux (2) mois, il sera réputé avoir accepté les
@@ -2167,14 +2195,6 @@ uniquement, depuis le Site https://orangemoney.fr/cgu/. En outre, l’Utilisateu
 moment et gratuitement une copie desdites Conditions d’utilisation en contactant le Service Clients
 
 Orange Money Europe.
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 16 novembre 2026
-
-
-
-18
 
 
 
@@ -2260,24 +2280,6 @@ samedi de 8h à 22h, au 0800 01 33 33 (appel non surtaxé– coût selon opérat
 
 métropolitaine).
 
-
-
-En cas de désaccord de l’Utilisateur avec la réponse ou la solution apportée par le Service Clients,
-
-l’Utilisateur adresse une réclamation au Service Réclamation de l’EME soit via le formulaire de
-
-réclamation disponible sur l’URL https://www.w-ha.com/reclamations/, soit par courrier postal adressé
-
-à l’adresse suivante : W-HA – Service Réclamation - Village de l’Arche 4 – 52 Place de l’Ellipse – 92984
-
-Paris La Défense.
-
-
-
-Le Service Réclamation s’engage à accuser réception de la réclamation dans les dix (10) jours ouvrés
-
-et à répondre à l’Utilisateur dans les deux (2) mois au plus tard après la réception de sa réclamation.
-
 Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
 Version du 16 novembre 2026
@@ -2285,6 +2287,34 @@ Version du 16 novembre 2026
 
 
 19
+
+
+
+En cas de désaccord de l’Utilisateur avec la réponse ou la solution apportée par le Service Clients, ou
+
+en cas de mécontentement, l’Utilisateur adresse une réclamation au Service Réclamation de l’EME soit
+
+via le formulaire de réclamation disponible sur l’URL https://www.w-ha.com/reclamations/, soit par
+
+courrier postal adressé à l’adresse suivante : W-HA – Service Réclamation - Village de l’Arche 4 – 52
+
+Place de l’Ellipse – 92984 Paris La Défense.
+
+
+
+Le Service Réclamation s’engage à accuser réception de la réclamation dans les dix (10) jours
+
+ouvrables (sauf si une réponse y a déjà été apportée dans ce délai) et à répondre à l’Utilisateur dans
+
+les deux (2) mois au plus tard à compter de la date de l’envoi de sa réclamation.
+
+
+
+Si la réclamation porte sur un Service de Paiement le délai de traitement est de 15 jours ouvrables
+
+suivant la réception de la réclamation, sauf situations exceptionnelles où la réponse sera apportée au
+
+plus tard dans les 35 jours ouvrables.
 
 
 
@@ -2366,6 +2396,16 @@ compétence des juridictions espagnoles compétentes.
 
 Allemagne, les présentes sont régies par la loi allemande. Tout litige survenant entre les Parties et relatif
 
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 16 novembre 2026
+
+
+
+20
+
+
+
 à la conclusion, l’interprétation, l’exécution et la résiliation des présentes devra être soumis à la
 
 compétence des juridictions allemandes compétentes.
@@ -2399,14 +2439,6 @@ Irlande, les présentes sont régies par la loi irlandaise. Tout litige survenan
 la conclusion, l’interprétation, l’exécution et la résiliation des présentes devra être soumis à la
 
 compétence des juridictions irlandaises compétentes.
-
-Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
-
-Version du 16 novembre 2026
-
-
-
-20
 
 
 
