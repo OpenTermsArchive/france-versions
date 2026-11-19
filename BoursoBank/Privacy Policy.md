@@ -12,7 +12,7 @@ des Clients de Boursorama
 
 
 
-Dernière mise à jour : avril 2026
+Dernière mise à jour : novembre 2026
 
 
 
@@ -202,9 +202,11 @@ etc.
 
 - Données sur votre vie professionnelle : votre employeur, votre catégorie socio professionnelle, votre statut d’emploi
 
-ou votre qualité si dirigeant, votre poste occupé, raison sociale / SIREN / objet social / code APE / adresse / forme
+ou votre qualité si dirigeant, votre poste occupé, raison sociale / SIREN / objet social / code APE / adresse / adresse
 
-juridique / bénéficiaires effectifs pour les Entrepreneurs Individuels (EI) ou les Personnes Morales (PM), etc.
+de facturation électronique / forme juridique / bénéficiaires effectifs pour les Entrepreneurs Individuels (EI) ou les
+
+Personnes Morales (PM), etc.
 
 - Données économiques et financières : vos revenus (ou chiffre d’affaires pour les EI ou PM), votre patrimoine (et sa
 
@@ -224,9 +226,11 @@ Siège social : 44 rue Traversière, CS 80134, 92772 Boulogne-Billancourt Cedex
 
 
 
-bancaires, les données relatives aux cartes de paiement y compris les enrôlements aux wallets, les catégorisations
+bancaires, les données relatives aux cartes de paiement y compris les enrôlements aux wallets, les QR Codes
 
-de vos dépenses et revenus, ainsi que celles issues de vos comptes externes si vous avez souscrit à Wicount 360, etc.
+d’émission ou de réception de demandes d’argent, les catégorisations de vos dépenses et revenus, ainsi que celles
+
+issues de vos comptes externes si vous avez souscrit à Wicount 360, etc.
 
 - Données relatives aux produits et aux services souscrits : type de services souscrits ou en cours de souscription, y
 
@@ -420,7 +424,9 @@ Nous utilisons vos Données pour nous acquitter de différentes obligations lég
 
 spécifique) et les clients Droit au compte, la gestion de la mobilité bancaire,
 
-• les obligations de déclaration auprès de la Banque de France (inscription et désinscription au FICP ou FCC),
+• les obligations de déclaration auprès de la Banque de France (inscription et désinscription au FICP ou FCC, inscription
+
+au Fichier National des comptes signalés pour risque de fraude (FNC-RF)),
 
 • les obligations de déclaration auprès de la DGFIP pour la tenue du fichier FICOBA (ouverture, modification et clôture
 
@@ -684,17 +690,11 @@ Enrôlement à votre initiative de votre carte bancaire dans un wallet Apple Pay
 
 d’Apple qui détermine la possibilité d’enrôler ou non votre carte bancaire sur votre téléphone mobile.
 
-Analyse de vos revenus pour un octroi de crédit consommation : Dans le cadre de la souscription d’un crédit
+Analyse de vos revenus pour un octroi de crédit consommation :, l’analyse de vos revenus et l’évaluation de votre
 
-consommation, l'analyse de vos revenus et l’évaluation de votre capacité de remboursement permettent une décision
+capacité de remboursement sont réalisées dans le cadre de l’octroi d’un crédit à la consommation. En cas de refus ou
 
-d'octroi ou un refus immédiat en ligne. En cas de refus ou d'abandon, votre demande de crédit est purgée conformément
-
-à la présente Politique. Néanmoins, votre niveau de revenus est mis à jour dans vos infos personnelles.
-
-Le score permettant la décision automatisée et immédiate est établi par FRANFINANCE (appartenant au Groupe Société
-
-Générale) en fonction des données que vous avez communiquées.
+d'abandon, votre demande de crédit est purgée conformément à la présente Politique.
 
 
 
@@ -756,15 +756,15 @@ externes sont conservées par BoursoBank uniquement pour la durée de fourniture
 
 pouvez mettre fin à tout moment.
 
+
+
+• Fourniture du service Virement SMS :
+
 8
 
 Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151
 
 Siège social : 44 rue Traversière, CS 80134, 92772 Boulogne-Billancourt Cedex
-
-
-
-• Fourniture du service Virement SMS :
 
 
 
@@ -866,17 +866,17 @@ financières, techniques et de connexion, marketing.). Aucune analyse n’est tr
 
 - Identifier les économies potentielles sur le/ les comptes BoursoBank sélectionnés par le Client.
 
-9
-
-Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151
-
-Siège social : 44 rue Traversière, CS 80134, 92772 Boulogne-Billancourt Cedex
-
 
 
 Si le Client est inscrit à The Corner et au service Wicount 360, l’analyse The Corner pourra inclure les comptes bancaires
 
 qu’il a intégré dans Wicount 360.
+
+9
+
+Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151
+
+Siège social : 44 rue Traversière, CS 80134, 92772 Boulogne-Billancourt Cedex
 
 
 
@@ -982,6 +982,12 @@ finalités concernées ;
 
 • Aux entreprises qui assurent ou garantissent vos crédits ;
 
+• A certaines professions réglementées telles que les huissiers, les notaires ou cabinets d’audits, les commissaires aux
+
+comptes, les avocats, afin de fournir des rapports réglementaires ou pour agir pour la constatation ou la défense de
+
+vos/nos droits ;
+
 10
 
 Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 – TVA FR 69 351 058 151
@@ -989,12 +995,6 @@ Boursorama, S.A au capital de 53.576.889,20 € – RCS Nanterre 351 058 151 –
 Siège social : 44 rue Traversière, CS 80134, 92772 Boulogne-Billancourt Cedex
 
 
-
-• A certaines professions réglementées telles que les huissiers, les notaires ou cabinets d’audits, les commissaires aux
-
-comptes, les avocats, afin de fournir des rapports réglementaires ou pour agir pour la constatation ou la défense de
-
-vos/nos droits ;
 
 • Si vous y consentez, aux initiateurs de paiement, aux prestataires de services d’information sur les comptes
 
