@@ -1478,10 +1478,10 @@ Si l’attribution aléatoire est sélectionnée, les enfants seront assis à c�
 
 Dans le cas peu probable où vous ne seriez pas en mesure de réserver des sièges ensemble sur le vol, vous pouvez sélectionner les sièges disponibles et en informer un membre de l’équipage avant l’embarquement, qui s’assurera que les enfants sont assis à côté d’un adulte de la réservation.
 
-REGULAR, PLUS, FAMILY PLUS, TIME SAVER & FLEXI PLUS
+REGULAR, PLUS, FAMILY PLUS & FLEXI PLUS
 
 
-=====================================================
+=========================================
 
 **Tarifs Regular**
 
@@ -1564,30 +1564,6 @@ Lorsque vous changez de vol, les services inclus dans le tarif Flexi Plus sont t
 Flexi Plus – Changements de nom
 
 Le règlement 13 s’applique toujours aux changements de nom et vous devrez payer les frais appropriés.
-
-**Time Saver**
-
-Les tarifs Time Saver sont uniquement disponibles lorsque vous effectuez votre propre réservation et ne peuvent pas être achetés par le biais de centres d’appel/à l’aéroport. Vous ne pouvez pas passer à l’option Time Saver ultérieurement.
-
-L’option Time Saver doit être réglée pour tous les passagers et vols de votre réservation.
-
-Tous les tarifs Time Saver sont non remboursables, à l’exception des cas pour lesquels l’une des clauses 4.2, 10.2, 10.3 ou 10.4 de nos conditions générales de transport s’applique.
-
-Les services suivants sont inclus dans les tarifs Time Saver :
-
-*   Un siège réservé à l’avant\*
-*   Priorité et 2 bagages cabine
-*   Service de sécurité Fast Track dans les aéroports indiqués ci-dessous
-
-\* Les sièges des rangées 1 à 5 sont sujets à disponibilité. Une fois ces sièges entièrement réservés, tous les autres sièges de l’avion seront proposés.
-
-Les tarifs Time Saver ne peuvent pas être réservés avec la réduction Erasmus.
-
-Les tarifs Time Saver ne sont pas disponibles sur les itinéraires intérieurs en Espagne.
-
-Aéroports avec le service Fast Track
-
-Aéroport international d’Aberdeen, aéroport international d’Athènes « Eleftherios Venizelos », Brindisi – Salento, aéroport international de Belfast, aéroport international de Milan Bergame (Orio al Serio), Birmingham, Bologne Guglielmo Marconi, Bournemouth, Bari Karol Wojtyła, Bruxelles, Budapest Ferenc Liszt International, Paris Beauvais-Tillé, Cologne Bonn, aéroport international de Rome Ciampino – G. B. Pastine, Copenhague (Kastrup), Bruxelles Sud Charleroi, Catane–Fontanarossa, Dublin, Édimbourg, Eindhoven, East Midlands, Faro, aéroport international de Rome–Fiumicino « Leonardo da Vinci », Francfort, Glasgow, Hambourg (Helmut Schmidt), Francfort-Hahn, Leeds Bradford, Londres Gatwick, Humberto Delgado (Lisbonne), Liverpool John Lennon, Manchester, aéroport international de Malte, Marseille Provence, Munich, Milan Malpensa, aéroport international de Naples, aéroport international de Newcastle, Weeze (Niederrhein), Stockholm Skavsta, Francisco Sá Carneiro (Porto), Oslo Gardermoen, Palerme (Falcone–Borsellino), Poznań–Ławica Henryk Wieniawski, Londres Stansted, Stuttgart, Turin (Turin-Caselle), Trévise (Tréviso-Sant’Angelo), Vilnius, Varsovie Modlin, Wrocław–Copernicus, César Manrique–Lanzarote, Malaga–Costa del Sol, Alicante–Elche Miguel Hernández, Amsterdam Schiphol, Barcelone-El Prat Josep Tarradellas, aéroport international Jean-Paul II de Cracovie (Cracovie-Balice), Grande Canarie, Palma de Majorque, Thessalonique « Makedonia », Tenerife Sud (Reina Sofía), et Valence.
 
 TRANSPORT DES PERSONNES HANDICAPÉES ET DES PERSONNES À MOBILITÉ RÉDUITE
 
