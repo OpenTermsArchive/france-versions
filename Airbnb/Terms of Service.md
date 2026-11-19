@@ -1531,7 +1531,7 @@ Concernant les réservations payées dans une autre devise que celle fixée par 
 
 Dans ce cas, la totalité des frais est déduite du versement de l'hôte. Pour la plupart des hôtes, les frais s'élèvent à 15,5 %. En général, les autres hôtes paient entre 14 et 16 %, mais ceux qui ont une annonce au Brésil ou au Mexique paient 16 %.
 
-Cette structure tarifaire est obligatoire pour la plupart des hôtes, y compris pour les établissements d'accueil traditionnels (tels que les hôtels, les appart'hôtels et autres), les [hôtes qui utilisent un logiciel de gestion locative](https://www.airbnb.fr/help/article/2346/) et ceux qui exercent leur activité dans un pays qui applique cette tarification.  
+Cette structure tarifaire est obligatoire pour la plupart des hôtes, y compris pour les établissements d'accueil traditionnels (tels que les hôtels, les appart'hôtels et autres), les [hôtes qui utilisent un logiciel de gestion de logements](https://www.airbnb.fr/help/topic/1493) et ceux qui exercent leur activité dans un pays qui applique cette tarification.  
 
 TVA
 ---
