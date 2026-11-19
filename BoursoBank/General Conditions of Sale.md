@@ -4,7 +4,7 @@
 
 Conditions Générales
 
-Applicables au 15/04/2026
+Applicables au 18/11/2026
 
 
 
@@ -124,7 +124,7 @@ CHAPITRE 2 : LES INSTRUMENTS DE PAIEMENT .......................................
 
 CHAPITRE 3 : L’OFFRE BOURSOPRIME – NON COMMERCIALISEE DEPUIS LE 06/03/2025 ............................................... 27
 
-CHAPITRE 4 : LE DÉCOUVERT AUTORISÉ................................................................................................................ 28
+CHAPITRE 4 : LE DÉCOUVERT AUTORISÉ........................................................................................................ 28
 
 CHAPITRE 5 : LIVRET A ........................................................................................................................................... 28
 
@@ -144,11 +144,11 @@ CHAPITRE 12 : LE COMPTE A TERME.................................................
 
 TITRE III – BOURSOFIRST : L’OFFRE BANQUE PRIVEE ................................................................ 40
 
-CHAPITRE 1 : L’ADHESION BOURSOFIRST.............................................................................................................. 40
+CHAPITRE 1 : L’ADHESION BOURSOFIRST...................................................................................................... 40
 
 CHAPITRE 2 : LE COMPTE A TERME BOURSOFIRST ................................................................................................ 41
 
-CHAPITRE 3 : LE LIVRET BOURSOFIRST........................................................................................................... 41
+CHAPITRE 3 : LE LIVRET BOURSOFIRST................................................................................................................... 41
 
 CHAPITRE 4: LES PRODUITS STRUCTURES SUR MESURE........................................................................................ 42
 
@@ -164,13 +164,11 @@ CHAPITRE 1 : LE COMPTE BUSINESS ................................................
 
 CHAPITRE 2 : LES INSTRUMENTS DE PAIEMENT .................................................................................................... 47
 
-CHAPITRE 3 : LE DÉCOUVERT AUTORISÉ................................................................................................................ 56
+CHAPITRE 3 : COMPTE A TERME BUSINESS ........................................................................................................... 56
 
-CHAPITRE 4 : COMPTE A TERME BUSINESS ........................................................................................................... 57
+CHAPITRE 4 : COMPTE SUR LIVRET PRO................................................................................................................. 57
 
-CHAPITRE 5 : COMPTE SUR LIVRET PRO................................................................................................................. 57
-
-CHAPITRE 6 : COMPTE TITRES BUSINESS ....................................................................................................... 58
+CHAPITRE 5 : COMPTE TITRES BUSINESS ............................................................................................................... 57
 
 TITRE V – LA BOURSE ET L’ÉPARGNE............................................................................................ 59
 
@@ -204,17 +202,23 @@ ANNEXE IV : CONDITIONS GÉNÉRALES D'UTILISATION DE LA CARTE BANCAIRE
 
 BOURSOBANK VIA LE SERVICE GOOGLE PAY ........................................................................... 104
 
-5
-
-
-
 ANNEXE V : CONDITIONS GÉNÉRALES D'UTILISATION DE LA CARTE BANCAIRE
 
 BOURSOBANK VIA LE SERVICE GARMIN PAY............................................................................. 110
 
-ANNEXE VII : ARTICLES L.221-30 ET S. DU CODE MONETAIRES ET FINANCIERS RELATIFS
+5
 
-AU PLAN D'ÉPARGNE EN ACTIONS ............................................................................................... 116
+
+
+ANNEXE VI : CONDITIONS GENERALES D’UTILISATION DU LA CARTE BANCAIRE VIA LE
+
+SERVICE CLICK TO PAY .................................................................................................................. 116
+
+ANNEXE VII : CONDITIONS GENERALES D’UTILISATION DU SERVICE WERO................. 118
+
+ANNEXE VIII ARTICLES L.221-30 ET S. DU CODE MONETAIRES ET FINANCIERS RELATIFS AU
+
+PLAN D'ÉPARGNE EN ACTIONS ..................................................................................................... 121
 
 6
 
@@ -816,6 +820,28 @@ ainsi que les services d’assistance via le « chatbot ».
 
 
 
+Parmi les Fonctionnalités Intrinsèques figurent
+
+également les dispositifs permettant au Client de connaître
+
+son éligibilité à certains produits de crédits et de visualiser
+
+une estimation de sa capacité d'emprunt. A cet effet,
+
+BOURSORAMA analyse vos données afin d’évaluer votre
+
+solvabilité et d’afficher votre capacité d’emprunt. Cette
+
+analyse est réalisée de manière automatisée. Les
+
+conditions de mise en œuvre de ces traitements sont
+
+décrites au sein de la Politique de protection des données
+
+personnelles.
+
+
+
 Les Fonctionnalités Accessoires n’ont pas de lien direct
 
 avec les services souscrits par le Client ou régis par les
@@ -1086,6 +1112,10 @@ de l’article 1365 du Code civil. Cette double saisie permet
 
 l’identification du Client et prouve le consentement de ce
 
+9
+
+
+
 dernier aux opérations effectuées (virement, souscription,
 
 prélèvement, ordre de bourse...) et l'imputation de ces
@@ -1111,10 +1141,6 @@ service supplémentaire proposé par BOURSORAMA.
 BOURSORAMA a mis en place différents systèmes
 
 d’authentification renforcée pour la réalisation d’opérations
-
-9
-
-
 
 dites sensibles (exemples non exhaustifs : commande de
 
@@ -1390,6 +1416,8 @@ Article 5 : Spécificités de certains comptes
 
 avec solidarité active et passive ouvert par deux personnes.
 
+10
+
 
 
 Chaque co-Titulaire peut faire fonctionner le compte sans le
@@ -1413,8 +1441,6 @@ Les co-Titulaires sont tenus solidairement entre eux à
 l’exécution de tous engagements pris par l’un d’eux, et au
 
 remboursement de toutes sommes dues à BOURSORAMA.
-
-10
 
 
 
@@ -1544,6 +1570,8 @@ Titulaires du compte.
 
 existe plusieurs mesures de protection des majeurs,
 
+
+
 chacune ayant ses spécificités de fonctionnement.
 
 L’ouverture effective d’un compte à un majeur protégé fait
@@ -1567,8 +1595,6 @@ En cas de pluralité de représentants légaux, l’ouverture d’un
 tel compte peut être sollicitée par un seul représentant légal
 
 s’il s’agit du premier compte du mineur.
-
-
 
 Le mineur peut se voir attribuer une carte de paiement à la
 
@@ -1696,6 +1722,10 @@ service d’information sur les comptes. BOURSORAMA
 
 invite cependant le Client à s’assurer que lesdits
 
+11
+
+
+
 prestataires se conforment à l’ensemble de la
 
 réglementation applicable. BOURSORAMA ne saurait être
@@ -1721,8 +1751,6 @@ accès, sur demande du prestataire de service de paiement,
 opérations initiées par un prestataire de service de
 
 paiement à partir de l'ensemble des comptes Client.
-
-11
 
 
 
@@ -1876,8 +1904,6 @@ comptes ouverts dans ses livres au nom du Client. Dans le
 
 délai de quinze (15) jours ouvrables qui suit la saisie-
 
-
-
 attribution ou la saisie conservatoire, ce solde peut être
 
 affecté (positivement ou négativement) par les opérations
@@ -2000,6 +2026,10 @@ Espace Client, ou par lettre simple ou par lettre
 
 recommandée à l’attention de Service Clientèle
 
+12
+
+
+
 BOURSORAMA, 44, rue Traversière – CS 80134,
 
 Boulogne-Billancourt Cedex (92772).
@@ -2027,10 +2057,6 @@ Site, soit par courriel, soit par tout autre moyen. En cas de
 modification portant sur les produits ou services visés aux
 
 Titres II, III et IV, seuls les Clients détenteurs du produit ou
-
-12
-
-
 
 service modifié seront informés de la ou des modification(s)
 
@@ -2178,8 +2204,6 @@ Les sommes détenues pour le compte du Client décédé
 
 seront sous réserve des opérations en cours, bloquées par
 
-
-
 BOURSORAMA dès l’annonce du décès, puis libérées
 
 selon les termes du règlement de la succession.
@@ -2306,6 +2330,10 @@ ou une prestation de service serait dans l’obligation de
 
 contacter son client afin de l’informer d’un risque
 
+13
+
+
+
 encouru (blessures, intoxication, décès...). Les données
 
 communiquées par BOURSORAMA seront les données
@@ -2331,8 +2359,6 @@ en fait la demande les informations à sa disposition pouvant
 documenter un recours en justice du payeur en vue de
 
 récupérer les fonds.
-
-13
 
 
 
@@ -2460,6 +2486,8 @@ externes à BOURSORAMA, "lock-out", blocage des
 
 moyens de transport ou d'approvisionnement, pour quelque
 
+
+
 raison que ce soit, tremblement de terre, incendie, tempête,
 
 inondation, dégâts des eaux, restrictions gouvernementales
@@ -2481,8 +2509,6 @@ Le Client peut adresser ses demandes d'information sur son
 (ses) compte(s) au Service Clientèle de BOURSORAMA via
 
 son Espace Client ou par courrier.
-
-
 
 Le Client dispose depuis son espace sécurisé d’un outil
 
@@ -2614,6 +2640,8 @@ Le Service Clientèle est le premier interlocuteur auquel le
 
 Client peut faire part de ses difficultés.
 
+14
+
 
 
 Si le Client est en désaccord avec la réponse ou la
@@ -2635,10 +2663,6 @@ Le Service Clientèle et le Service Réclamations de
 BOURSORAMA s’engagent à accuser réception de la
 
 réclamation sous 10 jours ouvrables (sauf si une
-
-14
-
-
 
 réponse y a déjà été apportée dans ce délai) et à lui
 
@@ -3780,9 +3804,9 @@ de formules non délivrées par elle.
 
 
 
-Article 2 : Caractéristiques et modes de délivrance des
+Article 2 : Caractéristiques et modes de délivrance
 
-chéquiers
+des chéquiers
 
 
 
@@ -3796,9 +3820,7 @@ Le Client demande le renouvellement de son chéquier via
 
 son Espace Client. Les chéquiers lui seront adressés à son
 
-domicile, sous pli simple ou recommandé selon sa
-
-demande.
+domicile, par courrier suivi.
 
 
 
@@ -4208,17 +4230,7 @@ consentement du Client est alors donné selon les modalités
 
 décrites à l’article 3 du Titre I des présentes Conditions
 
-Générales. Dans le cadre de sa lutte contre la fraude,
-
-Boursorama se réserve la possibilité de limiter l’exécution
-
-d’un virement en ligne lorsque ce virement porte sur le
-
-montant de chèque(s) remis à l’encaissement depuis moins
-
-de 12 jours. Le Client devra alors contacter le Service
-
-Clientèle pour effectuer le virement.
+Générales.
 
 
 
@@ -4247,6 +4259,14 @@ date à laquelle le virement doit être exécuté. Pour les
 virements permanents, le Client doit indiquer la périodicité
 
 des ordres de paiement.
+
+
+
+Le Client peut aussi effectuer un virement via le Service
+
+WERO conformément aux conditions décrites à l’ANNEXE
+
+VII des présentes Conditions Générales.
 
 
 
@@ -4318,13 +4338,13 @@ Conformément à la règlementation BOURSORAMA
 
 compare « le nom du bénéficiaire fourni par le payeur avec
 
-20
-
-
-
 le nom associé à l’Identifiant Unique » (IBAN). Cette
 
 vérification peut aboutir aux résultats suivants :
+
+20
+
+
 
 a) Concordance
 
@@ -4472,6 +4492,8 @@ De même tout ordre de paiement réalisé sur le Site de
 
 BOURSORAMA après une heure limite est réputé avoir été
 
+
+
 reçu le jour ouvrable suivant. Les précisions sur ces
 
 horaires sont disponibles sur le site de BOURSORAMA.
@@ -4616,13 +4638,13 @@ domicilié dans un établissement situé en France pour être
 
 éligible à ce service. Si le bénéficiaire n’est pas Client, il
 
-21
-
-
-
 reçoit par SMS un lien électronique dont la durée de validité
 
 est indiquée sur le SMS et sur le Site, lui permettant, s’il
+
+21
+
+
 
 accepte le virement, d’indiquer ses coordonnées bancaires
 
@@ -4772,9 +4794,9 @@ initiée par un Prestataire de Services de Paiement
 
 fournissant un service d’initiation de paiement, le Client
 
-
-
 s’engage à fournir à BOURSORAMA toutes les
+
+
 
 informations nécessaires au remboursement des
 
@@ -4926,11 +4948,11 @@ retourne à son créancier. Le créancier se charge de vérifier
 
 les données du mandat et de les transmettre à
 
+BOURSORAMA pour paiement. Dans le cadre du
+
 22
 
 
-
-BOURSORAMA pour paiement. Dans le cadre du
 
 prélèvement européen, il n’est donc plus nécessaire de
 
@@ -5074,8 +5096,6 @@ autorisés ou mal exécutés
 
 prélèvement qu’il n’a pas autorisé ou une erreur dans
 
-
-
 l’exécution de l’opération, il doit le signaler sans délai à
 
 BOURSORAMA.
@@ -5216,13 +5236,11 @@ Les assurances éventuellement incluses sont précisées
 
 dans la Brochure Tarifaire, et sur l’Espace Client du
 
-23
-
-
-
 Titulaire. Les conditions sont détaillées dans les Notices
 
 d’Assurance disponibles sur le Site.
+
+23
 
 
 
@@ -5278,19 +5296,17 @@ nouvelle souscription.
 
 La Carte dématérialisée offre les mêmes fonctionnalités
 
-que la Carte physique (hors retraits dans les DAB/GAB) et
-
-ne peut donc être utilisée que pour effectuer des paiements
-
-à distance ou avec une solution de paiement mobile.
+que la Carte physique.
 
 
 
 L’utilisation de la Carte dématérialisée pour réaliser des
 
-paiements à distance nécessite l’Application mobile, sur
+paiements à distance ou des retraits sans contact dans les
 
-laquelle le Titulaire peut consulter les numéros de sa Carte.
+DAB/GAB nécessite l’Application mobile, sur laquelle le
+
+Titulaire peut consulter les numéros de sa Carte.
 
 
 
@@ -5372,13 +5388,13 @@ Avant d’initier une opération au débit du Compte attaché à
 
 sa Carte, le Titulaire doit s’assurer de l’existence de la
 
-
-
 provision nécessaire sur ledit Compte. Il s’engage à
 
 maintenir un solde suffisant et disponible jusqu’à ce que le
 
 montant de l’opération lui soit débité. Lorsque l’Emetteur
+
+
 
 juge que l’utilisation de la Carte par son Titulaire est
 
@@ -5388,11 +5404,11 @@ Carte, jusqu’à la régularisation du solde débiteur constaté.
 
 
 
-3.1. Utilisation de la Carte physique pour le retrait d’espèces
+3.1. Utilisation de la Carte pour le retrait d’espèces dans les
 
-dans les DAB/GAB et pour le règlement d’achats de biens
+DAB/GAB et pour le règlement d’achats de biens ou de
 
-ou de prestations de services
+prestations de services
 
 
 
@@ -5438,27 +5454,27 @@ initial.
 
 
 
-3.1.2 Les Cartes physiques délivrées par l’Emetteur
+3.1.2 Les Cartes délivrées par l’Emetteur disposent de la
 
-disposent de la technologie « sans contact » et permettent
+technologie « sans contact » et permettent au Titulaire de
 
-au Titulaire de réaliser ses paiements sans saisie du code
+réaliser ses paiements sans saisie du code confidentiel.
 
-confidentiel. Toutefois, à des fins de sécurité, le montant
+Toutefois, à des fins de sécurité, le montant unitaire
 
-unitaire maximum de chaque opération de paiement
+maximum de chaque opération de paiement réalisée avec
 
-réalisée avec la fonction « sans contact » est limité et le
+la fonction « sans contact » est limité et le montant cumulé
 
-montant cumulé maximum des règlements successifs
+maximum des règlements successifs réalisés avec la
 
-réalisés avec la fonction « sans contact » est aussi limité.
+fonction « sans contact » est aussi limité. Au-delà de ces
 
-Au-delà de ces limites une opération de paiement avec
+limites une opération de paiement avec saisie du code
 
-saisie du code confidentiel sera requise du Titulaire avant
+confidentiel sera requise du Titulaire avant de pouvoir
 
-de pouvoir réutiliser la fonction « sans contact ».
+réutiliser la fonction « sans contact ».
 
 La fonctionnalité sans contact est activée par défaut à
 
@@ -5522,8 +5538,6 @@ international Visa, que le Titulaire pourra consulter sur le
 
 site internet du réseau VISA.
 
-24
-
 
 
 Le relevé du Compte attaché à la Carte fera également
@@ -5531,6 +5545,8 @@ Le relevé du Compte attaché à la Carte fera également
 figurer le montant de l’opération convertie en Euros, ainsi
 
 que le montant des commissions éventuellement facturées.
+
+24
 
 
 
@@ -5676,9 +5692,9 @@ la transaction sera refusée.
 
 
 
-Article 5 : Forme du consentement aux opérations par
+Article 5 : Forme du consentement aux opérations
 
-Carte et Irrévocabilité
+par Carte et Irrévocabilité
 
 
 
@@ -5694,9 +5710,9 @@ TPE portant la marque du réseau international
 
 VISA ;
 
-- Présentation de la Carte sur un TPE utilisant la
+- Présentation de la Carte sur un DAB/GAB ou TPE
 
-fonction « sans contact » ;
+utilisant la fonction « sans contact » ;
 
 - Signature manuscrite apposée sur une facture
 
@@ -5718,7 +5734,15 @@ portefeuille électronique par l’authentification
 
 biométrique, telle que décrite en ANNEXE des
 
-présentes Conditions Générales.
+présentes Conditions Générales :
+
+- Validation des paiements réalisés en ligne sans
+
+saisie des numéros de la Carte via l’utilisation du
+
+service Click to Pay, tel que décrit en ANNEXE VI
+
+des présentes Conditions Générales.
 
 
 
@@ -5808,6 +5832,8 @@ de sa notification, dont le dénouement peut toutefois
 
 intervenir à une date ultérieure.
 
+25
+
 
 
 Article 7 : Responsabilité du Titulaire de la Carte
@@ -5827,10 +5853,6 @@ En cas d'opération de paiement non autorisée consécutive
 à la perte ou au vol de sa Carte, le Titulaire supporte, tant
 
 qu’il n’a pas informé l’Emetteur de la perte ou du vol de sa
-
-25
-
-
 
 Carte, les pertes liées à l'utilisation de cet instrument, dans
 
@@ -5982,8 +6004,6 @@ Si la Carte a été opposée pour les motifs de vol, d’utilisation
 
 frauduleuse ou de détournement des données liées à son
 
-
-
 utilisation, BOURSORAMA peut demander à son Client une
 
 copie du dépôt de plainte.
@@ -6118,6 +6138,10 @@ l’Espace Client, par le Titulaire de la Carte ou du Compte
 
 concerné, ou par BOURSORAMA. La résiliation par le
 
+26
+
+
+
 Titulaire de la Carte prend effet immédiatement, sauf
 
 dénouement des opérations en cours. La résiliation sera
@@ -6135,10 +6159,6 @@ après la date d’envoi de sa notification au Titulaire de la
 Carte. Cette résiliation à l'initiative de BOURSORAMA
 
 pourra notamment intervenir en cas de non-utilisation de la
-
-26
-
-
 
 Carte par le Titulaire pendant une durée de 6 mois, et ce
 
@@ -6274,6 +6294,8 @@ décision de retrait.
 
 L’inscription est effacée dans les cas suivants :
 
+
+
 - lorsque l’inscription résulte d’une erreur de
 
 BOURSORAMA ;
@@ -6291,8 +6313,6 @@ imputable ;
 démontre(nt) avoir intégralement régularisé la
 
 situation et demande(nt) leur radiation.
-
-
 
 Le(s) Titulaire(s) du Compte sur lequel fonctionne la Carte
 
@@ -6426,6 +6446,10 @@ vigueur. L'absence de contestation notifiée à
 
 BOURSORAMA par le Titulaire du Compte et/ou de la carte
 
+27
+
+
+
 avant l’expiration du délai précité vaut acceptation de ces
 
 modifications.
@@ -6443,8 +6467,6 @@ Les modifications du Contrat Porteur imposées par la loi ou
 la réglementation sont applicables de plein droit sans
 
 préavis.
-
-27
 
 
 
@@ -6592,8 +6614,6 @@ d’un solde disponible sur le compte de dépôt attaché à
 
 l’Offre METAL. Le fonctionnement des virements est décrit
 
-
-
 au sein du chapitre relatif aux instruments de paiement, « B.
 
 LES VIREMENTS ».
@@ -6724,6 +6744,8 @@ mois (hors taux bonifié du Livret Bourso+).
 
 L’offre Boursoprime est constituée des avantages suivants :
 
+28
+
 
 
 - Accès privilégié au service client : les appels des
@@ -6743,10 +6765,6 @@ certaine limite, à un pourcentage de cashback
 (remboursement) ; cette limite mensuelle est
 
 indiquée dans la Brochure Tarifaire. Si une
-
-28
-
-
 
 opération de paiement par carte bancaire fait
 
@@ -6880,6 +6898,8 @@ l’offre Boursoprime sera résiliée automatiquement et
 
 immédiatement le jour de la clôture effective du Compte de
 
+
+
 rattachement et le Client ne percevra aucun avantage pour
 
 le mois en cours.
@@ -6887,6 +6907,32 @@ le mois en cours.
 
 
 CHAPITRE 4 : LE DÉCOUVERT AUTORISÉ
+
+
+
+Le découvert autorisé régi par le présent chapitre
+
+n’est plus commercialisé à compter du 18 novembre
+
+2026.
+
+
+
+Les présentes dispositions demeurent applicables aux
+
+découverts autorisés souscrits avant cette date.
+
+
+
+Toute modification d’un découvert autorisé souscrits
+
+avant le 18 novembre 2026 entraîne sa résiliation et
+
+nécessite la souscription d’un nouveau contrat de
+
+découvert autorisé conformément aux dispositions du
+
+Code de la consommation.
 
 
 
@@ -6994,6 +7040,10 @@ en cours d’année.
 
 Ce compte est sans frais et les intérêts versés sont
 
+29
+
+
+
 exonérés d'impôt sur le revenu et de prélèvements sociaux.
 
 
@@ -7033,10 +7083,6 @@ Article 2 : Ouverture du Livret A
 un Titulaire personne physique, détenteur d’un Compte
 
 Bancaire. Pour l’ouverture d’un Livret A sans détention d’un
-
-29
-
-
 
 Compte Bancaire, il est nécessaire de suivre les instructions
 
@@ -7186,8 +7232,6 @@ reprenant les opérations passées au débit et au crédit du
 
 livret au cours du mois écoulé sera accessible dans
 
-
-
 l’Espace Client.
 
 Sur demande expresse du Client, BOURSORAMA,
@@ -7298,6 +7342,10 @@ par contribuable et un pour le conjoint ou le partenaire lié
 
 par un pacte civil de solidarité de celui-ci. Un Livret
 
+30
+
+
+
 d’Épargne Populaire ne peut donc être ouvert qu’aux
 
 personnes physiques qui ne sont pas déjà titulaires d’un
@@ -7335,10 +7383,6 @@ rechercher auprès de la Direction générale des finances
 publiques (DGFIP) l’information selon laquelle les
 
 conditions d’éligibilité au Livret d’Epargne Populaire sont
-
-30
-
-
 
 respectées. Elle utilise à cette fin les API « R2P » et «
 
@@ -7454,6 +7498,8 @@ si la réponse de l’administration fiscale à la date de la
 
 demande adressée par voie électronique ne permet pas de
 
+
+
 valider que les conditions de revenus sont respectées. Le
 
 Client est informé par la Banque que toute évolution de sa
@@ -7491,8 +7537,6 @@ la Banque ne saurait être engagée au titre de la clôture
 réalisée. Si lors d’une demande annuelle adressée par voie
 
 électronique, l'administration fiscale n'est pas en mesure de
-
-
 
 fournir à la Banque la justification de l’éligibilité, le Client
 
@@ -7604,6 +7648,8 @@ Tarifaire.
 
 Article 5 : Information du Titulaire
 
+31
+
 
 
 En cas de mouvements enregistrés sur le Livret d’Epargne
@@ -7643,8 +7689,6 @@ Livret d’Epargne populaire en cours d’année, les intérêts
 courus sur la période depuis le début de l’année sont
 
 crédités au jour de la clôture.
-
-31
 
 
 
@@ -7755,6 +7799,8 @@ contribuable, personne physique, ayant son domicile fiscal
 en France. Il ne peut être ouvert qu'un livret par contribuable
 
 ou un livret pour chacun des époux ou partenaires liés par
+
+
 
 un pacte civil de solidarité, soumis à une imposition
 
@@ -7894,6 +7940,8 @@ L’ouverture d’un Compte sur Livret est exclusivement
 
 réservée aux Titulaires d’un Compte individuel ou joint.
 
+32
+
 
 
 Article 1 : Modalités de fonctionnement
@@ -7929,10 +7977,6 @@ Livret, un relevé reprenant les opérations passées au débit
 et au crédit du compte au cours du mois écoulé sera
 
 accessible sur l’Espace Client. Sur demande expresse du
-
-32
-
-
 
 Client, BOURSORAMA, moyennant facturation, lui
 
@@ -8048,7 +8092,9 @@ mineurs des Clients, et qui pourra être conservé jusqu’à la
 
 Titulaire, ce compte sera clôturé et les fonds transférés sur
 
-un Compte sur Livret (tel que décrit au « A » ci-dessus),
+
+
+un Livret Bourso+ (tel que décrit au chapitre 9 ci-dessus),
 
 sauf demande spécifique du Titulaire.
 
@@ -8200,6 +8246,10 @@ imposables au Prélèvement Forfaitaire Unique sauf si
 
 option du Titulaire pour le barème progressif de l’impôt sur
 
+33
+
+
+
 les revenus du capital au moment de la déclaration de
 
 revenu. Les intérêts acquis sont soumis :
@@ -8233,8 +8283,6 @@ l’année suivant celle au cours de laquelle elle
 est faite.
 
 - Aux prélèvements sociaux à la source
-
-33
 
 
 
@@ -8350,6 +8398,8 @@ Les sommes versées portent intérêt à partir du premier jour
 
 de la quinzaine suivant le versement et les sommes retirées
 
+
+
 cessent de porter intérêt à partir de la quinzaine précédant
 
 le retrait.
@@ -8385,8 +8435,6 @@ revenu. Les intérêts acquis sont soumis :
 - A l’impôt sur le revenu à la source avec
 
 prélèvement à la source d’un acompte
-
-
 
 forfaitaire. Cet acompte ouvre droit à un crédit
 
@@ -8486,6 +8534,8 @@ Client. Sur demande expresse du Client, ces relevés sont
 
 envoyés gratuitement par voie postale.
 
+34
+
 
 
 Article 2 : Les versements
@@ -8533,10 +8583,6 @@ D’autre part, le Client peut majorer un ou plusieurs
 versements et effectuer des versements exceptionnels
 
 sans toutefois pouvoir dépasser le plafond des dépôts. Si
-
-34
-
-
 
 l’évolution des ressources du souscripteur conduisait à
 
@@ -8643,6 +8689,8 @@ ans maximum). Pendant cette période les sommes inscrites
 au compte du souscripteur restent rémunérées au taux
 
 contractuel (jusqu’au retrait des fonds) et le souscripteur
+
+
 
 peut exercer les droits à prêts acquis. Le retrait des fonds
 
@@ -8770,6 +8818,8 @@ fixé à la souscription, droits au prêt et prime d’épargne le
 
 cas échéant).
 
+
+
 • En cas de résiliation intervenant moins de deux (2) ans
 
 après la date du versement initial, les intérêts versés au
@@ -8793,6 +8843,10 @@ charge de BOURSORAMA (prime d’épargne exclue le cas
 \* Si la résiliation intervient entre trois (3) et quatre (4) ans,
 
 le Client conserve le bénéfice des avantages attachés à son
+
+35
+
+
 
 contrat pour la période de trois (3) ans, notamment en ce
 
@@ -8831,8 +8885,6 @@ Code de la Construction et de l’Habitation.
 Article 7 : Retrait des fonds, conditions d’octroi et de
 
 calcul des prêts
-
-35
 
 
 
@@ -8947,6 +8999,8 @@ le prêt souhaité, il peut utiliser les intérêts acquis par les
 membres de sa famille, dans les conditions, prévues à
 
 l’article R. 315-35 du Code de la Construction et de
+
+
 
 l’Habitation. Il a, en outre, la possibilité d’obtenir, pour la
 
@@ -9094,6 +9148,10 @@ libres, sous réserve de respecter un montant minimum par
 
 versement de 75 euros. Le montant maximal des sommes
 
+36
+
+
+
 qui peuvent être déposées sur un CEL est fixé à 15 300
 
 euros. Ce maximum ne peut être dépassé que par la
@@ -9131,8 +9189,6 @@ l’Espace Client. Sur demande expresse du Client, les
 relevés mensuels du CEL sont adressées gratuitement par
 
 voie postale.
-
-36
 
 
 
@@ -9246,6 +9302,8 @@ la réglementation en vigueur, d’une cession de droits.
 
 CEL, les héritiers ou légataires peuvent, en application de
 
+
+
 l’article R. 315-15 du Code de la Construction et de
 
 l’Habitation, obtenir une attestation d’intérêts acquis. Le
@@ -9283,8 +9341,6 @@ a pour conséquence de s'appliquer globalement à
 l'ensemble des bénéficiaires. Il y a donc lieu, le cas échéant,
 
 de limiter le montant de la prime au prorata du montant des
-
-
 
 droits utilisés pour leur demande de prêt pour chacun des
 
@@ -9398,6 +9454,8 @@ conformité avec les dispositions des articles L. 212-1 et
 
 suivants du Code de la construction et de l’habitation ;
 
+37
+
 
 
 • le lot attribué à l’emprunteur dans l’état des descriptifs de
@@ -9437,10 +9495,6 @@ logement les groupes fonciers agricoles.
 Pour les logements ayant une autre destination que
 
 l'habitation principale, le financement peut couvrir les
-
-37
-
-
 
 mêmes dépenses, à l'exception de l'achat de construction
 
@@ -9554,6 +9608,8 @@ la valeur du terrain ne peut être prise en considération qu'à
 
 concurrence du coût de la construction.
 
+
+
 Lorsque l'habitation a une autre destination que la
 
 résidence principale, le bénéficiaire du prêt doit, sauf dans
@@ -9591,8 +9647,6 @@ applicables au CEL de l'emprunteur, dont les
 caractéristiques sont déterminées par la réglementation. La
 
 durée du prêt ne peut être inférieure à deux ans ni
-
-
 
 supérieure à quinze ans. Le montant du prêt découle de la
 
@@ -9704,6 +9758,10 @@ est tenu de consentir le prêt dès lors que toutes les
 
 conditions d'attribution en sont réunies.
 
+38
+
+
+
 Les emprunteurs sont tenus d'utiliser l'intégralité de leurs
 
 droits propres dès lors qu'ils entendent bénéficier en
@@ -9741,10 +9799,6 @@ d’achèvement des travaux s’il s’agit :
 
 
 • d’un logement vendu en l’état futur d’achèvement,
-
-38
-
-
 
 • de la construction d’une maison individuelle dont
 
@@ -10006,6 +10060,8 @@ Article 3 : Modalités de fonctionnement
 
 3.1 Durée
 
+39
+
 
 
 La durée du Compte à Terme est déterminée au jour de la
@@ -10039,10 +10095,6 @@ Aucun retrait anticipé ne peut avoir lieu avant l’échéance
 fixée. Toute clôture sollicitée avant le terme prévu au jour
 
 de la souscription empêche toute production d'intérêts.
-
-39
-
-
 
 3.3 Clôture
 
@@ -10280,8 +10332,6 @@ demande : restitution pédagogique des
 
 données communiquées par le Client
 
-
-
 BoursoFirst sur son patrimoine et ses
 
 revenus.
@@ -10426,19 +10476,33 @@ site www.boursobank.com.
 
 direct, éligibles au compte titres ordinaires,
 
-réservés aux adhérents à l’offre
+réservés aux adhérents à l’offre BoursoFirst
+
+et accessibles à partir d’un montant
+
+minimum mentionné dans la Brochure
 
 41
 
 
 
-BoursoFisrst et accessibles à partir d’un
-
-montant minimum mentionné dans la
-
-Brochure Tarifaire disponible sur le site
+Tarifaire disponible sur le site
 
 www.boursobank.com.
+
+
+
+Un tarif spécifique, sur demande, pour
+
+les frais de gestion pour les contrats
+
+BoursoVie, ouverts depuis le 12/12/2024 et
+
+disposant d’un encours minimum mentionné
+
+dans la dans la Brochure Tarifaire disponible
+
+sur le site www.boursobank.com.
 
 
 
@@ -10452,7 +10516,13 @@ consultable dans la Brochure Tarifaire
 
 disponible sur le site
 
-www.boursobank.com.
+www.boursobank.com. Lorsque le tarif
+
+spécifique n’est plus actif, le(s) compte(s)
+
+concernés basculent par défaut sur le tarif
+
+Découverte.
 
 
 
@@ -10508,25 +10578,25 @@ après le « Compte de rattachement »).
 
 
 
-La cotisation sera prélevée le 1er jour ouvré de chaque mois
+La cotisation sera prélevée le 3èmejour ouvré de chaque
 
-sur le Compte de rattachement. A cet effet, le Client autorise
+mois sur le Compte de rattachement. A cet effet, le Client
 
-BOURSORAMA à prélever directement la cotisation
+autorise BOURSORAMA à prélever directement la
 
-mensuelle sur le Compte de rattachement. Si le Compte de
+cotisation mensuelle sur le Compte de rattachement. Si le
 
-rattachement présente un solde insuffisant, le prélèvement
+Compte de rattachement présente un solde insuffisant, le
 
-sera présenté une seconde fois le 1er jour ouvré du mois
+prélèvement sera présenté une seconde fois le 1er jour
 
-suivant (m+1), puis 1er jour ouvré du mois d’après (m+2).
+ouvré du mois suivant (m+1), puis 1er jour ouvré du mois
 
-Si lors de la 3ème tentative, le prélèvement est encore
+d’après (m+2). Si lors de la 3ème tentative, le prélèvement
 
-rejeté, l’adhésion à BoursoFirst sera automatiquement
+est encore rejeté, l’adhésion à BoursoFirst sera
 
-résiliée à J+1.
+automatiquement résiliée à J+1.
 
 
 
@@ -10550,9 +10620,11 @@ possibilité de mettre fin à son adhésion à l’offre BoursoFirst
 
 à tout moment et sans préavis, depuis son Espace Client.
 
-En cas de résiliation durant la 1ère année suivant l’adhésion
 
-à l’offre BoursoFirst
+
+En cas de résiliation durant la 1ère année suivant
+
+l’adhésion à l’offre BoursoFirst
 
 
 
@@ -10564,13 +10636,17 @@ par BoursoBank et prendra effet à l’échéance de l’adhésion
 
 annuelle. Les cotisations à l’adhésion BoursoFirst
 
+
+
 continueront d’être prélevées conformément à l’article
 
 « modalités de paiement de la cotisation » ; l’adhérent
 
-continuera à bénéficier de l’accès aux produits et services
+continuera à bénéficier de l’accès aux produits, services et
 
-de la gamme BoursoFirst jusqu’à l’échéance annuelle de
+des tarifications spécifiques octroyés dans le cadre de la
+
+gamme BoursoFirst jusqu’à l’échéance annuelle de
 
 l’adhésion.
 
@@ -10578,11 +10654,11 @@ l’adhésion.
 
 En cas de résiliation après la 1ère année d’adhésion
 
+
+
 Toute résiliation, quelle que soit la date de la demande (du
 
 1 au 31 du mois M), sera effective au jour de la résiliation.
-
-
 
 Toute cotisation déjà prélevée sur le Compte bancaire du
 
@@ -10596,7 +10672,11 @@ Les produits de l'offre BoursoFirst auxquels le Client a
 
 souscrit avant la résiliation continueront d'être actifs après
 
-celle-ci.
+celle-ci. Au jour de la résiliation effective de l’offre
+
+BoursoFirst, les tarifications spécifiques octroyées ne
+
+seront plus actives.
 
 
 
@@ -10704,6 +10784,10 @@ porter sur un montant minimum de 10 €. Le solde du Livret
 
 BoursoFirst ne peut être inférieur à 10 €, sous peine
 
+42
+
+
+
 d'entraîner la clôture du Livret BoursoFirst. Les opérations
 
 enregistrées sur le Livret BoursoFirst sont uniquement des
@@ -10725,10 +10809,6 @@ accessible sur l’Espace Client. Sur demande expresse du
 Client, BOURSORAMA, moyennant facturation, lui
 
 adressera ce relevé sous format papier, par voie postale.
-
-42
-
-
 
 En l’absence de mouvements enregistrés sur le Livret
 
@@ -10856,6 +10936,8 @@ BOURSORAMA rappelle à ses Clients que les produits
 
 structurés sont des instruments financiers complexes et/ou
 
+
+
 risqués, et les renvoie vers la fiche produit consultable sur
 
 l’Espace Client du Titulaire depuis la rubrique « Mon Profil
@@ -10875,8 +10957,6 @@ mesure
 La souscription aux Produits structurés sur mesure est
 
 exclusivement réservée aux adhérents de l’offre
-
-
 
 BoursoFirst, et aux Clients résidents fiscaux français et
 
@@ -11010,6 +11090,10 @@ mesure à tout moment avant son échéance, moyennant le
 
 paiement de droits de sortie tels que définis dans la
 
+43
+
+
+
 Brochure Tarifaire. En cas de vente du Produit structuré sur
 
 mesure par le Titulaire avant la date de maturité du produit,
@@ -11027,8 +11111,6 @@ Titulaire doit avoir pris connaissance du document
 d’informations clés (DIC) et des termes et conditions liés
 
 audit produit.
-
-43
 
 
 
@@ -11170,8 +11252,6 @@ informations à jour. Le cas échéant, la souscription au
 
 produit de Private Equity en direct pourrait être annulée.
 
-
-
 En cas de défaillance du paiement du premier appel de
 
 fonds du fait du Client, la souscription au produit de Private
@@ -11304,6 +11384,10 @@ La synthèse patrimoniale permet une restitution
 
 pédagogique du patrimoine, des revenus, et des objectifs
 
+44
+
+
+
 financiers du Client. Pour une synthèse patrimoniale la plus
 
 adaptée à sa situation, le Client reconnaît qu’il doit fournir
@@ -11319,10 +11403,6 @@ Article 2 : Réalisation de la synthèse
 La synthèse patrimoniale est réalisée à partir des données
 
 communiquées par Client lors d’un rendez-vous dédié.
-
-44
-
-
 
 Le Client est informé qu’une cohérence sera nécessaire
 
@@ -13892,23 +13972,19 @@ et une nouvelle souscription.
 
 La Carte business dématérialisée offre les mêmes
 
-fonctionnalités que la Carte business physique (hors retraits
-
-dans les DAB/GAB) et ne peut donc être utilisée que pour
-
-effectuer des paiements à distance ou avec une solution de
-
-paiement mobile.
+fonctionnalités que la Carte business physique.
 
 
 
 L’utilisation de la Carte dématérialisée pour réaliser des
 
-paiements à distance nécessite l’Application mobile, sur
+paiements à distance ou des retraits sans contact dans les
 
-laquelle le Titulaire de la Carte peut consulter les numéros
+DAB/GAB nécessite l’Application mobile, sur laquelle le
 
-de sa Carte business.
+Titulaire de la Carte peut consulter les numéros de sa Carte
+
+business.
 
 
 
@@ -13931,8 +14007,6 @@ Le Titulaire de la Carte business s’interdit d’apporter toute
 altération fonctionnelle ou physique à la Carte qui serait
 
 susceptible d’entraver son fonctionnement et/ou celui des
-
-
 
 TPE, automates et DAB/GAB de quelque manière que ce
 
@@ -13984,11 +14058,11 @@ régularisation du solde débiteur constaté.
 
 
 
-3.1. Utilisation de la Carte physique pour le retrait d’espèces
+3.1. Utilisation de la Carte pour le retrait d’espèces dans les
 
-dans les DAB/GAB et pour le règlement d’achats de biens
+DAB/GAB et pour le règlement d’achats de biens ou de
 
-ou de prestations de services
+prestations de services
 
 
 
@@ -14034,29 +14108,29 @@ retour à l’état initial
 
 
 
-3.1.2 Les Cartes physiques délivrées par l’Emetteur
+3.1.2 Les Cartes délivrées par l’Emetteur disposent de la
 
-disposent de la technologie « sans contact » et permettent
+technologie « sans contact » et permettent au Titulaire de
 
-au Titulaire de la Carte de réaliser ses paiements sans
+la Carte de réaliser ses paiements sans saisie du code
 
-saisie du code confidentiel. Toutefois, à des fins de sécurité,
+confidentiel. Toutefois, à des fins de sécurité, le montant
 
-le montant unitaire maximum de chaque opération de
+unitaire maximum de chaque opération de paiement
 
-paiement réalisée avec la fonction « sans contact » est
+réalisée avec la fonction « sans contact » est limité et le
 
-limité et le montant cumulé maximum des règlements
+montant cumulé maximum des règlements successifs
 
-successifs réalisés avec la fonction « sans contact » est
+réalisés avec la fonction « sans contact » est aussi limité.
 
-aussi limité. Au-delà de ces limites une opération de
+Au-delà de ces limites une opération de paiement avec
 
-paiement avec saisie du code confidentiel sera requise du
+saisie du code confidentiel sera requise du Titulaire de la
 
-Titulaire de la Carte avant de pouvoir réutiliser la fonction «
+Carte avant de pouvoir réutiliser la fonction « sans contact
 
-sans contact ».
+».
 
 
 
@@ -14082,15 +14156,15 @@ dans la limite des plafonds fixés par l’Emetteur, accessibles
 
 via l’Espace Client.
 
-54
-
-
-
 3.2.2 Ces opérations peuvent être réalisées avec la Carte
 
 business au bénéfice d’un récepteur dûment habilité pour
 
 ce faire et adhérent au système d’acceptation à distance en
+
+54
+
+
 
 réception de fonds sécurisés affichant la marque
 
@@ -14238,11 +14312,11 @@ Le numéro de téléphone sur lequel le Code Sécurité est
 
 transmis est le « numéro de téléphone d’authentification »
 
-
-
 renseigné par le Titulaire, conformément aux modalités
 
 prévues à l’article 3 du Titre I.
+
+
 
 Le Code Sécurité sera automatiquement envoyé dès que
 
@@ -14388,13 +14462,13 @@ Si le moment de réception n’est pas un jour ouvrable, l’ordre
 
 de paiement est réputé avoir été reçu le jour suivant.
 
-55
-
 
 
 Les retraits d’espèce sont réputés exécutés par la remise
 
 des espèces auprès du DAB/GAB.
+
+55
 
 
 
@@ -14539,8 +14613,6 @@ Dès qu'il a connaissance de la perte, du vol, du
 détournement ou de toute utilisation non autorisée de sa
 
 Carte business ou des données qui lui sont liées, le Titulaire
-
-
 
 en informe sans tarder BOURSORAMA aux fins de la
 
@@ -14692,10 +14764,6 @@ l'expiration d'une période de huit (8) semaines à compter de
 
 la date à laquelle les fonds ont été débités.
 
-56
-
-
-
 Article 10 : Durée du contrat et résiliation
 
 
@@ -14703,6 +14771,8 @@ Article 10 : Durée du contrat et résiliation
 10.1 Le présent contrat est conclu pour une durée
 
 indéterminée.
+
+56
 
 
 
@@ -14900,149 +14970,7 @@ préavis.
 
 
 
-CHAPITRE 3 : LE DÉCOUVERT AUTORISÉ
-
-
-
-Seule l’ancienne offre professionnelle peut bénéficier
-
-d’un découvert autorisé. Le présent chapitre ne
-
-s’applique donc pas à l’offre Bourso Business.
-
-
-
-Article 1 : Conditions d’obtention
-
-
-
-1.1 Sous réserve de l’accord de BOURSORAMA, le solde
-
-du Compte PRO pourra être débiteur jusqu’à concurrence
-
-d’un montant convenu par avance entre les Parties.
-
-Une telle autorisation de découvert prendra la forme d’un
-
-concours permanent.
-
-Le Titulaire du Compte PRO peut solliciter la modification
-
-du plafond du montant du concours permanent.
-
-BOURSORAMA se réserve la possibilité d’accepter ou non.
-
-1.2 Le fonctionnement du Compte PRO à découvert
-
-donnera lieu à la perception par BOURSORAMA d’intérêts
-
-débiteurs, dont le calcul sera arrêté selon une périodicité
-
-trimestrielle, leur paiement intervenant par débit du Compte
-
-PRO.
-
-
-
-1.3 Les intérêts sont décomptés selon le taux en vigueur
-
-figurant dans la Brochure Tarifaire. Ils sont calculés
-
-quotidiennement sur les utilisations effectuées et prélevés
-
-trimestriellement par le débit du Compte PRO.
-
-Le taux est susceptible de varier. En cas de variation, le
-
-Client en est informé par tout moyen avec un préavis de
-
-deux mois. Son silence à l’issue de cette période de deux
-
-mois suivant l’information vaut accord de ce dernier sur les
-
-nouvelles conditions. En cas de refus du nouveau taux par
-
-le Client, notifié par écrit à BOURSORAMA pendant le délai
-
-de préavis, le découvert autorisé sera résilié sans autre
-
-préavis ni indemnité.
-
-
-
-1.4 BOURSORAMA n’est tenue d’accepter aucun
-
-dépassement du découvert autorisé, le Compte PRO
-
-devant donc fonctionner à tout moment dans les strictes
-
-limites de cette autorisation, si elle existe.
-
-A titre exceptionnel, BOURSORAMA pourra être amenée à
-
-accepter à titre ponctuel un dépassement du découvert
-
-autorisé durant une brève période. La facilité de caisse ainsi
-
-consentie ne pourra en aucun cas être assimilée à une
-
-autorisation de découvert ou à une augmentation du
-
-57
-
-
-
-plafond de celle-ci et il pourra y être mis fin par
-
-BOURSORAMA à tout moment et sans délai.
-
-
-
-1.5 Toute opération entraînant un dépassement du montant
-
-du découvert autorisé (facilité de caisse) provoque un
-
-incident de fonctionnement qui nécessite un traitement
-
-particulier et donne lieu, à ce titre, à une facturation dont le
-
-montant est précisé dans la Brochure Tarifaire. La facilité
-
-de caisse entraîne de surcroît l’application d’un taux
-
-d’intérêt spécifique (cf. Brochure Tarifaire).
-
-
-
-Article 2 : Résiliation
-
-
-
-Le Client peut résilier le découvert autorisé à tout moment
-
-par écrit, sans préavis ni indemnité.
-
-
-
-BOURSORAMA peut également procéder à sa résiliation à
-
-tout moment par lettre recommandée avec accusé de
-
-réception ou via support durable moyennant un préavis
-
-minimum de dix (10) jours calendaires à compter de son
-
-envoi, sauf incident particulier ou agissements graves du
-
-Client.
-
-La clôture du Compte PRO entraîne de plein droit, sans
-
-formalité, la résiliation du découvert autorisé.
-
-
-
-CHAPITRE 4 : COMPTE A TERME BUSINESS
+CHAPITRE 3 : COMPTE A TERME BUSINESS
 
 
 
@@ -15133,6 +15061,8 @@ BOURSORAMA lors de l’ouverture du Compte à Terme
 business et est fixé pendant toute la durée du contrat. Les
 
 intérêts sont versés à échéance sur le Compte business.
+
+57
 
 
 
@@ -15248,7 +15178,7 @@ compte de leur propre régime fiscal. »
 
 
 
-CHAPITRE 5 : COMPTE SUR LIVRET PRO
+CHAPITRE 4 : COMPTE SUR LIVRET PRO
 
 
 
@@ -15281,8 +15211,6 @@ Article 1 : Modalités de fonctionnement
 Toutes les opérations de retrait ou de versement, y compris
 
 le versement initial, doivent porter sur un montant minimum
-
-58
 
 
 
@@ -15426,11 +15354,15 @@ l’année suivant celle au cours de laquelle elle est faite.
 
 
 
-CHAPITRE 6 : COMPTE TITRES BUSINESS
+CHAPITRE 5 : COMPTE TITRES BUSINESS
 
 
 
 Article 1 : Présentation
+
+58
+
+
 
 Le Compte Titres Ordinaire Business est compte de titres
 
@@ -16023,8 +15955,6 @@ Titulaire la perte totale de ses investissements, voire dans
 le cadre de certaines opérations une perte supérieure à ses
 
 investissements.
-
-
 
 Le Titulaire reconnaît que BOURSORAMA ne peut à aucun
 
@@ -23348,6 +23278,18 @@ sur le site du Partenaire.
 
 
 
+Dans le cadre de la commande de Bons d’achat,
+
+Boursorama mettra à disposition du client une preuve de
+
+paiement qu’il pourra télécharger à tout moment au sein de
+
+son espace The Corner, dans l’onglet « Mes commandes »
+
+puis « Document de paiement ».
+
+
+
 Pour des raisons de sécurité, des plafonds de dépenses
 
 selon les Offres et les Partenaires peuvent être fixés
@@ -23399,6 +23341,8 @@ Le Client reçoit l’avantage Cashback sur son Compte
 Bancaire BoursoBank, qu’il aura sélectionné lorsqu’il
 
 souhaitera profiter pour la première fois d’une offre
+
+
 
 Cashback, dans un délai minimum d’un mois suivant le
 
@@ -23550,11 +23494,13 @@ doit se reporter aux conditions générales de vente des
 
 Partenaires. Pour retourner un ou plusieurs produits, le
 
+86
+
+
+
 Client doit prendre contact avec le Partenaire dont les
 
 coordonnées sont disponibles sur la page de l’Offre.
-
-86
 
 
 
@@ -23704,11 +23650,11 @@ The Corner à destination des mineurs leur permettant de
 
 réaliser des achats relevant d’actes de la vie courante. Le
 
+
+
 mineur pourra acheter des e-billets et bons d’achat
 
 directement auprès de certains Partenaires professionnels.
-
-
 
 Pour que le mineur puisse utiliser The Corner, le
 
@@ -23824,6 +23770,18 @@ suffisamment créditeur.
 
 
 
+Dans le cadre de la commande de Bons d’achat,
+
+Boursorama mettra à disposition du client une preuve de
+
+paiement qu’il pourra télécharger à tout moment au sein de
+
+son espace The Corner, dans l’onglet « Mes commandes »
+
+puis « Document de paiement ».
+
+
+
 Le montant total cumulé des achats faits par le mineur sur
 
 The Corner est limité à 100 euros par jour.
@@ -23846,6 +23804,8 @@ A partir de la rubrique « Mes commandes », le mineur peut
 
 accéder à tout moment à l’historique de ses commandes.
 
+87
+
 
 
 Le représentant légal peut également consulter l’historique
@@ -23853,8 +23813,6 @@ Le représentant légal peut également consulter l’historique
 des commandes passées par le mineur en se rendant dans
 
 la rubrique « Mes commandes » de son Espace Client.
-
-87
 
 
 
@@ -23998,6 +23956,8 @@ Voir article 5.4.1 supra
 
 communications par BOURSORAMA
 
+
+
 En s’inscrivant au service The Corner Bourso Business, le
 
 Client accepte expressément de bénéficier du service et
@@ -24007,8 +23967,6 @@ des Offres lui permettant de bénéficier de remises
 immédiates et bons d’achat et différentes offres lui
 
 permettant de faire des économies ou de bénéficier de
-
-
 
 conditions avantageuses en utilisant son Compte business
 
@@ -24152,6 +24110,10 @@ Dans le cadre de la commande de Bons d’achat,
 
 Boursorama mettra à disposition du client professionnel une
 
+88
+
+
+
 preuve de paiement qu’il pourra télécharger à tout moment
 
 au sein de son espace The Corner Bourso Business, dans
@@ -24159,8 +24121,6 @@ au sein de son espace The Corner Bourso Business, dans
 l’onglet « Mes commandes » puis « document de
 
 paiement ».
-
-88
 
 
 
@@ -24306,6 +24266,8 @@ ATTENTION : LES TESTS DISPONIBLES PERMETTENT
 
 AUX CLIENTS D’EVALUER LES FONCTIONNALITES
 
+
+
 BETA DANS DES CONDITIONS REELLES. PAR
 
 CONSEQUENT, TOUTE ACTION MENEE PAR UN
@@ -24313,8 +24275,6 @@ CONSEQUENT, TOUTE ACTION MENEE PAR UN
 CLIENT (EX : PASSAGE D’ORDRE, EXECUTION D’UN
 
 VIREMENT) SERA EFFECTIVEMENT PRISE EN
-
-
 
 COMPTE PAR BOURSOBANK ET NE POURRA ETRE
 
@@ -24460,6 +24420,8 @@ vos habitudes et vos préférences en lien avec l’utilisation de
 
 nos produits et services.
 
+89
+
 
 
 En acceptant les présentes CGU Testeurs, le client accepte
@@ -24467,10 +24429,6 @@ En acceptant les présentes CGU Testeurs, le client accepte
 expressément de recevoir des recommandations de test
 
 personnalisées.
-
-89
-
-
 
 Le client peut renoncer à l’envoi de ces recommandations
 
@@ -24501,8 +24459,6 @@ Article 8 : Modifications des conditions ou des services
 BOURSORAMA se réserve la possibilité de modifier en tout
 
 ou partie les stipulations du présent Titre V, afin de les
-
-
 
 adapter aux évolutions de son exploitation, et/ou aux
 
@@ -25214,7 +25170,7 @@ Carte selon les dispositions du Contrat conclu entre l’Emetteur de la Carte et
 
 
 
-6. 6 – Le montant détaillé des paiements effectués par le biais du Portefeuille et passés au débit du compte, figure sur le même
+6\. 6 – Le montant détaillé des paiements effectués par le biais du Portefeuille et passés au débit du compte, figure sur le même
 
 relevé que les opérations de paiement par carte réalisées par l’Utilisateur en dehors du Service Apple Pay.
 
@@ -25280,7 +25236,7 @@ Plusieurs cas de blocage peuvent se produire :
 
 2\. Lorsque l’Utilisateur fait opposition à une Carte physique
 
-3. Lorsque l’Utilisateur a perdu son Appareil Compatible ou ce dernier a fait l’objet d’un vol.
+3\. Lorsque l’Utilisateur a perdu son Appareil Compatible ou ce dernier a fait l’objet d’un vol.
 
 4\. Lorsque l’Utilisateur souhaite retirer une Carte de son Portefeuille.
 
@@ -27966,7 +27922,653 @@ chargée du contrôle de la banque, située 4, Place de Budapest 75436 Paris Ced
 
 
 
+ANNEXE VI :
+
+CONDITIONS GENERALES D’UTILISATION DU LA CARTE BANCAIRE VIA LE SERVICE
+
+CLICK TO PAY
+
+(ANNEXE Aux Conditions Générales BOURSORAMA)
+
+
+
+Préambule
+
+
+
+Les présentes Conditions Générales d’utilisation sont relatives au service de paiement Click to Pay souscrit par
+
+l’Utilisateur auprès de BOURSORAMA.
+
+
+
+Elles constituent une annexe aux Conditions Générales et au Dossier d’Ouverture de Compte qui ont été acceptées par
+
+l’Utilisateur lors de l’ouverture de son compte bancaire BoursoBank et dont il reconnait avoir eu communication et
+
+connaissance.
+
+
+
+ARTICLE 1 – DÉFINITIONS
+
+
+
+Carte(s)
+
+Désigne la(les) carte(s) bancaire(s) émise(s) sous forme matérielle (plastique ou métal) ou dématérialisée, portant la marque
+
+VISA, conformément aux dispositions des Conditions Générales de BOURSORAMA, conclues entre l’Emetteur et l’Utilisateur,
+
+pouvant être enrôlée pour l’utilisation du Service.
+
+
+
+Commerçant
+
+Désigne le commerçant proposant à ses clients le service de paiement web ou in-app Click to Pay dans son parcours de
+
+paiement.
+
+
+
+Service
+
+Désigne le service Click to Pay, proposé et configurable depuis l’Espace Client BoursoBank.
+
+
+
+Utilisateur
+
+Désigne la personne physique majeure capable, titulaire de la Carte et ayant signé le Contrat.
+
+
+
+ARTICLE 2 – OBJET DU SERVICE
+
+
+
+BOURSORAMA autorise l’Utilisateur à enregistrer une Carte émise par BoursoBank au sein du service Click to Pay qui lui permet
+
+d’effectuer des paiements en ligne sans saisie des numéros de la Carte.
+
+
+
+Le Client peut alors effectuer des paiements chez un Commerçant affichant le logo de la marque Visa et proposant l’utilisation du
+
+service Click to Pay comme moyen de paiement dans une application mobile de vente en ligne (« in-App ») ou sur un site internet
+
+de vente en ligne (« Web »).
+
+
+
+Click to Pay ne permet pas de régler des achats de biens ou de prestations de services n’appliquant pas ces conditions.
+
+
+
+ARTICLE 3 – DUREE DU SERVICE
+
+
+
+Le présent Service est conclu pour une durée indéterminée à partir de la date d’enrôlement de la Carte conformément aux
+
+conditions des présentes.
+
+
+
+Le Service peut être suspendu dans l’hypothèse d’un blocage de la Carte par l’Utilisateur.
+
+
+
+Le Service prendra fin immédiatement dans les situations suivantes :
+
+- Mise en opposition de la Carte par l’Utilisateur ;
+
+- Résiliation de la Carte ;
+
+- Désenrôlement du Service par l’Utilisateur.
+
+
+
+ARTICLE 4 – ELIGIBILITE AU SERVICE
+
+
+
+Tous les clients de BOURSORAMA, détenteurs d’un compte bancaire (particulier ou professionnel) et d’une Carte sont éligibles
+
+à l’utilisation du service Click to Pay,.
+
+
+
+Les Cartes pouvant être enrôlées au service Click to Pay sont exclusivement celles émises par BoursoBank. Plusieurs Cartes
+
+peuvent être enrôlées au service Click to Pay. Ces Cartes doivent obligatoirement être au nom de l’Utilisateur.
+
+
+
+ARTICLE 5 – MODALITES D’ACCES DU SERVICE
+
+
+
+Pour pouvoir accéder au service Click to Pay, l’Utilisateur doit avoir communiqué à BOURSORAMA un numéro de téléphone ainsi
+
+qu’une adresse email valides, lesquels permettront son authentification par BOURSORAMA.
+
+117
+
+
+
+De convention expresse entre les parties, l’Utilisateur reconnait que le fait d’accepter les présentes Conditions Générales
+
+d’utilisation du service Click to Pay lors du processus de souscription manifeste son consentement à l’entièreté de son contenu
+
+et que toutes les utilisations du service Click to Pay sont réputées avoir été effectuées par lui-même.
+
+
+
+Le service Click to Pay est conclu à distance sous réserve que les conditions suivantes soient remplies :
+
+L’acceptation par l’Utilisateur des présentes Conditions Générales d’utilisation du service Click to Pay ;
+
+Et sous réserve de la bonne fin de l’authentification de l’Utilisateur en tant que titulaire de la (des) Carte(s) enregistrée(s)
+
+conformément au présent article.
+
+
+
+L’Utilisateur demande l’exécution immédiate du service.
+
+
+
+Le service Click to Pay entre en vigueur dès l’acceptation des présentes Conditions Générales d’utilisation. L’Utilisateur reconnait
+
+qu’en appuyant sur « Ajouter votre carte à Click to Pay » il manifeste son consentement au contenu des présentes Conditions
+
+Générales d’utilisation du service.
+
+
+
+ARTICLE 6 – MODALITES D’UTILISATION DU SERVICE POUR LE REGLEMENT D’ACHAT DE BIENS OU DE
+
+PRESTATIONS DE SERVICES CHEZ DES COMMERCANTS
+
+
+
+Lorsque l’application mobile ou le site web du commerçant le permet, l’Utilisateur peut effectuer le paiement d’un bien ou d’un
+
+service via Click to Pay.
+
+
+
+Pour utiliser le service Click to Pay sur le site web ou l’application du commerçant, l’Utilisateur est invité, lors de son parcours de
+
+paiement, à renseigner ses nom, prénom, adresse e-mail, numéro de téléphone, adresse de facturation, afin de permettre son
+
+authentification. Il est ensuite invité à saisir le code reçu par e-mail et/ou SMS.
+
+
+
+L’Utilisateur accepte que BOURSORAMA transmette les données susvisées à VISA qui les enregistre dans une base de données
+
+et permet, lors de l’utilisation du Service chez le Commerçant, de réaliser la correspondance entre les données personnelles de
+
+l’Utilisateur et les données de la Carte.
+
+
+
+ARTICLE 7 – RESPONSABILITE DE L’EMETTEUR
+
+
+
+La responsabilité de l’Emetteur ne saurait être retenue en cas de dysfonctionnement du service empêchant son utilisation.
+
+
+
+ARTICLE 8 – RESPONSABILITE DE L’UTILISATEUR
+
+
+
+L’Utilisateur est responsable de l’utilisation strictement personnelle et de la conservation, dans des conditions de sécurité et de
+
+confidentialité, du compte associé à son adresse email, du téléphone associé à son numéro de téléphone et des numéros de la
+
+Carte.
+
+A cet effet, l’Utilisateur est pleinement responsable de toutes les conséquences susceptibles de survenir en cas d’utilisation par
+
+un tiers des données susvisées du fait de sa négligence ou de la communication intentionnelle de ces données par l’Utilisateur.
+
+L’Utilisateur est responsable de la mise à jour des données visées à l’article 7 auprès de BOURSORAMA pour lui permettre de
+
+communiquer les données actualisées à VISA.
+
+
+
+ARTICLE 9 – CONDITIONS TARIFAIRES
+
+
+
+L’enrôlement au Service Click to Pay et son utilisation sont totalement gratuites pour l’Utilisateur.
+
+
+
+ARTICLE 10 – RECLAMATIONS
+
+
+
+En cas de survenance de difficultés dans le fonctionnement du Service Click to Pay, l’Utilisateur peut se rapprocher du Service
+
+Clientèle de BOURSORAMA dans les conditions prévues à l’article 21 Relations clientèles et médiation du TITRE I.
+
+
+
+ARTICLE 12 – DROIT ET LANGUE APPLICABLES – TRIBUNAUX COMPETENTS – AUTORITE DE CONROLE
+
+
+
+Les présentes Conditions Générales d’utilisation sont régies, interprétées et appliquées par le droit français. La langue
+
+d’interprétation est la langue française en cas de contestation sur la signification d’un terme ou d’une disposition des présentes.
+
+Tout litige découlant des présentes ou qui en serait la suite ou la conséquence, sera de la compétence exclusive des tribunaux
+
+français. Coordonnées de l’autorité de contrôle compétente : l’Autorité de Contrôle Prudentiel et de Résolution est l’autorité
+
+chargée du contrôle de la banque, située 61 rue Taitbout 75436 Paris Cedex 09.
+
+118
+
+
+
 ANNEXE VII :
+
+CONDITIONS GENERALES D’UTILISATION DU SERVICE WERO
+
+(ANNEXE Aux Conditions Générales BOURSORAMA)
+
+
+
+Préambule :
+
+
+
+Le Service Wero est une solution de paiement proposée par la société EPI Company (ci-après « EPI »). Les présentes
+
+conditions générales d’utilisation régissent exclusivement l’accès et l’utilisation par le Client de cette solution depuis
+
+l’Application mobile (ci-après l’« Annexe Wero »). Cette solution de paiement, dénommée « Service Wero », est
+
+disponible depuis l’Application mobile. L’Annexe Wero complète les Conditions Générales de Boursorama (ci-après les
+
+« Conditions Générales »). En cas de contradiction, les termes du présent Annexe Wero prévaudront. Les termes
+
+commençant par une majuscule et non définis au sein de l’Annexe Wero ont la même signification que ceux employés
+
+dans les Conditions Générales.
+
+
+
+ARTICLE 1 - CONDITIONS D’ÉLIGIBILITÉ À L’UTILISATION DES FONCTIONNALITÉS WERO
+
+
+
+L’inscription au Service Wero par le Client depuis l’Application mobile se fait, sous réserve d’acceptation de la Banque. Il est
+
+réservé au bénéfice exclusif des clients personnes physiques titulaires d’un compte bancaire individuel ou joint ouvert dans les
+
+livres de Boursorama. Le Client s’engage à utiliser le Service Wero uniquement pour ses besoins personnels et en dehors de
+
+toute activité professionnelle. Le Client doit détenir un téléphone mobile de type « smartphone » doté d’un système d’exploitation
+
+compatible avec l’Application mobile tel que mentionné aux Conditions Générales et s’assurer de toujours utiliser la dernière
+
+version à jour de l’Application mobile. Le Service d’alerte via notification informe notamment le Client des transactions effectuées
+
+via Wero.
+
+
+
+ARTICLE 2 - PROFIL WERO ET DONNÉES DU CLIENT
+
+
+
+Le Client accède aux paramètres de son profil Wero, depuis l’Application mobile. Les paramètres du profil du Client se composent
+
+notamment du compte bancaire paramétré pour l’utilisation du Service Wero, de son nom ainsi que des données qui servent à
+
+identifier son compte bancaire en lieu et place des coordonnées bancaires desdits comptes (ci-après désigné(s) le(s) « Alias
+
+Wero »).
+
+
+
+2.1 - Alias Wero
+
+
+
+Les Alias Wero que peut choisir le Client correspondent soit à son numéro de téléphone mobile, soit à son adresse email. Pour
+
+des raisons de sécurité, le numéro de téléphone mobile utilisé comme Alias Wero sera le numéro de téléphone déclaré par le
+
+Client dans son Espace Client. Il appartient au Client de conserver un numéro de téléphone à jour en informant la Banque de tout
+
+changement de ce numéro. En cas de changement du numéro de téléphone, le Client est informé qu’il ne pourra plus l’utiliser
+
+comme Alias Wero. Si le Client déclare un nouveau numéro téléphone, la Banque fera ses meilleurs efforts pour l’associer
+
+automatiquement au compte bancaire du Client en tant qu’Alias Wero. Le Client doit s’assurer que son nouveau numéro de
+
+téléphone est enregistré dans son profil Wero, accessible depuis son Application.
+
+
+
+Un Alias Wero ne peut être associé qu’à un seul compte bancaire, qu’il soit ouvert dans les livres de Boursorama ou dans une
+
+autre banque. Lorsque le Client choisit un Alias Wero déjà associé à un autre compte bancaire dans Wero, l’association
+
+préexistante sera soit supprimée, soit conservée. Dans ce dernier cas, le Client ne pourra pas associer cet Alias Wero à son
+
+compte bancaire, ce dont il sera informé. Si le Client ne paramètre pas d’Alias Wero, il ne sera pas inscrit dans l’annuaire Wero
+
+et la réception de fonds via le Service Wero ne sera possible que via les QR codes, dont les modalités d’utilisation sont précisées
+
+ci-dessous.
+
+
+
+2.2 - Identification du Client
+
+
+
+Le Client peut autoriser la communication de son identité (son nom et prénom) aux utilisateurs du Service Wero dans le cadre du
+
+Service. Cette autorisation est donnée depuis son profil Wero. À défaut, seuls son prénom et la première lettre de son nom de
+
+famille sont affichés aux autres utilisateurs du Service, sauf disposition contraire des articles 3.1 « Envoi d’argent », 3.2
+
+« Demande d’argent » et 3.3 « Utilisation des QR codes Wero » ci-dessous.
+
+
+
+2.3 - Gestion du/des Compte(s) bancaire(s) du Client utilisé(s) dans le cadre de Wero
+
+
+
+Le Client peut, depuis l’Application mobile, choisir le Compte bancaire de réception des paiements via Wero.
+
+
+
+Le Client pourra initier un paiement Wero depuis l’ensemble de ses comptes à vue Boursorama.
+
+
+
+ARTICLE 3 - DESCRIPTION DES FONCTIONNALITÉS WERO AU SEIN DE L’APPLICATION MOBILE
+
+
+
+3.1 - Envoi d’argent, et utilisation des QR Codes Wero
+
+
+
+L’Application mobile permet au Client d’utiliser les fonctionnalités d’Envoi d’argent avec des utilisateurs clients d’une banque
+
+membre d’EPI et atteignable via Wero (ci-après l’« Utilisateur Wero »).
+
+
+
+3.1.1 - Envoi d’argent
+
+119
+
+
+
+La fonctionnalité « Envoi d’argent » permet d’envoyer des fonds à un Utilisateur Wero, sans besoin de saisir les coordonnées
+
+bancaires de ce dernier. Cette opération est réalisée au moyen d’un virement instantané exécuté entre les comptes bancaires
+
+associés aux Alias Wero utilisés. Le Client peut initier un Envoi d’argent ou en être le bénéficiaire. Lorsqu’il initie l’opération
+
+d’Envoi d’argent, le Client peut soit renseigner l’Alias Wero du bénéficiaire, soit le rechercher dans son carnet de contacts, soit
+
+scanner le QR Code généré au préalable par le bénéficiaire selon les modalités précisées ci-dessous. La fonctionnalité permet
+
+en outre au Client d’adresser un message au bénéficiaire. L’initiation d’un Envoi d’argent par le Client au sein de L’Application
+
+mobile nécessite que ce dernier valide l’opération de paiement via authentification forte. À l’occasion de l’exécution d’une
+
+opération d’Envoi d’argent, le nom/prénom et l’IBAN du Client sont transmis à la banque de la contrepartie (payeur ou bénéficiaire)
+
+et, le cas échéant, à la contrepartie, conformément à la règlementation applicable. Lorsque qu’un Utilisateur Wero situé en dehors
+
+de la France initie une opération d’Envoi d’argent en faveur du Client, les nom et prénom de ce dernier sont affichés audit
+
+utilisateur au stade de la recherche du nom du bénéficiaire de l’opération, pour les besoins d’exécution de cette dernière. Les
+
+virements via le Service Wero sont exécutés dans la limite d’un montant cumulé maximum déterminé par la Banque. Par ailleurs,
+
+l’ensemble de ces opérations sont prises en compte dans le Plafond Global Journalier applicable au Client. L’historique des
+
+transactions d’Envoi d’argent via le Service Wero est visible dans l’Application mobile.
+
+
+
+3.1.2 - Utilisation des QR codes Wero
+
+
+
+Les QR code Wero peuvent être utilisés pour l’Envoi d’argent et la Réception d’argent en présence d’un Utilisateur Wero. Il est
+
+recommandé au Client de toujours scanner les QR code Wero via l’Application mobile. Le QR code Wero peut être utilisé en
+
+remplacement de l’Alias Wero. Le Client, qui souhaite envoyer des fonds à un Utilisateur Wero par ce biais, doit scanner le QR
+
+code préalablement généré par ce dernier, sans besoin de renseigner l’Alias Wero de cet Utilisateur ou de le rechercher dans
+
+son carnet d’adresse. L’opération de paiement générée via l’Application mobile au moyen d’un QR code doit être validée via
+
+authentification forte. Le Client peut également recevoir un paiement via un QR code Wero. Pour ce faire, le Client doit générer
+
+un QR code Wero dans l’Application mobile et le présenter à l’Utilisateur Wero souhaitant réaliser une opération de paiement. Ce
+
+dernier devra scanner ce QR code pour initier le paiement qui, une fois validé, entraînera le crédit instantané du compte du Client.
+
+Quel que soit l’usage du QR code Wero, dans un souci de lutte contre la fraude, le Client consent à ce que son identité (nom et
+
+prénom) soit véhiculée dans le QR code Wero et qu’elle soit ainsi visible de l’Utilisateur Wero qui l’utilisera ainsi que de la banque
+
+de ce dernier. Certains QR codes Wero ne sont pas directement gérés par l’Application mobile. Dans ces cas-là, lors du scan du
+
+QR code Wero, le Client sera automatiquement redirigé vers l’App Wero pour finaliser la transaction.
+
+
+
+ARTICLE 4 - CONDITIONS D’EXÉCUTION DES OPÉRATIONS DE VIREMENT VIA WERO
+
+
+
+Les virements via Wero sont réalisés au moyen de l’exécution d’un virement instantané. Pour qu’un virement via Wero puisse
+
+être exécuté, le Client doit communiquer l’Alias Wero de l’Utilisateur ou utiliser un QR code Wero. Lorsque le Client saisit un
+
+virement via Wero, avant qu’il ne valide l’opération, la Banque lui restitue, sur l’écran récapitulatif, les nom et prénom,
+
+pseudonymisés ou non, de l’Utilisateur Wero associé à l’Alias Wero préalablement saisi par le Client. Le Client est invité à porter
+
+une attention particulière à ces données avant de valider l’opération, pour contrôler qu’elles correspondent bien à celles du
+
+bénéficiaire souhaité. Si tel n’est pas le cas et que le Client décide tout de même de valider l’opération, il est informé que les
+
+fonds pourraient être envoyés à un Utilisateur Wero qui ne correspond pas à celui souhaité. Dans ce cas, le Client reconnait
+
+valider l’opération sous sa seule et entière responsabilité et la responsabilité de Boursorama ne pourra pas être engagée du fait
+
+que les fonds ont été envoyés à un autre Utilisateur Wero. Le Client donne son consentement à l’exécution d’un virement émis
+
+via Wero par la validation de l’ordre. Cet ordre doit faire l’objet d’une authentification forte pour être considérée comme reçu par
+
+Boursorama. Dès ce moment, le virement est irrévocable et réputé autorisé. La Banque informe le Client de la bonne exécution
+
+ou du rejet d’un virement émis, ainsi que la réception d’un paiement.
+
+
+
+ARTICLE 5 - TARIFICATION
+
+
+
+L’accès au Service Wero est gratuit, en ce compris l’exécution des virements exécutés par ce biais.
+
+
+
+ARTICLE 6 - CONTESTATION DES OPÉRATIONS DE VIREMENT EXÉCUTÉES VIA WERO
+
+
+
+Les stipulations de l’article 8, Chapitre 2 « Les instruments de paiement » des Conditions Générales de Boursorama s’appliquent
+
+aux contestations de virements exécutés via Wero.
+
+
+
+ARTICLE 7 - RESPONSABILITÉS
+
+
+
+7.1 - Responsabilité du Client
+
+
+
+Le Client s’engage à utiliser le Service Wero conformément aux règles d’utilisation décrites dans le présent Annexe Wero. Il doit
+
+prendre toute mesure pour préserver ses données nécessaires à l’accès au Service Wero, qu’il s’agisse du code PIN de son
+
+téléphone mobile ou de son Identifiant Client (Code Client) et Code Secret ou de tout autre élément de sécurité nécessaire pour
+
+accéder à l’Application mobile. Le Client doit tenir ces données confidentielles et ne pas les divulguer. Le Client demeure
+
+responsable des virements émis par un tiers via Wero au moyen de son Identifiant Client (Code Client) et de son Code Secret en
+
+cas de manquement intentionnel ou par négligence grave du Client à son obligation de préserver la sécurité desdites données.
+
+Par ailleurs, lorsque le Client renseigne un message pour le destinataire lors de l’initiation d’une transaction, il s’engage à ne pas
+
+porter atteinte de quelque manière que ce soit aux droits d’autrui.
+
+
+
+7.2 - Responsabilité de la Banque
+
+120
+
+
+
+Boursorama est responsable de la bonne exécution des virements émis via le Service Wero effectuée sur la base de l’Alias Wero
+
+ou du QR code Wero communiqué et pour le montant validé par le Client. Lorsque le Client nie avoir donné son consentement à
+
+un virement émis via le Service Wero, il incombe à la Banque de démontrer que l’opération litigieuse a été dûment authentifiée
+
+par le Client. S’agissant de la consultation et de la diffusion des informations délivrées dans le Service Wero, Boursorama ne
+
+saurait être tenue responsable en cas de perte, vol ou prêt du téléphone mobile du Client au moyen duquel il accède au Service
+
+Wero. Sauf s’agissant des opérations de paiement non autorisées ou mal exécutées, la responsabilité de Boursorama dans le
+
+cadre de l’utilisation du Service Wero est limitée aux dommages directs et ne pourra être établie que si la Banque a commis une
+
+faute, sauf lorsque la loi en dispose autrement. À cet égard, Boursorama est responsable de l’inexécution de ses obligations sauf
+
+lorsque celle-ci résulte d’un cas de force majeure.
+
+
+
+ARTICLE 8 - DURÉE DU CONTRAT ET RÉSILIATION DU SERVICE PAR LA BANQUE OU PAR LE CLIENT
+
+
+
+L’Annexe Wero est conclue pour une durée indéterminée. Outre les cas de résiliation prévus dans les Conditions Générales, la
+
+Banque peut fermer l’accès au Service Wero à tout moment et sans préavis dans les cas suivants :
+
+
+
+• Manquement grave du Client à ses obligations au titre de l’Annexe Wero ;
+
+
+
+• Le Client ne respecte plus les conditions d’éligibilité au Service décrites à l’article 1 ;
+
+
+
+• Clôture du Compte Boursorama ;
+
+
+
+• Suspicion de fraude.
+
+
+
+La Banque peut aussi décider de suspendre temporairement l’accès du Client au Service Wero en cas de manquement grave du
+
+Client à ses obligations au titre de l’Annexe Wero ou de suspicion de fraude par la Banque.
+
+
+
+Par ailleurs, le Client peut à tout moment résilier le Service Wero depuis l’Application mobile.
+
+
+
+ARTICLE 9 - MODIFICATION DE L’ANNEXE WERO ET DU SERVICE WERO
+
+
+
+Toute mesure législative ou réglementaire, comme toute interprétation d’une règle légale ou réglementaire par une autorité
+
+compétente, qui aurait pour effet de modifier tout ou partie de l’Annexe Wero sera applicable dès son entrée en vigueur. Par
+
+ailleurs, l’Annexe Wero peut évoluer consécutivement à des extensions et améliorations du Service Wero. La Banque se réserve
+
+la possibilité d’adapter ou de modifier à tout moment les prestations offertes par l’intermédiaire du Service Wero. Les nouvelles
+
+caractéristiques seront portées à la connaissance du Client par support durable, notamment dans son Espace Client, au plus tard
+
+deux mois avant leur date d’entrée en vigueur. À défaut de résiliation du Service Wero par le Client dans ce délai, les modifications
+
+seront réputées acceptées par le Client. En cas de désaccord, le Client a la possibilité de désactiver le Service Wero
+
+conformément aux dispositions ci-dessus et sans aucune pénalité.
+
+
+
+ARTICLE 10 - TRAITEMENT DES RÉCLAMATIONS
+
+
+
+Dans l’hypothèse d’une réclamation sur le Service Wero au sein de l’Application mobile, le Client est invité à formuler sa
+
+réclamation selon les modalités précisées à l’article 21 « Relations clientèle et médiations » des Conditions Générales.
+
+
+
+ARTICLE 11 – DROIT ET LANGUE APPLICABLES – TRIBUNAUX COMPETENTS – AUTORITE DE CONROLE
+
+
+
+Les présentes Conditions Générales d’utilisation sont régies, interprétées et appliquées par le droit français. La langue
+
+d’interprétation est la langue française en cas de contestation sur la signification d’un terme ou d’une disposition des présentes.
+
+Tout litige découlant des présentes ou qui en serait la suite ou la conséquence, sera de la compétence exclusive des tribunaux
+
+français. Coordonnées de l’autorité de contrôle compétente : l’Autorité de Contrôle Prudentiel et de Résolution est l’autorité
+
+chargée du contrôle de la banque, située 61 rue Taitbout 75436 Paris Cedex 09.
+
+121
+
+
+
+ANNEXE VIII
 
 ARTICLES L.221-30 ET S. DU CODE MONETAIRES ET FINANCIERS RELATIFS AU
 
@@ -27978,11 +28580,11 @@ Article L221-30
 
 
 
-Les personnes physiques majeures dont le domicile fiscal est situé en France peuvent ouvrir un plan d'épargne en actions
+Les personnes physiques majeures dont le domicile fiscal est situé en France peuvent ouvrir un plan d'épargne en actions auprès
 
-auprès d'un établissement de crédit, de la Caisse des dépôts et consignations, de la Banque de France, de La Banque postale,
+d'un établissement de crédit, de la Caisse des dépôts et consignations, de la Banque de France, de La Banque postale, d'une
 
-d'une entreprise d'investissement ou d'une entreprise d'assurance relevant du code des assurances.
+entreprise d'investissement ou d'une entreprise d'assurance relevant du code des assurances.
 
 
 
@@ -27990,15 +28592,15 @@ Une même personne ne peut être titulaire que d'un seul plan d'épargne en acti
 
 
 
-Le plan donne lieu à ouverture d'un compte de titres et d'un compte en espèces associés, ou, pour les plans ouverts auprès
+Le plan donne lieu à ouverture d'un compte de titres et d'un compte en espèces associés, ou, pour les plans ouverts auprès d'une
 
-d'une entreprise d'assurance, à signature d'un contrat de capitalisation.
+entreprise d'assurance, à signature d'un contrat de capitalisation.
 
 
 
-Le titulaire d'un plan effectue des versements en numéraire dans une limite de 150 000 € depuis l'ouverture du plan. Toutefois
+Le titulaire d'un plan effectue des versements en numéraire dans une limite de 150 000 € depuis l'ouverture du plan. Toutefois et
 
-et jusqu'à la fin de son rattachement, cette limite est fixée à 20 000 € pour une personne physique majeure rattachée, dans les
+jusqu'à la fin de son rattachement, cette limite est fixée à 20 000 € pour une personne physique majeure rattachée, dans les
 
 conditions prévues au 3 de l'article 6 du code général des impôts, au foyer fiscal d'un contribuable.
 
@@ -28022,9 +28624,9 @@ sociale ;
 
 
 
-b) Parts de sociétés à responsabilité limitée ou de sociétés dotées d'un statut équivalent et titres de capital de sociétés régies
+b) Parts de sociétés à responsabilité limitée ou de sociétés dotées d'un statut équivalent et titres de capital de sociétés régies par
 
-par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération ;
+la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération ;
 
 
 
@@ -28032,9 +28634,9 @@ par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération ;
 
 
 
-a) D'actions de sociétés d'investissement à capital variable qui emploient plus de 75 % de leurs actifs en titres mentionnés aux
+a) D'actions de sociétés d'investissement à capital variable qui emploient plus de 75 % de leurs actifs en titres mentionnés aux a
 
-a et b du 1° ;
+et b du 1° ;
 
 
 
@@ -28046,19 +28648,19 @@ c) De parts ou actions d'OPCVM établis dans d'autres Etats membres de l'Union e
 
 l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de
 
-lutter contre la fraude et l'évasion fiscales, qui bénéficient de la procédure de reconnaissance mutuelle des agréments prévue
+lutter contre la fraude et l'évasion fiscales, qui bénéficient de la procédure de reconnaissance mutuelle des agréments prévue par
 
-par la directive 2009/65/ CE du Parlement européen et du Conseil du 13 juillet 2009 et qui emploient plus de 75 % de leurs
+la directive 2009/65/ CE du Parlement européen et du Conseil du 13 juillet 2009 et qui emploient plus de 75 % de leurs actifs en
 
-actifs en titres mentionnés aux a et b du 1° ;
+titres mentionnés aux a et b du 1° ;
 
 
 
-3° Les sommes versées sur le plan d'épargne en actions peuvent également être employées dans un contrat de capitalisation
+3° Les sommes versées sur le plan d'épargne en actions peuvent également être employées dans un contrat de capitalisation en
 
-en unités de compte régi par le code des assurances et investi dans une ou plusieurs catégories de titres mentionnés ci-
+unités de compte régi par le code des assurances et investi dans une ou plusieurs catégories de titres mentionnés ci-dessus,
 
-dessus, sous réserve des dispositions de l'article L. 131-1 du même code ;
+sous réserve des dispositions de l'article L. 131-1 du même code ;
 
 
 
@@ -28076,9 +28678,9 @@ code général des impôts ainsi qu'aux sociétés visées au 3° septies de l'a
 
 
 
-II. – 1° Les parts des fonds mentionnés au 3 du III de l'article 150-0 A du code général des impôts ne peuvent figurer dans le
+II. – 1° Les parts des fonds mentionnés au 3 du III de l'article 150-0 A du code général des impôts ne peuvent figurer dans le plan
 
-plan d'épargne en actions.
+d'épargne en actions.
 
 
 
@@ -28092,29 +28694,31 @@ conditions mentionnées à l'article 80 bis du code général des impôts ;
 
 articles 199 undecies A et 199 unvicies, du II bis de l'article 80 bis du code général des impôts, ainsi que du deuxième alinéa du
 
-II de l'article 726 du même code ne peuvent figurer dans le plan. Ne peuvent pas non plus figurer dans le plan les parts de
+II de l'article 726 du même code ne peuvent figurer dans le plan. Ne peuvent pas non plus figurer dans le plan les parts de fonds
 
-fonds communs de placement à risques, les actions de sociétés de capital-risque et les titres des entités mentionnées au
+122
 
-dernier alinéa du 8 du II de l'article 150-0 A du code général des impôts, donnant lieu à des droits différents sur l'actif net ou sur
 
-les produits du fonds, de la société ou de l'entité et attribués en fonction de la qualité de la personne ;
 
-117
+communs de placement à risques, les actions de sociétés de capital-risque et les titres des entités mentionnées au dernier alinéa
+
+du 8 du II de l'article 150-0 A du code général des impôts, donnant lieu à des droits différents sur l'actif net ou sur les produits du
+
+fonds, de la société ou de l'entité et attribués en fonction de la qualité de la personne ;
 
 
 
 3° Le titulaire du plan d'épargne en actions, son conjoint ou partenaire lié par un pacte civil de solidarité et leurs ascendants et
 
-descendants ne doivent pas, pendant la durée du plan, détenir ensemble, directement ou indirectement, plus de 25 % des
+descendants ne doivent pas, pendant la durée du plan, détenir ensemble, directement ou indirectement, plus de 25 % des droits
 
-droits dans les bénéfices de sociétés dont les titres figurent au plan d'épargne en actions ou avoir détenu cette participation à
+dans les bénéfices de sociétés dont les titres figurent au plan d'épargne en actions ou avoir détenu cette participation à un moment
 
-un moment quelconque au cours des cinq années précédant l'acquisition de ces titres dans le cadre du plan. Le pourcentage
+quelconque au cours des cinq années précédant l'acquisition de ces titres dans le cadre du plan. Le pourcentage des droits
 
-des droits détenus indirectement par ces personnes, par l'intermédiaire de sociétés ou d'organismes interposés et quel qu'en
+détenus indirectement par ces personnes, par l'intermédiaire de sociétés ou d'organismes interposés et quel qu'en soit le nombre,
 
-soit le nombre, s'apprécie en multipliant entre eux les taux de détention successifs dans la chaîne de participations ;
+s'apprécie en multipliant entre eux les taux de détention successifs dans la chaîne de participations ;
 
 
 
@@ -28126,9 +28730,9 @@ descendants.
 
 
 
-III. – Les sommes ou valeurs provenant des placements effectués sur le plan d'épargne en actions sont remployées dans le
+III. – Les sommes ou valeurs provenant des placements effectués sur le plan d'épargne en actions sont remployées dans le plan
 
-plan dans les mêmes conditions que les versements.
+dans les mêmes conditions que les versements.
 
 
 
@@ -28136,9 +28740,9 @@ Article L221-32
 
 
 
-I. – Au-delà de la cinquième année, les retraits partiels de sommes ou de valeurs et, s'agissant des contrats de capitalisation,
+I. – Au-delà de la cinquième année, les retraits partiels de sommes ou de valeurs et, s'agissant des contrats de capitalisation, les
 
-les rachats partiels n'entraînent pas la clôture du plan d'épargne en actions.
+rachats partiels n'entraînent pas la clôture du plan d'épargne en actions.
 
 
 
@@ -28148,39 +28752,39 @@ clôture du plan.
 
 
 
-Par dérogation à cette disposition, des retraits ou des rachats de sommes ou de valeurs figurant sur le plan peuvent être
+Par dérogation à cette disposition, des retraits ou des rachats de sommes ou de valeurs figurant sur le plan peuvent être effectuées
 
-effectuées au cours des cinq années suivant l'ouverture du plan sans entraîner la clôture, à la condition que ces sommes ou
+au cours des cinq années suivant l'ouverture du plan sans entraîner la clôture, à la condition que ces sommes ou valeurs soient
 
-valeurs soient affectées, dans les trois mois suivant le retrait ou le rachat, au financement de la création ou de la reprise d'une
+affectées, dans les trois mois suivant le retrait ou le rachat, au financement de la création ou de la reprise d'une entreprise dont
 
-entreprise dont le titulaire du plan, son conjoint, ou partenaire lié par un pacte civil de solidarité, son ascendant ou son
+le titulaire du plan, son conjoint, ou partenaire lié par un pacte civil de solidarité, son ascendant ou son descendant assure
 
-descendant assure personnellement l'exploitation ou la direction et lorsque ces sommes ou valeurs sont utilisées à la
+personnellement l'exploitation ou la direction et lorsque ces sommes ou valeurs sont utilisées à la souscription en numéraire au
 
-souscription en numéraire au capital initial d'une société, à l'achat d'une entreprise existante ou lorsqu'elles sont versées au
+capital initial d'une société, à l'achat d'une entreprise existante ou lorsqu'elles sont versées au compte de l'exploitant d'une
 
-compte de l'exploitant d'une entreprise individuelle créée depuis moins de trois mois à la date du versement. Toutefois, aucun
+entreprise individuelle créée depuis moins de trois mois à la date du versement. Toutefois, aucun versement n'est possible après
 
-versement n'est possible après le premier retrait ou le premier rachat.
+le premier retrait ou le premier rachat.
 
 
 
 Par dérogation à cette même disposition, des retraits de liquidités ou des rachats peuvent être effectués sur le plan avant
 
-l'expiration du délai mentionné au premier alinéa du présent II sans entraîner la clôture, à la condition que ces retraits ou
+l'expiration du délai mentionné au premier alinéa du présent II sans entraîner la clôture, à la condition que ces retraits ou rachats
 
-rachats résultent du licenciement, de l'invalidité telle que prévue aux 2° ou 3° de l'article L. 341-4 du code de la sécurité
+résultent du licenciement, de l'invalidité telle que prévue aux 2° ou 3° de l'article L. 341-4 du code de la sécurité sociale ou de la
 
-sociale ou de la mise à la retraite anticipée du titulaire du plan ou de son époux ou partenaire lié par un pacte civil de solidarité.
+mise à la retraite anticipée du titulaire du plan ou de son époux ou partenaire lié par un pacte civil de solidarité.
 
 
 
-III.-Les frais appliqués au titulaire du plan par la personne auprès de laquelle celui-ci est ouvert à raison de cette ouverture, de
+III.-Les frais appliqués au titulaire du plan par la personne auprès de laquelle celui-ci est ouvert à raison de cette ouverture, de sa
 
-sa tenue, des transactions qui y sont opérées ou d'un éventuel transfert de ce plan vers une autre personne font l'objet de
+tenue, des transactions qui y sont opérées ou d'un éventuel transfert de ce plan vers une autre personne font l'objet de plafonds
 
-plafonds fixés par décret.
+fixés par décret.
 
 
 
@@ -28190,11 +28794,11 @@ IV.-Lorsqu'une entité dont les titres figurent sur le plan fait l'objet d'une p
 
 de l'article 3 du règlement (UE) 2015/848 du Parlement européen et du Conseil du 20 mai 2015 relatif aux procédures
 
-d'insolvabilité, le titulaire du plan peut demander, dès le prononcé du jugement d'ouverture de cette procédure, le retrait sans
+d'insolvabilité, le titulaire du plan peut demander, dès le prononcé du jugement d'ouverture de cette procédure, le retrait sans frais
 
-frais de ces titres du plan. Ce retrait n'entraîne pas l'impossibilité d'effectuer des versements mentionnés au I du présent article
+de ces titres du plan. Ce retrait n'entraîne pas l'impossibilité d'effectuer des versements mentionnés au I du présent article ou la
 
-ou la clôture du plan mentionnée au premier alinéa du II.
+clôture du plan mentionnée au premier alinéa du II.
 
 
 
@@ -28232,13 +28836,13 @@ d'une indexation en relation directe avec l'activité de la société dont les t
 
 l'année au cours de laquelle il est reçu.
 
+123
+
 
 
 Le gain retiré de la cession ou de l'apport d'une créance qui trouve son origine dans une clause contractuelle de complément de
 
 prix visée au premier alinéa est imposé dans les mêmes conditions au titre de l'année de la cession ou de l'apport.
-
-118
 
 
 
@@ -28276,23 +28880,23 @@ II. – Les dispositions du I sont applicables :
 
 
 
-2\. Au gain net réalisé depuis l'ouverture d'un plan d'épargne en actions défini à l'article 163 quinquies D en cas de retrait de
+2\. Au gain net réalisé depuis l'ouverture d'un plan d'épargne en actions défini à l'article 163 quinquies D en cas de retrait de titres
 
-titres ou de liquidités ou de rachat avant l'expiration de la cinquième année dans les mêmes conditions. Lorsque ce retrait ou
+ou de liquidités ou de rachat avant l'expiration de la cinquième année dans les mêmes conditions. Lorsque ce retrait ou rachat
 
-rachat n'entraîne pas la clôture du plan, le gain net imposable est déterminé suivant les modalités définies au b du 5° du II de
+n'entraîne pas la clôture du plan, le gain net imposable est déterminé suivant les modalités définies au b du 5° du II de l'article L.
 
-l'article L. 136-7 du code de la sécurité sociale. La disposition de la première phrase du présent 2 n'est pas applicable aux
+136-7 du code de la sécurité sociale. La disposition de la première phrase du présent 2 n'est pas applicable aux sommes ou
 
-sommes ou valeurs retirées ou rachetées, lorsqu'elles sont affectées, dans les trois mois suivant le retrait ou le rachat, au
+valeurs retirées ou rachetées, lorsqu'elles sont affectées, dans les trois mois suivant le retrait ou le rachat, au financement de la
 
-financement de la création ou de la reprise d'une entreprise dont le titulaire du plan, son conjoint, son ascendant ou son
+création ou de la reprise d'une entreprise dont le titulaire du plan, son conjoint, son ascendant ou son descendant assure
 
-descendant assure personnellement l'exploitation ou la direction et lorsque ces sommes ou valeurs sont utilisées à la
+personnellement l'exploitation ou la direction et lorsque ces sommes ou valeurs sont utilisées à la souscription en numéraire au
 
-souscription en numéraire au capital initial d'une société, à l'achat d'une entreprise existante ou lorsqu'elles sont versées au
+capital initial d'une société, à l'achat d'une entreprise existante ou lorsqu'elles sont versées au compte de l'exploitant d'une
 
-compte de l'exploitant d'une entreprise individuelle créée depuis moins de trois mois à la date du versement ;
+entreprise individuelle créée depuis moins de trois mois à la date du versement ;
 
 
 
@@ -28302,9 +28906,9 @@ après l'expiration de la cinquième année lorsqu'à la date de cet événement
 
 de capitalisation est inférieure au montant des versements effectués sur le plan depuis son ouverture, compte non tenu de ceux
 
-afférents aux retraits ou rachats n'ayant pas entraîné la clôture du plan, et à condition que, à la date de la clôture, les titres
+afférents aux retraits ou rachats n'ayant pas entraîné la clôture du plan, et à condition que, à la date de la clôture, les titres figurant
 
-figurant dans le plan aient été cédés en totalité ou que le contrat de capitalisation ait fait l'objet d'un rachat total ;
+dans le plan aient été cédés en totalité ou que le contrat de capitalisation ait fait l'objet d'un rachat total ;
 
 
 
@@ -28338,29 +28942,27 @@ agissant directement, par personne interposée ou par l'intermédiaire d'une fid
 
 
 
-5\. Au gain net retiré des cessions de parts des fonds communs de créances dont la durée à l'émission est supérieure à cinq
-
-ans.
+5\. Au gain net retiré des cessions de parts des fonds communs de créances dont la durée à l'émission est supérieure à cinq ans.
 
 
 
-6\. Au gain net retiré par le bénéficiaire lors d'un rachat par une société émettrice de ses propres titres et défini au 8 ter de
+6\. Au gain net retiré par le bénéficiaire lors d'un rachat par une société émettrice de ses propres titres et défini au 8 ter de l'article
 
-l'article 150-0 D ;
+150-0 D ;
 
 
 
 7\. Sous réserve de l'application de l'article 163 quinquies B et du 8, en cas de distribution d'une fraction des actifs d'un fonds
 
-commun de placement à risques, d'un fonds professionnel spécialisé relevant de l'article L. 214-37 du code monétaire et
+commun de placement à risques, d'un fonds professionnel spécialisé relevant de l'article L. 214-37 du code monétaire et financier,
 
-financier, dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion
+dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs, d'un
 
-d'actifs, d'un fonds professionnel de capital d'investissement ou d'une entité de même nature constituée sur le fondement d'un
+fonds professionnel de capital d'investissement ou d'une entité de même nature constituée sur le fondement d'un droit étranger,
 
-droit étranger, à l'excédent du montant des sommes ou valeurs distribuées sur le montant des apports, ou le prix d'acquisition
+à l'excédent du montant des sommes ou valeurs distribuées sur le montant des apports, ou le prix d'acquisition des parts s'il est
 
-des parts s'il est différent du montant des apports ;
+différent du montant des apports ;
 
 
 
@@ -28378,41 +28980,39 @@ même nature constituée sur le fondement d'un droit étranger ;
 
 dirigeants soumis au régime fiscal des salariés, des sociétés de capital-risque, des sociétés de gestion de tels fonds ou de
 
+124
+
+
+
 sociétés de capital-risque, ou des sociétés qui réalisent des prestations de services liées à la gestion des fonds précités ou des
 
 sociétés de capital-risque, lors de la cession ou du rachat de parts de fonds communs de placement à risques ou de fonds
 
-119
-
-
-
 professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à
 
-l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs ou de fonds professionnels de
+l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs ou de fonds professionnels de capital
 
-capital investissement ou d'actions de sociétés de capital-risque donnant lieu à des droits différents sur l'actif net ou les produits
+investissement ou d'actions de sociétés de capital-risque donnant lieu à des droits différents sur l'actif net ou les produits du fonds
 
-du fonds ou de la société et attribuées en fonction de la qualité de la personne, sous réserve du respect des conditions
-
-suivantes :
+ou de la société et attribuées en fonction de la qualité de la personne, sous réserve du respect des conditions suivantes :
 
 
 
-1° Les parts ou actions cédées ont été souscrites ou acquises moyennant un prix correspondant à la valeur des parts ou
+1° Les parts ou actions cédées ont été souscrites ou acquises moyennant un prix correspondant à la valeur des parts ou actions
 
-actions ;
+;
 
 
 
-2° L'ensemble des parts d'un même fonds commun de placement à risques ou d'un même fonds professionnel spécialisé
+2° L'ensemble des parts d'un même fonds commun de placement à risques ou d'un même fonds professionnel spécialisé relevant
 
-relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25
+de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013
 
-juillet 2013 modifiant le cadre juridique de la gestion d'actifs ou d'un même fonds professionnel de capital investissement ou des
+modifiant le cadre juridique de la gestion d'actifs ou d'un même fonds professionnel de capital investissement ou des actions
 
-actions d'une même société de capital-risque donnant lieu à des droits différents sur l'actif net ou les produits du fonds ou de la
+d'une même société de capital-risque donnant lieu à des droits différents sur l'actif net ou les produits du fonds ou de la société
 
-société et attribuées en fonction de la qualité de la personne satisfont aux conditions suivantes :
+et attribuées en fonction de la qualité de la personne satisfont aux conditions suivantes :
 
 
 
@@ -28434,9 +29034,9 @@ d'euros ;
 
 
 
-A titre dérogatoire, un pourcentage distinct peut être fixé par décret pour certaines catégories de fonds ou de sociétés, après
+A titre dérogatoire, un pourcentage distinct peut être fixé par décret pour certaines catégories de fonds ou de sociétés, après avis
 
-avis de l'Autorité des marchés financiers ;
+de l'Autorité des marchés financiers ;
 
 
 
@@ -28446,9 +29046,9 @@ constitution du fonds ou de l'émission de ces actions et, pour les parts de fon
 
 professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à
 
-l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs ou de fonds professionnels de
+l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs ou de fonds professionnels de capital
 
-capital investissement, après le remboursement des apports des autres porteurs de parts ;
+investissement, après le remboursement des apports des autres porteurs de parts ;
 
 
 
@@ -28466,31 +29066,31 @@ Ces dispositions s'appliquent également dans les mêmes conditions :
 
 des parts de fonds communs de placement à risques ou de fonds professionnels spécialisés relevant de l'article L. 214-37 du
 
-code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre
+code monétaire et financier dans sa rédaction antérieure à l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique
 
-juridique de la gestion d'actifs ou de fonds professionnels de capital investissement donnant lieu à des droits différents sur l'actif
+de la gestion d'actifs ou de fonds professionnels de capital investissement donnant lieu à des droits différents sur l'actif net ou les
 
-net ou les produits du fonds et attribuées en fonction de la qualité de la personne ;
+produits du fonds et attribuées en fonction de la qualité de la personne ;
 
 
 
 2° Aux gains nets mentionnés au premier alinéa du présent 8 réalisés par les salariés ou dirigeants soumis au régime fiscal des
 
-salariés d'une entité, constituée dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur
+salariés d'une entité, constituée dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace
 
-l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre
+économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude
 
-la fraude et l'évasion fiscales et dont l'objet principal est d'investir dans des sociétés dont les titres ne sont pas admis aux
+et l'évasion fiscales et dont l'objet principal est d'investir dans des sociétés dont les titres ne sont pas admis aux négociations sur
 
-négociations sur un marché d'instruments financiers français ou étranger, ou d'une société qui réalise des prestations de
+un marché d'instruments financiers français ou étranger, ou d'une société qui réalise des prestations de services liées à la gestion
 
-services liées à la gestion de cette entité, lorsque les titres cédés ou rachetés sont des droits représentatifs d'un placement
+de cette entité, lorsque les titres cédés ou rachetés sont des droits représentatifs d'un placement financier dans cette entité
 
-financier dans cette entité donnant lieu à des droits différents sur l'actif net ou les produits de l'entité et sont attribués en
+donnant lieu à des droits différents sur l'actif net ou les produits de l'entité et sont attribués en fonction de la qualité de la personne,
 
-fonction de la qualité de la personne, ainsi qu'aux distributions, représentatives des plus-values réalisées par l'entité, perçues
+ainsi qu'aux distributions, représentatives des plus-values réalisées par l'entité, perçues par ces mêmes salariés ou dirigeants en
 
-par ces mêmes salariés ou dirigeants en rémunération de ces droits.
+rémunération de ces droits.
 
 
 
@@ -28516,31 +29116,31 @@ n'a pas été fiscalement domicilié en France au cours des trois années civile
 
 présent 9 ou d'une société réalisant des prestations de services liées à la gestion de cette entité et en retire une rémunération
 
-normale au titre de son contrat de travail, de son contrat de prestations de services, de son contrat d'association ou de son
+normale au titre de son contrat de travail, de son contrat de prestations de services, de son contrat d'association ou de son mandat
 
-mandat social ;
+social ;
 
 
 
 3° Les parts, actions ou droits mentionnés au premier alinéa du présent 9 ont été souscrits, obtenus ou acquis à une date à
 
-laquelle le bénéficiaire était fiscalement domicilié hors de France ou conformément aux termes et conditions fixés par le
+laquelle le bénéficiaire était fiscalement domicilié hors de France ou conformément aux termes et conditions fixés par le règlement
 
-120
+125
 
 
 
-règlement ou les statuts de l'entité d'investissement préalablement à l'établissement en France du domicile fiscal du
+ou les statuts de l'entité d'investissement préalablement à l'établissement en France du domicile fiscal du bénéficiaire. Ces parts,
 
-bénéficiaire. Ces parts, actions ou droits n'ont pas été intégralement souscrits, obtenus ou acquis à titre gratuit ;
+actions ou droits n'ont pas été intégralement souscrits, obtenus ou acquis à titre gratuit ;
 
 
 
 4° L'entité d'investissement mentionnée au premier alinéa du présent 9 est constituée hors de France dans un Etat partie à
 
-l'accord sur l'Espace économique européen ou dans un Etat ou territoire ayant conclu avec la France une convention
+l'accord sur l'Espace économique européen ou dans un Etat ou territoire ayant conclu avec la France une convention d'assistance
 
-d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales.
+administrative en vue de lutter contre la fraude et l'évasion fiscales.
 
 
 
@@ -28554,13 +29154,13 @@ III. – Les dispositions du I ne s'appliquent pas :
 
 1\. Aux cessions et aux rachats de parts de fonds communs de placement à risques ou de fonds professionnels de capital
 
-d'investissement mentionnées à l'article 163 quinquies B, réalisés par les porteurs de parts, remplissant les conditions fixées
+d'investissement mentionnées à l'article 163 quinquies B, réalisés par les porteurs de parts, remplissant les conditions fixées aux
 
-aux I et II ou aux I et III bis de l'article précité, après l'expiration de la période mentionnée au I du même article. Cette
+I et II ou aux I et III bis de l'article précité, après l'expiration de la période mentionnée au I du même article. Cette disposition n'est
 
-disposition n'est pas applicable si, à la date de la cession ou du rachat, le fonds a cessé de remplir les conditions énumérées au
+pas applicable si, à la date de la cession ou du rachat, le fonds a cessé de remplir les conditions énumérées au II ou au III bis de
 
-II ou au III bis de l'article 163 quinquies B ;
+l'article 163 quinquies B ;
 
 
 
@@ -28584,43 +29184,43 @@ précité, après l'expiration de la période de cinq ans mentionnée au 2° du 
 
 
 
-Les dispositions du premier alinéa ne s'appliquent pas aux actions de sociétés de capital-risque donnant lieu à des droits
+Les dispositions du premier alinéa ne s'appliquent pas aux actions de sociétés de capital-risque donnant lieu à des droits différents
 
-différents sur l'actif net ou sur les produits du fonds et attribuées en fonction de la qualité de la personne.
-
-
-
-2\. Aux titres cédés dans le cadre de leur gestion par les fonds communs de placement sous réserve qu'aucune personne
-
-physique agissant directement, par personne interposée ou par l'intermédiaire d'une fiducie ne possède plus de 10 % des parts
-
-du fonds. Cette condition ne s'applique pas aux fonds mentionnés au 3.
+sur l'actif net ou sur les produits du fonds et attribuées en fonction de la qualité de la personne.
 
 
 
-3\. Aux titres cédés dans le cadre de leur gestion par les fonds communs de placement, constitués en application des
+2\. Aux titres cédés dans le cadre de leur gestion par les fonds communs de placement sous réserve qu'aucune personne physique
 
-législations sur la participation des salariés aux résultats des entreprises et les plans d'épargne d'entreprise ainsi qu'aux rachats
+agissant directement, par personne interposée ou par l'intermédiaire d'une fiducie ne possède plus de 10 % des parts du fonds.
 
-de parts de tels fonds ;
-
-
-
-4\. A la cession des titres acquis dans le cadre de la législation sur la participation des salariés aux résultats de l'entreprise et
-
-sur l'actionnariat des salariés, à la condition que ces titres revêtent la forme nominative et comportent la mention d'origine ;
+Cette condition ne s'applique pas aux fonds mentionnés au 3.
 
 
 
-4 bis A la cession des titres détenus dans un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et
+3\. Aux titres cédés dans le cadre de leur gestion par les fonds communs de placement, constitués en application des législations
 
-financier ;
+sur la participation des salariés aux résultats des entreprises et les plans d'épargne d'entreprise ainsi qu'aux rachats de parts de
+
+tels fonds ;
 
 
 
-5\. A la cession de titres effectuée dans le cadre d'un engagement d'épargne à long terme lorsque les conditions fixées
+4\. A la cession des titres acquis dans le cadre de la législation sur la participation des salariés aux résultats de l'entreprise et sur
 
-par l'article 163 bis A sont respectées ;
+l'actionnariat des salariés, à la condition que ces titres revêtent la forme nominative et comportent la mention d'origine ;
+
+
+
+4 bis A la cession des titres détenus dans un plan d'épargne retraite mentionné à l'article L. 224-1 du code monétaire et financier
+
+;
+
+
+
+5\. A la cession de titres effectuée dans le cadre d'un engagement d'épargne à long terme lorsque les conditions fixées par l'article
+
+163 bis A sont respectées ;
 
 
 
@@ -28654,25 +29254,25 @@ Article 150-0 D
 
 ou droits, net des frais et taxes acquittés par le cédant, et leur prix effectif d'acquisition par celui-ci diminué, le cas échéant, des
 
-réductions d'impôt effectivement obtenues dans les conditions prévues à l'article 199 terdecies-0 A, ou, en cas d'acquisition à
+réductions d'impôt effectivement obtenues dans les conditions prévues à l'article 199 terdecies-0 A, ou, en cas d'acquisition à titre
 
-titre gratuit, leur valeur retenue pour la détermination des droits de mutation.
+gratuit, leur valeur retenue pour la détermination des droits de mutation.
 
 
 
 Les gains nets résultant de la cession à titre onéreux ou retirés du rachat d'actions, de parts de sociétés, de droits démembrés
 
-portant sur ces actions ou parts, ou de titres représentatifs de ces mêmes actions, parts ou droits, mentionnés à l'article 150-0
+portant sur ces actions ou parts, ou de titres représentatifs de ces mêmes actions, parts ou droits, mentionnés à l'article 150-0 A,
 
-A, ainsi que les distributions mentionnées aux 7,7 bis et aux deux derniers alinéas du 8 du II du même article, à l'article 150-0
+ainsi que les distributions mentionnées aux 7,7 bis et aux deux derniers alinéas du 8 du II du même article, à l'article 150-0 F et
 
-121
+126
 
 
 
-F et au 1 du II de l'article 163 quinquies C sont réduits d'un abattement déterminé dans les conditions prévues, selon le cas, au
+au 1 du II de l'article 163 quinquies C sont réduits d'un abattement déterminé dans les conditions prévues, selon le cas, au 1 ter
 
-1 ter ou au 1 quater du présent article.
+ou au 1 quater du présent article.
 
 
 
@@ -28714,57 +29314,55 @@ huit ans à la date de la cession ou de la distribution.
 
 
 
-Cet abattement s'applique aux gains nets de cession à titre onéreux ou de rachat de parts ou d'actions d'organismes de
+Cet abattement s'applique aux gains nets de cession à titre onéreux ou de rachat de parts ou d'actions d'organismes de placement
 
-placement collectif en valeurs mobilières ou de placements collectifs, relevant des articles L. 214-24-24 à L. 214-32-1, L. 214-
+collectif en valeurs mobilières ou de placements collectifs, relevant des articles L. 214-24-24 à L. 214-32-1, L. 214-139 à L. 214-
 
-139 à L. 214-147 et L. 214-152 à L. 214-166 du code monétaire et financier, ou de dissolution de tels organismes ou
+147 et L. 214-152 à L. 214-166 du code monétaire et financier, ou de dissolution de tels organismes ou placements, à condition
 
-placements, à condition qu'ils emploient plus de 75 % de leurs actifs en parts ou actions de sociétés. Ce quota doit être
+qu'ils emploient plus de 75 % de leurs actifs en parts ou actions de sociétés. Ce quota doit être respecté au plus tard lors de la
 
-respecté au plus tard lors de la clôture de l'exercice suivant celui de la constitution de l'organisme ou du placement collectif et,
+clôture de l'exercice suivant celui de la constitution de l'organisme ou du placement collectif et, de manière continue, jusqu'à la
 
-de manière continue, jusqu'à la date de la cession ou du rachat des actions, parts ou droits ou de la dissolution de cet
+date de la cession ou du rachat des actions, parts ou droits ou de la dissolution de cet organisme ou placement collectif. Toutefois,
 
-organisme ou placement collectif. Toutefois, cette condition ne s'applique pas aux gains nets mentionnés au 8 du II de l'article
+cette condition ne s'applique pas aux gains nets mentionnés au 8 du II de l'article 150-0 A du présent code et aux gains nets de
 
-150-0 A du présent code et aux gains nets de cession ou de rachat de parts de fonds communs de placement à risques
+cession ou de rachat de parts de fonds communs de placement à risques mentionnés aux articles L. 214-28, L. 214-30 et L. 214-
 
-mentionnés aux articles L. 214-28, L. 214-30 et L. 214-31 du code monétaire et financier et de parts ou actions de fonds
+31 du code monétaire et financier et de parts ou actions de fonds professionnels de capital investissement mentionnés à l'article
 
-professionnels de capital investissement mentionnés à l'article L. 214-159 du même code.
-
-
-
-L'abattement précité s'applique aux distributions mentionnées aux 7 et 7 bis du II de l'article 150-0 A du présent code, à
-
-condition que les fonds mentionnés à ce même 7 et les organismes ou les placements collectifs mentionnés à ce même 7 bis
-
-emploient plus de 75 % de leurs actifs en actions ou parts de sociétés ou en droits portant sur ces actions ou parts. Ce quota
-
-doit être respecté au plus tard lors de la clôture de l'exercice suivant celui de la constitution du fonds, de l'organisme ou du
-
-placement collectif et de manière continue jusqu'à la date de la distribution. Toutefois, cette condition ne s'applique pas aux
-
-distributions effectuées par des fonds communs de placement à risques mentionnés aux articles L. 214-28, L. 214-30 et L. 214-
-
-31 du code monétaire et financier et de fonds professionnels de capital investissement mentionnés à l'article L. 214-159 du
-
-même code.
+L. 214-159 du même code.
 
 
 
-Les conditions mentionnées aux quatrième et cinquième alinéas du présent A s'appliquent également aux entités de même
+L'abattement précité s'applique aux distributions mentionnées aux 7 et 7 bis du II de l'article 150-0 A du présent code, à condition
 
-nature constituées sur le fondement d'un droit étranger.
+que les fonds mentionnés à ce même 7 et les organismes ou les placements collectifs mentionnés à ce même 7 bis emploient
+
+plus de 75 % de leurs actifs en actions ou parts de sociétés ou en droits portant sur ces actions ou parts. Ce quota doit être
+
+respecté au plus tard lors de la clôture de l'exercice suivant celui de la constitution du fonds, de l'organisme ou du placement
+
+collectif et de manière continue jusqu'à la date de la distribution. Toutefois, cette condition ne s'applique pas aux distributions
+
+effectuées par des fonds communs de placement à risques mentionnés aux articles L. 214-28, L. 214-30 et L. 214-31 du code
+
+monétaire et financier et de fonds professionnels de capital investissement mentionnés à l'article L. 214-159 du même code.
+
+
+
+Les conditions mentionnées aux quatrième et cinquième alinéas du présent A s'appliquent également aux entités de même nature
+
+constituées sur le fondement d'un droit étranger.
 
 
 
 Par dérogation aux mêmes quatrième et cinquième alinéas, pour les organismes constitués avant le 1er janvier 2014, le quota
 
-de 75 % doit être respecté au plus tard lors de la clôture du premier exercice ouvert à compter de cette même date et de
+de 75 % doit être respecté au plus tard lors de la clôture du premier exercice ouvert à compter de cette même date et de manière
 
-manière continue jusqu'à la date de la cession, du rachat ou de la dissolution ou jusqu'à la date de la distribution.
+continue jusqu'à la date de la cession, du rachat ou de la dissolution ou jusqu'à la date de la distribution.
 
 
 
@@ -28776,17 +29374,17 @@ B.-L'abattement mentionné au A s'applique sous réserve du respect des conditio
 
 
 
-2° Les gains nets, distributions ou compléments de prix considérés sont imposés dans les conditions prévues au 2 de l'article
+2° Les gains nets, distributions ou compléments de prix considérés sont imposés dans les conditions prévues au 2 de l'article 200
 
-200 A.
+A.
 
 
 
 1 quater. Par dérogation au 1 ter, les gains nets résultant de la cession à titre onéreux ou retirés du rachat d'actions ou de parts
 
-de sociétés ou de droits démembrés portant sur ces actions ou parts, mentionnés à l'article 150-0 A, sont réduits d'un
+de sociétés ou de droits démembrés portant sur ces actions ou parts, mentionnés à l'article 150-0 A, sont réduits d'un abattement
 
-abattement au taux mentionné au A lorsque les conditions prévues au B sont remplies.
+au taux mentionné au A lorsque les conditions prévues au B sont remplies.
 
 
 
@@ -28794,9 +29392,9 @@ A.-Le taux de l'abattement est égal à :
 
 
 
-1° 50 % de leur montant lorsque les actions, parts ou droits sont détenus depuis au moins un an et moins de quatre ans à la
+1° 50 % de leur montant lorsque les actions, parts ou droits sont détenus depuis au moins un an et moins de quatre ans à la date
 
-date de la cession ;
+de la cession ;
 
 
 
@@ -28808,11 +29406,11 @@ date de la cession ;
 
 3° 85 % de leur montant lorsque les actions, parts ou droits sont détenus depuis au moins huit ans à la date de la cession.
 
-122
-
 
 
 B.-L'abattement mentionné au A s'applique sous réserve du respect de l'ensemble des conditions suivantes :
+
+127
 
 
 
@@ -28832,13 +29430,13 @@ reprise d'activités préexistantes. Cette condition s'apprécie à la date de s
 
 b) Elle est une petite ou moyenne entreprise au sens de l'annexe I du règlement (UE) n° 651/2014 de la Commission du 17 juin
 
-2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du
+2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 
-traité. Cette condition est appréciée à la date de clôture du dernier exercice précédant la date de souscription ou d'acquisition
+Cette condition est appréciée à la date de clôture du dernier exercice précédant la date de souscription ou d'acquisition de ces
 
-de ces droits ou, à défaut d'exercice clos, à la date du premier exercice clos suivant la date de souscription ou d'acquisition de
+droits ou, à défaut d'exercice clos, à la date du premier exercice clos suivant la date de souscription ou d'acquisition de ces droits
 
-ces droits ;
+;
 
 
 
@@ -28858,21 +29456,21 @@ et l'évasion fiscales ;
 
 
 
-f) Elle exerce une activité commerciale au sens des articles 34 ou 35, industrielle, artisanale, libérale ou agricole. Les activités
+f) Elle exerce une activité commerciale au sens des articles 34 ou 35, industrielle, artisanale, libérale ou agricole. Les activités de
 
-de gestion de son propre patrimoine mobilier ou immobilier sont exclues.
+gestion de son propre patrimoine mobilier ou immobilier sont exclues.
 
 
 
 Lorsque la société émettrice des droits cédés est une société holding animatrice qui, outre la gestion d'un portefeuille de
 
-participations, participe activement à la conduite de la politique de son groupe et au contrôle de ses filiales et rend, le cas
+participations, participe activement à la conduite de la politique de son groupe et au contrôle de ses filiales et rend, le cas échéant
 
-échéant et à titre purement interne, des services spécifiques, administratifs, juridiques, comptables, financiers et immobiliers, le
+et à titre purement interne, des services spécifiques, administratifs, juridiques, comptables, financiers et immobiliers, le respect
 
-respect des conditions mentionnées au présent 2° s'apprécie au niveau de la société émettrice et de chacune des sociétés
+des conditions mentionnées au présent 2° s'apprécie au niveau de la société émettrice et de chacune des sociétés dans laquelle
 
-dans laquelle elle détient des participations.
+elle détient des participations.
 
 
 
@@ -28886,9 +29484,9 @@ C.-L'abattement mentionné au A ne s'applique pas :
 
 
 
-1° Aux gains nets de cession ou de rachat de parts ou d'actions d'organismes de placement collectif en valeurs mobilières ou
+1° Aux gains nets de cession ou de rachat de parts ou d'actions d'organismes de placement collectif en valeurs mobilières ou de
 
-de placements collectifs relevant des articles L. 214-24-24 à L. 214-32-1, L. 214-139 à L. 214-147 et L. 214-152 à L. 214-166 du
+placements collectifs relevant des articles L. 214-24-24 à L. 214-32-1, L. 214-139 à L. 214-147 et L. 214-152 à L. 214-166 du
 
 code monétaire et financier ou d'entités de même nature constituées sur le fondement d'un droit étranger ou de dissolution de
 
@@ -28926,11 +29524,11 @@ au II de l'article 150 UB, à partir de la date de souscription ou d'acquisition
 
 
 
-3° En cas de cession d'actions, parts, droits ou titres après la clôture d'un plan d'épargne en actions défini à l'article 163
+3° En cas de cession d'actions, parts, droits ou titres après la clôture d'un plan d'épargne en actions défini à l'article 163 quinquies
 
-quinquies D ou leur retrait dudit plan, à partir de la date à laquelle le cédant a cessé de bénéficier, pour ces actions, parts, droits
+D ou leur retrait dudit plan, à partir de la date à laquelle le cédant a cessé de bénéficier, pour ces actions, parts, droits ou titres,
 
-ou titres, des avantages prévus aux 5° bis et 5° ter de l'article 157 ;
+des avantages prévus aux 5° bis et 5° ter de l'article 157 ;
 
 
 
@@ -28950,13 +29548,13 @@ a) Lorsque les actions, parts, droits ou titres ont été acquis ou souscrits pa
 
 souscription de ces actions, parts, droits ou titres par la fiducie ;
 
-123
+128
 
 
 
-b) Lorsque les actions, parts, droits ou titres ont été transférés dans le patrimoine fiduciaire dans les conditions prévues
+b) Lorsque les actions, parts, droits ou titres ont été transférés dans le patrimoine fiduciaire dans les conditions prévues à l'article
 
-à l'article 238 quater N, à partir de la date d'acquisition ou de souscription des actions, parts, droits ou titres par le constituant ;
+238 quater N, à partir de la date d'acquisition ou de souscription des actions, parts, droits ou titres par le constituant ;
 
 
 
@@ -28982,21 +29580,21 @@ même article 238 quater N, à partir de la date d'acquisition ou de souscriptio
 
 
 
-b) Lorsque le cédant n'est pas le constituant initial de la fiducie, à partir de la date d'acquisition de droits représentatifs des
+b) Lorsque le cédant n'est pas le constituant initial de la fiducie, à partir de la date d'acquisition de droits représentatifs des biens
 
-biens ou droits du patrimoine fiduciaire si les actions, parts, droits ou titres cédés figuraient dans le patrimoine fiduciaire lors de
+ou droits du patrimoine fiduciaire si les actions, parts, droits ou titres cédés figuraient dans le patrimoine fiduciaire lors de
 
-l'acquisition de ces droits, à partir de la date d'acquisition ou de souscription des actions, parts, droits ou titres par la fiducie
+l'acquisition de ces droits, à partir de la date d'acquisition ou de souscription des actions, parts, droits ou titres par la fiducie dans
 
-dans les autres situations.
+les autres situations.
 
 
 
 7° En cas de cession d'actions gratuites attribuées dans les conditions définies aux articles L. 225-197-1 à L. 225-197-5, L. 22-
 
-10-59 et L. 22-10-60 du code de commerce, à partir de la date d'acquisition prévue au sixième alinéa du I de l'article L. 225-
+10-59 et L. 22-10-60 du code de commerce, à partir de la date d'acquisition prévue au sixième alinéa du I de l'article L. 225-197-
 
-197-1 du code de commerce ;
+1 du code de commerce ;
 
 
 
@@ -29004,47 +29602,47 @@ dans les autres situations.
 
 d'investissement à capital variable créés dans le cadre d'une scission réalisée en application des articles L. 214-7-4, L. 214-8-7,
 
-L. 214-24-33 et L. 214-24-41 du code monétaire et financier, en cas de dissolution de ce fonds ou de cette société ainsi que
+L. 214-24-33 et L. 214-24-41 du code monétaire et financier, en cas de dissolution de ce fonds ou de cette société ainsi que pour
 
-pour les distributions mentionnées aux 7 et 7 bis ainsi qu'aux deux derniers alinéas du 8 du II de l'article 150-0 A du présent
+les distributions mentionnées aux 7 et 7 bis ainsi qu'aux deux derniers alinéas du 8 du II de l'article 150-0 A du présent code, à
 
-code, à partir de la date d'acquisition ou de souscription des parts ou actions de l'ancien fonds commun de placement ou de
+partir de la date d'acquisition ou de souscription des parts ou actions de l'ancien fonds commun de placement ou de l'ancienne
 
-l'ancienne société d'investissement à capital variable.
+société d'investissement à capital variable.
 
 
 
 En cas de cessions antérieures de titres ou droits de la société concernée pour lesquels le gain net a été déterminé en retenant
 
-un prix d'acquisition calculé suivant la règle de la valeur moyenne pondérée d'acquisition prévue au premier alinéa du 3, le
+un prix d'acquisition calculé suivant la règle de la valeur moyenne pondérée d'acquisition prévue au premier alinéa du 3, le nombre
 
-nombre de titres ou droits cédés antérieurement est réputé avoir été prélevé en priorité sur les titres ou droits acquis ou
+de titres ou droits cédés antérieurement est réputé avoir été prélevé en priorité sur les titres ou droits acquis ou souscrits aux
 
-souscrits aux dates les plus anciennes.
-
-
-
-Pour les distributions mentionnées aux 7,7 bis et aux deux derniers alinéas du 8 du II de l'article 150-0 A, à l'article 150-0 F et
-
-au 1 du II de l'article 163 quinquies C, la durée de détention est décomptée à partir de la date d'acquisition ou de souscription
-
-des titres du fonds, de l'entité ou de la société de capital-risque concerné, sous réserve du 8° du présent 1 quinquies.
+dates les plus anciennes.
 
 
 
-Pour l'application du dernier alinéa du A du 1 ter, en cas de cession à titre onéreux ou de rachat de parts ou d'actions
+Pour les distributions mentionnées aux 7,7 bis et aux deux derniers alinéas du 8 du II de l'article 150-0 A, à l'article 150-0 F et au
 
-d'organismes de placement collectif en valeurs mobilières ou de placements collectifs, constitués avant le 1er janvier 2014, ou
+1 du II de l'article 163 quinquies C, la durée de détention est décomptée à partir de la date d'acquisition ou de souscription des
 
-en cas de distributions effectuées par de tels organismes, la durée de détention est décomptée :
+titres du fonds, de l'entité ou de la société de capital-risque concerné, sous réserve du 8° du présent 1 quinquies.
+
+
+
+Pour l'application du dernier alinéa du A du 1 ter, en cas de cession à titre onéreux ou de rachat de parts ou d'actions d'organismes
+
+de placement collectif en valeurs mobilières ou de placements collectifs, constitués avant le 1er janvier 2014, ou en cas de
+
+distributions effectuées par de tels organismes, la durée de détention est décomptée :
 
 
 
 – à partir de la date de souscription ou d'acquisition de ces parts ou actions, lorsque les parts ou actions ont été souscrites ou
 
-acquises à une date où l'organisme respecte le quota d'investissement mentionné aux quatrième et cinquième alinéas du
+acquises à une date où l'organisme respecte le quota d'investissement mentionné aux quatrième et cinquième alinéas du même
 
-même A du 1 ter ;
+A du 1 ter ;
 
 
 
@@ -29090,11 +29688,11 @@ but à titre onéreux, augmenté, s'il y a lieu, de la somme versée par le sous
 
 
 
-4\. Pour l'ensemble des titres admis aux négociations sur un marché réglementé acquis avant le 1er janvier 1979, le
+4\. Pour l'ensemble des titres admis aux négociations sur un marché réglementé acquis avant le 1er janvier 1979, le contribuable
 
-contribuable peut retenir, comme prix d'acquisition, le cours au comptant le plus élevé de l'année 1978.
+peut retenir, comme prix d'acquisition, le cours au comptant le plus élevé de l'année 1978.
 
-124
+129
 
 
 
@@ -29104,31 +29702,31 @@ ces titres pendant l'année 1972.
 
 
 
-Ces dispositions ne sont pas applicables lorsque la cession porte sur des droits sociaux qui, détenus directement ou
+Ces dispositions ne sont pas applicables lorsque la cession porte sur des droits sociaux qui, détenus directement ou indirectement
 
-indirectement dans les bénéfices sociaux par le cédant ou son conjoint, leurs ascendants et leurs descendants, ont dépassé
+dans les bénéfices sociaux par le cédant ou son conjoint, leurs ascendants et leurs descendants, ont dépassé ensemble 25 %
 
-ensemble 25 % de ces bénéfices à un moment quelconque au cours des cinq dernières années. Pour ces droits, le contribuable
+de ces bénéfices à un moment quelconque au cours des cinq dernières années. Pour ces droits, le contribuable peut substituer
 
-peut substituer au prix d'acquisition la valeur de ces droits au 1er janvier 1949 si elle est supérieure.
-
-
-
-5\. En cas de cession de titres après la clôture d'un plan d'épargne en actions défini à l'article 163 quinquies D ou leur retrait
-
-dudit plan, le prix d'acquisition est réputé égal à leur valeur à la date où le cédant a cessé de bénéficier, pour ces titres, des
-
-avantages prévus aux 5° bis et 5° ter de l'article 157.
+au prix d'acquisition la valeur de ces droits au 1er janvier 1949 si elle est supérieure.
 
 
 
-6\. Le gain net réalisé depuis l'ouverture d'un plan d'épargne en actions défini à l'article 163 quinquies D s'entend de la
+5\. En cas de cession de titres après la clôture d'un plan d'épargne en actions défini à l'article 163 quinquies D ou leur retrait dudit
 
-différence entre la valeur liquidative du plan ou la valeur de rachat pour les contrats de capitalisation à la date du retrait et le
+plan, le prix d'acquisition est réputé égal à leur valeur à la date où le cédant a cessé de bénéficier, pour ces titres, des avantages
 
-montant des versements effectués sur le plan depuis la date de son ouverture, à l'exception de ceux afférents aux retraits ou
+prévus aux 5° bis et 5° ter de l'article 157.
 
-rachats n'ayant pas entraîné la clôture du plan.
+
+
+6\. Le gain net réalisé depuis l'ouverture d'un plan d'épargne en actions défini à l'article 163 quinquies D s'entend de la différence
+
+entre la valeur liquidative du plan ou la valeur de rachat pour les contrats de capitalisation à la date du retrait et le montant des
+
+versements effectués sur le plan depuis la date de son ouverture, à l'exception de ceux afférents aux retraits ou rachats n'ayant
+
+pas entraîné la clôture du plan.
 
 
 
@@ -29138,19 +29736,19 @@ au comptant de ces titres précédant l'expiration de cet engagement.
 
 
 
-8\. Pour les actions acquises dans les conditions prévues aux articles L. 225-177 à L. 225-186, L. 22-10-56 et L. 22-10-57 du
+8\. Pour les actions acquises dans les conditions prévues aux articles L. 225-177 à L. 225-186, L. 22-10-56 et L. 22-10-57 du code
 
-code de commerce, le prix d'acquisition des titres à retenir par le cessionnaire pour la détermination du gain net est le prix de
+de commerce, le prix d'acquisition des titres à retenir par le cessionnaire pour la détermination du gain net est le prix de
 
 souscription ou d'achat des actions augmenté de l'avantage défini à l'article 80 bis du présent code.
 
 
 
-8 bis. En cas de cession de parts ou actions acquises dans le cadre d'une opération mentionnée au 4 de l'article L. 313-7 du
+8 bis. En cas de cession de parts ou actions acquises dans le cadre d'une opération mentionnée au 4 de l'article L. 313-7 du code
 
-code monétaire et financier, le prix d'acquisition à retenir est égal au prix convenu pour l'acceptation de la promesse unilatérale
+monétaire et financier, le prix d'acquisition à retenir est égal au prix convenu pour l'acceptation de la promesse unilatérale de
 
-de vente compte non tenu des sommes correspondant aux versements effectués à titre de loyers.
+vente compte non tenu des sommes correspondant aux versements effectués à titre de loyers.
 
 
 
@@ -29162,13 +29760,13 @@ ou la valeur d'acquisition ou de souscription des titres rachetés.
 
 9\. En cas de vente ultérieure ou de rachat mentionné au 6 du II de l'article 150-0 A de titres reçus à l'occasion d'une opération
 
-mentionnée à l'article 150-0 B, au quatrième alinéa de l'article 150 A bis en vigueur avant la publication de la loi de finances
+mentionnée à l'article 150-0 B, au quatrième alinéa de l'article 150 A bis en vigueur avant la publication de la loi de finances pour
 
-pour 2004 (n° 2003-1311 du 30 décembre 2003) et au II de l'article 150 UB le gain net est calculé à partir du prix ou de la valeur
+2004 (n° 2003-1311 du 30 décembre 2003) et au II de l'article 150 UB le gain net est calculé à partir du prix ou de la valeur
 
-d'acquisition des titres échangés, diminué du montant de la soulte reçue, qui n'a pas fait l'objet d'une imposition au titre de
+d'acquisition des titres échangés, diminué du montant de la soulte reçue, qui n'a pas fait l'objet d'une imposition au titre de l'année
 
-l'année de l'échange, ou majoré de la soulte versée lors de cet échange.
+de l'échange, ou majoré de la soulte versée lors de cet échange.
 
 
 
@@ -29176,9 +29774,9 @@ l'année de l'échange, ou majoré de la soulte versée lors de cet échange.
 
 professionnels spécialisés relevant de l'article L. 214-37 du code monétaire et financier dans sa rédaction antérieure à
 
-l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs ou de fonds professionnels de
+l'ordonnance n° 2013-676 du 25 juillet 2013 modifiant le cadre juridique de la gestion d'actifs ou de fonds professionnels de capital
 
-capital investissement pour lesquelles le contribuable a perçu une distribution mentionnée au 7 du II de l'article 150-0 A, le prix
+investissement pour lesquelles le contribuable a perçu une distribution mentionnée au 7 du II de l'article 150-0 A, le prix
 
 d'acquisition ou de souscription est diminué à concurrence du montant des sommes ou valeurs ainsi distribuées qui n'a pas été
 
@@ -29190,11 +29788,11 @@ imposé en application du même 7.
 
 conformément à la réglementation en vigueur, les gains nets résultant de la cession ou du rachat des parts reçues en échange
 
-ou de la dissolution du fonds absorbant sont réputés être constitués par la différence entre le prix effectif de cession ou de
+ou de la dissolution du fonds absorbant sont réputés être constitués par la différence entre le prix effectif de cession ou de rachat
 
-rachat des parts reçues en échange, net des frais et taxes acquittés par le cédant, et le prix de souscription ou d'achat des
+des parts reçues en échange, net des frais et taxes acquittés par le cédant, et le prix de souscription ou d'achat des actions de la
 
-actions de la société d'investissement à capital variable absorbée remises à l'échange.
+société d'investissement à capital variable absorbée remises à l'échange.
 
 
 
@@ -29202,29 +29800,27 @@ actions de la société d'investissement à capital variable absorbée remises �
 
 communs de placement ou sociétés d'investissement à capital variable issus d'une scission réalisée en application des articles
 
-L. 214-7-4, L. 214-8-7, L. 214-24-33 et L. 214-24-41 du code monétaire et financier, le prix d'acquisition est déterminé en
+L. 214-7-4, L. 214-8-7, L. 214-24-33 et L. 214-24-41 du code monétaire et financier, le prix d'acquisition est déterminé en retenant
 
-retenant le prix ou la valeur d'acquisition des actions ou parts de l'entité dont l'actif a été scindé, dans le rapport existant entre la
+le prix ou la valeur d'acquisition des actions ou parts de l'entité dont l'actif a été scindé, dans le rapport existant entre la valeur
 
-valeur liquidative de chacune des entités issues de la scission à la date de cette dernière et la somme arithmétique desdites
+liquidative de chacune des entités issues de la scission à la date de cette dernière et la somme arithmétique desdites valeurs
 
-valeurs liquidatives.
+liquidatives.
 
 
 
 11\. Les moins-values subies au cours d'une année sont imputées exclusivement sur les plus-values de même nature, retenues
 
-pour leur montant brut avant application, le cas échéant, des abattements mentionnés aux 1 ter ou 1 quater du présent article
+pour leur montant brut avant application, le cas échéant, des abattements mentionnés aux 1 ter ou 1 quater du présent article ou
 
-ou à l'article 150-0 D ter, imposables au titre de la même année.
+à l'article 150-0 D ter, imposables au titre de la même année.
 
 
 
 En cas de solde positif, les plus-values subsistantes sont réduites, le cas échéant, des moins-values de même nature subies au
 
-titre des années antérieures jusqu'à la dixième inclusivement, puis des abattements mentionnés au premier alinéa du présent
-
-11.
+titre des années antérieures jusqu'à la dixième inclusivement, puis des abattements mentionnés au premier alinéa du présent 11.
 
 
 
@@ -29240,31 +29836,31 @@ dans les conditions mentionnées au 11, l'année au cours de laquelle intervient
 
 exécution d'un plan de redressement mentionné à l'article L. 631-19 du code de commerce, soit la cession de l'entreprise
 
-125
+ordonnée par le tribunal en application de l'article L. 631-22 de ce code, soit le jugement de clôture de la liquidation judiciaire, soit
+
+130
 
 
 
-ordonnée par le tribunal en application de l'article L. 631-22 de ce code, soit le jugement de clôture de la liquidation judiciaire,
+la réduction totale du capital de la société en application du deuxième alinéa des articles L. 223-42 ou L. 225-248 dudit code dès
 
-soit la réduction totale du capital de la société en application du deuxième alinéa des articles L. 223-42 ou L. 225-248 dudit
-
-code dès lors que les pertes sont égales ou supérieures aux capitaux propres.
+lors que les pertes sont égales ou supérieures aux capitaux propres.
 
 
 
-Par exception aux dispositions du premier alinéa, préalablement à l'annulation des titres, les pertes sur valeurs mobilières,
+Par exception aux dispositions du premier alinéa, préalablement à l'annulation des titres, les pertes sur valeurs mobilières, droits
 
-droits sociaux ou titres assimilés peuvent, sur option expresse du détenteur, être imputées dans les conditions prévues au 11, à
+sociaux ou titres assimilés peuvent, sur option expresse du détenteur, être imputées dans les conditions prévues au 11, à compter
 
-compter de l'année au cours de laquelle intervient le jugement ordonnant la cession de l'entreprise en application de l'article L.
+de l'année au cours de laquelle intervient le jugement ordonnant la cession de l'entreprise en application de l'article L. 631-22 du
 
-631-22 du code de commerce, en l'absence de tout plan de continuation, ou prononçant sa liquidation judiciaire. L'option porte
+code de commerce, en l'absence de tout plan de continuation, ou prononçant sa liquidation judiciaire. L'option porte sur l'ensemble
 
-sur l'ensemble des valeurs mobilières, droits sociaux ou titres assimilés détenus dans la société faisant l'objet de la procédure
+des valeurs mobilières, droits sociaux ou titres assimilés détenus dans la société faisant l'objet de la procédure collective. En cas
 
-collective. En cas d'infirmation du jugement ou de résolution du plan de cession, la perte imputée ou reportée est reprise au titre
+d'infirmation du jugement ou de résolution du plan de cession, la perte imputée ou reportée est reprise au titre de l'année au cours
 
-de l'année au cours de laquelle intervient cet événement.
+de laquelle intervient cet événement.
 
 
 
@@ -29326,9 +29922,9 @@ diminué du montant du versement effectué par le cédant en exécution de la cl
 
 s'engage à reverser au cessionnaire tout ou partie du prix de cession en cas de révélation, dans les comptes de la société dont
 
-les titres sont l'objet du contrat, d'une dette ayant son origine antérieurement à la cession ou d'une surestimation de valeurs
+les titres sont l'objet du contrat, d'une dette ayant son origine antérieurement à la cession ou d'une surestimation de valeurs d'actif
 
-d'actif figurant au bilan de cette même société à la date de la cession.
+figurant au bilan de cette même société à la date de la cession.
 
 
 
@@ -29376,11 +29972,11 @@ a. Leur nature est en relation directe avec l'investissement financé ;
 
 b. Leur montant sur la durée de vie de l'emprunt n'excède pas 5 % du prix d'émission.
 
-126
-
 
 
 4° Les pensions, prestations et allocations affranchies de l'impôt en vertu de l'article 81 ;
+
+131
 
 
 
@@ -29390,31 +29986,31 @@ b. Leur montant sur la durée de vie de l'emprunt n'excède pas 5 % du prix d'é
 
 5° bis Sous réserve des dispositions du 5 de l'article 200 A, les produits et plus-values que procurent les placements effectués
 
-dans le cadre d'un plan d'épargne en actions défini à l'article 163 quinquies D ; toutefois, les produits procurés par des
+dans le cadre d'un plan d'épargne en actions défini à l'article 163 quinquies D ; toutefois, les produits procurés par des placements
 
-placements effectués en actions ou parts de sociétés qui ne sont pas admises aux négociations sur un marché réglementé, au
+effectués en actions ou parts de sociétés qui ne sont pas admises aux négociations sur un marché réglementé, au sens des
 
-sens des articles L. 421-1 ou L. 422-1 du code monétaire et financier, ou sur un système multilatéral de négociation, au sens
+articles L. 421-1 ou L. 422-1 du code monétaire et financier, ou sur un système multilatéral de négociation, au sens des articles L.
 
-des articles L. 424-1 ou L. 424-9 du même code à l'exception des intérêts versés dans les conditions prévues à l'article 14 de la
+424-1 ou L. 424-9 du même code à l'exception des intérêts versés dans les conditions prévues à l'article 14 de la loi n° 47-1775 du
 
-loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération aux titres de capital de sociétés régies par cette loi et de
+10 septembre 1947 portant statut de la coopération aux titres de capital de sociétés régies par cette loi et de la rémunération des
 
-la rémunération des certificats mutualistes et paritaires versée dans les conditions prévues au V de l'article L. 322-26-8 du code
+certificats mutualistes et paritaires versée dans les conditions prévues au V de l'article L. 322-26-8 du code des assurances, au
 
-des assurances, au IV de l'article L. 221-19 du code de la mutualité ou au IV de l'article L. 931-15-1 du code de la sécurité
+IV de l'article L. 221-19 du code de la mutualité ou au IV de l'article L. 931-15-1 du code de la sécurité sociale, ou effectués en
 
-sociale, ou effectués en obligations remboursables en actions lorsque ces obligations ne sont pas admises aux négociations sur
+obligations remboursables en actions lorsque ces obligations ne sont pas admises aux négociations sur ces mêmes marchés ou
 
-ces mêmes marchés ou systèmes ou sont remboursables en actions qui ne sont pas admises aux négociations sur lesdits
+systèmes ou sont remboursables en actions qui ne sont pas admises aux négociations sur lesdits marchés ou systèmes, ne
 
-marchés ou systèmes, ne bénéficient de cette exonération que dans la limite de 10 % du montant de ces placements. De
+bénéficient de cette exonération que dans la limite de 10 % du montant de ces placements. De même, les plus-values procurées
 
-même, les plus-values procurées par des placements effectués en obligations remboursables en actions mentionnées à la
+par des placements effectués en obligations remboursables en actions mentionnées à la première phrase du présent 5° bis lors
 
-première phrase du présent 5° bis lors de la cession ou du retrait desdites obligations ou des actions reçues en remboursement
+de la cession ou du retrait desdites obligations ou des actions reçues en remboursement de celles-ci ne bénéficient de cette
 
-de celles-ci ne bénéficient de cette exonération que dans la limite du double du montant de ce placement ;
+exonération que dans la limite du double du montant de ce placement ;
 
 
 
@@ -29430,9 +30026,9 @@ affaires sociales ;
 
 
 
-7° Les intérêts des sommes inscrites sur les livrets A, ainsi que ceux des sommes inscrites sur les comptes spéciaux sur livret
+7° Les intérêts des sommes inscrites sur les livrets A, ainsi que ceux des sommes inscrites sur les comptes spéciaux sur livret du
 
-du Crédit mutuel ouverts avant le 1er janvier 2009 ;
+Crédit mutuel ouverts avant le 1er janvier 2009 ;
 
 
 
@@ -29468,11 +30064,11 @@ articles L. 221-24 à L. 221-26 du code monétaire et financier ;
 
 
 
-9° bis Les intérêts des sommes inscrites sur les comptes d'épargne-logement ouverts jusqu'au 31 décembre 2017 en
+9° bis Les intérêts des sommes inscrites sur les comptes d'épargne-logement ouverts jusqu'au 31 décembre 2017 en application
 
-application des articles L. 315-1 à L. 315-6 du code de la construction et de l'habitation ainsi que la prime d'épargne versée aux
+des articles L. 315-1 à L. 315-6 du code de la construction et de l'habitation ainsi que la prime d'épargne versée aux titulaires de
 
-titulaires de ces comptes ;
+ces comptes ;
 
 
 
@@ -29484,9 +30080,9 @@ jusqu'à leur date d'échéance ;
 
 
 
-9° ter Les intérêts versés au titulaire du compte d'épargne sur livret ouvert en application de l'article 80 de la loi n° 76-1232 du
+9° ter Les intérêts versés au titulaire du compte d'épargne sur livret ouvert en application de l'article 80 de la loi n° 76-1232 du 29
 
-29 décembre 1976 :
+décembre 1976 :
 
 
 
@@ -29504,9 +30100,9 @@ c) aux aides familiaux et associés d'exploitation de l'artisanat.
 
 
 
-Il en est de même de la prime versée au travailleur manuel qui procède effectivement à la création ou au rachat d'une
+Il en est de même de la prime versée au travailleur manuel qui procède effectivement à la création ou au rachat d'une entreprise
 
-entreprise artisanale ;
+artisanale ;
 
 
 
@@ -29518,11 +30114,11 @@ conditions et limites prévues à l'article L. 221-27 du code monétaire et fina
 
 9° quinquies (Abrogé).
 
-127
-
 
 
 9° sexies (abrogé)
+
+132
 
 
 
@@ -29606,9 +30202,9 @@ capitalisés lorsque le retrait intervient à compter du 1er janvier 1996 et est
 
 
 
-a. soit par les titulaires de plan justifiant qu'ils remplissent les conditions requises pour bénéficier du droit à la prime d'épargne
+a. soit par les titulaires de plan justifiant qu'ils remplissent les conditions requises pour bénéficier du droit à la prime d'épargne au
 
-au cours de l'une des années de la durée du plan ;
+cours de l'une des années de la durée du plan ;
 
 
 
@@ -29618,21 +30214,21 @@ premier retrait intervenant avant le 1er octobre 1996.
 
 
 
-Le produit attaché à chaque retrait, y compris le retrait mentionné au b, est déterminé par différence entre, d'une part, le
+Le produit attaché à chaque retrait, y compris le retrait mentionné au b, est déterminé par différence entre, d'une part, le montant
 
-montant du retrait et, d'autre part, les sommes ou primes versées qui n'ont pas déjà fait l'objet d'un retrait, retenues au prorata
+du retrait et, d'autre part, les sommes ou primes versées qui n'ont pas déjà fait l'objet d'un retrait, retenues au prorata des sommes
 
-des sommes retirées sur la valeur totale du contrat à la date du retrait.
+retirées sur la valeur totale du contrat à la date du retrait.
 
 
 
-Le retrait partiel ou total de fonds ne remet en cause, le cas échéant, pour les versements effectués avant le 1er janvier 1996
+Le retrait partiel ou total de fonds ne remet en cause, le cas échéant, pour les versements effectués avant le 1er janvier 1996 ou
 
-ou pour ceux effectués à compter de cette date et avant le 1er janvier de l'année qui précède celle du retrait, ni les réductions
+pour ceux effectués à compter de cette date et avant le 1er janvier de l'année qui précède celle du retrait, ni les réductions d'impôt
 
-d'impôt au titre des versements qui ont été employés à une opération d'assurance sur la vie conformément à l'article 199
+au titre des versements qui ont été employés à une opération d'assurance sur la vie conformément à l'article 199 septies, ni le
 
-septies, ni le droit à la prime d'épargne.
+droit à la prime d'épargne.
 
 
 
@@ -29656,11 +30252,11 @@ intermédiaires.
 
 23° (Abrogé).
 
-128
-
 
 
 Article 200 A
+
+133
 
 
 
@@ -29678,19 +30274,19 @@ A. Pour l'application du premier alinéa du présent 1, sont soumis à l'imposit
 
 
 
-1° Les revenus de capitaux mobiliers mentionnés au VII de la 1ère sous-section de la section II du présent chapitre, à
+1° Les revenus de capitaux mobiliers mentionnés au VII de la 1ère sous-section de la section II du présent chapitre, à l'exception
 
-l'exception des revenus expressément exonérés de l'impôt en vertu des articles 125-0 A, 155 B, 157 et 163 quinquies B à 163
+des revenus expressément exonérés de l'impôt en vertu des articles 125-0 A, 155 B, 157 et 163 quinquies B à 163 quinquies C
 
-quinquies C bis, des produits des bons ou contrats de capitalisation ou placements de même nature mentionnés au 6° de
+bis, des produits des bons ou contrats de capitalisation ou placements de même nature mentionnés au 6° de l'article 120 et au
 
-l'article 120 et au 1° du I de l'article 125-0 A, attachés à des primes versées jusqu'au 26 septembre 2017, ainsi que des revenus
+1° du I de l'article 125-0 A, attachés à des primes versées jusqu'au 26 septembre 2017, ainsi que des revenus qui sont pris en
 
-qui sont pris en compte pour la détermination du bénéfice imposable d'une entreprise industrielle, commerciale, artisanale ou
+compte pour la détermination du bénéfice imposable d'une entreprise industrielle, commerciale, artisanale ou agricole, ou d'une
 
-agricole, ou d'une profession non commerciale. Sont également soumis à l'imposition forfaitaire les produits mentionnés au 5 de
+profession non commerciale. Sont également soumis à l'imposition forfaitaire les produits mentionnés au 5 de l'article 13 qui se
 
-l'article 13 qui se rattachent à la catégorie des revenus de capitaux mobiliers.
+rattachent à la catégorie des revenus de capitaux mobiliers.
 
 
 
@@ -29708,17 +30304,17 @@ les conditions prévues par les conventions internationales.
 
 
 
-Pour l'application des deuxième et troisième alinéas du présent 1°, lorsque les revenus sont de la nature de ceux mentionnés
+Pour l'application des deuxième et troisième alinéas du présent 1°, lorsque les revenus sont de la nature de ceux mentionnés au
 
-au 2° du 7 de l'article 158, leur montant brut est multiplié par 1,25 ;
+2° du 7 de l'article 158, leur montant brut est multiplié par 1,25 ;
 
 
 
 2° Les gains nets, profits, distributions, plus-values et créances mentionnés aux 1° à 6° du 6 bis de l'article 158, déterminés
 
-conformément à ces mêmes dispositions. Toutefois, pour l'établissement de l'imposition forfaitaire mentionnée au premier
+conformément à ces mêmes dispositions. Toutefois, pour l'établissement de l'imposition forfaitaire mentionnée au premier alinéa
 
-alinéa du présent 1, il n'est pas fait application de l'abattement mentionné aux 1 ter ou 1 quater de l'article 150-0 D.
+du présent 1, il n'est pas fait application de l'abattement mentionné aux 1 ter ou 1 quater de l'article 150-0 D.
 
 
 
@@ -29726,11 +30322,11 @@ B. 1° Le taux forfaitaire mentionné au premier alinéa du présent 1 est fixé
 
 
 
-2° Par dérogation au 1° du présent B, lorsque les conditions d'application du b du 2 du II de l'article 125-0 A sont remplies, le
+2° Par dérogation au 1° du présent B, lorsque les conditions d'application du b du 2 du II de l'article 125-0 A sont remplies, le taux
 
-taux prévu au même b est appliqué aux produits des bons ou contrats de capitalisation et placements de même nature
+prévu au même b est appliqué aux produits des bons ou contrats de capitalisation et placements de même nature mentionnés au
 
-mentionnés au I de l'article 125-0 A et au II de l'article 125 D attachés à des primes versées à compter du 27 septembre 2017 :
+I de l'article 125-0 A et au II de l'article 125 D attachés à des primes versées à compter du 27 septembre 2017 :
 
 
 
@@ -29740,11 +30336,11 @@ rattachent ces produits ainsi que sur les autres bons ou contrats ou placements 
 
 et qui, au 31 décembre de l'année qui précède le fait générateur d'imposition des produits concernés, n'ont pas déjà fait l'objet
 
-d'un remboursement en capital, n'excède pas le seuil de 150 000 €. Pour l'application du présent alinéa, en cas de
+d'un remboursement en capital, n'excède pas le seuil de 150 000 €. Pour l'application du présent alinéa, en cas de démembrement
 
-démembrement de propriété du bon ou contrat, les primes versées sur ce bon ou contrat ne sont prises en compte que pour la
+de propriété du bon ou contrat, les primes versées sur ce bon ou contrat ne sont prises en compte que pour la détermination du
 
-détermination du seuil applicable à l'usufruitier ;
+seuil applicable à l'usufruitier ;
 
 
 
@@ -29754,11 +30350,11 @@ ces produits déterminée en multipliant le montant total desdits produits par l
 
 
 
-- au numérateur, le montant de 150 000 € réduit, le cas échéant, du montant des primes versées antérieurement au 27
+- au numérateur, le montant de 150 000 € réduit, le cas échéant, du montant des primes versées antérieurement au 27 septembre
 
-septembre 2017 et qui, au 31 décembre de l'année qui précède le fait générateur d'imposition des produits concernés, n'ont pas
+2017 et qui, au 31 décembre de l'année qui précède le fait générateur d'imposition des produits concernés, n'ont pas déjà fait
 
-déjà fait l'objet d'un remboursement en capital ;
+l'objet d'un remboursement en capital ;
 
 
 
@@ -29774,21 +30370,17 @@ alinéa est imposable au taux mentionné au 1° du présent B ;
 
 
 
-3° Lorsque les conditions d'application du b du 2 du II de l'article 125-0 A ne sont pas remplies, les produits mentionnés au 2°
+3° Lorsque les conditions d'application du b du 2 du II de l'article 125-0 A ne sont pas remplies, les produits mentionnés au 2° du
 
-du présent B attachés à des primes versées à compter du 27 septembre 2017 sont soumis au taux mentionné au 1° du présent
-
-B.
+présent B attachés à des primes versées à compter du 27 septembre 2017 sont soumis au taux mentionné au 1° du présent B.
 
 
 
-2\. Par dérogation au 1, sur option expresse et irrévocable du contribuable, l'ensemble des revenus, gains nets, profits, plus-
+2\. Par dérogation au 1, sur option expresse et irrévocable du contribuable, l'ensemble des revenus, gains nets, profits, plus-values
 
-values et créances mentionnés à ce même 1 est retenu dans l'assiette du revenu net global défini à l'article 158. Cette option
+et créances mentionnés à ce même 1 est retenu dans l'assiette du revenu net global défini à l'article 158. Cette option globale est
 
-globale est exercée lors du dépôt de la déclaration prévue à l'article 170, et au plus tard avant l'expiration de la date limite de
-
-déclaration.
+exercée lors du dépôt de la déclaration prévue à l'article 170, et au plus tard avant l'expiration de la date limite de déclaration.
 
 
 
@@ -29806,13 +30398,13 @@ comme suit :
 
 déterminé conformément au A du IV de l'article 10 de la loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013 ;
 
-129
-
 
 
 2° Le taux applicable aux plus-values résultant d'opérations d'apport réalisées entre le 1er janvier 2013 et le 31 décembre 2017
 
 est égal au rapport entre les deux termes suivants :
+
+134
 
 
 
@@ -29820,17 +30412,17 @@ est égal au rapport entre les deux termes suivants :
 
 l'année de l'apport, de l'application de l'article 197 à la somme de l'ensemble des plus-values mentionnées au premier alinéa du
 
-présent 2° réalisées au titre de cette même année ainsi que des revenus imposés au titre de la même année dans les
+présent 2° réalisées au titre de cette même année ainsi que des revenus imposés au titre de la même année dans les conditions
 
-conditions de ce même article 197 et, d'autre part, le montant de l'impôt dû au titre de cette même année et établi dans les
+de ce même article 197 et, d'autre part, le montant de l'impôt dû au titre de cette même année et établi dans les conditions dudit
 
-conditions dudit article 197 ;
+article 197 ;
 
 
 
-- le dénominateur, constitué par l'ensemble des plus-values mentionnées au premier alinéa du présent 2° retenues au
+- le dénominateur, constitué par l'ensemble des plus-values mentionnées au premier alinéa du présent 2° retenues au deuxième
 
-deuxième alinéa du présent 2°.
+alinéa du présent 2°.
 
 
 
@@ -29844,11 +30436,11 @@ décembre 2017 ;
 
 3° Le taux applicable aux plus-values résultant d'opérations d'apport réalisées à compter du 1er janvier 2018 est égal à 12,8 %.
 
-Toutefois, lorsque l'option globale prévue au 2 est exercée par le contribuable, le taux applicable à ces plus-values est
+Toutefois, lorsque l'option globale prévue au 2 est exercée par le contribuable, le taux applicable à ces plus-values est déterminé
 
-déterminé suivant les mêmes modalités que celles prévues au 2° du présent a, compte tenu le cas échéant du seul abattement
+suivant les mêmes modalités que celles prévues au 2° du présent a, compte tenu le cas échéant du seul abattement mentionné
 
-mentionné aux 1 ter ou 1 quater de l'article 150-0 D.
+aux 1 ter ou 1 quater de l'article 150-0 D.
 
 
 
@@ -29884,11 +30476,11 @@ présent b.
 
 3\. L'avantage salarial mentionné au I de l'article 80 quaterdecies est retenu dans l'assiette du revenu net global défini à l'article
 
-158, après application d'un abattement de 50 % ou, le cas échéant, de l'abattement fixe prévu au 1 du I de l'article 150-0 D ter
+158, après application d'un abattement de 50 % ou, le cas échéant, de l'abattement fixe prévu au 1 du I de l'article 150-0 D ter et,
 
-et, pour le surplus éventuel, de l'abattement de 50 %. Pour l'application de ces dispositions, l'abattement fixe s'applique en
+pour le surplus éventuel, de l'abattement de 50 %. Pour l'application de ces dispositions, l'abattement fixe s'applique en priorité
 
-priorité sur le gain net mentionné au V de l'article 80 quaterdecies puis, pour le surplus éventuel, sur l'avantage salarial précité.
+sur le gain net mentionné au V de l'article 80 quaterdecies puis, pour le surplus éventuel, sur l'avantage salarial précité.
 
 
 
@@ -29918,19 +30510,19 @@ Article 1765
 
 Si l'une des conditions prévues pour l'application, selon le cas, des articles L. 221-30, L. 221-31 et L. 221-32 ou des articles L.
 
-221-32-1, L. 221-32-2 et L. 221-32-3 du code monétaire et financier n'est pas remplie, le plan est clos, dans les conditions
+221-32-1, L. 221-32-2 et L. 221-32-3 du code monétaire et financier n'est pas remplie, le plan est clos, dans les conditions définies
 
-définies au 2 du II de l'article 150-0 A et à l'article L. 221-32 du code monétaire et financier à la date où le manquement a été
+au 2 du II de l'article 150-0 A et à l'article L. 221-32 du code monétaire et financier à la date où le manquement a été commis et
 
-commis et les cotisations d'impôt résultant de cette clôture sont immédiatement exigibles.
+les cotisations d'impôt résultant de cette clôture sont immédiatement exigibles.
 
 
 
-Sans préjudice des dispositions prévues au premier alinéa du présent article, le titulaire du plan qui a sciemment contrevenu à
+Sans préjudice des dispositions prévues au premier alinéa du présent article, le titulaire du plan qui a sciemment contrevenu à la
 
-la condition prévue à la seconde phrase du dernier alinéa des articles L. 221-30 ou L. 221-32-1 du code monétaire et financier
+condition prévue à la seconde phrase du dernier alinéa des articles L. 221-30 ou L. 221-32-1 du code monétaire et financier est
 
-est passible d'une amende fiscale égale à 2 % du montant des versements surnuméraires.
+passible d'une amende fiscale égale à 2 % du montant des versements surnuméraires.
 
 
 
@@ -29940,8 +30532,6 @@ est passible d'une amende fiscale égale à 2 % du montant des versements surnum
 
 \* \*
 
-130
-
 
 
 ARTICLES L.221-32-1 ET S. DU CODE MONETAIRE ET FINANCIER RELATIFS AU PLAN D'ÉPARGNE EN ACTIONS
@@ -29950,19 +30540,21 @@ DESTINE AU FINANCEMENT DES PETITES ET MOYENNES ENTREPRISES ET DES ENTREPRISES DE
 
 INTERMEDIAIRE
 
+135
+
 
 
 Article L221-32-1
 
 
 
-Les contribuables dont le domicile fiscal est situé en France peuvent ouvrir un plan d'épargne en actions destiné au
+Les contribuables dont le domicile fiscal est situé en France peuvent ouvrir un plan d'épargne en actions destiné au financement
 
-financement des petites et moyennes entreprises et des entreprises de taille intermédiaire auprès d'un établissement de crédit,
+des petites et moyennes entreprises et des entreprises de taille intermédiaire auprès d'un établissement de crédit, de la Caisse
 
-de la Caisse des dépôts et consignations, de la Banque de France, de La Banque postale, d'une entreprise d'investissement ou
+des dépôts et consignations, de la Banque de France, de La Banque postale, d'une entreprise d'investissement ou d'une
 
-d'une entreprise d'assurance relevant du code des assurances.
+entreprise d'assurance relevant du code des assurances.
 
 
 
@@ -29974,9 +30566,9 @@ entreprises de taille intermédiaire. Un tel plan ne peut avoir qu'un titulaire.
 
 
 
-Le plan donne lieu à ouverture d'un compte de titres et d'un compte en espèces associés, ou, pour les plans ouverts auprès
+Le plan donne lieu à ouverture d'un compte de titres et d'un compte en espèces associés, ou, pour les plans ouverts auprès d'une
 
-d'une entreprise d'assurance, à signature d'un contrat de capitalisation.
+entreprise d'assurance, à signature d'un contrat de capitalisation.
 
 
 
@@ -30006,9 +30598,9 @@ sociétés et certificats coopératifs d'investissement ;
 
 
 
-b) Parts de sociétés à responsabilité limitée ou de sociétés dotées d'un statut équivalent et titres de capital de sociétés régies
+b) Parts de sociétés à responsabilité limitée ou de sociétés dotées d'un statut équivalent et titres de capital de sociétés régies par
 
-par la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération ;
+la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération ;
 
 
 
@@ -30070,9 +30662,9 @@ définies au 2, parmi lesquels au moins les deux tiers sont des titres mentionn�
 
 b) De parts de fonds communs de placement, autres que ceux mentionnés au d du présent 3, dont l'actif est constitué pour plus
 
-de 75 % de titres d'entreprises définies au 2, parmi lesquels au moins les deux tiers sont des titres mentionnés aux a, b et c du
+de 75 % de titres d'entreprises définies au 2, parmi lesquels au moins les deux tiers sont des titres mentionnés aux a, b et c du 1
 
-1 ;
+;
 
 
 
@@ -30080,15 +30672,15 @@ c) De parts ou actions d'organismes de placement collectif en valeurs mobilière
 
 européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une
 
-131
-
-
-
 convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, qui bénéficient de la procédure de
 
 reconnaissance mutuelle des agréments prévue par la directive 2009/65/ CE du Parlement européen et du Conseil du 13 juillet
 
 2009 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de
+
+136
+
+
 
 placement collectif en valeurs mobilières (OPCVM) (refonte) et dont l'actif est constitué pour plus de 75 % de titres d'entreprises
 
@@ -30104,11 +30696,11 @@ e) De parts ou actions de FIA mentionnés aux II ou III de l'article L. 214-24, 
 
 ELTIF " conformément au règlement (UE) n° 2015/760 du Parlement européen et du Conseil du 29 avril 2015 relatif aux fonds
 
-européens d'investissement à long terme, sous réserve que leurs actifs soient investis en permanence pour plus de 50 % en
+européens d'investissement à long terme, sous réserve que leurs actifs soient investis en permanence pour plus de 50 % en titres
 
-titres mentionnés aux a, b et c du 1 du présent article et qu'ils ne détiennent pas d'actifs immobiliers mentionnés aux 1° à 5° du I
+mentionnés aux a, b et c du 1 du présent article et qu'ils ne détiennent pas d'actifs immobiliers mentionnés aux 1° à 5° du I de
 
-de l'article L. 214-36 autres que des actifs physiques mentionnés au 6 de l'article 2 du même règlement.
+l'article L. 214-36 autres que des actifs physiques mentionnés au 6 de l'article 2 du même règlement.
 
 
 
